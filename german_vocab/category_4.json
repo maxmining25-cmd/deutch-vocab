@@ -1,0 +1,1653 @@
+{
+  "category": "Ressourcen, Budget & Finanzen",
+  "words": [
+    {
+      "word": "das Budget, die Budgets",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "бюджет",
+      "translation_en": "budget",
+      "examples": [
+        {
+          "de": "Wir müssen das Budget für das nächste Quartal festlegen.",
+          "ru": "Мы должны определить бюджет на следующий квартал."
+        },
+        {
+          "de": "Das Projekt hat ein begrenztes Budget.",
+          "ru": "Проект имеет ограниченный бюджет."
+        },
+        {
+          "de": "Wir haben das Budget um zehn Prozent überschritten.",
+          "ru": "Мы превысили бюджет на десять процентов."
+        },
+        {
+          "de": "Wer ist für die Freigabe des Budgets verantwortlich?",
+          "ru": "Кто отвечает за утверждение бюджета?"
+        },
+        {
+          "de": "Im agilen Projektmanagement wird das Budget oft flexibel angepasst.",
+          "ru": "В гибком управлении проектами бюджет часто адаптируется гибко."
+        }
+      ],
+      "synonyms": [
+        "Etat",
+        "Finanzmittel",
+        "Budgetierung"
+      ]
+    },
+    {
+      "word": "die Ressource, die Ressourcen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "ресурс",
+      "translation_en": "resource",
+      "examples": [
+        {
+          "de": "Wir müssen unsere Ressourcen effizienter nutzen.",
+          "ru": "Мы должны более эффективно использовать наши ресурсы."
+        },
+        {
+          "de": "Menschliche Ressourcen sind in diesem Projekt knapp.",
+          "ru": "Человеческие ресурсы в этом проекте ограничены."
+        },
+        {
+          "de": "Haben wir genügend Ressourcen für die Testphase?",
+          "ru": "У нас достаточно ресурсов для фазы тестирования?"
+        },
+        {
+          "de": "Die Zuteilung der Ressourcen erfolgt wöchentlich.",
+          "ru": "Распределение ресурсов происходит еженедельно."
+        },
+        {
+          "de": "Er plant die Ressourcen für das gesamte Team.",
+          "ru": "Он планирует ресурсы для всей команды."
+        }
+      ],
+      "synonyms": [
+        "Betriebsmittel",
+        "Hilfsmittel",
+        "Kapazitäten"
+      ]
+    },
+    {
+      "word": "der Aufwand, die Aufwände",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "затраты, трудозатраты, усилия",
+      "translation_en": "effort, expenditure",
+      "examples": [
+        {
+          "de": "Der Aufwand für diese Aufgabe wurde unterschätzt.",
+          "ru": "Трудозатраты на эту задачу были недооценены."
+        },
+        {
+          "de": "Wir wollen den Aufwand so gering wie möglich halten.",
+          "ru": "Мы хотим свести трудозатраты к минимуму."
+        },
+        {
+          "de": "Der zeitliche Aufwand ist sehr hoch.",
+          "ru": "Временные затраты очень высоки."
+        },
+        {
+          "de": "Steht der Ertrag in einem guten Verhältnis zum Aufwand?",
+          "ru": "Соотносится ли доход должным образом с затратами?"
+        },
+        {
+          "de": "Im Daily Standup besprechen wir den täglichen Aufwand.",
+          "ru": "На ежедневном стендапе мы обсуждаем ежедневные трудозатраты."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kosten (Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "расходы, затраты, стоимость",
+      "translation_en": "costs, expenses",
+      "examples": [
+        {
+          "de": "Die Kosten müssen genau überwacht werden.",
+          "ru": "Расходы необходимо тщательно отслеживать."
+        },
+        {
+          "de": "Wie hoch sind die laufenden Kosten des Projekts?",
+          "ru": "Каковы текущие расходы по проекту?"
+        },
+        {
+          "de": "Wir müssen versuchen, die Kosten zu senken.",
+          "ru": "Мы должны попытаться снизить затраты."
+        },
+        {
+          "de": "Die Kosten belaufen sich auf 50.000 Euro.",
+          "ru": "Расходы составляют 50 000 евро."
+        },
+        {
+          "de": "Zusätzliche Anforderungen erhöhen die Kosten.",
+          "ru": "Дополнительные требования увеличивают расходы."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Kostenplan, die Kostenpläne",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "смета расходов, план затрат",
+      "translation_en": "cost plan, budget plan",
+      "examples": [
+        {
+          "de": "Der Kostenplan muss dem Kunden vorgelegt werden.",
+          "ru": "План затрат должен быть представлен клиенту."
+        },
+        {
+          "de": "Wir müssen den Kostenplan aktualisieren.",
+          "ru": "Нам нужно обновить план затрат."
+        },
+        {
+          "de": "Entspricht das den Vorgaben im Kostenplan?",
+          "ru": "Соотвествует ли это требованиям в плане затрат?"
+        },
+        {
+          "de": "Der Kostenplan wurde vom Lenkungsausschuss genehmigt.",
+          "ru": "План затрат был утвержден руководящим комитетом."
+        },
+        {
+          "de": "Ohne einen detaillierten Kostenplan können wir nicht starten.",
+          "ru": "Без детального плана затрат мы не можем начать."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Zuweisung, die Zuweisungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "назначение, распределение, выделение",
+      "translation_en": "allocation, assignment",
+      "examples": [
+        {
+          "de": "Die Zuweisung der Aufgaben erfolgt im Jira-Board.",
+          "ru": "Назначение задач происходит на доске Jira."
+        },
+        {
+          "de": "Die Zuweisung von Budgetmitteln erfordert eine Genehmigung.",
+          "ru": "Выделение бюджетных средств требует одобрения."
+        },
+        {
+          "de": "Wir müssen die Zuweisung der Entwickler optimieren.",
+          "ru": "Мы должны оптимизировать распределение разработчиков."
+        },
+        {
+          "de": "Die automatische Zuweisung spart Zeit.",
+          "ru": "Автоматическое распределение экономит время."
+        },
+        {
+          "de": "Eine falsche Zuweisung führte zu Verzögerungen.",
+          "ru": "Неправильное распределение привело к задержкам."
+        }
+      ],
+      "synonyms": [
+        "Zuteilung",
+        "Zuordnung"
+      ]
+    },
+    {
+      "word": "der Engpass, die Engpässe",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "узкое место, дефицит, нехватка",
+      "translation_en": "bottleneck, shortage",
+      "examples": [
+        {
+          "de": "Wir haben einen Engpass bei den Entwicklern.",
+          "ru": "У нас нехватка разработчиков."
+        },
+        {
+          "de": "Dieser Engpass verzögert das gesamte Projekt.",
+          "ru": "Это узкое место задерживает весь проект."
+        },
+        {
+          "de": "Wie können wir diesen Engpass beseitigen?",
+          "ru": "Как мы можем устранить это узкое место?"
+        },
+        {
+          "de": "Der Engpass liegt derzeit in der Designabteilung.",
+          "ru": "Узкое место сейчас находится в отделе дизайна."
+        },
+        {
+          "de": "Wir müssen Engpässe frühzeitig erkennen und melden.",
+          "ru": "Мы должны выявлять дефицит на ранней стадии и сообщать о нем."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Ausgabe, die Ausgaben",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "расход, затрата",
+      "translation_en": "expense, expenditure",
+      "examples": [
+        {
+          "de": "Die Ausgaben müssen im System erfasst werden.",
+          "ru": "Расходы должны быть зафиксированы в системе."
+        },
+        {
+          "de": "Wir müssen unsere Ausgaben reduzieren.",
+          "ru": "Мы должны сократить наши расходы."
+        },
+        {
+          "de": "Welche Ausgaben sind für Softwarelizenzen geplant?",
+          "ru": "Какие расходы запланированы на лицензии на ПО?"
+        },
+        {
+          "de": "Die Ausgaben übersteigen unsere Einnahmen.",
+          "ru": "Расходы превышают наши доходы."
+        },
+        {
+          "de": "Alle Ausgaben müssen durch Belege nachgewiesen werden.",
+          "ru": "Все расходы должны быть подтверждены квитанциями."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Einnahme, die Einnahmen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "доход, поступления",
+      "translation_en": "revenue, income",
+      "examples": [
+        {
+          "de": "Das Projekt generiert bereits erste Einnahmen.",
+          "ru": "Проект уже приносит первые доходы."
+        },
+        {
+          "de": "Die Einnahmen liegen über den Erwartungen.",
+          "ru": "Доходы выше ожиданий."
+        },
+        {
+          "de": "Wir müssen die zukünftigen Einnahmen schätzen.",
+          "ru": "Мы должны оценить будущие доходы."
+        },
+        {
+          "de": "Die Einnahmen decken die laufenden Kosten nicht.",
+          "ru": "Поступления не покрывают текущие расходы."
+        },
+        {
+          "de": "Alle Einnahmen fließen in das Projektbudget zurück.",
+          "ru": "Все доходы возвращаются в бюджет проекта."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Puffer, die Puffer",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "буфер, резерв",
+      "translation_en": "buffer, contingency reserve",
+      "examples": [
+        {
+          "de": "Wir haben einen Puffer von zwei Wochen eingeplant.",
+          "ru": "Мы заложили буфер в две недели."
+        },
+        {
+          "de": "Der finanzielle Puffer schützt uns vor Risiken.",
+          "ru": "Финансовый буфер защищает нас от рисков."
+        },
+        {
+          "de": "Wir müssen den Puffer nutzen, um die Frist zu halten.",
+          "ru": "Мы должны использовать буфер, чтобы уложиться в срок."
+        },
+        {
+          "de": "Haben wir noch Puffer im Budget?",
+          "ru": "У нас еще остался резерв в бюджете?"
+        },
+        {
+          "de": "Ein Puffer ist für unvorhergesehene Ereignisse wichtig.",
+          "ru": "Резерв важен для непредвиденных событий."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kalkulation, die Kalkulationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "расчет, калькуляция, оценка",
+      "translation_en": "calculation, estimation",
+      "examples": [
+        {
+          "de": "Die Kalkulation der Projektkosten muss überprüft werden.",
+          "ru": "Расчет стоимости проекта должен быть проверен."
+        },
+        {
+          "de": "Unsere Kalkulation basiert auf Erfahrungswerten.",
+          "ru": "Наш расчет основан на эмпирических данных."
+        },
+        {
+          "de": "Bei der Kalkulation gab es einen Rechenfehler.",
+          "ru": "В расчетах была допущена арифметическая ошибка."
+        },
+        {
+          "de": "Eine präzise Kalkulation minimiert finanzielle Risiken.",
+          "ru": "Точный расчет сводит к минимуму финансовые риски."
+        },
+        {
+          "de": "Die Kalkulation für das Angebot ist fertig.",
+          "ru": "Калькуляция для коммерческого предложения готова."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Finanzierung, die Finanzierungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "финансирование",
+      "translation_en": "financing, funding",
+      "examples": [
+        {
+          "de": "Die Finanzierung des Projekts ist gesichert.",
+          "ru": "Финансирование проекта обеспечено."
+        },
+        {
+          "de": "Wir suchen noch nach einer Finanzierung für Phase zwei.",
+          "ru": "Мы все еще ищем финансирование для второй фазы."
+        },
+        {
+          "de": "Die Finanzierung erfolgt durch öffentliche Mittel.",
+          "ru": "Финансирование осуществляется за счет государственных средств."
+        },
+        {
+          "de": "Wer übernimmt die Finanzierung der zusätzlichen Features?",
+          "ru": "Кто берет на себя финансирование дополнительных функций?"
+        },
+        {
+          "de": "Der Finanzierungsplan wurde gestern verabschiedet.",
+          "ru": "План финансирования был принят вчера."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Sachmittel, die Sachmittel",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "материальные ресурсы, материальные средства",
+      "translation_en": "material resource, physical asset",
+      "examples": [
+        {
+          "de": "Neben Personal benötigen wir auch Sachmittel wie Laptops.",
+          "ru": "Помимо персонала нам также требуются материальные средства, такие как ноутбуки."
+        },
+        {
+          "de": "Die Kosten für Sachmittel sind gestiegen.",
+          "ru": "Расходы на материальные средства выросли."
+        },
+        {
+          "de": "Der Projektantrag enthält eine Liste aller benötigten Sachmittel.",
+          "ru": "Заявка на проект содержит список всех необходимых материальных ресурсов."
+        },
+        {
+          "de": "Wer verwaltet die Sachmittel im Projekt?",
+          "ru": "Кто ведет учет материальных ресурсов в проекте?"
+        },
+        {
+          "de": "Wir müssen Sachmittel rechtzeitig bestellen.",
+          "ru": "Мы должны своевременно заказывать материальные ресурсы."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Personalressource, die Personalressourcen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "кадры, человеческий ресурс",
+      "translation_en": "human resource, personnel resource",
+      "examples": [
+        {
+          "de": "Unsere Personalressourcen sind voll ausgelastet.",
+          "ru": "Наши кадры полностью загружены."
+        },
+        {
+          "de": "Wir müssen zusätzliche Personalressourcen anfordern.",
+          "ru": "Нам нужно запросить дополнительные человеческие ресурсы."
+        },
+        {
+          "de": "Die Planung der Personalressourcen ist eine Herausforderung.",
+          "ru": "Планирование кадров — это сложная задача."
+        },
+        {
+          "de": "Personalressourcen müssen flexibel eingesetzt werden.",
+          "ru": "Человеческие ресурсы должны использоваться гибко."
+        },
+        {
+          "de": "Eine Überlastung der Personalressourcen führt zu Burnout.",
+          "ru": "Перегрузка человеческих ресурсов ведет к выгоранию."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Stundensatz, die Stundensätze",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "почасовая ставка",
+      "translation_en": "hourly rate",
+      "examples": [
+        {
+          "de": "Der Stundensatz des Entwicklers beträgt 90 Euro.",
+          "ru": "Почасовая ставка разработчика составляет 90 евро."
+        },
+        {
+          "de": "Wir müssen die Stundensätze neu verhandeln.",
+          "ru": "Мы должны заново согласовать почасовые ставки."
+        },
+        {
+          "de": "Die Kosten berechnen sich aus dem Stundensatz mal Arbeitszeit.",
+          "ru": "Затраты рассчитываются как почасовая ставка, умноженная на рабочее время."
+        },
+        {
+          "de": "Externe Berater haben oft einen höheren Stundensatz.",
+          "ru": "Внешние консультанты часто имеют более высокую почасовую ставку."
+        },
+        {
+          "de": "Welcher Stundensatz wurde im Vertrag vereinbart?",
+          "ru": "Какая почасовая ставка была согласована в договоре?"
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Abweichung, die Abweichungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "отклонение",
+      "translation_en": "deviation, variance",
+      "examples": [
+        {
+          "de": "Es gibt eine Abweichung vom ursprünglichen Budget.",
+          "ru": "Есть отклонение от первоначального бюджета."
+        },
+        {
+          "de": "Jede Abweichung muss sofort gemeldet werden.",
+          "ru": "О каждом отклонении необходимо сообщать немедленно."
+        },
+        {
+          "de": "Wie erklären Sie diese Abweichung im Kostenplan?",
+          "ru": "Как вы объясните это отклонение в плане затрат?"
+        },
+        {
+          "de": "Die Abweichung liegt im tolerierbaren Bereich.",
+          "ru": "Отклонение находится в пределах допустимого диапазона."
+        },
+        {
+          "de": "Wir müssen Korrekturmaßnahmen für die Abweichungen einleiten.",
+          "ru": "Мы должны принять меры по исправлению отклонений."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Obergrenze, die Obergrenzen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "верхний предел, лимит, потолок",
+      "translation_en": "upper limit, cap",
+      "examples": [
+        {
+          "de": "Das Budget hat eine feste Obergrenze.",
+          "ru": "Бюджет имеет жесткий верхний предел."
+        },
+        {
+          "de": "Wir dürfen die Obergrenze für Sachkosten nicht überschreiten.",
+          "ru": "Мы не должны превышать лимит материальных расходов."
+        },
+        {
+          "de": "Die Obergrenze wurde im Vertrag festgelegt.",
+          "ru": "Верхний предел был определен в договоре."
+        },
+        {
+          "de": "Gibt es eine Obergrenze für die Arbeitsstunden?",
+          "ru": "Есть ли лимит на рабочие часы?"
+        },
+        {
+          "de": "Die Obergrenze für dieses Projekt liegt bei einer Million Euro.",
+          "ru": "Потолок для этого проекта составляет один миллион евро."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Investition, die Investitionen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "инвестиция, вложение",
+      "translation_en": "investment",
+      "examples": [
+        {
+          "de": "Die Investition in neue Software wird sich auszahlen.",
+          "ru": "Инвестиции в новое ПО окупятся."
+        },
+        {
+          "de": "Das Projekt erfordert eine hohe Anfangsinvestition.",
+          "ru": "Проект требует больших первоначальных вложений."
+        },
+        {
+          "de": "Wer entscheidet über diese Investition?",
+          "ru": "Кто принимает решение по поводу этих инвестиций?"
+        },
+        {
+          "de": "Wir müssen den Nutzen dieser Investition nachweisen.",
+          "ru": "Мы должны доказать пользу этих инвестиций."
+        },
+        {
+          "de": "Diese Investition ist für das Wachstum des Unternehmens notwendig.",
+          "ru": "Эти инвестиции необходимы для роста компании."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Mittelabfluss, die Mittelabflüsse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "отток денежных средств, расходование средств",
+      "translation_en": "cash outflow, outflow of funds",
+      "examples": [
+        {
+          "de": "Wir müssen den zeitlichen Mittelabfluss kontrollieren.",
+          "ru": "Мы должны контролировать временной график оттока средств."
+        },
+        {
+          "de": "Der Mittelabfluss war in diesem Monat höher als geplant.",
+          "ru": "Отток средств в этом месяце был выше, чем планировалось."
+        },
+        {
+          "de": "Der erwartete Mittelabfluss ist im Finanzplan dargestellt.",
+          "ru": "Ожидаемый отток средств представлен в финансовом плане."
+        },
+        {
+          "de": "Wir müssen den Mittelabfluss verlangsamen.",
+          "ru": "Нам нужно замедлить расходование средств."
+        },
+        {
+          "de": "Ein unkontrollierter Mittelabfluss gefährdet das Projekt.",
+          "ru": "Неконтролируемый отток средств угрожает проекту."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kostenschätzung, die Kostenschätzungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "оценка затрат, предварительный расчет стоимости",
+      "translation_en": "cost estimation",
+      "examples": [
+        {
+          "de": "Eine genaue Kostenschätzung ist vor dem Projektstart wichtig.",
+          "ru": "Точная оценка затрат важна до начала проекта."
+        },
+        {
+          "de": "Wer hat diese Kostenschätzung erstellt?",
+          "ru": "Кто составил эту оценку затрат?"
+        },
+        {
+          "de": "Die Kostenschätzung wurde um 20 Prozent korrigiert.",
+          "ru": "Оценка затрат была скорректирована на 20 процентов."
+        },
+        {
+          "de": "Unsere Kostenschätzung basiert auf historischen Projekten.",
+          "ru": "Наша оценка затрат основана на прошлых проектах."
+        },
+        {
+          "de": "Die erste Kostenschätzung war zu optimistisch.",
+          "ru": "Первая оценка затрат была слишком оптимистичной."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Auslastung, die Auslastungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "загрузка, степень использования сотрудников",
+      "translation_en": "capacity utilization, workload",
+      "examples": [
+        {
+          "de": "Die Auslastung des Teams liegt derzeit bei 90 Prozent.",
+          "ru": "Загрузка команды в настоящее время составляет 90 процентов."
+        },
+        {
+          "de": "Eine zu hohe Auslastung führt zu Fehlern.",
+          "ru": "Слишком высокая загрузка ведет к ошибкам."
+        },
+        {
+          "de": "Wir müssen die Auslastung der Maschinen optimieren.",
+          "ru": "Мы должны оптимизировать загрузку оборудования."
+        },
+        {
+          "de": "Die Auslastung wird im wöchentlichen Bericht dokumentiert.",
+          "ru": "Загрузка фиксируется в еженедельном отчете."
+        },
+        {
+          "de": "Wie können wir die Auslastung gleichmäßiger verteilen?",
+          "ru": "Как мы можем распределить нагрузку более равномерно?"
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Mittelverwendung, die Mittelverwendungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "использование средств, целевое использование",
+      "translation_en": "use of funds, application of funds",
+      "examples": [
+        {
+          "de": "Wir müssen die ordnungsgemäße Mittelverwendung nachweisen.",
+          "ru": "Мы должны доказать надлежащее использование средств."
+        },
+        {
+          "de": "Ein Bericht über die Mittelverwendung ist erforderlich.",
+          "ru": "Требуется отчет об использовании средств."
+        },
+        {
+          "de": "Die Mittelverwendung wird vom Wirtschaftsprüfer kontrolliert.",
+          "ru": "Использование средств контролируется аудитором."
+        },
+        {
+          "de": "Gibt es Richtlinien für die Mittelverwendung?",
+          "ru": "Существуют ли правила использования средств?"
+        },
+        {
+          "de": "Die Mittelverwendung muss transparent dokumentiert sein.",
+          "ru": "Использование средств должно быть прозрачно задокументировано."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Wirtschaftlichkeit (Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "экономическая эффективность, рентабельность",
+      "translation_en": "economic efficiency, cost-effectiveness",
+      "examples": [
+        {
+          "de": "Die Wirtschaftlichkeit des Projekts steht außer Frage.",
+          "ru": "Экономическая эффективность проекта не вызывает сомнений."
+        },
+        {
+          "de": "Wir müssen eine Analyse der Wirtschaftlichkeit durchführen.",
+          "ru": "Мы должны провести анализ рентабельности."
+        },
+        {
+          "de": "Die Wirtschaftlichkeit wird durch Automatisierung gesteigert.",
+          "ru": "Экономическая эффективность повышается за счет автоматизации."
+        },
+        {
+          "de": "Ein Mangel an Wirtschaftlichkeit kann zum Projektabbruch führen.",
+          "ru": "Нехватка экономической эффективности может привести к прекращению проекта."
+        },
+        {
+          "de": "Die Wirtschaftlichkeit ist ein wichtiges Kriterium bei Entscheidungen.",
+          "ru": "Рентабельность является важным критерием при принятии решений."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Rückstellung, die Rückstellungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "резерв, оценочное обязательство",
+      "translation_en": "provision, financial reserve",
+      "examples": [
+        {
+          "de": "Wir müssen Rückstellungen für unvorhergesehene Risiken bilden.",
+          "ru": "Мы должны создать резервы под непредвиденные риски."
+        },
+        {
+          "de": "Die gebildeten Rückstellungen reichen nicht aus.",
+          "ru": "Сформированных резервов недостаточно."
+        },
+        {
+          "de": "Diese Rückstellung belastet das aktuelle Budget.",
+          "ru": "Этот резерв обременяет текущий бюджет."
+        },
+        {
+          "de": "Die Rückstellungen wurden in der Bilanz ausgewiesen.",
+          "ru": "Резервы были отражены в балансе."
+        },
+        {
+          "de": "Wann werden die Rückstellungen aufgelöst?",
+          "ru": "Когда будут расформированы резервы?"
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Controlling (Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "контроллинг, финансовый контроль",
+      "translation_en": "controlling, project controlling",
+      "examples": [
+        {
+          "de": "Das Controlling überwacht die Einhaltung des Budgets.",
+          "ru": "Контроллинг следит за соблюдением бюджета."
+        },
+        {
+          "de": "Unser Controlling liefert wöchentliche Berichte.",
+          "ru": "Наш контроллинг предоставляет еженедельные отчеты."
+        },
+        {
+          "de": "Er arbeitet im Controlling des Softwareprojekts.",
+          "ru": "Он работает в отделе контроллинга софтверного проекта."
+        },
+        {
+          "de": "Ein effektives Controlling ist der Schlüssel zum Projekterfolg.",
+          "ru": "Эффективный контроллинг — залог успеха проекта."
+        },
+        {
+          "de": "Das Controlling hat eine Kostenüberschreitung gemeldet.",
+          "ru": "Контроллинг сообщил о превышении затрат."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Kostentreiber, die Kostentreiber",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "фактор роста затрат, драйвер затрат",
+      "translation_en": "cost driver",
+      "examples": [
+        {
+          "de": "Die späten Änderungen im Design sind der größte Kostentreiber.",
+          "ru": "Поздние изменения в дизайне — главный фактор роста затрат."
+        },
+        {
+          "de": "Wir müssen die wichtigsten Kostentreiber identifizieren.",
+          "ru": "Мы должны определить основные факторы роста затрат."
+        },
+        {
+          "de": "Lizenzen sind ein erheblicher Kostentreiber in diesem Projekt.",
+          "ru": "Лицензии являются значительным фактором затрат в этом проекте."
+        },
+        {
+          "de": "Wie können wir diesen Kostentreiber eliminieren?",
+          "ru": "Как мы можем устранить этот фактор затрат?"
+        },
+        {
+          "de": "Hohe Fluktuation im Team ist ein bekannter Kostentreiber.",
+          "ru": "Высокая текучесть кадров в команде — известный фактор роста затрат."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kapazität, die Kapazitäten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "ресурсы, мощность, потенциал",
+      "translation_en": "capacity",
+      "examples": [
+        {
+          "de": "Wir haben keine freien Kapazitäten für neue Aufgaben.",
+          "ru": "У нас нет свободных ресурсов для новых задач."
+        },
+        {
+          "de": "Die Kapazität des Servers reicht nicht aus.",
+          "ru": "Емкости сервера недостаточно."
+        },
+        {
+          "de": "Wir müssen unsere Kapazitäten im nächsten Sprint erhöhen.",
+          "ru": "Мы должны увеличить наши мощности в следующем спринте."
+        },
+        {
+          "de": "Haben Sie Kapazität, um mir bei diesem Task zu helfen?",
+          "ru": "У вас есть возможность помочь мне с этой задачей?"
+        },
+        {
+          "de": "Die Kapazitäten wurden falsch geplant.",
+          "ru": "Ресурсы были спланированы неправильно."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Eigenanteil, die Eigenanteile",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "собственный вклад, собственная доля",
+      "translation_en": "own contribution, co-payment",
+      "examples": [
+        {
+          "de": "Der Eigenanteil des Kunden beträgt 20 Prozent.",
+          "ru": "Собственный вклад клиента составляет 20 процентов."
+        },
+        {
+          "de": "Wir müssen unseren Eigenanteil finanzieren.",
+          "ru": "Мы должны профинансировать нашу собственную долю."
+        },
+        {
+          "de": "Der Eigenanteil kann auch durch Eigenleistung erbracht werden.",
+          "ru": "Собственный вклад может быть внесен и за счет собственных работ."
+        },
+        {
+          "de": "Wie hoch ist der vereinbarte Eigenanteil?",
+          "ru": "Каков размер согласованного собственного участия?"
+        },
+        {
+          "de": "Ein hoher Eigenanteil zeigt das Engagement des Partners.",
+          "ru": "Высокая доля собственного участия демонстрирует приверженность партнера."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Drittmittel, die Drittmittel",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "привлеченные средства, стороннее финансирование",
+      "translation_en": "third-party funding, external funds",
+      "examples": [
+        {
+          "de": "Das Forschungsprojekt wird durch Drittmittel finanziert.",
+          "ru": "Исследовательский проект финансируется за счет привлеченных средств."
+        },
+        {
+          "de": "Wir müssen einen Antrag auf Drittmittel stellen.",
+          "ru": "Мы должны подать заявку на стороннее финансирование."
+        },
+        {
+          "de": "Die Drittmittel wurden von der EU bewilligt.",
+          "ru": "Привлеченные средства были одобрены ЕС."
+        },
+        {
+          "de": "Die Verwaltung von Drittmitteln erfordert spezielle Nachweise.",
+          "ru": "Управление сторонним финансированием требует специальных подтверждений."
+        },
+        {
+          "de": "Ohne Drittmittel kann das Projekt nicht fortgesetzt werden.",
+          "ru": "Без привлеченных средств проект не может быть продолжен."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Liquidität (Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "ликвидность, платежеспособность",
+      "translation_en": "liquidity, cash flow viability",
+      "examples": [
+        {
+          "de": "Die Liquidität des Projekts muss jederzeit gesichert sein.",
+          "ru": "Платежеспособность проекта должна быть обеспечена в любое время."
+        },
+        {
+          "de": "Wir haben ein Problem mit der Liquidität.",
+          "ru": "У нас проблема с ликвидностью."
+        },
+        {
+          "de": "Der Liquiditätsplan wird wöchentlich aktualisiert.",
+          "ru": "План движения денежных средств обновляется еженедельно."
+        },
+        {
+          "de": "Verspätete Kundenzahlungen gefährden unsere Liquidität.",
+          "ru": "Задержки платежей клиентов угрожают нашей ликвидности."
+        },
+        {
+          "de": "Durch Vorauszahlungen verbessern wir unsere Liquidität.",
+          "ru": "За счет авансовых платежей мы улучшаем нашу ликвидность."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Zwischenbilanz, die Zwischenbilanzen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "промежуточный итог, промежуточный баланс",
+      "translation_en": "interim balance, intermediate review",
+      "examples": [
+        {
+          "de": "Nach sechs Monaten ziehen wir eine Zwischenbilanz.",
+          "ru": "Через шесть месяцев мы подводим промежуточный итог."
+        },
+        {
+          "de": "Die Zwischenbilanz zeigt positive finanzielle Ergebnisse.",
+          "ru": "Промежуточный баланс показывает положительные финансовые результаты."
+        },
+        {
+          "de": "Wir müssen dem Vorstand eine Zwischenbilanz vorlegen.",
+          "ru": "Мы должны представить промежуточный отчет правлению."
+        },
+        {
+          "de": "Die Zwischenbilanz deckte einige Probleme auf.",
+          "ru": "Промежуточный итог выявил несколько проблем."
+        },
+        {
+          "de": "Unsere finanzielle Zwischenbilanz ist stabil.",
+          "ru": "Наш промежуточный финансовый баланс стабилен."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Fehlbetrag, die Fehlbeträge",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "дефицит, недостача, недостающая сумма",
+      "translation_en": "deficit, shortfall",
+      "examples": [
+        {
+          "de": "Der Fehlbetrag im Budget beläuft sich auf 5.000 Euro.",
+          "ru": "Дефицит бюджета составляет 5 000 евро."
+        },
+        {
+          "de": "Wie decken wir diesen Fehlbetrag?",
+          "ru": "Как мы покроем этот дефицит?"
+        },
+        {
+          "de": "Ein Fehlbetrag muss durch Einsparungen ausgeglichen werden.",
+          "ru": "Недостачу необходимо компенсировать за счет экономии."
+        },
+        {
+          "de": "Der Fehlbetrag entstand durch ungeplante Ausgaben.",
+          "ru": "Дефицит возник из-за незапланированных расходов."
+        },
+        {
+          "de": "Wir müssen verhindern, dass ein Fehlbetrag entsteht.",
+          "ru": "Мы должны не допустить возникновения дефицита."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Sachkosten (Plur.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "материальные затраты, расходы на материальные средства",
+      "translation_en": "material costs, non-personnel costs",
+      "examples": [
+        {
+          "de": "Die Sachkosten für Server und Lizenzen steigen.",
+          "ru": "Материальные затраты на серверы и лицензии растут."
+        },
+        {
+          "de": "Wir müssen die Sachkosten im Auge behalten.",
+          "ru": "Мы должны следить за материальными затратами."
+        },
+        {
+          "de": "Ein Teil des Budgets ist für Sachkosten reserviert.",
+          "ru": "Часть бюджета зарезервирована под материальные затраты."
+        },
+        {
+          "de": "Die Sachkosten wurden in der Kalkulation vergessen.",
+          "ru": "Материальные расходы были забыты при расчете."
+        },
+        {
+          "de": "Sachkosten müssen detailliert aufgelistet werden.",
+          "ru": "Материальные затраты должны быть подробно перечислены."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Personalkosten (Plur.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "расходы на персонал",
+      "translation_en": "personnel costs, labor costs",
+      "examples": [
+        {
+          "de": "Die Personalkosten machen den größten Teil des Budgets aus.",
+          "ru": "Расходы на персонал составляют большую часть бюджета."
+        },
+        {
+          "de": "Wir müssen versuchen, die Personalkosten zu optimieren.",
+          "ru": "Мы должны попытаться оптимизировать расходы на персонал."
+        },
+        {
+          "de": "Durch Überstunden steigen die Personalkosten.",
+          "ru": "Из-за сверхурочной работы расходы на персонал растут."
+        },
+        {
+          "de": "Die Personalkosten wurden im Budgetplan erfasst.",
+          "ru": "Расходы на персонал были зафиксированы в бюджете."
+        },
+        {
+          "de": "Neueinstellungen erhöhen die Personalkosten langfristig.",
+          "ru": "Прием на работу новых сотрудников увеличивает расходы на персонал в долгосрочной перспективе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Gemeinkosten (Plur.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "косвенные расходы, накладные расходы",
+      "translation_en": "overhead costs, indirect costs",
+      "examples": [
+        {
+          "de": "Zu den Gemeinkosten gehören Miete und Strom.",
+          "ru": "К косвенным расходам относятся аренда и электричество."
+        },
+        {
+          "de": "Wie werden die Gemeinkosten auf die Projekte verteilt?",
+          "ru": "Как распределяются накладные расходы по проектам?"
+        },
+        {
+          "de": "Wir müssen versuchen, die Gemeinkosten zu senken.",
+          "ru": "Мы должны попытаться снизить накладные расходы."
+        },
+        {
+          "de": "Die Gemeinkosten werden pauschal berechnet.",
+          "ru": "Накладные расходы рассчитываются по фиксированной ставке."
+        },
+        {
+          "de": "Hohe Gemeinkosten belasten die Rentabilität des Projekts.",
+          "ru": "Высокие накладные расходы снижают рентабельность проекта."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Direktkosten (Plur.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "прямые затраты, прямые расходы",
+      "translation_en": "direct costs",
+      "examples": [
+        {
+          "de": "Die Direktkosten lassen sich dem Projekt eindeutig zuordnen.",
+          "ru": "Прямые затраты могут быть четко отнесены к проекту."
+        },
+        {
+          "de": "Zu den Direktkosten gehören die Gehälter der Projektmitarbeiter.",
+          "ru": "К прямым затратам относятся зарплаты сотрудников проекта."
+        },
+        {
+          "de": "Die Direktkosten müssen exakt erfasst werden.",
+          "ru": "Прямые затраты должны фиксироваться с высокой точностью."
+        },
+        {
+          "de": "Wir haben die Direktkosten für Material unterschätzt.",
+          "ru": "Мы недооценили прямые затраты на материалы."
+        },
+        {
+          "de": "Die Summe der Direktkosten bestimmt den Mindestpreis.",
+          "ru": "Сумма прямых затрат определяет минимальную цену."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "budgetieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "закладывать в бюджет, планировать бюджет",
+      "translation_en": "to budget, allocate budget",
+      "examples": [
+        {
+          "de": "Wir haben 10.000 Euro für Marketing budgetiert.",
+          "ru": "Мы заложили в бюджет 10 000 евро на маркетинг."
+        },
+        {
+          "de": "Die Kosten wurden nicht richtig budgetiert.",
+          "ru": "Расходы не были заложены в бюджет должным образом."
+        },
+        {
+          "de": "Wir müssen die Reisekosten für das nächste Jahr budgetieren.",
+          "ru": "Мы должны запланировать в бюджете командировочные расходы на следующий год."
+        },
+        {
+          "de": "Wer hat diese Position budgetiert?",
+          "ru": "Кто заложил эту позицию в бюджет?"
+        },
+        {
+          "de": "Agile Projekte budgetieren oft in kürzeren Zyklen.",
+          "ru": "В гибких проектах бюджет часто планируется более короткими циклами."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "budgetiert",
+      "imperative": "budgetiere! / budgetiert! / budgetieren Sie!",
+      "conjugations": {
+        "ich": "budgetiere",
+        "du": "budgetierst",
+        "er/sie/es": "budgetiert",
+        "wir": "budgetieren",
+        "ihr": "budgetiert",
+        "sie/Sie": "budgetieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "kalkulieren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "рассчитывать, калькулировать",
+      "translation_en": "to calculate, estimate",
+      "examples": [
+        {
+          "de": "Bitte kalkulieren Sie die Kosten für den Umbau.",
+          "ru": "Пожалуйста, рассчитайте затраты на перепланировку."
+        },
+        {
+          "de": "Wir haben sehr knapp kalkuliert.",
+          "ru": "Мы провели расчет очень плотно."
+        },
+        {
+          "de": "Es ist schwer, das Risiko finanziell zu kalkulieren.",
+          "ru": "Трудно просчитать финансовый риск."
+        },
+        {
+          "de": "Der Preis wurde auf Basis der Arbeitsstunden kalkuliert.",
+          "ru": "Цена была рассчитана на основе рабочих часов."
+        },
+        {
+          "de": "Sie müssen einen Puffer von zehn Prozent einkalkulieren.",
+          "ru": "Вы должны заложить в расчет буфер в десять процентов."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "kalkuliert",
+      "imperative": "kalkuliere! / kalkuliert! / kalkulieren Sie!",
+      "conjugations": {
+        "ich": "kalkuliere",
+        "du": "kalkulierst",
+        "er/sie/es": "kalkuliert",
+        "wir": "kalkulieren",
+        "ihr": "kalkuliert",
+        "sie/Sie": "kalkulieren"
+      },
+      "prepositions": [
+        "mit + Dativ (с чем-то / рассчитывать на что-то)"
+      ]
+    },
+    {
+      "word": "einplanen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "планировать, запланировать, закладывать",
+      "translation_en": "to budget, plan for, schedule",
+      "examples": [
+        {
+          "de": "Wir müssen genug Zeit für die Tests einplanen.",
+          "ru": "Мы должны запланировать достаточно времени на тесты."
+        },
+        {
+          "de": "Habt ihr die Lizenzkosten eingeplant?",
+          "ru": "Вы запланировали расходы на лицензии?"
+        },
+        {
+          "de": "Er wurde fest für das neue Projekt eingeplant.",
+          "ru": "Он был твердо запланирован для нового проекта."
+        },
+        {
+          "de": "Wir sollten einen Puffer einplanen.",
+          "ru": "Нам следует запланировать буфер."
+        },
+        {
+          "de": "Diese Ausgabe war nicht eingeplant.",
+          "ru": "Этот расход не был запланирован."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "eingeplant",
+      "imperative": "plane ein! / plant ein! / planen Sie ein!",
+      "conjugations": {
+        "ich": "plane ein",
+        "du": "planst ein",
+        "er/sie/es": "plant ein",
+        "wir": "planen ein",
+        "ihr": "plant ein",
+        "sie/Sie": "planen ein"
+      },
+      "prepositions": [
+        "für + Akkusativ (для чего-то)",
+        "in + Akkusativ (в состав чего-то)"
+      ]
+    },
+    {
+      "word": "überschreiten",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "превышать, перешагнуть (бюджет, лимит)",
+      "translation_en": "to exceed, overrun",
+      "examples": [
+        {
+          "de": "Das Projekt darf das Budget nicht überschreiten.",
+          "ru": "Проект не должен превышать бюджет."
+        },
+        {
+          "de": "Wir haben die Deadline um drei Tage überschritten.",
+          "ru": "Мы превысили дедлайн на три дня."
+        },
+        {
+          "de": "Wenn wir das Budget überschreiten, brauchen wir eine Genehmigung.",
+          "ru": "Если мы превысим бюджет, нам потребуется одобрение."
+        },
+        {
+          "de": "Die tatsächlichen Kosten überschreiten die Schätzung.",
+          "ru": "Фактические затраты превышают оценку."
+        },
+        {
+          "de": "Die Kapazität des Teams wurde überschritten.",
+          "ru": "Возможности команды были превышены."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "überschritten",
+      "imperative": "überschreite! / überschreitet! / überschreiten Sie!",
+      "conjugations": {
+        "ich": "überschreite",
+        "du": "überschreitest",
+        "er/sie/es": "überschreitet",
+        "wir": "überschreiten",
+        "ihr": "überschreitet",
+        "sie/Sie": "überschreiten"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "unterschreiten",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "оставаться ниже, не превышать (лимит, сумму)",
+      "translation_en": "to fall below, remain under",
+      "examples": [
+        {
+          "de": "Wir haben das geplante Budget unterschritten.",
+          "ru": "Мы остались ниже запланированного бюджета."
+        },
+        {
+          "de": "Die Qualität darf den Mindeststandard nicht unterschreiten.",
+          "ru": "Качество не должно быть ниже минимального стандарта."
+        },
+        {
+          "de": "Es ist gut, wenn wir die veranschlagten Kosten unterschreiten.",
+          "ru": "Хорошо, если мы потратим меньше заложенных расходов."
+        },
+        {
+          "de": "Die Serverauslastung darf diesen Wert nicht unterschreiten.",
+          "ru": "Загрузка сервера не должна опускаться ниже этого значения."
+        },
+        {
+          "de": "Wir haben das Zeitlimit deutlich unterschritten.",
+          "ru": "Мы уложились со значительным запасом времени."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "unterschritten",
+      "imperative": "unterschreite! / unterschreitet! / unterschreiten Sie!",
+      "conjugations": {
+        "ich": "unterschreite",
+        "du": "unterschreitest",
+        "er/sie/es": "unterschreitet",
+        "wir": "unterschreiten",
+        "ihr": "unterschreitet",
+        "sie/Sie": "unterschreiten"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "einsparen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "экономить, сберегать, сокращать расходы",
+      "translation_en": "to save, economize",
+      "examples": [
+        {
+          "de": "Durch die Optimierung können wir Zeit einsparen.",
+          "ru": "За счет оптимизации мы можем сэкономить время."
+        },
+        {
+          "de": "Wir müssen in diesem Bereich Kosten einsparen.",
+          "ru": "Мы должны сократить расходы в этой области."
+        },
+        {
+          "de": "Wie viel Geld können wir dadurch einsparen?",
+          "ru": "Сколько денег мы можем на этом сэкономить?"
+        },
+        {
+          "de": "Personalressourcen lassen sich nicht so einfach einsparen.",
+          "ru": "Сэкономить на человеческих ресурсах не так-то просто."
+        },
+        {
+          "de": "Der neue Prozess hilft uns, Ressourcen einzusparen.",
+          "ru": "Новый процесс помогает нам экономить ресурсы."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "eingespart",
+      "imperative": "spare ein! / spart ein! / sparen Sie ein!",
+      "conjugations": {
+        "ich": "spare ein",
+        "du": "sparst ein",
+        "er/sie/es": "spart ein",
+        "wir": "sparen ein",
+        "ihr": "spart ein",
+        "sie/Sie": "sparen ein"
+      },
+      "prepositions": [
+        "an + Dativ (на чём-то)"
+      ]
+    },
+    {
+      "word": "freigeben",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "утверждать, одобрять, высвобождать (средства, ресурсы)",
+      "translation_en": "to approve, release, sign off",
+      "examples": [
+        {
+          "de": "Der Lenkungsausschuss muss das Budget freigeben.",
+          "ru": "Руководящий комитет должен утвердить бюджет."
+        },
+        {
+          "de": "Das Dokument wurde für den Kunden freigegeben.",
+          "ru": "Документ был утвержден для клиента."
+        },
+        {
+          "de": "Wir können die Ressourcen erst nächste Woche freigeben.",
+          "ru": "Мы сможем высвободить ресурсы только на следующей неделе."
+        },
+        {
+          "de": "Sobald der Meilenstein erreicht ist, geben wir die Mittel frei.",
+          "ru": "Как только веха будет достигнута, мы разблокируем средства."
+        },
+        {
+          "de": "Bitte geben Sie meine Urlaubsanfrage frei.",
+          "ru": "Пожалуйста, подтвердите мой запрос на отпуск."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "freigegeben",
+      "imperative": "gib frei! / gebt frei! / geben Sie frei!",
+      "conjugations": {
+        "ich": "gebe frei",
+        "du": "gibst frei",
+        "er/sie/es": "gibt frei",
+        "wir": "geben frei",
+        "ihr": "gebt frei",
+        "sie/Sie": "geben frei"
+      },
+      "prepositions": [
+        "für + Akkusativ (для чего-то)"
+      ]
+    },
+    {
+      "word": "zuteilen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "распределять, выделять, назначать",
+      "translation_en": "to allocate, assign, distribute",
+      "examples": [
+        {
+          "de": "Jedem Entwickler wird eine Aufgabe zugeteilt.",
+          "ru": "Каждому разработчику назначается задача."
+        },
+        {
+          "de": "Wie wurde das Budget den einzelnen Abteilungen zugeteilt?",
+          "ru": "Как бюджет был распределен между отдельными отделами?"
+        },
+        {
+          "de": "Ressourcen müssen nach Priorität zugeteilt werden.",
+          "ru": "Ресурсы должны распределяться по приоритетности."
+        },
+        {
+          "de": "Wer teilt die Lizenzen zu?",
+          "ru": "Кто распределяет лицензии?"
+        },
+        {
+          "de": "Die Mittel wurden gestern offiziell zugeteilt.",
+          "ru": "Средства были официально распределены вчера."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "zugeteilt",
+      "imperative": "teile zu! / teilt zu! / teilen Sie zu!",
+      "conjugations": {
+        "ich": "teile zu",
+        "du": "teilst zu",
+        "er/sie/es": "teilt zu",
+        "wir": "teilen zu",
+        "ihr": "teilt zu",
+        "sie/Sie": "teilen zu"
+      },
+      "prepositions": [
+        "an + Akkusativ (кому-то)"
+      ]
+    },
+    {
+      "word": "überwachen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "контролировать, отслеживать, наблюдать",
+      "translation_en": "to monitor, supervise, track",
+      "examples": [
+        {
+          "de": "Der Projektleiter muss den Fortschritt überwachen.",
+          "ru": "Руководитель проекта должен контролировать прогресс."
+        },
+        {
+          "de": "Wir müssen die Kosten laufend überwachen.",
+          "ru": "Мы должны постоянно отслеживать расходы."
+        },
+        {
+          "de": "Das System überwacht die Auslastung der Server.",
+          "ru": "Система отслеживает загрузку серверов."
+        },
+        {
+          "de": "Risiken sollten regelmäßig überwacht werden.",
+          "ru": "Риски необходимо регулярно контролировать."
+        },
+        {
+          "de": "Das Controlling hilft dabei, das Budget zu überwachen.",
+          "ru": "Контроллинг помогает отслеживать бюджет."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "überwacht",
+      "imperative": "überwache! / überwacht! / überwachen Sie!",
+      "conjugations": {
+        "ich": "überwache",
+        "du": "überwachst",
+        "er/sie/es": "überwacht",
+        "wir": "überwachen",
+        "ihr": "überwacht",
+        "sie/Sie": "überwachen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "abrechnen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "рассчитываться, отчитываться, выставлять счет",
+      "translation_en": "to bill, settle accounts, invoice",
+      "examples": [
+        {
+          "de": "Die Reisekosten werden über das Projekt abgerechnet.",
+          "ru": "Командировочные расходы списываются за счет проекта."
+        },
+        {
+          "de": "Wir rechnen unsere Leistungen monatlich ab.",
+          "ru": "Мы выставляем счета за наши услуги ежемесячно."
+        },
+        {
+          "de": "Wie soll diese Aufgabe abgerechnet werden?",
+          "ru": "Как должна быть рассчитана эта задача?"
+        },
+        {
+          "de": "Die geleisteten Stunden wurden bereits abgerechnet.",
+          "ru": "Отработанные часы уже рассчитаны."
+        },
+        {
+          "de": "Externe Dienstleister rechnen nach Aufwand ab.",
+          "ru": "Внешние поставщики услуг рассчитываются по фактическим трудозатратам."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "abgerechnet",
+      "imperative": "rechne ab! / rechnet ab! / rechnen Sie ab!",
+      "conjugations": {
+        "ich": "rechne ab",
+        "du": "rechnest ab",
+        "er/sie/es": "rechnet ab",
+        "wir": "rechnen ab",
+        "ihr": "rechnet ab",
+        "sie/Sie": "rechnen ab"
+      },
+      "prepositions": [
+        "mit + Dativ (с кем-то)",
+        "über + Akkusativ (через что-то / по чему-то)"
+      ]
+    },
+    {
+      "word": "auslasten",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "загружать работой, задействовать",
+      "translation_en": "to utilize, keep busy, fully occupy",
+      "examples": [
+        {
+          "de": "Wir müssen das Team optimal auslasten.",
+          "ru": "Мы должны оптимально загрузить команду работой."
+        },
+        {
+          "de": "Die Maschinen sind zu 100 Prozent ausgelastet.",
+          "ru": "Оборудование загружено на 100 процентов."
+        },
+        {
+          "de": "Ein Projektleiter muss darauf achten, niemanden zu überlasten.",
+          "ru": "Руководитель проекта должен следить за тем, чтобы никого не перегрузить."
+        },
+        {
+          "de": "Sind Ihre Mitarbeiter im Moment voll ausgelastet?",
+          "ru": "Ваши сотрудники сейчас полностью загружены?"
+        },
+        {
+          "de": "Wir können keine neuen Aufträge annehmen, da wir ausgelastet sind.",
+          "ru": "Мы не можем принимать новые заказы, так как полностью загружены."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "ausgelastet",
+      "imperative": "laste aus! / lastet aus! / lasten Sie aus!",
+      "conjugations": {
+        "ich": "laste aus",
+        "du": "lastest aus",
+        "er/sie/es": "lastet aus",
+        "wir": "lasten aus",
+        "ihr": "lastet aus",
+        "sie/Sie": "lasten aus"
+      },
+      "prepositions": [
+        "mit + Dativ (чем-то)"
+      ]
+    },
+    {
+      "word": "kosteneffizient",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "экономически эффективный, рентабельный",
+      "translation_en": "cost-effective, cost-efficient",
+      "examples": [
+        {
+          "de": "Wir suchen nach einer kosteneffizienten Lösung.",
+          "ru": "Мы ищем экономически эффективное решение."
+        },
+        {
+          "de": "Diese Arbeitsweise hat sich als sehr kosteneffizient erwiesen.",
+          "ru": "Этот метод работы оказался очень экономически эффективным."
+        },
+        {
+          "de": "Um kosteneffizient zu bleiben, müssen wir Prozesse automatisieren.",
+          "ru": "Чтобы оставаться рентабельными, мы должны автоматизировать процессы."
+        },
+        {
+          "de": "Eine kosteneffiziente Planung ist für das Projekt entscheidend.",
+          "ru": "Экономически эффективное планирование имеет решающее значение для проекта."
+        },
+        {
+          "de": "Ist die Nutzung von Cloud-Diensten kosteneffizient?",
+          "ru": "Является ли использование облачных сервисов экономически выгодным?"
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "rentabel",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "рентабельный, прибыльный, доходный",
+      "translation_en": "profitable, viable",
+      "examples": [
+        {
+          "de": "Die Investition wird erst nach drei Jahren rentabel.",
+          "ru": "Инвестиция станет прибыльной только через три года."
+        },
+        {
+          "de": "Ist dieses Projekt für das Unternehmen rentabel?",
+          "ru": "Рентабелен ли этот проект для компании?"
+        },
+        {
+          "de": "Wir müssen nachweisen, dass das Vorhaben rentabel ist.",
+          "ru": "Мы должны доказать, что это начинание рентабельно."
+        },
+        {
+          "de": "Eine rentable Produktion erfordert moderne Maschinen.",
+          "ru": "Рентабельное производство требует современного оборудования."
+        },
+        {
+          "de": "Das Produkt ist auf diesem Markt nicht rentabel.",
+          "ru": "Продукт нерентабелен на этом рынке."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "kostendeckend",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "покрывающий расходы, безубыточный",
+      "translation_en": "cost-covering, break-even",
+      "examples": [
+        {
+          "de": "Wir arbeiten in der ersten Phase noch nicht kostendeckend.",
+          "ru": "На первом этапе мы еще не работаем безубыточно."
+        },
+        {
+          "de": "Das Angebot muss mindestens kostendeckend sein.",
+          "ru": "Предложение должно как минимум покрывать расходы."
+        },
+        {
+          "de": "Wir haben das Projekt kostendeckend abgeschlossen.",
+          "ru": "Мы завершили проект без убытков / покрыв все расходы."
+        },
+        {
+          "de": "Ist diese Dienstleistung kostendeckend kalkuliert?",
+          "ru": "Рассчитана ли эта услуга так, чтобы покрывать расходы?"
+        },
+        {
+          "de": "Ein kostendeckender Preis ist das Mindestziel.",
+          "ru": "Цена, покрывающая расходы, является минимальной целью."
+        }
+      ],
+      "synonyms": []
+    }
+  ]
+}

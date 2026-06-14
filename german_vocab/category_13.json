@@ -1,0 +1,3176 @@
+{
+  "category": "Bewerbung & Lebenslauf",
+  "words": [
+    {
+      "word": "die Bewerbung, die Bewerbungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "заявление о приеме на работу / резюме",
+      "translation_en": "job application",
+      "examples": [
+        {
+          "de": "Hier ist die Bewerbung.",
+          "ru": "Вот заявление о приеме на работу / резюме."
+        },
+        {
+          "de": "Wir müssen die Bewerbung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: заявление о приеме на работу / резюме."
+        },
+        {
+          "de": "Sind Sie mit der Bewerbung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: заявление о приеме на работу / резюме?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Bewerbung.",
+          "ru": "Сегодня мы концентрируемся на теме: заявление о приеме на работу / резюме."
+        },
+        {
+          "de": "Die Bewerbung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Заявление о приеме на работу / резюме играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Kandidatur",
+        "Gesuch",
+        "Stellengesuch"
+      ]
+    },
+    {
+      "word": "der Lebenslauf, die Lebensläufe",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "автобиография / резюме",
+      "translation_en": "curriculum vitae (CV)",
+      "examples": [
+        {
+          "de": "Hier ist der Lebenslauf.",
+          "ru": "Вот автобиография / резюме."
+        },
+        {
+          "de": "Wir müssen den Lebenslauf genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: автобиография / резюме."
+        },
+        {
+          "de": "Sind Sie mit dem Lebenslauf einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: автобиография / резюме?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Lebenslauf.",
+          "ru": "Сегодня мы концентрируемся на теме: автобиография / резюме."
+        },
+        {
+          "de": "Der Lebenslauf spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Автобиография / резюме играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Werdegang",
+        "Curriculum Vitae",
+        "Vita"
+      ]
+    },
+    {
+      "word": "das Anschreiben, die Anschreiben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "сопроводительное письмо",
+      "translation_en": "cover letter",
+      "examples": [
+        {
+          "de": "Hier ist das Anschreiben.",
+          "ru": "Вот сопроводительное письмо."
+        },
+        {
+          "de": "Wir müssen das Anschreiben genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: сопроводительное письмо."
+        },
+        {
+          "de": "Sind Sie mit dem Anschreiben einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: сопроводительное письмо?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Anschreiben.",
+          "ru": "Сегодня мы концентрируемся на теме: сопроводительное письмо."
+        },
+        {
+          "de": "Das Anschreiben spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Сопроводительное письмо играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Zeugnis, die Zeugnisse",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "свидетельство / аттестат / рекомендация",
+      "translation_en": "certificate / reference",
+      "examples": [
+        {
+          "de": "Hier ist das Zeugnis.",
+          "ru": "Вот свидетельство / аттестат / рекомендация."
+        },
+        {
+          "de": "Wir müssen das Zeugnis genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: свидетельство / аттестат / рекомендация."
+        },
+        {
+          "de": "Sind Sie mit dem Zeugnis einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: свидетельство / аттестат / рекомендация?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Zeugnis.",
+          "ru": "Сегодня мы концентрируемся на теме: свидетельство / аттестат / рекомендация."
+        },
+        {
+          "de": "Das Zeugnis spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Свидетельство / аттестат / рекомендация играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Arbeitszeugnis, die Arbeitszeugnisse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "рекомендательное письмо с места работы",
+      "translation_en": "employment reference",
+      "examples": [
+        {
+          "de": "Hier ist das Arbeitszeugnis.",
+          "ru": "Вот рекомендательное письмо с места работы."
+        },
+        {
+          "de": "Wir müssen das Arbeitszeugnis genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: рекомендательное письмо с места работы."
+        },
+        {
+          "de": "Sind Sie mit dem Arbeitszeugnis einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: рекомендательное письмо с места работы?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Arbeitszeugnis.",
+          "ru": "Сегодня мы концентрируемся на теме: рекомендательное письмо с места работы."
+        },
+        {
+          "de": "Das Arbeitszeugnis spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Рекомендательное письмо с места работы играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Motivationsschreiben, die Motivationsschreiben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "мотивационное письмо",
+      "translation_en": "letter of motivation",
+      "examples": [
+        {
+          "de": "Hier ist das Motivationsschreiben.",
+          "ru": "Вот мотивационное письмо."
+        },
+        {
+          "de": "Wir müssen das Motivationsschreiben genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: мотивационное письмо."
+        },
+        {
+          "de": "Sind Sie mit dem Motivationsschreiben einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: мотивационное письмо?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Motivationsschreiben.",
+          "ru": "Сегодня мы концентрируемся на теме: мотивационное письмо."
+        },
+        {
+          "de": "Das Motivationsschreiben spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Мотивационное письмо играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Unterlagen, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "документы / бумаги",
+      "translation_en": "documents / dossier",
+      "examples": [
+        {
+          "de": "Hier sind die Unterlagen.",
+          "ru": "Вот документы / бумаги."
+        },
+        {
+          "de": "Wir müssen die Unterlagen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: документы / бумаги."
+        },
+        {
+          "de": "Sind Sie mit den Unterlagen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: документы / бумаги?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Unterlagen.",
+          "ru": "Сегодня мы концентрируемся на теме: документы / бумаги."
+        },
+        {
+          "de": "Die Unterlagen spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Документы / бумаги играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Dokumente",
+        "Akten",
+        "Papiere"
+      ]
+    },
+    {
+      "word": "der Anhang, die Anhänge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "приложение / вложение",
+      "translation_en": "attachment / appendix",
+      "examples": [
+        {
+          "de": "Hier ist der Anhang.",
+          "ru": "Вот приложение / вложение."
+        },
+        {
+          "de": "Wir müssen den Anhang genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: приложение / вложение."
+        },
+        {
+          "de": "Sind Sie mit dem Anhang einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: приложение / вложение?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Anhang.",
+          "ru": "Сегодня мы концентрируемся на теме: приложение / вложение."
+        },
+        {
+          "de": "Der Anhang spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Приложение / вложение играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Stellenanzeige, die Stellenanzeigen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "объявление о вакансии",
+      "translation_en": "job advertisement",
+      "examples": [
+        {
+          "de": "Hier ist die Stellenanzeige.",
+          "ru": "Вот объявление о вакансии."
+        },
+        {
+          "de": "Wir müssen die Stellenanzeige genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: объявление о вакансии."
+        },
+        {
+          "de": "Sind Sie mit der Stellenanzeige einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: объявление о вакансии?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Stellenanzeige.",
+          "ru": "Сегодня мы концентрируемся на теме: объявление о вакансии."
+        },
+        {
+          "de": "Die Stellenanzeige spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Объявление о вакансии играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Jobportal, die Jobportale",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "портал по поиску работы",
+      "translation_en": "job portal",
+      "examples": [
+        {
+          "de": "Hier ist das Jobportal.",
+          "ru": "Вот портал по поиску работы."
+        },
+        {
+          "de": "Wir müssen das Jobportal genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: портал по поиску работы."
+        },
+        {
+          "de": "Sind Sie mit dem Jobportal einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: портал по поиску работы?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Jobportal.",
+          "ru": "Сегодня мы концентрируемся на теме: портал по поиску работы."
+        },
+        {
+          "de": "Das Jobportal spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Портал по поиску работы играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "sich bewerben",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "подавать заявление о приеме на работу",
+      "translation_en": "to apply for a job",
+      "examples": [
+        {
+          "de": "Wir bewerben uns diese Angelegenheit direkt im Team.",
+          "ru": "Мы подавать заявление о приеме на работу этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich bewerbe mich die notwendigen Unterlagen sofort.",
+          "ru": "Я подавать заявление о приеме на работу необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege bewerbt sich das Ganze sehr professionell.",
+          "ru": "Ответственный коллега подавать заявление о приеме на работу всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich uns bewerbt.",
+          "ru": "Мы успешно подавать заявление о приеме на работу (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "bewerben Sie sich bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: подавать заявление о приеме на работу вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gesich bewerbt",
+      "imperative": "sich bewerbe! / sich bewerbt! / sich bewerben Sie!",
+      "conjugations": {
+        "ich": "sich bewerbe",
+        "du": "sich bewerbst",
+        "er/sie/es": "sich bewerbt",
+        "wir": "sich bewerben",
+        "ihr": "sich bewerbt",
+        "sie/Sie": "sich bewerben"
+      },
+      "prepositions": [
+        "um + Akkusativ (подавать заявление на какую-то должность)",
+        "bei + Dativ (подавать заявление в какую-то компанию)"
+      ]
+    },
+    {
+      "word": "einreichen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "подавать / представлять (документы)",
+      "translation_en": "to submit / hand in",
+      "examples": [
+        {
+          "de": "Wir reichen ein diese Angelegenheit direkt im Team.",
+          "ru": "Мы подавать / представлять (документы) этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich reiche ein die notwendigen Unterlagen sofort.",
+          "ru": "Я подавать / представлять (документы) необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege reicht ein das Ganze sehr professionell.",
+          "ru": "Ответственный коллега подавать / представлять (документы) всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich eingereicht.",
+          "ru": "Мы успешно подавать / представлять (документы) (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "reichen Sie ein bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: подавать / представлять (документы) вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "eingereicht",
+      "imperative": "reiche ein! / reicht ein! / reichen Sie ein!",
+      "conjugations": {
+        "ich": "reiche ein",
+        "du": "reichst ein",
+        "er/sie/es": "reicht ein",
+        "wir": "reichen ein",
+        "ihr": "reicht ein",
+        "sie/Sie": "reichen ein"
+      },
+      "prepositions": [
+        "bei + Dativ (подавать в какое-то ведомство / организацию)"
+      ]
+    },
+    {
+      "word": "hochladen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "загружать / выгружать (в сеть)",
+      "translation_en": "to upload",
+      "examples": [
+        {
+          "de": "Wir hochladen diese Angelegenheit direkt im Team.",
+          "ru": "Мы загружать / выгружать (в сеть) этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich hochlade die notwendigen Unterlagen sofort.",
+          "ru": "Я загружать / выгружать (в сеть) необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege hochladet das Ganze sehr professionell.",
+          "ru": "Ответственный коллега загружать / выгружать (в сеть) всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich gehochladet.",
+          "ru": "Мы успешно загружать / выгружать (в сеть) (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "hochladen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: загружать / выгружать (в сеть) вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gehochladet",
+      "imperative": "hochlade! / hochladet! / hochladen Sie!",
+      "conjugations": {
+        "ich": "hochlade",
+        "du": "hochladest",
+        "er/sie/es": "hochladet",
+        "wir": "hochladen",
+        "ihr": "hochladet",
+        "sie/Sie": "hochladen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "verfassen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "составлять / сочинять (текст)",
+      "translation_en": "to write / draft",
+      "examples": [
+        {
+          "de": "Wir verfassen diese Angelegenheit direkt im Team.",
+          "ru": "Мы составлять / сочинять (текст) этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich verfasse die notwendigen Unterlagen sofort.",
+          "ru": "Я составлять / сочинять (текст) необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege verfasst das Ganze sehr professionell.",
+          "ru": "Ответственный коллега составлять / сочинять (текст) всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich verfasst.",
+          "ru": "Мы успешно составлять / сочинять (текст) (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "verfassen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: составлять / сочинять (текст) вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "verfasst",
+      "imperative": "verfasse! / verfasst! / verfassen Sie!",
+      "conjugations": {
+        "ich": "verfasse",
+        "du": "verfasst",
+        "er/sie/es": "verfasst",
+        "wir": "verfassen",
+        "ihr": "verfasst",
+        "sie/Sie": "verfassen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Berufserfahrung, die Berufserfahrungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "опыт работы",
+      "translation_en": "work experience",
+      "examples": [
+        {
+          "de": "Hier ist die Berufserfahrung.",
+          "ru": "Вот опыт работы."
+        },
+        {
+          "de": "Wir müssen die Berufserfahrung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: опыт работы."
+        },
+        {
+          "de": "Sind Sie mit der Berufserfahrung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: опыт работы?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Berufserfahrung.",
+          "ru": "Сегодня мы концентрируемся на теме: опыт работы."
+        },
+        {
+          "de": "Die Berufserfahrung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Опыт работы играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Werdegang, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "профессиональный путь / карьера",
+      "translation_en": "career path / background",
+      "examples": [
+        {
+          "de": "Hier ist der Werdegang.",
+          "ru": "Вот профессиональный путь / карьера."
+        },
+        {
+          "de": "Wir müssen den Werdegang genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: профессиональный путь / карьера."
+        },
+        {
+          "de": "Sind Sie mit dem Werdegang einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: профессиональный путь / карьера?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Werdegang.",
+          "ru": "Сегодня мы концентрируемся на теме: профессиональный путь / карьера."
+        },
+        {
+          "de": "Der Werdegang spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Профессиональный путь / карьера играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Qualifikation, die Qualifikationen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "квалификация",
+      "translation_en": "qualification",
+      "examples": [
+        {
+          "de": "Hier ist die Qualifikation.",
+          "ru": "Вот квалификация."
+        },
+        {
+          "de": "Wir müssen die Qualifikation genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: квалификация."
+        },
+        {
+          "de": "Sind Sie mit der Qualifikation einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: квалификация?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Qualifikation.",
+          "ru": "Сегодня мы концентрируемся на теме: квалификация."
+        },
+        {
+          "de": "Die Qualifikation spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Квалификация играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kenntnisse, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "знания / умения",
+      "translation_en": "knowledge / skills",
+      "examples": [
+        {
+          "de": "Hier sind die Kenntnisse.",
+          "ru": "Вот знания / умения."
+        },
+        {
+          "de": "Wir müssen die Kenntnisse genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: знания / умения."
+        },
+        {
+          "de": "Sind Sie mit den Kenntnisse einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: знания / умения?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kenntnisse.",
+          "ru": "Сегодня мы концентрируемся на теме: знания / умения."
+        },
+        {
+          "de": "Die Kenntnisse spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Знания / умения играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Ausbildung, die Ausbildungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "профессиональное обучение / образование",
+      "translation_en": "vocational training / education",
+      "examples": [
+        {
+          "de": "Hier ist die Ausbildung.",
+          "ru": "Вот профессиональное обучение / образование."
+        },
+        {
+          "de": "Wir müssen die Ausbildung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: профессиональное обучение / образование."
+        },
+        {
+          "de": "Sind Sie mit der Ausbildung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: профессиональное обучение / образование?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Ausbildung.",
+          "ru": "Сегодня мы концентрируемся на теме: профессиональное обучение / образование."
+        },
+        {
+          "de": "Die Ausbildung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Профессиональное обучение / образование играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Studium, die Studien",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "учеба в вузе",
+      "translation_en": "university studies",
+      "examples": [
+        {
+          "de": "Hier ist das Studium.",
+          "ru": "Вот учеба в вузе."
+        },
+        {
+          "de": "Wir müssen das Studium genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: учеба в вузе."
+        },
+        {
+          "de": "Sind Sie mit dem Studium einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: учеба в вузе?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Studium.",
+          "ru": "Сегодня мы концентрируемся на теме: учеба в вузе."
+        },
+        {
+          "de": "Das Studium spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Учеба в вузе играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Studienabschluss, die Studienabschlüsse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "диплом об окончании вуза",
+      "translation_en": "university degree",
+      "examples": [
+        {
+          "de": "Hier ist der Studienabschluss.",
+          "ru": "Вот диплом об окончании вуза."
+        },
+        {
+          "de": "Wir müssen den Studienabschluss genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: диплом об окончании вуза."
+        },
+        {
+          "de": "Sind Sie mit dem Studienabschluss einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: диплом об окончании вуза?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Studienabschluss.",
+          "ru": "Сегодня мы концентрируемся на теме: диплом об окончании вуза."
+        },
+        {
+          "de": "Der Studienabschluss spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Диплом об окончании вуза играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Fachrichtung, die Fachrichtungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "специализация / направление",
+      "translation_en": "field of specialization",
+      "examples": [
+        {
+          "de": "Hier ist die Fachrichtung.",
+          "ru": "Вот специализация / направление."
+        },
+        {
+          "de": "Wir müssen die Fachrichtung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: специализация / направление."
+        },
+        {
+          "de": "Sind Sie mit der Fachrichtung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: специализация / направление?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Fachrichtung.",
+          "ru": "Сегодня мы концентрируемся на теме: специализация / направление."
+        },
+        {
+          "de": "Die Fachrichtung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Специализация / направление играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Schwerpunkt, die Schwerpunkte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "основной упор / специализация",
+      "translation_en": "main focus / specialization",
+      "examples": [
+        {
+          "de": "Hier ist der Schwerpunkt.",
+          "ru": "Вот основной упор / специализация."
+        },
+        {
+          "de": "Wir müssen den Schwerpunkt genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: основной упор / специализация."
+        },
+        {
+          "de": "Sind Sie mit dem Schwerpunkt einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: основной упор / специализация?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Schwerpunkt.",
+          "ru": "Сегодня мы концентрируемся на теме: основной упор / специализация."
+        },
+        {
+          "de": "Der Schwerpunkt spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Основной упор / специализация играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Zertifikat, die Zertifikate",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "сертификат / свидетельство",
+      "translation_en": "certificate",
+      "examples": [
+        {
+          "de": "Hier ist das Zertifikat.",
+          "ru": "Вот сертификат / свидетельство."
+        },
+        {
+          "de": "Wir müssen das Zertifikat genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: сертификат / свидетельство."
+        },
+        {
+          "de": "Sind Sie mit dem Zertifikat einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: сертификат / свидетельство?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Zertifikat.",
+          "ru": "Сегодня мы концентрируемся на теме: сертификат / свидетельство."
+        },
+        {
+          "de": "Das Zertifikat spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Сертификат / свидетельство играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Referenz, die Referenzen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "рекомендация / отзыв",
+      "translation_en": "reference / recommendation",
+      "examples": [
+        {
+          "de": "Hier ist die Referenz.",
+          "ru": "Вот рекомендация / отзыв."
+        },
+        {
+          "de": "Wir müssen die Referenz genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: рекомендация / отзыв."
+        },
+        {
+          "de": "Sind Sie mit der Referenz einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: рекомендация / отзыв?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Referenz.",
+          "ru": "Сегодня мы концентрируемся на теме: рекомендация / отзыв."
+        },
+        {
+          "de": "Die Referenz spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Рекомендация / отзыв играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Praktikum, die Praktika",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "практика / стажировка",
+      "translation_en": "internship / placement",
+      "examples": [
+        {
+          "de": "Hier ist das Praktikum.",
+          "ru": "Вот практика / стажировка."
+        },
+        {
+          "de": "Wir müssen das Praktikum genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: практика / стажировка."
+        },
+        {
+          "de": "Sind Sie mit dem Praktikum einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: практика / стажировка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Praktikum.",
+          "ru": "Сегодня мы концентрируемся на теме: практика / стажировка."
+        },
+        {
+          "de": "Das Praktikum spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Практика / стажировка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Praktikant, die Praktikanten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "практикант / стажер",
+      "translation_en": "intern / trainee",
+      "examples": [
+        {
+          "de": "Hier ist der Praktikant.",
+          "ru": "Вот практикант / стажер."
+        },
+        {
+          "de": "Wir müssen den Praktikant genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: практикант / стажер."
+        },
+        {
+          "de": "Sind Sie mit dem Praktikant einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: практикант / стажер?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Praktikant.",
+          "ru": "Сегодня мы концентрируемся на теме: практикант / стажер."
+        },
+        {
+          "de": "Der Praktikant spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Практикант / стажер играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Aushilfsstelle, die Aushilfsstellen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "временная работа / подработка",
+      "translation_en": "temporary / assistant position",
+      "examples": [
+        {
+          "de": "Hier ist die Aushilfsstelle.",
+          "ru": "Вот временная работа / подработка."
+        },
+        {
+          "de": "Wir müssen die Aushilfsstelle genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: временная работа / подработка."
+        },
+        {
+          "de": "Sind Sie mit der Aushilfsstelle einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: временная работа / подработка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Aushilfsstelle.",
+          "ru": "Сегодня мы концентрируемся на теме: временная работа / подработка."
+        },
+        {
+          "de": "Die Aushilfsstelle spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Временная работа / подработка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Teilzeitstelle, die Teilzeitstellen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "работа на неполную ставку",
+      "translation_en": "part-time job",
+      "examples": [
+        {
+          "de": "Hier ist die Teilzeitstelle.",
+          "ru": "Вот работа на неполную ставку."
+        },
+        {
+          "de": "Wir müssen die Teilzeitstelle genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: работа на неполную ставку."
+        },
+        {
+          "de": "Sind Sie mit der Teilzeitstelle einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: работа на неполную ставку?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Teilzeitstelle.",
+          "ru": "Сегодня мы концентрируемся на теме: работа на неполную ставку."
+        },
+        {
+          "de": "Die Teilzeitstelle spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Работа на неполную ставку играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Vollzeitstelle, die Vollzeitstellen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "работа на полную ставку",
+      "translation_en": "full-time job",
+      "examples": [
+        {
+          "de": "Hier ist die Vollzeitstelle.",
+          "ru": "Вот работа на полную ставку."
+        },
+        {
+          "de": "Wir müssen die Vollzeitstelle genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: работа на полную ставку."
+        },
+        {
+          "de": "Sind Sie mit der Vollzeitstelle einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: работа на полную ставку?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Vollzeitstelle.",
+          "ru": "Сегодня мы концентрируемся на теме: работа на полную ставку."
+        },
+        {
+          "de": "Die Vollzeitstelle spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Работа на полную ставку играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Festanstellung, die Festanstellungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "постоянная работа (в штате)",
+      "translation_en": "permanent position",
+      "examples": [
+        {
+          "de": "Hier ist die Festanstellung.",
+          "ru": "Вот постоянная работа (в штате)."
+        },
+        {
+          "de": "Wir müssen die Festanstellung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: постоянная работа (в штате)."
+        },
+        {
+          "de": "Sind Sie mit der Festanstellung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: постоянная работа (в штате)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Festanstellung.",
+          "ru": "Сегодня мы концентрируемся на теме: постоянная работа (в штате)."
+        },
+        {
+          "de": "Die Festanstellung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Постоянная работа (в штате) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "befristet",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "ограниченный сроком / временный",
+      "translation_en": "temporary / fixed-term",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich befristet.",
+          "ru": "Этот процесс действительно ограниченный сроком / временный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles befristet bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось ограниченный сроком / временный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders befristet.",
+          "ru": "Сегодня мы работаем особенно ограниченный сроком / временный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr befristet.",
+          "ru": "Полученный результат очень ограниченный сроком / временный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich befristet.",
+          "ru": "Я лично нахожу этот стиль работы ограниченный сроком / временный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "unbefristet",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "бессрочный / постоянный",
+      "translation_en": "permanent / open-ended",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich unbefristet.",
+          "ru": "Этот процесс действительно бессрочный / постоянный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles unbefristet bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось бессрочный / постоянный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders unbefristet.",
+          "ru": "Сегодня мы работаем особенно бессрочный / постоянный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr unbefristet.",
+          "ru": "Полученный результат очень бессрочный / постоянный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich unbefristet.",
+          "ru": "Я лично нахожу этот стиль работы бессрочный / постоянный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Stellenangebot, die Stellenangebote",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "предложение о работе / вакансия",
+      "translation_en": "job offer / vacancy",
+      "examples": [
+        {
+          "de": "Hier ist das Stellenangebot.",
+          "ru": "Вот предложение о работе / вакансия."
+        },
+        {
+          "de": "Wir müssen das Stellenangebot genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: предложение о работе / вакансия."
+        },
+        {
+          "de": "Sind Sie mit dem Stellenangebot einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: предложение о работе / вакансия?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Stellenangebot.",
+          "ru": "Сегодня мы концентрируемся на теме: предложение о работе / вакансия."
+        },
+        {
+          "de": "Das Stellenangebot spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Предложение о работе / вакансия играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Initiativbewerbung, die Initiativbewerbungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "инициативное резюме (без открытой вакансии)",
+      "translation_en": "speculative application",
+      "examples": [
+        {
+          "de": "Hier ist die Initiativbewerbung.",
+          "ru": "Вот инициативное резюме (без открытой вакансии)."
+        },
+        {
+          "de": "Wir müssen die Initiativbewerbung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: инициативное резюме (без открытой вакансии)."
+        },
+        {
+          "de": "Sind Sie mit der Initiativbewerbung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: инициативное резюме (без открытой вакансии)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Initiativbewerbung.",
+          "ru": "Сегодня мы концентрируемся на теме: инициативное резюме (без открытой вакансии)."
+        },
+        {
+          "de": "Die Initiativbewerbung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Инициативное резюме (без открытой вакансии) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Bewerbungsfoto, die Bewerbungsfotos",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "фотография для резюме",
+      "translation_en": "application photo",
+      "examples": [
+        {
+          "de": "Hier ist das Bewerbungsfoto.",
+          "ru": "Вот фотография для резюме."
+        },
+        {
+          "de": "Wir müssen das Bewerbungsfoto genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: фотография для резюме."
+        },
+        {
+          "de": "Sind Sie mit dem Bewerbungsfoto einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: фотография для резюме?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Bewerbungsfoto.",
+          "ru": "Сегодня мы концентрируемся на теме: фотография для резюме."
+        },
+        {
+          "de": "Das Bewerbungsfoto spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Фотография для резюме играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die E-Mail-Bewerbung, die E-Mail-Bewerbungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "отклик по электронной почте",
+      "translation_en": "email application",
+      "examples": [
+        {
+          "de": "Hier ist die E-Mail-Bewerbung.",
+          "ru": "Вот отклик по электронной почте."
+        },
+        {
+          "de": "Wir müssen die E-Mail-Bewerbung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: отклик по электронной почте."
+        },
+        {
+          "de": "Sind Sie mit der E-Mail-Bewerbung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: отклик по электронной почте?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die E-Mail-Bewerbung.",
+          "ru": "Сегодня мы концентрируемся на теме: отклик по электронной почте."
+        },
+        {
+          "de": "Die E-Mail-Bewerbung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Отклик по электронной почте играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Profil, die Profile",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "профиль / характеристика",
+      "translation_en": "profile",
+      "examples": [
+        {
+          "de": "Hier ist das Profil.",
+          "ru": "Вот профиль / характеристика."
+        },
+        {
+          "de": "Wir müssen das Profil genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: профиль / характеристика."
+        },
+        {
+          "de": "Sind Sie mit dem Profil einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: профиль / характеристика?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Profil.",
+          "ru": "Сегодня мы концентрируемся на теме: профиль / характеристика."
+        },
+        {
+          "de": "Das Profil spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Профиль / характеристика играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Stellenausschreibung, die Stellenausschreibungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "объявление о вакансии",
+      "translation_en": "job posting",
+      "examples": [
+        {
+          "de": "Hier ist die Stellenausschreibung.",
+          "ru": "Вот объявление о вакансии."
+        },
+        {
+          "de": "Wir müssen die Stellenausschreibung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: объявление о вакансии."
+        },
+        {
+          "de": "Sind Sie mit der Stellenausschreibung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: объявление о вакансии?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Stellenausschreibung.",
+          "ru": "Сегодня мы концентрируемся на теме: объявление о вакансии."
+        },
+        {
+          "de": "Die Stellenausschreibung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Объявление о вакансии играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Bewerber, die Bewerber",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "кандидат / соискатель",
+      "translation_en": "applicant / candidate",
+      "examples": [
+        {
+          "de": "Hier ist der Bewerber.",
+          "ru": "Вот кандидат / соискатель."
+        },
+        {
+          "de": "Wir müssen den Bewerber genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: кандидат / соискатель."
+        },
+        {
+          "de": "Sind Sie mit dem Bewerber einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: кандидат / соискатель?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Bewerber.",
+          "ru": "Сегодня мы концентрируемся на теме: кандидат / соискатель."
+        },
+        {
+          "de": "Der Bewerber spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Кандидат / соискатель играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Kandidat",
+        "Interessent"
+      ]
+    },
+    {
+      "word": "die Bewerberin, die Bewerberinnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "кандидатка / соискательница",
+      "translation_en": "female applicant",
+      "examples": [
+        {
+          "de": "Hier ist die Bewerberin.",
+          "ru": "Вот кандидатка / соискательница."
+        },
+        {
+          "de": "Wir müssen die Bewerberin genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: кандидатка / соискательница."
+        },
+        {
+          "de": "Sind Sie mit der Bewerberin einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: кандидатка / соискательница?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Bewerberin.",
+          "ru": "Сегодня мы концентрируемся на теме: кандидатка / соискательница."
+        },
+        {
+          "de": "Die Bewerberin spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Кандидатка / соискательница играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Bewerbungsfrist, die Bewerbungsfristen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "срок подачи резюме",
+      "translation_en": "application deadline",
+      "examples": [
+        {
+          "de": "Hier ist die Bewerbungsfrist.",
+          "ru": "Вот срок подачи резюме."
+        },
+        {
+          "de": "Wir müssen die Bewerbungsfrist genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: срок подачи резюме."
+        },
+        {
+          "de": "Sind Sie mit der Bewerbungsfrist einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: срок подачи резюме?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Bewerbungsfrist.",
+          "ru": "Сегодня мы концентрируемся на теме: срок подачи резюме."
+        },
+        {
+          "de": "Die Bewerbungsfrist spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Срок подачи резюме играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Bewerbungsverfahren, die Bewerbungsverfahren",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "процесс отбора кандидатов",
+      "translation_en": "application process",
+      "examples": [
+        {
+          "de": "Hier ist das Bewerbungsverfahren.",
+          "ru": "Вот процесс отбора кандидатов."
+        },
+        {
+          "de": "Wir müssen das Bewerbungsverfahren genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: процесс отбора кандидатов."
+        },
+        {
+          "de": "Sind Sie mit dem Bewerbungsverfahren einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: процесс отбора кандидатов?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Bewerbungsverfahren.",
+          "ru": "Сегодня мы концентрируемся на теме: процесс отбора кандидатов."
+        },
+        {
+          "de": "Das Bewerbungsverfahren spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Процесс отбора кандидатов играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Bewerbungsmappe, die Bewerbungsmappen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "папка с документами соискателя",
+      "translation_en": "application portfolio",
+      "examples": [
+        {
+          "de": "Hier ist die Bewerbungsmappe.",
+          "ru": "Вот папка с документами соискателя."
+        },
+        {
+          "de": "Wir müssen die Bewerbungsmappe genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: папка с документами соискателя."
+        },
+        {
+          "de": "Sind Sie mit der Bewerbungsmappe einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: папка с документами соискателя?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Bewerbungsmappe.",
+          "ru": "Сегодня мы концентрируемся на теме: папка с документами соискателя."
+        },
+        {
+          "de": "Die Bewerbungsmappe spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Папка с документами соискателя играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Karriereweg, die Karrierewege",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "путь карьерного роста",
+      "translation_en": "career path",
+      "examples": [
+        {
+          "de": "Hier ist der Karriereweg.",
+          "ru": "Вот путь карьерного роста."
+        },
+        {
+          "de": "Wir müssen den Karriereweg genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: путь карьерного роста."
+        },
+        {
+          "de": "Sind Sie mit dem Karriereweg einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: путь карьерного роста?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Karriereweg.",
+          "ru": "Сегодня мы концентрируемся на теме: путь карьерного роста."
+        },
+        {
+          "de": "Der Karriereweg spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Путь карьерного роста играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kompetenz, die Kompetenzen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "компетенция / квалификация",
+      "translation_en": "competence / skill",
+      "examples": [
+        {
+          "de": "Hier ist die Kompetenz.",
+          "ru": "Вот компетенция / квалификация."
+        },
+        {
+          "de": "Wir müssen die Kompetenz genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: компетенция / квалификация."
+        },
+        {
+          "de": "Sind Sie mit der Kompetenz einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: компетенция / квалификация?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kompetenz.",
+          "ru": "Сегодня мы концентрируемся на теме: компетенция / квалификация."
+        },
+        {
+          "de": "Die Kompetenz spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Компетенция / квалификация играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Soft Skills, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "гибкие навыки (личные качества)",
+      "translation_en": "soft skills",
+      "examples": [
+        {
+          "de": "Hier sind die Soft Skills.",
+          "ru": "Вот гибкие навыки (личные качества)."
+        },
+        {
+          "de": "Wir müssen die Soft Skills genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: гибкие навыки (личные качества)."
+        },
+        {
+          "de": "Sind Sie mit den Soft Skills einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: гибкие навыки (личные качества)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Soft Skills.",
+          "ru": "Сегодня мы концентрируемся на теме: гибкие навыки (личные качества)."
+        },
+        {
+          "de": "Die Soft Skills spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Гибкие навыки (личные качества) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Hard Skills, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "профессиональные / жесткие навыки",
+      "translation_en": "hard skills",
+      "examples": [
+        {
+          "de": "Hier sind die Hard Skills.",
+          "ru": "Вот профессиональные / жесткие навыки."
+        },
+        {
+          "de": "Wir müssen die Hard Skills genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: профессиональные / жесткие навыки."
+        },
+        {
+          "de": "Sind Sie mit den Hard Skills einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: профессиональные / жесткие навыки?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Hard Skills.",
+          "ru": "Сегодня мы концентрируемся на теме: профессиональные / жесткие навыки."
+        },
+        {
+          "de": "Die Hard Skills spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Профессиональные / жесткие навыки играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Fachwissen, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "профессиональные знания",
+      "translation_en": "expert knowledge",
+      "examples": [
+        {
+          "de": "Hier ist das Fachwissen.",
+          "ru": "Вот профессиональные знания."
+        },
+        {
+          "de": "Wir müssen das Fachwissen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: профессиональные знания."
+        },
+        {
+          "de": "Sind Sie mit dem Fachwissen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: профессиональные знания?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Fachwissen.",
+          "ru": "Сегодня мы концентрируемся на теме: профессиональные знания."
+        },
+        {
+          "de": "Das Fachwissen spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Профессиональные знания играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Sprachkenntnisse, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "знание языков",
+      "translation_en": "language skills",
+      "examples": [
+        {
+          "de": "Hier sind die Sprachkenntnisse.",
+          "ru": "Вот знание языков."
+        },
+        {
+          "de": "Wir müssen die Sprachkenntnisse genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: знание языков."
+        },
+        {
+          "de": "Sind Sie mit den Sprachkenntnisse einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: знание языков?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Sprachkenntnisse.",
+          "ru": "Сегодня мы концентрируемся на теме: знание языков."
+        },
+        {
+          "de": "Die Sprachkenntnisse spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Знание языков играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die IT-Kenntnisse, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "компьютерная грамотность / знание IT",
+      "translation_en": "IT skills",
+      "examples": [
+        {
+          "de": "Hier sind die IT-Kenntnisse.",
+          "ru": "Вот компьютерная грамотность / знание IT."
+        },
+        {
+          "de": "Wir müssen die IT-Kenntnisse genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: компьютерная грамотность / знание IT."
+        },
+        {
+          "de": "Sind Sie mit den IT-Kenntnisse einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: компьютерная грамотность / знание IT?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die IT-Kenntnisse.",
+          "ru": "Сегодня мы концентрируемся на теме: компьютерная грамотность / знание IT."
+        },
+        {
+          "de": "Die IT-Kenntnisse spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Компьютерная грамотность / знание IT играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Weiterbildung, die Weiterbildungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "повышение квалификации",
+      "translation_en": "further training / education",
+      "examples": [
+        {
+          "de": "Hier ist die Weiterbildung.",
+          "ru": "Вот повышение квалификации."
+        },
+        {
+          "de": "Wir müssen die Weiterbildung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: повышение квалификации."
+        },
+        {
+          "de": "Sind Sie mit der Weiterbildung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: повышение квалификации?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Weiterbildung.",
+          "ru": "Сегодня мы концентрируемся на теме: повышение квалификации."
+        },
+        {
+          "de": "Die Weiterbildung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Повышение квалификации играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Quereinsteiger, die Quereinsteiger",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "специалист из другой сферы",
+      "translation_en": "lateral entrant",
+      "examples": [
+        {
+          "de": "Hier ist der Quereinsteiger.",
+          "ru": "Вот специалист из другой сферы."
+        },
+        {
+          "de": "Wir müssen den Quereinsteiger genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: специалист из другой сферы."
+        },
+        {
+          "de": "Sind Sie mit dem Quereinsteiger einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: специалист из другой сферы?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Quereinsteiger.",
+          "ru": "Сегодня мы концентрируемся на теме: специалист из другой сферы."
+        },
+        {
+          "de": "Der Quereinsteiger spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Специалист из другой сферы играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Umschulung, die Umschulungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "переобучение / переквалификация",
+      "translation_en": "retraining",
+      "examples": [
+        {
+          "de": "Hier ist die Umschulung.",
+          "ru": "Вот переобучение / переквалификация."
+        },
+        {
+          "de": "Wir müssen die Umschulung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: переобучение / переквалификация."
+        },
+        {
+          "de": "Sind Sie mit der Umschulung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: переобучение / переквалификация?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Umschulung.",
+          "ru": "Сегодня мы концентрируемся на теме: переобучение / переквалификация."
+        },
+        {
+          "de": "Die Umschulung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Переобучение / переквалификация играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Referenzperson, die Referenzpersonen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "лицо, дающее рекомендацию",
+      "translation_en": "referee",
+      "examples": [
+        {
+          "de": "Hier ist die Referenzperson.",
+          "ru": "Вот лицо, дающее рекомендацию."
+        },
+        {
+          "de": "Wir müssen die Referenzperson genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: лицо, дающее рекомендацию."
+        },
+        {
+          "de": "Sind Sie mit der Referenzperson einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: лицо, дающее рекомендацию?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Referenzperson.",
+          "ru": "Сегодня мы концентрируемся на теме: лицо, дающее рекомендацию."
+        },
+        {
+          "de": "Die Referenzperson spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Лицо, дающее рекомендацию играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Empfehlungsschreiben, die Empfehlungsschreiben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "рекомендательное письмо",
+      "translation_en": "letter of recommendation",
+      "examples": [
+        {
+          "de": "Hier ist das Empfehlungsschreiben.",
+          "ru": "Вот рекомендательное письмо."
+        },
+        {
+          "de": "Wir müssen das Empfehlungsschreiben genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: рекомендательное письмо."
+        },
+        {
+          "de": "Sind Sie mit dem Empfehlungsschreiben einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: рекомендательное письмо?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Empfehlungsschreiben.",
+          "ru": "Сегодня мы концентрируемся на теме: рекомендательное письмо."
+        },
+        {
+          "de": "Das Empfehlungsschreiben spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Рекомендательное письмо играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Lücke, die Lücken",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "пробел (в резюме/биографии)",
+      "translation_en": "gap (in CV)",
+      "examples": [
+        {
+          "de": "Hier ist die Lücke.",
+          "ru": "Вот пробел (в резюме/биографии)."
+        },
+        {
+          "de": "Wir müssen die Lücke genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: пробел (в резюме/биографии)."
+        },
+        {
+          "de": "Sind Sie mit der Lücke einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: пробел (в резюме/биографии)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Lücke.",
+          "ru": "Сегодня мы концентрируемся на теме: пробел (в резюме/биографии)."
+        },
+        {
+          "de": "Die Lücke spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Пробел (в резюме/биографии) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Lebenslauf-Entwurf, die Entwürfe",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "черновик резюме",
+      "translation_en": "CV draft",
+      "examples": [
+        {
+          "de": "Hier ist der Lebenslauf-Entwurf.",
+          "ru": "Вот черновик резюме."
+        },
+        {
+          "de": "Wir müssen den Lebenslauf-Entwurf genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: черновик резюме."
+        },
+        {
+          "de": "Sind Sie mit dem Lebenslauf-Entwurf einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: черновик резюме?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Lebenslauf-Entwurf.",
+          "ru": "Сегодня мы концентрируемся на теме: черновик резюме."
+        },
+        {
+          "de": "Der Lebenslauf-Entwurf spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Черновик резюме играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "aktuell",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "текущий / актуальный",
+      "translation_en": "current / up-to-date",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich aktuell.",
+          "ru": "Этот процесс действительно текущий / актуальный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles aktuell bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось текущий / актуальный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders aktuell.",
+          "ru": "Сегодня мы работаем особенно текущий / актуальный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr aktuell.",
+          "ru": "Полученный результат очень текущий / актуальный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich aktuell.",
+          "ru": "Я лично нахожу этот стиль работы текущий / актуальный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "lückenlos",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "без пробелов (о биографии)",
+      "translation_en": "without gaps / continuous",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich lückenlos.",
+          "ru": "Этот процесс действительно без пробелов (о биографии)."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles lückenlos bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось без пробелов (о биографии)."
+        },
+        {
+          "de": "Wir arbeiten heute besonders lückenlos.",
+          "ru": "Сегодня мы работаем особенно без пробелов (о биографии)."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr lückenlos.",
+          "ru": "Полученный результат очень без пробелов (о биографии)."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich lückenlos.",
+          "ru": "Я лично нахожу этот стиль работы без пробелов (о биографии)."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "ausführlich",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "подробный / детальный",
+      "translation_en": "detailed",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich ausführlich.",
+          "ru": "Этот процесс действительно подробный / детальный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles ausführlich bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось подробный / детальный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders ausführlich.",
+          "ru": "Сегодня мы работаем особенно подробный / детальный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr ausführlich.",
+          "ru": "Полученный результат очень подробный / детальный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich ausführlich.",
+          "ru": "Я лично нахожу этот стиль работы подробный / детальный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "kurzgefasst",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "краткий / сжатый",
+      "translation_en": "summarized / concise",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich kurzgefasst.",
+          "ru": "Этот процесс действительно краткий / сжатый."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles kurzgefasst bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось краткий / сжатый."
+        },
+        {
+          "de": "Wir arbeiten heute besonders kurzgefasst.",
+          "ru": "Сегодня мы работаем особенно краткий / сжатый."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr kurzgefasst.",
+          "ru": "Полученный результат очень краткий / сжатый."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich kurzgefasst.",
+          "ru": "Я лично нахожу этот стиль работы краткий / сжатый."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "aussagekräftig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "информативный / содержательный",
+      "translation_en": "meaningful / significant",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich aussagekräftig.",
+          "ru": "Этот процесс действительно информативный / содержательный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles aussagekräftig bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось информативный / содержательный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders aussagekräftig.",
+          "ru": "Сегодня мы работаем особенно информативный / содержательный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr aussagekräftig.",
+          "ru": "Полученный результат очень информативный / содержательный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich aussagekräftig.",
+          "ru": "Я лично нахожу этот стиль работы информативный / содержательный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Bildungsabschluss, die Bildungsabschlüsse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "уровень образования (степень)",
+      "translation_en": "educational qualification",
+      "examples": [
+        {
+          "de": "Hier ist der Bildungsabschluss.",
+          "ru": "Вот уровень образования (степень)."
+        },
+        {
+          "de": "Wir müssen den Bildungsabschluss genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: уровень образования (степень)."
+        },
+        {
+          "de": "Sind Sie mit dem Bildungsabschluss einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: уровень образования (степень)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Bildungsabschluss.",
+          "ru": "Сегодня мы концентрируемся на теме: уровень образования (степень)."
+        },
+        {
+          "de": "Der Bildungsabschluss spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Уровень образования (степень) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Berufsausbildung, die Berufsausbildungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "профтехобразование",
+      "translation_en": "vocational training",
+      "examples": [
+        {
+          "de": "Hier ist die Berufsausbildung.",
+          "ru": "Вот профтехобразование."
+        },
+        {
+          "de": "Wir müssen die Berufsausbildung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: профтехобразование."
+        },
+        {
+          "de": "Sind Sie mit der Berufsausbildung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: профтехобразование?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Berufsausbildung.",
+          "ru": "Сегодня мы концентрируемся на теме: профтехобразование."
+        },
+        {
+          "de": "Die Berufsausbildung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Профтехобразование играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Eignung, die Eignungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "пригодность / соответствие требованиям",
+      "translation_en": "suitability / fitness",
+      "examples": [
+        {
+          "de": "Hier ist die Eignung.",
+          "ru": "Вот пригодность / соответствие требованиям."
+        },
+        {
+          "de": "Wir müssen die Eignung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: пригодность / соответствие требованиям."
+        },
+        {
+          "de": "Sind Sie mit der Eignung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: пригодность / соответствие требованиям?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Eignung.",
+          "ru": "Сегодня мы концентрируемся на теме: пригодность / соответствие требованиям."
+        },
+        {
+          "de": "Die Eignung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Пригодность / соответствие требованиям играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "geeignet",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "подходящий / пригодный",
+      "translation_en": "suitable / qualified",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich geeignet.",
+          "ru": "Этот процесс действительно подходящий / пригодный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles geeignet bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось подходящий / пригодный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders geeignet.",
+          "ru": "Сегодня мы работаем особенно подходящий / пригодный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr geeignet.",
+          "ru": "Полученный результат очень подходящий / пригодный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich geeignet.",
+          "ru": "Я лично нахожу этот стиль работы подходящий / пригодный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Arbeitsmarkt, die Arbeitsmärkte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "рынок труда",
+      "translation_en": "labor market",
+      "examples": [
+        {
+          "de": "Hier ist der Arbeitsmarkt.",
+          "ru": "Вот рынок труда."
+        },
+        {
+          "de": "Wir müssen den Arbeitsmarkt genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: рынок труда."
+        },
+        {
+          "de": "Sind Sie mit dem Arbeitsmarkt einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: рынок труда?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Arbeitsmarkt.",
+          "ru": "Сегодня мы концентрируемся на теме: рынок труда."
+        },
+        {
+          "de": "Der Arbeitsmarkt spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Рынок труда играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Jobbörse, die Jobbörsen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "биржа труда / сайт вакансий",
+      "translation_en": "job board",
+      "examples": [
+        {
+          "de": "Hier ist die Jobbörse.",
+          "ru": "Вот биржа труда / сайт вакансий."
+        },
+        {
+          "de": "Wir müssen die Jobbörse genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: биржа труда / сайт вакансий."
+        },
+        {
+          "de": "Sind Sie mit der Jobbörse einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: биржа труда / сайт вакансий?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Jobbörse.",
+          "ru": "Сегодня мы концентрируемся на теме: биржа труда / сайт вакансий."
+        },
+        {
+          "de": "Die Jobbörse spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Биржа труда / сайт вакансий играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Vermittlung, die Vermittlungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "трудоустройство / посредничество",
+      "translation_en": "placement / agency",
+      "examples": [
+        {
+          "de": "Hier ist die Vermittlung.",
+          "ru": "Вот трудоустройство / посредничество."
+        },
+        {
+          "de": "Wir müssen die Vermittlung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: трудоустройство / посредничество."
+        },
+        {
+          "de": "Sind Sie mit der Vermittlung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: трудоустройство / посредничество?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Vermittlung.",
+          "ru": "Сегодня мы концентрируемся на теме: трудоустройство / посредничество."
+        },
+        {
+          "de": "Die Vermittlung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Трудоустройство / посредничество играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Headhunter, die Headhunter",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "охотник за головами / рекрутер",
+      "translation_en": "headhunter",
+      "examples": [
+        {
+          "de": "Hier ist der Headhunter.",
+          "ru": "Вот охотник за головами / рекрутер."
+        },
+        {
+          "de": "Wir müssen den Headhunter genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: охотник за головами / рекрутер."
+        },
+        {
+          "de": "Sind Sie mit dem Headhunter einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: охотник за головами / рекрутер?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Headhunter.",
+          "ru": "Сегодня мы концентрируемся на теме: охотник за головами / рекрутер."
+        },
+        {
+          "de": "Der Headhunter spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Охотник за головами / рекрутер играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Personalberatung, die Personalberatungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "агентство по подбору персонала",
+      "translation_en": "recruitment consultancy",
+      "examples": [
+        {
+          "de": "Hier ist die Personalberatung.",
+          "ru": "Вот агентство по подбору персонала."
+        },
+        {
+          "de": "Wir müssen die Personalberatung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: агентство по подбору персонала."
+        },
+        {
+          "de": "Sind Sie mit der Personalberatung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: агентство по подбору персонала?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Personalberatung.",
+          "ru": "Сегодня мы концентрируемся на теме: агентство по подбору персонала."
+        },
+        {
+          "de": "Die Personalberatung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Агентство по подбору персонала играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Anschreiben-Muster, die Muster",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "образец сопроводительного письма",
+      "translation_en": "cover letter template",
+      "examples": [
+        {
+          "de": "Hier ist das Anschreiben-Muster.",
+          "ru": "Вот образец сопроводительного письма."
+        },
+        {
+          "de": "Wir müssen das Anschreiben-Muster genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: образец сопроводительного письма."
+        },
+        {
+          "de": "Sind Sie mit dem Anschreiben-Muster einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: образец сопроводительного письма?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Anschreiben-Muster.",
+          "ru": "Сегодня мы концентрируемся на теме: образец сопроводительного письма."
+        },
+        {
+          "de": "Das Anschreiben-Muster spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Образец сопроводительного письма играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Unterschrift, die Unterschriften",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "подпись",
+      "translation_en": "signature",
+      "examples": [
+        {
+          "de": "Hier ist die Unterschrift.",
+          "ru": "Вот подпись."
+        },
+        {
+          "de": "Wir müssen die Unterschrift genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: подпись."
+        },
+        {
+          "de": "Sind Sie mit der Unterschrift einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: подпись?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Unterschrift.",
+          "ru": "Сегодня мы концентрируемся на теме: подпись."
+        },
+        {
+          "de": "Die Unterschrift spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Подпись играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kontaktdaten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "контактные данные",
+      "translation_en": "contact details",
+      "examples": [
+        {
+          "de": "Hier sind die Kontaktdaten.",
+          "ru": "Вот контактные данные."
+        },
+        {
+          "de": "Wir müssen die Kontaktdaten genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: контактные данные."
+        },
+        {
+          "de": "Sind Sie mit den Kontaktdaten einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: контактные данные?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kontaktdaten.",
+          "ru": "Сегодня мы концентрируемся на теме: контактные данные."
+        },
+        {
+          "de": "Die Kontaktdaten spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Контактные данные играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Anschreiben-Layout, die Layouts",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "оформление сопроводительного письма",
+      "translation_en": "cover letter layout",
+      "examples": [
+        {
+          "de": "Hier ist das Anschreiben-Layout.",
+          "ru": "Вот оформление сопроводительного письма."
+        },
+        {
+          "de": "Wir müssen das Anschreiben-Layout genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: оформление сопроводительного письма."
+        },
+        {
+          "de": "Sind Sie mit dem Anschreiben-Layout einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: оформление сопроводительного письма?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Anschreiben-Layout.",
+          "ru": "Сегодня мы концентрируемся на теме: оформление сопроводительного письма."
+        },
+        {
+          "de": "Das Anschreiben-Layout spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Оформление сопроводительного письма играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die PDF-Datei, die PDF-Dateien",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "файл формата PDF",
+      "translation_en": "PDF file",
+      "examples": [
+        {
+          "de": "Hier ist die PDF-Datei.",
+          "ru": "Вот файл формата PDF."
+        },
+        {
+          "de": "Wir müssen die PDF-Datei genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: файл формата PDF."
+        },
+        {
+          "de": "Sind Sie mit der PDF-Datei einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: файл формата PDF?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die PDF-Datei.",
+          "ru": "Сегодня мы концентрируемся на теме: файл формата PDF."
+        },
+        {
+          "de": "Die PDF-Datei spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Файл формата PDF играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Formatierung, die Formatierungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "форматирование",
+      "translation_en": "formatting",
+      "examples": [
+        {
+          "de": "Hier ist die Formatierung.",
+          "ru": "Вот форматирование."
+        },
+        {
+          "de": "Wir müssen die Formatierung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: форматирование."
+        },
+        {
+          "de": "Sind Sie mit der Formatierung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: форматирование?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Formatierung.",
+          "ru": "Сегодня мы концентрируемся на теме: форматирование."
+        },
+        {
+          "de": "Die Formatierung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Форматирование играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Anschreiben-Design, die Designs",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "дизайн сопроводительного письма",
+      "translation_en": "cover letter design",
+      "examples": [
+        {
+          "de": "Hier ist das Anschreiben-Design.",
+          "ru": "Вот дизайн сопроводительного письма."
+        },
+        {
+          "de": "Wir müssen das Anschreiben-Design genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: дизайн сопроводительного письма."
+        },
+        {
+          "de": "Sind Sie mit dem Anschreiben-Design einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: дизайн сопроводительного письма?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Anschreiben-Design.",
+          "ru": "Сегодня мы концентрируемся на теме: дизайн сопроводительного письма."
+        },
+        {
+          "de": "Das Anschreiben-Design spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Дизайн сопроводительного письма играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Lebenslauf-Aufbau, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "структура резюме",
+      "translation_en": "CV structure",
+      "examples": [
+        {
+          "de": "Hier ist der Lebenslauf-Aufbau.",
+          "ru": "Вот структура резюме."
+        },
+        {
+          "de": "Wir müssen den Lebenslauf-Aufbau genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: структура резюме."
+        },
+        {
+          "de": "Sind Sie mit dem Lebenslauf-Aufbau einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: структура резюме?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Lebenslauf-Aufbau.",
+          "ru": "Сегодня мы концентрируемся на теме: структура резюме."
+        },
+        {
+          "de": "Der Lebenslauf-Aufbau spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Структура резюме играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Gliederung des Lebenslaufs"
+      ]
+    },
+    {
+      "word": "die Berufspraxis, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "профессиональная практика",
+      "translation_en": "professional practice",
+      "examples": [
+        {
+          "de": "Hier ist die Berufspraxis.",
+          "ru": "Вот профессиональная практика."
+        },
+        {
+          "de": "Wir müssen die Berufspraxis genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: профессиональная практика."
+        },
+        {
+          "de": "Sind Sie mit der Berufspraxis einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: профессиональная практика?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Berufspraxis.",
+          "ru": "Сегодня мы концентрируемся на теме: профессиональная практика."
+        },
+        {
+          "de": "Die Berufspraxis spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Профессиональная практика играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Zusatzqualifikation, die Zusatzqualifikationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "дополнительная квалификация",
+      "translation_en": "additional qualification",
+      "examples": [
+        {
+          "de": "Hier ist die Zusatzqualifikation.",
+          "ru": "Вот дополнительная квалификация."
+        },
+        {
+          "de": "Wir müssen die Zusatzqualifikation genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: дополнительная квалификация."
+        },
+        {
+          "de": "Sind Sie mit der Zusatzqualifikation einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: дополнительная квалификация?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Zusatzqualifikation.",
+          "ru": "Сегодня мы концентрируемся на теме: дополнительная квалификация."
+        },
+        {
+          "de": "Die Zusatzqualifikation spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Дополнительная квалификация играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Schulzeugnis, die Schulzeugnisse",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "школьный аттестат",
+      "translation_en": "school certificate",
+      "examples": [
+        {
+          "de": "Hier ist das Schulzeugnis.",
+          "ru": "Вот школьный аттестат."
+        },
+        {
+          "de": "Wir müssen das Schulzeugnis genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: школьный аттестат."
+        },
+        {
+          "de": "Sind Sie mit dem Schulzeugnis einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: школьный аттестат?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Schulzeugnis.",
+          "ru": "Сегодня мы концентрируемся на теме: школьный аттестат."
+        },
+        {
+          "de": "Das Schulzeugnis spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Школьный аттестат играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Diplom, die Diplome",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "диплом",
+      "translation_en": "diploma",
+      "examples": [
+        {
+          "de": "Hier ist das Diplom.",
+          "ru": "Вот диплом."
+        },
+        {
+          "de": "Wir müssen das Diplom genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: диплом."
+        },
+        {
+          "de": "Sind Sie mit dem Diplom einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: диплом?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Diplom.",
+          "ru": "Сегодня мы концентрируемся на теме: диплом."
+        },
+        {
+          "de": "Das Diplom spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Диплом играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Bachelorzeugnis, die Bachelorzeugnisse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "диплом бакалавра",
+      "translation_en": "bachelor's certificate",
+      "examples": [
+        {
+          "de": "Hier ist das Bachelorzeugnis.",
+          "ru": "Вот диплом бакалавра."
+        },
+        {
+          "de": "Wir müssen das Bachelorzeugnis genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: диплом бакалавра."
+        },
+        {
+          "de": "Sind Sie mit dem Bachelorzeugnis einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: диплом бакалавра?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Bachelorzeugnis.",
+          "ru": "Сегодня мы концентрируемся на теме: диплом бакалавра."
+        },
+        {
+          "de": "Das Bachelorzeugnis spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Диплом бакалавра играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Masterzeugnis, die Masterzeugnisse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "диплом магистра",
+      "translation_en": "master's certificate",
+      "examples": [
+        {
+          "de": "Hier ist das Masterzeugnis.",
+          "ru": "Вот диплом магистра."
+        },
+        {
+          "de": "Wir müssen das Masterzeugnis genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: диплом магистра."
+        },
+        {
+          "de": "Sind Sie mit dem Masterzeugnis einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: диплом магистра?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Masterzeugnis.",
+          "ru": "Сегодня мы концентрируемся на теме: диплом магистра."
+        },
+        {
+          "de": "Das Masterzeugnis spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Диплом магистра играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Empfehlungsdokument, die Dokumente",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "рекомендательный документ",
+      "translation_en": "recommendation document",
+      "examples": [
+        {
+          "de": "Hier ist das Empfehlungsdokument.",
+          "ru": "Вот рекомендательный документ."
+        },
+        {
+          "de": "Wir müssen das Empfehlungsdokument genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: рекомендательный документ."
+        },
+        {
+          "de": "Sind Sie mit dem Empfehlungsdokument einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: рекомендательный документ?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Empfehlungsdokument.",
+          "ru": "Сегодня мы концентрируемся на теме: рекомендательный документ."
+        },
+        {
+          "de": "Das Empfehlungsdokument spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Рекомендательный документ играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Anschreiben-Ziel, die Ziele",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "цель сопроводительного письма",
+      "translation_en": "cover letter goal",
+      "examples": [
+        {
+          "de": "Hier ist das Anschreiben-Ziel.",
+          "ru": "Вот цель сопроводительного письма."
+        },
+        {
+          "de": "Wir müssen das Anschreiben-Ziel genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: цель сопроводительного письма."
+        },
+        {
+          "de": "Sind Sie mit dem Anschreiben-Ziel einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: цель сопроводительного письма?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Anschreiben-Ziel.",
+          "ru": "Сегодня мы концентрируемся на теме: цель сопроводительного письма."
+        },
+        {
+          "de": "Das Anschreiben-Ziel spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Цель сопроводительного письма играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Initiativstelle, die Initiativstellen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "инициативная вакансия",
+      "translation_en": "speculative vacancy",
+      "examples": [
+        {
+          "de": "Hier ist die Initiativstelle.",
+          "ru": "Вот инициативная вакансия."
+        },
+        {
+          "de": "Wir müssen die Initiativstelle genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: инициативная вакансия."
+        },
+        {
+          "de": "Sind Sie mit der Initiativstelle einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: инициативная вакансия?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Initiativstelle.",
+          "ru": "Сегодня мы концентрируемся на теме: инициативная вакансия."
+        },
+        {
+          "de": "Die Initiativstelle spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Инициативная вакансия играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Ansprechpartner, die Ansprechpartner",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "контактное лицо",
+      "translation_en": "contact person",
+      "examples": [
+        {
+          "de": "Hier ist der Ansprechpartner.",
+          "ru": "Вот контактное лицо."
+        },
+        {
+          "de": "Wir müssen den Ansprechpartner genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: контактное лицо."
+        },
+        {
+          "de": "Sind Sie mit dem Ansprechpartner einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: контактное лицо?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Ansprechpartner.",
+          "ru": "Сегодня мы концентрируемся на теме: контактное лицо."
+        },
+        {
+          "de": "Der Ansprechpartner spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Контактное лицо играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "anpassen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "адаптировать / подгонять",
+      "translation_en": "to adapt / customize",
+      "examples": [
+        {
+          "de": "Wir passen an diese Angelegenheit direkt im Team.",
+          "ru": "Мы адаптировать / подгонять этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich passe an die notwendigen Unterlagen sofort.",
+          "ru": "Я адаптировать / подгонять необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege passt an das Ganze sehr professionell.",
+          "ru": "Ответственный коллега адаптировать / подгонять всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich angepasst.",
+          "ru": "Мы успешно адаптировать / подгонять (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "passen Sie an bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: адаптировать / подгонять вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "angepasst",
+      "imperative": "passe an! / passt an! / passen Sie an!",
+      "conjugations": {
+        "ich": "passe an",
+        "du": "passt an",
+        "er/sie/es": "passt an",
+        "wir": "passen an",
+        "ihr": "passt an",
+        "sie/Sie": "passen an"
+      },
+      "prepositions": [
+        "an + Akkusativ (приспосабливать к чему-то)"
+      ]
+    },
+    {
+      "word": "überarbeiten",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "перерабатывать / редактировать",
+      "translation_en": "to revise / edit",
+      "examples": [
+        {
+          "de": "Wir überarbeiten diese Angelegenheit direkt im Team.",
+          "ru": "Мы перерабатывать / редактировать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich überarbeite die notwendigen Unterlagen sofort.",
+          "ru": "Я перерабатывать / редактировать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege überarbeitet das Ganze sehr professionell.",
+          "ru": "Ответственный коллега перерабатывать / редактировать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich überarbeitet.",
+          "ru": "Мы успешно перерабатывать / редактировать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "überarbeiten Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: перерабатывать / редактировать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "überarbeitet",
+      "imperative": "überarbeite! / überarbeitet! / überarbeiten Sie!",
+      "conjugations": {
+        "ich": "überarbeite",
+        "du": "überarbeitest",
+        "er/sie/es": "überarbeitet",
+        "wir": "überarbeiten",
+        "ihr": "überarbeitet",
+        "sie/Sie": "überarbeiten"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "kontrollieren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "контролировать / проверять",
+      "translation_en": "to check / control",
+      "examples": [
+        {
+          "de": "Wir kontrollieren diese Angelegenheit direkt im Team.",
+          "ru": "Мы контролировать / проверять этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich kontrolliere die notwendigen Unterlagen sofort.",
+          "ru": "Я контролировать / проверять необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege kontrolliert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега контролировать / проверять всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich kontrolliert.",
+          "ru": "Мы успешно контролировать / проверять (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "kontrollieren Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: контролировать / проверять вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "kontrolliert",
+      "imperative": "kontrolliere! / kontrolliert! / kontrollieren Sie!",
+      "conjugations": {
+        "ich": "kontrolliere",
+        "du": "kontrollierst",
+        "er/sie/es": "kontrolliert",
+        "wir": "kontrollieren",
+        "ihr": "kontrolliert",
+        "sie/Sie": "kontrollieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "korrekturlesen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "вычитывать / корректировать",
+      "translation_en": "to proofread",
+      "examples": [
+        {
+          "de": "Wir korrekturlesen diese Angelegenheit direkt im Team.",
+          "ru": "Мы вычитывать / корректировать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich korrekturlese die notwendigen Unterlagen sofort.",
+          "ru": "Я вычитывать / корректировать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege korrekturlest das Ganze sehr professionell.",
+          "ru": "Ответственный коллега вычитывать / корректировать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich gekorrekturlest.",
+          "ru": "Мы успешно вычитывать / корректировать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "korrekturlesen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: вычитывать / корректировать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gekorrekturlest",
+      "imperative": "korrekturlese! / korrekturlest! / korrekturlesen Sie!",
+      "conjugations": {
+        "ich": "korrekturlese",
+        "du": "korrekturlest",
+        "er/sie/es": "korrekturlest",
+        "wir": "korrekturlesen",
+        "ihr": "korrekturlest",
+        "sie/Sie": "korrekturlesen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "speichern",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "сохранять",
+      "translation_en": "to save",
+      "examples": [
+        {
+          "de": "Wir speichern diese Angelegenheit direkt im Team.",
+          "ru": "Мы сохранять этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich speichere die notwendigen Unterlagen sofort.",
+          "ru": "Я сохранять необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege speichert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега сохранять всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich gespeichert.",
+          "ru": "Мы успешно сохранять (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "speichern Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: сохранять вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gespeichert",
+      "imperative": "speichere! / speichert! / speichern Sie!",
+      "conjugations": {
+        "ich": "speichere",
+        "du": "speicherst",
+        "er/sie/es": "speichert",
+        "wir": "speichern",
+        "ihr": "speichert",
+        "sie/Sie": "speichern"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "ausdrucken",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "распечатывать",
+      "translation_en": "to print",
+      "examples": [
+        {
+          "de": "Wir drucken aus diese Angelegenheit direkt im Team.",
+          "ru": "Мы распечатывать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich drucke aus die notwendigen Unterlagen sofort.",
+          "ru": "Я распечатывать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege druckt aus das Ganze sehr professionell.",
+          "ru": "Ответственный коллега распечатывать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich ausgedruckt.",
+          "ru": "Мы успешно распечатывать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "drucken Sie aus bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: распечатывать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "ausgedruckt",
+      "imperative": "drucke aus! / druckt aus! / drucken Sie aus!",
+      "conjugations": {
+        "ich": "drucke aus",
+        "du": "druckst aus",
+        "er/sie/es": "druckt aus",
+        "wir": "drucken aus",
+        "ihr": "druckt aus",
+        "sie/Sie": "drucken aus"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "versenden",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "отправлять / рассылать",
+      "translation_en": "to send",
+      "examples": [
+        {
+          "de": "Wir versenden diese Angelegenheit direkt im Team.",
+          "ru": "Мы отправлять / рассылать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich versende die notwendigen Unterlagen sofort.",
+          "ru": "Я отправлять / рассылать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege versendet das Ganze sehr professionell.",
+          "ru": "Ответственный коллега отправлять / рассылать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich versendet.",
+          "ru": "Мы успешно отправлять / рассылать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "versenden Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: отправлять / рассылать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "versendet",
+      "imperative": "versende! / versendet! / versenden Sie!",
+      "conjugations": {
+        "ich": "versende",
+        "du": "versendest",
+        "er/sie/es": "versendet",
+        "wir": "versenden",
+        "ihr": "versendet",
+        "sie/Sie": "versenden"
+      },
+      "prepositions": [
+        "an + Akkusativ (отправлять кому-то)"
+      ]
+    },
+    {
+      "word": "erwarten",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "ожидать / требовать",
+      "translation_en": "to expect",
+      "examples": [
+        {
+          "de": "Wir erwarten diese Angelegenheit direkt im Team.",
+          "ru": "Мы ожидать / требовать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich erwarte die notwendigen Unterlagen sofort.",
+          "ru": "Я ожидать / требовать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege erwartet das Ganze sehr professionell.",
+          "ru": "Ответственный коллега ожидать / требовать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich erwartet.",
+          "ru": "Мы успешно ожидать / требовать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "erwarten Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: ожидать / требовать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "erwartet",
+      "imperative": "erwarte! / erwartet! / erwarten Sie!",
+      "conjugations": {
+        "ich": "erwarte",
+        "du": "erwartest",
+        "er/sie/es": "erwartet",
+        "wir": "erwarten",
+        "ihr": "erwartet",
+        "sie/Sie": "erwarten"
+      },
+      "prepositions": [
+        "von + Dativ (ожидать от кого-то / чего-то)"
+      ]
+    },
+    {
+      "word": "erfüllen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "выполнять / удовлетворять (требованиям)",
+      "translation_en": "to fulfill / satisfy",
+      "examples": [
+        {
+          "de": "Wir erfüllen diese Angelegenheit direkt im Team.",
+          "ru": "Мы выполнять / удовлетворять (требованиям) этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich erfülle die notwendigen Unterlagen sofort.",
+          "ru": "Я выполнять / удовлетворять (требованиям) необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege erfüllt das Ganze sehr professionell.",
+          "ru": "Ответственный коллега выполнять / удовлетворять (требованиям) всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich erfüllt.",
+          "ru": "Мы успешно выполнять / удовлетворять (требованиям) (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "erfüllen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: выполнять / удовлетворять (требованиям) вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "erfüllt",
+      "imperative": "erfülle! / erfüllt! / erfüllen Sie!",
+      "conjugations": {
+        "ich": "erfülle",
+        "du": "erfüllst",
+        "er/sie/es": "erfüllt",
+        "wir": "erfüllen",
+        "ihr": "erfüllt",
+        "sie/Sie": "erfüllen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Stellensuche, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "поиск работы",
+      "translation_en": "job search",
+      "examples": [
+        {
+          "de": "Hier ist die Stellensuche.",
+          "ru": "Вот поиск работы."
+        },
+        {
+          "de": "Wir müssen die Stellensuche genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: поиск работы."
+        },
+        {
+          "de": "Sind Sie mit der Stellensuche einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: поиск работы?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Stellensuche.",
+          "ru": "Сегодня мы концентрируемся на теме: поиск работы."
+        },
+        {
+          "de": "Die Stellensuche spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Поиск работы играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    }
+  ]
+}

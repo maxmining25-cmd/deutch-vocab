@@ -1,0 +1,2822 @@
+{
+  "category": "Gesundheit & Kassen",
+  "words": [
+    {
+      "word": "die Gesundheit, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "здоровье",
+      "translation_en": "health",
+      "examples": [
+        {
+          "de": "Hier ist die Gesundheit.",
+          "ru": "Вот здоровье."
+        },
+        {
+          "de": "Wir müssen die Gesundheit genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: здоровье."
+        },
+        {
+          "de": "Sind Sie mit der Gesundheit einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: здоровье?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Gesundheit.",
+          "ru": "Сегодня мы концентрируемся на теме: здоровье."
+        },
+        {
+          "de": "Die Gesundheit spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Здоровье играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Wohlergehen",
+        "Fitness",
+        "Heilung"
+      ]
+    },
+    {
+      "word": "die Krankheit, die Krankheiten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "болезнь / заболевание",
+      "translation_en": "illness",
+      "examples": [
+        {
+          "de": "Hier ist die Krankheit.",
+          "ru": "Вот болезнь / заболевание."
+        },
+        {
+          "de": "Wir müssen die Krankheit genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: болезнь / заболевание."
+        },
+        {
+          "de": "Sind Sie mit der Krankheit einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: болезнь / заболевание?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Krankheit.",
+          "ru": "Сегодня мы концентрируемся на теме: болезнь / заболевание."
+        },
+        {
+          "de": "Die Krankheit spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Болезнь / заболевание играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "krank",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "больной",
+      "translation_en": "sick / ill",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich krank.",
+          "ru": "Этот процесс действительно больной."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles krank bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось больной."
+        },
+        {
+          "de": "Wir arbeiten heute besonders krank.",
+          "ru": "Сегодня мы работаем особенно больной."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr krank.",
+          "ru": "Полученный результат очень больной."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich krank.",
+          "ru": "Я лично нахожу этот стиль работы больной."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Arzt, die Ärzte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "врач",
+      "translation_en": "doctor",
+      "examples": [
+        {
+          "de": "Hier ist der Arzt.",
+          "ru": "Вот врач."
+        },
+        {
+          "de": "Wir müssen den Arzt genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: врач."
+        },
+        {
+          "de": "Sind Sie mit dem Arzt einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: врач?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Arzt.",
+          "ru": "Сегодня мы концентрируемся на теме: врач."
+        },
+        {
+          "de": "Der Arzt spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Врач играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Ärztin, die Ärztinnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "врач (женщина)",
+      "translation_en": "female doctor",
+      "examples": [
+        {
+          "de": "Hier ist die Ärztin.",
+          "ru": "Вот врач (женщина)."
+        },
+        {
+          "de": "Wir müssen die Ärztin genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: врач (женщина)."
+        },
+        {
+          "de": "Sind Sie mit der Ärztin einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: врач (женщина)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Ärztin.",
+          "ru": "Сегодня мы концентрируемся на теме: врач (женщина)."
+        },
+        {
+          "de": "Die Ärztin spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Врач (женщина) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Hausarzt, die Hausärzte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "домашний врач / терапевт",
+      "translation_en": "family doctor / GP",
+      "examples": [
+        {
+          "de": "Hier ist der Hausarzt.",
+          "ru": "Вот домашний врач / терапевт."
+        },
+        {
+          "de": "Wir müssen den Hausarzt genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: домашний врач / терапевт."
+        },
+        {
+          "de": "Sind Sie mit dem Hausarzt einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: домашний врач / терапевт?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Hausarzt.",
+          "ru": "Сегодня мы концентрируемся на теме: домашний врач / терапевт."
+        },
+        {
+          "de": "Der Hausarzt spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Домашний врач / терапевт играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Facharzt, die Fachärzte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "узкий специалист / профильный врач",
+      "translation_en": "specialist doctor",
+      "examples": [
+        {
+          "de": "Hier ist der Facharzt.",
+          "ru": "Вот узкий специалист / профильный врач."
+        },
+        {
+          "de": "Wir müssen den Facharzt genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: узкий специалист / профильный врач."
+        },
+        {
+          "de": "Sind Sie mit dem Facharzt einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: узкий специалист / профильный врач?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Facharzt.",
+          "ru": "Сегодня мы концентрируемся на теме: узкий специалист / профильный врач."
+        },
+        {
+          "de": "Der Facharzt spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Узкий специалист / профильный врач играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Praxis, die Praxen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "врачебный кабинет / практика",
+      "translation_en": "doctor's office",
+      "examples": [
+        {
+          "de": "Hier ist die Praxis.",
+          "ru": "Вот врачебный кабинет / практика."
+        },
+        {
+          "de": "Wir müssen die Praxis genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: врачебный кабинет / практика."
+        },
+        {
+          "de": "Sind Sie mit der Praxis einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: врачебный кабинет / практика?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Praxis.",
+          "ru": "Сегодня мы концентрируемся на теме: врачебный кабинет / практика."
+        },
+        {
+          "de": "Die Praxis spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Врачебный кабинет / практика играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Arztpraxis, die Arztpraxen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "приемная врача / клиника",
+      "translation_en": "doctor's surgery",
+      "examples": [
+        {
+          "de": "Hier ist die Arztpraxis.",
+          "ru": "Вот приемная врача / клиника."
+        },
+        {
+          "de": "Wir müssen die Arztpraxis genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: приемная врача / клиника."
+        },
+        {
+          "de": "Sind Sie mit der Arztpraxis einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: приемная врача / клиника?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Arztpraxis.",
+          "ru": "Сегодня мы концентрируемся на теме: приемная врача / клиника."
+        },
+        {
+          "de": "Die Arztpraxis spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Приемная врача / клиника играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Termin, die Termine",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "запись на прием",
+      "translation_en": "appointment",
+      "examples": [
+        {
+          "de": "Hier ist der Termin.",
+          "ru": "Вот запись на прием."
+        },
+        {
+          "de": "Wir müssen den Termin genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: запись на прием."
+        },
+        {
+          "de": "Sind Sie mit dem Termin einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: запись на прием?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Termin.",
+          "ru": "Сегодня мы концентрируемся на теме: запись на прием."
+        },
+        {
+          "de": "Der Termin spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Запись на прием играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Sprechstunde, die Sprechstunden",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "часы приема врача",
+      "translation_en": "consultation hours",
+      "examples": [
+        {
+          "de": "Hier ist die Sprechstunde.",
+          "ru": "Вот часы приема врача."
+        },
+        {
+          "de": "Wir müssen die Sprechstunde genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: часы приема врача."
+        },
+        {
+          "de": "Sind Sie mit der Sprechstunde einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: часы приема врача?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Sprechstunde.",
+          "ru": "Сегодня мы концентрируемся на теме: часы приема врача."
+        },
+        {
+          "de": "Die Sprechstunde spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Часы приема врача играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Wartezimmer, die Wartezimmer",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "приемная / комната ожидания",
+      "translation_en": "waiting room",
+      "examples": [
+        {
+          "de": "Hier ist das Wartezimmer.",
+          "ru": "Вот приемная / комната ожидания."
+        },
+        {
+          "de": "Wir müssen das Wartezimmer genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: приемная / комната ожидания."
+        },
+        {
+          "de": "Sind Sie mit dem Wartezimmer einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: приемная / комната ожидания?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Wartezimmer.",
+          "ru": "Сегодня мы концентрируемся на теме: приемная / комната ожидания."
+        },
+        {
+          "de": "Das Wartezimmer spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Приемная / комната ожидания играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Versichertenkarte, die Versichertenkarten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "страховой полис (пластиковая карта)",
+      "translation_en": "insurance card",
+      "examples": [
+        {
+          "de": "Hier ist die Versichertenkarte.",
+          "ru": "Вот страховой полис (пластиковая карта)."
+        },
+        {
+          "de": "Wir müssen die Versichertenkarte genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: страховой полис (пластиковая карта)."
+        },
+        {
+          "de": "Sind Sie mit der Versichertenkarte einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: страховой полис (пластиковая карта)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Versichertenkarte.",
+          "ru": "Сегодня мы концентрируемся на теме: страховой полис (пластиковая карта)."
+        },
+        {
+          "de": "Die Versichertenkarte spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Страховой полис (пластиковая карта) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Krankenversichertenkarte, die Karten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "полис медицинского страхования",
+      "translation_en": "health insurance card",
+      "examples": [
+        {
+          "de": "Hier ist die Krankenversichertenkarte.",
+          "ru": "Вот полис медицинского страхования."
+        },
+        {
+          "de": "Wir müssen die Krankenversichertenkarte genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: полис медицинского страхования."
+        },
+        {
+          "de": "Sind Sie mit der Krankenversichertenkarte einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: полис медицинского страхования?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Krankenversichertenkarte.",
+          "ru": "Сегодня мы концентрируемся на теме: полис медицинского страхования."
+        },
+        {
+          "de": "Die Krankenversichertenkarte spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Полис медицинского страхования играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die gesetzliche Krankenversicherung, die Versicherungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "обязательное медицинское страхование (ОМС)",
+      "translation_en": "statutory health insurance",
+      "examples": [
+        {
+          "de": "Hier ist die gesetzliche Krankenversicherung.",
+          "ru": "Вот обязательное медицинское страхование (ОМС)."
+        },
+        {
+          "de": "Wir müssen die gesetzliche Krankenversicherung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: обязательное медицинское страхование (ОМС)."
+        },
+        {
+          "de": "Sind Sie mit der gesetzliche Krankenversicherung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: обязательное медицинское страхование (ОМС)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die gesetzliche Krankenversicherung.",
+          "ru": "Сегодня мы концентрируемся на теме: обязательное медицинское страхование (ОМС)."
+        },
+        {
+          "de": "Die gesetzliche Krankenversicherung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Обязательное медицинское страхование (ОМС) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die private Krankenversicherung, die Versicherungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "добровольное медицинское страхование (ДМС)",
+      "translation_en": "private health insurance",
+      "examples": [
+        {
+          "de": "Hier ist die private Krankenversicherung.",
+          "ru": "Вот добровольное медицинское страхование (ДМС)."
+        },
+        {
+          "de": "Wir müssen die private Krankenversicherung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: добровольное медицинское страхование (ДМС)."
+        },
+        {
+          "de": "Sind Sie mit der private Krankenversicherung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: добровольное медицинское страхование (ДМС)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die private Krankenversicherung.",
+          "ru": "Сегодня мы концентрируемся на теме: добровольное медицинское страхование (ДМС)."
+        },
+        {
+          "de": "Die private Krankenversicherung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Добровольное медицинское страхование (ДМС) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Krankenkasse, die Krankenkassen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "больничная / медицинская касса",
+      "translation_en": "health insurance fund",
+      "examples": [
+        {
+          "de": "Hier ist die Krankenkasse.",
+          "ru": "Вот больничная / медицинская касса."
+        },
+        {
+          "de": "Wir müssen die Krankenkasse genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: больничная / медицинская касса."
+        },
+        {
+          "de": "Sind Sie mit der Krankenkasse einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: больничная / медицинская касса?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Krankenkasse.",
+          "ru": "Сегодня мы концентрируемся на теме: больничная / медицинская касса."
+        },
+        {
+          "de": "Die Krankenkasse spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Больничная / медицинская касса играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Beitrag, die Beiträge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "страховой взнос",
+      "translation_en": "contribution",
+      "examples": [
+        {
+          "de": "Hier ist der Beitrag.",
+          "ru": "Вот страховой взнос."
+        },
+        {
+          "de": "Wir müssen den Beitrag genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: страховой взнос."
+        },
+        {
+          "de": "Sind Sie mit dem Beitrag einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: страховой взнос?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Beitrag.",
+          "ru": "Сегодня мы концентрируемся на теме: страховой взнос."
+        },
+        {
+          "de": "Der Beitrag spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Страховой взнос играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "versichert",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "застрахованный",
+      "translation_en": "insured",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich versichert.",
+          "ru": "Этот процесс действительно застрахованный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles versichert bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось застрахованный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders versichert.",
+          "ru": "Сегодня мы работаем особенно застрахованный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr versichert.",
+          "ru": "Полученный результат очень застрахованный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich versichert.",
+          "ru": "Я лично нахожу этот стиль работы застрахованный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Versicherte, die Versicherten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "застрахованное лицо",
+      "translation_en": "insured person",
+      "examples": [
+        {
+          "de": "Hier ist der Versicherte.",
+          "ru": "Вот застрахованное лицо."
+        },
+        {
+          "de": "Wir müssen den Versicherte genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: застрахованное лицо."
+        },
+        {
+          "de": "Sind Sie mit dem Versicherte einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: застрахованное лицо?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Versicherte.",
+          "ru": "Сегодня мы концентрируемся на теме: застрахованное лицо."
+        },
+        {
+          "de": "Der Versicherte spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Застрахованное лицо играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Krankmeldung, die Krankmeldungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "уведомление о болезни (больничный)",
+      "translation_en": "sick note",
+      "examples": [
+        {
+          "de": "Hier ist die Krankmeldung.",
+          "ru": "Вот уведомление о болезни (больничный)."
+        },
+        {
+          "de": "Wir müssen die Krankmeldung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: уведомление о болезни (больничный)."
+        },
+        {
+          "de": "Sind Sie mit der Krankmeldung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: уведомление о болезни (больничный)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Krankmeldung.",
+          "ru": "Сегодня мы концентрируемся на теме: уведомление о болезни (больничный)."
+        },
+        {
+          "de": "Die Krankmeldung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Уведомление о болезни (больничный) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Arbeitsunfähigkeitsbescheinigung, die Bescheinigungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "больничный лист (официальное название)",
+      "translation_en": "certificate of incapacity for work",
+      "examples": [
+        {
+          "de": "Hier ist die Arbeitsunfähigkeitsbescheinigung.",
+          "ru": "Вот больничный лист (официальное название)."
+        },
+        {
+          "de": "Wir müssen die Arbeitsunfähigkeitsbescheinigung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: больничный лист (официальное название)."
+        },
+        {
+          "de": "Sind Sie mit der Arbeitsunfähigkeitsbescheinigung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: больничный лист (официальное название)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Arbeitsunfähigkeitsbescheinigung.",
+          "ru": "Сегодня мы концентрируемся на теме: больничный лист (официальное название)."
+        },
+        {
+          "de": "Die Arbeitsunfähigkeitsbescheinigung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Больничный лист (официальное название) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Arbeitgeber, die Arbeitgeber",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "работодатель",
+      "translation_en": "employer",
+      "examples": [
+        {
+          "de": "Hier ist der Arbeitgeber.",
+          "ru": "Вот работодатель."
+        },
+        {
+          "de": "Wir müssen den Arbeitgeber genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: работодатель."
+        },
+        {
+          "de": "Sind Sie mit dem Arbeitgeber einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: работодатель?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Arbeitgeber.",
+          "ru": "Сегодня мы концентрируемся на теме: работодатель."
+        },
+        {
+          "de": "Der Arbeitgeber spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Работодатель играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Chef",
+        "Unternehmen",
+        "Firma"
+      ]
+    },
+    {
+      "word": "die Krankschreibung, die Krankschreibungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "освобождение от работы по болезни",
+      "translation_en": "sick leave / note",
+      "examples": [
+        {
+          "de": "Hier ist die Krankschreibung.",
+          "ru": "Вот освобождение от работы по болезни."
+        },
+        {
+          "de": "Wir müssen die Krankschreibung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: освобождение от работы по болезни."
+        },
+        {
+          "de": "Sind Sie mit der Krankschreibung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: освобождение от работы по болезни?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Krankschreibung.",
+          "ru": "Сегодня мы концентрируемся на теме: освобождение от работы по болезни."
+        },
+        {
+          "de": "Die Krankschreibung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Освобождение от работы по болезни играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Rezept, die Rezepte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "рецепт (врача)",
+      "translation_en": "prescription",
+      "examples": [
+        {
+          "de": "Hier ist das Rezept.",
+          "ru": "Вот рецепт (врача)."
+        },
+        {
+          "de": "Wir müssen das Rezept genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: рецепт (врача)."
+        },
+        {
+          "de": "Sind Sie mit dem Rezept einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: рецепт (врача)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Rezept.",
+          "ru": "Сегодня мы концентрируемся на теме: рецепт (врача)."
+        },
+        {
+          "de": "Das Rezept spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Рецепт (врача) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Kassenrezept, die Kassenrezepte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "рецепт, оплачиваемый кассой (розовый)",
+      "translation_en": "statutory prescription",
+      "examples": [
+        {
+          "de": "Hier ist das Kassenrezept.",
+          "ru": "Вот рецепт, оплачиваемый кассой (розовый)."
+        },
+        {
+          "de": "Wir müssen das Kassenrezept genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: рецепт, оплачиваемый кассой (розовый)."
+        },
+        {
+          "de": "Sind Sie mit dem Kassenrezept einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: рецепт, оплачиваемый кассой (розовый)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Kassenrezept.",
+          "ru": "Сегодня мы концентрируемся на теме: рецепт, оплачиваемый кассой (розовый)."
+        },
+        {
+          "de": "Das Kassenrezept spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Рецепт, оплачиваемый кассой (розовый) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Privatrezept, die Privatrezepte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "частный рецепт (полная оплата, синий)",
+      "translation_en": "private prescription",
+      "examples": [
+        {
+          "de": "Hier ist das Privatrezept.",
+          "ru": "Вот частный рецепт (полная оплата, синий)."
+        },
+        {
+          "de": "Wir müssen das Privatrezept genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: частный рецепт (полная оплата, синий)."
+        },
+        {
+          "de": "Sind Sie mit dem Privatrezept einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: частный рецепт (полная оплата, синий)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Privatrezept.",
+          "ru": "Сегодня мы концентрируемся на теме: частный рецепт (полная оплата, синий)."
+        },
+        {
+          "de": "Das Privatrezept spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Частный рецепт (полная оплата, синий) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Apotheke, die Apotheken",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "аптека",
+      "translation_en": "pharmacy",
+      "examples": [
+        {
+          "de": "Hier ist die Apotheke.",
+          "ru": "Вот аптека."
+        },
+        {
+          "de": "Wir müssen die Apotheke genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: аптека."
+        },
+        {
+          "de": "Sind Sie mit der Apotheke einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: аптека?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Apotheke.",
+          "ru": "Сегодня мы концентрируемся на теме: аптека."
+        },
+        {
+          "de": "Die Apotheke spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Аптека играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Medikament, die Medikamente",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "лекарство / медикамент",
+      "translation_en": "medicine",
+      "examples": [
+        {
+          "de": "Hier ist das Medikament.",
+          "ru": "Вот лекарство / медикамент."
+        },
+        {
+          "de": "Wir müssen das Medikament genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: лекарство / медикамент."
+        },
+        {
+          "de": "Sind Sie mit dem Medikament einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: лекарство / медикамент?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Medikament.",
+          "ru": "Сегодня мы концентрируемся на теме: лекарство / медикамент."
+        },
+        {
+          "de": "Das Medikament spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Лекарство / медикамент играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Tablette, die Tabletten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "таблетка",
+      "translation_en": "pill / tablet",
+      "examples": [
+        {
+          "de": "Hier ist die Tablette.",
+          "ru": "Вот таблетка."
+        },
+        {
+          "de": "Wir müssen die Tablette genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: таблетка."
+        },
+        {
+          "de": "Sind Sie mit der Tablette einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: таблетка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Tablette.",
+          "ru": "Сегодня мы концентрируемся на теме: таблетка."
+        },
+        {
+          "de": "Die Tablette spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Таблетка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Packungsbeilage, die Packungsbeilagen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "инструкция к лекарству (вкладыш)",
+      "translation_en": "leaflet / instructions",
+      "examples": [
+        {
+          "de": "Hier ist die Packungsbeilage.",
+          "ru": "Вот инструкция к лекарству (вкладыш)."
+        },
+        {
+          "de": "Wir müssen die Packungsbeilage genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: инструкция к лекарству (вкладыш)."
+        },
+        {
+          "de": "Sind Sie mit der Packungsbeilage einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: инструкция к лекарству (вкладыш)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Packungsbeilage.",
+          "ru": "Сегодня мы концентрируемся на теме: инструкция к лекарству (вкладыш)."
+        },
+        {
+          "de": "Die Packungsbeilage spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Инструкция к лекарству (вкладыш) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Nebenwirkung, die Nebenwirkungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "побочное действие / эффект",
+      "translation_en": "side effect",
+      "examples": [
+        {
+          "de": "Hier ist die Nebenwirkung.",
+          "ru": "Вот побочное действие / эффект."
+        },
+        {
+          "de": "Wir müssen die Nebenwirkung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: побочное действие / эффект."
+        },
+        {
+          "de": "Sind Sie mit der Nebenwirkung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: побочное действие / эффект?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Nebenwirkung.",
+          "ru": "Сегодня мы концентрируемся на теме: побочное действие / эффект."
+        },
+        {
+          "de": "Die Nebenwirkung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Побочное действие / эффект играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Dosierung, die Dosierungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "дозировка",
+      "translation_en": "dosage",
+      "examples": [
+        {
+          "de": "Hier ist die Dosierung.",
+          "ru": "Вот дозировка."
+        },
+        {
+          "de": "Wir müssen die Dosierung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: дозировка."
+        },
+        {
+          "de": "Sind Sie mit der Dosierung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: дозировка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Dosierung.",
+          "ru": "Сегодня мы концентрируемся на теме: дозировка."
+        },
+        {
+          "de": "Die Dosierung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Дозировка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "einnehmen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "принимать (лекарство)",
+      "translation_en": "to take (medicine)",
+      "examples": [
+        {
+          "de": "Wir nehmen ein diese Angelegenheit direkt im Team.",
+          "ru": "Мы принимать (лекарство) этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich nehme ein die notwendigen Unterlagen sofort.",
+          "ru": "Я принимать (лекарство) необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege nehmet ein das Ganze sehr professionell.",
+          "ru": "Ответственный коллега принимать (лекарство) всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich eingenehmet.",
+          "ru": "Мы успешно принимать (лекарство) (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "nehmen Sie ein bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: принимать (лекарство) вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "eingenehmet",
+      "imperative": "nehme ein! / nehmet ein! / nehmen Sie ein!",
+      "conjugations": {
+        "ich": "nehme ein",
+        "du": "nehmest ein",
+        "er/sie/es": "nehmet ein",
+        "wir": "nehmen ein",
+        "ihr": "nehmet ein",
+        "sie/Sie": "nehmen ein"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Impfung, die Impfungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "прививка / вакцинация",
+      "translation_en": "vaccination",
+      "examples": [
+        {
+          "de": "Hier ist die Impfung.",
+          "ru": "Вот прививка / вакцинация."
+        },
+        {
+          "de": "Wir müssen die Impfung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: прививка / вакцинация."
+        },
+        {
+          "de": "Sind Sie mit der Impfung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: прививка / вакцинация?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Impfung.",
+          "ru": "Сегодня мы концентрируемся на теме: прививка / вакцинация."
+        },
+        {
+          "de": "Die Impfung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Прививка / вакцинация играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "impfen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "прививать / вакцинировать",
+      "translation_en": "to vaccinate",
+      "examples": [
+        {
+          "de": "Wir impfen diese Angelegenheit direkt im Team.",
+          "ru": "Мы прививать / вакцинировать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich impfe die notwendigen Unterlagen sofort.",
+          "ru": "Я прививать / вакцинировать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege impft das Ganze sehr professionell.",
+          "ru": "Ответственный коллега прививать / вакцинировать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich geimpft.",
+          "ru": "Мы успешно прививать / вакцинировать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "impfen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: прививать / вакцинировать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "geimpft",
+      "imperative": "impfe! / impft! / impfen Sie!",
+      "conjugations": {
+        "ich": "impfe",
+        "du": "impfst",
+        "er/sie/es": "impft",
+        "wir": "impfen",
+        "ihr": "impft",
+        "sie/Sie": "impfen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "der Impfpass, die Impfpässe",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "прививочный сертификат",
+      "translation_en": "vaccination certificate",
+      "examples": [
+        {
+          "de": "Hier ist der Impfpass.",
+          "ru": "Вот прививочный сертификат."
+        },
+        {
+          "de": "Wir müssen den Impfpass genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: прививочный сертификат."
+        },
+        {
+          "de": "Sind Sie mit dem Impfpass einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: прививочный сертификат?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Impfpass.",
+          "ru": "Сегодня мы концентрируемся на теме: прививочный сертификат."
+        },
+        {
+          "de": "Der Impfpass spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Прививочный сертификат играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Vorsorgeuntersuchung, die Vorsorgeuntersuchungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "профилактический осмотр",
+      "translation_en": "preventative check-up",
+      "examples": [
+        {
+          "de": "Hier ist die Vorsorgeuntersuchung.",
+          "ru": "Вот профилактический осмотр."
+        },
+        {
+          "de": "Wir müssen die Vorsorgeuntersuchung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: профилактический осмотр."
+        },
+        {
+          "de": "Sind Sie mit der Vorsorgeuntersuchung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: профилактический осмотр?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Vorsorgeuntersuchung.",
+          "ru": "Сегодня мы концентрируемся на теме: профилактический осмотр."
+        },
+        {
+          "de": "Die Vorsorgeuntersuchung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Профилактический осмотр играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Untersuchung, die Untersuchungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "обследование / осмотр",
+      "translation_en": "examination",
+      "examples": [
+        {
+          "de": "Hier ist die Untersuchung.",
+          "ru": "Вот обследование / осмотр."
+        },
+        {
+          "de": "Wir müssen die Untersuchung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: обследование / осмотр."
+        },
+        {
+          "de": "Sind Sie mit der Untersuchung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: обследование / осмотр?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Untersuchung.",
+          "ru": "Сегодня мы концентрируемся на теме: обследование / осмотр."
+        },
+        {
+          "de": "Die Untersuchung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Обследование / осмотр играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "untersuchen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "обследовать / осматривать",
+      "translation_en": "to examine",
+      "examples": [
+        {
+          "de": "Wir untersuchen diese Angelegenheit direkt im Team.",
+          "ru": "Мы обследовать / осматривать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich untersuche die notwendigen Unterlagen sofort.",
+          "ru": "Я обследовать / осматривать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege untersucht das Ganze sehr professionell.",
+          "ru": "Ответственный коллега обследовать / осматривать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich untersucht.",
+          "ru": "Мы успешно обследовать / осматривать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "untersuchen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: обследовать / осматривать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "untersucht",
+      "imperative": "untersuche! / untersucht! / untersuchen Sie!",
+      "conjugations": {
+        "ich": "untersuche",
+        "du": "untersuchst",
+        "er/sie/es": "untersucht",
+        "wir": "untersuchen",
+        "ihr": "untersucht",
+        "sie/Sie": "untersuchen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "das Krankenhaus, die Krankenhäuser",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "больница",
+      "translation_en": "hospital",
+      "examples": [
+        {
+          "de": "Hier ist das Krankenhaus.",
+          "ru": "Вот больница."
+        },
+        {
+          "de": "Wir müssen das Krankenhaus genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: больница."
+        },
+        {
+          "de": "Sind Sie mit dem Krankenhaus einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: больница?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Krankenhaus.",
+          "ru": "Сегодня мы концентрируемся на теме: больница."
+        },
+        {
+          "de": "Das Krankenhaus spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Больница играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Klinik, die Kliniken",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "клиника",
+      "translation_en": "clinic",
+      "examples": [
+        {
+          "de": "Hier ist die Klinik.",
+          "ru": "Вот клиника."
+        },
+        {
+          "de": "Wir müssen die Klinik genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: клиника."
+        },
+        {
+          "de": "Sind Sie mit der Klinik einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: клиника?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Klinik.",
+          "ru": "Сегодня мы концентрируемся на теме: клиника."
+        },
+        {
+          "de": "Die Klinik spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Клиника играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Notaufnahme, die Notaufnahmen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "отделение скорой помощи / приемный покой",
+      "translation_en": "emergency room",
+      "examples": [
+        {
+          "de": "Hier ist die Notaufnahme.",
+          "ru": "Вот отделение скорой помощи / приемный покой."
+        },
+        {
+          "de": "Wir müssen die Notaufnahme genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: отделение скорой помощи / приемный покой."
+        },
+        {
+          "de": "Sind Sie mit der Notaufnahme einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: отделение скорой помощи / приемный покой?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Notaufnahme.",
+          "ru": "Сегодня мы концентрируемся на теме: отделение скорой помощи / приемный покой."
+        },
+        {
+          "de": "Die Notaufnahme spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Отделение скорой помощи / приемный покой играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Notfall, die Notfälle",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "экстренный случай",
+      "translation_en": "emergency",
+      "examples": [
+        {
+          "de": "Hier ist der Notfall.",
+          "ru": "Вот экстренный случай."
+        },
+        {
+          "de": "Wir müssen den Notfall genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: экстренный случай."
+        },
+        {
+          "de": "Sind Sie mit dem Notfall einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: экстренный случай?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Notfall.",
+          "ru": "Сегодня мы концентрируемся на теме: экстренный случай."
+        },
+        {
+          "de": "Der Notfall spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Экстренный случай играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Notarzt, die Notärzte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "врач скорой помощи",
+      "translation_en": "emergency doctor",
+      "examples": [
+        {
+          "de": "Hier ist der Notarzt.",
+          "ru": "Вот врач скорой помощи."
+        },
+        {
+          "de": "Wir müssen den Notarzt genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: врач скорой помощи."
+        },
+        {
+          "de": "Sind Sie mit dem Notarzt einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: врач скорой помощи?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Notarzt.",
+          "ru": "Сегодня мы концентрируемся на теме: врач скорой помощи."
+        },
+        {
+          "de": "Der Notarzt spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Врач скорой помощи играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Rettungswagen, die Rettungswagen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "машина скорой помощи (реанимация)",
+      "translation_en": "ambulance",
+      "examples": [
+        {
+          "de": "Hier ist der Rettungswagen.",
+          "ru": "Вот машина скорой помощи (реанимация)."
+        },
+        {
+          "de": "Wir müssen den Rettungswagen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: машина скорой помощи (реанимация)."
+        },
+        {
+          "de": "Sind Sie mit dem Rettungswagen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: машина скорой помощи (реанимация)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Rettungswagen.",
+          "ru": "Сегодня мы концентрируемся на теме: машина скорой помощи (реанимация)."
+        },
+        {
+          "de": "Der Rettungswagen spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Машина скорой помощи (реанимация) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Krankenwagen, die Krankenwagen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "машина скорой помощи (санитарная)",
+      "translation_en": "ambulance",
+      "examples": [
+        {
+          "de": "Hier ist der Krankenwagen.",
+          "ru": "Вот машина скорой помощи (санитарная)."
+        },
+        {
+          "de": "Wir müssen den Krankenwagen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: машина скорой помощи (санитарная)."
+        },
+        {
+          "de": "Sind Sie mit dem Krankenwagen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: машина скорой помощи (санитарная)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Krankenwagen.",
+          "ru": "Сегодня мы концентрируемся на теме: машина скорой помощи (санитарная)."
+        },
+        {
+          "de": "Der Krankenwagen spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Машина скорой помощи (санитарная) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Unfall, die Unfälle",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "несчастный случай / ДТП",
+      "translation_en": "accident",
+      "examples": [
+        {
+          "de": "Hier ist der Unfall.",
+          "ru": "Вот несчастный случай / ДТП."
+        },
+        {
+          "de": "Wir müssen den Unfall genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: несчастный случай / ДТП."
+        },
+        {
+          "de": "Sind Sie mit dem Unfall einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: несчастный случай / ДТП?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Unfall.",
+          "ru": "Сегодня мы концентрируемся на теме: несчастный случай / ДТП."
+        },
+        {
+          "de": "Der Unfall spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Несчастный случай / ДТП играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Verletzung, die Verletzungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "травма / повреждение",
+      "translation_en": "injury",
+      "examples": [
+        {
+          "de": "Hier ist die Verletzung.",
+          "ru": "Вот травма / повреждение."
+        },
+        {
+          "de": "Wir müssen die Verletzung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: травма / повреждение."
+        },
+        {
+          "de": "Sind Sie mit der Verletzung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: травма / повреждение?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Verletzung.",
+          "ru": "Сегодня мы концентрируемся на теме: травма / повреждение."
+        },
+        {
+          "de": "Die Verletzung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Травма / повреждение играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "sich verletzen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "получить травму / пораниться",
+      "translation_en": "to injure oneself",
+      "examples": [
+        {
+          "de": "Wir verletzen uns diese Angelegenheit direkt im Team.",
+          "ru": "Мы получить травму / пораниться этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich verletze mich die notwendigen Unterlagen sofort.",
+          "ru": "Я получить травму / пораниться необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege verletzt sich das Ganze sehr professionell.",
+          "ru": "Ответственный коллега получить травму / пораниться всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich uns verletzt.",
+          "ru": "Мы успешно получить травму / пораниться (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "verletzen Sie sich bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: получить травму / пораниться вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gesich verletzt",
+      "imperative": "sich verletze! / sich verletzt! / sich verletzen Sie!",
+      "conjugations": {
+        "ich": "sich verletze",
+        "du": "sich verletzt",
+        "er/sie/es": "sich verletzt",
+        "wir": "sich verletzen",
+        "ihr": "sich verletzt",
+        "sie/Sie": "sich verletzen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Schmerzen, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "боли",
+      "translation_en": "pain",
+      "examples": [
+        {
+          "de": "Hier sind die Schmerzen.",
+          "ru": "Вот боли."
+        },
+        {
+          "de": "Wir müssen die Schmerzen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: боли."
+        },
+        {
+          "de": "Sind Sie mit den Schmerzen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: боли?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Schmerzen.",
+          "ru": "Сегодня мы концентрируемся на теме: боли."
+        },
+        {
+          "de": "Die Schmerzen spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Боли играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Symptom, die Symptome",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "симптом / признак болезни",
+      "translation_en": "symptom",
+      "examples": [
+        {
+          "de": "Hier ist das Symptom.",
+          "ru": "Вот симптом / признак болезни."
+        },
+        {
+          "de": "Wir müssen das Symptom genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: симптом / признак болезни."
+        },
+        {
+          "de": "Sind Sie mit dem Symptom einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: симптом / признак болезни?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Symptom.",
+          "ru": "Сегодня мы концентрируемся на теме: симптом / признак болезни."
+        },
+        {
+          "de": "Das Symptom spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Симптом / признак болезни играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Fieber, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "высокая температура / жар",
+      "translation_en": "fever",
+      "examples": [
+        {
+          "de": "Hier ist das Fieber.",
+          "ru": "Вот высокая температура / жар."
+        },
+        {
+          "de": "Wir müssen das Fieber genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: высокая температура / жар."
+        },
+        {
+          "de": "Sind Sie mit dem Fieber einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: высокая температура / жар?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Fieber.",
+          "ru": "Сегодня мы концентрируемся на теме: высокая температура / жар."
+        },
+        {
+          "de": "Das Fieber spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Высокая температура / жар играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Husten, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "кашель",
+      "translation_en": "cough",
+      "examples": [
+        {
+          "de": "Hier ist der Husten.",
+          "ru": "Вот кашель."
+        },
+        {
+          "de": "Wir müssen den Husten genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: кашель."
+        },
+        {
+          "de": "Sind Sie mit dem Husten einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: кашель?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Husten.",
+          "ru": "Сегодня мы концентрируемся на теме: кашель."
+        },
+        {
+          "de": "Der Husten spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Кашель играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Schnupfen, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "насморк",
+      "translation_en": "cold / sniffles",
+      "examples": [
+        {
+          "de": "Hier ist der Schnupfen.",
+          "ru": "Вот насморк."
+        },
+        {
+          "de": "Wir müssen den Schnupfen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: насморк."
+        },
+        {
+          "de": "Sind Sie mit dem Schnupfen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: насморк?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Schnupfen.",
+          "ru": "Сегодня мы концентрируемся на теме: насморк."
+        },
+        {
+          "de": "Der Schnupfen spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Насморк играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Halsschmerzen, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "боль в горле",
+      "translation_en": "sore throat",
+      "examples": [
+        {
+          "de": "Hier sind die Halsschmerzen.",
+          "ru": "Вот боль в горле."
+        },
+        {
+          "de": "Wir müssen die Halsschmerzen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: боль в горле."
+        },
+        {
+          "de": "Sind Sie mit den Halsschmerzen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: боль в горле?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Halsschmerzen.",
+          "ru": "Сегодня мы концентрируемся на теме: боль в горле."
+        },
+        {
+          "de": "Die Halsschmerzen spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Боль в горле играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kopfschmerzen, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "головная боль",
+      "translation_en": "headache",
+      "examples": [
+        {
+          "de": "Hier sind die Kopfschmerzen.",
+          "ru": "Вот головная боль."
+        },
+        {
+          "de": "Wir müssen die Kopfschmerzen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: головная боль."
+        },
+        {
+          "de": "Sind Sie mit den Kopfschmerzen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: головная боль?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kopfschmerzen.",
+          "ru": "Сегодня мы концентрируемся на теме: головная боль."
+        },
+        {
+          "de": "Die Kopfschmerzen spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Головная боль играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Zahnschmerzen, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "зубная боль",
+      "translation_en": "toothache",
+      "examples": [
+        {
+          "de": "Hier sind die Zahnschmerzen.",
+          "ru": "Вот зубная боль."
+        },
+        {
+          "de": "Wir müssen die Zahnschmerzen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: зубная боль."
+        },
+        {
+          "de": "Sind Sie mit den Zahnschmerzen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: зубная боль?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Zahnschmerzen.",
+          "ru": "Сегодня мы концентрируемся на теме: зубная боль."
+        },
+        {
+          "de": "Die Zahnschmerzen spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Зубная боль играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Zahnarzt, die Zahnärzte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "стоматолог / зубной врач",
+      "translation_en": "dentist",
+      "examples": [
+        {
+          "de": "Hier ist der Zahnarzt.",
+          "ru": "Вот стоматолог / зубной врач."
+        },
+        {
+          "de": "Wir müssen den Zahnarzt genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: стоматолог / зубной врач."
+        },
+        {
+          "de": "Sind Sie mit dem Zahnarzt einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: стоматолог / зубной врач?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Zahnarzt.",
+          "ru": "Сегодня мы концентрируемся на теме: стоматолог / зубной врач."
+        },
+        {
+          "de": "Der Zahnarzt spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Стоматолог / зубной врач играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Zahnarztpraxis, die Zahnarztpraxen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "стоматологический кабинет",
+      "translation_en": "dental clinic",
+      "examples": [
+        {
+          "de": "Hier ist die Zahnarztpraxis.",
+          "ru": "Вот стоматологический кабинет."
+        },
+        {
+          "de": "Wir müssen die Zahnarztpraxis genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: стоматологический кабинет."
+        },
+        {
+          "de": "Sind Sie mit der Zahnarztpraxis einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: стоматологический кабинет?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Zahnarztpraxis.",
+          "ru": "Сегодня мы концентрируемся на теме: стоматологический кабинет."
+        },
+        {
+          "de": "Die Zahnarztpraxis spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Стоматологический кабинет играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Zahnreinigung, die Zahnreinigungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "чистка зубов (профессиональная)",
+      "translation_en": "dental cleaning",
+      "examples": [
+        {
+          "de": "Hier ist die Zahnreinigung.",
+          "ru": "Вот чистка зубов (профессиональная)."
+        },
+        {
+          "de": "Wir müssen die Zahnreinigung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: чистка зубов (профессиональная)."
+        },
+        {
+          "de": "Sind Sie mit der Zahnreinigung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: чистка зубов (профессиональная)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Zahnreinigung.",
+          "ru": "Сегодня мы концентрируемся на теме: чистка зубов (профессиональная)."
+        },
+        {
+          "de": "Die Zahnreinigung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Чистка зубов (профессиональная) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Krankengymnastik, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "лечебная физкультура (ЛФК)",
+      "translation_en": "physiotherapy",
+      "examples": [
+        {
+          "de": "Hier ist die Krankengymnastik.",
+          "ru": "Вот лечебная физкультура (ЛФК)."
+        },
+        {
+          "de": "Wir müssen die Krankengymnastik genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: лечебная физкультура (ЛФК)."
+        },
+        {
+          "de": "Sind Sie mit der Krankengymnastik einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: лечебная физкультура (ЛФК)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Krankengymnastik.",
+          "ru": "Сегодня мы концентрируемся на теме: лечебная физкультура (ЛФК)."
+        },
+        {
+          "de": "Die Krankengymnastik spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Лечебная физкультура (ЛФК) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Physiotherapie, die Physiotherapien",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "физиотерапия",
+      "translation_en": "physiotherapy",
+      "examples": [
+        {
+          "de": "Hier ist die Physiotherapie.",
+          "ru": "Вот физиотерапия."
+        },
+        {
+          "de": "Wir müssen die Physiotherapie genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: физиотерапия."
+        },
+        {
+          "de": "Sind Sie mit der Physiotherapie einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: физиотерапия?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Physiotherapie.",
+          "ru": "Сегодня мы концентрируемся на теме: физиотерапия."
+        },
+        {
+          "de": "Die Physiotherapie spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Физиотерапия играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Therapeut, die Therapeuten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "терапевт (физиотерапевт/психотерапевт)",
+      "translation_en": "therapist",
+      "examples": [
+        {
+          "de": "Hier ist der Therapeut.",
+          "ru": "Вот терапевт (физиотерапевт/психотерапевт)."
+        },
+        {
+          "de": "Wir müssen den Therapeut genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: терапевт (физиотерапевт/психотерапевт)."
+        },
+        {
+          "de": "Sind Sie mit dem Therapeut einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: терапевт (физиотерапевт/психотерапевт)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Therapeut.",
+          "ru": "Сегодня мы концентрируемся на теме: терапевт (физиотерапевт/психотерапевт)."
+        },
+        {
+          "de": "Der Therapeut spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Терапевт (физиотерапевт/психотерапевт) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Attest, die Atteste",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "медицинская справка / свидетельство",
+      "translation_en": "medical certificate",
+      "examples": [
+        {
+          "de": "Hier ist das Attest.",
+          "ru": "Вот медицинская справка / свидетельство."
+        },
+        {
+          "de": "Wir müssen das Attest genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: медицинская справка / свидетельство."
+        },
+        {
+          "de": "Sind Sie mit dem Attest einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: медицинская справка / свидетельство?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Attest.",
+          "ru": "Сегодня мы концентрируемся на теме: медицинская справка / свидетельство."
+        },
+        {
+          "de": "Das Attest spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Медицинская справка / свидетельство играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das ärztliche Attest, die Atteste",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "справка от врача",
+      "translation_en": "medical certificate",
+      "examples": [
+        {
+          "de": "Hier ist das ärztliche Attest.",
+          "ru": "Вот справка от врача."
+        },
+        {
+          "de": "Wir müssen das ärztliche Attest genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: справка от врача."
+        },
+        {
+          "de": "Sind Sie mit dem ärztliche Attest einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: справка от врача?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das ärztliche Attest.",
+          "ru": "Сегодня мы концентрируемся на теме: справка от врача."
+        },
+        {
+          "de": "Das ärztliche Attest spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Справка от врача играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kur, die Kuren",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "санаторно-курортное лечение",
+      "translation_en": "health spa / cure",
+      "examples": [
+        {
+          "de": "Hier ist die Kur.",
+          "ru": "Вот санаторно-курортное лечение."
+        },
+        {
+          "de": "Wir müssen die Kur genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: санаторно-курортное лечение."
+        },
+        {
+          "de": "Sind Sie mit der Kur einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: санаторно-курортное лечение?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kur.",
+          "ru": "Сегодня мы концентрируемся на теме: санаторно-курортное лечение."
+        },
+        {
+          "de": "Die Kur spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Санаторно-курортное лечение играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Reha, die Rehas",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "реабилитация",
+      "translation_en": "rehabilitation",
+      "examples": [
+        {
+          "de": "Hier ist die Reha.",
+          "ru": "Вот реабилитация."
+        },
+        {
+          "de": "Wir müssen die Reha genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: реабилитация."
+        },
+        {
+          "de": "Sind Sie mit der Reha einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: реабилитация?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Reha.",
+          "ru": "Сегодня мы концентрируемся на теме: реабилитация."
+        },
+        {
+          "de": "Die Reha spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Реабилитация играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Rehabilitation, die Rehabilitationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "реабилитация (полное слово)",
+      "translation_en": "rehabilitation",
+      "examples": [
+        {
+          "de": "Hier ist die Rehabilitation.",
+          "ru": "Вот реабилитация (полное слово)."
+        },
+        {
+          "de": "Wir müssen die Rehabilitation genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: реабилитация (полное слово)."
+        },
+        {
+          "de": "Sind Sie mit der Rehabilitation einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: реабилитация (полное слово)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Rehabilitation.",
+          "ru": "Сегодня мы концентрируемся на теме: реабилитация (полное слово)."
+        },
+        {
+          "de": "Die Rehabilitation spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Реабилитация (полное слово) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Befund, die Befunde",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "результат исследования / диагноз",
+      "translation_en": "medical report / findings",
+      "examples": [
+        {
+          "de": "Hier ist der Befund.",
+          "ru": "Вот результат исследования / диагноз."
+        },
+        {
+          "de": "Wir müssen den Befund genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: результат исследования / диагноз."
+        },
+        {
+          "de": "Sind Sie mit dem Befund einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: результат исследования / диагноз?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Befund.",
+          "ru": "Сегодня мы концентрируемся на теме: результат исследования / диагноз."
+        },
+        {
+          "de": "Der Befund spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Результат исследования / диагноз играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Diagnose, die Diagnosen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "диагноз",
+      "translation_en": "diagnose",
+      "examples": [
+        {
+          "de": "Hier ist die Diagnose.",
+          "ru": "Вот диагноз."
+        },
+        {
+          "de": "Wir müssen die Diagnose genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: диагноз."
+        },
+        {
+          "de": "Sind Sie mit der Diagnose einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: диагноз?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Diagnose.",
+          "ru": "Сегодня мы концентрируемся на теме: диагноз."
+        },
+        {
+          "de": "Die Diagnose spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Диагноз играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "diagnostizieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "диагностировать / ставить диагноз",
+      "translation_en": "to diagnose",
+      "examples": [
+        {
+          "de": "Wir diagnostizieren diese Angelegenheit direkt im Team.",
+          "ru": "Мы диагностировать / ставить диагноз этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich diagnostiziere die notwendigen Unterlagen sofort.",
+          "ru": "Я диагностировать / ставить диагноз необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege diagnostiziert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега диагностировать / ставить диагноз всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich diagnostiziert.",
+          "ru": "Мы успешно диагностировать / ставить диагноз (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "diagnostizieren Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: диагностировать / ставить диагноз вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "diagnostiziert",
+      "imperative": "diagnostiziere! / diagnostiziert! / diagnostizieren Sie!",
+      "conjugations": {
+        "ich": "diagnostiziere",
+        "du": "diagnostizierst",
+        "er/sie/es": "diagnostiziert",
+        "wir": "diagnostizieren",
+        "ihr": "diagnostiziert",
+        "sie/Sie": "diagnostizieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Therapie, die Therapien",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "терапия / лечение",
+      "translation_en": "therapy",
+      "examples": [
+        {
+          "de": "Hier ist die Therapie.",
+          "ru": "Вот терапия / лечение."
+        },
+        {
+          "de": "Wir müssen die Therapie genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: терапия / лечение."
+        },
+        {
+          "de": "Sind Sie mit der Therapie einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: терапия / лечение?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Therapie.",
+          "ru": "Сегодня мы концентрируемся на теме: терапия / лечение."
+        },
+        {
+          "de": "Die Therapie spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Терапия / лечение играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "behandeln",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "лечить / обрабатывать",
+      "translation_en": "to treat",
+      "examples": [
+        {
+          "de": "Wir behandeln diese Angelegenheit direkt im Team.",
+          "ru": "Мы лечить / обрабатывать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich behandele die notwendigen Unterlagen sofort.",
+          "ru": "Я лечить / обрабатывать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege behandelt das Ganze sehr professionell.",
+          "ru": "Ответственный коллега лечить / обрабатывать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich behandelt.",
+          "ru": "Мы успешно лечить / обрабатывать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "behandeln Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: лечить / обрабатывать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "behandelt",
+      "imperative": "behandele! / behandelt! / behandeln Sie!",
+      "conjugations": {
+        "ich": "behandele",
+        "du": "behandelst",
+        "er/sie/es": "behandelt",
+        "wir": "behandeln",
+        "ihr": "behandelt",
+        "sie/Sie": "behandeln"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Behandlung, die Behandlungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "лечение / процедура",
+      "translation_en": "treatment",
+      "examples": [
+        {
+          "de": "Hier ist die Behandlung.",
+          "ru": "Вот лечение / процедура."
+        },
+        {
+          "de": "Wir müssen die Behandlung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: лечение / процедура."
+        },
+        {
+          "de": "Sind Sie mit der Behandlung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: лечение / процедура?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Behandlung.",
+          "ru": "Сегодня мы концентрируемся на теме: лечение / процедура."
+        },
+        {
+          "de": "Die Behandlung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Лечение / процедура играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Zuzahlung, die Zuzahlungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "доплата (пациента за услуги/лекарства)",
+      "translation_en": "copayment",
+      "examples": [
+        {
+          "de": "Hier ist die Zuzahlung.",
+          "ru": "Вот доплата (пациента за услуги/лекарства)."
+        },
+        {
+          "de": "Wir müssen die Zuzahlung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: доплата (пациента за услуги/лекарства)."
+        },
+        {
+          "de": "Sind Sie mit der Zuzahlung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: доплата (пациента за услуги/лекарства)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Zuzahlung.",
+          "ru": "Сегодня мы концентрируемся на теме: доплата (пациента за услуги/лекарства)."
+        },
+        {
+          "de": "Die Zuzahlung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Доплата (пациента за услуги/лекарства) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Befreiung, die Befreiungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "освобождение (от доплаты)",
+      "translation_en": "exemption",
+      "examples": [
+        {
+          "de": "Hier ist die Befreiung.",
+          "ru": "Вот освобождение (от доплаты)."
+        },
+        {
+          "de": "Wir müssen die Befreiung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: освобождение (от доплаты)."
+        },
+        {
+          "de": "Sind Sie mit der Befreiung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: освобождение (от доплаты)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Befreiung.",
+          "ru": "Сегодня мы концентрируемся на теме: освобождение (от доплаты)."
+        },
+        {
+          "de": "Die Befreiung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Освобождение (от доплаты) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Überweisung, die Überweisungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "направление к другому врачу",
+      "translation_en": "referral",
+      "examples": [
+        {
+          "de": "Hier ist die Überweisung.",
+          "ru": "Вот направление к другому врачу."
+        },
+        {
+          "de": "Wir müssen die Überweisung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: направление к другому врачу."
+        },
+        {
+          "de": "Sind Sie mit der Überweisung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: направление к другому врачу?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Überweisung.",
+          "ru": "Сегодня мы концентрируемся на теме: направление к другому врачу."
+        },
+        {
+          "de": "Die Überweisung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Направление к другому врачу играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "überweisen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "направлять (к специалисту)",
+      "translation_en": "to refer",
+      "examples": [
+        {
+          "de": "Wir überweisen diese Angelegenheit direkt im Team.",
+          "ru": "Мы направлять (к специалисту) этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich überweise die notwendigen Unterlagen sofort.",
+          "ru": "Я направлять (к специалисту) необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege überweist das Ganze sehr professionell.",
+          "ru": "Ответственный коллега направлять (к специалисту) всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich überweist.",
+          "ru": "Мы успешно направлять (к специалисту) (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "überweisen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: направлять (к специалисту) вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "überweist",
+      "imperative": "überweise! / überweist! / überweisen Sie!",
+      "conjugations": {
+        "ich": "überweise",
+        "du": "überweist",
+        "er/sie/es": "überweist",
+        "wir": "überweisen",
+        "ihr": "überweist",
+        "sie/Sie": "überweisen"
+      },
+      "prepositions": [
+        "auf + Akkusativ (переводить на какой-то счет)"
+      ]
+    },
+    {
+      "word": "der Heil- und Kostenplan, die Pläne",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "план лечения и калькуляция расходов",
+      "translation_en": "treatment and cost plan",
+      "examples": [
+        {
+          "de": "Hier ist der Heil- und Kostenplan.",
+          "ru": "Вот план лечения и калькуляция расходов."
+        },
+        {
+          "de": "Wir müssen den Heil- und Kostenplan genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: план лечения и калькуляция расходов."
+        },
+        {
+          "de": "Sind Sie mit dem Heil- und Kostenplan einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: план лечения и калькуляция расходов?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Heil- und Kostenplan.",
+          "ru": "Сегодня мы концентрируемся на теме: план лечения и калькуляция расходов."
+        },
+        {
+          "de": "Der Heil- und Kostenplan spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "План лечения и калькуляция расходов играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Zahnersatz, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "зубное протезирование / протезы",
+      "translation_en": "dentures",
+      "examples": [
+        {
+          "de": "Hier ist der Zahnersatz.",
+          "ru": "Вот зубное протезирование / протезы."
+        },
+        {
+          "de": "Wir müssen den Zahnersatz genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: зубное протезирование / протезы."
+        },
+        {
+          "de": "Sind Sie mit dem Zahnersatz einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: зубное протезирование / протезы?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Zahnersatz.",
+          "ru": "Сегодня мы концентрируемся на теме: зубное протезирование / протезы."
+        },
+        {
+          "de": "Der Zahnersatz spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Зубное протезирование / протезы играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Brille, die Brillen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "очки",
+      "translation_en": "glasses",
+      "examples": [
+        {
+          "de": "Hier ist die Brille.",
+          "ru": "Вот очки."
+        },
+        {
+          "de": "Wir müssen die Brille genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: очки."
+        },
+        {
+          "de": "Sind Sie mit der Brille einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: очки?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Brille.",
+          "ru": "Сегодня мы концентрируемся на теме: очки."
+        },
+        {
+          "de": "Die Brille spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Очки играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Optiker, die Optiker",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "оптик",
+      "translation_en": "optician",
+      "examples": [
+        {
+          "de": "Hier ist der Optiker.",
+          "ru": "Вот оптик."
+        },
+        {
+          "de": "Wir müssen den Optiker genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: оптик."
+        },
+        {
+          "de": "Sind Sie mit dem Optiker einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: оптик?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Optiker.",
+          "ru": "Сегодня мы концентрируемся на теме: оптик."
+        },
+        {
+          "de": "Der Optiker spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Оптик играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Hörgerät, die Hörgeräte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "слуховой аппарат",
+      "translation_en": "hearing aid",
+      "examples": [
+        {
+          "de": "Hier ist das Hörgerät.",
+          "ru": "Вот слуховой аппарат."
+        },
+        {
+          "de": "Wir müssen das Hörgerät genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: слуховой аппарат."
+        },
+        {
+          "de": "Sind Sie mit dem Hörgerät einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: слуховой аппарат?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Hörgerät.",
+          "ru": "Сегодня мы концентрируемся на теме: слуховой аппарат."
+        },
+        {
+          "de": "Das Hörgerät spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Слуховой аппарат играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Pflege, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "уход / забота",
+      "translation_en": "care / nursing",
+      "examples": [
+        {
+          "de": "Hier ist die Pflege.",
+          "ru": "Вот уход / забота."
+        },
+        {
+          "de": "Wir müssen die Pflege genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: уход / забота."
+        },
+        {
+          "de": "Sind Sie mit der Pflege einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: уход / забота?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Pflege.",
+          "ru": "Сегодня мы концентрируемся на теме: уход / забота."
+        },
+        {
+          "de": "Die Pflege spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Уход / забота играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Pflegeversicherung, die Pflegeversicherungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "страхование на случай потребности в уходе",
+      "translation_en": "nursing care insurance",
+      "examples": [
+        {
+          "de": "Hier ist die Pflegeversicherung.",
+          "ru": "Вот страхование на случай потребности в уходе."
+        },
+        {
+          "de": "Wir müssen die Pflegeversicherung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: страхование на случай потребности в уходе."
+        },
+        {
+          "de": "Sind Sie mit der Pflegeversicherung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: страхование на случай потребности в уходе?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Pflegeversicherung.",
+          "ru": "Сегодня мы концентрируемся на теме: страхование на случай потребности в уходе."
+        },
+        {
+          "de": "Die Pflegeversicherung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Страхование на случай потребности в уходе играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Pflegefall, die Pflegefälle",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "человек, нуждающийся в постоянном уходе",
+      "translation_en": "case of needing care",
+      "examples": [
+        {
+          "de": "Hier ist der Pflegefall.",
+          "ru": "Вот человек, нуждающийся в постоянном уходе."
+        },
+        {
+          "de": "Wir müssen den Pflegefall genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: человек, нуждающийся в постоянном уходе."
+        },
+        {
+          "de": "Sind Sie mit dem Pflegefall einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: человек, нуждающийся в постоянном уходе?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Pflegefall.",
+          "ru": "Сегодня мы концентрируемся на теме: человек, нуждающийся в постоянном уходе."
+        },
+        {
+          "de": "Der Pflegefall spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Человек, нуждающийся в постоянном уходе играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Pflegedienst, die Pflegedienste",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "служба социального ухода на дому",
+      "translation_en": "nursing service",
+      "examples": [
+        {
+          "de": "Hier ist der Pflegedienst.",
+          "ru": "Вот служба социального ухода на дому."
+        },
+        {
+          "de": "Wir müssen den Pflegedienst genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: служба социального ухода на дому."
+        },
+        {
+          "de": "Sind Sie mit dem Pflegedienst einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: служба социального ухода на дому?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Pflegedienst.",
+          "ru": "Сегодня мы концентрируемся на теме: служба социального ухода на дому."
+        },
+        {
+          "de": "Der Pflegedienst spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Служба социального ухода на дому играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Pflegeheim, die Pflegeheime",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "дом престарелых / пансионат с уходом",
+      "translation_en": "nursing home",
+      "examples": [
+        {
+          "de": "Hier ist das Pflegeheim.",
+          "ru": "Вот дом престарелых / пансионат с уходом."
+        },
+        {
+          "de": "Wir müssen das Pflegeheim genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: дом престарелых / пансионат с уходом."
+        },
+        {
+          "de": "Sind Sie mit dem Pflegeheim einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: дом престарелых / пансионат с уходом?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Pflegeheim.",
+          "ru": "Сегодня мы концентрируемся на теме: дом престарелых / пансионат с уходом."
+        },
+        {
+          "de": "Das Pflegeheim spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Дом престарелых / пансионат с уходом играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Patientenverfügung, die Verfügungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "завещание пациента (распоряжение на случай комы)",
+      "translation_en": "living will",
+      "examples": [
+        {
+          "de": "Hier ist die Patientenverfügung.",
+          "ru": "Вот завещание пациента (распоряжение на случай комы)."
+        },
+        {
+          "de": "Wir müssen die Patientenverfügung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: завещание пациента (распоряжение на случай комы)."
+        },
+        {
+          "de": "Sind Sie mit der Patientenverfügung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: завещание пациента (распоряжение на случай комы)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Patientenverfügung.",
+          "ru": "Сегодня мы концентрируемся на теме: завещание пациента (распоряжение на случай комы)."
+        },
+        {
+          "de": "Die Patientenverfügung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Завещание пациента (распоряжение на случай комы) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Vorsorgevollmacht, die Vollmachten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "доверенность на принятие мед. решений",
+      "translation_en": "durable power of attorney",
+      "examples": [
+        {
+          "de": "Hier ist die Vorsorgevollmacht.",
+          "ru": "Вот доверенность на принятие мед. решений."
+        },
+        {
+          "de": "Wir müssen die Vorsorgevollmacht genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: доверенность на принятие мед. решений."
+        },
+        {
+          "de": "Sind Sie mit der Vorsorgevollmacht einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: доверенность на принятие мед. решений?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Vorsorgevollmacht.",
+          "ru": "Сегодня мы концентрируемся на теме: доверенность на принятие мед. решений."
+        },
+        {
+          "de": "Die Vorsorgevollmacht spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Доверенность на принятие мед. решений играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    }
+  ]
+}

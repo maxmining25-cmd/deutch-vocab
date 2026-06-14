@@ -1,0 +1,2835 @@
+{
+  "category": "ÖPNV & Reisen",
+  "words": [
+    {
+      "word": "der ÖPNV, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "общественный транспорт (сокращение)",
+      "translation_en": "public transport",
+      "examples": [
+        {
+          "de": "Hier ist der ÖPNV.",
+          "ru": "Вот общественный транспорт (сокращение)."
+        },
+        {
+          "de": "Wir müssen den ÖPNV genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: общественный транспорт (сокращение)."
+        },
+        {
+          "de": "Sind Sie mit dem ÖPNV einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: общественный транспорт (сокращение)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den ÖPNV.",
+          "ru": "Сегодня мы концентрируемся на теме: общественный транспорт (сокращение)."
+        },
+        {
+          "de": "Der ÖPNV spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Общественный транспорт (сокращение) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Verkehrsmittel, die Verkehrsmittel",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "транспортное средство",
+      "translation_en": "means of transport",
+      "examples": [
+        {
+          "de": "Hier ist das Verkehrsmittel.",
+          "ru": "Вот транспортное средство."
+        },
+        {
+          "de": "Wir müssen das Verkehrsmittel genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: транспортное средство."
+        },
+        {
+          "de": "Sind Sie mit dem Verkehrsmittel einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: транспортное средство?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Verkehrsmittel.",
+          "ru": "Сегодня мы концентрируемся на теме: транспортное средство."
+        },
+        {
+          "de": "Das Verkehrsmittel spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Транспортное средство играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Haltestelle, die Haltestellen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "остановка (автобуса/трамвая)",
+      "translation_en": "stop / station",
+      "examples": [
+        {
+          "de": "Hier ist die Haltestelle.",
+          "ru": "Вот остановка (автобуса/трамвая)."
+        },
+        {
+          "de": "Wir müssen die Haltestelle genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: остановка (автобуса/трамвая)."
+        },
+        {
+          "de": "Sind Sie mit der Haltestelle einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: остановка (автобуса/трамвая)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Haltestelle.",
+          "ru": "Сегодня мы концентрируемся на теме: остановка (автобуса/трамвая)."
+        },
+        {
+          "de": "Die Haltestelle spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Остановка (автобуса/трамвая) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Bahnhof, die Bahnhöfe",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "вокзал / станция",
+      "translation_en": "railway station",
+      "examples": [
+        {
+          "de": "Hier ist der Bahnhof.",
+          "ru": "Вот вокзал / станция."
+        },
+        {
+          "de": "Wir müssen den Bahnhof genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: вокзал / станция."
+        },
+        {
+          "de": "Sind Sie mit dem Bahnhof einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: вокзал / станция?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Bahnhof.",
+          "ru": "Сегодня мы концентрируемся на теме: вокзал / станция."
+        },
+        {
+          "de": "Der Bahnhof spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Вокзал / станция играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Hauptbahnhof, die Hauptbahnhöfe",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "главный / центральный вокзал",
+      "translation_en": "main station",
+      "examples": [
+        {
+          "de": "Hier ist der Hauptbahnhof.",
+          "ru": "Вот главный / центральный вокзал."
+        },
+        {
+          "de": "Wir müssen den Hauptbahnhof genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: главный / центральный вокзал."
+        },
+        {
+          "de": "Sind Sie mit dem Hauptbahnhof einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: главный / центральный вокзал?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Hauptbahnhof.",
+          "ru": "Сегодня мы концентрируемся на теме: главный / центральный вокзал."
+        },
+        {
+          "de": "Der Hauptbahnhof spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Главный / центральный вокзал играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Bahnsteig, die Bahnsteige",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "перрон / пассажирская платформа",
+      "translation_en": "platform",
+      "examples": [
+        {
+          "de": "Hier ist der Bahnsteig.",
+          "ru": "Вот перрон / пассажирская платформа."
+        },
+        {
+          "de": "Wir müssen den Bahnsteig genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: перрон / пассажирская платформа."
+        },
+        {
+          "de": "Sind Sie mit dem Bahnsteig einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: перрон / пассажирская платформа?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Bahnsteig.",
+          "ru": "Сегодня мы концентрируемся на теме: перрон / пассажирская платформа."
+        },
+        {
+          "de": "Der Bahnsteig spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Перрон / пассажирская платформа играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Gleis, die Gleise",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "путь / железнодорожный путь",
+      "translation_en": "track",
+      "examples": [
+        {
+          "de": "Hier ist das Gleis.",
+          "ru": "Вот путь / железнодорожный путь."
+        },
+        {
+          "de": "Wir müssen das Gleis genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: путь / железнодорожный путь."
+        },
+        {
+          "de": "Sind Sie mit dem Gleis einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: путь / железнодорожный путь?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Gleis.",
+          "ru": "Сегодня мы концентрируемся на теме: путь / железнодорожный путь."
+        },
+        {
+          "de": "Das Gleis spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Путь / железнодорожный путь играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Zug, die Züge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "поезд",
+      "translation_en": "train",
+      "examples": [
+        {
+          "de": "Hier ist der Zug.",
+          "ru": "Вот поезд."
+        },
+        {
+          "de": "Wir müssen den Zug genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: поезд."
+        },
+        {
+          "de": "Sind Sie mit dem Zug einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: поезд?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Zug.",
+          "ru": "Сегодня мы концентрируемся на теме: поезд."
+        },
+        {
+          "de": "Der Zug spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Поезд играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die S-Bahn, die S-Bahnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "городская электричка",
+      "translation_en": "suburban train",
+      "examples": [
+        {
+          "de": "Hier ist die S-Bahn.",
+          "ru": "Вот городская электричка."
+        },
+        {
+          "de": "Wir müssen die S-Bahn genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: городская электричка."
+        },
+        {
+          "de": "Sind Sie mit der S-Bahn einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: городская электричка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die S-Bahn.",
+          "ru": "Сегодня мы концентрируемся на теме: городская электричка."
+        },
+        {
+          "de": "Die S-Bahn spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Городская электричка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die U-Bahn, die U-Bahnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "метрополитен / метро",
+      "translation_en": "underground / subway",
+      "examples": [
+        {
+          "de": "Hier ist die U-Bahn.",
+          "ru": "Вот метрополитен / метро."
+        },
+        {
+          "de": "Wir müssen die U-Bahn genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: метрополитен / метро."
+        },
+        {
+          "de": "Sind Sie mit der U-Bahn einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: метрополитен / метро?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die U-Bahn.",
+          "ru": "Сегодня мы концентрируемся на теме: метрополитен / метро."
+        },
+        {
+          "de": "Die U-Bahn spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Метрополитен / метро играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Straßenbahn, die Straßenbahnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "трамвай (полное слово)",
+      "translation_en": "tram",
+      "examples": [
+        {
+          "de": "Hier ist die Straßenbahn.",
+          "ru": "Вот трамвай (полное слово)."
+        },
+        {
+          "de": "Wir müssen die Straßenbahn genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: трамвай (полное слово)."
+        },
+        {
+          "de": "Sind Sie mit der Straßenbahn einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: трамвай (полное слово)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Straßenbahn.",
+          "ru": "Сегодня мы концентрируемся на теме: трамвай (полное слово)."
+        },
+        {
+          "de": "Die Straßenbahn spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Трамвай (полное слово) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Tram, die Trams",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "трамвай",
+      "translation_en": "tram",
+      "examples": [
+        {
+          "de": "Hier ist die Tram.",
+          "ru": "Вот трамвай."
+        },
+        {
+          "de": "Wir müssen die Tram genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: трамвай."
+        },
+        {
+          "de": "Sind Sie mit der Tram einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: трамвай?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Tram.",
+          "ru": "Сегодня мы концентрируемся на теме: трамвай."
+        },
+        {
+          "de": "Die Tram spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Трамвай играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Bus, die Busse",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "автобус",
+      "translation_en": "bus",
+      "examples": [
+        {
+          "de": "Hier ist der Bus.",
+          "ru": "Вот автобус."
+        },
+        {
+          "de": "Wir müssen den Bus genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: автобус."
+        },
+        {
+          "de": "Sind Sie mit dem Bus einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: автобус?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Bus.",
+          "ru": "Сегодня мы концентрируемся на теме: автобус."
+        },
+        {
+          "de": "Der Bus spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Автобус играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Buslinie, die Buslinien",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "автобусный маршрут / линия",
+      "translation_en": "bus line",
+      "examples": [
+        {
+          "de": "Hier ist die Buslinie.",
+          "ru": "Вот автобусный маршрут / линия."
+        },
+        {
+          "de": "Wir müssen die Buslinie genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: автобусный маршрут / линия."
+        },
+        {
+          "de": "Sind Sie mit der Buslinie einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: автобусный маршрут / линия?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Buslinie.",
+          "ru": "Сегодня мы концентрируемся на теме: автобусный маршрут / линия."
+        },
+        {
+          "de": "Die Buslinie spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Автобусный маршрут / линия играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Fahrplan, die Fahrpläne",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "расписание движения транспорта",
+      "translation_en": "timetable",
+      "examples": [
+        {
+          "de": "Hier ist der Fahrplan.",
+          "ru": "Вот расписание движения транспорта."
+        },
+        {
+          "de": "Wir müssen den Fahrplan genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: расписание движения транспорта."
+        },
+        {
+          "de": "Sind Sie mit dem Fahrplan einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: расписание движения транспорта?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Fahrplan.",
+          "ru": "Сегодня мы концентрируемся на теме: расписание движения транспорта."
+        },
+        {
+          "de": "Der Fahrplan spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Расписание движения транспорта играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Abfahrt, die Abfahrten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "отправление / отъезд",
+      "translation_en": "departure",
+      "examples": [
+        {
+          "de": "Hier ist die Abfahrt.",
+          "ru": "Вот отправление / отъезд."
+        },
+        {
+          "de": "Wir müssen die Abfahrt genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: отправление / отъезд."
+        },
+        {
+          "de": "Sind Sie mit der Abfahrt einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: отправление / отъезд?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Abfahrt.",
+          "ru": "Сегодня мы концентрируемся на теме: отправление / отъезд."
+        },
+        {
+          "de": "Die Abfahrt spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Отправление / отъезд играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Ankunft, die Ankünfte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "прибытие / приезд",
+      "translation_en": "arrival",
+      "examples": [
+        {
+          "de": "Hier ist die Ankunft.",
+          "ru": "Вот прибытие / приезд."
+        },
+        {
+          "de": "Wir müssen die Ankunft genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: прибытие / приезд."
+        },
+        {
+          "de": "Sind Sie mit der Ankunft einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: прибытие / приезд?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Ankunft.",
+          "ru": "Сегодня мы концентрируемся на теме: прибытие / приезд."
+        },
+        {
+          "de": "Die Ankunft spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Прибытие / приезд играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Verspätung, die Verspätungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "опоздание / задержка рейса",
+      "translation_en": "delay",
+      "examples": [
+        {
+          "de": "Hier ist die Verspätung.",
+          "ru": "Вот опоздание / задержка рейса."
+        },
+        {
+          "de": "Wir müssen die Verspätung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: опоздание / задержка рейса."
+        },
+        {
+          "de": "Sind Sie mit der Verspätung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: опоздание / задержка рейса?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Verspätung.",
+          "ru": "Сегодня мы концентрируемся на теме: опоздание / задержка рейса."
+        },
+        {
+          "de": "Die Verspätung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Опоздание / задержка рейса играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "pünktlich",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "пунктуальный / вовремя",
+      "translation_en": "punctual",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich pünktlich.",
+          "ru": "Этот процесс действительно пунктуальный / вовремя."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles pünktlich bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось пунктуальный / вовремя."
+        },
+        {
+          "de": "Wir arbeiten heute besonders pünktlich.",
+          "ru": "Сегодня мы работаем особенно пунктуальный / вовремя."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr pünktlich.",
+          "ru": "Полученный результат очень пунктуальный / вовремя."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich pünktlich.",
+          "ru": "Я лично нахожу этот стиль работы пунктуальный / вовремя."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Anschluss, die Anschlüsse",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "пересадка / стыковочный рейс",
+      "translation_en": "connection",
+      "examples": [
+        {
+          "de": "Hier ist der Anschluss.",
+          "ru": "Вот пересадка / стыковочный рейс."
+        },
+        {
+          "de": "Wir müssen den Anschluss genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: пересадка / стыковочный рейс."
+        },
+        {
+          "de": "Sind Sie mit dem Anschluss einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: пересадка / стыковочный рейс?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Anschluss.",
+          "ru": "Сегодня мы концентрируемся на теме: пересадка / стыковочный рейс."
+        },
+        {
+          "de": "Der Anschluss spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Пересадка / стыковочный рейс играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "umsteigen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "делать пересадку / пересаживаться",
+      "translation_en": "to change trains / buses",
+      "examples": [
+        {
+          "de": "Wir umsteigen diese Angelegenheit direkt im Team.",
+          "ru": "Мы делать пересадку / пересаживаться этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich umsteige die notwendigen Unterlagen sofort.",
+          "ru": "Я делать пересадку / пересаживаться необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege umsteigt das Ganze sehr professionell.",
+          "ru": "Ответственный коллега делать пересадку / пересаживаться всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich geumsteigt.",
+          "ru": "Мы успешно делать пересадку / пересаживаться (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "umsteigen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: делать пересадку / пересаживаться вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "geumsteigt",
+      "imperative": "umsteige! / umsteigt! / umsteigen Sie!",
+      "conjugations": {
+        "ich": "umsteige",
+        "du": "umsteigst",
+        "er/sie/es": "umsteigt",
+        "wir": "umsteigen",
+        "ihr": "umsteigt",
+        "sie/Sie": "umsteigen"
+      },
+      "prepositions": [
+        "in + Akkusativ (пересаживаться в транспорт)"
+      ]
+    },
+    {
+      "word": "einsteigen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "входить / садиться в транспорт",
+      "translation_en": "to get in / board",
+      "examples": [
+        {
+          "de": "Wir steigen ein diese Angelegenheit direkt im Team.",
+          "ru": "Мы входить / садиться в транспорт этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich steige ein die notwendigen Unterlagen sofort.",
+          "ru": "Я входить / садиться в транспорт необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege steigt ein das Ganze sehr professionell.",
+          "ru": "Ответственный коллега входить / садиться в транспорт всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich eingesteigt.",
+          "ru": "Мы успешно входить / садиться в транспорт (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "steigen Sie ein bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: входить / садиться в транспорт вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "eingesteigt",
+      "imperative": "steige ein! / steigt ein! / steigen Sie ein!",
+      "conjugations": {
+        "ich": "steige ein",
+        "du": "steigst ein",
+        "er/sie/es": "steigt ein",
+        "wir": "steigen ein",
+        "ihr": "steigt ein",
+        "sie/Sie": "steigen ein"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "aussteigen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "выходить из транспорта",
+      "translation_en": "to get out / alight",
+      "examples": [
+        {
+          "de": "Wir steigen aus diese Angelegenheit direkt im Team.",
+          "ru": "Мы выходить из транспорта этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich steige aus die notwendigen Unterlagen sofort.",
+          "ru": "Я выходить из транспорта необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege steigt aus das Ganze sehr professionell.",
+          "ru": "Ответственный коллега выходить из транспорта всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich ausgesteigt.",
+          "ru": "Мы успешно выходить из транспорта (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "steigen Sie aus bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: выходить из транспорта вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "ausgesteigt",
+      "imperative": "steige aus! / steigt aus! / steigen Sie aus!",
+      "conjugations": {
+        "ich": "steige aus",
+        "du": "steigst aus",
+        "er/sie/es": "steigt aus",
+        "wir": "steigen aus",
+        "ihr": "steigt aus",
+        "sie/Sie": "steigen aus"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Fahrkarte, die Fahrkarten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "билет (на поезд/автобус)",
+      "translation_en": "ticket",
+      "examples": [
+        {
+          "de": "Hier ist die Fahrkarte.",
+          "ru": "Вот билет (на поезд/автобус)."
+        },
+        {
+          "de": "Wir müssen die Fahrkarte genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: билет (на поезд/автобус)."
+        },
+        {
+          "de": "Sind Sie mit der Fahrkarte einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: билет (на поезд/автобус)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Fahrkarte.",
+          "ru": "Сегодня мы концентрируемся на теме: билет (на поезд/автобус)."
+        },
+        {
+          "de": "Die Fahrkarte spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Билет (на поезд/автобус) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Ticket, die Tickets",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "проездной билет",
+      "translation_en": "ticket",
+      "examples": [
+        {
+          "de": "Hier ist das Ticket.",
+          "ru": "Вот проездной билет."
+        },
+        {
+          "de": "Wir müssen das Ticket genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: проездной билет."
+        },
+        {
+          "de": "Sind Sie mit dem Ticket einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: проездной билет?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Ticket.",
+          "ru": "Сегодня мы концентрируемся на теме: проездной билет."
+        },
+        {
+          "de": "Das Ticket spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Проездной билет играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Fahrkartenautomat, die Fahrkartenautomaten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "автомат по продаже билетов",
+      "translation_en": "ticket machine",
+      "examples": [
+        {
+          "de": "Hier ist der Fahrkartenautomat.",
+          "ru": "Вот автомат по продаже билетов."
+        },
+        {
+          "de": "Wir müssen den Fahrkartenautomat genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: автомат по продаже билетов."
+        },
+        {
+          "de": "Sind Sie mit dem Fahrkartenautomat einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: автомат по продаже билетов?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Fahrkartenautomat.",
+          "ru": "Сегодня мы концентрируемся на теме: автомат по продаже билетов."
+        },
+        {
+          "de": "Der Fahrkartenautomat spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Автомат по продаже билетов играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Fahrschein, die Fahrscheine",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "проездной билет / талон",
+      "translation_en": "ticket",
+      "examples": [
+        {
+          "de": "Hier ist der Fahrschein.",
+          "ru": "Вот проездной билет / талон."
+        },
+        {
+          "de": "Wir müssen den Fahrschein genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: проездной билет / талон."
+        },
+        {
+          "de": "Sind Sie mit dem Fahrschein einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: проездной билет / талон?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Fahrschein.",
+          "ru": "Сегодня мы концентрируемся на теме: проездной билет / талон."
+        },
+        {
+          "de": "Der Fahrschein spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Проездной билет / талон играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "entwerten",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "компостировать / активировать билет",
+      "translation_en": "to validate (a ticket)",
+      "examples": [
+        {
+          "de": "Wir entwerten diese Angelegenheit direkt im Team.",
+          "ru": "Мы компостировать / активировать билет этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich entwerte die notwendigen Unterlagen sofort.",
+          "ru": "Я компостировать / активировать билет необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege entwertet das Ganze sehr professionell.",
+          "ru": "Ответственный коллега компостировать / активировать билет всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich entwertet.",
+          "ru": "Мы успешно компостировать / активировать билет (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "entwerten Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: компостировать / активировать билет вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "entwertet",
+      "imperative": "entwerte! / entwertet! / entwerten Sie!",
+      "conjugations": {
+        "ich": "entwerte",
+        "du": "entwertest",
+        "er/sie/es": "entwertet",
+        "wir": "entwerten",
+        "ihr": "entwertet",
+        "sie/Sie": "entwerten"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "der Entwerter, die Entwerter",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "компостер / валидатор билетов",
+      "translation_en": "ticket validator",
+      "examples": [
+        {
+          "de": "Hier ist der Entwerter.",
+          "ru": "Вот компостер / валидатор билетов."
+        },
+        {
+          "de": "Wir müssen den Entwerter genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: компостер / валидатор билетов."
+        },
+        {
+          "de": "Sind Sie mit dem Entwerter einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: компостер / валидатор билетов?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Entwerter.",
+          "ru": "Сегодня мы концентрируемся на теме: компостер / валидатор билетов."
+        },
+        {
+          "de": "Der Entwerter spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Компостер / валидатор билетов играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Fahrkartenkontrolle, die Fahrkartenkontrollen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "контроль билетов",
+      "translation_en": "ticket inspection",
+      "examples": [
+        {
+          "de": "Hier ist die Fahrkartenkontrolle.",
+          "ru": "Вот контроль билетов."
+        },
+        {
+          "de": "Wir müssen die Fahrkartenkontrolle genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: контроль билетов."
+        },
+        {
+          "de": "Sind Sie mit der Fahrkartenkontrolle einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: контроль билетов?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Fahrkartenkontrolle.",
+          "ru": "Сегодня мы концентрируемся на теме: контроль билетов."
+        },
+        {
+          "de": "Die Fahrkartenkontrolle spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Контроль билетов играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Kontrolleur, die Kontrolleure",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "контролер",
+      "translation_en": "ticket inspector",
+      "examples": [
+        {
+          "de": "Hier ist der Kontrolleur.",
+          "ru": "Вот контролер."
+        },
+        {
+          "de": "Wir müssen den Kontrolleur genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: контролер."
+        },
+        {
+          "de": "Sind Sie mit dem Kontrolleur einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: контролер?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Kontrolleur.",
+          "ru": "Сегодня мы концентрируемся на теме: контролер."
+        },
+        {
+          "de": "Der Kontrolleur spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Контролер играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "schwarzfahren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "ездить зайцем / без билета",
+      "translation_en": "to ride without a ticket",
+      "examples": [
+        {
+          "de": "Wir schwarzfahren diese Angelegenheit direkt im Team.",
+          "ru": "Мы ездить зайцем / без билета этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich schwarzfahre die notwendigen Unterlagen sofort.",
+          "ru": "Я ездить зайцем / без билета необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege schwarzfahrt das Ganze sehr professionell.",
+          "ru": "Ответственный коллега ездить зайцем / без билета всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich geschwarzfahrt.",
+          "ru": "Мы успешно ездить зайцем / без билета (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "schwarzfahren Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: ездить зайцем / без билета вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "geschwarzfahrt",
+      "imperative": "schwarzfahre! / schwarzfahrt! / schwarzfahren Sie!",
+      "conjugations": {
+        "ich": "schwarzfahre",
+        "du": "schwarzfahrst",
+        "er/sie/es": "schwarzfahrt",
+        "wir": "schwarzfahren",
+        "ihr": "schwarzfahrt",
+        "sie/Sie": "schwarzfahren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "das Schwarzfahren, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "безбилетный проезд",
+      "translation_en": "fare evasion",
+      "examples": [
+        {
+          "de": "Hier ist das Schwarzfahren.",
+          "ru": "Вот безбилетный проезд."
+        },
+        {
+          "de": "Wir müssen das Schwarzfahren genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: безбилетный проезд."
+        },
+        {
+          "de": "Sind Sie mit dem Schwarzfahren einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: безбилетный проезд?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Schwarzfahren.",
+          "ru": "Сегодня мы концентрируемся на теме: безбилетный проезд."
+        },
+        {
+          "de": "Das Schwarzfahren spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Безбилетный проезд играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Bußgeld, die Bußgelder",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "денежный штраф",
+      "translation_en": "fine",
+      "examples": [
+        {
+          "de": "Hier ist das Bußgeld.",
+          "ru": "Вот денежный штраф."
+        },
+        {
+          "de": "Wir müssen das Bußgeld genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: денежный штраф."
+        },
+        {
+          "de": "Sind Sie mit dem Bußgeld einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: денежный штраф?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Bußgeld.",
+          "ru": "Сегодня мы концентрируемся на теме: денежный штраф."
+        },
+        {
+          "de": "Das Bußgeld spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Денежный штраф играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Abonnement, die Abonnements",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "абонемент / подписка",
+      "translation_en": "subscription",
+      "examples": [
+        {
+          "de": "Hier ist das Abonnement.",
+          "ru": "Вот абонемент / подписка."
+        },
+        {
+          "de": "Wir müssen das Abonnement genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: абонемент / подписка."
+        },
+        {
+          "de": "Sind Sie mit dem Abonnement einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: абонемент / подписка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Abonnement.",
+          "ru": "Сегодня мы концентрируемся на теме: абонемент / подписка."
+        },
+        {
+          "de": "Das Abonnement spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Абонемент / подписка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Abo, die Abos",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "абонемент (краткая форма)",
+      "translation_en": "subscription",
+      "examples": [
+        {
+          "de": "Hier ist das Abo.",
+          "ru": "Вот абонемент (краткая форма)."
+        },
+        {
+          "de": "Wir müssen das Abo genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: абонемент (краткая форма)."
+        },
+        {
+          "de": "Sind Sie mit dem Abo einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: абонемент (краткая форма)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Abo.",
+          "ru": "Сегодня мы концентрируемся на теме: абонемент (краткая форма)."
+        },
+        {
+          "de": "Das Abo spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Абонемент (краткая форма) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Monatskarte, die Monatskarten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "проездной билет на месяц",
+      "translation_en": "monthly ticket",
+      "examples": [
+        {
+          "de": "Hier ist die Monatskarte.",
+          "ru": "Вот проездной билет на месяц."
+        },
+        {
+          "de": "Wir müssen die Monatskarte genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: проездной билет на месяц."
+        },
+        {
+          "de": "Sind Sie mit der Monatskarte einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: проездной билет на месяц?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Monatskarte.",
+          "ru": "Сегодня мы концентрируемся на теме: проездной билет на месяц."
+        },
+        {
+          "de": "Die Monatskarte spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Проездной билет на месяц играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Wochenkarte, die Wochenkarten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "проездной билет на неделю",
+      "translation_en": "weekly ticket",
+      "examples": [
+        {
+          "de": "Hier ist die Wochenkarte.",
+          "ru": "Вот проездной билет на неделю."
+        },
+        {
+          "de": "Wir müssen die Wochenkarte genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: проездной билет на неделю."
+        },
+        {
+          "de": "Sind Sie mit der Wochenkarte einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: проездной билет на неделю?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Wochenkarte.",
+          "ru": "Сегодня мы концентрируемся на теме: проездной билет на неделю."
+        },
+        {
+          "de": "Die Wochenkarte spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Проездной билет на неделю играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Tageskarte, die Tageskarten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "билет на один день",
+      "translation_en": "day ticket",
+      "examples": [
+        {
+          "de": "Hier ist die Tageskarte.",
+          "ru": "Вот билет на один день."
+        },
+        {
+          "de": "Wir müssen die Tageskarte genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: билет на один день."
+        },
+        {
+          "de": "Sind Sie mit der Tageskarte einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: билет на один день?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Tageskarte.",
+          "ru": "Сегодня мы концентрируемся на теме: билет на один день."
+        },
+        {
+          "de": "Die Tageskarte spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Билет на один день играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Einzelfahrkarte, die Einzelfahrkarten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "разовый проездной билет",
+      "translation_en": "single ticket",
+      "examples": [
+        {
+          "de": "Hier ist die Einzelfahrkarte.",
+          "ru": "Вот разовый проездной билет."
+        },
+        {
+          "de": "Wir müssen die Einzelfahrkarte genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: разовый проездной билет."
+        },
+        {
+          "de": "Sind Sie mit der Einzelfahrkarte einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: разовый проездной билет?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Einzelfahrkarte.",
+          "ru": "Сегодня мы концентрируемся на теме: разовый проездной билет."
+        },
+        {
+          "de": "Die Einzelfahrkarte spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Разовый проездной билет играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die BahnCard, die BahnCards",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "карта скидок железных дорог Германии",
+      "translation_en": "discount card of DB",
+      "examples": [
+        {
+          "de": "Hier ist die BahnCard.",
+          "ru": "Вот карта скидок железных дорог Германии."
+        },
+        {
+          "de": "Wir müssen die BahnCard genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: карта скидок железных дорог Германии."
+        },
+        {
+          "de": "Sind Sie mit der BahnCard einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: карта скидок железных дорог Германии?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die BahnCard.",
+          "ru": "Сегодня мы концентрируемся на теме: карта скидок железных дорог Германии."
+        },
+        {
+          "de": "Die BahnCard spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Карта скидок железных дорог Германии играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Ermäßigung, die Ermäßigungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "скидка / льгота",
+      "translation_en": "discount",
+      "examples": [
+        {
+          "de": "Hier ist die Ermäßigung.",
+          "ru": "Вот скидка / льгота."
+        },
+        {
+          "de": "Wir müssen die Ermäßigung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: скидка / льгота."
+        },
+        {
+          "de": "Sind Sie mit der Ermäßigung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: скидка / льгота?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Ermäßigung.",
+          "ru": "Сегодня мы концентрируемся на теме: скидка / льгота."
+        },
+        {
+          "de": "Die Ermäßigung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Скидка / льгота играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "ermäßigt",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "со скидкой / льготный",
+      "translation_en": "discounted",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich ermäßigt.",
+          "ru": "Этот процесс действительно со скидкой / льготный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles ermäßigt bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось со скидкой / льготный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders ermäßigt.",
+          "ru": "Сегодня мы работаем особенно со скидкой / льготный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr ermäßigt.",
+          "ru": "Полученный результат очень со скидкой / льготный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich ermäßigt.",
+          "ru": "Я лично нахожу этот стиль работы со скидкой / льготный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Tarif, die Tarife",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "тариф / ставка оплаты",
+      "translation_en": "tariff / fare",
+      "examples": [
+        {
+          "de": "Hier ist der Tarif.",
+          "ru": "Вот тариф / ставка оплаты."
+        },
+        {
+          "de": "Wir müssen den Tarif genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: тариф / ставка оплаты."
+        },
+        {
+          "de": "Sind Sie mit dem Tarif einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: тариф / ставка оплаты?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Tarif.",
+          "ru": "Сегодня мы концентрируемся на теме: тариф / ставка оплаты."
+        },
+        {
+          "de": "Der Tarif spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Тариф / ставка оплаты играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Tarifzone, die Tarifzonen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "тарифная зона",
+      "translation_en": "fare zone",
+      "examples": [
+        {
+          "de": "Hier ist die Tarifzone.",
+          "ru": "Вот тарифная зона."
+        },
+        {
+          "de": "Wir müssen die Tarifzone genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: тарифная зона."
+        },
+        {
+          "de": "Sind Sie mit der Tarifzone einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: тарифная зона?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Tarifzone.",
+          "ru": "Сегодня мы концентрируемся на теме: тарифная зона."
+        },
+        {
+          "de": "Die Tarifzone spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Тарифная зона играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Verkehrsverbund, die Verkehrsverbünde",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "объединение перевозчиков / транспортный союз",
+      "translation_en": "transport association",
+      "examples": [
+        {
+          "de": "Hier ist der Verkehrsverbund.",
+          "ru": "Вот объединение перевозчиков / транспортный союз."
+        },
+        {
+          "de": "Wir müssen den Verkehrsverbund genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: объединение перевозчиков / транспортный союз."
+        },
+        {
+          "de": "Sind Sie mit dem Verkehrsverbund einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: объединение перевозчиков / транспортный союз?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Verkehrsverbund.",
+          "ru": "Сегодня мы концентрируемся на теме: объединение перевозчиков / транспортный союз."
+        },
+        {
+          "de": "Der Verkehrsverbund spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Объединение перевозчиков / транспортный союз играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Reise, die Reisen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "путешествие / поездка",
+      "translation_en": "journey / travel",
+      "examples": [
+        {
+          "de": "Hier ist die Reise.",
+          "ru": "Вот путешествие / поездка."
+        },
+        {
+          "de": "Wir müssen die Reise genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: путешествие / поездка."
+        },
+        {
+          "de": "Sind Sie mit der Reise einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: путешествие / поездка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Reise.",
+          "ru": "Сегодня мы концентрируемся на теме: путешествие / поездка."
+        },
+        {
+          "de": "Die Reise spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Путешествие / поездка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Fahrt",
+        "Ausflug",
+        "Tour"
+      ]
+    },
+    {
+      "word": "reisen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "путешествовать",
+      "translation_en": "to travel",
+      "examples": [
+        {
+          "de": "Wir reisen diese Angelegenheit direkt im Team.",
+          "ru": "Мы путешествовать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich reise die notwendigen Unterlagen sofort.",
+          "ru": "Я путешествовать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege reist das Ganze sehr professionell.",
+          "ru": "Ответственный коллега путешествовать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich gereist.",
+          "ru": "Мы успешно путешествовать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "reisen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: путешествовать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gereist",
+      "imperative": "reise! / reist! / reisen Sie!",
+      "conjugations": {
+        "ich": "reise",
+        "du": "reist",
+        "er/sie/es": "reist",
+        "wir": "reisen",
+        "ihr": "reist",
+        "sie/Sie": "reisen"
+      },
+      "prepositions": [
+        "nach + Dativ (путешествовать в какую-то страну/город)",
+        "in + Akkusativ (путешествовать в какое-то место)"
+      ]
+    },
+    {
+      "word": "das Reisebüro, die Reisebüros",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "туристическое агентство",
+      "translation_en": "travel agency",
+      "examples": [
+        {
+          "de": "Hier ist das Reisebüro.",
+          "ru": "Вот туристическое агентство."
+        },
+        {
+          "de": "Wir müssen das Reisebüro genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: туристическое агентство."
+        },
+        {
+          "de": "Sind Sie mit dem Reisebüro einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: туристическое агентство?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Reisebüro.",
+          "ru": "Сегодня мы концентрируемся на теме: туристическое агентство."
+        },
+        {
+          "de": "Das Reisebüro spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Туристическое агентство играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Buchung, die Buchungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "бронирование",
+      "translation_en": "booking",
+      "examples": [
+        {
+          "de": "Hier ist die Buchung.",
+          "ru": "Вот бронирование."
+        },
+        {
+          "de": "Wir müssen die Buchung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: бронирование."
+        },
+        {
+          "de": "Sind Sie mit der Buchung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: бронирование?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Buchung.",
+          "ru": "Сегодня мы концентрируемся на теме: бронирование."
+        },
+        {
+          "de": "Die Buchung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Бронирование играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "buchen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "бронировать",
+      "translation_en": "to book",
+      "examples": [
+        {
+          "de": "Wir buchen diese Angelegenheit direkt im Team.",
+          "ru": "Мы бронировать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich buche die notwendigen Unterlagen sofort.",
+          "ru": "Я бронировать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege bucht das Ganze sehr professionell.",
+          "ru": "Ответственный коллега бронировать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich gebucht.",
+          "ru": "Мы успешно бронировать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "buchen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: бронировать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gebucht",
+      "imperative": "buche! / bucht! / buchen Sie!",
+      "conjugations": {
+        "ich": "buche",
+        "du": "buchst",
+        "er/sie/es": "bucht",
+        "wir": "buchen",
+        "ihr": "bucht",
+        "sie/Sie": "buchen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "stornieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "аннулировать / отменять бронь",
+      "translation_en": "to cancel",
+      "examples": [
+        {
+          "de": "Wir stornieren diese Angelegenheit direkt im Team.",
+          "ru": "Мы аннулировать / отменять бронь этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich storniere die notwendigen Unterlagen sofort.",
+          "ru": "Я аннулировать / отменять бронь необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege storniert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега аннулировать / отменять бронь всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich storniert.",
+          "ru": "Мы успешно аннулировать / отменять бронь (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "stornieren Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: аннулировать / отменять бронь вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "storniert",
+      "imperative": "storniere! / storniert! / stornieren Sie!",
+      "conjugations": {
+        "ich": "storniere",
+        "du": "stornierst",
+        "er/sie/es": "storniert",
+        "wir": "stornieren",
+        "ihr": "storniert",
+        "sie/Sie": "stornieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Stornierung, die Stornierungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "отмена бронирования / аннулирование",
+      "translation_en": "cancellation",
+      "examples": [
+        {
+          "de": "Hier ist die Stornierung.",
+          "ru": "Вот отмена бронирования / аннулирование."
+        },
+        {
+          "de": "Wir müssen die Stornierung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: отмена бронирования / аннулирование."
+        },
+        {
+          "de": "Sind Sie mit der Stornierung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: отмена бронирования / аннулирование?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Stornierung.",
+          "ru": "Сегодня мы концентрируемся на теме: отмена бронирования / аннулирование."
+        },
+        {
+          "de": "Die Stornierung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Отмена бронирования / аннулирование играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Umbuchung, die Umbuchungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "изменение бронирования",
+      "translation_en": "rebooking",
+      "examples": [
+        {
+          "de": "Hier ist die Umbuchung.",
+          "ru": "Вот изменение бронирования."
+        },
+        {
+          "de": "Wir müssen die Umbuchung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: изменение бронирования."
+        },
+        {
+          "de": "Sind Sie mit der Umbuchung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: изменение бронирования?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Umbuchung.",
+          "ru": "Сегодня мы концентрируемся на теме: изменение бронирования."
+        },
+        {
+          "de": "Die Umbuchung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Изменение бронирования играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Gepäck, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "багаж",
+      "translation_en": "luggage",
+      "examples": [
+        {
+          "de": "Hier ist das Gepäck.",
+          "ru": "Вот багаж."
+        },
+        {
+          "de": "Wir müssen das Gepäck genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: багаж."
+        },
+        {
+          "de": "Sind Sie mit dem Gepäck einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: багаж?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Gepäck.",
+          "ru": "Сегодня мы концентрируемся на теме: багаж."
+        },
+        {
+          "de": "Das Gepäck spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Багаж играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Handgepäck, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "ручная кладь",
+      "translation_en": "hand luggage",
+      "examples": [
+        {
+          "de": "Hier ist das Handgepäck.",
+          "ru": "Вот ручная кладь."
+        },
+        {
+          "de": "Wir müssen das Handgepäck genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: ручная кладь."
+        },
+        {
+          "de": "Sind Sie mit dem Handgepäck einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: ручная кладь?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Handgepäck.",
+          "ru": "Сегодня мы концентрируемся на теме: ручная кладь."
+        },
+        {
+          "de": "Das Handgepäck spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Ручная кладь играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Koffer, die Koffer",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "чемодан",
+      "translation_en": "suitcase",
+      "examples": [
+        {
+          "de": "Hier ist der Koffer.",
+          "ru": "Вот чемодан."
+        },
+        {
+          "de": "Wir müssen den Koffer genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: чемодан."
+        },
+        {
+          "de": "Sind Sie mit dem Koffer einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: чемодан?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Koffer.",
+          "ru": "Сегодня мы концентрируемся на теме: чемодан."
+        },
+        {
+          "de": "Der Koffer spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Чемодан играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Tasche, die Taschen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "сумка",
+      "translation_en": "bag",
+      "examples": [
+        {
+          "de": "Hier ist die Tasche.",
+          "ru": "Вот сумка."
+        },
+        {
+          "de": "Wir müssen die Tasche genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: сумка."
+        },
+        {
+          "de": "Sind Sie mit der Tasche einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: сумка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Tasche.",
+          "ru": "Сегодня мы концентрируемся на теме: сумка."
+        },
+        {
+          "de": "Die Tasche spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Сумка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Gepäckaufbewahrung, die Gepäckaufbewahrungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "камера хранения багажа",
+      "translation_en": "luggage storage",
+      "examples": [
+        {
+          "de": "Hier ist die Gepäckaufbewahrung.",
+          "ru": "Вот камера хранения багажа."
+        },
+        {
+          "de": "Wir müssen die Gepäckaufbewahrung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: камера хранения багажа."
+        },
+        {
+          "de": "Sind Sie mit der Gepäckaufbewahrung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: камера хранения багажа?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Gepäckaufbewahrung.",
+          "ru": "Сегодня мы концентрируемся на теме: камера хранения багажа."
+        },
+        {
+          "de": "Die Gepäckaufbewahrung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Камера хранения багажа играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Flughafen, die Flughäfen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "аэропорт",
+      "translation_en": "airport",
+      "examples": [
+        {
+          "de": "Hier ist der Flughafen.",
+          "ru": "Вот аэропорт."
+        },
+        {
+          "de": "Wir müssen den Flughafen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: аэропорт."
+        },
+        {
+          "de": "Sind Sie mit dem Flughafen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: аэропорт?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Flughafen.",
+          "ru": "Сегодня мы концентрируемся на теме: аэропорт."
+        },
+        {
+          "de": "Der Flughafen spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Аэропорт играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Flugzeug, die Flugzeuge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "самолет",
+      "translation_en": "airplane",
+      "examples": [
+        {
+          "de": "Hier ist das Flugzeug.",
+          "ru": "Вот самолет."
+        },
+        {
+          "de": "Wir müssen das Flugzeug genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: самолет."
+        },
+        {
+          "de": "Sind Sie mit dem Flugzeug einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: самолет?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Flugzeug.",
+          "ru": "Сегодня мы концентрируемся на теме: самолет."
+        },
+        {
+          "de": "Das Flugzeug spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Самолет играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Flug, die Flüge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "полет / рейс",
+      "translation_en": "flight",
+      "examples": [
+        {
+          "de": "Hier ist der Flug.",
+          "ru": "Вот полет / рейс."
+        },
+        {
+          "de": "Wir müssen den Flug genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: полет / рейс."
+        },
+        {
+          "de": "Sind Sie mit dem Flug einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: полет / рейс?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Flug.",
+          "ru": "Сегодня мы концентрируемся на теме: полет / рейс."
+        },
+        {
+          "de": "Der Flug spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Полет / рейс играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Abflug, die Abflüge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "вылет (самолета)",
+      "translation_en": "departure",
+      "examples": [
+        {
+          "de": "Hier ist der Abflug.",
+          "ru": "Вот вылет (самолета)."
+        },
+        {
+          "de": "Wir müssen den Abflug genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: вылет (самолета)."
+        },
+        {
+          "de": "Sind Sie mit dem Abflug einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: вылет (самолета)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Abflug.",
+          "ru": "Сегодня мы концентрируемся на теме: вылет (самолета)."
+        },
+        {
+          "de": "Der Abflug spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Вылет (самолета) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Landung, die Landungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "посадка (самолета)",
+      "translation_en": "landing",
+      "examples": [
+        {
+          "de": "Hier ist die Landung.",
+          "ru": "Вот посадка (самолета)."
+        },
+        {
+          "de": "Wir müssen die Landung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: посадка (самолета)."
+        },
+        {
+          "de": "Sind Sie mit der Landung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: посадка (самолета)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Landung.",
+          "ru": "Сегодня мы концентрируемся на теме: посадка (самолета)."
+        },
+        {
+          "de": "Die Landung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Посадка (самолета) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Terminal, die Terminals",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "терминал",
+      "translation_en": "terminal",
+      "examples": [
+        {
+          "de": "Hier ist das Terminal.",
+          "ru": "Вот терминал."
+        },
+        {
+          "de": "Wir müssen das Terminal genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: терминал."
+        },
+        {
+          "de": "Sind Sie mit dem Terminal einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: терминал?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Terminal.",
+          "ru": "Сегодня мы концентрируемся на теме: терминал."
+        },
+        {
+          "de": "Das Terminal spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Терминал играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Gate, die Gates",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "выход на посадку в аэропорту",
+      "translation_en": "gate",
+      "examples": [
+        {
+          "de": "Hier ist das Gate.",
+          "ru": "Вот выход на посадку в аэропорту."
+        },
+        {
+          "de": "Wir müssen das Gate genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: выход на посадку в аэропорту."
+        },
+        {
+          "de": "Sind Sie mit dem Gate einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: выход на посадку в аэропорту?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Gate.",
+          "ru": "Сегодня мы концентрируемся на теме: выход на посадку в аэропорту."
+        },
+        {
+          "de": "Das Gate spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Выход на посадку в аэропорту играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Check-in, die Check-ins",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "регистрация при въезде / вылете",
+      "translation_en": "check-in",
+      "examples": [
+        {
+          "de": "Hier ist der Check-in.",
+          "ru": "Вот регистрация при въезде / вылете."
+        },
+        {
+          "de": "Wir müssen den Check-in genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: регистрация при въезде / вылете."
+        },
+        {
+          "de": "Sind Sie mit dem Check-in einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: регистрация при въезде / вылете?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Check-in.",
+          "ru": "Сегодня мы концентрируемся на теме: регистрация при въезде / вылете."
+        },
+        {
+          "de": "Der Check-in spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Регистрация при въезде / вылете играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Sicherheitskontrolle, die Sicherheitskontrollen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "досмотр / контроль безопасности",
+      "translation_en": "security check",
+      "examples": [
+        {
+          "de": "Hier ist die Sicherheitskontrolle.",
+          "ru": "Вот досмотр / контроль безопасности."
+        },
+        {
+          "de": "Wir müssen die Sicherheitskontrolle genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: досмотр / контроль безопасности."
+        },
+        {
+          "de": "Sind Sie mit der Sicherheitskontrolle einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: досмотр / контроль безопасности?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Sicherheitskontrolle.",
+          "ru": "Сегодня мы концентрируемся на теме: досмотр / контроль безопасности."
+        },
+        {
+          "de": "Die Sicherheitskontrolle spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Досмотр / контроль безопасности играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Passkontrolle, die Passkontrollen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "паспортный контроль",
+      "translation_en": "passport control",
+      "examples": [
+        {
+          "de": "Hier ist die Passkontrolle.",
+          "ru": "Вот паспортный контроль."
+        },
+        {
+          "de": "Wir müssen die Passkontrolle genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: паспортный контроль."
+        },
+        {
+          "de": "Sind Sie mit der Passkontrolle einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: паспортный контроль?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Passkontrolle.",
+          "ru": "Сегодня мы концентрируемся на теме: паспортный контроль."
+        },
+        {
+          "de": "Die Passkontrolle spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Паспортный контроль играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Gepäckausgabe, die Gepäckausgaben",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "выдача багажа",
+      "translation_en": "baggage claim",
+      "examples": [
+        {
+          "de": "Hier ist die Gepäckausgabe.",
+          "ru": "Вот выдача багажа."
+        },
+        {
+          "de": "Wir müssen die Gepäckausgabe genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: выдача багажа."
+        },
+        {
+          "de": "Sind Sie mit der Gepäckausgabe einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: выдача багажа?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Gepäckausgabe.",
+          "ru": "Сегодня мы концентрируемся на теме: выдача багажа."
+        },
+        {
+          "de": "Die Gepäckausgabe spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Выдача багажа играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Zoll, die Zölle",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "таможня",
+      "translation_en": "customs",
+      "examples": [
+        {
+          "de": "Hier ist der Zoll.",
+          "ru": "Вот таможня."
+        },
+        {
+          "de": "Wir müssen den Zoll genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: таможня."
+        },
+        {
+          "de": "Sind Sie mit dem Zoll einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: таможня?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Zoll.",
+          "ru": "Сегодня мы концентрируемся на теме: таможня."
+        },
+        {
+          "de": "Der Zoll spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Таможня играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "verzollen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "декларировать на таможне / оплачивать пошлину",
+      "translation_en": "to declare (customs)",
+      "examples": [
+        {
+          "de": "Wir verzollen diese Angelegenheit direkt im Team.",
+          "ru": "Мы декларировать на таможне / оплачивать пошлину этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich verzolle die notwendigen Unterlagen sofort.",
+          "ru": "Я декларировать на таможне / оплачивать пошлину необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege verzollt das Ganze sehr professionell.",
+          "ru": "Ответственный коллега декларировать на таможне / оплачивать пошлину всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich verzollt.",
+          "ru": "Мы успешно декларировать на таможне / оплачивать пошлину (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "verzollen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: декларировать на таможне / оплачивать пошлину вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "verzollt",
+      "imperative": "verzolle! / verzollt! / verzollen Sie!",
+      "conjugations": {
+        "ich": "verzolle",
+        "du": "verzollst",
+        "er/sie/es": "verzollt",
+        "wir": "verzollen",
+        "ihr": "verzollt",
+        "sie/Sie": "verzollen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "das Hotel, die Hotels",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "отель / гостиница",
+      "translation_en": "hotel",
+      "examples": [
+        {
+          "de": "Hier ist das Hotel.",
+          "ru": "Вот отель / гостиница."
+        },
+        {
+          "de": "Wir müssen das Hotel genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: отель / гостиница."
+        },
+        {
+          "de": "Sind Sie mit dem Hotel einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: отель / гостиница?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Hotel.",
+          "ru": "Сегодня мы концентрируемся на теме: отель / гостиница."
+        },
+        {
+          "de": "Das Hotel spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Отель / гостиница играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Unterkunft, die Unterkünfte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "жилье / приют / ночлег",
+      "translation_en": "accommodation",
+      "examples": [
+        {
+          "de": "Hier ist die Unterkunft.",
+          "ru": "Вот жилье / приют / ночлег."
+        },
+        {
+          "de": "Wir müssen die Unterkunft genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: жилье / приют / ночлег."
+        },
+        {
+          "de": "Sind Sie mit der Unterkunft einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: жилье / приют / ночлег?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Unterkunft.",
+          "ru": "Сегодня мы концентрируемся на теме: жилье / приют / ночлег."
+        },
+        {
+          "de": "Die Unterkunft spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Жилье / приют / ночлег играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Pension, die Pensionen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "гостевой дом / пансион",
+      "translation_en": "guesthouse",
+      "examples": [
+        {
+          "de": "Hier ist die Pension.",
+          "ru": "Вот гостевой дом / пансион."
+        },
+        {
+          "de": "Wir müssen die Pension genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: гостевой дом / пансион."
+        },
+        {
+          "de": "Sind Sie mit der Pension einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: гостевой дом / пансион?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Pension.",
+          "ru": "Сегодня мы концентрируемся на теме: гостевой дом / пансион."
+        },
+        {
+          "de": "Die Pension spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Гостевой дом / пансион играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Jugendherberge, die Jugendherbergen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "молодежный хостел",
+      "translation_en": "youth hostel",
+      "examples": [
+        {
+          "de": "Hier ist die Jugendherberge.",
+          "ru": "Вот молодежный хостел."
+        },
+        {
+          "de": "Wir müssen die Jugendherberge genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: молодежный хостел."
+        },
+        {
+          "de": "Sind Sie mit der Jugendherberge einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: молодежный хостел?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Jugendherberge.",
+          "ru": "Сегодня мы концентрируемся на теме: молодежный хостел."
+        },
+        {
+          "de": "Die Jugendherberge spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Молодежный хостел играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Ferienwohnung, die Ferienwohnungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "квартира для отдыха (посуточно)",
+      "translation_en": "holiday apartment",
+      "examples": [
+        {
+          "de": "Hier ist die Ferienwohnung.",
+          "ru": "Вот квартира для отдыха (посуточно)."
+        },
+        {
+          "de": "Wir müssen die Ferienwohnung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: квартира для отдыха (посуточно)."
+        },
+        {
+          "de": "Sind Sie mit der Ferienwohnung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: квартира для отдыха (посуточно)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Ferienwohnung.",
+          "ru": "Сегодня мы концентрируемся на теме: квартира для отдыха (посуточно)."
+        },
+        {
+          "de": "Die Ferienwohnung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Квартира для отдыха (посуточно) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Doppelzimmer, die Doppelzimmer",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "двухместный номер",
+      "translation_en": "double room",
+      "examples": [
+        {
+          "de": "Hier ist das Doppelzimmer.",
+          "ru": "Вот двухместный номер."
+        },
+        {
+          "de": "Wir müssen das Doppelzimmer genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: двухместный номер."
+        },
+        {
+          "de": "Sind Sie mit dem Doppelzimmer einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: двухместный номер?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Doppelzimmer.",
+          "ru": "Сегодня мы концентрируемся на теме: двухместный номер."
+        },
+        {
+          "de": "Das Doppelzimmer spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Двухместный номер играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Einzelzimmer, die Einzelzimmer",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "одноместный номер",
+      "translation_en": "single room",
+      "examples": [
+        {
+          "de": "Hier ist das Einzelzimmer.",
+          "ru": "Вот одноместный номер."
+        },
+        {
+          "de": "Wir müssen das Einzelzimmer genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: одноместный номер."
+        },
+        {
+          "de": "Sind Sie mit dem Einzelzimmer einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: одноместный номер?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Einzelzimmer.",
+          "ru": "Сегодня мы концентрируемся на теме: одноместный номер."
+        },
+        {
+          "de": "Das Einzelzimmer spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Одноместный номер играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Reservierung, die Reservierungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "резервирование / бронь",
+      "translation_en": "reservation",
+      "examples": [
+        {
+          "de": "Hier ist die Reservierung.",
+          "ru": "Вот резервирование / бронь."
+        },
+        {
+          "de": "Wir müssen die Reservierung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: резервирование / бронь."
+        },
+        {
+          "de": "Sind Sie mit der Reservierung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: резервирование / бронь?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Reservierung.",
+          "ru": "Сегодня мы концентрируемся на теме: резервирование / бронь."
+        },
+        {
+          "de": "Die Reservierung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Резервирование / бронь играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "reservieren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "резервировать / бронировать",
+      "translation_en": "to reserve",
+      "examples": [
+        {
+          "de": "Wir reservieren diese Angelegenheit direkt im Team.",
+          "ru": "Мы резервировать / бронировать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich reserviere die notwendigen Unterlagen sofort.",
+          "ru": "Я резервировать / бронировать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege reserviert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега резервировать / бронировать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich reserviert.",
+          "ru": "Мы успешно резервировать / бронировать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "reservieren Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: резервировать / бронировать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "reserviert",
+      "imperative": "reserviere! / reserviert! / reservieren Sie!",
+      "conjugations": {
+        "ich": "reserviere",
+        "du": "reservierst",
+        "er/sie/es": "reserviert",
+        "wir": "reservieren",
+        "ihr": "reserviert",
+        "sie/Sie": "reservieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Rezeption, die Rezeptionen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "стойка регистрации / рецепция",
+      "translation_en": "reception",
+      "examples": [
+        {
+          "de": "Hier ist die Rezeption.",
+          "ru": "Вот стойка регистрации / рецепция."
+        },
+        {
+          "de": "Wir müssen die Rezeption genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: стойка регистрации / рецепция."
+        },
+        {
+          "de": "Sind Sie mit der Rezeption einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: стойка регистрации / рецепция?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Rezeption.",
+          "ru": "Сегодня мы концентрируемся на теме: стойка регистрации / рецепция."
+        },
+        {
+          "de": "Die Rezeption spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Стойка регистрации / рецепция играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Check-out, die Check-outs",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "выезд из гостиницы / расчетный час",
+      "translation_en": "check-out",
+      "examples": [
+        {
+          "de": "Hier ist der Check-out.",
+          "ru": "Вот выезд из гостиницы / расчетный час."
+        },
+        {
+          "de": "Wir müssen den Check-out genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: выезд из гостиницы / расчетный час."
+        },
+        {
+          "de": "Sind Sie mit dem Check-out einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: выезд из гостиницы / расчетный час?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Check-out.",
+          "ru": "Сегодня мы концентрируемся на теме: выезд из гостиницы / расчетный час."
+        },
+        {
+          "de": "Der Check-out spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Выезд из гостиницы / расчетный час играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kurtaxe, die Kurtaxen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "курортный сбор",
+      "translation_en": "tourist tax",
+      "examples": [
+        {
+          "de": "Hier ist die Kurtaxe.",
+          "ru": "Вот курортный сбор."
+        },
+        {
+          "de": "Wir müssen die Kurtaxe genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: курортный сбор."
+        },
+        {
+          "de": "Sind Sie mit der Kurtaxe einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: курортный сбор?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kurtaxe.",
+          "ru": "Сегодня мы концентрируемся на теме: курортный сбор."
+        },
+        {
+          "de": "Die Kurtaxe spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Курортный сбор играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Reiseführer, die Reiseführer",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "путеводитель / гид",
+      "translation_en": "guidebook / tour guide",
+      "examples": [
+        {
+          "de": "Hier ist der Reiseführer.",
+          "ru": "Вот путеводитель / гид."
+        },
+        {
+          "de": "Wir müssen den Reiseführer genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: путеводитель / гид."
+        },
+        {
+          "de": "Sind Sie mit dem Reiseführer einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: путеводитель / гид?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Reiseführer.",
+          "ru": "Сегодня мы концентрируемся на теме: путеводитель / гид."
+        },
+        {
+          "de": "Der Reiseführer spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Путеводитель / гид играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Sehenswürdigkeit, die Sehenswürdigkeiten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "достопримечательность",
+      "translation_en": "tourist attraction",
+      "examples": [
+        {
+          "de": "Hier ist die Sehenswürdigkeit.",
+          "ru": "Вот достопримечательность."
+        },
+        {
+          "de": "Wir müssen die Sehenswürdigkeit genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: достопримечательность."
+        },
+        {
+          "de": "Sind Sie mit der Sehenswürdigkeit einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: достопримечательность?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Sehenswürdigkeit.",
+          "ru": "Сегодня мы концентрируемся на теме: достопримечательность."
+        },
+        {
+          "de": "Die Sehenswürdigkeit spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Достопримечательность играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Stadtrundfahrt, die Stadtrundfahrten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "экскурсия по городу",
+      "translation_en": "city tour",
+      "examples": [
+        {
+          "de": "Hier ist die Stadtrundfahrt.",
+          "ru": "Вот экскурсия по городу."
+        },
+        {
+          "de": "Wir müssen die Stadtrundfahrt genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: экскурсия по городу."
+        },
+        {
+          "de": "Sind Sie mit der Stadtrundfahrt einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: экскурсия по городу?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Stadtrundfahrt.",
+          "ru": "Сегодня мы концентрируемся на теме: экскурсия по городу."
+        },
+        {
+          "de": "Die Stadtrundfahrt spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Экскурсия по городу играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Ausflug, die Ausflüge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "экскурсия / вылазка / прогулка",
+      "translation_en": "excursion",
+      "examples": [
+        {
+          "de": "Hier ist der Ausflug.",
+          "ru": "Вот экскурсия / вылазка / прогулка."
+        },
+        {
+          "de": "Wir müssen den Ausflug genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: экскурсия / вылазка / прогулка."
+        },
+        {
+          "de": "Sind Sie mit dem Ausflug einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: экскурсия / вылазка / прогулка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Ausflug.",
+          "ru": "Сегодня мы концентрируемся на теме: экскурсия / вылазка / прогулка."
+        },
+        {
+          "de": "Der Ausflug spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Экскурсия / вылазка / прогулка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "wandern",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "ходить в поход / прогуливаться пешком",
+      "translation_en": "to hike",
+      "examples": [
+        {
+          "de": "Wir wandern diese Angelegenheit direkt im Team.",
+          "ru": "Мы ходить в поход / прогуливаться пешком этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich wandere die notwendigen Unterlagen sofort.",
+          "ru": "Я ходить в поход / прогуливаться пешком необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege wandert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега ходить в поход / прогуливаться пешком всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich gewandert.",
+          "ru": "Мы успешно ходить в поход / прогуливаться пешком (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "wandern Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: ходить в поход / прогуливаться пешком вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gewandert",
+      "imperative": "wandere! / wandert! / wandern Sie!",
+      "conjugations": {
+        "ich": "wandere",
+        "du": "wanderst",
+        "er/sie/es": "wandert",
+        "wir": "wandern",
+        "ihr": "wandert",
+        "sie/Sie": "wandern"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Wanderung, die Wanderungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "пеший поход / прогулка",
+      "translation_en": "hike",
+      "examples": [
+        {
+          "de": "Hier ist die Wanderung.",
+          "ru": "Вот пеший поход / прогулка."
+        },
+        {
+          "de": "Wir müssen die Wanderung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: пеший поход / прогулка."
+        },
+        {
+          "de": "Sind Sie mit der Wanderung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: пеший поход / прогулка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Wanderung.",
+          "ru": "Сегодня мы концентрируемся на теме: пеший поход / прогулка."
+        },
+        {
+          "de": "Die Wanderung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Пеший поход / прогулка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    }
+  ]
+}

@@ -1,0 +1,1762 @@
+{
+  "category": "Zeit, Termine & Meilensteine",
+  "words": [
+    {
+      "word": "der Zeitplan, die Zeitpläne",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "график, расписание, план мероприятий",
+      "translation_en": "schedule, timeline, project schedule",
+      "examples": [
+        {
+          "de": "Wir müssen den Zeitplan für die Softwareentwicklung überarbeiten.",
+          "ru": "Мы должны пересмотреть график разработки программного обеспечения."
+        },
+        {
+          "de": "Laut Zeitplan sollte das Design bis Freitag fertig sein.",
+          "ru": "Согласно графику, дизайн должен быть готов к пятнице."
+        },
+        {
+          "de": "Wir liegen gut im Zeitplan und haben keine Verzögerungen.",
+          "ru": "Мы хорошо укладываемся в график и не имеем задержек."
+        },
+        {
+          "de": "Ein realistischer Zeitplan verhindert unnötigen Stress im Team.",
+          "ru": "Реалистичный график предотвращает лишний стресс в команде."
+        },
+        {
+          "de": "Der Projektleiter überwacht den Zeitplan täglich.",
+          "ru": "Руководитель проекта ежедневно контролирует график."
+        }
+      ],
+      "synonyms": [
+        "Terminkalender",
+        "Ablaufplan",
+        "Terminplan"
+      ]
+    },
+    {
+      "word": "der Termin, die Termine",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "срок, дата, встреча, назначенное время",
+      "translation_en": "date, appointment, deadline, meeting slot",
+      "examples": [
+        {
+          "de": "Wir müssen einen neuen Termin für das Kick-off-Meeting vereinbaren.",
+          "ru": "Мы должны согласовать новую дату для стартовой встречи."
+        },
+        {
+          "de": "Dieser Termin ist für alle Teammitglieder verpflichtend.",
+          "ru": "Эта встреча обязательна для всех членов команды."
+        },
+        {
+          "de": "Der Kunde hat den vereinbarten Termin leider verschoben.",
+          "ru": "Клиент, к сожалению, перенес согласованную встречу."
+        },
+        {
+          "de": "Bitte tragen Sie alle Termine in den gemeinsamen Kalender ein.",
+          "ru": "Пожалуйста, внесите все встречи в общий календарь."
+        },
+        {
+          "de": "Wir haben heute mehrere wichtige Termine mit den Stakeholdern.",
+          "ru": "Сегодня у нас несколько важных встреч со стейкхолдерами."
+        }
+      ],
+      "synonyms": [
+        "Verabredung",
+        "Frist",
+        "Datum"
+      ]
+    },
+    {
+      "word": "die Frist, die Fristen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "срок, дедлайн, установленный срок",
+      "translation_en": "deadline, period, time limit",
+      "examples": [
+        {
+          "de": "Die Frist für die Einreichung des Projektvorschlags endet morgen.",
+          "ru": "Срок подачи проектного предложения истекает завтра."
+        },
+        {
+          "de": "Wir müssen diese Frist unbedingt einhalten.",
+          "ru": "Мы обязательно должны уложиться в этот срок."
+        },
+        {
+          "de": "Kann die Frist für den Zwischenbericht verlängert werden?",
+          "ru": "Можно ли продлить срок предоставления промежуточного отчета?"
+        },
+        {
+          "de": "Die gesetzliche Frist setzt uns stark unter Druck.",
+          "ru": "Установленный законом срок оказывает на нас сильное давление."
+        },
+        {
+          "de": "Nach Ablauf der Frist können keine Änderungen mehr vorgenommen werden.",
+          "ru": "После истечения срока никакие изменения больше не могут быть внесены."
+        }
+      ],
+      "synonyms": [
+        "Termin",
+        "Stichtag",
+        "Deadline"
+      ]
+    },
+    {
+      "word": "der Meilenstein, die Meilensteine",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "веха, ключевой этап, контрольная точка",
+      "translation_en": "milestone",
+      "examples": [
+        {
+          "de": "Die Fertigstellung des Prototyps ist ein wichtiger Meilenstein.",
+          "ru": "Завершение прототипа — это важная веха."
+        },
+        {
+          "de": "Wir haben den ersten Meilenstein des Projekts erfolgreich erreicht.",
+          "ru": "Мы успешно достигли первой вехи проекта."
+        },
+        {
+          "de": "Im Zeitplan sind drei große Meilensteine definiert.",
+          "ru": "В графике определены три крупные вехи."
+        },
+        {
+          "de": "Das Erreichen dieses Meilensteins wird mit dem Kunden gefeiert.",
+          "ru": "Достижение этой вехи отмечается вместе с клиентом."
+        },
+        {
+          "de": "Jeder Meilenstein muss vom Lenkungsausschuss freigegeben werden.",
+          "ru": "Каждая веха должна быть утверждена руководящим комитетом."
+        }
+      ],
+      "synonyms": [
+        "Etappenziel",
+        "Zwischenziel",
+        "Kontrollpunkt"
+      ]
+    },
+    {
+      "word": "die Verzögerung, die Verzögerungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "задержка, просрочка, отставание",
+      "translation_en": "delay, lag",
+      "examples": [
+        {
+          "de": "Unerwartete technische Probleme führten zu einer Verzögerung.",
+          "ru": "Непредвиденные технические проблемы привели к задержке."
+        },
+        {
+          "de": "Wir müssen die Verzögerung im Bericht begründen.",
+          "ru": "Мы должны обосновать задержку в отчете."
+        },
+        {
+          "de": "Jede weitere Verzögerung wird das Projekt teurer machen.",
+          "ru": "Каждая последующая задержка сделает проект дороже."
+        },
+        {
+          "de": "Es gab eine Verzögerung bei der Lieferung der Hardware.",
+          "ru": "Произошла задержка в поставке оборудования."
+        },
+        {
+          "de": "Trotz der Verzögerung können wir das Enddatum halten.",
+          "ru": "Несмотря на задержку, мы можем уложиться в конечную дату."
+        }
+      ],
+      "synonyms": [
+        "Verspätung",
+        "Verzug",
+        "Mora"
+      ]
+    },
+    {
+      "word": "die Zeiterfassung, die Zeiterfassungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "учет рабочего времени, регистрация времени",
+      "translation_en": "time tracking, time recording",
+      "examples": [
+        {
+          "de": "Die Zeiterfassung erfolgt über ein neues Online-Tool.",
+          "ru": "Учет рабочего времени осуществляется через новый онлайн-инструмент."
+        },
+        {
+          "de": "Bitte denken Sie daran, Ihre Zeiterfassung wöchentlich auszufüllen.",
+          "ru": "Пожалуйста, не забывайте еженедельно заполнять учет рабочего времени."
+        },
+        {
+          "de": "Eine genaue Zeiterfassung hilft bei der Budgetplanung.",
+          "ru": "Точный учет рабочего времени помогает при планировании бюджета."
+        },
+        {
+          "de": "Die Zeiterfassung zeigt, dass wir zu viel Zeit für Meetings aufwenden.",
+          "ru": "Учет рабочего времени показывает, что мы тратим слишком много времени на встречи."
+        },
+        {
+          "de": "Der Projektleiter kontrolliert die Zeiterfassung der Mitarbeiter.",
+          "ru": "Руководитель проекта контролирует учет рабочего времени сотрудников."
+        }
+      ],
+      "synonyms": [
+        "Stundenerfassung",
+        "Zeitmessung"
+      ]
+    },
+    {
+      "word": "die Schätzung, die Schätzungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "оценка, прогнозирование",
+      "translation_en": "estimate, estimation",
+      "examples": [
+        {
+          "de": "Unsere erste Schätzung des Aufwands war leider zu optimistisch.",
+          "ru": "Наша первая оценка трудозатрат была, к сожалению, слишком оптимистичной."
+        },
+        {
+          "de": "Wir basieren unsere Planung auf den Schätzungen der Entwickler.",
+          "ru": "Мы основываем наше планирование на оценках разработчиков."
+        },
+        {
+          "de": "Für eine präzise Schätzung benötigen wir detaillierte Anforderungen.",
+          "ru": "Для точной оценки нам нужны детальные требования."
+        },
+        {
+          "de": "Die Schätzung für die Gesamtkosten liegt bei 50.000 Euro.",
+          "ru": "Оценка общих затрат составляет 50 000 евро."
+        },
+        {
+          "de": "In agilen Projekten nutzen wir Planning Poker für Schätzungen.",
+          "ru": "В гибких проектах мы используем Planning Poker для оценок."
+        }
+      ],
+      "synonyms": [
+        "Daumenregel",
+        "Faustformel",
+        "Faustregel"
+      ]
+    },
+    {
+      "word": "einhalten",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "соблюдать (сроки), укладываться",
+      "translation_en": "to meet (a deadline), to keep (a promise), to adhere to",
+      "examples": [
+        {
+          "de": "Wir müssen die vereinbarten Termine unbedingt einhalten.",
+          "ru": "Мы обязательно должны соблюдать согласованные сроки."
+        },
+        {
+          "de": "Es wird schwierig sein, das Budget einzuhalten.",
+          "ru": "Будет трудно уложиться в budget."
+        },
+        {
+          "de": "Das Team gibt sein Bestes, um die Frist einzuhalten.",
+          "ru": "Команда делает все возможное, чтобы уложиться в срок."
+        },
+        {
+          "de": "Wenn wir die Qualitätsstandards einhalten, wird der Kunde zufrieden sein.",
+          "ru": "Если мы будем соблюдать стандарты качества, клиент останется доволен."
+        },
+        {
+          "de": "Es ist wichtig, die Pausenzeiten einzuhalten.",
+          "ru": "Важно соблюдать время перерывов."
+        }
+      ],
+      "synonyms": [
+        "beachten",
+        "erfüllen",
+        "ernst nehmen"
+      ],
+      "partizip_2": "eingehalten",
+      "imperative": "halte ein! / haltet ein! / halten Sie ein!",
+      "conjugations": {
+        "ich": "halte ein",
+        "du": "hältst ein",
+        "er/sie/es": "hält ein",
+        "wir": "halten ein",
+        "ihr": "haltet ein",
+        "sie/Sie": "halten ein"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "verschieben",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "переносить, откладывать, сдвигать",
+      "translation_en": "to postpone, to reschedule, to delay",
+      "examples": [
+        {
+          "de": "Wir müssen das wöchentliche Statusmeeting auf Donnerstag verschieben.",
+          "ru": "Мы вынуждены перенести еженедельное статус-совещание на четверг."
+        },
+        {
+          "de": "Der Starttermin des Projekts wurde um zwei Wochen verschoben.",
+          "ru": "Дата начала проекта была перенесена на две недели."
+        },
+        {
+          "de": "Können wir das Telefonat mit dem Kunden verschieben?",
+          "ru": "Можем ли мы перенести телефонный разговор с клиентом."
+        },
+        {
+          "de": "Es ist besser, den Release zu verschieben, als ein fehlerhaftes Produkt zu liefern.",
+          "ru": "Лучше перенести релиз, чем выпускать продукт с ошибками."
+        },
+        {
+          "de": "Wir sollten diese Aufgabe auf die nächste Phase verschieben.",
+          "ru": "Нам следует перенести эту задачу на следующий этап."
+        }
+      ],
+      "synonyms": [
+        "verlagern",
+        "umstellen",
+        "umsetzen"
+      ],
+      "partizip_2": "verschoben",
+      "imperative": "verschiebe! / verschiebt! / verschieben Sie!",
+      "conjugations": {
+        "ich": "verschiebe",
+        "du": "verschiebst",
+        "er/sie/es": "verschiebt",
+        "wir": "verschieben",
+        "ihr": "verschiebt",
+        "sie/Sie": "verschieben"
+      },
+      "prepositions": [
+        "auf + Akkusativ (на какой-то срок)"
+      ]
+    },
+    {
+      "word": "absagen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "отменять, отказывать",
+      "translation_en": "to cancel, to call off",
+      "examples": [
+        {
+          "de": "Ich muss den Termin heute Nachmittag leider absagen.",
+          "ru": "К сожалению, я должен отменить сегодняшнюю встречу во второй половине дня."
+        },
+        {
+          "de": "Das Meeting wurde kurzfristig wegen Krankheit abgesagt.",
+          "ru": "Встреча была отменена в короткие сроки из-за болезни."
+        },
+        {
+          "de": "Wir sollten das Projekt nicht voreilig absagen.",
+          "ru": "Нам не следует преждевременно отменять проект."
+        },
+        {
+          "de": "Der Kunde hat den Workshop telefonisch abgesagt.",
+          "ru": "Клиент отменил воркшоп по телефону."
+        },
+        {
+          "de": "Wenn Sie nicht teilnehmen können, sagen Sie bitte rechtzeitig ab.",
+          "ru": "Если вы не можете принять участие, пожалуйста, отмените встречу заранее."
+        }
+      ],
+      "synonyms": [
+        "verzichten",
+        "ausfallen lassen",
+        "canceln"
+      ],
+      "partizip_2": "abgesagt",
+      "imperative": "sage ab! / sagt ab! / sagen Sie ab!",
+      "conjugations": {
+        "ich": "sage ab",
+        "du": "sagst ab",
+        "er/sie/es": "sagt ab",
+        "wir": "sagen ab",
+        "ihr": "sagt ab",
+        "sie/Sie": "sagen ab"
+      },
+      "prepositions": [
+        "(Dativ) (кому-то / отказаться от чего-то)"
+      ]
+    },
+    {
+      "word": "der Verzug, die Verzüge",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "просрочка, задержка, неисполнение в срок",
+      "translation_en": "delay, default, backlog",
+      "examples": [
+        {
+          "de": "Das Projekt befindet sich bereits seit zwei Wochen im Verzug.",
+          "ru": "Проект уже две недели находится в состоянии просрочки."
+        },
+        {
+          "de": "Bei Verzug der Lieferung drohen Vertragsstrafen.",
+          "ru": "В случае задержки поставки грозят штрафные санкции."
+        },
+        {
+          "de": "Wir müssen alles tun, um nicht in Verzug zu geraten.",
+          "ru": "Мы должны сделать все возможное, чтобы не допустить просрочки."
+        },
+        {
+          "de": "Der Verzug wurde durch den Ausfall eines Zulieferers verursacht.",
+          "ru": "Просрочка была вызвана выходом из строя субподрядчика."
+        },
+        {
+          "de": "Wie können wir den aktuellen Verzug wieder aufholen?",
+          "ru": "Как мы можем компенсировать текущее отставание?"
+        }
+      ],
+      "synonyms": [
+        "Zahlungsverzug",
+        "Rückstand",
+        "Verzögerung"
+      ]
+    },
+    {
+      "word": "rechtzeitig",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "своевременный, вовремя",
+      "translation_en": "timely, in time, on time",
+      "examples": [
+        {
+          "de": "Bitte reichen Sie Ihren Bericht rechtzeitig ein.",
+          "ru": "Пожалуйста, предоставьте ваш отчет своевременно."
+        },
+        {
+          "de": "Wir müssen die Stakeholder rechtzeitig über Änderungen informieren.",
+          "ru": "Мы должны своевременно информировать стейкхолдеров об изменениях."
+        },
+        {
+          "de": "Dank der rechtzeitigen Planung lief das Projekt reibungslos.",
+          "ru": "Благодаря своевременному планированию проект прошел гладко."
+        },
+        {
+          "de": "Erkennen wir Risiken rechtzeitig, können wir Gegenmaßnahmen ergreifen.",
+          "ru": "Если мы выявим риски своевременно, мы сможем принять контрмеры."
+        },
+        {
+          "de": "Der Prototyp wurde rechtzeitig vor der Messe fertiggestellt.",
+          "ru": "Прототип был завершен вовремя перед выставкой."
+        }
+      ],
+      "synonyms": [
+        "fristgemäß",
+        "fristgerecht",
+        "termingemäß"
+      ]
+    },
+    {
+      "word": "verspätet",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "запоздалый, с опозданием",
+      "translation_en": "delayed, late",
+      "examples": [
+        {
+          "de": "Das Feedback des Kunden kam sehr verspätet an.",
+          "ru": "Обратная связь от клиента поступила с большим опозданием."
+        },
+        {
+          "de": "Durch die verspätete Freigabe verzögert sich der gesamte Prozess.",
+          "ru": "Из-за запоздалого утверждения задерживается весь процесс."
+        },
+        {
+          "de": "Wir müssen eine verspätete Lieferung einplanen.",
+          "ru": "Мы должны запланировать возможность запоздалой поставки."
+        },
+        {
+          "de": "Der Projektleiter entschuldigte sich für den verspäteten Start.",
+          "ru": "Руководитель проекта извинился за запоздалый старт."
+        },
+        {
+          "de": "Verspätete Zahlungen können zu Liquiditätsproblemen führen.",
+          "ru": "Запоздалые платежи могут привести к проблемам с ликвидностью."
+        }
+      ],
+      "synonyms": [
+        "nachträglich",
+        "nachzügelnd",
+        "verzögert"
+      ]
+    },
+    {
+      "word": "die Deadline, die Deadlines",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "крайний срок, дедлайн",
+      "translation_en": "deadline",
+      "examples": [
+        {
+          "de": "Die Deadline für dieses Projekt ist der 31. Dezember.",
+          "ru": "Крайний срок для этого проекта — 31 декабря."
+        },
+        {
+          "de": "Wir arbeiten unter Hochdruck, um die Deadline zu erreichen.",
+          "ru": "Мы работаем в напряженном режиме, чтобы уложиться в дедлайн."
+        },
+        {
+          "de": "Die Deadline wurde vom Kunden hart vorgegeben.",
+          "ru": "Крайний срок был жестко задан клиентом."
+        },
+        {
+          "de": "Es ist unmöglich, diese Deadline einzuhalten.",
+          "ru": "Соблюсти этот дедлайн невозможно."
+        },
+        {
+          "de": "Können wir über eine Verlängerung der Deadline verhandeln?",
+          "ru": "Можем ли мы договориться о продлении дедлайна?"
+        }
+      ],
+      "synonyms": [
+        "letzter Termin",
+        "Abgabetermin",
+        "Ablieferungstermin"
+      ]
+    },
+    {
+      "word": "schätzen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "оценивать, предполагать",
+      "translation_en": "to estimate, to value",
+      "examples": [
+        {
+          "de": "Wie schätzen Sie den Aufwand für diese Aufgabe ein?",
+          "ru": "Как вы оцениваете трудозатраты на эту задачу?"
+        },
+        {
+          "de": "Wir schätzen, dass die Entwicklung etwa drei Wochen dauern wird.",
+          "ru": "По нашим оценкам, разработка займет около трех недель."
+        },
+        {
+          "de": "Es ist schwierig, die Kosten genau zu schätzen.",
+          "ru": "Сложно точно оценить затраты."
+        },
+        {
+          "de": "Das Team schätzt die Story Points im Planning-Meeting.",
+          "ru": "Команда оценивает Story Points на планировании."
+        },
+        {
+          "de": "Erfahrene Entwickler können Risiken besser schätzen.",
+          "ru": "Опытные разработчики могут лучше оценивать риски."
+        }
+      ],
+      "synonyms": [
+        "bewerten",
+        "beziffern",
+        "festsetzen"
+      ],
+      "partizip_2": "geschätzt",
+      "imperative": "schätze! / schätzt! / schätzen Sie!",
+      "conjugations": {
+        "ich": "schätze",
+        "du": "schätzt",
+        "er/sie/es": "schätzt",
+        "wir": "schätzen",
+        "ihr": "schätzt",
+        "sie/Sie": "schätzen"
+      },
+      "prepositions": [
+        "auf + Akkusativ (во сколько-то)"
+      ]
+    },
+    {
+      "word": "der Puffer, die Puffer",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "буфер, запас времени/средств",
+      "translation_en": "buffer, contingency",
+      "examples": [
+        {
+          "de": "Wir sollten einen Puffer von zwei Tagen einbauen.",
+          "ru": "Нам следует заложить буфер в два дня."
+        },
+        {
+          "de": "Unser Zeitplan hat leider keinen Puffer mehr.",
+          "ru": "В нашем графике, к сожалению, больше нет буфера."
+        },
+        {
+          "de": "Der Puffer dient dazu, unvorhergesehene Probleme abzufangen.",
+          "ru": "Буфер служит для того, чтобы сгладить непредвиденные проблемы."
+        },
+        {
+          "de": "Haben wir genug Puffer im Budget für zusätzliche Anforderungen?",
+          "ru": "Достаточно ли у нас буфера в бюджете для дополнительных требований?"
+        },
+        {
+          "de": "Ein großzügiger Puffer reduziert das Risiko von Verzögerungen.",
+          "ru": "Щедрый буфер снижает риск задержек."
+        }
+      ],
+      "synonyms": [
+        "Cache",
+        "Cache-Memory",
+        "Cachespeicher"
+      ]
+    },
+    {
+      "word": "die Phase, die Phasen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "фаза, этап, стадия",
+      "translation_en": "phase, stage, step",
+      "examples": [
+        {
+          "de": "Wir befinden uns jetzt in der Testphase des Projekts.",
+          "ru": "Сейчас мы находимся на этапе тестирования проекта."
+        },
+        {
+          "de": "Die nächste Phase beginnt erst nach der Freigabe durch den Kunden.",
+          "ru": "Следующий этап начнется только после утверждения клиентом."
+        },
+        {
+          "de": "Jede Phase des Projekts erfordert eine genaue Dokumentation.",
+          "ru": "Каждый этап проекта требует точной документации."
+        },
+        {
+          "de": "Die Konzeptionsphase hat länger gedauert als geplant.",
+          "ru": "Этап разработки концепции занял больше времени, чем планировалось."
+        },
+        {
+          "de": "Wir müssen die Phasen des Projekts klar voneinander abgrenzen.",
+          "ru": "Мы должны четко разграничить этапы проекта друг от друга."
+        }
+      ],
+      "synonyms": [
+        "Abschnitt",
+        "Entwicklungsabschnitt",
+        "Entwicklungsphase"
+      ]
+    },
+    {
+      "word": "die Dauer",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "продолжительность, длительность",
+      "translation_en": "duration, length of time",
+      "examples": [
+        {
+          "de": "Die Dauer des Projekts ist auf sechs Monate begrenzt.",
+          "ru": "Продолжительность проекта ограничена шестью месяцами."
+        },
+        {
+          "de": "Wir müssen die Dauer der einzelnen Aufgaben genau erfassen.",
+          "ru": "Мы должны точно фиксировать продолжительность отдельных задач."
+        },
+        {
+          "de": "Die Dauer des Meetings sollte eine Stunde nicht überschreiten.",
+          "ru": "Продолжительность встречи не должна превышать одного часа."
+        },
+        {
+          "de": "Unerwartete Fehler verlängern die Dauer der Entwicklung.",
+          "ru": "Непредвиденные ошибки увеличивают продолжительность разработки."
+        },
+        {
+          "de": "Wie schätzen Sie die Dauer für das Design-Review ein?",
+          "ru": "Как вы оцениваете продолжительность обзора дизайна?"
+        }
+      ],
+      "synonyms": [
+        "Zeitspanne",
+        "Abstand",
+        "Frist"
+      ]
+    },
+    {
+      "word": "zeitlich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "временной, по времени, ограниченный сроками",
+      "translation_en": "temporal, time-related, in terms of time",
+      "examples": [
+        {
+          "de": "Wir müssen den zeitlichen Ablauf des Projekts genau planen.",
+          "ru": "Мы должны точно спланировать временной ход проекта."
+        },
+        {
+          "de": "Es gibt zeitliche Überschneidungen zwischen den beiden Aufgaben.",
+          "ru": "Между этими двумя задачами есть временные наложения."
+        },
+        {
+          "de": "Wir stehen unter großem zeitlichen Druck.",
+          "ru": "Мы находимся под сильным давлением времени."
+        },
+        {
+          "de": "Die zeitliche Begrenzung zwingt uns zur Effizienz.",
+          "ru": "Ограничение по времени вынуждает нас быть эффективными."
+        },
+        {
+          "de": "Dieses Problem hat keinen zeitlichen Einfluss auf den Release.",
+          "ru": "Эта проблема не имеет временного влияния на релиз."
+        }
+      ],
+      "synonyms": [
+        "chronologisch",
+        "chronometrisch",
+        "temporal"
+      ]
+    },
+    {
+      "word": "erarbeiten",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "разрабатывать, вырабатывать, подготавливать",
+      "translation_en": "to develop, to work out, to elaborate",
+      "examples": [
+        {
+          "de": "Wir müssen einen detaillierten Projektplan erarbeiten.",
+          "ru": "Мы должны разработать подробный план проекта."
+        },
+        {
+          "de": "Das Team hat gemeinsam eine Lösung erarbeitet.",
+          "ru": "Команда совместно разработала решение."
+        },
+        {
+          "de": "Wir werden die Anforderungen im nächsten Workshop erarbeiten.",
+          "ru": "Мы разработаем требования на следующем воркшопе."
+        },
+        {
+          "de": "Konzepte müssen schnell erarbeitet und getestet werden.",
+          "ru": "Концепции должны быстро разрабатываться и тестироваться."
+        },
+        {
+          "de": "Die Marketingstrategie wurde in enger Zusammenarbeit erarbeitet.",
+          "ru": "Маркетинговая стратегия была разработана в тесном сотрудничестве."
+        }
+      ],
+      "synonyms": [
+        "zusammenstellen",
+        "zusammentragen",
+        "entwerfen"
+      ],
+      "partizip_2": "erarbeitet",
+      "imperative": "erarbeite! / erarbeitet! / erarbeiten Sie!",
+      "conjugations": {
+        "ich": "erarbeite",
+        "du": "erarbeitest",
+        "er/sie/es": "erarbeitet",
+        "wir": "erarbeiten",
+        "ihr": "erarbeitet",
+        "sie/Sie": "erarbeiten"
+      },
+      "prepositions": [
+        "mit + Dativ (с кем-то)"
+      ]
+    },
+    {
+      "word": "planen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "планировать",
+      "translation_en": "to plan, to schedule, to map out",
+      "examples": [
+        {
+          "de": "Wir planen das nächste Release für Ende des Monats.",
+          "ru": "Мы планируем следующий релиз на конец месяца."
+        },
+        {
+          "de": "Man sollte immer genug Pufferzeit planen.",
+          "ru": "Всегда следует планировать достаточное количество буферного времени."
+        },
+        {
+          "de": "Wir haben dieses Meeting langfristig geplant.",
+          "ru": "Мы запланировали эту встречу заранее."
+        },
+        {
+          "de": "Es ist schwierig, ohne Budgetvorgaben zu planen.",
+          "ru": "Сложно планировать без бюджетных ориентиров."
+        },
+        {
+          "de": "Wer plant die Ressourcen für das neue Projekt?",
+          "ru": "Кто планирует ресурсы для нового проекта?"
+        }
+      ],
+      "synonyms": [
+        "organisieren",
+        "ausrichten",
+        "austragen"
+      ],
+      "partizip_2": "geplant",
+      "imperative": "plane! / plant! / planen Sie!",
+      "conjugations": {
+        "ich": "plane",
+        "du": "planst",
+        "er/sie/es": "plant",
+        "wir": "planen",
+        "ihr": "plant",
+        "sie/Sie": "planen"
+      },
+      "prepositions": [
+        "für + Akkusativ (на какой-то период)",
+        "mit + Dativ (планировать с учётом чего-то)"
+      ]
+    },
+    {
+      "word": "der Zwischenbericht, die Zwischenberichte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "промежуточный отчет",
+      "translation_en": "interim report, progress report",
+      "examples": [
+        {
+          "de": "Der Zwischenbericht muss bis zum Ende der Woche fertig sein.",
+          "ru": "Промежуточный отчет должен быть готов к концу недели."
+        },
+        {
+          "de": "Wir senden dem Kunden regelmäßig einen Zwischenbericht.",
+          "ru": "Мы регулярно отправляем клиенту промежуточный отчет."
+        },
+        {
+          "de": "Der Zwischenbericht zeigt gute Fortschritte im Projekt.",
+          "ru": "Промежуточный отчет показывает хороший прогресс в проекте."
+        },
+        {
+          "de": "Im Zwischenbericht sind alle bisherigen Meilensteine dokumentiert.",
+          "ru": "В промежуточном отчете задокументированы все достигнутые к настоящему моменту вехи."
+        },
+        {
+          "de": "Der Lenkungsausschuss fordert einen schriftlichen Zwischenbericht.",
+          "ru": "Руководящий комитет требует письменный промежуточный отчет."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Abgabe, die Abgaben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "сдача, представление, подача (документов)",
+      "translation_en": "submission, delivery, hand-in",
+      "examples": [
+        {
+          "de": "Die Abgabe des Pflichtenhefts erfolgt am Montag.",
+          "ru": "Сдача технического задания состоится в понедельник."
+        },
+        {
+          "de": "Bitte bereiten Sie alle Dokumente für die Abgabe vor.",
+          "ru": "Пожалуйста, подготовьте все документы к сдаче."
+        },
+        {
+          "de": "Der Termin für die Abgabe wurde verschoben.",
+          "ru": "Срок сдачи был перенесен."
+        },
+        {
+          "de": "Nach der Abgabe beginnt die Evaluierungsphase.",
+          "ru": "После сдачи начинается этап оценки."
+        },
+        {
+          "de": "Wir müssen vor der Abgabe eine Qualitätskontrolle durchführen.",
+          "ru": "Перед сдачей мы должны провести контроль качества."
+        }
+      ],
+      "synonyms": [
+        "Steuer",
+        "Zehend",
+        "Zehent"
+      ]
+    },
+    {
+      "word": "festlegen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "устанавливать, определять, утверждать",
+      "translation_en": "to set, to determine, to define",
+      "examples": [
+        {
+          "de": "Wir müssen die Verantwortlichkeiten im Team klar festlegen.",
+          "ru": "Мы должны четко распределить обязанности в команде."
+        },
+        {
+          "de": "Der Endtermin wurde im Vertrag festgelegt.",
+          "ru": "Конечный срок был установлен в договоре."
+        },
+        {
+          "de": "Wer legt fest, welche Aufgaben Priorität haben?",
+          "ru": "Кто определяет, какие задачи имеют приоритет."
+        },
+        {
+          "de": "Wir haben die Kriterien für den Erfolg festgelegt.",
+          "ru": "Мы определили критерии успеха."
+        },
+        {
+          "de": "Die Termine für die Meilensteine wurden bereits festgelegt.",
+          "ru": "Сроки вех уже были определены."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gefestlegt",
+      "imperative": "festlege! / festlegt! / festlegen Sie!",
+      "conjugations": {
+        "ich": "festlege",
+        "du": "festlegst",
+        "er/sie/es": "festlegt",
+        "wir": "festlegen",
+        "ihr": "festlegt",
+        "sie/Sie": "festlegen"
+      },
+      "prepositions": [
+        "auf + Akkusativ (на чём-то / sich festlegen auf)"
+      ]
+    },
+    {
+      "word": "vereinbaren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "согласовывать, договариваться",
+      "translation_en": "to agree upon, to arrange, to contract",
+      "examples": [
+        {
+          "de": "Wir haben einen wöchentlichen Status-Call vereinbart.",
+          "ru": "Мы договорились о еженедельном статус-звонке."
+        },
+        {
+          "de": "Es ist wichtig, klare Qualitätsziele zu vereinbaren.",
+          "ru": "Важно согласовать четкие цели по качеству."
+        },
+        {
+          "de": "Haben Sie bereits einen Termin mit dem Kunden vereinbart?",
+          "ru": "Вы уже договорились о встрече с клиентом."
+        },
+        {
+          "de": "Die Vertragspartner haben eine Schweigepflicht vereinbart.",
+          "ru": "Партнеры по договору договорились о конфиденциальности."
+        },
+        {
+          "de": "Wir müssen die nächsten Schritte im Projekt vereinbaren.",
+          "ru": "Мы должны согласовать следующие шаги в проекте."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "vereinbart",
+      "imperative": "vereinbare! / vereinbart! / vereinbaren Sie!",
+      "conjugations": {
+        "ich": "vereinbare",
+        "du": "vereinbarst",
+        "er/sie/es": "vereinbart",
+        "wir": "vereinbaren",
+        "ihr": "vereinbart",
+        "sie/Sie": "vereinbaren"
+      },
+      "prepositions": [
+        "mit + Dativ (с кем-то)"
+      ]
+    },
+    {
+      "word": "priorisieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "расставлять приоритеты, приоритизировать",
+      "translation_en": "to prioritize",
+      "examples": [
+        {
+          "de": "Wir müssen die ausstehenden Aufgaben dringend priorisieren.",
+          "ru": "Мы должны срочно расставить приоритеты для невыполненных задач."
+        },
+        {
+          "de": "Der Product Owner priorisiert das Backlog wöchentlich.",
+          "ru": "Владелец продукта еженедельно приоритизирует бэклог."
+        },
+        {
+          "de": "Aufgaben mit hohem Risiko sollten früh priorisiert werden.",
+          "ru": "Задачи с высоким риском должны приоритизироваться на ранней стадии."
+        },
+        {
+          "de": "Wir können nicht alles auf einmal machen; wir müssen priorisieren.",
+          "ru": "Мы не можем делать все сразу; мы должны расставлять приоритеты."
+        },
+        {
+          "de": "Wie priorisieren wir die Anforderungen des Kunden?",
+          "ru": "Как нам расставить приоритеты для требований клиента?"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "priorisiert",
+      "imperative": "priorisiere! / priorisiert! / priorisieren Sie!",
+      "conjugations": {
+        "ich": "priorisiere",
+        "du": "priorisierst",
+        "er/sie/es": "priorisiert",
+        "wir": "priorisieren",
+        "ihr": "priorisiert",
+        "sie/Sie": "priorisieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "der Ablauf, die Abläufe",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "ход, процесс, порядок действий, процедура",
+      "translation_en": "course, process, sequence, workflow",
+      "examples": [
+        {
+          "de": "Der Ablauf des Projekts muss optimiert werden.",
+          "ru": "Ход проекта необходимо оптимизировать."
+        },
+        {
+          "de": "Wir dokumentieren den gesamten Ablauf im Wiki.",
+          "ru": "Мы документируем весь процесс в Вики."
+        },
+        {
+          "de": "Ein reibungsloser Ablauf spart Zeit und Geld.",
+          "ru": "Гладкое течение процесса экономит время и деньги."
+        },
+        {
+          "de": "Es gab Störungen im gewohnten Ablauf.",
+          "ru": "Произошли сбои в привычном рабочем процессе."
+        },
+        {
+          "de": "Der Ablauf der Testphase ist genau geregelt.",
+          "ru": "Порядок проведения этапа тестирования строго регламентирован."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Auswirkung, die Auswirkungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "воздействие, влияние, последствие",
+      "translation_en": "impact, effect, repercussion",
+      "examples": [
+        {
+          "de": "Die Verzögerung hat negative Auswirkungen auf das Budget.",
+          "ru": "Задержка оказывает негативное влияние на бюджет."
+        },
+        {
+          "de": "Welche Auswirkungen hat diese Änderung auf den Zeitplan?",
+          "ru": "Какие последствия имеет это изменение для графика проекта?"
+        },
+        {
+          "de": "Wir müssen die Auswirkungen der neuen Regulierung analysieren.",
+          "ru": "Мы должны проанализировать последствия нового регулирования."
+        },
+        {
+          "de": "Das Risiko hat keine direkten Auswirkungen auf den Kunden.",
+          "ru": "Этот риск не имеет прямых последствий для клиента."
+        },
+        {
+          "de": "Geringe Verzögerungen können große Auswirkungen auf das Projekt haben.",
+          "ru": "Небольшие задержки могут иметь серьезные последствия для проекта."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "beschleunigen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "ускорять",
+      "translation_en": "to accelerate, to speed up, to expedite",
+      "examples": [
+        {
+          "de": "Durch zusätzliche Ressourcen können wir die Entwicklung beschleunigen.",
+          "ru": "За счет дополнительных ресурсов мы можем ускорить разработку."
+        },
+        {
+          "de": "Wir müssen den Prozess der Entscheidungsfindung beschleunigen.",
+          "ru": "Мы должны ускорить процесс принятия решений."
+        },
+        {
+          "de": "Automatisierung hilft, die Testabläufe zu beschleunigen.",
+          "ru": "Автоматизация помогает ускорить процессы тестирования."
+        },
+        {
+          "de": "Wie können wir den Release-Zyklus beschleunigen?",
+          "ru": "Как мы можем ускорить цикл релизов."
+        },
+        {
+          "de": "Das Management fordert, das Projekt zu beschleunigen.",
+          "ru": "Руководство требует ускорить проект."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "beschleunigt",
+      "imperative": "beschleunige! / beschleunigt! / beschleunigen Sie!",
+      "conjugations": {
+        "ich": "beschleunige",
+        "du": "beschleunigst",
+        "er/sie/es": "beschleunigt",
+        "wir": "beschleunigen",
+        "ihr": "beschleunigt",
+        "sie/Sie": "beschleunigen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "verpassen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "упускать, пропускать, не успевать",
+      "translation_en": "to miss (a deadline/meeting)",
+      "examples": [
+        {
+          "de": "Wenn wir diese Deadline verpassen, verlieren wir den Kunden.",
+          "ru": "Если мы упустим этот дедлайн, мы потеряем клиента."
+        },
+        {
+          "de": "Wir dürfen den Anschluss an neue Technologien nicht verpassen.",
+          "ru": "Мы не должны упустить возможность перехода на новые технологии."
+        },
+        {
+          "de": "Das Team hat den Meilenstein knapp verpasst.",
+          "ru": "Команда едва не пропустила веху."
+        },
+        {
+          "de": "Bitte achten Sie darauf, keine wichtigen Statusmeldungen zu verpassen.",
+          "ru": "Пожалуйста, следите за тем, чтобы не пропустить важные сообщения о статусе."
+        },
+        {
+          "de": "Er hat das wöchentliche Meeting verpasst, weil er im Urlaub war.",
+          "ru": "Он пропустил еженедельную встречу, так как был в отпуске."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "verpasst",
+      "imperative": "verpasse! / verpasst! / verpassen Sie!",
+      "conjugations": {
+        "ich": "verpasse",
+        "du": "verpasst",
+        "er/sie/es": "verpasst",
+        "wir": "verpassen",
+        "ihr": "verpasst",
+        "sie/Sie": "verpassen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "zeitaufwendig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "трудоемкий, требующий много времени",
+      "translation_en": "time-consuming",
+      "examples": [
+        {
+          "de": "Das Erstellen der Dokumentation ist sehr zeitaufwendig.",
+          "ru": "Создание документации — очень трудоемкий процесс."
+        },
+        {
+          "de": "Manuelle Tests sind fehleranfällig und zeitaufwendig.",
+          "ru": "Ручные тесты подвержены ошибкам и требуют много времени."
+        },
+        {
+          "de": "Wir suchen nach Wegen, diese zeitaufwendige Aufgabe zu vereinfachen.",
+          "ru": "Мы ищем способы упростить эту трудоемкую задачу."
+        },
+        {
+          "de": "Das Klären der Anforderungen war extrem zeitaufwendig.",
+          "ru": "Выяснение требований отняло чрезвычайно много времени."
+        },
+        {
+          "de": "Diese Methode ist zwar effektiv, aber leider sehr zeitaufwendig.",
+          "ru": "Этот метод хоть и эффективен, но, к сожалению, требует много времени."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Pufferzeit, die Pufferzeiten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "буферное время, резерв времени",
+      "translation_en": "buffer time, slack time",
+      "examples": [
+        {
+          "de": "Wir haben eine Pufferzeit von einer Woche eingeplant.",
+          "ru": "Мы запланировали буферное время в одну неделю."
+        },
+        {
+          "de": "Die Pufferzeit hilft uns, unerwartete Ausfälle auszugleichen.",
+          "ru": "Буферное время помогает нам компенсировать непредвиденные простои."
+        },
+        {
+          "de": "Es gibt keine Pufferzeit mehr in diesem Projekt.",
+          "ru": "В этом проекте больше нет буферного времени."
+        },
+        {
+          "de": "Wir müssen die Pufferzeit strategisch nutzen.",
+          "ru": "Мы должны использовать буферное время стратегически."
+        },
+        {
+          "de": "Eine zu kurze Pufferzeit erhöht das Projektrisiko.",
+          "ru": "Слишком короткое буферное время увеличивает риск проекта."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Endtermin, die Endtermine",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "конечный срок, дата завершения",
+      "translation_en": "final deadline, target date, completion date",
+      "examples": [
+        {
+          "de": "Der Endtermin für das gesamte Projekt steht fest.",
+          "ru": "Конечный срок для всего проекта утвержден."
+        },
+        {
+          "de": "Können wir den Endtermin trotz der Probleme halten?",
+          "ru": "Сможем ли мы уложиться в конечный срок, несмотря на проблемы?"
+        },
+        {
+          "de": "Der Endtermin wurde vertraglich vereinbart.",
+          "ru": "Конечный срок был согласован в договоре."
+        },
+        {
+          "de": "Eine Verschiebung des Endtermins erfordert die Zustimmung des Vorstands.",
+          "ru": "Перенос конечного срока требует согласия правления."
+        },
+        {
+          "de": "Wir arbeiten Überstunden, um den Endtermin zu sichern.",
+          "ru": "Мы работаем сверхурочно, чтобы гарантировать соблюдение конечного срока."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Zeiteinteilung, die Zeiteinteilungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "распределение времени, тайм-менеджмент",
+      "translation_en": "time management, time allocation",
+      "examples": [
+        {
+          "de": "Eine gute Zeiteinteilung ist der Schlüssel zum Erfolg.",
+          "ru": "Хорошее распределение времени — ключ к успеху."
+        },
+        {
+          "de": "Das Team muss seine Zeiteinteilung selbstständig organisieren.",
+          "ru": "Команда должна самостоятельно организовывать свое распределение времени."
+        },
+        {
+          "de": "Durch schlechte Zeiteinteilung geriet das Projekt in Verzug.",
+          "ru": "Из-за плохого планирования времени проект отстал от графика."
+        },
+        {
+          "de": "Wir bieten Schulungen zur besseren Zeiteinteilung an.",
+          "ru": "Мы предлагаем тренинги по более эффективному тайм-менеджменту."
+        },
+        {
+          "de": "Ihre Zeiteinteilung im Sprint war vorbildlich.",
+          "ru": "Ваше планирование времени в спринте было образцовым."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "zeitnah",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "своевременный, оперативный, в ближайшее время",
+      "translation_en": "prompt, in the near future, timely",
+      "examples": [
+        {
+          "de": "Wir benötigen eine zeitnahe Rückmeldung des Kunden.",
+          "ru": "Нам нужна оперативная обратная связь от клиента."
+        },
+        {
+          "de": "Das Problem muss zeitnah gelöst werden.",
+          "ru": "Проблема должна быть решена в кратчайшие сроки."
+        },
+        {
+          "de": "Wir werden die Fehler zeitnah beheben.",
+          "ru": "Мы исправим ошибки в ближайшее время."
+        },
+        {
+          "de": "Bitte informieren Sie mich zeitnah über eventuelle Risiken.",
+          "ru": "Пожалуйста, оперативно сообщайте мне о возможных рисках."
+        },
+        {
+          "de": "Eine zeitnahe Umsetzung der Ideen ist geplant.",
+          "ru": "Реализация идей планируется в ближайшем будущем."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Ist-Zustand, die Ist-Zustände",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "фактическое состояние, текущее состояние дел",
+      "translation_en": "current state, actual status",
+      "examples": [
+        {
+          "de": "Zuerst müssen wir den aktuellen Ist-Zustand analysieren.",
+          "ru": "Сначала мы должны проанализировать текущее фактическое состояние."
+        },
+        {
+          "de": "Der Ist-Zustand weicht stark vom Plan ab.",
+          "ru": "Фактическое состояние сильно отклоняется от плана."
+        },
+        {
+          "de": "Wir haben den Ist-Zustand der IT-Infrastruktur dokumentiert.",
+          "ru": "Мы задокументировали фактическое состояние ИТ-инфраструктуры."
+        },
+        {
+          "de": "Ein Vergleich zwischen Ist- und Soll-Zustand ist notwendig.",
+          "ru": "Необходимо провести сравнение фактического и целевого состояний."
+        },
+        {
+          "de": "Der Ist-Zustand zeigt deutliche Schwachstellen.",
+          "ru": "Фактическое состояние выявляет явные слабые места."
+        }
+      ],
+      "synonyms": [
+        "Ausgangslage",
+        "Ist-Situation",
+        "Status quo"
+      ]
+    },
+    {
+      "word": "der Soll-Zustand, die Soll-Zustände",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "целевое состояние, планируемое состояние",
+      "translation_en": "target state, desired state",
+      "examples": [
+        {
+          "de": "Wir definieren den Soll-Zustand für das neue System.",
+          "ru": "Мы определяем целевое состояние для новой системы."
+        },
+        {
+          "de": "Unser Ziel ist es, den Soll-Zustand bis Jahresende zu erreichen.",
+          "ru": "Наша цель — достичь целевого состояния к концу года."
+        },
+        {
+          "de": "Die Abweichung zum Soll-Zustand muss minimiert werden.",
+          "ru": "Отклонение от целевого состояния должно быть сведено к минимуму."
+        },
+        {
+          "de": "Im Konzept ist der Soll-Zustand detailliert beschrieben.",
+          "ru": "В концепции подробно описано целевое состояние."
+        },
+        {
+          "de": "Wie weit sind wir noch vom Soll-Zustand entfernt?",
+          "ru": "Как далеко мы еще находимся от целевого состояния?"
+        }
+      ],
+      "synonyms": [
+        "Zielzustand",
+        "Soll-Situation",
+        "Soll-Vorgabe"
+      ]
+    },
+    {
+      "word": "die Zielvorgabe, die Zielvorgaben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "целевой ориентир, плановый показатель, задание",
+      "translation_en": "target, objective, goal directive",
+      "examples": [
+        {
+          "de": "Die Geschäftsführung hat ehrgeizige Zielvorgaben gemacht.",
+          "ru": "Руководство установило амбициозные целевые ориентиры."
+        },
+        {
+          "de": "Wir müssen die Zielvorgaben des Projekts erreichen.",
+          "ru": "Мы должны достичь плановых показателей проекта."
+        },
+        {
+          "de": "Die Zielvorgaben für den Umsatz wurden übertroffen.",
+          "ru": "Плановые показатели по выручке были превышены."
+        },
+        {
+          "de": "Klare Zielvorgaben helfen dem Team bei der Fokussierung.",
+          "ru": "Четкие целевые ориентиры помогают команде сфокусироваться."
+        },
+        {
+          "de": "Wir überprüfen die Zielvorgaben am Ende jedes Quartals.",
+          "ru": "Мы проверяем плановые показатели в конце каждого квартала."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Zeitfenster, die Zeitfenster",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "временное окно, интервал времени",
+      "translation_en": "time slot, time window",
+      "examples": [
+        {
+          "de": "Für das System-Update steht uns nur ein kleines Zeitfenster zur Verfügung.",
+          "ru": "Для обновления системы нам доступно лишь небольшое временное окно."
+        },
+        {
+          "de": "Wir müssen das Zeitfenster für Wartungsarbeiten optimal nutzen.",
+          "ru": "Мы должны оптимально использовать временное окно для сервисных работ."
+        },
+        {
+          "de": "Der Kunde hat uns ein Zeitfenster von zwei Stunden genannt.",
+          "ru": "Клиент назвал нам временное окно в два часа."
+        },
+        {
+          "de": "Während des Zeitfensters darf niemand auf die Datenbank zugreifen.",
+          "ru": "В течение этого временного окна никто не должен обращаться к базе данных."
+        },
+        {
+          "de": "Das Zeitfenster für die Bewerbung ist abgelaufen.",
+          "ru": "Временное окно для подачи заявок закрылось."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Dringlichkeit",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "срочность, неотложность",
+      "translation_en": "urgency",
+      "examples": [
+        {
+          "de": "Aufgaben werden nach Dringlichkeit und Wichtigkeit sortiert.",
+          "ru": "Задачи сортируются по срочности и важности."
+        },
+        {
+          "de": "Der Projektleiter wies auf die Dringlichkeit der Anfrage hin.",
+          "ru": "Руководитель проекта указал на срочность запроса."
+        },
+        {
+          "de": "Aufgrund der hohen Dringlichkeit arbeiten wir auch am Wochenende.",
+          "ru": "В связи с высокой срочностью мы работаем в том числе и по выходным."
+        },
+        {
+          "de": "Die Dringlichkeit des Problems wurde vom Support bestätigt.",
+          "ru": "Срочность проблемы была подтверждена службой поддержки."
+        },
+        {
+          "de": "Es besteht keine besondere Dringlichkeit für diese Aufgabe.",
+          "ru": "Для этой задачи нет особой срочности."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "dringend",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "срочный, настоятельный, спешный",
+      "translation_en": "urgent, pressing",
+      "examples": [
+        {
+          "de": "Wir benötigen dringend das Feedback des Product Owners.",
+          "ru": "Нам срочно нужна обратная связь от владельца продукта."
+        },
+        {
+          "de": "Dieses Ticket muss dringend bearbeitet werden.",
+          "ru": "Этот тикет необходимо обработать в срочном порядке."
+        },
+        {
+          "de": "Gibt es dringende Fragen vor dem Release?",
+          "ru": "Есть ли срочные вопросы перед релизом?"
+        },
+        {
+          "de": "Die Reparatur des Servers ist dringend erforderlich.",
+          "ru": "Ремонт сервера требуется срочно."
+        },
+        {
+          "de": "Ich muss dringend ein kurzes Telefonat führen.",
+          "ru": "Мне нужно срочно сделать короткий телефонный звонок."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "fristgemäß",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "в установленный срок, своевременный",
+      "translation_en": "within the deadline, in due time, timely",
+      "examples": [
+        {
+          "de": "Das Projekt wurde fristgemäß abgeschlossen.",
+          "ru": "Проект был завершен в установленный срок."
+        },
+        {
+          "de": "Die Unterlagen wurden fristgemäß eingereicht.",
+          "ru": "Документы были поданы вовремя."
+        },
+        {
+          "de": "Wir garantieren eine fristgemäße Lieferung der Software.",
+          "ru": "Мы гарантируем своевременную поставку программного обеспечения."
+        },
+        {
+          "de": "Bitte zahlen Sie die Rechnung fristgemäß.",
+          "ru": "Пожалуйста, оплатите счет вовремя."
+        },
+        {
+          "de": "Der Bericht wurde fristgemäß dem Lenkungsausschuss vorgelegt.",
+          "ru": "Отчет был своевременно представлен руководящему комитету."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Zwischenzeit, die Zwischenzeiten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "промежуток времени, переходный период",
+      "translation_en": "interim, meantime, interval",
+      "examples": [
+        {
+          "de": "In der Zwischenzeit können wir andere Aufgaben erledigen.",
+          "ru": "В промежутке времени мы можем выполнять другие задачи."
+        },
+        {
+          "de": "Die Zwischenzeiten beim Testen waren sehr unregelmäßig.",
+          "ru": "Временные интервалы при тестировании были очень нерегулярными."
+        },
+        {
+          "de": "Was machen wir in der Zwischenzeit bis zum Feedback?",
+          "ru": "Что мы делаем в промежутке времени до получения обратной связи?"
+        },
+        {
+          "de": "Die Zwischenzeit wurde für Schulungen genutzt.",
+          "ru": "Временной интервал был использован для проведения обучения."
+        },
+        {
+          "de": "In der Zwischenzeit hat sich der Status des Projekts geändert.",
+          "ru": "За это время статус проекта изменился."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "stundenweise",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "почасовой, по часам",
+      "translation_en": "hourly, by the hour",
+      "examples": [
+        {
+          "de": "Einige Freelancer werden stundenweise abgerechnet.",
+          "ru": "Работа некоторых фрилансеров оплачивается по часам."
+        },
+        {
+          "de": "Wir erfassen den Aufwand stundenweise im System.",
+          "ru": "Мы фиксируем трудозатраты в системе по часам."
+        },
+        {
+          "de": "Er arbeitet stundenweise an der Dokumentation.",
+          "ru": "Он работает над документацией по несколько часов в день (почасово)."
+        },
+        {
+          "de": "Die Buchung von Ressourcen erfolgt stundenweise.",
+          "ru": "Бронирование ресурсов осуществляется с почасовой разбивкой."
+        },
+        {
+          "de": "Wir mieten den Besprechungsraum stundenweise.",
+          "ru": "Мы арендуем переговорную комнату с почасовой оплатой."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Aufwand, die Aufwände",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "затраты, трудозатраты, усилия, издержки",
+      "translation_en": "effort, expense, expenditure",
+      "examples": [
+        {
+          "de": "Der Aufwand für diese Aufgabe ist sehr hoch.",
+          "ru": "Трудозатраты на эту задачу очень высоки."
+        },
+        {
+          "de": "Wir müssen den Aufwand im Vorfeld schätzen.",
+          "ru": "Мы должны оценить трудозатраты заранее."
+        },
+        {
+          "de": "Der Aufwand steht in keinem Verhältnis zum Nutzen.",
+          "ru": "Трудозатраты несопоставимы с пользой."
+        },
+        {
+          "de": "Wir wollen den administrativen Aufwand minimieren.",
+          "ru": "Мы хотим свести к минимуму административные расходы."
+        },
+        {
+          "de": "Wie hoch war der tatsächliche Aufwand für den Sprint?",
+          "ru": "Каковы были фактические трудозатраты на спринт?"
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Vorlaufzeit, die Vorlaufzeiten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "время на подготовку, упреждение, подготовительный период",
+      "translation_en": "lead time, preparation time",
+      "examples": [
+        {
+          "de": "Die Bestellung der Server erfordert eine lange Vorlaufzeit.",
+          "ru": "Заказ серверов требует длительного времени на подготовку."
+        },
+        {
+          "de": "Wir benötigen eine Vorlaufzeit von zwei Wochen.",
+          "ru": "Нам требуется время на подготовку в две недели."
+        },
+        {
+          "de": "Planen Sie bitte genügend Vorlaufzeit für den Marketing-Launch ein.",
+          "ru": "Пожалуйста, запланируйте достаточное время на подготовку к запуску маркетинговой кампании."
+        },
+        {
+          "de": "Ohne Vorlaufzeit können wir keine Qualität garantieren.",
+          "ru": "Без времени на подготовку мы не можем гарантировать качество."
+        },
+        {
+          "de": "Die Vorlaufzeit für den Druck der Broschüren beträgt fünf Tage.",
+          "ru": "Время на подготовку для печати брошюр составляет пять дней."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "überziehen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "превысить (лимит времени/бюджет)",
+      "translation_en": "to exceed, to run over, to overdraw",
+      "examples": [
+        {
+          "de": "Wir dürfen das Budget keinesfalls überziehen.",
+          "ru": "Мы ни в коем случае не должны превышать бюджет."
+        },
+        {
+          "de": "Wir haben das Meeting um zehn Minuten überzogen.",
+          "ru": "Мы превысили лимит времени встречи на десять минут."
+        },
+        {
+          "de": "Wer die Deadline überzieht, muss mit Konsequenzen rechnen.",
+          "ru": "Тот, кто нарушает крайний срок, должен быть готов к последствиям."
+        },
+        {
+          "de": "Die Kosten wurden leicht überzogen.",
+          "ru": "Затраты были слегка превышены."
+        },
+        {
+          "de": "Es ist wichtig, Termine nicht zu überziehen.",
+          "ru": "Важно не выходить за рамки намеченных сроков."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "überzogen",
+      "imperative": "überziehe! / überzieht! / überziehen Sie!",
+      "conjugations": {
+        "ich": "überziehe",
+        "du": "überziehst",
+        "er/sie/es": "überzieht",
+        "wir": "überziehen",
+        "ihr": "überzieht",
+        "sie/Sie": "überziehen"
+      },
+      "prepositions": [
+        "um + Akkusativ (на сколько-то / превысить на сколько-то)"
+      ]
+    },
+    {
+      "word": "die Terminplanung, die Terminplanungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "планирование сроков, календарное планирование",
+      "translation_en": "scheduling, timeline planning",
+      "examples": [
+        {
+          "de": "Eine detaillierte Terminplanung verhindert Engpässe.",
+          "ru": "Детальное планирование сроков предотвращает возникновение узких мест."
+        },
+        {
+          "de": "Wir nutzen MS Project für die Terminplanung.",
+          "ru": "Мы используем MS Project для планирования сроков."
+        },
+        {
+          "de": "Die Terminplanung muss an den neuen Zeitrahmen angepasst werden.",
+          "ru": "Планирование сроков должно быть адаптировано под новые временные рамки."
+        },
+        {
+          "de": "Wer ist für die Terminplanung des Events verantwortlich?",
+          "ru": "Кто отвечает за планирование сроков проведения мероприятия."
+        },
+        {
+          "de": "Ungenauigkeiten in der Terminplanung führten zu Chaos.",
+          "ru": "Неточности в планировании сроков привели к хаосу."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "hinterherhinken",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "отставать (от графика, конкурентов)",
+      "translation_en": "to lag behind, to trail, to fall behind schedule",
+      "examples": [
+        {
+          "de": "Wir hinken dem Zeitplan hinterher.",
+          "ru": "Мы отстаем от графика."
+        },
+        {
+          "de": "Das Entwicklerteam hinkt den Zielvorgaben hinterher.",
+          "ru": "Команда разработчиков отстает от плановых показателей."
+        },
+        {
+          "de": "Bei der Digitalisierung hinkt das Unternehmen der Konkurrenz hinterher.",
+          "ru": "В вопросах цифровизации компания отстает от конкурентов."
+        },
+        {
+          "de": "Wir müssen härter arbeiten, um nicht weiter hinterherzuhinken.",
+          "ru": "Мы должны работать усерднее, чтобы не отставать дальше."
+        },
+        {
+          "de": "Er hinkt mit seinen Aufgaben hinterher.",
+          "ru": "Он отстает с выполнением своих задач."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "hinterhergehinkt",
+      "imperative": "hinke hinterher! / hinkt hinterher! / hinken Sie hinterher!",
+      "conjugations": {
+        "ich": "hinke hinterher",
+        "du": "hinkst hinterher",
+        "er/sie/es": "hinkt hinterher",
+        "wir": "hinken hinterher",
+        "ihr": "hinkt hinterher",
+        "sie/Sie": "hinken hinterher"
+      },
+      "prepositions": [
+        "mit + Dativ (в чём-то / отставать с чем-то)"
+      ]
+    },
+    {
+      "word": "bis auf Weiteres",
+      "part_of_speech": "Preposition/Phrase",
+      "level": "B2",
+      "translation_ru": "до дальнейшего уведомления, впредь до распоряжения",
+      "translation_en": "until further notice, for the time being",
+      "examples": [
+        {
+          "de": "Das wöchentliche Meeting ist bis auf Weiteres abgesagt.",
+          "ru": "Еженедельная встреча отменена до дальнейшего уведомления."
+        },
+        {
+          "de": "Er übernimmt bis auf Weiteres die Projektleitung.",
+          "ru": "Он временно, до дальнейшего уведомления, принимает на себя руководство проектом."
+        },
+        {
+          "de": "Wir arbeiten bis auf Weiteres im Homeoffice.",
+          "ru": "Мы до дальнейшего уведомления работаем из дома."
+        },
+        {
+          "de": "Diese Regelung gilt bis auf Weiteres.",
+          "ru": "Это правило действует до дальнейшего уведомления."
+        },
+        {
+          "de": "Der Status des Projekts bleibt bis auf Weiteres rot.",
+          "ru": "Статус проекта до дальнейшего уведомления остается красным."
+        }
+      ],
+      "synonyms": []
+    }
+  ]
+}

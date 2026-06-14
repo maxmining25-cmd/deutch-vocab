@@ -1,0 +1,3257 @@
+{
+  "category": "Finanzgrundlagen & Geld",
+  "words": [
+    {
+      "word": "das Bargeld, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "наличные деньги",
+      "translation_en": "cash",
+      "examples": [
+        {
+          "de": "Hier ist das Bargeld.",
+          "ru": "Вот наличные деньги."
+        },
+        {
+          "de": "Wir müssen das Bargeld genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: наличные деньги."
+        },
+        {
+          "de": "Sind Sie mit dem Bargeld einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: наличные деньги?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Bargeld.",
+          "ru": "Сегодня мы концентрируемся на теме: наличные деньги."
+        },
+        {
+          "de": "Das Bargeld spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Наличные деньги играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Währung, die Währungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "валюта",
+      "translation_en": "currency",
+      "examples": [
+        {
+          "de": "Hier ist die Währung.",
+          "ru": "Вот валюта."
+        },
+        {
+          "de": "Wir müssen die Währung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: валюта."
+        },
+        {
+          "de": "Sind Sie mit der Währung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: валюта?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Währung.",
+          "ru": "Сегодня мы концентрируемся на теме: валюта."
+        },
+        {
+          "de": "Die Währung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Валюта играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Einkommen, die Einkommen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "доход (оклад/заработок)",
+      "translation_en": "income",
+      "examples": [
+        {
+          "de": "Hier ist das Einkommen.",
+          "ru": "Вот доход (оклад/заработок)."
+        },
+        {
+          "de": "Wir müssen das Einkommen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: доход (оклад/заработок)."
+        },
+        {
+          "de": "Sind Sie mit dem Einkommen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: доход (оклад/заработок)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Einkommen.",
+          "ru": "Сегодня мы концентрируемся на теме: доход (оклад/заработок)."
+        },
+        {
+          "de": "Das Einkommen spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Доход (оклад/заработок) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Ausgabe, die Ausgaben",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "расход",
+      "translation_en": "expense",
+      "examples": [
+        {
+          "de": "Hier ist die Ausgabe.",
+          "ru": "Вот расход."
+        },
+        {
+          "de": "Wir müssen die Ausgabe genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: расход."
+        },
+        {
+          "de": "Sind Sie mit der Ausgabe einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: расход?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Ausgabe.",
+          "ru": "Сегодня мы концентрируемся на теме: расход."
+        },
+        {
+          "de": "Die Ausgabe spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Расход играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Einnahme, die Einnahmen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "доход (выручка/поступления)",
+      "translation_en": "revenue / income",
+      "examples": [
+        {
+          "de": "Hier ist die Einnahme.",
+          "ru": "Вот доход (выручка/поступления)."
+        },
+        {
+          "de": "Wir müssen die Einnahme genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: доход (выручка/поступления)."
+        },
+        {
+          "de": "Sind Sie mit der Einnahme einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: доход (выручка/поступления)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Einnahme.",
+          "ru": "Сегодня мы концентрируемся на теме: доход (выручка/поступления)."
+        },
+        {
+          "de": "Die Einnahme spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Доход (выручка/поступления) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Budget, die Budgets",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "бюджет",
+      "translation_en": "budget",
+      "examples": [
+        {
+          "de": "Hier ist das Budget.",
+          "ru": "Вот бюджет."
+        },
+        {
+          "de": "Wir müssen das Budget genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: бюджет."
+        },
+        {
+          "de": "Sind Sie mit dem Budget einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: бюджет?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Budget.",
+          "ru": "Сегодня мы концентрируемся на теме: бюджет."
+        },
+        {
+          "de": "Das Budget spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Бюджет играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Etat",
+        "Finanzmittel",
+        "Finanzrahmen"
+      ]
+    },
+    {
+      "word": "das Vermögen, die Vermögen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "имущество / состояние",
+      "translation_en": "wealth / assets",
+      "examples": [
+        {
+          "de": "Hier ist das Vermögen.",
+          "ru": "Вот имущество / состояние."
+        },
+        {
+          "de": "Wir müssen das Vermögen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: имущество / состояние."
+        },
+        {
+          "de": "Sind Sie mit dem Vermögen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: имущество / состояние?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Vermögen.",
+          "ru": "Сегодня мы концентрируемся на теме: имущество / состояние."
+        },
+        {
+          "de": "Das Vermögen spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Имущество / состояние играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Kapital, die Kapitale",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "капитал",
+      "translation_en": "capital",
+      "examples": [
+        {
+          "de": "Hier ist das Kapital.",
+          "ru": "Вот капитал."
+        },
+        {
+          "de": "Wir müssen das Kapital genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: капитал."
+        },
+        {
+          "de": "Sind Sie mit dem Kapital einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: капитал?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Kapital.",
+          "ru": "Сегодня мы концентрируемся на теме: капитал."
+        },
+        {
+          "de": "Das Kapital spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Капитал играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Zinsen, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "проценты (по кредиту/вкладу)",
+      "translation_en": "interest",
+      "examples": [
+        {
+          "de": "Hier sind die Zinsen.",
+          "ru": "Вот проценты (по кредиту/вкладу)."
+        },
+        {
+          "de": "Wir müssen die Zinsen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: проценты (по кредиту/вкладу)."
+        },
+        {
+          "de": "Sind Sie mit den Zinsen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: проценты (по кредиту/вкладу)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Zinsen.",
+          "ru": "Сегодня мы концентрируемся на теме: проценты (по кредиту/вкладу)."
+        },
+        {
+          "de": "Die Zinsen spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Проценты (по кредиту/вкладу) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Rendite",
+        "Gewinnbeteiligung",
+        "Ertrag"
+      ]
+    },
+    {
+      "word": "die Gebühr, die Gebühren",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "пошлина / сбор / плата",
+      "translation_en": "fee / charge",
+      "examples": [
+        {
+          "de": "Hier ist die Gebühr.",
+          "ru": "Вот пошлина / сбор / плата."
+        },
+        {
+          "de": "Wir müssen die Gebühr genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: пошлина / сбор / плата."
+        },
+        {
+          "de": "Sind Sie mit der Gebühr einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: пошлина / сбор / плата?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Gebühr.",
+          "ru": "Сегодня мы концентрируемся на теме: пошлина / сбор / плата."
+        },
+        {
+          "de": "Die Gebühr spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Пошлина / сбор / плата играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Guthaben, die Guthaben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "баланс счета / актив",
+      "translation_en": "credit / balance",
+      "examples": [
+        {
+          "de": "Hier ist das Guthaben.",
+          "ru": "Вот баланс счета / актив."
+        },
+        {
+          "de": "Wir müssen das Guthaben genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: баланс счета / актив."
+        },
+        {
+          "de": "Sind Sie mit dem Guthaben einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: баланс счета / актив?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Guthaben.",
+          "ru": "Сегодня мы концентрируемся на теме: баланс счета / актив."
+        },
+        {
+          "de": "Das Guthaben spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Баланс счета / актив играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Schuld, die Schulden",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "долг",
+      "translation_en": "debt",
+      "examples": [
+        {
+          "de": "Hier ist die Schuld.",
+          "ru": "Вот долг."
+        },
+        {
+          "de": "Wir müssen die Schuld genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: долг."
+        },
+        {
+          "de": "Sind Sie mit der Schuld einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: долг?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Schuld.",
+          "ru": "Сегодня мы концентрируемся на теме: долг."
+        },
+        {
+          "de": "Die Schuld spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Долг играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "sparen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "сберегать / копить",
+      "translation_en": "to save",
+      "examples": [
+        {
+          "de": "Wir sparen diese Angelegenheit direkt im Team.",
+          "ru": "Мы сберегать / копить этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich spare die notwendigen Unterlagen sofort.",
+          "ru": "Я сберегать / копить необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege spart das Ganze sehr professionell.",
+          "ru": "Ответственный коллега сберегать / копить всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich gespart.",
+          "ru": "Мы успешно сберегать / копить (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "sparen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: сберегать / копить вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gespart",
+      "imperative": "spare! / spart! / sparen Sie!",
+      "conjugations": {
+        "ich": "spare",
+        "du": "sparst",
+        "er/sie/es": "spart",
+        "wir": "sparen",
+        "ihr": "spart",
+        "sie/Sie": "sparen"
+      },
+      "prepositions": [
+        "für + Akkusativ (копить на что-то)",
+        "an + Dativ (экономить на чём-то)"
+      ]
+    },
+    {
+      "word": "ausgeben",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "тратить",
+      "translation_en": "to spend",
+      "examples": [
+        {
+          "de": "Wir geben aus diese Angelegenheit direkt im Team.",
+          "ru": "Мы тратить этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich gebe aus die notwendigen Unterlagen sofort.",
+          "ru": "Я тратить необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege gebt aus das Ganze sehr professionell.",
+          "ru": "Ответственный коллега тратить всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich ausgegebt.",
+          "ru": "Мы успешно тратить (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "geben Sie aus bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: тратить вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "ausgegebt",
+      "imperative": "gebe aus! / gebt aus! / geben Sie aus!",
+      "conjugations": {
+        "ich": "gebe aus",
+        "du": "gebst aus",
+        "er/sie/es": "gebt aus",
+        "wir": "geben aus",
+        "ihr": "gebt aus",
+        "sie/Sie": "geben aus"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "verdienen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "зарабатывать",
+      "translation_en": "to earn",
+      "examples": [
+        {
+          "de": "Wir verdienen diese Angelegenheit direkt im Team.",
+          "ru": "Мы зарабатывать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich verdiene die notwendigen Unterlagen sofort.",
+          "ru": "Я зарабатывать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege verdient das Ganze sehr professionell.",
+          "ru": "Ответственный коллега зарабатывать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich verdient.",
+          "ru": "Мы успешно зарабатывать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "verdienen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: зарабатывать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "verdient",
+      "imperative": "verdiene! / verdient! / verdienen Sie!",
+      "conjugations": {
+        "ich": "verdiene",
+        "du": "verdienst",
+        "er/sie/es": "verdient",
+        "wir": "verdienen",
+        "ihr": "verdient",
+        "sie/Sie": "verdienen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "finanzieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "финансировать",
+      "translation_en": "to finance",
+      "examples": [
+        {
+          "de": "Wir finanzieren diese Angelegenheit direkt im Team.",
+          "ru": "Мы финансировать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich finanziere die notwendigen Unterlagen sofort.",
+          "ru": "Я финансировать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege finanziert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега финансировать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich finanziert.",
+          "ru": "Мы успешно финансировать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "finanzieren Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: финансировать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "finanziert",
+      "imperative": "finanziere! / finanziert! / finanzieren Sie!",
+      "conjugations": {
+        "ich": "finanziere",
+        "du": "finanzierst",
+        "er/sie/es": "finanziert",
+        "wir": "finanzieren",
+        "ihr": "finanziert",
+        "sie/Sie": "finanzieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "verschulden",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "задолжать / влезть в долги",
+      "translation_en": "to run into debt",
+      "examples": [
+        {
+          "de": "Wir verschulden diese Angelegenheit direkt im Team.",
+          "ru": "Мы задолжать / влезть в долги этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich verschulde die notwendigen Unterlagen sofort.",
+          "ru": "Я задолжать / влезть в долги необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege verschuldet das Ganze sehr professionell.",
+          "ru": "Ответственный коллега задолжать / влезть в долги всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich verschuldet.",
+          "ru": "Мы успешно задолжать / влезть в долги (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "verschulden Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: задолжать / влезть в долги вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "verschuldet",
+      "imperative": "verschulde! / verschuldet! / verschulden Sie!",
+      "conjugations": {
+        "ich": "verschulde",
+        "du": "verschuldest",
+        "er/sie/es": "verschuldet",
+        "wir": "verschulden",
+        "ihr": "verschuldet",
+        "sie/Sie": "verschulden"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "kostenlos",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "бесплатный",
+      "translation_en": "free of charge",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich kostenlos.",
+          "ru": "Этот процесс действительно бесплатный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles kostenlos bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось бесплатный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders kostenlos.",
+          "ru": "Сегодня мы работаем особенно бесплатный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr kostenlos.",
+          "ru": "Полученный результат очень бесплатный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich kostenlos.",
+          "ru": "Я лично нахожу этот стиль работы бесплатный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "teuer",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "дорогой",
+      "translation_en": "expensive",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich teuer.",
+          "ru": "Этот процесс действительно дорогой."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles teuer bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось дорогой."
+        },
+        {
+          "de": "Wir arbeiten heute besonders teuer.",
+          "ru": "Сегодня мы работаем особенно дорогой."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr teuer.",
+          "ru": "Полученный результат очень дорогой."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich teuer.",
+          "ru": "Я лично нахожу этот стиль работы дорогой."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "günstig",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "выгодный / недорогой",
+      "translation_en": "favorable / cheap",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich günstig.",
+          "ru": "Этот процесс действительно выгодный / недорогой."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles günstig bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось выгодный / недорогой."
+        },
+        {
+          "de": "Wir arbeiten heute besonders günstig.",
+          "ru": "Сегодня мы работаем особенно выгодный / недорогой."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr günstig.",
+          "ru": "Полученный результат очень выгодный / недорогой."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich günstig.",
+          "ru": "Я лично нахожу этот стиль работы выгодный / недорогой."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "wertvoll",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "ценный",
+      "translation_en": "valuable",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich wertvoll.",
+          "ru": "Этот процесс действительно ценный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles wertvoll bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось ценный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders wertvoll.",
+          "ru": "Сегодня мы работаем особенно ценный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr wertvoll.",
+          "ru": "Полученный результат очень ценный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich wertvoll.",
+          "ru": "Я лично нахожу этот стиль работы ценный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "wertlos",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "бесценный / не имеющий ценности",
+      "translation_en": "worthless",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich wertlos.",
+          "ru": "Этот процесс действительно бесценный / не имеющий ценности."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles wertlos bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось бесценный / не имеющий ценности."
+        },
+        {
+          "de": "Wir arbeiten heute besonders wertlos.",
+          "ru": "Сегодня мы работаем особенно бесценный / не имеющий ценности."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr wertlos.",
+          "ru": "Полученный результат очень бесценный / не имеющий ценности."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich wertlos.",
+          "ru": "Я лично нахожу этот стиль работы бесценный / не имеющий ценности."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Inflation, die Inflationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "инфляция",
+      "translation_en": "inflation",
+      "examples": [
+        {
+          "de": "Hier ist die Inflation.",
+          "ru": "Вот инфляция."
+        },
+        {
+          "de": "Wir müssen die Inflation genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: инфляция."
+        },
+        {
+          "de": "Sind Sie mit der Inflation einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: инфляция?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Inflation.",
+          "ru": "Сегодня мы концентрируемся на теме: инфляция."
+        },
+        {
+          "de": "Die Inflation spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Инфляция играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Deflation, die Deflationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "дефляция",
+      "translation_en": "deflation",
+      "examples": [
+        {
+          "de": "Hier ist die Deflation.",
+          "ru": "Вот дефляция."
+        },
+        {
+          "de": "Wir müssen die Deflation genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: дефляция."
+        },
+        {
+          "de": "Sind Sie mit der Deflation einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: дефляция?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Deflation.",
+          "ru": "Сегодня мы концентрируемся на теме: дефляция."
+        },
+        {
+          "de": "Die Deflation spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Дефляция играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Geldfluss, die Geldflüsse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "денежный поток",
+      "translation_en": "cash flow",
+      "examples": [
+        {
+          "de": "Hier ist der Geldfluss.",
+          "ru": "Вот денежный поток."
+        },
+        {
+          "de": "Wir müssen den Geldfluss genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: денежный поток."
+        },
+        {
+          "de": "Sind Sie mit dem Geldfluss einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: денежный поток?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Geldfluss.",
+          "ru": "Сегодня мы концентрируемся на теме: денежный поток."
+        },
+        {
+          "de": "Der Geldfluss spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Денежный поток играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Taschengeld, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "карманные деньги",
+      "translation_en": "pocket money",
+      "examples": [
+        {
+          "de": "Hier ist das Taschengeld.",
+          "ru": "Вот карманные деньги."
+        },
+        {
+          "de": "Wir müssen das Taschengeld genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: карманные деньги."
+        },
+        {
+          "de": "Sind Sie mit dem Taschengeld einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: карманные деньги?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Taschengeld.",
+          "ru": "Сегодня мы концентрируемся на теме: карманные деньги."
+        },
+        {
+          "de": "Das Taschengeld spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Карманные деньги играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Wechselkurs, die Wechselkurse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "валютный курс",
+      "translation_en": "exchange rate",
+      "examples": [
+        {
+          "de": "Hier ist der Wechselkurs.",
+          "ru": "Вот валютный курс."
+        },
+        {
+          "de": "Wir müssen den Wechselkurs genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: валютный курс."
+        },
+        {
+          "de": "Sind Sie mit dem Wechselkurs einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: валютный курс?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Wechselkurs.",
+          "ru": "Сегодня мы концентрируемся на теме: валютный курс."
+        },
+        {
+          "de": "Der Wechselkurs spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Валютный курс играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "wechseln",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "менять / обменивать",
+      "translation_en": "to exchange",
+      "examples": [
+        {
+          "de": "Wir wechseln diese Angelegenheit direkt im Team.",
+          "ru": "Мы менять / обменивать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich wechsele die notwendigen Unterlagen sofort.",
+          "ru": "Я менять / обменивать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege wechselt das Ganze sehr professionell.",
+          "ru": "Ответственный коллега менять / обменивать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich gewechselt.",
+          "ru": "Мы успешно менять / обменивать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "wechseln Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: менять / обменивать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gewechselt",
+      "imperative": "wechsele! / wechselt! / wechseln Sie!",
+      "conjugations": {
+        "ich": "wechsele",
+        "du": "wechselst",
+        "er/sie/es": "wechselt",
+        "wir": "wechseln",
+        "ihr": "wechselt",
+        "sie/Sie": "wechseln"
+      },
+      "prepositions": [
+        "zu + Dativ (перейти к чему-то другому / сменить на что-то)"
+      ]
+    },
+    {
+      "word": "überweisen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "переводить (деньги)",
+      "translation_en": "to transfer",
+      "examples": [
+        {
+          "de": "Wir überweisen diese Angelegenheit direkt im Team.",
+          "ru": "Мы переводить (деньги) этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich überweise die notwendigen Unterlagen sofort.",
+          "ru": "Я переводить (деньги) необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege überweist das Ganze sehr professionell.",
+          "ru": "Ответственный коллега переводить (деньги) всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich überweist.",
+          "ru": "Мы успешно переводить (деньги) (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "überweisen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: переводить (деньги) вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "überweist",
+      "imperative": "überweise! / überweist! / überweisen Sie!",
+      "conjugations": {
+        "ich": "überweise",
+        "du": "überweist",
+        "er/sie/es": "überweist",
+        "wir": "überweisen",
+        "ihr": "überweist",
+        "sie/Sie": "überweisen"
+      },
+      "prepositions": [
+        "auf + Akkusativ (переводить на какой-то счет)"
+      ]
+    },
+    {
+      "word": "die Überweisung, die Überweisungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "денежный перевод",
+      "translation_en": "bank transfer",
+      "examples": [
+        {
+          "de": "Hier ist die Überweisung.",
+          "ru": "Вот денежный перевод."
+        },
+        {
+          "de": "Wir müssen die Überweisung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: денежный перевод."
+        },
+        {
+          "de": "Sind Sie mit der Überweisung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: денежный перевод?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Überweisung.",
+          "ru": "Сегодня мы концентрируемся на теме: денежный перевод."
+        },
+        {
+          "de": "Die Überweisung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Денежный перевод играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "bar",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "наличный",
+      "translation_en": "cash",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich bar.",
+          "ru": "Этот процесс действительно наличный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles bar bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось наличный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders bar.",
+          "ru": "Сегодня мы работаем особенно наличный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr bar.",
+          "ru": "Полученный результат очень наличный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich bar.",
+          "ru": "Я лично нахожу этот стиль работы наличный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "bargeldlos",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "безналичный",
+      "translation_en": "cashless",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich bargeldlos.",
+          "ru": "Этот процесс действительно безналичный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles bargeldlos bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось безналичный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders bargeldlos.",
+          "ru": "Сегодня мы работаем особенно безналичный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr bargeldlos.",
+          "ru": "Полученный результат очень безналичный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich bargeldlos.",
+          "ru": "Я лично нахожу этот стиль работы безналичный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kaufkraft, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "покупательная способность",
+      "translation_en": "purchasing power",
+      "examples": [
+        {
+          "de": "Hier ist die Kaufkraft.",
+          "ru": "Вот покупательная способность."
+        },
+        {
+          "de": "Wir müssen die Kaufkraft genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: покупательная способность."
+        },
+        {
+          "de": "Sind Sie mit der Kaufkraft einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: покупательная способность?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kaufkraft.",
+          "ru": "Сегодня мы концентрируемся на теме: покупательная способность."
+        },
+        {
+          "de": "Die Kaufkraft spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Покупательная способность играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Betrag, die Beträge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "сумма / величина",
+      "translation_en": "amount / sum",
+      "examples": [
+        {
+          "de": "Hier ist der Betrag.",
+          "ru": "Вот сумма / величина."
+        },
+        {
+          "de": "Wir müssen den Betrag genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: сумма / величина."
+        },
+        {
+          "de": "Sind Sie mit dem Betrag einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: сумма / величина?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Betrag.",
+          "ru": "Сегодня мы концентрируемся на теме: сумма / величина."
+        },
+        {
+          "de": "Der Betrag spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Сумма / величина играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Summe, die Summen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "сумма",
+      "translation_en": "sum",
+      "examples": [
+        {
+          "de": "Hier ist die Summe.",
+          "ru": "Вот сумма."
+        },
+        {
+          "de": "Wir müssen die Summe genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: сумма."
+        },
+        {
+          "de": "Sind Sie mit der Summe einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: сумма?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Summe.",
+          "ru": "Сегодня мы концентрируемся на теме: сумма."
+        },
+        {
+          "de": "Die Summe spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Сумма играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Wert, die Werte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "стоимость / ценность",
+      "translation_en": "value",
+      "examples": [
+        {
+          "de": "Hier ist der Wert.",
+          "ru": "Вот стоимость / ценность."
+        },
+        {
+          "de": "Wir müssen den Wert genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: стоимость / ценность."
+        },
+        {
+          "de": "Sind Sie mit dem Wert einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: стоимость / ценность?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Wert.",
+          "ru": "Сегодня мы концентрируемся на теме: стоимость / ценность."
+        },
+        {
+          "de": "Der Wert spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Стоимость / ценность играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "beitragen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "вносить вклад",
+      "translation_en": "to contribute",
+      "examples": [
+        {
+          "de": "Wir tragen bei diese Angelegenheit direkt im Team.",
+          "ru": "Мы вносить вклад этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich trage bei die notwendigen Unterlagen sofort.",
+          "ru": "Я вносить вклад необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege trägt bei das Ganze sehr professionell.",
+          "ru": "Ответственный коллега вносить вклад всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich beigetragen.",
+          "ru": "Мы успешно вносить вклад (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "tragen Sie bei bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: вносить вклад вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "beigetragen",
+      "imperative": "trage bei! / tragt bei! / tragen Sie bei!",
+      "conjugations": {
+        "ich": "trage bei",
+        "du": "trägst bei",
+        "er/sie/es": "trägt bei",
+        "wir": "tragen bei",
+        "ihr": "tragt bei",
+        "sie/Sie": "tragen bei"
+      },
+      "prepositions": [
+        "zu + Dativ (вносить вклад в что-то)"
+      ]
+    },
+    {
+      "word": "der Beitrag, die Beiträge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "взнос / вклад",
+      "translation_en": "contribution / fee",
+      "examples": [
+        {
+          "de": "Hier ist der Beitrag.",
+          "ru": "Вот взнос / вклад."
+        },
+        {
+          "de": "Wir müssen den Beitrag genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: взнос / вклад."
+        },
+        {
+          "de": "Sind Sie mit dem Beitrag einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: взнос / вклад?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Beitrag.",
+          "ru": "Сегодня мы концентрируемся на теме: взнос / вклад."
+        },
+        {
+          "de": "Der Beitrag spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Взнос / вклад играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "kalkulieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "калькулировать / просчитывать",
+      "translation_en": "to calculate",
+      "examples": [
+        {
+          "de": "Wir kalkulieren diese Angelegenheit direkt im Team.",
+          "ru": "Мы калькулировать / просчитывать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich kalkuliere die notwendigen Unterlagen sofort.",
+          "ru": "Я калькулировать / просчитывать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege kalkuliert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега калькулировать / просчитывать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich kalkuliert.",
+          "ru": "Мы успешно калькулировать / просчитывать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "kalkulieren Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: калькулировать / просчитывать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "kalkuliert",
+      "imperative": "kalkuliere! / kalkuliert! / kalkulieren Sie!",
+      "conjugations": {
+        "ich": "kalkuliere",
+        "du": "kalkulierst",
+        "er/sie/es": "kalkuliert",
+        "wir": "kalkulieren",
+        "ihr": "kalkuliert",
+        "sie/Sie": "kalkulieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Kalkulation, die Kalkulationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "расчет / калькуляция",
+      "translation_en": "calculation",
+      "examples": [
+        {
+          "de": "Hier ist die Kalkulation.",
+          "ru": "Вот расчет / калькуляция."
+        },
+        {
+          "de": "Wir müssen die Kalkulation genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: расчет / калькуляция."
+        },
+        {
+          "de": "Sind Sie mit der Kalkulation einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: расчет / калькуляция?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kalkulation.",
+          "ru": "Сегодня мы концентрируемся на теме: расчет / калькуляция."
+        },
+        {
+          "de": "Die Kalkulation spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Расчет / калькуляция играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Verlust, die Verluste",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "убыток / потеря",
+      "translation_en": "loss",
+      "examples": [
+        {
+          "de": "Hier ist der Verlust.",
+          "ru": "Вот убыток / потеря."
+        },
+        {
+          "de": "Wir müssen den Verlust genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: убыток / потеря."
+        },
+        {
+          "de": "Sind Sie mit dem Verlust einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: убыток / потеря?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Verlust.",
+          "ru": "Сегодня мы концентрируемся на теме: убыток / потеря."
+        },
+        {
+          "de": "Der Verlust spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Убыток / потеря играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Minus",
+        "Defizit",
+        "Einbuße"
+      ]
+    },
+    {
+      "word": "verlieren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "терять",
+      "translation_en": "to lose",
+      "examples": [
+        {
+          "de": "Wir verlieren diese Angelegenheit direkt im Team.",
+          "ru": "Мы терять этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich verliere die notwendigen Unterlagen sofort.",
+          "ru": "Я терять необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege verliert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега терять всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich verliert.",
+          "ru": "Мы успешно терять (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "verlieren Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: терять вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "verliert",
+      "imperative": "verliere! / verliert! / verlieren Sie!",
+      "conjugations": {
+        "ich": "verliere",
+        "du": "verlierst",
+        "er/sie/es": "verliert",
+        "wir": "verlieren",
+        "ihr": "verliert",
+        "sie/Sie": "verlieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "der Gewinn, die Gewinne",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "прибыль / выигрыш",
+      "translation_en": "profit / gain",
+      "examples": [
+        {
+          "de": "Hier ist der Gewinn.",
+          "ru": "Вот прибыль / выигрыш."
+        },
+        {
+          "de": "Wir müssen den Gewinn genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: прибыль / выигрыш."
+        },
+        {
+          "de": "Sind Sie mit dem Gewinn einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: прибыль / выигрыш?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Gewinn.",
+          "ru": "Сегодня мы концентрируемся на теме: прибыль / выигрыш."
+        },
+        {
+          "de": "Der Gewinn spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Прибыль / выигрыш играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Profit",
+        "Ertrag",
+        "Überschuss"
+      ]
+    },
+    {
+      "word": "gewinnen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "получать прибыль / выигрывать",
+      "translation_en": "to win / gain",
+      "examples": [
+        {
+          "de": "Wir gewinnen diese Angelegenheit direkt im Team.",
+          "ru": "Мы получать прибыль / выигрывать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich gewinne die notwendigen Unterlagen sofort.",
+          "ru": "Я получать прибыль / выигрывать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege gewinnet das Ganze sehr professionell.",
+          "ru": "Ответственный коллега получать прибыль / выигрывать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich gewinnet.",
+          "ru": "Мы успешно получать прибыль / выигрывать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "gewinnen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: получать прибыль / выигрывать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gewinnet",
+      "imperative": "gewinne! / gewinnet! / gewinnen Sie!",
+      "conjugations": {
+        "ich": "gewinne",
+        "du": "gewinnest",
+        "er/sie/es": "gewinnet",
+        "wir": "gewinnen",
+        "ihr": "gewinnet",
+        "sie/Sie": "gewinnen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "leihen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "одалживать",
+      "translation_en": "to lend / borrow",
+      "examples": [
+        {
+          "de": "Wir leihen diese Angelegenheit direkt im Team.",
+          "ru": "Мы одалживать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich leihe die notwendigen Unterlagen sofort.",
+          "ru": "Я одалживать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege leiht das Ganze sehr professionell.",
+          "ru": "Ответственный коллега одалживать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich geleiht.",
+          "ru": "Мы успешно одалживать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "leihen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: одалживать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "geleiht",
+      "imperative": "leihe! / leiht! / leihen Sie!",
+      "conjugations": {
+        "ich": "leihe",
+        "du": "leihst",
+        "er/sie/es": "leiht",
+        "wir": "leihen",
+        "ihr": "leiht",
+        "sie/Sie": "leihen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "das Darlehen, die Darlehen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "ссуда / заем",
+      "translation_en": "loan",
+      "examples": [
+        {
+          "de": "Hier ist das Darlehen.",
+          "ru": "Вот ссуда / заем."
+        },
+        {
+          "de": "Wir müssen das Darlehen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: ссуда / заем."
+        },
+        {
+          "de": "Sind Sie mit dem Darlehen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: ссуда / заем?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Darlehen.",
+          "ru": "Сегодня мы концентрируемся на теме: ссуда / заем."
+        },
+        {
+          "de": "Das Darlehen spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Ссуда / заем играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Spende, die Spenden",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "пожертвование",
+      "translation_en": "donation",
+      "examples": [
+        {
+          "de": "Hier ist die Spende.",
+          "ru": "Вот пожертвование."
+        },
+        {
+          "de": "Wir müssen die Spende genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: пожертвование."
+        },
+        {
+          "de": "Sind Sie mit der Spende einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: пожертвование?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Spende.",
+          "ru": "Сегодня мы концентрируемся на теме: пожертвование."
+        },
+        {
+          "de": "Die Spende spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Пожертвование играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "spenden",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "жертвовать",
+      "translation_en": "to donate",
+      "examples": [
+        {
+          "de": "Wir spenden diese Angelegenheit direkt im Team.",
+          "ru": "Мы жертвовать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich spende die notwendigen Unterlagen sofort.",
+          "ru": "Я жертвовать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege spendet das Ganze sehr professionell.",
+          "ru": "Ответственный коллега жертвовать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich gespendet.",
+          "ru": "Мы успешно жертвовать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "spenden Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: жертвовать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gespendet",
+      "imperative": "spende! / spendet! / spenden Sie!",
+      "conjugations": {
+        "ich": "spende",
+        "du": "spendest",
+        "er/sie/es": "spendet",
+        "wir": "spenden",
+        "ihr": "spendet",
+        "sie/Sie": "spenden"
+      },
+      "prepositions": [
+        "an + Akkusativ (жертвовать кому-то)",
+        "für + Akkusativ (жертвовать на что-то)"
+      ]
+    },
+    {
+      "word": "der Zuschuss, die Zuschüsse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "субсидия / прибавка",
+      "translation_en": "subsidy / grant",
+      "examples": [
+        {
+          "de": "Hier ist der Zuschuss.",
+          "ru": "Вот субсидия / прибавка."
+        },
+        {
+          "de": "Wir müssen den Zuschuss genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: субсидия / прибавка."
+        },
+        {
+          "de": "Sind Sie mit dem Zuschuss einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: субсидия / прибавка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Zuschuss.",
+          "ru": "Сегодня мы концентрируемся на теме: субсидия / прибавка."
+        },
+        {
+          "de": "Der Zuschuss spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Субсидия / прибавка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "bezuschussen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "субсидировать",
+      "translation_en": "to subsidize",
+      "examples": [
+        {
+          "de": "Wir bezuschussen diese Angelegenheit direkt im Team.",
+          "ru": "Мы субсидировать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich bezuschusse die notwendigen Unterlagen sofort.",
+          "ru": "Я субсидировать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege bezuschusst das Ganze sehr professionell.",
+          "ru": "Ответственный коллега субсидировать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich bezuschusst.",
+          "ru": "Мы успешно субсидировать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "bezuschussen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: субсидировать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "bezuschusst",
+      "imperative": "bezuschusse! / bezuschusst! / bezuschussen Sie!",
+      "conjugations": {
+        "ich": "bezuschusse",
+        "du": "bezuschusst",
+        "er/sie/es": "bezuschusst",
+        "wir": "bezuschussen",
+        "ihr": "bezuschusst",
+        "sie/Sie": "bezuschussen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "der Puffer, die Puffer",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "резерв / буфер",
+      "translation_en": "buffer",
+      "examples": [
+        {
+          "de": "Hier ist der Puffer.",
+          "ru": "Вот резерв / буфер."
+        },
+        {
+          "de": "Wir müssen den Puffer genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: резерв / буфер."
+        },
+        {
+          "de": "Sind Sie mit dem Puffer einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: резерв / буфер?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Puffer.",
+          "ru": "Сегодня мы концентрируемся на теме: резерв / буфер."
+        },
+        {
+          "de": "Der Puffer spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Резерв / буфер играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Reserve, die Reserven",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "резерв",
+      "translation_en": "reserve",
+      "examples": [
+        {
+          "de": "Hier ist die Reserve.",
+          "ru": "Вот резерв."
+        },
+        {
+          "de": "Wir müssen die Reserve genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: резерв."
+        },
+        {
+          "de": "Sind Sie mit der Reserve einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: резерв?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Reserve.",
+          "ru": "Сегодня мы концентрируемся на теме: резерв."
+        },
+        {
+          "de": "Die Reserve spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Резерв играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "reservieren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "резервировать",
+      "translation_en": "to reserve",
+      "examples": [
+        {
+          "de": "Wir reservieren diese Angelegenheit direkt im Team.",
+          "ru": "Мы резервировать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich reserviere die notwendigen Unterlagen sofort.",
+          "ru": "Я резервировать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege reserviert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега резервировать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich reserviert.",
+          "ru": "Мы успешно резервировать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "reservieren Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: резервировать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "reserviert",
+      "imperative": "reserviere! / reserviert! / reservieren Sie!",
+      "conjugations": {
+        "ich": "reserviere",
+        "du": "reservierst",
+        "er/sie/es": "reserviert",
+        "wir": "reservieren",
+        "ihr": "reserviert",
+        "sie/Sie": "reservieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "das Portemonnaie, die Portemonnaies",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "кошелек",
+      "translation_en": "wallet",
+      "examples": [
+        {
+          "de": "Hier ist das Portemonnaie.",
+          "ru": "Вот кошелек."
+        },
+        {
+          "de": "Wir müssen das Portemonnaie genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: кошелек."
+        },
+        {
+          "de": "Sind Sie mit dem Portemonnaie einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: кошелек?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Portemonnaie.",
+          "ru": "Сегодня мы концентрируемся на теме: кошелек."
+        },
+        {
+          "de": "Das Portemonnaie spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Кошелек играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Geldbörse, die Geldbörsen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "кошелек для монет",
+      "translation_en": "purse",
+      "examples": [
+        {
+          "de": "Hier ist die Geldbörse.",
+          "ru": "Вот кошелек для монет."
+        },
+        {
+          "de": "Wir müssen die Geldbörse genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: кошелек для монет."
+        },
+        {
+          "de": "Sind Sie mit der Geldbörse einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: кошелек для монет?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Geldbörse.",
+          "ru": "Сегодня мы концентрируемся на теме: кошелек для монет."
+        },
+        {
+          "de": "Die Geldbörse spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Кошелек для монет играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Gold, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "золото",
+      "translation_en": "gold",
+      "examples": [
+        {
+          "de": "Hier ist das Gold.",
+          "ru": "Вот золото."
+        },
+        {
+          "de": "Wir müssen das Gold genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: золото."
+        },
+        {
+          "de": "Sind Sie mit dem Gold einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: золото?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Gold.",
+          "ru": "Сегодня мы концентрируемся на теме: золото."
+        },
+        {
+          "de": "Das Gold spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Золото играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Silber, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "серебро",
+      "translation_en": "silver",
+      "examples": [
+        {
+          "de": "Hier ist das Silber.",
+          "ru": "Вот серебро."
+        },
+        {
+          "de": "Wir müssen das Silber genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: серебро."
+        },
+        {
+          "de": "Sind Sie mit dem Silber einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: серебро?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Silber.",
+          "ru": "Сегодня мы концентрируемся на теме: серебро."
+        },
+        {
+          "de": "Das Silber spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Серебро играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Münze, die Münzen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "монета",
+      "translation_en": "coin",
+      "examples": [
+        {
+          "de": "Hier ist die Münze.",
+          "ru": "Вот монета."
+        },
+        {
+          "de": "Wir müssen die Münze genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: монета."
+        },
+        {
+          "de": "Sind Sie mit der Münze einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: монета?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Münze.",
+          "ru": "Сегодня мы концентрируемся на теме: монета."
+        },
+        {
+          "de": "Die Münze spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Монета играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Geldschein, die Geldscheine",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "банкнота",
+      "translation_en": "banknote",
+      "examples": [
+        {
+          "de": "Hier ist der Geldschein.",
+          "ru": "Вот банкнота."
+        },
+        {
+          "de": "Wir müssen den Geldschein genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: банкнота."
+        },
+        {
+          "de": "Sind Sie mit dem Geldschein einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: банкнота?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Geldschein.",
+          "ru": "Сегодня мы концентрируемся на теме: банкнота."
+        },
+        {
+          "de": "Der Geldschein spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Банкнота играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Note, die Noten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "банкнота / купюра",
+      "translation_en": "note / bill",
+      "examples": [
+        {
+          "de": "Hier ist die Note.",
+          "ru": "Вот банкнота / купюра."
+        },
+        {
+          "de": "Wir müssen die Note genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: банкнота / купюра."
+        },
+        {
+          "de": "Sind Sie mit der Note einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: банкнота / купюра?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Note.",
+          "ru": "Сегодня мы концентрируемся на теме: банкнота / купюра."
+        },
+        {
+          "de": "Die Note spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Банкнота / купюра играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "fälschen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "фальсифицировать / подделывать",
+      "translation_en": "to counterfeit / forge",
+      "examples": [
+        {
+          "de": "Wir fälschen diese Angelegenheit direkt im Team.",
+          "ru": "Мы фальсифицировать / подделывать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich fälsche die notwendigen Unterlagen sofort.",
+          "ru": "Я фальсифицировать / подделывать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege fälscht das Ganze sehr professionell.",
+          "ru": "Ответственный коллега фальсифицировать / подделывать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich gefälscht.",
+          "ru": "Мы успешно фальсифицировать / подделывать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "fälschen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: фальсифицировать / подделывать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gefälscht",
+      "imperative": "fälsche! / fälscht! / fälschen Sie!",
+      "conjugations": {
+        "ich": "fälsche",
+        "du": "fälschst",
+        "er/sie/es": "fälscht",
+        "wir": "fälschen",
+        "ihr": "fälscht",
+        "sie/Sie": "fälschen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "das Falschgeld, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "фальшивые деньги",
+      "translation_en": "counterfeit money",
+      "examples": [
+        {
+          "de": "Hier ist das Falschgeld.",
+          "ru": "Вот фальшивые деньги."
+        },
+        {
+          "de": "Wir müssen das Falschgeld genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: фальшивые деньги."
+        },
+        {
+          "de": "Sind Sie mit dem Falschgeld einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: фальшивые деньги?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Falschgeld.",
+          "ru": "Сегодня мы концентрируемся на теме: фальшивые деньги."
+        },
+        {
+          "de": "Das Falschgeld spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Фальшивые деньги играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Wohlstand, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "благосостояние / достаток",
+      "translation_en": "prosperity / wealth",
+      "examples": [
+        {
+          "de": "Hier ist der Wohlstand.",
+          "ru": "Вот благосостояние / достаток."
+        },
+        {
+          "de": "Wir müssen den Wohlstand genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: благосостояние / достаток."
+        },
+        {
+          "de": "Sind Sie mit dem Wohlstand einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: благосостояние / достаток?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Wohlstand.",
+          "ru": "Сегодня мы концентрируемся на теме: благосостояние / достаток."
+        },
+        {
+          "de": "Der Wohlstand spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Благосостояние / достаток играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Armut, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "бедность",
+      "translation_en": "poverty",
+      "examples": [
+        {
+          "de": "Hier ist die Armut.",
+          "ru": "Вот бедность."
+        },
+        {
+          "de": "Wir müssen die Armut genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: бедность."
+        },
+        {
+          "de": "Sind Sie mit der Armut einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: бедность?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Armut.",
+          "ru": "Сегодня мы концентрируемся на теме: бедность."
+        },
+        {
+          "de": "Die Armut spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Бедность играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "reich",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "богатый",
+      "translation_en": "rich",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich reich.",
+          "ru": "Этот процесс действительно богатый."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles reich bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось богатый."
+        },
+        {
+          "de": "Wir arbeiten heute besonders reich.",
+          "ru": "Сегодня мы работаем особенно богатый."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr reich.",
+          "ru": "Полученный результат очень богатый."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich reich.",
+          "ru": "Я лично нахожу этот стиль работы богатый."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "arm",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "бедный",
+      "translation_en": "poor",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich arm.",
+          "ru": "Этот процесс действительно бедный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles arm bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось бедный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders arm.",
+          "ru": "Сегодня мы работаем особенно бедный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr arm.",
+          "ru": "Полученный результат очень бедный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich arm.",
+          "ru": "Я лично нахожу этот стиль работы бедный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Finanzen, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "финансы",
+      "translation_en": "finances",
+      "examples": [
+        {
+          "de": "Hier sind die Finanzen.",
+          "ru": "Вот финансы."
+        },
+        {
+          "de": "Wir müssen die Finanzen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: финансы."
+        },
+        {
+          "de": "Sind Sie mit den Finanzen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: финансы?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Finanzen.",
+          "ru": "Сегодня мы концентрируемся на теме: финансы."
+        },
+        {
+          "de": "Die Finanzen spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Финансы играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "finanziell",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "финансовый",
+      "translation_en": "financial",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich finanziell.",
+          "ru": "Этот процесс действительно финансовый."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles finanziell bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось финансовый."
+        },
+        {
+          "de": "Wir arbeiten heute besonders finanziell.",
+          "ru": "Сегодня мы работаем особенно финансовый."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr finanziell.",
+          "ru": "Полученный результат очень финансовый."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich finanziell.",
+          "ru": "Я лично нахожу этот стиль работы финансовый."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Finanzmarkt, die Finanzmärkte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "финансовый рынок",
+      "translation_en": "financial market",
+      "examples": [
+        {
+          "de": "Hier ist der Finanzmarkt.",
+          "ru": "Вот финансовый рынок."
+        },
+        {
+          "de": "Wir müssen den Finanzmarkt genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: финансовый рынок."
+        },
+        {
+          "de": "Sind Sie mit dem Finanzmarkt einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: финансовый рынок?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Finanzmarkt.",
+          "ru": "Сегодня мы концентрируемся на теме: финансовый рынок."
+        },
+        {
+          "de": "Der Finanzmarkt spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Финансовый рынок играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "flüssig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "ликвидный",
+      "translation_en": "liquid",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich flüssig.",
+          "ru": "Этот процесс действительно ликвидный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles flüssig bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось ликвидный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders flüssig.",
+          "ru": "Сегодня мы работаем особенно ликвидный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr flüssig.",
+          "ru": "Полученный результат очень ликвидный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich flüssig.",
+          "ru": "Я лично нахожу этот стиль работы ликвидный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Liquiditätsrisiko, die Risiken",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "риск ликвидности",
+      "translation_en": "liquidity risk",
+      "examples": [
+        {
+          "de": "Hier ist das Liquiditätsrisiko.",
+          "ru": "Вот риск ликвидности."
+        },
+        {
+          "de": "Wir müssen das Liquiditätsrisiko genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: риск ликвидности."
+        },
+        {
+          "de": "Sind Sie mit dem Liquiditätsrisiko einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: риск ликвидности?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Liquiditätsrisiko.",
+          "ru": "Сегодня мы концентрируемся на теме: риск ликвидности."
+        },
+        {
+          "de": "Das Liquiditätsrisiko spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Риск ликвидности играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Zahlungsunfähigkeit, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "неплатежеспособность",
+      "translation_en": "insolvency",
+      "examples": [
+        {
+          "de": "Hier ist die Zahlungsunfähigkeit.",
+          "ru": "Вот неплатежеспособность."
+        },
+        {
+          "de": "Wir müssen die Zahlungsunfähigkeit genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: неплатежеспособность."
+        },
+        {
+          "de": "Sind Sie mit der Zahlungsunfähigkeit einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: неплатежеспособность?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Zahlungsunfähigkeit.",
+          "ru": "Сегодня мы концентрируемся на теме: неплатежеспособность."
+        },
+        {
+          "de": "Die Zahlungsunfähigkeit spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Неплатежеспособность играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "zahlungsunfähig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "неплатежеспособный",
+      "translation_en": "insolvent",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich zahlungsunfähig.",
+          "ru": "Этот процесс действительно неплатежеспособный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles zahlungsunfähig bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось неплатежеспособный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders zahlungsunfähig.",
+          "ru": "Сегодня мы работаем особенно неплатежеспособный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr zahlungsunfähig.",
+          "ru": "Полученный результат очень неплатежеспособный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich zahlungsunfähig.",
+          "ru": "Я лично нахожу этот стиль работы неплатежеспособный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Insolvenz, die Insolvenzen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "банкротство",
+      "translation_en": "bankruptcy",
+      "examples": [
+        {
+          "de": "Hier ist die Insolvenz.",
+          "ru": "Вот банкротство."
+        },
+        {
+          "de": "Wir müssen die Insolvenz genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: банкротство."
+        },
+        {
+          "de": "Sind Sie mit der Insolvenz einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: банкротство?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Insolvenz.",
+          "ru": "Сегодня мы концентрируемся на теме: банкротство."
+        },
+        {
+          "de": "Die Insolvenz spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Банкротство играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "angemessen",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "соответствующий / умеренный",
+      "translation_en": "appropriate / reasonable",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich angemessen.",
+          "ru": "Этот процесс действительно соответствующий / умеренный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles angemessen bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось соответствующий / умеренный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders angemessen.",
+          "ru": "Сегодня мы работаем особенно соответствующий / умеренный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr angemessen.",
+          "ru": "Полученный результат очень соответствующий / умеренный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich angemessen.",
+          "ru": "Я лично нахожу этот стиль работы соответствующий / умеренный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "übertreiben",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "преувеличивать (расходы)",
+      "translation_en": "to exaggerate / overdo",
+      "examples": [
+        {
+          "de": "Wir übertreiben diese Angelegenheit direkt im Team.",
+          "ru": "Мы преувеличивать (расходы) этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich übertreibe die notwendigen Unterlagen sofort.",
+          "ru": "Я преувеличивать (расходы) необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege übertreibt das Ganze sehr professionell.",
+          "ru": "Ответственный коллега преувеличивать (расходы) всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich übertreibt.",
+          "ru": "Мы успешно преувеличивать (расходы) (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "übertreiben Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: преувеличивать (расходы) вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "übertreibt",
+      "imperative": "übertreibe! / übertreibt! / übertreiben Sie!",
+      "conjugations": {
+        "ich": "übertreibe",
+        "du": "übertreibst",
+        "er/sie/es": "übertreibt",
+        "wir": "übertreiben",
+        "ihr": "übertreibt",
+        "sie/Sie": "übertreiben"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Verschwendung, die Verschwendugen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "расточительство",
+      "translation_en": "waste / extravagance",
+      "examples": [
+        {
+          "de": "Hier ist die Verschwendung.",
+          "ru": "Вот расточительство."
+        },
+        {
+          "de": "Wir müssen die Verschwendung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: расточительство."
+        },
+        {
+          "de": "Sind Sie mit der Verschwendung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: расточительство?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Verschwendung.",
+          "ru": "Сегодня мы концентрируемся на теме: расточительство."
+        },
+        {
+          "de": "Die Verschwendung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Расточительство играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "verschwenden",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "расточать / тратить впустую",
+      "translation_en": "to waste",
+      "examples": [
+        {
+          "de": "Wir verschwenden diese Angelegenheit direkt im Team.",
+          "ru": "Мы расточать / тратить впустую этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich verschwende die notwendigen Unterlagen sofort.",
+          "ru": "Я расточать / тратить впустую необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege verschwendet das Ganze sehr professionell.",
+          "ru": "Ответственный коллега расточать / тратить впустую всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich verschwendet.",
+          "ru": "Мы успешно расточать / тратить впустую (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "verschwenden Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: расточать / тратить впустую вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "verschwendet",
+      "imperative": "verschwende! / verschwendet! / verschwenden Sie!",
+      "conjugations": {
+        "ich": "verschwende",
+        "du": "verschwendest",
+        "er/sie/es": "verschwendet",
+        "wir": "verschwenden",
+        "ihr": "verschwendet",
+        "sie/Sie": "verschwenden"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "sparsam",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "экономный",
+      "translation_en": "thrifty / economical",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich sparsam.",
+          "ru": "Этот процесс действительно экономный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles sparsam bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось экономный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders sparsam.",
+          "ru": "Сегодня мы работаем особенно экономный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr sparsam.",
+          "ru": "Полученный результат очень экономный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich sparsam.",
+          "ru": "Я лично нахожу этот стиль работы экономный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Sparsamkeit, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "бережливость",
+      "translation_en": "thrift / economy",
+      "examples": [
+        {
+          "de": "Hier ist die Sparsamkeit.",
+          "ru": "Вот бережливость."
+        },
+        {
+          "de": "Wir müssen die Sparsamkeit genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: бережливость."
+        },
+        {
+          "de": "Sind Sie mit der Sparsamkeit einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: бережливость?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Sparsamkeit.",
+          "ru": "Сегодня мы концентрируемся на теме: бережливость."
+        },
+        {
+          "de": "Die Sparsamkeit spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Бережливость играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "großzügig",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "щедрый",
+      "translation_en": "generous",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich großzügig.",
+          "ru": "Этот процесс действительно щедрый."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles großzügig bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось щедрый."
+        },
+        {
+          "de": "Wir arbeiten heute besonders großzügig.",
+          "ru": "Сегодня мы работаем особенно щедрый."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr großzügig.",
+          "ru": "Полученный результат очень щедрый."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich großzügig.",
+          "ru": "Я лично нахожу этот стиль работы щедрый."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "geizig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "скупой / жадный",
+      "translation_en": "stingy / mean",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich geizig.",
+          "ru": "Этот процесс действительно скупой / жадный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles geizig bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось скупой / жадный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders geizig.",
+          "ru": "Сегодня мы работаем особенно скупой / жадный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr geizig.",
+          "ru": "Полученный результат очень скупой / жадный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich geizig.",
+          "ru": "Я лично нахожу этот стиль работы скупой / жадный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Geiz, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "скупость",
+      "translation_en": "stinginess",
+      "examples": [
+        {
+          "de": "Hier ist der Geiz.",
+          "ru": "Вот скупость."
+        },
+        {
+          "de": "Wir müssen den Geiz genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: скупость."
+        },
+        {
+          "de": "Sind Sie mit dem Geiz einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: скупость?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Geiz.",
+          "ru": "Сегодня мы концентрируемся на теме: скупость."
+        },
+        {
+          "de": "Der Geiz spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Скупость играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Entgelt, die Entgelte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "плата / вознаграждение",
+      "translation_en": "remuneration / fee",
+      "examples": [
+        {
+          "de": "Hier ist das Entgelt.",
+          "ru": "Вот плата / вознаграждение."
+        },
+        {
+          "de": "Wir müssen das Entgelt genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: плата / вознаграждение."
+        },
+        {
+          "de": "Sind Sie mit dem Entgelt einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: плата / вознаграждение?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Entgelt.",
+          "ru": "Сегодня мы концентрируемся на теме: плата / вознаграждение."
+        },
+        {
+          "de": "Das Entgelt spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Плата / вознаграждение играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "entgeltlich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "возмездный / платный",
+      "translation_en": "for a fee",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich entgeltlich.",
+          "ru": "Этот процесс действительно возмездный / платный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles entgeltlich bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось возмездный / платный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders entgeltlich.",
+          "ru": "Сегодня мы работаем особенно возмездный / платный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr entgeltlich.",
+          "ru": "Полученный результат очень возмездный / платный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich entgeltlich.",
+          "ru": "Я лично нахожу этот стиль работы возмездный / платный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "unentgeltlich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "безвозмездный / бесплатный",
+      "translation_en": "free of charge",
+      "examples": [
+        {
+          "de": "Dieses Verfahren ist wirklich unentgeltlich.",
+          "ru": "Этот процесс действительно безвозмездный / бесплатный."
+        },
+        {
+          "de": "Es ist sehr wichtig, dass alles unentgeltlich bleibt.",
+          "ru": "Очень важно, чтобы всё оставалось безвозмездный / бесплатный."
+        },
+        {
+          "de": "Wir arbeiten heute besonders unentgeltlich.",
+          "ru": "Сегодня мы работаем особенно безвозмездный / бесплатный."
+        },
+        {
+          "de": "Das erzielte Ergebnis ist sehr unentgeltlich.",
+          "ru": "Полученный результат очень безвозмездный / бесплатный."
+        },
+        {
+          "de": "Ich finde diese Arbeitsweise persönlich unentgeltlich.",
+          "ru": "Я лично нахожу этот стиль работы безвозмездный / бесплатный."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Honorar, die Honorare",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "гонорар / вознаграждение",
+      "translation_en": "fee / honorarium",
+      "examples": [
+        {
+          "de": "Hier ist das Honorar.",
+          "ru": "Вот гонорар / вознаграждение."
+        },
+        {
+          "de": "Wir müssen das Honorar genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: гонорар / вознаграждение."
+        },
+        {
+          "de": "Sind Sie mit dem Honorar einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: гонорар / вознаграждение?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Honorar.",
+          "ru": "Сегодня мы концентрируемся на теме: гонорар / вознаграждение."
+        },
+        {
+          "de": "Das Honorar spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Гонорар / вознаграждение играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Lohn, die Löhne",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "заработная плата (сдельная)",
+      "translation_en": "wage",
+      "examples": [
+        {
+          "de": "Hier ist der Lohn.",
+          "ru": "Вот заработная плата (сдельная)."
+        },
+        {
+          "de": "Wir müssen den Lohn genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: заработная плата (сдельная)."
+        },
+        {
+          "de": "Sind Sie mit dem Lohn einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: заработная плата (сдельная)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Lohn.",
+          "ru": "Сегодня мы концентрируемся на теме: заработная плата (сдельная)."
+        },
+        {
+          "de": "Der Lohn spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Заработная плата (сдельная) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Gehalt, die Gehälter",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "оклад / зарплата (служащего)",
+      "translation_en": "salary",
+      "examples": [
+        {
+          "de": "Hier ist das Gehalt.",
+          "ru": "Вот оклад / зарплата (служащего)."
+        },
+        {
+          "de": "Wir müssen das Gehalt genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: оклад / зарплата (служащего)."
+        },
+        {
+          "de": "Sind Sie mit dem Gehalt einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: оклад / зарплата (служащего)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Gehalt.",
+          "ru": "Сегодня мы концентрируемся на теме: оклад / зарплата (служащего)."
+        },
+        {
+          "de": "Das Gehalt spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Оклад / зарплата (служащего) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Lohn",
+        "Verdienst",
+        "Einkommen"
+      ]
+    },
+    {
+      "word": "das Netto, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "нетто (чистый доход/вес)",
+      "translation_en": "net",
+      "examples": [
+        {
+          "de": "Hier ist das Netto.",
+          "ru": "Вот нетто (чистый доход/вес)."
+        },
+        {
+          "de": "Wir müssen das Netto genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: нетто (чистый доход/вес)."
+        },
+        {
+          "de": "Sind Sie mit dem Netto einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: нетто (чистый доход/вес)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Netto.",
+          "ru": "Сегодня мы концентрируемся на теме: нетто (чистый доход/вес)."
+        },
+        {
+          "de": "Das Netto spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Нетто (чистый доход/вес) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Brutto, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "брутто (грязный доход/вес)",
+      "translation_en": "gross",
+      "examples": [
+        {
+          "de": "Hier ist das Brutto.",
+          "ru": "Вот брутто (грязный доход/вес)."
+        },
+        {
+          "de": "Wir müssen das Brutto genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: брутто (грязный доход/вес)."
+        },
+        {
+          "de": "Sind Sie mit dem Brutto einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: брутто (грязный доход/вес)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Brutto.",
+          "ru": "Сегодня мы концентрируемся на теме: брутто (грязный доход/вес)."
+        },
+        {
+          "de": "Das Brutto spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Брутто (грязный доход/вес) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Abgabe, die Abgaben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "налог / пошлина / сбор",
+      "translation_en": "tax / levy",
+      "examples": [
+        {
+          "de": "Hier ist die Abgabe.",
+          "ru": "Вот налог / пошлина / сбор."
+        },
+        {
+          "de": "Wir müssen die Abgabe genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: налог / пошлина / сбор."
+        },
+        {
+          "de": "Sind Sie mit der Abgabe einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: налог / пошлина / сбор?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Abgabe.",
+          "ru": "Сегодня мы концентрируемся на теме: налог / пошлина / сбор."
+        },
+        {
+          "de": "Die Abgabe spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Налог / пошлина / сбор играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Finanzierungquelle, die Quellen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "источник финансирования",
+      "translation_en": "funding source",
+      "examples": [
+        {
+          "de": "Hier ist die Finanzierungquelle.",
+          "ru": "Вот источник финансирования."
+        },
+        {
+          "de": "Wir müssen die Finanzierungquelle genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: источник финансирования."
+        },
+        {
+          "de": "Sind Sie mit der Finanzierungquelle einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: источник финансирования?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Finanzierungquelle.",
+          "ru": "Сегодня мы концентрируемся на теме: источник финансирования."
+        },
+        {
+          "de": "Die Finanzierungquelle spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Источник финансирования играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Subvention, die Subventionen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "субсидия",
+      "translation_en": "subsidy",
+      "examples": [
+        {
+          "de": "Hier ist die Subvention.",
+          "ru": "Вот субсидия."
+        },
+        {
+          "de": "Wir müssen die Subvention genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: субсидия."
+        },
+        {
+          "de": "Sind Sie mit der Subvention einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: субсидия?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Subvention.",
+          "ru": "Сегодня мы концентрируемся на теме: субсидия."
+        },
+        {
+          "de": "Die Subvention spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Субсидия играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "subventionieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "субсидировать",
+      "translation_en": "to subsidize",
+      "examples": [
+        {
+          "de": "Wir subventionieren diese Angelegenheit direkt im Team.",
+          "ru": "Мы субсидировать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich subventioniere die notwendigen Unterlagen sofort.",
+          "ru": "Я субсидировать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege subventioniert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега субсидировать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich subventioniert.",
+          "ru": "Мы успешно субсидировать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "subventionieren Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: субсидировать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "subventioniert",
+      "imperative": "subventioniere! / subventioniert! / subventionieren Sie!",
+      "conjugations": {
+        "ich": "subventioniere",
+        "du": "subventionierst",
+        "er/sie/es": "subventioniert",
+        "wir": "subventionieren",
+        "ihr": "subventioniert",
+        "sie/Sie": "subventionieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Kasse, die Kassen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "касса / кассовый аппарат",
+      "translation_en": "cash register / cash desk",
+      "examples": [
+        {
+          "de": "Hier ist die Kasse.",
+          "ru": "Вот касса / кассовый аппарат."
+        },
+        {
+          "de": "Wir müssen die Kasse genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: касса / кассовый аппарат."
+        },
+        {
+          "de": "Sind Sie mit der Kasse einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: касса / кассовый аппарат?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kasse.",
+          "ru": "Сегодня мы концентрируемся на теме: касса / кассовый аппарат."
+        },
+        {
+          "de": "Die Kasse spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Касса / кассовый аппарат играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Kassierer, die Kassierer",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "кассир",
+      "translation_en": "cashier",
+      "examples": [
+        {
+          "de": "Hier ist der Kassierer.",
+          "ru": "Вот кассир."
+        },
+        {
+          "de": "Wir müssen den Kassierer genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: кассир."
+        },
+        {
+          "de": "Sind Sie mit dem Kassierer einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: кассир?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Kassierer.",
+          "ru": "Сегодня мы концентрируемся на теме: кассир."
+        },
+        {
+          "de": "Der Kassierer spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Кассир играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "kassieren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "принимать оплату",
+      "translation_en": "to collect cash",
+      "examples": [
+        {
+          "de": "Wir kassieren diese Angelegenheit direkt im Team.",
+          "ru": "Мы принимать оплату этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich kassiere die notwendigen Unterlagen sofort.",
+          "ru": "Я принимать оплату необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege kassiert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега принимать оплату всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich kassiert.",
+          "ru": "Мы успешно принимать оплату (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "kassieren Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: принимать оплату вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "kassiert",
+      "imperative": "kassiere! / kassiert! / kassieren Sie!",
+      "conjugations": {
+        "ich": "kassiere",
+        "du": "kassierst",
+        "er/sie/es": "kassiert",
+        "wir": "kassieren",
+        "ihr": "kassiert",
+        "sie/Sie": "kassieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "das Wechselgeld, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "сдача",
+      "translation_en": "change",
+      "examples": [
+        {
+          "de": "Hier ist das Wechselgeld.",
+          "ru": "Вот сдача."
+        },
+        {
+          "de": "Wir müssen das Wechselgeld genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: сдача."
+        },
+        {
+          "de": "Sind Sie mit dem Wechselgeld einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: сдача?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Wechselgeld.",
+          "ru": "Сегодня мы концентрируемся на теме: сдача."
+        },
+        {
+          "de": "Das Wechselgeld spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Сдача играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Quittungsbeleg, die Belege",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "чек / квитанция",
+      "translation_en": "receipt / slip",
+      "examples": [
+        {
+          "de": "Hier ist der Quittungsbeleg.",
+          "ru": "Вот чек / квитанция."
+        },
+        {
+          "de": "Wir müssen den Quittungsbeleg genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: чек / квитанция."
+        },
+        {
+          "de": "Sind Sie mit dem Quittungsbeleg einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: чек / квитанция?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Quittungsbeleg.",
+          "ru": "Сегодня мы концентрируемся на теме: чек / квитанция."
+        },
+        {
+          "de": "Der Quittungsbeleg spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Чек / квитанция играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    }
+  ]
+}

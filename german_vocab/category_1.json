@@ -1,0 +1,1812 @@
+{
+  "category": "Projektinitiierung, Planung & Ziele",
+  "words": [
+    {
+      "word": "der Projektauftrag, die Projektaufträge",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "устав проекта, техническое задание на проект",
+      "translation_en": "project charter, project brief",
+      "examples": [
+        {
+          "de": "Der Projektauftrag wurde gestern vom Lenkungsausschuss unterzeichnet.",
+          "ru": "Устав проекта был вчера подписан управляющим комитетом."
+        },
+        {
+          "de": "Ohne einen klaren Projektauftrag können wir die Ressourcen nicht freigeben.",
+          "ru": "Без четкого устава проекта мы не можем выделить ресурсы."
+        },
+        {
+          "de": "Im Projektauftrag sind die wichtigsten Meilensteine und Ziele definiert.",
+          "ru": "В уставе проекта определены важнейшие вехи и цели."
+        },
+        {
+          "de": "Wer hat den Projektauftrag für die neue Softwareentwicklung freigegeben?",
+          "ru": "Кто утвердил техническое задание на разработку нового программного обеспечения?"
+        },
+        {
+          "de": "Der Projektauftrag legt das Budget und den zeitlichen Rahmen fest.",
+          "ru": "Устав проекта определяет бюджет и временные рамки."
+        }
+      ],
+      "synonyms": [
+        "Projektvereinbarung",
+        "Projektbriefing",
+        "Projektauftragsschreiben"
+      ]
+    },
+    {
+      "word": "das Projektziel, die Projektziele",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "цель проекта",
+      "translation_en": "project goal, project objective",
+      "examples": [
+        {
+          "de": "Unser wichtigstes Projektziel ist die Steigerung der Benutzerfreundlichkeit.",
+          "ru": "Наша главная цель проекта — повышение удобства использования."
+        },
+        {
+          "de": "Wir müssen sicherstellen, dass die Projektziele messbar und realistisch sind.",
+          "ru": "Мы должны убедиться, что цели проекта измеримы и реалистичны."
+        },
+        {
+          "de": "Die Definition der Projektziele erfolgt in der ersten Phase des Projekts.",
+          "ru": "Определение целей проекта происходит на первом этапе проекта."
+        },
+        {
+          "de": "Haben wir alle Projektziele im Kick-off-Meeting besprochen?",
+          "ru": "Обсудили ли мы все цели проекта на стартовой встрече?"
+        },
+        {
+          "de": "Wenn wir das Projektziel nicht erreichen, drohen finanzielle Verluste.",
+          "ru": "Если мы не достигнем цели проекта, грозят финансовые потери."
+        }
+      ],
+      "synonyms": [
+        "Zielsetzung",
+        "Vorgabe",
+        "Soll-Vorgabe"
+      ]
+    },
+    {
+      "word": "der Stakeholder, die Stakeholder",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "стейкхолдер, заинтересованная сторона",
+      "translation_en": "stakeholder",
+      "examples": [
+        {
+          "de": "Wir müssen alle Stakeholder über die geplanten Änderungen informieren.",
+          "ru": "Мы должны проинформировать всех заинтересованных сторон о планируемых изменениях."
+        },
+        {
+          "de": "Die Erwartungen der Stakeholder gehen in diesem Projekt weit auseinander.",
+          "ru": "Ожидания стейкхолдеров в этом проекте сильно расходятся."
+        },
+        {
+          "de": "Ein regelmäßiger Austausch mit den Stakeholdern minimiert das Risiko von Missverständnissen.",
+          "ru": "Регулярный обмен информацией со стейкхолдерами минимизирует риск недопонимания."
+        },
+        {
+          "de": "Der Projektleiter führt morgen eine Präsentation für die wichtigsten Stakeholder durch.",
+          "ru": "Руководитель проекта завтра проведет презентацию для ключевых стейкхолдеров."
+        },
+        {
+          "de": "Wer sind die einflussreichsten Stakeholder in diesem IT-Projekt?",
+          "ru": "Кто является наиболее влиятельными стейкхолдерами в этом IT-проекте?"
+        }
+      ],
+      "synonyms": [
+        "Interessengruppe",
+        "Beteiligte",
+        "Anspruchsgruppe"
+      ]
+    },
+    {
+      "word": "die Anforderung, die Anforderungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "требование",
+      "translation_en": "requirement",
+      "examples": [
+        {
+          "de": "Die Anforderungen der Kunden müssen detailliert dokumentiert werden.",
+          "ru": "Требования клиентов должны быть подробно задокументированы."
+        },
+        {
+          "de": "Im agilen Projektmanagement ändern sich die Anforderungen häufig während des Prozesses.",
+          "ru": "В гибком управлении проектами требования часто меняются в ходе процесса."
+        },
+        {
+          "de": "Wir prüfen derzeit, ob diese Anforderung technisch umsetzbar ist.",
+          "ru": "В настоящее время мы проверяем, выполнимо ли это требование технически."
+        },
+        {
+          "de": "Die Entwickler haben die funktionalen Anforderungen erfolgreich umgesetzt.",
+          "ru": "Разработчики успешно реализовали функциональные требования."
+        },
+        {
+          "de": "Wer ist für das Management der Anforderungen in diesem Sprint verantwortlich?",
+          "ru": "Кто отвечает за управление требованиями в этом спринте?"
+        }
+      ],
+      "synonyms": [
+        "Erfordernis",
+        "Notwendigkeit",
+        "Unabdingbarkeit"
+      ]
+    },
+    {
+      "word": "die Planungsphase, die Planungsphasen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "этап планирования, фаза планирования",
+      "translation_en": "planning phase",
+      "examples": [
+        {
+          "de": "In der Planungsphase erstellen wir das Budget und den Zeitplan.",
+          "ru": "На этапе планирования мы составляем бюджет и график."
+        },
+        {
+          "de": "Fehler in der Planungsphase können später zu hohen Kosten führen.",
+          "ru": "Ошибки на этапе планирования могут позже привести к высоким расходам."
+        },
+        {
+          "de": "Wir befinden uns aktuell noch in der Planungsphase des Projekts.",
+          "ru": "В настоящее время мы все еще находимся на этапе планирования проекта."
+        },
+        {
+          "de": "Die Planungsphase soll bis Ende des Monats abgeschlossen sein.",
+          "ru": "Этап планирования должен быть завершен к концу месяца."
+        },
+        {
+          "de": "Während der Planungsphase müssen wir die Risiken genau analysieren.",
+          "ru": "Во время фазы планирования мы должны точно проанализировать риски."
+        }
+      ],
+      "synonyms": [
+        "Entwurfsphase",
+        "Konzeptionsphase"
+      ]
+    },
+    {
+      "word": "der Meilenstein, die Meilensteine",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "веха, контрольная точка",
+      "translation_en": "milestone",
+      "examples": [
+        {
+          "de": "Das Erreichen dieses Meilensteins ist für den Projekterfolg entscheidend.",
+          "ru": "Достижение этой вехи имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Wir haben den ersten Meilenstein pünktlich vor dem Wochenende erreicht.",
+          "ru": "Мы достигли первой контрольной точки вовремя перед выходными."
+        },
+        {
+          "de": "Im Projektplan sind fünf wichtige Meilensteine eingetragen.",
+          "ru": "В плане проекта записаны пять важных вех."
+        },
+        {
+          "de": "Dieser Meilenstein markiert das Ende der Konzeptentwicklungsphase.",
+          "ru": "Эта веха знаменует окончание этапа разработки концепции."
+        },
+        {
+          "de": "Können wir den nächsten Meilenstein trotz der Verzögerung einhalten?",
+          "ru": "Сможем ли wir уложиться в следующую контрольную точку, несмотря на задержку?"
+        }
+      ],
+      "synonyms": [
+        "Etappenziel",
+        "Zwischenziel",
+        "Kontrollpunkt"
+      ]
+    },
+    {
+      "word": "der Projektplan, die Projektpläne",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "план проекта",
+      "translation_en": "project plan",
+      "examples": [
+        {
+          "de": "Der Projektplan muss wöchentlich aktualisiert werden.",
+          "ru": "План проекта должен обновляться еженедельно."
+        },
+        {
+          "de": "Wir müssen den Projektplan anpassen, da sich die Anforderungen geändert haben.",
+          "ru": "Нам нужно скорректировать план проекта, так как требования изменились."
+        },
+        {
+          "de": "Der Projektplan zeigt alle Aufgaben und deren Abhängigkeiten.",
+          "ru": "План проекта показывает все задачи и связи между ними."
+        },
+        {
+          "de": "Wer hat den neuen Projektplan für das Team freigegeben?",
+          "ru": "Кто утвердил новый план проекта для команды?"
+        },
+        {
+          "de": "Laut Projektplan sollten wir diese Woche mit dem Design beginnen.",
+          "ru": "Согласно плану проекта, на этой неделе мы должны начать проектирование."
+        }
+      ],
+      "synonyms": [
+        "Ablaufplan",
+        "Terminplan",
+        "Meilensteinplan"
+      ]
+    },
+    {
+      "word": "die Zielsetzung, die Zielsetzungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "постановка цели, формулировка целей",
+      "translation_en": "goal setting, objective setting",
+      "examples": [
+        {
+          "de": "Eine klare Zielsetzung hilft dem Team, fokussiert zu bleiben.",
+          "ru": "Четкая постановка целей помогает команде оставаться сфокусированной."
+        },
+        {
+          "de": "Die Zielsetzung für das nächste Quartal wird morgen vereinbart.",
+          "ru": "Формулировка целей на следующий квартал будет согласована завтра."
+        },
+        {
+          "de": "Unsere strategische Zielsetzung ist die Markteinführung im Herbst.",
+          "ru": "Наша стратегическая цель — выход на рынок осенью."
+        },
+        {
+          "de": "Vor Projektbeginn muss die Zielsetzung schriftlich fixiert werden.",
+          "ru": "Перед началом проекта цели должны быть зафиксированы in письменном виде."
+        },
+        {
+          "de": "Die Zielsetzung des Projekts entspricht nicht den Unternehmenszielen.",
+          "ru": "Целеполагание проекта не соответствует целям компании."
+        }
+      ],
+      "synonyms": [
+        "Perspektive",
+        "Ziel",
+        "Zielvorstellung"
+      ]
+    },
+    {
+      "word": "der Projektstart, die Projektstarts",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "старт проекта, запуск проекта",
+      "translation_en": "project start, project launch",
+      "examples": [
+        {
+          "de": "Der offizielle Projektstart ist für den ersten September geplant.",
+          "ru": "Официальный запуск проекта запланирован на первое сентября."
+        },
+        {
+          "de": "Vor dem Projektstart müssen alle Verträge unterschrieben sein.",
+          "ru": "Перед стартом проекта все договоры должны быть подписаны."
+        },
+        {
+          "de": "Ein gelungener Projektstart motiviert das gesamte Team.",
+          "ru": "Успешный старт проекта мотивирует всю команду."
+        },
+        {
+          "de": "Beim Projektstart gab es einige technische Schwierigkeiten.",
+          "ru": "При запуске проекта возникли некоторые технические трудности."
+        },
+        {
+          "de": "Wir feiern den Projektstart mit einem gemeinsamen Abendessen.",
+          "ru": "Мы отмечаем запуск проекта совместным ужином."
+        }
+      ],
+      "synonyms": [
+        "Projektbeginn",
+        "Kick-off",
+        "Starttermin"
+      ]
+    },
+    {
+      "word": "die Durchführbarkeit (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "реализуемость, осуществимость",
+      "translation_en": "feasibility",
+      "examples": [
+        {
+          "de": "Die Durchführbarkeit des Projekts wird derzeit von Experten geprüft.",
+          "ru": "Осуществимость проекта в настоящее время проверяется экспертами."
+        },
+        {
+          "de": "Wir zweifeln an der Durchführbarkeit dieses ehrgeizigen Plans.",
+          "ru": "Мы сомневаемся в реализуемости этого амбициозного плана."
+        },
+        {
+          "de": "Die technische Durchführbarkeit muss vor dem Projektstart feststehen.",
+          "ru": "Техническая реализуемость должна быть определена до старта проекта."
+        },
+        {
+          "de": "Ein Gutachten bestätigt die wirtschaftliche Durchführbarkeit der Anlage.",
+          "ru": "Экспертное заключение подтверждает экономическую целесообразность объекта."
+        },
+        {
+          "de": "Bei mangelnder Durchführbarkeit müssen wir das Projekt abbrechen.",
+          "ru": "В случае невыполнимости мы вынуждены будем прекратить проект."
+        }
+      ],
+      "synonyms": [
+        "Machbarkeit",
+        "Realisierbarkeit",
+        "Praktikabilität"
+      ]
+    },
+    {
+      "word": "die Machbarkeitsstudie, die Machbarkeitsstudien",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "технико-экономическое обоснование (ТЭО), исследование осуществимости",
+      "translation_en": "feasibility study",
+      "examples": [
+        {
+          "de": "Die Machbarkeitsstudie hat gezeigt, dass das Projekt zu teuer wird.",
+          "ru": "Исследование осуществимости показало, что проект будет слишком дорогим."
+        },
+        {
+          "de": "Wir müssen eine Machbarkeitsstudie für die neue Produktlinie in Auftrag geben.",
+          "ru": "Мы должны заказать исследование осуществимости для новой линейки продуктов."
+        },
+        {
+          "de": "Die Ergebnisse der Machbarkeitsstudie liegen nächste Woche vor.",
+          "ru": "Результаты ТЭО будут готовы на следующей неделе."
+        },
+        {
+          "de": "Vor großen Investitionen ist eine Machbarkeitsstudie zwingend erforderlich.",
+          "ru": "Перед крупными инвестициями проведение ТЭО является обязательным."
+        },
+        {
+          "de": "Wer hat die Machbarkeitsstudie für das Bauprojekt durchgeführt?",
+          "ru": "Кто проводил исследование осуществимости для строительного проекта?"
+        }
+      ],
+      "synonyms": [
+        "Machbarkeitsanalyse",
+        "Durchführbarkeitsprüfung"
+      ]
+    },
+    {
+      "word": "definieren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "определять, формулировать",
+      "translation_en": "to define",
+      "examples": [
+        {
+          "de": "Wir müssen die Rollen im Projektteam klar definieren.",
+          "ru": "Мы должны четко определить роли в проектной команде."
+        },
+        {
+          "de": "Das Ziel des nächsten Sprints wurde noch nicht definiert.",
+          "ru": "Цель следующего спринта еще не определена."
+        },
+        {
+          "de": "Können Sie die Anforderungen für die neue API genauer definieren?",
+          "ru": "Можете ли вы точнее сформулировать требования к новому API?"
+        },
+        {
+          "de": "Der Projektumfang muss vor Vertragsunterzeichnung definiert werden.",
+          "ru": "Объем проекта должен быть определен до подписания контракта."
+        },
+        {
+          "de": "Wir definieren die Kriterien für den Projekterfolg gemeinsam mit dem Kunden.",
+          "ru": "Мы определяем критерии успеха проекта совместно с клиентом."
+        }
+      ],
+      "synonyms": [
+        "abgrenzen",
+        "abstecken",
+        "bestimmen"
+      ],
+      "partizip_2": "definiert",
+      "imperative": "definiere! / definiert! / definieren Sie!",
+      "conjugations": {
+        "ich": "definiere",
+        "du": "definierst",
+        "er/sie/es": "definiert",
+        "wir": "definieren",
+        "ihr": "definiert",
+        "sie/Sie": "definieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "planen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "планировать",
+      "translation_en": "to plan",
+      "examples": [
+        {
+          "de": "Wir planen, die Testphase im nächsten Monat abzuschließen.",
+          "ru": "Мы планируем завершить этап тестирования в следующем месяце."
+        },
+        {
+          "de": "Wie planen Sie, die knappen Ressourcen einzuteilen?",
+          "ru": "Как вы планируете распределить дефицитные ресурсы?"
+        },
+        {
+          "de": "Das Projekt wurde sehr sorgfältig geplant.",
+          "ru": "Проект был спланирован очень тщательно."
+        },
+        {
+          "de": "Wir müssen das Kick-off-Meeting für nächste Woche planen.",
+          "ru": "Мы должны спланировать стартовую встречу на следующую неделю."
+        },
+        {
+          "de": "Sie planen die Termine für die kommenden Sprints im Voraus.",
+          "ru": "Они планируют даты для предстоящих спринтов заранее."
+        }
+      ],
+      "synonyms": [
+        "organisieren",
+        "ausrichten",
+        "austragen"
+      ],
+      "partizip_2": "geplant",
+      "imperative": "plane! / plant! / planen Sie!",
+      "conjugations": {
+        "ich": "plane",
+        "du": "planst",
+        "er/sie/es": "plant",
+        "wir": "planen",
+        "ihr": "plant",
+        "sie/Sie": "planen"
+      },
+      "prepositions": [
+        "für + Akkusativ (на какой-то период)",
+        "mit + Dativ (планировать с учётом чего-то)"
+      ]
+    },
+    {
+      "word": "festlegen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "устанавливать, определять",
+      "translation_en": "to determine, to set",
+      "examples": [
+        {
+          "de": "Wir müssen das Budget für das Marketingprojekt festlegen.",
+          "ru": "Мы должны установить бюджет для маркетингового проекта."
+        },
+        {
+          "de": "Der Lenkungsausschuss legt die Prioritäten für das Quartal fest.",
+          "ru": "Управляющий комитет определяет приоритеты на квартал."
+        },
+        {
+          "de": "Die Termine für die Meilensteine wurden bereits festgelegt.",
+          "ru": "Даты вех уже установлены."
+        },
+        {
+          "de": "Wir sollten im Team feste Kommunikationsregeln festlegen.",
+          "ru": "Нам следует установить четкие правила коммуникации в команде."
+        },
+        {
+          "de": "Legen Sie bitte fest, wer die Aufgaben dokumentiert.",
+          "ru": "Определите, пожалуйста, кто будет документировать задачи."
+        }
+      ],
+      "synonyms": [
+        "abgrenzen",
+        "abstecken",
+        "bestimmen"
+      ],
+      "partizip_2": "gefestlegt",
+      "imperative": "festlege! / festlegt! / festlegen Sie!",
+      "conjugations": {
+        "ich": "festlege",
+        "du": "festlegst",
+        "er/sie/es": "festlegt",
+        "wir": "festlegen",
+        "ihr": "festlegt",
+        "sie/Sie": "festlegen"
+      },
+      "prepositions": [
+        "auf + Akkusativ (на чём-то / sich festlegen auf)"
+      ]
+    },
+    {
+      "word": "der Projektumfang, die Projektumfänge",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "объем проекта, рамки проекта",
+      "translation_en": "project scope",
+      "examples": [
+        {
+          "de": "Änderungen am Projektumfang erfordern eine formelle Genehmigung.",
+          "ru": "Изменения объема проекта требуют формального одобрения."
+        },
+        {
+          "de": "Wir müssen verhindern, dass der Projektumfang unkontrolliert wächst.",
+          "ru": "Мы должны предотвратить неконтролируемое расширение рамок проекта."
+        },
+        {
+          "de": "Der Projektumfang ist im Projektauftrag genau beschrieben.",
+          "ru": "Объем проекта точно описан в уставе проекта."
+        },
+        {
+          "de": "Gehört die Übersetzung der App ebenfalls zum Projektumfang?",
+          "ru": "Входит ли перевод приложения также в объем проекта?"
+        },
+        {
+          "de": "Eine Reduzierung des Projektumfangs hilft uns, den Zeitplan einzuhalten.",
+          "ru": "Сокращение объема проекта помогает нам уложиться в график."
+        }
+      ],
+      "synonyms": [
+        "Scope",
+        "Leistungsumfang",
+        "Projektvolumen"
+      ]
+    },
+    {
+      "word": "abstimmen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "согласовывать",
+      "translation_en": "to coordinate, to align",
+      "examples": [
+        {
+          "de": "Wir müssen die Details des Entwurfs mit dem Kunden abstimmen.",
+          "ru": "Мы должны согласовать детали проекта с клиентом."
+        },
+        {
+          "de": "Das Team muss seine Aufgaben untereinander abstimmen.",
+          "ru": "Команда должна согласовать свои задачи между собой."
+        },
+        {
+          "de": "Wir haben den Zeitplan mit den Abteilungsleitern abgestimmt.",
+          "ru": "Мы согласовали график с руководителями отделов."
+        },
+        {
+          "de": "Bitte stimmen Sie den Termin für das Kick-off-Meeting ab.",
+          "ru": "Пожалуйста, согласуйте дату проведения стартовой встречи."
+        },
+        {
+          "de": "Die Anforderungen wurden erfolgreich mit den Stakeholdern abgestimmt.",
+          "ru": "Требования были успешно согласованы со стейкхолдерами."
+        }
+      ],
+      "synonyms": [
+        "Abstimmung",
+        "Entscheidung",
+        "Urteilsfindung"
+      ],
+      "partizip_2": "abgestimmet",
+      "imperative": "stimme ab! / stimmet ab! / stimmen Sie ab!",
+      "conjugations": {
+        "ich": "stimme ab",
+        "du": "stimmest ab",
+        "er/sie/es": "stimmet ab",
+        "wir": "stimmen ab",
+        "ihr": "stimmet ab",
+        "sie/Sie": "stimmen ab"
+      },
+      "prepositions": [
+        "mit + Dativ (с кем-то)",
+        "über + Akkusativ (о чём-то)"
+      ]
+    },
+    {
+      "word": "die Absprache, die Absprachen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "договоренность, соглашение",
+      "translation_en": "agreement, arrangement",
+      "examples": [
+        {
+          "de": "Die Absprache über das Budget muss schriftlich erfolgen.",
+          "ru": "Договоренность о бюджете должна быть оформлена в письменном виде."
+        },
+        {
+          "de": "Nach Absprache mit dem Kunden haben wir die Prioritäten geändert.",
+          "ru": "По договоренности с клиентом мы изменили приоритеты."
+        },
+        {
+          "de": "Es gab keine klare Absprache über die Zuständigkeiten.",
+          "ru": "Не было четкой договоренности о сферах ответственности."
+        },
+        {
+          "de": "Wir halten uns strikt an die getroffenen Absprachen.",
+          "ru": "Мы строго придерживаемся достигнутых договоренностей."
+        },
+        {
+          "de": "In Absprache mit dem Entwicklerteam haben wir den Release-Termin verschoben.",
+          "ru": "По согласованию с командой разработчиков мы перенесли дату релиза."
+        }
+      ],
+      "synonyms": [
+        "Abstimmung",
+        "Koordination",
+        "Koordinierung"
+      ]
+    },
+    {
+      "word": "das Kick-off-Meeting, die Kick-off-Meetings",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "стартовое совещание, установочная встреча",
+      "translation_en": "kick-off meeting",
+      "examples": [
+        {
+          "de": "Das Kick-off-Meeting findet morgen um neun Uhr statt.",
+          "ru": "Стартовое совещание состоится завтра в девять часов."
+        },
+        {
+          "de": "Im Kick-off-Meeting lernen sich alle Teammitglieder kennen.",
+          "ru": "На установочной встрече все члены команды знакомятся друг с другом."
+        },
+        {
+          "de": "Wir nutzen das Kick-off-Meeting, um die Ziele zu erklären.",
+          "ru": "Мы используем стартовое совещание, чтобы объяснить цели."
+        },
+        {
+          "de": "Die Präsentation für das Kick-off-Meeting ist fast fertig.",
+          "ru": "Презентация для установочной встречи почти готова."
+        },
+        {
+          "de": "Nach dem Kick-off-Meeting beginnen wir sofort mit der Arbeit.",
+          "ru": "После стартового совещания мы сразу приступаем к работе."
+        }
+      ],
+      "synonyms": [
+        "Starttreffen",
+        "Auftaktveranstaltung",
+        "Kick-off"
+      ]
+    },
+    {
+      "word": "der Zeitplan, die Zeitpläne",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "график, календарный план",
+      "translation_en": "schedule, timeline",
+      "examples": [
+        {
+          "de": "Wir liegen gut im Zeitplan und haben keine Verzögerungen.",
+          "ru": "Мы идем по графику и у нас нет задержек."
+        },
+        {
+          "de": "Der Zeitplan für dieses Projekt ist sehr ehrgeizig.",
+          "ru": "График этого проекта очень амбициозен."
+        },
+        {
+          "de": "Wir müssen den Zeitplan anpassen, weil ein Mitarbeiter krank ist.",
+          "ru": "Нам нужно скорректировать график, потому что сотрудник заболел."
+        },
+        {
+          "de": "Wer überwacht die Einhaltung des Zeitplans?",
+          "ru": "Кто следит за соблюдением календарного плана?"
+        },
+        {
+          "de": "Der Zeitplan wurde dem Kunden gestern zur Freigabe geschickt.",
+          "ru": "График был отправлен клиенту вчера на согласование."
+        }
+      ],
+      "synonyms": [
+        "Terminkalender",
+        "Ablaufplan",
+        "Terminplan"
+      ]
+    },
+    {
+      "word": "die Ressource, die Ressourcen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "ресурс",
+      "translation_en": "resource",
+      "examples": [
+        {
+          "de": "Wir haben nicht genügend Ressourcen, um zwei Projekte gleichzeitig zu starten.",
+          "ru": "У нас недостаточно ресурсов, чтобы запустить два проекта одновременно."
+        },
+        {
+          "de": "Die personellen Ressourcen für das Projekt müssen aufgestockt werden.",
+          "ru": "Кадровые ресурсы для проекта необходимо увеличить."
+        },
+        {
+          "de": "Wir müssen die vorhandenen Ressourcen effizienter nutzen.",
+          "ru": "Мы должны более эффективно использовать имеющиеся ресурсы."
+        },
+        {
+          "de": "Wer plant die Ressourcen für den nächsten Sprint?",
+          "ru": "Кто планирует ресурсы на следующий спринт?"
+        },
+        {
+          "de": "Ein Mangel an Ressourcen verzögert die Entwicklung der Software.",
+          "ru": "Нехватка ресурсов задерживает разработку программного обеспечения."
+        }
+      ],
+      "synonyms": [
+        "Betriebsmittel",
+        "Hilfsmittel",
+        "Kapazitäten"
+      ]
+    },
+    {
+      "word": "die Budgetplanung, die Budgetplanungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "планирование бюджета",
+      "translation_en": "budget planning",
+      "examples": [
+        {
+          "de": "Die Budgetplanung für das kommende Jahr ist fast abgeschlossen.",
+          "ru": "Планирование бюджета на предстоящий год почти завершено."
+        },
+        {
+          "de": "Fehler bei der Budgetplanung können das gesamte Projekt gefährden.",
+          "ru": "Ошибки при планировании бюджета могут поставить под угрозу весь проект."
+        },
+        {
+          "de": "Der Projektleiter stellt die Budgetplanung im Meeting vor.",
+          "ru": "Руководитель проекта представляет планирование бюджета на собрании."
+        },
+        {
+          "de": "Wir müssen die Budgetplanung an die Inflation anpassen.",
+          "ru": "Мы должны скорректировать планирование бюджета с учетом инфляции."
+        },
+        {
+          "de": "Die Budgetplanung sieht eine Reserve für unvorhergeseene Kosten vor.",
+          "ru": "Планирование бюджета предусматривает резерв на непредвиденные расходы."
+        }
+      ],
+      "synonyms": [
+        "Kostenplanung",
+        "Finanzplanung"
+      ]
+    },
+    {
+      "word": "die Risikoanalyse, die Risikoanalysen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "анализ рисков",
+      "translation_en": "risk analysis, risk assessment",
+      "examples": [
+        {
+          "de": "Die Risikoanalyse hat mehrere kritische Punkte aufgedeckt.",
+          "ru": "Анализ рисков выявил несколько критических моментов."
+        },
+        {
+          "de": "Wir führen vor jedem Projektstart eine Risikoanalyse durch.",
+          "ru": "Мы проводим анализ рисков перед каждым стартом проекта."
+        },
+        {
+          "de": "Wer ist für die Aktualisierung der Risikoanalyse zuständig?",
+          "ru": "Кто отвечает за обновление анализа рисков?"
+        },
+        {
+          "de": "Die Risikoanalyse hilft uns, geeignete Gegenmaßnahmen zu planen.",
+          "ru": "Анализ рисков помогает нам спланировать соответствующие контрмеры."
+        },
+        {
+          "de": "Nach der Risikoanalyse haben wir den Projektplan angepasst.",
+          "ru": "После анализа рисков мы скорректировали план проекта."
+        }
+      ],
+      "synonyms": [
+        "Risikobewertung",
+        "Risikoprüfung",
+        "Gefahrenanalyse"
+      ]
+    },
+    {
+      "word": "die Priorität, die Prioritäten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "приоритет",
+      "translation_en": "priority",
+      "examples": [
+        {
+          "de": "Diese Aufgabe hat für unser Team die höchste Priorität.",
+          "ru": "Эта задача имеет наивысший приоритет для нашей команды."
+        },
+        {
+          "de": "Wir müssen die Prioritäten der offenen Tickets neu bewerten.",
+          "ru": "Мы должны переоценить приоритеты открытых заявок."
+        },
+        {
+          "de": "Die Zufriedenheit der Kunden hat oberste Priorität.",
+          "ru": "Удовлетворенность клиентов имеет первостепенный приоритет."
+        },
+        {
+          "de": "Welche Priorität hat das neue Feature für den Release?",
+          "ru": "Какой приоритет имеет новая функция для релиза?"
+        },
+        {
+          "de": "Wir haben die Prioritäten nach dem Gespräch mit dem Chef geändert.",
+          "ru": "Мы изменили приоритеты после разговора с начальником."
+        }
+      ],
+      "synonyms": [
+        "Vorrang",
+        "Dringlichkeit"
+      ]
+    },
+    {
+      "word": "priorisieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "расставлять приоритеты, приоритезировать",
+      "translation_en": "to prioritize",
+      "examples": [
+        {
+          "de": "Wir müssen die Anforderungen im Backlog dringend priorisieren.",
+          "ru": "Нам срочно нужно расставить приоритеты для требований в бэклоге."
+        },
+        {
+          "de": "Der Product Owner priorisiert die Aufgaben nach Geschäftswert.",
+          "ru": "Владелец продукта приоритезирует задачи в соответствии с бизнес-ценностью."
+        },
+        {
+          "de": "Kännen Sie helfen, diese Liste von Fehlern zu priorisieren?",
+          "ru": "Можете ли вы помочь расставить приоритеты в этом списке ошибок?"
+        },
+        {
+          "de": "Im Meeting haben wir die wichtigsten Meilensteine priorisiert.",
+          "ru": "На встрече мы приоритезировали важнейшие веhi."
+        },
+        {
+          "de": "Die Aufgaben wurden falsch priorisiert, was zu Verzögerungen führte.",
+          "ru": "Задачи были расставлены по приоритетам неправильно, что привело к задержкам."
+        }
+      ],
+      "synonyms": [
+        "Vorrang einräumen",
+        "vorziehen"
+      ],
+      "partizip_2": "priorisiert",
+      "imperative": "priorisiere! / priorisiert! / priorisieren Sie!",
+      "conjugations": {
+        "ich": "priorisiere",
+        "du": "priorisierst",
+        "er/sie/es": "priorisiert",
+        "wir": "priorisieren",
+        "ihr": "priorisiert",
+        "sie/Sie": "priorisieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Vorgabe, die Vorgaben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "предписание, директива, техническое требование",
+      "translation_en": "specification, guideline, default instruction",
+      "examples": [
+        {
+          "de": "Wir müssen uns an die Vorgaben des Kunden halten.",
+          "ru": "Мы должны придерживаться требований клиента."
+        },
+        {
+          "de": "Die gesetzlichen Vorgaben zum Datenschutz wurden beachtet.",
+          "ru": "Законодательные требования по защите данных были соблюдены."
+        },
+        {
+          "de": "Die Vorgabe für das Budget darf nicht überschritten werden.",
+          "ru": "Лимит бюджета не должен быть превысен."
+        },
+        {
+          "de": "Es gibt strenge Vorgaben für das Design der Benutzeroberfläche.",
+          "ru": "Существуют строгие требования к дизайну пользовательского интерфейса."
+        },
+        {
+          "de": "Welche Vorgaben haben wir für den Testprozess erhalten?",
+          "ru": "Какие требования мы получили для процесса тестирования?"
+        }
+      ],
+      "synonyms": [
+        "Richtlinie",
+        "Vorschrift",
+        "Anweisung"
+      ]
+    },
+    {
+      "word": "der Entwurf, die Entwürfe",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "черновик, проект, набросок",
+      "translation_en": "draft, design, outline",
+      "examples": [
+        {
+          "de": "Ich habe einen ersten Entwurf für den Projektplan erstellt.",
+          "ru": "Я подготовил первый черновик плана проекта."
+        },
+        {
+          "de": "Der Entwurf des Vertrags liegt dem Kunden zur Prüfung vor.",
+          "ru": "Проект договора находится у клиента на рассмотрении."
+        },
+        {
+          "de": "Gefällt Ihnen der Entwurf für das neue Logo der App?",
+          "ru": "Вам нравится эскиз нового логотипа приложения?"
+        },
+        {
+          "de": "Wir müssen den Entwurf noch einmal komplett überarbeiten.",
+          "ru": "Нам нужно еще раз полностью переработать черновик."
+        },
+        {
+          "de": "Der finale Entwurf wurde gestern vom Designer freigegeben.",
+          "ru": "Финальный макет был утвержден дизайнером вчера."
+        }
+      ],
+      "synonyms": [
+        "Konzept",
+        "Skizze",
+        "Vorlage"
+      ]
+    },
+    {
+      "word": "entwerfen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "проектировать, разрабатывать, делать набросок",
+      "translation_en": "to design, to draft",
+      "examples": [
+        {
+          "de": "Wir entwerfen derzeit die Architektur der neuen Datenbank.",
+          "ru": "В настоящее время мы проектируем архитектуру новой базы данных."
+        },
+        {
+          "de": "Wer hat diese Benutzeroberfläche entworfen?",
+          "ru": "Кто разработал этот пользовательский интерфейс?"
+        },
+        {
+          "de": "Sie entwirft einen neuen Ablaufplan für die Produktion.",
+          "ru": "Она разрабатывает новую схему технологического процесса для производства."
+        },
+        {
+          "de": "Das Team hat ein Konzept für die Werbekampagne entworfen.",
+          "ru": "Команда разработала концепцию рекламной кампании."
+        },
+        {
+          "de": "Wir müssen einen Notfallplan für Systemausfälle entwerfen.",
+          "ru": "Мы должны разработать аварийный план на случай сбоев системы."
+        }
+      ],
+      "synonyms": [
+        "ausarbeiten",
+        "entwickeln",
+        "erarbeiten"
+      ],
+      "partizip_2": "entworfen",
+      "imperative": "entwirf! / entwerft! / entwerfen Sie!",
+      "conjugations": {
+        "ich": "entwerfe",
+        "du": "entwirfst",
+        "er/sie/es": "entwirft",
+        "wir": "entwerfen",
+        "ihr": "entwerft",
+        "sie/Sie": "entwerfen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "einteilen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "распределять, делить",
+      "translation_en": "to allocate, to divide, to budget",
+      "examples": [
+        {
+          "de": "Wir müssen das Budget für das gesamte Jahr klug einteilen.",
+          "ru": "Мы должны разумно распределить бюджет на весь год."
+        },
+        {
+          "de": "Der Projektleiter teilt die Aufgaben auf die Teammitglieder ein.",
+          "ru": "Руководитель проекта распределяет задачи между членами команды."
+        },
+        {
+          "de": "Wir sollten unsere Zeit im Sprint besser einteilen.",
+          "ru": "Нам следует лучше планировать свое время в спринте."
+        },
+        {
+          "de": "Wie wollen wir die Entwickler in Teams einteilen?",
+          "ru": "Как мы хотим распределить разработчиков по командам?"
+        },
+        {
+          "de": "Die Ressourcen wurden ungleichmäßig eingeteilt.",
+          "ru": "Ресурсы были распределены неравномерно."
+        }
+      ],
+      "synonyms": [
+        "aufteilen",
+        "einordnen",
+        "kategorisieren"
+      ],
+      "partizip_2": "eingeteilt",
+      "imperative": "teile ein! / teilt ein! / teilen Sie ein!",
+      "conjugations": {
+        "ich": "teile ein",
+        "du": "teilst ein",
+        "er/sie/es": "teilt ein",
+        "wir": "teilen ein",
+        "ihr": "teilt ein",
+        "sie/Sie": "teilen ein"
+      },
+      "prepositions": [
+        "in + Akkusativ (на части/фазы)",
+        "für + Akkusativ (для выполнения чего-то)"
+      ]
+    },
+    {
+      "word": "der Ist-Zustand, die Ist-Zustände",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "фактическое состояние, текущее состояние",
+      "translation_en": "current state, actual state",
+      "examples": [
+        {
+          "de": "Vor der Planung müssen wir den Ist-Zustand genau analysieren.",
+          "ru": "Перед планированием мы должны точно проанализировать текущее состояние."
+        },
+        {
+          "de": "Der Ist-Zustand weicht stark von unseren Erwartungen ab.",
+          "ru": "Фактическое состояние сильно отличается от наших ожиданий."
+        },
+        {
+          "de": "Eine Dokumentation des Ist-Zustands ist für das Audit erforderlich.",
+          "ru": "Для аудита требуется документирование текущего состояния."
+        },
+        {
+          "de": "Wir vergleichen den Ist-Zustand regelmäßig mit dem Soll-Zustand.",
+          "ru": "Мы регулярно сравниваем фактическое состояние с целевым."
+        },
+        {
+          "de": "Der Ist-Zustand der IT-Infrastruktur ist unzureichend.",
+          "ru": "Текущее состояние ИТ-инфраструктуры является неудовлетворительным."
+        }
+      ],
+      "synonyms": [
+        "Ausgangslage",
+        "Ist-Situation",
+        "Status quo"
+      ]
+    },
+    {
+      "word": "der Soll-Zustand, die Soll-Zustände",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "целевое состояние, планируемое состояние",
+      "translation_en": "target state, desired state",
+      "examples": [
+        {
+          "de": "Wir definieren den Soll-Zustand für das neue System.",
+          "ru": "Мы определяем целевое состояние для новой системы."
+        },
+        {
+          "de": "Der Soll-Zustand beschreibt, wie die Prozesse nach dem Projekt aussehen sollen.",
+          "ru": "Целевое состояние описывает, как должны выглядеть процессы после проекта."
+        },
+        {
+          "de": "Haben wir den Soll-Zustand mit dem Kunden abgestimmt?",
+          "ru": "Согласовали ли мы целевое состояние с клиентом?"
+        },
+        {
+          "de": "Um den Soll-Zustand zu erreichen, müssen wir das System upgraden.",
+          "ru": "Чтобы достичь целевого состояния, нам необходимо обновить систему."
+        },
+        {
+          "de": "Der Soll-Zustand wurde im Pflichtenheft detailliert festgehalten.",
+          "ru": "Целевое состояние было подробно зафиксировано в техническом задании."
+        }
+      ],
+      "synonyms": [
+        "Zielzustand",
+        "Soll-Situation",
+        "Soll-Vorgabe"
+      ]
+    },
+    {
+      "word": "die Erwartung, die Erwartungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "ожидание",
+      "translation_en": "expectation",
+      "examples": [
+        {
+          "de": "Wir müssen die Erwartungen der Kunden von Anfang an steuern.",
+          "ru": "Мы должны управлять ожиданиями клиентов с самого начала."
+        },
+        {
+          "de": "Das neue Produkt hat die Erwartungen der Nutzer übertroffen.",
+          "ru": "Новый продукт превзошел ожидания пользователей."
+        },
+        {
+          "de": "Unsere Erwartungen an den neuen Partner sind sehr hoch.",
+          "ru": "Наши ожидания от нового партнера очень высоки."
+        },
+        {
+          "de": "Entsprechen die Testergebnisse den Erwartungen des Teams?",
+          "ru": "Соответствуют ли результаты тестирования ожиданиям команды?"
+        },
+        {
+          "de": "Wir klären die gegenseitigen Erwartungen im Kick-off-Meeting.",
+          "ru": "Мы проясняем взаимные ожидания на стартовой встрече."
+        }
+      ],
+      "synonyms": [
+        "Anforderung",
+        "Hoffnung",
+        "Aussicht"
+      ]
+    },
+    {
+      "word": "die Stakeholder-Analyse, die Stakeholder-Analysen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "анализ заинтересованных сторон, анализ стейкхолдеров",
+      "translation_en": "stakeholder analysis",
+      "examples": [
+        {
+          "de": "Die Stakeholder-Analyse zeigt, wer das Projekt blockieren könnte.",
+          "ru": "Анализ стейкхолдеров показывает, кто может заблокировать проект."
+        },
+        {
+          "de": "Wir erstellen eine Stakeholder-Analyse in der Initiierungsphase.",
+          "ru": "Мы составляем анализ стейкхолдеров на этапе инициирования."
+        },
+        {
+          "de": "Die Ergebnisse der Stakeholder-Analyse beeinflussen unsere Kommunikationsstrategie.",
+          "ru": "Результаты анализа стейкхолдеров влияют на нашу коммуникационную стратегию."
+        },
+        {
+          "de": "Eine gründliche Stakeholder-Analyse minimiert politische Risiken im Projekt.",
+          "ru": "Тщательный анализ стейкхолдеров минимизирует политические риски в проекте."
+        },
+        {
+          "de": "Wer aktualisiert die Stakeholder-Analyse für das nächste Statusmeeting?",
+          "ru": "Кто обновит анализ стейкхолдеров для следующего совещания по статусу?"
+        }
+      ],
+      "synonyms": [
+        "Umfeldanalyse",
+        "Beteiligtenanalyse"
+      ]
+    },
+    {
+      "word": "das Lastenheft, die Lastenhefte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "требования заказчика, спецификация требований (от клиента)",
+      "translation_en": "user requirement specification (URS), product requirement document (PRD)",
+      "examples": [
+        {
+          "de": "Der Kunde hat uns das Lastenheft für das neue Portal geschickt.",
+          "ru": "Клиент прислал нам спецификацию требований для нового портала."
+        },
+        {
+          "de": "Im Lastenheft beschreibt der Auftraggeber seine Anforderungen.",
+          "ru": "В требованиях заказчика заказчик описывает свои требования."
+        },
+        {
+          "de": "Wir müssen das Lastenheft analysieren, um ein Angebot zu erstellen.",
+          "ru": "Мы должны проанализировать спецификацию требований, чтобы составить коммерческое предложение."
+        },
+        {
+          "de": "Enthält das Lastenheft alle notwendigen Informationen?",
+          "ru": "Содержит ли спецификация требований всю необходимую информацию?"
+        },
+        {
+          "de": "Das Lastenheft bildet die Grundlage für das Pflichtenheft.",
+          "ru": "Требования заказчика служат основой для технического задания исполнителя."
+        }
+      ],
+      "synonyms": [
+        "Anforderungskatalog",
+        "Nutzeranforderungen"
+      ]
+    },
+    {
+      "word": "das Pflichtenheft, die Pflichtenhefte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "техническое задание (ТЗ) исполнителя, спецификация реализации",
+      "translation_en": "functional specification document, system requirement specification (SRS)",
+      "examples": [
+        {
+          "de": "Wir schreiben gerade das Pflichtenheft für die Softwareentwicklung.",
+          "ru": "Мы сейчас пишем техническое задание для разработки программного обеспечения."
+        },
+        {
+          "de": "Das Pflichtenheft beschreibt, wie wir die Anforderungen des Kunden umsetzen.",
+          "ru": "ТЗ исполнителя описывает, как мы реализуем требования клиента."
+        },
+        {
+          "de": "Nach der Freigabe des Pflichtenhefts beginnt die Implementierung.",
+          "ru": "После согласования ТЗ исполнителя начинается внедрение."
+        },
+        {
+          "de": "Das Pflichtenheft ist Teil des Vertrages mit dem Dienstleister.",
+          "ru": "Техническое задание является частью договора с поставщиком услуг."
+        },
+        {
+          "de": "Der Kunde muss das Pflichtenheft vor dem Projektstart abzeichnen.",
+          "ru": "Клиент должен подписать техническое задание перед стартом проекта."
+        }
+      ],
+      "synonyms": [
+        "Fachspezifikation",
+        "Realisierungskonzept"
+      ]
+    },
+    {
+      "word": "die Zielgruppe, die Zielgruppen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "целевая группа, целевая аудитория",
+      "translation_en": "target audience, target group",
+      "examples": [
+        {
+          "de": "Unsere primäre Zielgruppe sind junge Berufstätige.",
+          "ru": "Наша основная целевая аудитория — молодые специалисты."
+        },
+        {
+          "de": "Wir müssen die Bedürfnisse der Zielgruppe besser verstehen.",
+          "ru": "Мы должны лучше понимать потребности целевой аудитории."
+        },
+        {
+          "de": "Das Design der App wurde für eine ältere Zielgruppe optimiert.",
+          "ru": "Дизайн приложения был оптимизирован для более пожилой целевой аудитории."
+        },
+        {
+          "de": "Entspricht diese Funktion den Wünschen der Zielgruppe?",
+          "ru": "Соответствует ли эта функция пожеланиям целевой группы?"
+        },
+        {
+          "de": "Die Zielgruppe reagiert sehr positiv auf die neue Benutzeroberfläche.",
+          "ru": "Целевая аудитория очень позитивно реагирует на новый пользовательский интерфейс."
+        }
+      ],
+      "synonyms": [
+        "Zielkreis",
+        "Käuferkreis"
+      ]
+    },
+    {
+      "word": "initiieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "инициировать, положить начало",
+      "translation_en": "to initiate, to launch",
+      "examples": [
+        {
+          "de": "Der Geschäftsführer hat ein neues Projekt zur Digitalisierung initiiert.",
+          "ru": "Генеральный директор инициировал новый проект по цифровизации."
+        },
+        {
+          "de": "Wir wollen einen Prozess zur Qualitätsverbesserung initiieren.",
+          "ru": "Мы хотим инициировать процесс улучшения качества."
+        },
+        {
+          "de": "Die Abteilung Marketing initiierte die Marktforschungskampagne.",
+          "ru": "Отдел маркетинга инициировал кампанию по исследованию рынка."
+        },
+        {
+          "de": "Wer hat das Projekt zur Kosteneinsparung initiiert?",
+          "ru": "Кто инициировал проект по экономии затрат?"
+        },
+        {
+          "de": "Neue Richtlinien wurden initiiert, um die Sicherheit zu erhöhen.",
+          "ru": "Были инициированы новые директивы для повышения безопасности."
+        }
+      ],
+      "synonyms": [
+        "ankurbeln",
+        "entstehen lassen",
+        "Initiator sein"
+      ],
+      "partizip_2": "initiiert",
+      "imperative": "initiiere! / initiiert! / initiieren Sie!",
+      "conjugations": {
+        "ich": "initiiere",
+        "du": "initiierst",
+        "er/sie/es": "initiiert",
+        "wir": "initiieren",
+        "ihr": "initiiert",
+        "sie/Sie": "initiieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "genehmigen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "утверждать, одобрять",
+      "translation_en": "to approve, to authorize",
+      "examples": [
+        {
+          "de": "Der Vorstand muss das Budget für das Großprojekt genehmigen.",
+          "ru": "Правление должно утвердить бюджет для крупного проекта."
+        },
+        {
+          "de": "Das zusätzliche Personal wurde gestern vom HR-Manager genehmigt.",
+          "ru": "Дополнительный персонал был одобрен вчера менеджером по персоналу."
+        },
+        {
+          "de": "Der Projektleiter kann Ausgaben bis zu 5000 Euro selbst genehmigen.",
+          "ru": "Руководитель проекта может сам одобрять расходы на сумму до 5000 евро."
+        },
+        {
+          "de": "Wurde der geänderte Zeitplan bereits vom Kunden genehmigt?",
+          "ru": "Был ли измененный график уже утвержден клиентом?"
+        },
+        {
+          "de": "Wir dürfen keine Arbeiten beginnen, bevor das Projekt genehmigt ist.",
+          "ru": "Мы не имеем права начинать какие-либо работы до того, как проект будет утвержден."
+        }
+      ],
+      "synonyms": [
+        "absegnen",
+        "billigen",
+        "einwilligen"
+      ],
+      "partizip_2": "genehmigt",
+      "imperative": "genehmige! / genehmigt! / genehmigen Sie!",
+      "conjugations": {
+        "ich": "genehmige",
+        "du": "genehmigst",
+        "er/sie/es": "genehmigt",
+        "wir": "genehmigen",
+        "ihr": "genehmigt",
+        "sie/Sie": "genehmigen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Genehmigung, die Genehmigungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "разрешение, утверждение, одобрение",
+      "translation_en": "approval, authorization, permission",
+      "examples": [
+        {
+          "de": "Wir warten noch auf die schriftliche Genehmigung des Kunden.",
+          "ru": "Мы все еще ждем письменного одобрения клиента."
+        },
+        {
+          "de": "Ohne Genehmigung dürfen wir das Projektbudget nicht überschreiten.",
+          "ru": "Без разрешения мы не можем превышать бюджет проекта."
+        },
+        {
+          "de": "Die Genehmigung des Projektauftrags dauerte drei Wochen.",
+          "ru": "Утверждение устава проекта заняло три недели."
+        },
+        {
+          "de": "Wer erteilt die Genehmigung für Überstunden im Team?",
+          "ru": "Кто выдает разрешение на сверхурочную работу в команде?"
+        },
+        {
+          "de": "Nach Erhalt der Genehmigung haben wir mit dem Bau begonnen.",
+          "ru": "После получения разрешения мы начали строительство."
+        }
+      ],
+      "synonyms": [
+        "Erlaubnis",
+        "Freigabe",
+        "Zulassung"
+      ]
+    },
+    {
+      "word": "das Mandat, die Mandate",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "полномочия, мандат, поручение",
+      "translation_en": "mandate, commission",
+      "examples": [
+        {
+          "de": "Der Projektleiter hat das Mandat erhalten, Verhandlungen zu führen.",
+          "ru": "Руководитель проекта получил полномочия вести переговоры."
+        },
+        {
+          "de": "Unser Mandat beschränkt sich auf die Planungsphase des Projekts.",
+          "ru": "Наши полномочия ограничиваются этапом планирования проекта."
+        },
+        {
+          "de": "Wer hat Ihnen das Mandat für diese weitreichenden Entscheidungen gegeben?",
+          "ru": "Кто дал вам полномочия на принятие таких далеко идущих решений?"
+        },
+        {
+          "de": "Das Mandat für die Beratung wurde um sechs Monate verlängert.",
+          "ru": "Мандат на консультирование был продлен на шесть месяцев."
+        },
+        {
+          "de": "Das Team arbeitet im Rahmen des erteilten Mandats.",
+          "ru": "Команда работает в рамках предоставленных полномочий."
+        }
+      ],
+      "synonyms": [
+        "Auftrag",
+        "Vollmacht",
+        "Befugnis"
+      ]
+    },
+    {
+      "word": "der Projektleiter, die Projektleiter",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "руководитель проекта, проджект-менеджер",
+      "translation_en": "project manager, project leader",
+      "examples": [
+        {
+          "de": "Der Projektleiter koordiniert die Aufgaben der Entwickler.",
+          "ru": "Руководитель проекта координирует задачи разработчиков."
+        },
+        {
+          "de": "Bei Fragen zum Budget wenden Sie sich bitte an den Projektleiter.",
+          "ru": "По вопросам бюджета обращайтесь, пожалуйста, к руководителю проекта."
+        },
+        {
+          "de": "Unser Projektleiter hat viel Erfahrung im agilen Management.",
+          "ru": "У нашего руководителя проекта большой опыт в гибком управлении."
+        },
+        {
+          "de": "Der Projektleiter stellt wöchentlich den Statusbericht vor.",
+          "ru": "Руководитель проекта еженедельно представляет отчет о статусе."
+        },
+        {
+          "de": "Wer wird der neue Projektleiter für das IT-Migrationsprojekt?",
+          "ru": "Кто станет новым руководителем проекта по миграции ИТ-систем?"
+        }
+      ],
+      "synonyms": [
+        "Projektmanager",
+        "Projektführung",
+        "Projektleitung"
+      ]
+    },
+    {
+      "word": "die Meilensteinplanung, die Meilensteinplanungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "планирование по вехам, planning контрольных точек",
+      "translation_en": "milestone planning",
+      "examples": [
+        {
+          "de": "Die Meilensteinplanung gibt uns eine grobe Orientierung im Projekt.",
+          "ru": "Планирование по вехам дает нам общую ориентировку в проекте."
+        },
+        {
+          "de": "Wir überprüfen die Meilensteinplanung in jedem Statusmeeting.",
+          "ru": "Мы проверяем планирование по вехам на каждом совещании по статусу."
+        },
+        {
+          "de": "Die Meilensteinplanung wurde mit dem Kunden detailliert abgestimmt.",
+          "ru": "Планирование контрольных точек было детально согласовано с клиентом."
+        },
+        {
+          "de": "Eine realistische Meilensteinplanung verhindert unnötigen Zeitdruck.",
+          "ru": "Реалистичное планирование по вехам предотвращает ненужную нехватку времени."
+        },
+        {
+          "de": "In der Meilensteinplanung sind alle Abgabetermine farblich markiert.",
+          "ru": "В планировании вех все сроки сдачи выделены цветом."
+        }
+      ],
+      "synonyms": [
+        "Etappenplanung",
+        "Phasenplanung"
+      ]
+    },
+    {
+      "word": "die Strategie, die Strategien",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "стратегия",
+      "translation_en": "strategy",
+      "examples": [
+        {
+          "de": "Unsere Strategie zielt auf ein schnelles Wachstum am Markt ab.",
+          "ru": "Наша стратегия нацелена на быстрый рост на рынке."
+        },
+        {
+          "de": "Wir müssen eine neue Strategie für die Kundenkommunikation entwickeln.",
+          "ru": "Мы должны разработать новую стратегию для коммуникации с клиентами."
+        },
+        {
+          "de": "Passt das Projekt zur langfristigen Strategie des Unternehmens?",
+          "ru": "Соответствует ли проект долгосрочной стратегии компании?"
+        },
+        {
+          "de": "Die Strategie wurde vom Vorstand verabschiedet.",
+          "ru": "Стратегия была принята правлением."
+        },
+        {
+          "de": "Mit dieser Strategie können wir die Risiken erheblich reduzieren.",
+          "ru": "С помощью этой стратегии мы можем значительно снизить риски."
+        }
+      ],
+      "synonyms": [
+        "Konzept",
+        "Vorgehensweise",
+        "Plan"
+      ]
+    },
+    {
+      "word": "strategisch",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "стратегический",
+      "translation_en": "strategic",
+      "examples": [
+        {
+          "de": "Diese Entscheidung hat eine große strategische Bedeutung für uns.",
+          "ru": "Это решение имеет для нас большое стратегическое значение."
+        },
+        {
+          "de": "Wir müssen strategische Partnerschaften aufbauen, um das Projekt zu sichern.",
+          "ru": "Мы должны выстраивать стратегические партнерства, чтобы обезопасить проект."
+        },
+        {
+          "de": "Der Projektleiter denkt sehr strategisch und zukunftsorientiert.",
+          "ru": "Руководитель проекта мыслит очень стратегически и ориентирован на будущее."
+        },
+        {
+          "de": "Die strategischen Ziele des Projekts wurden im Kick-off-Meeting erklärt.",
+          "ru": "Стратегические цели проекта были разъяснены на стартовой встрече."
+        },
+        {
+          "de": "Das Unternehmen investiert in strategische IT-Projekte.",
+          "ru": "Компания инвестирует в стратегические ИТ-проекты."
+        }
+      ],
+      "synonyms": [
+        "wohlüberlegt",
+        "besonnen",
+        "mit Bedacht"
+      ]
+    },
+    {
+      "word": "messbar",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "измеримый",
+      "translation_en": "measurable",
+      "examples": [
+        {
+          "de": "Die Ziele des Projekts müssen messbar formuliert sein.",
+          "ru": "Цели проекта должны быть сформулированы в измеримом виде."
+        },
+        {
+          "de": "Haben wir messbare Kriterien für den Erfolg der Kampagne?",
+          "ru": "Есть ли у нас измеримые критерии успеха кампании?"
+        },
+        {
+          "de": "Die Qualitätsverbesserung ist durch die neuen Metriken messbar.",
+          "ru": "Улучшение качества измеримо благодаря новым метрикам."
+        },
+        {
+          "de": "Ein messbarer Erfolg motiviert das Projektteam ungemein.",
+          "ru": "Измеримый успех невероятно мотивирует команду проекта."
+        },
+        {
+          "de": "Wir wollen den Nutzen des neuen Tools messbar machen.",
+          "ru": "Мы хотим сделать пользу от нового инструмента измеримой."
+        }
+      ],
+      "synonyms": [
+        "bestimmbar",
+        "erhebbar",
+        "mensurabel"
+      ]
+    },
+    {
+      "word": "realistisch",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "реалистичный",
+      "translation_en": "realistic",
+      "examples": [
+        {
+          "de": "Ist der Zeitplan für das Projekt wirklich realistisch?",
+          "ru": "Является ли график проекта действительно реалистичным?"
+        },
+        {
+          "de": "Wir müssen eine realistische Einschätzung der Risiken abgeben.",
+          "ru": "Мы должны дать реалистичную оценку рисков."
+        },
+        {
+          "de": "Es ist wichtig, dem Kunden gegenüber realistische Termine zu nennen.",
+          "ru": "Важно называть клиенту реалистичные сроки."
+        },
+        {
+          "de": "Unter den aktuellen Bedingungen ist dieses Ziel nicht realistisch.",
+          "ru": "В текущих условиях эта цель не является реалистичной."
+        },
+        {
+          "de": "Die Budgetplanung sieht realistisch aus und deckt alle Kosten ab.",
+          "ru": "Планирование бюджета выглядит реалистичным и покрывает все расходы."
+        }
+      ],
+      "synonyms": [
+        "aufgeklärt",
+        "vorurteilsfrei",
+        "lebensecht"
+      ]
+    },
+    {
+      "word": "die Strukturierung, die Strukturierungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "структурирование, структуризация",
+      "translation_en": "structuring",
+      "examples": [
+        {
+          "de": "Die Strukturierung der Aufgaben erfolgt über einen Projektstrukturplan.",
+          "ru": "Структурирование задач происходит с помощью иерархической структуры работ (ИСР)."
+        },
+        {
+          "de": "Eine klare Strukturierung des Projekts erleichtert die Kommunikation.",
+          "ru": "Четкое структурирование проекта облегчает коммуникацию."
+        },
+        {
+          "de": "Wer übernimmt die Strukturierung der Dokumente im Wiki?",
+          "ru": "Кто возьмет на себя структурирование документов в Вики?"
+        },
+        {
+          "de": "Die Strukturierung der Testfälle spart uns viel Zeit bei der Qualitätskontrolle.",
+          "ru": "Структурирование тест-кейсов экономит нам много времени при контроле качества."
+        },
+        {
+          "de": "Wir arbeiten noch an der Strukturierung des Projektteams.",
+          "ru": "Мы все еще работаем над структурированием проектной команды."
+        }
+      ],
+      "synonyms": [
+        "Gliederung",
+        "Organisation",
+        "Systematisierung"
+      ]
+    },
+    {
+      "word": "gliedern",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "структурировать, делить, подразделять",
+      "translation_en": "to structure, to subdivide, to organize",
+      "examples": [
+        {
+          "de": "Wir gliedern das Projekt in fünf Hauptphasen.",
+          "ru": "Мы делим проект на пять основных этапов."
+        },
+        {
+          "de": "Wie wollen wir die Anforderungen im Pflichtenheft gliedern?",
+          "ru": "Как мы хотим структурировать требования в техническом задании?"
+        },
+        {
+          "de": "Der Projektstrukturplan gliedert alle Aufgaben hierarchisch.",
+          "ru": "Иерархическая структура работ структурирует все задачи иерархически."
+        },
+        {
+          "de": "Bitte gliedern Sie Ihren Vortrag in drei logische Teile.",
+          "ru": "Пожалуйста, подразделите свое выступление на три логические части."
+        },
+        {
+          "de": "Das Team gliederte die Daten nach Priorität und Relevanz.",
+          "ru": "Команда структурировала данные по приоритету и релевантности."
+        }
+      ],
+      "synonyms": [
+        "ordnen",
+        "anlegen",
+        "anordnen"
+      ],
+      "partizip_2": "gegliedert",
+      "imperative": "gliedere! / gliedert! / gliedern Sie!",
+      "conjugations": {
+        "ich": "gliedere",
+        "du": "gliederst",
+        "er/sie/es": "gliedert",
+        "wir": "gliedern",
+        "ihr": "gliedert",
+        "sie/Sie": "gliedern"
+      },
+      "prepositions": [
+        "in + Akkusativ (на части/фазы)"
+      ]
+    },
+    {
+      "word": "die Zielvereinbarung, die Zielvereinbarungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "соглашение о целях",
+      "translation_en": "target agreement, agreement on objectives",
+      "examples": [
+        {
+          "de": "Die Zielvereinbarung wurde vom Projektleiter und vom Kunden unterzeichnet.",
+          "ru": "Соглашение о целях было подписано руководителем проекта и клиентом."
+        },
+        {
+          "de": "Eine Zielvereinbarung spornt die Teammitglieder zu besseren Leistungen an.",
+          "ru": "Соглашение о целях стимулирует членов команды к лучшим результатам."
+        },
+        {
+          "de": "Wir überprüfen die Einhaltung der Zielvereinbarung am Jahresende.",
+          "ru": "Мы проверяем соблюдение соглашения о целях в конце года."
+        },
+        {
+          "de": "In der Zielvereinbarung sind auch persönliche Entwicklungsziele enthalten.",
+          "ru": "В соглашение о целях также включены личные цели развития."
+        },
+        {
+          "de": "Vor Projektstart müssen wir die Zielvereinbarung finalisieren.",
+          "ru": "Перед стартом проекта мы должны доработать соглашение о целях."
+        }
+      ],
+      "synonyms": [
+        "Zielabkommen",
+        "Leistungsvereinbarung"
+      ]
+    },
+    {
+      "word": "der Projektsteckbrief, die Projektsteckbriefe",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "краткое описание проекта, резюме проекта",
+      "translation_en": "project profile, project brief, project onepager",
+      "examples": [
+        {
+          "de": "Der Projektsteckbrief enthält alle wichtigen Rahmendaten auf einer Seite.",
+          "ru": "Паспорт проекта содержит все важные рамочные данные на одной странице."
+        },
+        {
+          "de": "Wir müssen den Projektsteckbrief für die Präsentation im Management vorbereiten.",
+          "ru": "Мы должны подготовить паспорт проекта для презентации руководству."
+        },
+        {
+          "de": "Wer hat den Projektsteckbrief für das neue IT-Projekt verfasst?",
+          "ru": "Кто составил паспорт нового ИТ-проекта?"
+        },
+        {
+          "de": "Der Projektsteckbrief hilft neuen Teammitgliedern, sich schnell einzulesen.",
+          "ru": "Паспорт проекта помогает новым членам команды быстро войти в курс дела."
+        },
+        {
+          "de": "Bitte aktualisieren Sie die Kontaktdaten im Projektsteckbrief.",
+          "ru": "Пожалуйста, обновите контактные данные в паспорте проекта."
+        }
+      ],
+      "synonyms": [
+        "Projektskizze",
+        "Projektübersicht"
+      ]
+    },
+    {
+      "word": "in Abstimmung mit",
+      "part_of_speech": "Preposition/Phrase",
+      "level": "B2",
+      "translation_ru": "по согласованию с, по соглашению с",
+      "translation_en": "in coordination with, in consultation with",
+      "examples": [
+        {
+          "de": "Das Konzept wurde in Abstimmung mit der IT-Abteilung entwickelt.",
+          "ru": "Концепция была разработана по согласованию с ИТ-отделом."
+        },
+        {
+          "de": "In Abstimmung mit dem Kunden haben wir den Zeitplan angepasst.",
+          "ru": "По согласованию с клиентом мы скорректировали график."
+        },
+        {
+          "de": "Die Pressemitteilung wird in Abstimmung mit dem Vorstand veröffentlicht.",
+          "ru": "Пресс-релиз публикуется по согласованию с правлением."
+        },
+        {
+          "de": "Das Team arbeitet in Abstimmung mit externen Beratern.",
+          "ru": "Команда работает в координации с внешними консультантами."
+        },
+        {
+          "de": "In Abstimmung mit dem Teamleiter wurden neue Aufgaben verteilt.",
+          "ru": "По согласованию с руководителем команды были распределены новые задачи."
+        }
+      ],
+      "synonyms": []
+    }
+  ]
+}

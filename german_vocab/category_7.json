@@ -1,0 +1,1412 @@
+{
+  "category": "Erweiterter PM-Wortschatz",
+  "words": [
+    {
+      "word": "das Arbeitspaket, die Arbeitspakete",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "рабочий пакет, пакет работ",
+      "translation_en": "work package",
+      "examples": [
+        {
+          "de": "Jedes Arbeitspaket muss eine klare Beschreibung und ein definiertes Ziel haben.",
+          "ru": "Каждый рабочий пакет должен иметь четкое описание и определенную цель."
+        },
+        {
+          "de": "Der Projektleiter wies dem Team das neue Arbeitspaket zu.",
+          "ru": "Руководитель проекта назначил команде новый рабочий пакет."
+        },
+        {
+          "de": "Wir müssen die Arbeitspakete für die nächste Phase genauer beschreiben.",
+          "ru": "Мы должны более подробно описать рабочие пакеты для следующего этапа."
+        },
+        {
+          "de": "Die Fertigstellung dieses Arbeitspakets hat höchste Priorität.",
+          "ru": "Завершение этого рабочего пакета имеет наивысший приоритет."
+        },
+        {
+          "de": "Jedes Teammitglied ist für ein bestimmtes Arbeitspaket verantwortlich.",
+          "ru": "Каждый член команды отвечает за определенный пакет работ."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Basisplan, die Basispläne",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "базовый план",
+      "translation_en": "baseline, base plan",
+      "examples": [
+        {
+          "de": "Wir vergleichen den aktuellen Fortschritt mit dem Basisplan.",
+          "ru": "Мы сравниваем текущий прогресс с базовым планом."
+        },
+        {
+          "de": "Der Basisplan wurde nach der Genehmigung des Budgets eingefroren.",
+          "ru": "Базовый план был заморожен после утверждения бюджета."
+        },
+        {
+          "de": "Jede Änderung am Projekt muss mit dem Basisplan abgestimmt werden.",
+          "ru": "Любое изменение в проекте должно быть согласовано с базовым планом."
+        },
+        {
+          "de": "Wir liegen leicht hinter dem Basisplan zurück.",
+          "ru": "Мы немного отстаем от базового плана."
+        },
+        {
+          "de": "Der Lenkungsausschuss muss Änderungen am Basisplan genehmigen.",
+          "ru": "Руководящий комитет должен утверждать изменения в базовом плане."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Berichterstattung, die Berichterstattungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "отчетность, предоставление отчетов",
+      "translation_en": "reporting",
+      "examples": [
+        {
+          "de": "Die wöchentliche Berichterstattung an den Kunden ist obligatorisch.",
+          "ru": "Еженедельная отчетность перед клиентом является обязательной."
+        },
+        {
+          "de": "Wir haben den Prozess der Berichterstattung automatisiert.",
+          "ru": "Мы автоматизировали процесс предоставления отчетности."
+        },
+        {
+          "de": "Eine transparente Berichterstattung schafft Vertrauen bei den Stakeholdern.",
+          "ru": "Прозрачная отчетность создает доверие у стейкхолдеров."
+        },
+        {
+          "de": "Wer übernimmt die Berichterstattung für dieses Teilprojekt?",
+          "ru": "Кто берет на себя подготовку отчетности по этому подпроекту?"
+        },
+        {
+          "de": "Die Berichterstattung erfolgt direkt über das Projektmanagement-Tool.",
+          "ru": "Предоставление отчетности происходит напрямую через инструмент управления проектами."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Dokumentation, die Dokumentationen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "документация",
+      "translation_en": "documentation",
+      "examples": [
+        {
+          "de": "Eine gute Dokumentation ist für den Projekterfolg unerlässlich.",
+          "ru": "Хорошая документация имеет важное значение для успеха проекта."
+        },
+        {
+          "de": "Bitte vervollständigen Sie die Dokumentation der Software-Architektur.",
+          "ru": "Пожалуйста, завершите документацию по архитектуре программного обеспечения."
+        },
+        {
+          "de": "Die Dokumentation muss für alle Teammitglieder zugänglich sein.",
+          "ru": "Документация должна быть доступна для всех членов команды."
+        },
+        {
+          "de": "Wir haben die gesamte Projektdokumentation im Wiki abgelegt.",
+          "ru": "Мы сохранили всю проектную документацию в Вики."
+        },
+        {
+          "de": "Der Kunde verlangt eine detaillierte technische Dokumentation.",
+          "ru": "Клиент требует подробную техническую документацию."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Eskalationsmanagement (Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "управление эскалацией, процесс эскалации",
+      "translation_en": "escalation management",
+      "examples": [
+        {
+          "de": "Das Eskalationsmanagement ist im Projektplan klar geregelt.",
+          "ru": "Процесс эскалации четко регламентирован в плане проекта."
+        },
+        {
+          "de": "Bei schweren Konflikten greift das vereinbarte Eskalationsmanagement.",
+          "ru": "При серьезных конфликтах вступает в силу согласованное управление эскалацией."
+        },
+        {
+          "de": "Unser Eskalationsmanagement sieht drei Stufen vor.",
+          "ru": "Наше управление эскалацией предусматривает три уровня."
+        },
+        {
+          "de": "Durch ein effektives Eskalationsmanagement konnten wir Zeitverluste vermeiden.",
+          "ru": "Благодаря эффективному управлению эскалацией мы смогли избежать потерь времени."
+        },
+        {
+          "de": "Wer ist die erste Instanz im Eskalationsmanagement?",
+          "ru": "Кто является первой инстанцией в процессе эскалации?"
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Fehleranalyse, die Fehleranalysen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "анализ ошибок",
+      "translation_en": "error analysis",
+      "examples": [
+        {
+          "de": "Nach dem Systemausfall haben wir sofort eine Fehleranalyse durchgeführt.",
+          "ru": "После сбоя системы мы сразу провели анализ ошибок."
+        },
+        {
+          "de": "Die Fehleranalyse zeigte Schwachstellen in der Programmierung auf.",
+          "ru": "Анализ ошибок выявил слабые места в программировании."
+        },
+        {
+          "de": "Wir nutzen die Fehleranalyse, um die Softwarequalität zu verbessern.",
+          "ru": "Мы используем анализ ошибок для улучшения качества программного обеспечения."
+        },
+        {
+          "de": "Die Ergebnisse der Fehleranalyse wurden im Prüfbericht dokumentiert.",
+          "ru": "Результаты анализа ошибок были задокументированы в отчете об испытаниях."
+        },
+        {
+          "de": "Eine gründliche Fehleranalyse spart langfristig viel Zeit.",
+          "ru": "Тщательный анализ ошибок экономит много времени в долгосрочной перспективе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Kernteam, die Kernteams",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "основная команда, ядро команды",
+      "translation_en": "core team",
+      "examples": [
+        {
+          "de": "Das Kernteam trifft sich jeden Morgen zum Daily Standup.",
+          "ru": "Основная команда собирается каждое утро на ежедневную встречу."
+        },
+        {
+          "de": "Wir müssen das Kernteam für das neue Projekt definieren.",
+          "ru": "Мы должны определить состав основной команды для нового проекта."
+        },
+        {
+          "de": "Das Kernteam besteht aus fünf erfahrenen Entwicklern.",
+          "ru": "Ядро команды состоит из пяти опытных разработчиков."
+        },
+        {
+          "de": "Alle wichtigen Entscheidungen werden vom Kernteam getroffen.",
+          "ru": "Все важные решения принимаются основной командой."
+        },
+        {
+          "de": "Das Kernteam arbeitet eng mit dem Projektleiter zusammen.",
+          "ru": "Основная команда тесно сотрудничает с руководителем проекта."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Krisensitzung, die Krisensitzungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "кризисное совещание, экстренное заседание",
+      "translation_en": "crisis meeting",
+      "examples": [
+        {
+          "de": "Wegen der Verzögerung beim Release wurde eine Krisensitzung einberufen.",
+          "ru": "Из-за задержки релиза было созвано кризисное совещание."
+        },
+        {
+          "de": "In der Krisensitzung haben wir Notfallmaßnahmen besprochen.",
+          "ru": "На кризисном совещании мы обсудили чрезвычайные меры."
+        },
+        {
+          "de": "Die Krisensitzung mit den Stakeholdern dauerte bis spät in die Nacht.",
+          "ru": "Экстренное совещание со стейкхолдерами продолжалось до поздней ночи."
+        },
+        {
+          "de": "Nach der Krisensitzung war der weitere Ablauf für alle Beteiligten klar.",
+          "ru": "После кризисного совещания дальнейший порядок действий стал понятен всем участникам."
+        },
+        {
+          "de": "Der Projektleiter leitete die heutige Krisensitzung.",
+          "ru": "Руководитель проекта вел сегодняшнее кризисное совещание."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kundenorientierung (Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "клиентоориентированность",
+      "translation_en": "customer orientation",
+      "examples": [
+        {
+          "de": "In unserem Projekt steht Kundenorientierung an erster Stelle.",
+          "ru": "В нашем проекте клиентоориентированность стоит на первом месте."
+        },
+        {
+          "de": "Wir müssen unsere Prozesse verbessern, um mehr Kundenorientierung zu zeigen.",
+          "ru": "Мы должны улучшить наши процессы, чтобы продемонстрировать большую ориентацию на клиента."
+        },
+        {
+          "de": "Die Kundenorientierung hilft uns, das Produkt perfekt anzupassen.",
+          "ru": "Ориентация на клиента помогает нам идеально адаптировать продукт."
+        },
+        {
+          "de": "Das Team wurde für seine hervorragende Kundenorientierung gelobt.",
+          "ru": "Команду похвалили за ее отличную ориентированность на клиента."
+        },
+        {
+          "de": "Kundenorientierung erfordert eine kontinuierliche Kommunikation mit dem Auftraggeber.",
+          "ru": "Клиентоориентированность требует постоянного общения с заказчиком."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Lenkungsausschuss, die Lenkungsausschüsse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "руководящий комитет, управляющий совет",
+      "translation_en": "steering committee",
+      "examples": [
+        {
+          "de": "Der Lenkungsausschuss trifft sich einmal im Monat zur Statusprüfung.",
+          "ru": "Руководящий комитет собирается раз в месяц для проверки статуса."
+        },
+        {
+          "de": "Wir müssen dem Lenkungsausschuss den aktuellen Zwischenbericht vorlegen.",
+          "ru": "Мы должны представить текущий промежуточный отчет руководящему комитету."
+        },
+        {
+          "de": "Der Lenkungsausschuss hat das zusätzliche Budget freigegeben.",
+          "ru": "Руководящий комитет утвердил дополнительный бюджет."
+        },
+        {
+          "de": "Jede wesentliche Änderung am Projekt benötigt die Zustimmung des Lenkungsausschusses.",
+          "ru": "Любое существенное изменение в проекте требует одобрения управляющего совета."
+        },
+        {
+          "de": "Der Projektleiter berichtet direkt an den Lenkungsausschuss.",
+          "ru": "Руководитель проекта отчитывается напрямую перед руководящим комитетом."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Projektcontrolling (Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "контроллинг проекта",
+      "translation_en": "project controlling",
+      "examples": [
+        {
+          "de": "Ein systematisches Projektcontrolling hilft, Kostenüberschreitungen zu vermeiden.",
+          "ru": "Систематический контроллинг проекта помогает избежать превышения затрат."
+        },
+        {
+          "de": "Das Projektcontrolling liefert wichtige Daten für den Statusbericht.",
+          "ru": "Контроллинг проекта предоставляет важные данные для отчета о статусе."
+        },
+        {
+          "de": "Wer ist in Ihrem Team für das Projektcontrolling zuständig?",
+          "ru": "Кто в вашей команде отвечает за контроллинг проекта?"
+        },
+        {
+          "de": "Unser Projektcontrolling zeigt eine positive Tendenz beim Budget.",
+          "ru": "Наш контроллинг проекта показывает положительную тенденцию по бюджету."
+        },
+        {
+          "de": "Wir haben neue Softwarelizenzen für das Projektcontrolling erworben.",
+          "ru": "Мы приобрели новые лицензии на программное обеспечение для контроллинга проектов."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Projektlaufzeit, die Projektlaufzeiten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "срок реализации проекта, продолжительность проекта",
+      "translation_en": "project duration",
+      "examples": [
+        {
+          "de": "Die Projektlaufzeit wurde vertraglich auf zwölf Monate festgelegt.",
+          "ru": "Срок реализации проекта был установлен договором на двенадцать месяцев."
+        },
+        {
+          "de": "Eine Verlängerung der Projektlaufzeit ist mit dem Kunden vereinbart worden.",
+          "ru": "С клиентом было согласовано продление срока реализации проекта."
+        },
+        {
+          "de": "Wir müssen die Aufgaben innerhalb der Projektlaufzeit abschließen.",
+          "ru": "Мы должны завершить задачи в рамках срока реализации проекта."
+        },
+        {
+          "de": "Die Projektlaufzeit neigt sich dem Ende zu.",
+          "ru": "Срок реализации проекта подходит к концу."
+        },
+        {
+          "de": "Während der gesamten Projektlaufzeit müssen wir regelmäßige Audits durchführen.",
+          "ru": "В течение всего срока реализации проекта мы должны проводить регулярные аудиты."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Projektportfolio, die Projektportfolios",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "портфель проектов",
+      "translation_en": "project portfolio",
+      "examples": [
+        {
+          "de": "Unser Projektportfolio umfasst derzeit zehn aktive IT-Projekte.",
+          "ru": "Наш портфель проектов в настоящее время включает десять активных ИТ-проектов."
+        },
+        {
+          "de": "Das Management entscheidet über die Priorisierung im Projektportfolio.",
+          "ru": "Руководство принимает решение о расстановке приоритетов в портфеле проектов."
+        },
+        {
+          "de": "Wir müssen das Projektportfolio bereinigen, um Ressourcen freizusetzen.",
+          "ru": "Мы должны оптимизировать портфель проектов, чтобы высвободить ресурсы."
+        },
+        {
+          "de": "Die Analyse des Projektportfolios findet quartalsweise statt.",
+          "ru": "Анализ портфеля проектов проводится ежеквартально."
+        },
+        {
+          "de": "Ein ausgewogenes Projektportfolio minimiert das unternehmerische Risiko.",
+          "ru": "Сбалансированный портфель проектов сводит к минимуму предпринимательские риски."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Projekttagebuch, die Projekttagebücher",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "проектный журнал, дневник проекта",
+      "translation_en": "project log",
+      "examples": [
+        {
+          "de": "Der Projektleiter führt täglich das Projekttagebuch.",
+          "ru": "Руководитель проекта ежедневно ведет журнал проекта."
+        },
+        {
+          "de": "Im Projekttagebuch werden alle wichtigen Ereignisse und Entscheidungen notiert.",
+          "ru": "В проектном журнале записываются все важные события и решения."
+        },
+        {
+          "de": "Bitte tragen Sie die technischen Probleme in das Projekttagebuch ein.",
+          "ru": "Пожалуйста, внесите технические проблемы в журнал проекта."
+        },
+        {
+          "de": "Das Projekttagebuch dient als Nachweis bei späteren Streitigkeiten.",
+          "ru": "Проектный журнал служит доказательством при последующих спорах."
+        },
+        {
+          "de": "Ich habe im Projekttagebuch nachgelesen, wann der Fehler zum ersten Mal auftrat.",
+          "ru": "Я посмотрел в проектном журнале, когда эта ошибка возникла впервые."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Qualitätskontrolle, die Qualitätskontrollen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "контроль качества",
+      "translation_en": "quality control",
+      "examples": [
+        {
+          "de": "Vor dem Release muss das Produkt eine strenge Qualitätskontrolle durchlaufen.",
+          "ru": "Перед выпуском продукт должен пройти строгий контроль качества."
+        },
+        {
+          "de": "Die Qualitätskontrolle hat mehrere kritische Fehler aufgedeckt.",
+          "ru": "Контроль качества выявил несколько критических ошибок."
+        },
+        {
+          "de": "Wer leitet die Qualitätskontrolle in dieser Phase?",
+          "ru": "Кто руководит контролем качества на этом этапе?"
+        },
+        {
+          "de": "Wir haben den Prozess der Qualitätskontrolle optimiert.",
+          "ru": "Мы оптимизировали процесс контроля качества."
+        },
+        {
+          "de": "Die Qualitätskontrolle erfolgt stichprobenartig.",
+          "ru": "Контроль качества проводится выборочно."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Rahmenbedingung, die Rahmenbedingungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "рамочное условие, ограничивающий фактор",
+      "translation_en": "framework condition, constraint",
+      "examples": [
+        {
+          "de": "Die gesetzlichen Rahmenbedingungen schränken unseren Handlungsspielraum ein.",
+          "ru": "Законодательные рамочные условия ограничивают нашу свободу действий."
+        },
+        {
+          "de": "Wir müssen die wirtschaftlichen Rahmenbedingungen des Projekts berücksichtigen.",
+          "ru": "Мы должны учитывать экономические условия проекта."
+        },
+        {
+          "de": "Zu den Rahmenbedingungen gehört ein sehr knappes Budget.",
+          "ru": "К ограничивающим условиям относится очень скудный бюджет."
+        },
+        {
+          "de": "Haben sich die Rahmenbedingungen für die Entwicklung geändert?",
+          "ru": "Изменились ли рамочные условия для разработки?"
+        },
+        {
+          "de": "Die Rahmenbedingungen wurden im Kick-off-Meeting besprochen.",
+          "ru": "Рамочные условия обсуждались на стартовой встрече."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Ressourcenengpass, die Ressourcenengpässe",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "дефицит ресурсов, нехватка ресурсов",
+      "translation_en": "resource bottleneck",
+      "examples": [
+        {
+          "de": "Unerwartete Kündigungen führten zu einem kritischen Ressourcenengpass.",
+          "ru": "Неожиданные увольнения привели к критической нехватке ресурсов."
+        },
+        {
+          "de": "Wie können wir den drohenden Ressourcenengpass im Sommer überwinden?",
+          "ru": "Как мы можем преодолеть угрожающий дефицит ресурсов летом?"
+        },
+        {
+          "de": "Der Ressourcenengpass verzögert die Fertigstellung des Prototyps.",
+          "ru": "Нехватка ресурсов задерживает завершение работы над прототипом."
+        },
+        {
+          "de": "Wir müssen den Ressourcenengpass sofort an das Management melden.",
+          "ru": "Мы должны немедленно сообщить руководству о дефиците ресурсов."
+        },
+        {
+          "de": "Durch Überstunden konnte der Ressourcenengpass kurzfristig ausgeglichen werden.",
+          "ru": "За счет сверхурочной работы удалось временно компенсировать нехватку ресурсов."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Ressourcenknappheit (Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "ограниченность ресурсов, нехватка ресурсов",
+      "translation_en": "resource scarcity",
+      "examples": [
+        {
+          "de": "Die allgemeine Ressourcenknappheit erschwert die Projektplanung.",
+          "ru": "Общая ограниченность ресурсов усложняет планирование проекта."
+        },
+        {
+          "de": "Wegen der Ressourcenknappheit müssen wir Aufgaben priorisieren.",
+          "ru": "Из-за нехватки ресурсов мы вынуждены приоритизировать задачи."
+        },
+        {
+          "de": "Ressourcenknappheit ist das größte Risiko für unseren Zeitplan.",
+          "ru": "Ограниченность ресурсов — это самый большой риск для нашего графика."
+        },
+        {
+          "de": "Wir müssen trotz der Ressourcenknappheit die Qualität sichern.",
+          "ru": "Мы должны обеспечить качество, несмотря на нехватку ресурсов."
+        },
+        {
+          "de": "Die Ressourcenknappheit zwingt uns zu effizienteren Prozessen.",
+          "ru": "Ограниченность ресурсов вынуждает нас использовать более эффективные процессы."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Risikofaktor, die Risikofaktoren",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "фактор риска",
+      "translation_en": "risk factor",
+      "examples": [
+        {
+          "de": "Die mangelnde Erfahrung des Teams ist ein erheblicher Risikofaktor.",
+          "ru": "Недостаток опыта у команды — значительный фактор риска."
+        },
+        {
+          "de": "Wir müssen alle potenziellen Risikofaktoren im Risikoregister erfassen.",
+          "ru": "Мы должны зафиксировать все потенциальные факторы риска в реестре рисков."
+        },
+        {
+          "de": "Was ist der größte Risikofaktor für dieses Projekt?",
+          "ru": "Что является самым большим фактором риска для этого проекта?"
+        },
+        {
+          "de": "Der Risikofaktor wurde bei der Risikobewertung als hoch eingestuft.",
+          "ru": "Фактор риска был оценен как высокий при анализе рисков."
+        },
+        {
+          "de": "Wir haben Maßnahmen entwickelt, um diesen Risikofaktor zu minimieren.",
+          "ru": "Мы разработали меры для минимизации этого фактора риска."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Risikoregister, die Risikoregister",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "реестр рисков",
+      "translation_en": "risk register",
+      "examples": [
+        {
+          "de": "Das Risikoregister muss wöchentlich aktualisiert werden.",
+          "ru": "Реестр рисков должен обновляться еженедельно."
+        },
+        {
+          "de": "Haben Sie das neue technische Risiko in das Risikoregister eingetragen?",
+          "ru": "Вы внесли новый технический риск в реестр рисков?"
+        },
+        {
+          "de": "Im Risikoregister sind alle Gegenmaßnahmen dokumentiert.",
+          "ru": "В реестре рисков задокументированы все контрмеры."
+        },
+        {
+          "de": "Der Projektleiter stellte dem Kunden das Risikoregister vor.",
+          "ru": "Руководитель проекта представил клиенту реестр рисков."
+        },
+        {
+          "de": "Risikoregister helpfen dabei, Risiken proaktiv zu managen.",
+          "ru": "Реестры рисков помогают проактивно управлять рисками."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Soll-Ist-Vergleich, die Soll-Ist-Vergleiche",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "сравнение плана и факта",
+      "translation_en": "target-performance comparison",
+      "examples": [
+        {
+          "de": "Der monatliche Soll-Ist-Vergleich zeigt Abweichungen bei den Kosten.",
+          "ru": "Ежемесячное сравнение плана и факта показывает отклонения по расходам."
+        },
+        {
+          "de": "Wir nutzen den Soll-Ist-Vergleich zur Überwachung des Projektfortschritts.",
+          "ru": "Мы используем сопоставление плановых и фактических показателей для контроля прогресса проекта."
+        },
+        {
+          "de": "Bitte bereiten Sie den Soll-Ist-Vergleich für das nächste Statusmeeting vor.",
+          "ru": "Пожалуйста, подготовьте сопоставление плана и факта для следующего статус-совещания."
+        },
+        {
+          "de": "Durch den Soll-Ist-Vergleich erkannten wir die Verzögerung frühzeitig.",
+          "ru": "Благодаря сопоставлению плановых и фактических показателей мы своевременно выявили задержку."
+        },
+        {
+          "de": "Der Soll-Ist-Vergleich ergab, dass wir weniger Ressourcen verbraucht haben als geplant.",
+          "ru": "Сравнение плана и факта показало, что мы использовали меньше ресурсов, чем планировалось."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Sprint-Backlog, die Sprint-Backlogs",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "бэклог спринта",
+      "translation_en": "sprint backlog",
+      "examples": [
+        {
+          "de": "Das Team wählt im Sprint Planning Aufgaben für das Sprint-Backlog aus.",
+          "ru": "Команда выбирает задачи для бэклога спринта на планировании спринта."
+        },
+        {
+          "de": "Das Sprint-Backlog sollte während des Sprints nicht verändert werden.",
+          "ru": "Бэклог спринта не должен меняться в течение спринта."
+        },
+        {
+          "de": "Alle Aufgaben im Sprint-Backlog müssen bis zum Ende des Sprints erledigt sein.",
+          "ru": "Все задачи в бэклоге спринта должны быть выполнены к концу спринта."
+        },
+        {
+          "de": "Der Status der Aufgaben im Sprint-Backlog wird täglich aktualisiert.",
+          "ru": "Статус задач в бэклоге спринта обновляется ежедневно."
+        },
+        {
+          "de": "Wer hat diese Aufgabe zum Sprint-Backlog hinzugefügt?",
+          "ru": "Кто добавил эту задачу в бэклог спринта?"
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Statusbesprechung, die Statusbesprechungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "статусное совещание, встреча по статусу проекта",
+      "translation_en": "status meeting",
+      "examples": [
+        {
+          "de": "Die wöchentliche Statusbesprechung findet immer montags um 10 Uhr statt.",
+          "ru": "Еженедельная статусная встреча всегда проходит по понедельникам в 10 часов."
+        },
+        {
+          "de": "In der Statusbesprechung wurden alle Meilensteine überprüft.",
+          "ru": "На совещании по статусу проекта были проверены все ключевые этапы."
+        },
+        {
+          "de": "Der Projektleiter moderiert die Statusbesprechung.",
+          "ru": "Руководитель проекта ведет статусную встречу."
+        },
+        {
+          "de": "Bitte bringen Sie Ihre Notizen zur Statusbesprechung mit.",
+          "ru": "Пожалуйста, возьмите с собой свои заметки на статусное совещание."
+        },
+        {
+          "de": "Die Statusbesprechung verlief sehr konstruktiv.",
+          "ru": "Совещание по статусу прошло очень конструктивно."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Teambildung (Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "тимбилдинг, командообразование",
+      "translation_en": "team building",
+      "examples": [
+        {
+          "de": "Der Workshop diente der Teambildung und der Klärung von Rollen.",
+          "ru": "Воркшоп служил для сплочения команды и прояснения ролей."
+        },
+        {
+          "de": "Wir planen ein Event zur Teambildung am Ende des Monats.",
+          "ru": "Мы планируем тимбилдинг-мероприятие в конце месяца."
+        },
+        {
+          "de": "Teambildung ist besonders am Anfang eines Projekts wichtig.",
+          "ru": "Командообразование особенно важно в начале проекта."
+        },
+        {
+          "de": "Durch gezielte Teambildung arbeitet die Gruppe effizienter zusammen.",
+          "ru": "Благодаря целенаправленному тимбилдингу группа работает вместе более эффективно."
+        },
+        {
+          "de": "Der Projektleiter legt großen Wert auf Teambildung.",
+          "ru": "Руководитель проекта придает большое значение сплочению команды."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Teamentwicklung (Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "развитие команды",
+      "translation_en": "team development",
+      "examples": [
+        {
+          "de": "Die Phasen der Teamentwicklung müssen aktiv begleitet werden.",
+          "ru": "Этапы развития команды должны активно сопровождаться."
+        },
+        {
+          "de": "Ein Training zur Teamentwicklung wurde für das gesamte Team organisiert.",
+          "ru": "Тренинг по развитию команды был организован для всей команды."
+        },
+        {
+          "de": "Konflikte gehören zum normalen Prozess der Teamentwicklung.",
+          "ru": "Конфликты являются частью нормального процесса развития команды."
+        },
+        {
+          "de": "Teamentwicklung braucht Zeit und gegenseitiges Vertrauen.",
+          "ru": "Развитие команды требует времени и взаимного доверия."
+        },
+        {
+          "de": "Die Teamentwicklung wurde durch den neuen Coach stark gefördert.",
+          "ru": "Развитие команды сильно стимулировал новый коуч."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Terminverschiebung, die Terminverschiebungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "перенос срока, сдвиг сроков",
+      "translation_en": "rescheduling, date shift",
+      "examples": [
+        {
+          "de": "Die Terminverschiebung wurde durch den Ausfall der Server verursacht.",
+          "ru": "Перенос срока был вызван сбоем серверов."
+        },
+        {
+          "de": "Wir müssen den Kunden über die Terminverschiebung informieren.",
+          "ru": "Мы должны проинформировать клиента о переносе сроков."
+        },
+        {
+          "de": "Eine weitere Terminverschiebung können wir uns nicht leisten.",
+          "ru": "Еще один сдвиг сроков мы не можем себе позволить."
+        },
+        {
+          "de": "Der Projektleiter begründete die Terminverschiebung im Statusbericht.",
+          "ru": "Руководитель проекта обосновал перенос сроков в статус-отчете."
+        },
+        {
+          "de": "Die Terminverschiebung betrifft auch die nachfolgenden Aufgaben.",
+          "ru": "Перенос срока затрагивает также и последующие задачи."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Aufwandsschätzung, die Aufwandsschätzungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "оценка трудозатрат",
+      "translation_en": "effort estimation",
+      "examples": [
+        {
+          "de": "Die Aufwandsschätzung für das neue Modul wurde vom Team durchgeführt.",
+          "ru": "Оценка трудозатрат на новый модуль была выполнена командой."
+        },
+        {
+          "de": "Eine ungenaue Aufwandsschätzung kann zu Budgetproblemen führen.",
+          "ru": "Неточная оценка трудозатрат может привести к проблемам с бюджетом."
+        },
+        {
+          "de": "Wir nutzen Planning Poker für die Aufwandsschätzung.",
+          "ru": "Мы используем Planning Poker для оценки объема работ."
+        },
+        {
+          "de": "Die Aufwandsschätzung ergab insgesamt 120 Arbeitsstunden.",
+          "ru": "Оценка трудозатрат показала в общей сложности 120 рабочих часов."
+        },
+        {
+          "de": "Vor dem Angebot müssen wir eine detaillierte Aufwandsschätzung erstellen.",
+          "ru": "Перед коммерческим предложением мы должны составить подробную оценку трудозатрат."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Wirtschaftlichkeitsberechnung, die Wirtschaftlichkeitsberechnungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "расчет экономической эффективности",
+      "translation_en": "profitability calculation",
+      "examples": [
+        {
+          "de": "Die Wirtschaftlichkeitsberechnung ist Teil des Business Cases.",
+          "ru": "Расчет экономической эффективности является частью бизнес-кейса."
+        },
+        {
+          "de": "Wer hat die Wirtschaftlichkeitsberechnung für das Projekt durchgeführt?",
+          "ru": "Кто провел расчет рентабельности проекта?"
+        },
+        {
+          "de": "Die Wirtschaftlichkeitsberechnung zeigt eine Amortisation nach zwei Jahren.",
+          "ru": "Расчет экономической эффективности показывает окупаемость через два года."
+        },
+        {
+          "de": "Ohne eine positive Wirtschaftlichkeitsberechnung wird das Projekt nicht genehmigt.",
+          "ru": "Без положительного расчета рентабельности проект не будет утвержден."
+        },
+        {
+          "de": "Wir müssen die Wirtschaftlichkeitsberechnung mit aktuellen Marktdaten aktualisieren.",
+          "ru": "Мы должны обновить расчет экономической эффективности актуальными рыночными данными."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Zeitmanagement (Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "тайм-менеджмент, управление временем",
+      "translation_en": "time management",
+      "examples": [
+        {
+          "de": "Ein gutes Zeitmanagement hilft dem Team, Stress zu reduzieren.",
+          "ru": "Хороший тайм-менеджмент помогает команде снизить уровень стресса."
+        },
+        {
+          "de": "Wir müssen das Zeitmanagement im Projekt optimieren.",
+          "ru": "Мы должны оптимизировать управление временем в проекте."
+        },
+        {
+          "de": "Ihr Zeitmanagement war in dieser Phase mangelhaft.",
+          "ru": "Ваше управление временем на этом этапе было неудовлетворительным."
+        },
+        {
+          "de": "Durch besseres Zeitmanagement konnten wir die Deadline einhalten.",
+          "ru": "Благодаря лучшему тайм-менеджменту мы смогли уложиться в дедлайн."
+        },
+        {
+          "de": "Er gab dem Team wertvolle Tipps für ein effektives Zeitmanagement.",
+          "ru": "Он дал команде ценные советы по эффективному управлению временем."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Zwischenergebnis, die Zwischenergebnisse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "промежуточный результат",
+      "translation_en": "intermediate result",
+      "examples": [
+        {
+          "de": "Wir präsentierten dem Kunden gestern das erste Zwischenergebnis.",
+          "ru": "Вчера мы представили клиенту первый промежуточный результат."
+        },
+        {
+          "de": "Das Zwischenergebnis entspricht vollkommen unseren Erwartungen.",
+          "ru": "Промежуточный результат полностью соответствует нашим ожиданиям."
+        },
+        {
+          "de": "Wir müssen das Zwischenergebnis dokumentieren und freigeben lassen.",
+          "ru": "Мы должны задокументировать промежуточный результат и получить одобрение."
+        },
+        {
+          "de": "Dieses Zwischenergebnis ist ein wichtiger Meilenstein für uns.",
+          "ru": "Этот промежуточный результат — важная веха для нас."
+        },
+        {
+          "de": "Auf Basis des Zwischenergebnisses planen wir die nächsten Schritte.",
+          "ru": "На основе промежуточного результата мы планируем следующие шаги."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "analysieren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "анализировать",
+      "translation_en": "to analyze",
+      "examples": [
+        {
+          "de": "Wir müssen die Anforderungen des Kunden genau analysieren.",
+          "ru": "Мы должны точно проанализировать требования клиента."
+        },
+        {
+          "de": "Das Team analysiert die Fehlerquellen im System.",
+          "ru": "Команда анализирует источники ошибок в системе."
+        },
+        {
+          "de": "Können Sie bitte diese Daten bis morgen analysieren?",
+          "ru": "Могли бы вы проанализировать эти данные до завтра?"
+        },
+        {
+          "de": "Es ist wichtig, die Risiken vor dem Projektstart zu analysieren.",
+          "ru": "Важно проанализировать риски до начала проекта."
+        },
+        {
+          "de": "Wir analysierten die Ergebnisse der Umfrage im wöchentlichen Meeting.",
+          "ru": "Мы проанализировали результаты опроса на еженедельном совещании."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "analysiert",
+      "imperative": "alysiere an! / alysiert an! / alysieren Sie an!",
+      "conjugations": {
+        "ich": "alysiere an",
+        "du": "alysierst an",
+        "er/sie/es": "alysiert an",
+        "wir": "alysieren an",
+        "ihr": "alysiert an",
+        "sie/Sie": "alysieren an"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "archivieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "архивировать",
+      "translation_en": "to archive",
+      "examples": [
+        {
+          "de": "Nach dem Projektabschluss müssen wir alle Dokumente ordnungsgemäß archivieren.",
+          "ru": "После завершения проекта мы должны должным образом архивировать все документы."
+        },
+        {
+          "de": "Wo werden die alten Projektpläne archiviert?",
+          "ru": "Где архивируются старые планы проектов?"
+        },
+        {
+          "de": "Wir archivieren alle E-Mails mit dem Kunden aus Sicherheitsgründen.",
+          "ru": "Мы архивируем все электронные письма с клиентом из соображений безопасности."
+        },
+        {
+          "de": "Diese Daten sind veraltet und können archiviert werden.",
+          "ru": "Эти данные устарели и могут быть заархивированы."
+        },
+        {
+          "de": "Der Projektassistent archiviert die wöchentlichen Berichte.",
+          "ru": "Ассистент проекта архивирует еженедельные отчеты."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "archiviert",
+      "imperative": "archiviere! / archiviert! / archivieren Sie!",
+      "conjugations": {
+        "ich": "archiviere",
+        "du": "archivierst",
+        "er/sie/es": "archiviert",
+        "wir": "archivieren",
+        "ihr": "archiviert",
+        "sie/Sie": "archivieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "kooperieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "сотрудничать, кооперироваться",
+      "translation_en": "to cooperate",
+      "examples": [
+        {
+          "de": "Die beiden Abteilungen müssen bei dieser Aufgabe eng kooperieren.",
+          "ru": "Оба отдела должны тесно сотрудничать при выполнении этой задачи."
+        },
+        {
+          "de": "Wir kooperieren in diesem Projekt mit einem externen Partner.",
+          "ru": "В этом проекте мы сотрудничаем с внешним партнером."
+        },
+        {
+          "de": "Das Team weigerte sich, mit dem neuen Projektleiter zu kooperieren.",
+          "ru": "Команда отказалась сотрудничать с новым руководителем проекта."
+        },
+        {
+          "de": "Um erfolgreich zu sein, müssen alle Beteiligten offen kooperieren.",
+          "ru": "Чтобы добиться успеха, все участники должны открыто сотрудничать."
+        },
+        {
+          "de": "Wir haben vereinbart, bei der Forschung und Entwicklung zu kooperieren.",
+          "ru": "Мы договорились о сотрудничестве в области исследований и разработок."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "kooperiert",
+      "imperative": "kooperiere! / kooperiert! / kooperieren Sie!",
+      "conjugations": {
+        "ich": "kooperiere",
+        "du": "kooperierst",
+        "er/sie/es": "kooperiert",
+        "wir": "kooperieren",
+        "ihr": "kooperiert",
+        "sie/Sie": "kooperieren"
+      },
+      "prepositions": [
+        "mit + Dativ (с кем-то)"
+      ]
+    },
+    {
+      "word": "moderieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "модерировать, вести совещание",
+      "translation_en": "to moderate, to facilitate",
+      "examples": [
+        {
+          "de": "Wer wird den morgigen Kick-off-Workshop moderieren?",
+          "ru": "Кто будет вести завтрашний стартовый воркшоп?"
+        },
+        {
+          "de": "Der Scrum Master moderiert das Retrospektive-Meeting.",
+          "ru": "Скрам-мастер ведет ретроспективное совещание."
+        },
+        {
+          "de": "Es ist wichtig, die Diskussion neutral zu moderieren.",
+          "ru": "Важно вести дискуссию нейтрально."
+        },
+        {
+          "de": "Sie moderierte die Krisensitzung sehr professionell.",
+          "ru": "Она очень профессионально провела кризисное совещание."
+        },
+        {
+          "de": "Kannst du bitte die Abstimmung im Team moderieren?",
+          "ru": "Можешь, пожалуйста, провести координационную встречу в команде?"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "moderiert",
+      "imperative": "moderiere! / moderiert! / moderieren Sie!",
+      "conjugations": {
+        "ich": "moderiere",
+        "du": "moderierst",
+        "er/sie/es": "moderiert",
+        "wir": "moderieren",
+        "ihr": "moderiert",
+        "sie/Sie": "moderieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "visualisieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "визуализировать",
+      "translation_en": "to visualize",
+      "examples": [
+        {
+          "de": "Wir nutzen ein Kanban-Board, um unsere Aufgaben zu visualisieren.",
+          "ru": "Мы используем канбан-доску, чтобы визуализировать наши задачи."
+        },
+        {
+          "de": "Es hilft, den Zeitplan für den Kunden grafisch zu visualisieren.",
+          "ru": "Помогает графически визуализировать временной план для клиента."
+        },
+        {
+          "de": "Der Projektleiter visualisierte die Risiken in einer Matrix.",
+          "ru": "Руководитель проекта визуализировал риски в виде матрицы."
+        },
+        {
+          "de": "Komplexe Prozesse lassen sich mit Diagrammen leichter visualisieren.",
+          "ru": "Сложные процессы легче визуализировать с помощью диаграмм."
+        },
+        {
+          "de": "Bitte visualisieren Sie die Fortschritte im wöchentlichen Bericht.",
+          "ru": "Пожалуйста, наглядно представьте прогресс в еженедельном отчете."
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "visualisiert",
+      "imperative": "visualisiere! / visualisiert! / visualisieren Sie!",
+      "conjugations": {
+        "ich": "visualisiere",
+        "du": "visualisierst",
+        "er/sie/es": "visualisiert",
+        "wir": "visualisieren",
+        "ihr": "visualisiert",
+        "sie/Sie": "visualisieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "durchführbar",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "осуществимый, выполнимый",
+      "translation_en": "feasible, doable",
+      "examples": [
+        {
+          "de": "Wir müssen prüfen, ob dieser Projektplan in sechs Monaten durchführbar ist.",
+          "ru": "Мы должны проверить, выполним ли этот план проекта за шесть месяцев."
+        },
+        {
+          "de": "Unter diesen Bedingungen ist das Projekt leider nicht durchführbar.",
+          "ru": "В этих условиях проект, к сожалению, неосуществим."
+        },
+        {
+          "de": "Die vorgeschlagene Lösung klingt theoretisch gut, ist aber praktisch nicht durchführbar.",
+          "ru": "Предложенное решение звучит теоретически хорошо, но практически невыполнимо."
+        },
+        {
+          "de": "Ist diese Anforderung technisch durchführbar?",
+          "ru": "Выполнимо ли это требование технически?"
+        },
+        {
+          "de": "Das Team hält die Zielvorgaben für durchaus durchführbar.",
+          "ru": "Команда считает целевые показатели вполне осуществимыми."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "ergebnisorientiert",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "ориентированный на результат",
+      "translation_en": "results-oriented",
+      "examples": [
+        {
+          "de": "Wir brauchen eine ergebnisorientierte Arbeitsweise, um die Fristen einzuhalten.",
+          "ru": "Нам нужен ориентированный на результат стиль работы, чтобы уложиться в сроки."
+        },
+        {
+          "de": "Das Meeting was sehr kurz und ergebnisorientiert.",
+          "ru": "Совещание было очень коротким и ориентированным на результат."
+        },
+        {
+          "de": "Er führt das Team auf eine sehr ergebnisorientierte Art und Weise.",
+          "ru": "Он руководит командой очень ориентированным на результат способом."
+        },
+        {
+          "de": "Unsere Zusammenarbeit mit dem Partner ist äußerst ergebnisorientiert.",
+          "ru": "Наше сотрудничество с партнером крайне ориентировано на результат."
+        },
+        {
+          "de": "Die Leistungsbeurteilung basiert auf ergebnisorientierten Kriterien.",
+          "ru": "Оценка эффективности основана на критериях, ориентированных на результат."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "kostenintensiv",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "дорогостоящий, требующий больших затрат",
+      "translation_en": "cost-intensive",
+      "examples": [
+        {
+          "de": "Die Entwicklungsphase ist der kostenintensivste Teil des Projekts.",
+          "ru": "Этап разработки — самая дорогостоящая часть проекта."
+        },
+        {
+          "de": "Späte Änderungen am Design sind extrem kostenintensiv.",
+          "ru": "Поздние изменения в дизайне крайне дорогостоящи."
+        },
+        {
+          "de": "Wir müssen kostenintensive Prozesse identifizieren und optimieren.",
+          "ru": "Мы должны выявлять и оптимизировать процессы, требующие больших затрат."
+        },
+        {
+          "de": "Der Einkauf externer Lizenzen erwies sich als sehr kostenintensiv.",
+          "ru": "Покупка внешних лицензий оказалась очень затратной."
+        },
+        {
+          "de": "Ein fehlerhaftes Produkt auf den Markt zu bringen, ist sehr kostenintensiv.",
+          "ru": "Вывод на рынок дефектного продукта обходится очень дорого."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "prozessorientiert",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "ориентированный на процессы",
+      "translation_en": "process-oriented",
+      "examples": [
+        {
+          "de": "Unsere Organisation arbeitet sehr prozessorientiert.",
+          "ru": "Наша организация работает очень ориентированно на процессы."
+        },
+        {
+          "de": "Ein prozessorientiertes Qualitätsmanagement reduziert die Fehlerquote.",
+          "ru": "Процессно-ориентированное управление качеством снижает процент ошибок."
+        },
+        {
+          "de": "Wir müssen das Projekt prozessorientierter strukturieren.",
+          "ru": "Мы должны структурировать проект более ориентированно на процессы."
+        },
+        {
+          "de": "Das neue Tool unterstützt eine prozessorientierte Arbeitsweise.",
+          "ru": "Новый инструмент поддерживает процессный подход в работе."
+        },
+        {
+          "de": "Die prozessorientierte Führung konzentriert sich auf Arbeitsabläufe.",
+          "ru": "Процессно-ориентированное руководство концентрируется на рабочих процессах."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "risikoreich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "рискованный, сопряженный с высоким риском",
+      "translation_en": "risky",
+      "examples": [
+        {
+          "de": "Die Investition in diese neue Technologie ist äußerst risikoreich.",
+          "ru": "Инвестирование в эту новую технологию крайне рискованно."
+        },
+        {
+          "de": "Wir haben uns für einen weniger risikoreichen Weg entschieden.",
+          "ru": "Мы выбрали менее рискованный путь."
+        },
+        {
+          "de": "Der enge Zeitplan macht das gesamte Projekt sehr risikoreich.",
+          "ru": "Сжатый график делает весь проект очень рискованным."
+        },
+        {
+          "de": "Das war eine risikoreiche Entscheidung des Managements.",
+          "ru": "Это было рискованное решение руководства."
+        },
+        {
+          "de": "Wegen der risikoreichen Natur der Aufgabe haben wir einen Notfallplan erstellt.",
+          "ru": "Из-за рискованного характера задачи мы составили план действий в чрезвычайных ситуациях."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "zielgerichtet",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "целенаправленный",
+      "translation_en": "targeted, goal-oriented",
+      "examples": [
+        {
+          "de": "Durch zielgerichtete Maßnahmen konnten wir die Krise schnell lösen.",
+          "ru": "Благодаря целенаправленным мерам мы смогли быстро разрешить кризис."
+        },
+        {
+          "de": "Wir müssen eine zielgerichtete Kommunikation mit den Stakeholdern führen.",
+          "ru": "Мы должны вести целенаправленное общение со стейкхолдерами."
+        },
+        {
+          "de": "Seine Arbeit war stets zielgerichtet und effizient.",
+          "ru": "Его работа всегда была целенаправленной и эффективной."
+        },
+        {
+          "de": "Das Team benötigt eine klare und zielgerichtete Führung.",
+          "ru": "Команде требуется четкое и целенаправленное руководство."
+        },
+        {
+          "de": "Wir nutzen zielgerichtete Schulungen, um das Team fortzubilden.",
+          "ru": "Мы используем целенаправленное обучение для повышения квалификации команды."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "zeitkritisch",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "критичный ко времени, срочный",
+      "translation_en": "time-critical",
+      "examples": [
+        {
+          "de": "Diese Aufgabe ist zeitkritisch und muss sofort erledigt werden.",
+          "ru": "Эта задача критична ко времени и должна быть выполнена немедленно."
+        },
+        {
+          "de": "In einem zeitkritischen Projekt gibt es keinen Platz für Fehler.",
+          "ru": "В проекте, критичном ко времени, нет места для ошибок."
+        },
+        {
+          "de": "Wir müssen die zeitkritischen Phasen des Projekts besonders überwachen.",
+          "ru": "Мы должны особенно контролировать этапы проекта, критичные ко времени."
+        },
+        {
+          "de": "Die Lieferung der Bauteile ist extrem zeitkritisch.",
+          "ru": "Поставка компонентов является чрезвычайно критичной по времени."
+        },
+        {
+          "de": "Wegen der zeitkritischen Anforderungen haben wir zusätzliche Entwickler eingestellt.",
+          "ru": "Из-за требований, критичных ко времени, мы наняли дополнительных разработчиков."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "detailliert",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "подробный, детальный",
+      "translation_en": "detailed",
+      "examples": [
+        {
+          "de": "Bitte erstellen Sie einen detaillierten Ablaufplan für den Workshop.",
+          "ru": "Пожалуйста, составьте подробный план проведения воркшопа."
+        },
+        {
+          "de": "Wir haben eine detaillierte Beschreibung der Anforderungen erhalten.",
+          "ru": "Мы получили подробное описание требований."
+        },
+        {
+          "de": "Eine detaillierte Aufwandsschätzung ist notwendig, um das Budget zu sichern.",
+          "ru": "Подробная оценка трудозатрат необходима для обеспечения бюджета."
+        },
+        {
+          "de": "Der Kunde verlangt einen detaillierten Statusbericht.",
+          "ru": "Клиент требует подробный отчет о статусе."
+        },
+        {
+          "de": "Die Analyse war sehr detailliert und präzise.",
+          "ru": "Анализ был очень подробным и точным."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "abteilungsübergreifend",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "межведомственный, затрагивающий несколько отделов",
+      "translation_en": "cross-departmental",
+      "examples": [
+        {
+          "de": "Wir haben ein abteilungsübergreifendes Team für das Projekt zusammengestellt.",
+          "ru": "Мы собрали межведомственную команду для этого проекта."
+        },
+        {
+          "de": "Eine abteilungsübergreifende Zusammenarbeit ist der Schlüssel zur Innovation.",
+          "ru": "Межведомственное сотрудничество — ключ к инновациям."
+        },
+        {
+          "de": "Das neue System soll abteilungsübergreifende Prozesse optimieren.",
+          "ru": "Новая система призвана оптимизировать процессы, затрагивающие несколько отделов."
+        },
+        {
+          "de": "Wir führen monatlich abteilungsübergreifende Meetings durch.",
+          "ru": "Мы проводим ежемесячные межведомственные совещания."
+        },
+        {
+          "de": "Es gab abteilungsübergreifende Konflikte bezüglich der Ressourcenverteilung.",
+          "ru": "Возникли конфликты между отделами по поводу распределения ресурсов."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "projektübergreifend",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "межпроектный, охватывающий несколько проектов",
+      "translation_en": "cross-project",
+      "examples": [
+        {
+          "de": "Ein projektübergreifendes Ressourcenmanagement spart unserem Unternehmen viel Geld.",
+          "ru": "Межпроектное управление ресурсами экономит нашей компании много денег."
+        },
+        {
+          "de": "Wir müssen projektübergreifende Synergien besser nutzen.",
+          "ru": "Мы должны лучше использовать синергию между различными проектами."
+        },
+        {
+          "de": "Sie ist als projektübergreifende Koordinatorin tätig.",
+          "ru": "Она работает в качестве межпроектного координатора."
+        },
+        {
+          "de": "Projektübergreifende Standards erleichtern den Wechsel von Mitarbeitern zwischen Teams.",
+          "ru": "Межпроектные стандарты облегчают переход сотрудников между командами."
+        },
+        {
+          "de": "Wir haben ein projektübergreifendes Treffen der Projektleiter organisiert.",
+          "ru": "Мы организовали межпроектную встречу руководителей проектов."
+        }
+      ],
+      "synonyms": []
+    }
+  ]
+}

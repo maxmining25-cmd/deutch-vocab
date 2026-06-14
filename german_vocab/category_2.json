@@ -1,0 +1,1917 @@
+{
+  "category": "Aufgaben, Rollen & Zuständigkeiten",
+  "words": [
+    {
+      "word": "die Aufgabe, die Aufgaben",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "задача",
+      "translation_en": "task",
+      "examples": [
+        {
+          "de": "Wer übernimmt diese Aufgabe für den nächsten Sprint?",
+          "ru": "Кто возьмет на себя эту задачу на следующий спринт?"
+        },
+        {
+          "de": "Die Aufgabe muss bis Freitag abgeschlossen sein.",
+          "ru": "Задача должна быть завершена к пятнице."
+        },
+        {
+          "de": "Bitte dokumentieren Sie den Fortschritt dieser Aufgabe im Jira.",
+          "ru": "Пожалуйста, задокументируйте прогресс по этой задаче в Jira."
+        },
+        {
+          "de": "Wir müssen die Aufgaben klarer an die Teammitglieder verteilen.",
+          "ru": "Мы должны более четко распределить задачи между членами команды."
+        },
+        {
+          "de": "Diese Aufgabe hat eine hohe Priorität für das Projekt.",
+          "ru": "Эта задача имеет высокий приоритет для проекта."
+        }
+      ],
+      "synonyms": [
+        "Arbeit",
+        "Tätigkeit",
+        "Verpflichtung"
+      ]
+    },
+    {
+      "word": "die Zuständigkeit, die Zuständigkeiten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "сфера ответственности / компетенция",
+      "translation_en": "area of responsibility / competence",
+      "examples": [
+        {
+          "de": "Die Zuständigkeiten im Team müssen klar definiert sein.",
+          "ru": "Сферы ответственности в команде должны быть четко определены."
+        },
+        {
+          "de": "Das fällt nicht in meine Zuständigkeit.",
+          "ru": "Это не входит в мою компетенцию."
+        },
+        {
+          "de": "Wir haben eine Matrix erstellt, um alle Zuständigkeiten zu klären.",
+          "ru": "Мы создали матрицу, чтобы прояснить все сферы ответственности."
+        },
+        {
+          "de": "Bei Fragen zur IT liegt die Zuständigkeit bei Herrn Müller.",
+          "ru": "При вопросах по IT сфера ответственности лежит на господине Мюллере."
+        },
+        {
+          "de": "Eine unklare Zuständigkeit führt oft zu Verzögerungen.",
+          "ru": "Нечеткая сфера ответственности часто ведет к задержкам."
+        }
+      ],
+      "synonyms": [
+        "Verantwortlichkeit",
+        "Kompetenzbereich"
+      ]
+    },
+    {
+      "word": "die Rolle, die Rollen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "роль",
+      "translation_en": "role",
+      "examples": [
+        {
+          "de": "Welche Rolle hast du in diesem agilen Projekt?",
+          "ru": "Какая у тебя роль в этом гибком проекте?"
+        },
+        {
+          "de": "Die Rolle des Scrum Masters ist sehr wichtig für das Team.",
+          "ru": "Роль скрам-мастера очень важна для команды."
+        },
+        {
+          "de": "Jeder im Team sollte seine Rolle genau kennen.",
+          "ru": "Каждый в команде должен точно знать свою роль."
+        },
+        {
+          "de": "In diesem Meeting übernehmen Sie die Rolle des Moderators.",
+          "ru": "На этой встрече вы возьмете на себя роль модератора."
+        },
+        {
+          "de": "Rollenkonflikte müssen sofort besprochen werden.",
+          "ru": "Ролевые конфликты должны обсуждаться незамедлительно."
+        }
+      ],
+      "synonyms": [
+        "Funktion",
+        "Position"
+      ]
+    },
+    {
+      "word": "die Verantwortung, die Verantwortungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "ответственность",
+      "translation_en": "responsibility",
+      "examples": [
+        {
+          "de": "Der Projektleiter trägt die Verantwortung für das Budget.",
+          "ru": "Руководитель проекта несет ответственность за бюджет."
+        },
+        {
+          "de": "Wer übernimmt die Verantwortung für diese Entscheidung?",
+          "ru": "Кто возьмет на себя ответственность за это решение?"
+        },
+        {
+          "de": "Verantwortung zu übernehmen ist ein wichtiger Teil unserer Kultur.",
+          "ru": "Принятие ответственности — важная часть нашей культуры."
+        },
+        {
+          "de": "Wir müssen die Verantwortung auf mehrere Schultern verteilen.",
+          "ru": "Мы должны распределить ответственность на несколько человек."
+        },
+        {
+          "de": "Seine Verantwortung umfasst die gesamte Softwarearchitektur.",
+          "ru": "Его сфера ответственности охватывает всю архитектуру программного обеспечения."
+        }
+      ],
+      "synonyms": [
+        "Haftung",
+        "Zuständigkeit"
+      ]
+    },
+    {
+      "word": "der Projektleiter, die Projektleiter",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "руководитель проекта",
+      "translation_en": "project manager",
+      "examples": [
+        {
+          "de": "Der Projektleiter lädt zum wöchentlichen Statusmeeting ein.",
+          "ru": "Руководитель проекта приглашает на еженедельное статус-совещание."
+        },
+        {
+          "de": "Sie arbeitet seit drei Jahren als Projektleiterin in unserer Abteilung.",
+          "ru": "Она работает руководителем проекта в нашем отделе уже три года."
+        },
+        {
+          "de": "Ein guter Projektleiter must kommunikativ sein.",
+          "ru": "Хороший руководитель проекта должен быть коммуникабельным."
+        },
+        {
+          "de": "Der Projektleiter hat die Freigabe erteilt.",
+          "ru": "Руководитель проекта дал разрешение."
+        },
+        {
+          "de": "Wenden Sie sich bei Problemen direkt an den Projektleiter.",
+          "ru": "При возникновении проблем обращайтесь напрямую к руководителю проекта."
+        }
+      ],
+      "synonyms": [
+        "Projektmanager",
+        "Projektführung",
+        "Projektleitung"
+      ]
+    },
+    {
+      "word": "das Teammitglied, die Teammitglieder",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "член команды",
+      "translation_en": "team member",
+      "examples": [
+        {
+          "de": "Jedes Teammitglied hat einen eigenen Aufgabenbereich.",
+          "ru": "У каждого члена команды есть своя сфера задач."
+        },
+        {
+          "de": "Die neuen Teammitglieder müssen gut eingearbeitet werden.",
+          "ru": "Новые члены команды должны пройти хорошее обучение/ввод в работу."
+        },
+        {
+          "de": "Wir schätzen das Feedback jedes einzelnen Teammitglieds.",
+          "ru": "Мы ценим обратную связь каждого отдельного члена команды."
+        },
+        {
+          "de": "Alle Teammitglieder nahmen am Daily Standup teil.",
+          "ru": "Все члены команды приняли участие в ежедневном стендапе."
+        },
+        {
+          "de": "Ein motiviertes Teammitglied leistet bessere Arbeit.",
+          "ru": "Мотивированный член команды выполняет работу лучше."
+        }
+      ],
+      "synonyms": [
+        "Kollege",
+        "Mitarbeiter"
+      ]
+    },
+    {
+      "word": "der Auftraggeber, die Auftraggeber",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "заказчик / клиент",
+      "translation_en": "client / project sponsor",
+      "examples": [
+        {
+          "de": "Der Auftraggeber hat die neuen Anforderungen genehmigt.",
+          "ru": "Заказчик утвердил новые требования."
+        },
+        {
+          "de": "Wir müssen den Auftraggeber über die Verzögerung informieren.",
+          "ru": "Мы должны проинформировать заказчика о задержке."
+        },
+        {
+          "de": "Morgen findet die Präsentation vor dem Auftraggeber statt.",
+          "ru": "Завтра состоится презентация перед заказчиком."
+        },
+        {
+          "de": "Der Auftraggeber wünscht eine wöchentliche Berichterstattung.",
+          "ru": "Заказчик желает получать еженедельную отчетность."
+        },
+        {
+          "de": "Wer ist der interne Auftraggeber für dieses IT-Projekt?",
+          "ru": "Кто является внутренним заказчиком этого ИТ-проекта?"
+        }
+      ],
+      "synonyms": [
+        "Kunde",
+        "Besteller",
+        "Klient"
+      ]
+    },
+    {
+      "word": "der Auftragnehmer, die Auftragnehmer",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "подрядчик / исполнитель",
+      "translation_en": "contractor / service provider",
+      "examples": [
+        {
+          "de": "Der Auftragnehmer verpflichtet sich zur Einhaltung der Frist.",
+          "ru": "Подрядчик обязуется соблюдать установленный срок."
+        },
+        {
+          "de": "Wir haben einen Vertrag mit dem externen Auftragnehmer unterzeichnet.",
+          "ru": "Мы подписали контракт с внешним подрядчиком."
+        },
+        {
+          "de": "Der Auftragnehmer lieferte die Ergebnisse pünktlich ab.",
+          "ru": "Подрядчик своевременно сдал результаты."
+        },
+        {
+          "de": "Es gab Unstimmigkeiten zwischen Auftraggeber und Auftragnehmer.",
+          "ru": "Возникли разногласия между заказчиком и подрядчиком."
+        },
+        {
+          "de": "Der Auftragnehmer muss wöchentliche Statusberichte senden.",
+          "ru": "Подрядчик должен отправлять еженедельные отчеты о статусе."
+        }
+      ],
+      "synonyms": [
+        "Dienstleister",
+        "Ausführer",
+        "Lieferant"
+      ]
+    },
+    {
+      "word": "der Ansprechpartner, die Ansprechpartner",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "контактное лицо",
+      "translation_en": "contact person",
+      "examples": [
+        {
+          "de": "Herr Schmidt ist Ihr Ansprechpartner für technische Fragen.",
+          "ru": "Господин Шмидт — ваше контактное лицо по техническим вопросам."
+        },
+        {
+          "de": "Haben wir einen festen Ansprechpartner beim Kunden?",
+          "ru": "Есть ли у нас постоянное контактное лицо со стороны клиента?"
+        },
+        {
+          "de": "Sie ist die erste Ansprechpartnerin bei Problemen im Projekt.",
+          "ru": "Она является первым контактным лицом при проблемах в проекте."
+        },
+        {
+          "de": "Bitte nennen Sie mir den zuständigen Ansprechpartner.",
+          "ru": "Пожалуйста, назовите мне ответственное контактное лицо."
+        },
+        {
+          "de": "Der Ansprechpartner der Marketingabteilung ist heute im Urlaub.",
+          "ru": "Контактное лицо из отдела маркетинга сегодня в отпуске."
+        }
+      ],
+      "synonyms": [
+        "Kontaktperson",
+        "Referent"
+      ]
+    },
+    {
+      "word": "die Zuteilung, die Zuteilungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "распределение / назначение",
+      "translation_en": "allocation / assignment",
+      "examples": [
+        {
+          "de": "Die Zuteilung der Ressourcen erfolgt durch das PMO.",
+          "ru": "Распределение ресурсов осуществляется офисом управления проектами (PMO)."
+        },
+        {
+          "de": "Eine gerechte Zuteilung der Arbeit verhindert Überlastung.",
+          "ru": "Справедливое распределение работы предотвращает перегрузку."
+        },
+        {
+          "de": "Die Zuteilung der Aufgaben wurde im Kick-off-Meeting besprochen.",
+          "ru": "Распределение задач обсуждалось на стартовой встрече."
+        },
+        {
+          "de": "Die automatische Zuteilung im Ticketsystem spart viel Zeit.",
+          "ru": "Автоматическое назначение в тикет-системе экономит много времени."
+        },
+        {
+          "de": "Nach der Zuteilung des Budgets können wir starten.",
+          "ru": "После распределения бюджета мы можем начинать."
+        }
+      ],
+      "synonyms": [
+        "Zuweisung",
+        "Allokation",
+        "Verteilung"
+      ]
+    },
+    {
+      "word": "die Delegation, die Delegationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "делегирование",
+      "translation_en": "delegation",
+      "examples": [
+        {
+          "de": "Delegation ist eine wichtige Fähigkeit für Führungskräfte.",
+          "ru": "Делегирование — важный навык для руководителей."
+        },
+        {
+          "de": "Die Delegation von Aufgaben schafft freie Kapazitäten.",
+          "ru": "Делегирование задач создает свободные ресурсы (время)."
+        },
+        {
+          "de": "Durch Delegation lernen Mitarbeiter, selbstständig zu arbeiten.",
+          "ru": "Благодаря делегированию сотрудники учатся работать самостоятельно."
+        },
+        {
+          "de": "Eine mangelhafte Delegation führt oft zu Mikromanagement.",
+          "ru": "Недостаточное делегирование часто ведет к микроменеджменту."
+        },
+        {
+          "de": "Wir haben Richtlinien für die Delegation von Entscheidungen festgelegt.",
+          "ru": "Мы установили руководящие принципы для делегирования решений."
+        }
+      ],
+      "synonyms": [
+        "Übertragung",
+        "Bevollmächtigung"
+      ]
+    },
+    {
+      "word": "die Abstimmung, die Abstimmungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "согласование / координация",
+      "translation_en": "coordination / alignment",
+      "examples": [
+        {
+          "de": "Die Abstimmung mit den anderen Abteilungen braucht Zeit.",
+          "ru": "Согласование с другими отделами требует времени."
+        },
+        {
+          "de": "Wir müssen eine enge Abstimmung mit dem Kunden halten.",
+          "ru": "Мы должны поддерживать тесную координацию с клиентом."
+        },
+        {
+          "de": "Nach kurzer Abstimmung haben wir den Termin verschoben.",
+          "ru": "После короткого согласования мы перенесли встречу."
+        },
+        {
+          "de": "Die wöchentliche Abstimmung hilft uns, Fehler zu vermeiden.",
+          "ru": "Еженедельное согласование помогает нам избегать ошибок."
+        },
+        {
+          "de": "Zur Abstimmung des Designs nutzen wir Figma.",
+          "ru": "Для согласования дизайна мы используем Figma."
+        }
+      ],
+      "synonyms": [
+        "Koordination",
+        "Absprache",
+        "Harmonisierung"
+      ]
+    },
+    {
+      "word": "der Aufgabenbereich, die Aufgabenbereiche",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "круг задач / сфера деятельности",
+      "translation_en": "area of responsibility / scope of tasks",
+      "examples": [
+        {
+          "de": "Mein Aufgabenbereich umfasst die Erstellung der Berichte.",
+          "ru": "Мой круг задач включает создание отчетов."
+        },
+        {
+          "de": "Sie hat ihren Aufgabenbereich im neuen Projekt erweitert.",
+          "ru": "Она расширила свою сферу деятельности в новом проекте."
+        },
+        {
+          "de": "Die Grenzen der verschiedenen Aufgabenbereiche sind fließend.",
+          "ru": "Границы различных сфер деятельности размыты."
+        },
+        {
+          "de": "Welcher Aufgabenbereich gehört zu Ihrer Stelle?",
+          "ru": "Какая сфера задач относится к вашей должности?"
+        },
+        {
+          "de": "Wir müssen die Aufgabenbereiche im Team klarer abgrenzen.",
+          "ru": "Мы должны более четко разграничить сферы задач в команде."
+        }
+      ],
+      "synonyms": [
+        "Zuständigkeitsbereich",
+        "Arbeitsbereich"
+      ]
+    },
+    {
+      "word": "die Aufgabenteilung, die Aufgabenteilungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "разделение труда / распределение задач",
+      "translation_en": "division of labor / distribution of tasks",
+      "examples": [
+        {
+          "de": "Die Aufgabenteilung zwischen Designern und Entwicklern ist klar geregelt.",
+          "ru": "Распределение задач между дизайнерами и разработчиками четко отрегулировано."
+        },
+        {
+          "de": "Durch eine gute Aufgabenteilung arbeiten wir viel effizienter.",
+          "ru": "Благодаря хорошему распределению задач мы работаем гораздо эффективнее."
+        },
+        {
+          "de": "Im Kick-off-Meeting wurde die Aufgabenteilung festgelegt.",
+          "ru": "На стартовой встрече было определено разделение труда."
+        },
+        {
+          "de": "Unsere Aufgabenteilung orientiert sich an den Stärken der Teammitglieder.",
+          "ru": "Наше распределение задач ориентируется на сильные стороны членов команды."
+        },
+        {
+          "de": "Gibt es Verbesserungsvorschläge zur aktuellen Aufgabenteilung?",
+          "ru": "Есть ли предложения по улучшению текущего распределения задач?"
+        }
+      ],
+      "synonyms": [
+        "Arbeitsteilung",
+        "Rollenverteilung"
+      ]
+    },
+    {
+      "word": "der Stellvertreter, die Stellvertreter",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "заместитель / заместитель руководителя",
+      "translation_en": "deputy / substitute",
+      "examples": [
+        {
+          "de": "Wenn der Projektleiter krank ist, übernimmt sein Stellvertreter.",
+          "ru": "Если руководитель проекта болен, его обязанности берет на себя его заместитель."
+        },
+        {
+          "de": "Wer ist Ihr offizieller Stellvertreter während Ihres Urlaubs?",
+          "ru": "Кто ваш официальный заместитель во время вашего отпуска?"
+        },
+        {
+          "de": "Der Stellvertreter nahm an der wichtigen Vorstandsitzung teil.",
+          "ru": "Заместитель принял участие в важном заседании правления."
+        },
+        {
+          "de": "Bitte tragen Sie den Stellvertreter im Abwesenheitsassistenten ein.",
+          "ru": "Пожалуйста, укажите заместителя в автоответчике об отсутствии."
+        },
+        {
+          "de": "Er arbeitet eng mit seinem Stellvertreter zusammen.",
+          "ru": "Он тесно сотрудничает со своим заместителем."
+        }
+      ],
+      "synonyms": [
+        "Ersatz",
+        "Vertreter"
+      ]
+    },
+    {
+      "word": "der Fachexperte, die Fachexperten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "профильный специалист / эксперт",
+      "translation_en": "subject matter expert",
+      "examples": [
+        {
+          "de": "Wir müssen für diese Frage einen Fachexperten hinzuziehen.",
+          "ru": "Для решения этого вопроса мы должны привлечь профильного специалиста."
+        },
+        {
+          "de": "Der Fachexperte prüft die technische Machbarkeit der Lösung.",
+          "ru": "Эксперт проверяет техническую реализуемость решения."
+        },
+        {
+          "de": "Unsere Fachexperten arbeiten an einer neuen Sicherheitsrichtlinie.",
+          "ru": "Наши профильные специалисты работают над новой политикой безопасности."
+        },
+        {
+          "de": "Das Feedback des Fachexperten war sehr hilfreich für uns.",
+          "ru": "Отзыв эксперта был очень полезен для нас."
+        },
+        {
+          "de": "Sie gilt im Unternehmen als führende Fachexpertin für Cloud-Technologien.",
+          "ru": "Оna считается в компании ведущим профильным экспертом по облачным технологиям."
+        }
+      ],
+      "synonyms": [
+        "Spezialist",
+        "Experte",
+        "Fachkraft"
+      ]
+    },
+    {
+      "word": "die Koordination, die Koordinationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "координация",
+      "translation_en": "coordination",
+      "examples": [
+        {
+          "de": "Die Koordination der verschiedenen Teilprojekte ist eine Herausforderung.",
+          "ru": "Координация различных подпроектов является сложной задачей."
+        },
+        {
+          "de": "Ohne gute Koordination kommt es zu Doppelarbeit.",
+          "ru": "Без хорошей координации возникает дублирование работы."
+        },
+        {
+          "de": "Die Koordination der Termine erfolgt über Outlook.",
+          "ru": "Координация встреч осуществляется через Outlook."
+        },
+        {
+          "de": "Herr Wagner übernimmt die Koordination zwischen den Teams.",
+          "ru": "Господин Вагнер берет на себя координацию между командами."
+        },
+        {
+          "de": "Eine mangelhafte Koordination gefährdet den Projekterfolg.",
+          "ru": "Недостаточная координация ставит под угрозу успех проекта."
+        }
+      ],
+      "synonyms": [
+        "Abstimmung",
+        "Organisation",
+        "Steuerung"
+      ]
+    },
+    {
+      "word": "die Zusammenarbeit (Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "сотрудничество / совместная работа",
+      "translation_en": "collaboration / cooperation",
+      "examples": [
+        {
+          "de": "Die Zusammenarbeit in unserem Team funktioniert hervorragend.",
+          "ru": "Сотрудничество в нашей команде работает отлично."
+        },
+        {
+          "de": "Wir freuen uns auf die zukünftige Zusammenarbeit mit Ihnen.",
+          "ru": "Мы с нетерпением ждем будущего сотрудничества с вами."
+        },
+        {
+          "de": "Eine erfolgreiche Zusammenarbeit basiert auf Vertrauen.",
+          "ru": "Успешное сотрудничество базируется на доверии."
+        },
+        {
+          "de": "Das Tool Slack erleichtert die Zusammenarbeit im Homeoffice.",
+          "ru": "Инструмент Slack облегчает совместную работу на удаленке."
+        },
+        {
+          "de": "Wir müssen die Zusammenarbeit zwischen Vertrieb und IT verbessern.",
+          "ru": "Мы должны улучшить сотрудничество между отделом продаж и ИТ."
+        }
+      ],
+      "synonyms": [
+        "Kooperation",
+        "Kollaboration",
+        "Gemeinschaftsarbeit"
+      ]
+    },
+    {
+      "word": "der Verantwortungsbereich, die Verantwortungsbereiche",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "зона ответственности",
+      "translation_en": "area of responsibility",
+      "examples": [
+        {
+          "de": "Das Testen der Software gehört zu meinem Verantwortungsbereich.",
+          "ru": "Тестирование программного обеспечения относится к моей зоне ответственности."
+        },
+        {
+          "de": "Jeder Mitarbeiter kennt seinen Verantwortungsbereich genau.",
+          "ru": "Каждый сотрудник точно знает свою зону ответственности."
+        },
+        {
+          "de": "Es gab Konflikte, weil sich die Verantwortungsbereiche überschnitten.",
+          "ru": "Возникли конфликты, так как зоны ответственности пересекались."
+        },
+        {
+          "de": "Der Verantwortungsbereich der Geschäftsführung wurde neu strukturiert.",
+          "ru": "Зона ответственности руководства была структурирована заново."
+        },
+        {
+          "de": "Wer übernimmt diesen Verantwortungsbereich nach ihrer Kündigung?",
+          "ru": "Кто возьмет на себя эту зону ответственности после ее увольнения?"
+        }
+      ],
+      "synonyms": [
+        "Zuständigkeitsbereich",
+        "Verantwortlichkeit"
+      ]
+    },
+    {
+      "word": "die Übergabe, die Übergaben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "передача дел / сдача проекта",
+      "translation_en": "handover",
+      "examples": [
+        {
+          "de": "Die Übergabe des Projekts an den Kunden erfolgt nächste Woche.",
+          "ru": "Передача проекта клиенту состоится на следующей неделе."
+        },
+        {
+          "de": "Wir müssen eine strukturierte Übergabe für meinen Nachfolger vorbereiten.",
+          "ru": "Мы должны подготовить структурированную передачу дел для моего преемника."
+        },
+        {
+          "de": "Bei der Übergabe gab es keine Beanstandungen.",
+          "ru": "При передаче дел замечаний не возникло."
+        },
+        {
+          "de": "Bitte dokumentieren Sie alles Wichtige für die Übergabe.",
+          "ru": "Пожалуйста, задокументируйте всё важное для передачи дел."
+        },
+        {
+          "de": "Das Protokoll der Übergabe muss von beiden Seiten unterschrieben werden.",
+          "ru": "Протокол сдачи проекта должен быть подписан обеими сторонами."
+        }
+      ],
+      "synonyms": [
+        "Ablieferung",
+        "Aushändigung",
+        "Überreichung"
+      ]
+    },
+    {
+      "word": "die Ausführung, die Ausführungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "выполнение / исполнение",
+      "translation_en": "execution / implementation",
+      "examples": [
+        {
+          "de": "Wir befinden uns jetzt in der Phase der Ausführung.",
+          "ru": "Мы сейчас находимся в фазе выполнения."
+        },
+        {
+          "de": "Die Ausführung der Arbeiten entspricht den Qualitätsstandards.",
+          "ru": "Выполнение работ соответствует стандартам качества."
+        },
+        {
+          "de": "Bei der Ausführung des Plans stießen wir auf Probleme.",
+          "ru": "При исполнении плана мы столкнулись с проблемами."
+        },
+        {
+          "de": "Der Projektleiter überwacht die Ausführung der Aufgaben.",
+          "ru": "Руководитель проекта контролирует выполнение задач."
+        },
+        {
+          "de": "Eine sorgfältige Planung erleichtert die spätere Ausführung.",
+          "ru": "Тщательное планирование облегчает последующее выполнение."
+        }
+      ],
+      "synonyms": [
+        "Umsetzung",
+        "Realisation",
+        "Implementierung"
+      ]
+    },
+    {
+      "word": "die Entlastung, die Entlastungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "разгрузка / снижение нагрузки",
+      "translation_en": "workload reduction / relief",
+      "examples": [
+        {
+          "de": "Die Einstellung eines Werkstudenten bringt Entlastung für das Team.",
+          "ru": "Наем студента-практиканта приносит разгрузку для команды."
+        },
+        {
+          "de": "Wir brauchen dringend eine Entlastung der Projektleiter.",
+          "ru": "Нам срочно требуется снижение нагрузки на руководителей проектов."
+        },
+        {
+          "de": "Diese Automatisierung dient der Entlastung unserer Mitarbeiter.",
+          "ru": "Эта автоматизация служит для разгрузки наших сотрудников."
+        },
+        {
+          "de": "Zur Entlastung haben wir einige Aufgaben an ein externes Team delegiert.",
+          "ru": "Для снижения нагрузки мы делегировали некоторые задачи внешней команде."
+        },
+        {
+          "de": "Das neue Zeiterfassungssystem führte nicht zur erhofften Entlastung.",
+          "ru": "Новая система учета рабочего времени не привела к ожидаемой разгрузке."
+        }
+      ],
+      "synonyms": [
+        "Befreiung",
+        "Unterstützung"
+      ]
+    },
+    {
+      "word": "die Pflicht, die Pflichten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "обязанность / долг",
+      "translation_en": "duty / obligation",
+      "examples": [
+        {
+          "de": "Die Dokumentation des Codes ist eine Pflicht für Entwickler.",
+          "ru": "Документирование кода — обязанность разработчиков."
+        },
+        {
+          "de": "Es gehört zu meinen Pflichten, das Protokoll zu schreiben.",
+          "ru": "Написание протокола входит в мои обязанности."
+        },
+        {
+          "de": "Wir müssen unsere vertraglichen Pflichten genau erfüllen.",
+          "ru": "Мы должны точно выполнять наши контрактные обязательства."
+        },
+        {
+          "de": "Jedes Teammitglied hat Rechte und Pflichten.",
+          "ru": "У каждого члена команды есть права и обязанности."
+        },
+        {
+          "de": "Wer hat seine Pflichten vernachlässigt?",
+          "ru": "Кто пренебрег своими обязанностями?"
+        }
+      ],
+      "synonyms": [
+        "Aufgabe",
+        "Verpflichtung"
+      ]
+    },
+    {
+      "word": "die Zuweisung, die Zuweisungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "назначение / распределение",
+      "translation_en": "assignment / allocation",
+      "examples": [
+        {
+          "de": "Die Zuweisung von Tickets erfolgt automatisch im System.",
+          "ru": "Назначение тикетов происходит автоматически в системе."
+        },
+        {
+          "de": "Nach der Zuweisung der Aufgabe erhalten Sie eine E-Mail.",
+          "ru": "После назначения задачи вы получите электронное письмо."
+        },
+        {
+          "de": "Eine fehlerhafte Zuweisung von Ressourcen kann das Projekt verzögern.",
+          "ru": "Неправильное распределение ресурсов может задержать проект."
+        },
+        {
+          "de": "Die Zuweisung der Rollen muss flexibel bleiben.",
+          "ru": "Распределение ролей должно оставаться гибким."
+        },
+        {
+          "de": "Wer kontrolliert die Zuweisung der Benutzerrechte?",
+          "ru": "Кто контролирует назначение прав пользователей?"
+        }
+      ],
+      "synonyms": [
+        "Zuteilung",
+        "Zuordnung"
+      ]
+    },
+    {
+      "word": "die Vertretung, die Vertretungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "замещение / представительство",
+      "translation_en": "representation / deputy / cover",
+      "examples": [
+        {
+          "de": "Ich übernehme während ihres Urlaubs die Vertretung.",
+          "ru": "Я беру на себя ее замещение во время ее отпуска."
+        },
+        {
+          "de": "Bitte klären Sie die Vertretung rechtzeitig vor der Abreise.",
+          "ru": "Пожалуйста, проясните вопрос замещения заблаговременно до отъезда."
+        },
+        {
+          "de": "Wer regelt die Vertretung für das Daily Standup?",
+          "ru": "Кто организует замещение для ежедневного стендапа?"
+        },
+        {
+          "de": "Für Notfälle ist eine Vertretung organisiert.",
+          "ru": "Для экстренных случаев организовано замещение."
+        },
+        {
+          "de": "Die Vertretung des Abteilungsleiters ist heute nicht im Haus.",
+          "ru": "Заместителя начальника отдела сегодня нет в офисе."
+        }
+      ],
+      "synonyms": [
+        "Stellvertretung",
+        "Repräsentanz"
+      ]
+    },
+    {
+      "word": "der Mitarbeiter, die Mitarbeiter",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "сотрудник",
+      "translation_en": "employee / staff member",
+      "examples": [
+        {
+          "de": "Der neue Mitarbeiter fängt am ersten September an.",
+          "ru": "Новый сотрудник начинает работу первого сентября."
+        },
+        {
+          "de": "Wir müssen die Mitarbeiter über die neuen Prozesse informieren.",
+          "ru": "Мы должны проинформировать сотрудников о новых процессах."
+        },
+        {
+          "de": "Ein zufriedener Mitarbeiter arbeitet produktiver.",
+          "ru": "Довольный сотрудник работает более продуктивно."
+        },
+        {
+          "de": "Alle Mitarbeiter sind herzlich zum Teamevent eingeladen.",
+          "ru": "Все сотрудники приглашены на командное мероприятие."
+        },
+        {
+          "de": "Die Schulung der Mitarbeiter beginnt nächste Woche.",
+          "ru": "Обучение сотрудников начинается на следующей неделе."
+        }
+      ],
+      "synonyms": [
+        "Teammitglied",
+        "Personal",
+        "Beschäftigter"
+      ]
+    },
+    {
+      "word": "delegieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "делегировать",
+      "translation_en": "to delegate",
+      "examples": [
+        {
+          "de": "Ein guter Projektleiter muss Aufgaben abgeben und delegieren können.",
+          "ru": "Хороший руководитель проекта должен уметь передавать и делегировать задачи."
+        },
+        {
+          "de": "Warum delegierst du diese Arbeit nicht an deinen Assistenten?",
+          "ru": "Почему бы тебе не делегировать эту работу своему ассистенту?"
+        },
+        {
+          "de": "Wenn wir nicht delegieren, schaffen wir die Frist nicht.",
+          "ru": "Если мы не будем делегировать, мы не уложимся в срок."
+        },
+        {
+          "de": "Sie hat die Verantwortung für das Event an das Team delegiert.",
+          "ru": "Она делегировала ответственность за мероприятие команде."
+        },
+        {
+          "de": "Man kann Aufgaben delegieren, aber nicht die endgültige Verantwortung.",
+          "ru": "Можно делегировать задачи, но не конечную ответственность."
+        }
+      ],
+      "synonyms": [
+        "abkommandieren",
+        "abordnen",
+        "beordern"
+      ],
+      "partizip_2": "delegiert",
+      "imperative": "delegiere! / delegiert! / delegieren Sie!",
+      "conjugations": {
+        "ich": "delegiere",
+        "du": "delegierst",
+        "er/sie/es": "delegiert",
+        "wir": "delegieren",
+        "ihr": "delegiert",
+        "sie/Sie": "delegieren"
+      },
+      "prepositions": [
+        "an + Akkusativ (кому-то)"
+      ]
+    },
+    {
+      "word": "übernehmen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "брать на себя / перенимать",
+      "translation_en": "to take over / to assume",
+      "examples": [
+        {
+          "de": "Wer möchte die Moderation für das nächste Meeting übernehmen?",
+          "ru": "Кто хочет взять на себя модерацию следующей встречи?"
+        },
+        {
+          "de": "Ich übernehme ab morgen die Leitung des Projekts.",
+          "ru": "С завтрашнего дня я беру на себя руководство проектом."
+        },
+        {
+          "de": "Das Team wird die neuen Aufgaben gerne übernehmen.",
+          "ru": "Команда с удовольствием возьмет на себя новые задачи."
+        },
+        {
+          "de": "Er hat sich bereit erklärt, die Vertretung zu übernehmen.",
+          "ru": "Он выразил готовность взять на себя замещение."
+        },
+        {
+          "de": "Übernehmen Sie sich nicht mit zu vielen Aufgaben gleichzeitig.",
+          "ru": "Не перегружайте себя слишком большим количеством задач одновременно."
+        }
+      ],
+      "synonyms": [
+        "Annahme",
+        "Übernahme",
+        "Suszeption"
+      ],
+      "partizip_2": "übernommen",
+      "imperative": "übernimm! / übernehmt! / übernehmen Sie!",
+      "conjugations": {
+        "ich": "übernehme",
+        "du": "übernimmst",
+        "er/sie/es": "übernimmt",
+        "wir": "übernehmen",
+        "ihr": "übernehmt",
+        "sie/Sie": "übernehmen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "zuweisen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "назначать / распределять",
+      "translation_en": "to assign / to allocate",
+      "examples": [
+        {
+          "de": "Der Teamleiter muss die Aufgaben den Entwicklern zuweisen.",
+          "ru": "Руководитель команды должен распределить задачи между разработчиками."
+        },
+        {
+          "de": "Dieses Ticket wurde mir fälschlicherweise zugewiesen.",
+          "ru": "Этот тикет был ошибочно назначен на меня."
+        },
+        {
+          "de": "Wir müssen jedem Arbeitspaket ein Budget zuweisen.",
+          "ru": "Мы должны выделить бюджет на каждый рабочий пакет."
+        },
+        {
+          "de": "Wer weist im System die Rollen zu?",
+          "ru": "Кто назначает роли в системе?"
+        },
+        {
+          "de": "Die Aufgaben wurden den Teammitgliedern gleichmäßig zugewiesen.",
+          "ru": "Задачи were равномерно распределены между членами команды."
+        }
+      ],
+      "synonyms": [
+        "zuordnen",
+        "assoziieren",
+        "binden an"
+      ],
+      "partizip_2": "zugewiesen",
+      "imperative": "weise zu! / weist zu! / weisen Sie zu!",
+      "conjugations": {
+        "ich": "weise zu",
+        "du": "weist zu",
+        "er/sie/es": "weist zu",
+        "wir": "weisen zu",
+        "ihr": "weist zu",
+        "sie/Sie": "weisen zu"
+      },
+      "prepositions": [
+        "an + Akkusativ (кому-то)",
+        "zu + Dativ (к чему-то)"
+      ]
+    },
+    {
+      "word": "koordinieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "координировать",
+      "translation_en": "to coordinate",
+      "examples": [
+        {
+          "de": "Sie müssen die Termine mit den externen Partnern koordinieren.",
+          "ru": "Вы должны координировать встречи с внешними партнерами."
+        },
+        {
+          "de": "Wer koordiniert die verschiedenen Aufgaben im Team?",
+          "ru": "Кто координирует различные задачи в команде?"
+        },
+        {
+          "de": "Wir müssen unsere Aktivitäten besser koordinieren, um Zeit zu sparen.",
+          "ru": "Мы должны лучше координировать наши действия, чтобы сэкономить время."
+        },
+        {
+          "de": "Der Projektleiter koordiniert die Zusammenarbeit aller Beteiligten.",
+          "ru": "Руководитель проекта координирует совместную работу всех участников."
+        },
+        {
+          "de": "Es ist schwer, ein internationales Projekt über Zeitzonen hinweg zu koordinieren.",
+          "ru": "Сложно координировать международный проект в разных часовых поясах."
+        }
+      ],
+      "synonyms": [
+        "absprechen",
+        "abstimmen"
+      ],
+      "partizip_2": "koordiniert",
+      "imperative": "koordiniere! / koordiniert! / koordinieren Sie!",
+      "conjugations": {
+        "ich": "koordiniere",
+        "du": "koordinierst",
+        "er/sie/es": "koordiniert",
+        "wir": "koordinieren",
+        "ihr": "koordiniert",
+        "sie/Sie": "koordinieren"
+      },
+      "prepositions": [
+        "mit + Dativ (с кем-то)"
+      ]
+    },
+    {
+      "word": "abstimmen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "согласовывать / координировать",
+      "translation_en": "to coordinate / to align / to vote",
+      "examples": [
+        {
+          "de": "Wir müssen das Design noch mit dem Kunden abstimmen.",
+          "ru": "Нам еще нужно согласовать дизайн с клиентом."
+        },
+        {
+          "de": "Bitte stimmen Sie den Termin intern ab, bevor Sie zusagen.",
+          "ru": "Пожалуйста, согласуйте дату внутри компании, прежде чем давать согласие."
+        },
+        {
+          "de": "Wir haben uns über die nächsten Schritte kurz abgestimmt.",
+          "ru": "Мы коротко согласовали следующие шаги."
+        },
+        {
+          "de": "Das Vorgehen wird eng mit der Geschäftsführung abgestimmt.",
+          "ru": "Действия тесно согласуются с руководством."
+        },
+        {
+          "de": "Lass uns die Details beim nächsten Jour Fixe abstimmen.",
+          "ru": "Давай согласуем детали на следующей регулярной встрече."
+        }
+      ],
+      "synonyms": [
+        "Abstimmung",
+        "Entscheidung",
+        "Urteilsfindung"
+      ],
+      "partizip_2": "abgestimmet",
+      "imperative": "stimme ab! / stimmet ab! / stimmen Sie ab!",
+      "conjugations": {
+        "ich": "stimme ab",
+        "du": "stimmest ab",
+        "er/sie/es": "stimmet ab",
+        "wir": "stimmen ab",
+        "ihr": "stimmet ab",
+        "sie/Sie": "stimmen ab"
+      },
+      "prepositions": [
+        "mit + Dativ (с кем-то)",
+        "über + Akkusativ (о чём-то)"
+      ]
+    },
+    {
+      "word": "ausführen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "выполнять / исполнять",
+      "translation_en": "to execute / to carry out",
+      "examples": [
+        {
+          "de": "Wir müssen den plan genau so ausführen, wie er beschlossen wurde.",
+          "ru": "Мы должны выполнить план именно так, как он был принят."
+        },
+        {
+          "de": "Das System führt das Skript jede Nacht automatisch aus.",
+          "ru": "Система автоматически выполняет скрипт каждую ночь."
+        },
+        {
+          "de": "Er hat die ihm übertragenen Aufgaben gewissenhaft ausgeführt.",
+          "ru": "Он добросовестно выполнил порученные ему задачи."
+        },
+        {
+          "de": "Wer wird diese Arbeiten vor Ort ausführen?",
+          "ru": "Кто будет выполнять эти работы на месте?"
+        },
+        {
+          "de": "Eine schlecht ausgeführte Aufgabe führt zu Qualitätsmängeln.",
+          "ru": "Плохо выполненная задача ведет к дефектам качества."
+        }
+      ],
+      "synonyms": [
+        "exportieren",
+        "durchführen",
+        "realisieren"
+      ],
+      "partizip_2": "ausgeführt",
+      "imperative": "führe aus! / führt aus! / führen Sie aus!",
+      "conjugations": {
+        "ich": "führe aus",
+        "du": "führst aus",
+        "er/sie/es": "führt aus",
+        "wir": "führen aus",
+        "ihr": "führt aus",
+        "sie/Sie": "führen aus"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "verteilen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "распределять / раздавать",
+      "translation_en": "to distribute / to allocate",
+      "examples": [
+        {
+          "de": "Der Projektleiter verteilt die Aufgaben im wöchentlichen Meeting.",
+          "ru": "Руководитель проекта распределяет задачи на еженедельном совещании."
+        },
+        {
+          "de": "Wir müssen die Arbeitslast gleichmäßiger auf das Team verteilen.",
+          "ru": "Мы должны более равномерно распределить рабочую нагрузку в команде."
+        },
+        {
+          "de": "Die Dokumente wurden bereits an alle Teilnehmer verteilt.",
+          "ru": "Документы уже были разосланы всем участникам."
+        },
+        {
+          "de": "Wer verteilt das Budget auf die einzelnen Phasen?",
+          "ru": "Кто распределяет бюджет по отдельным этапам?"
+        },
+        {
+          "de": "Aufgaben sollten nach den Fähigkeiten der Mitarbeiter verteilt werden.",
+          "ru": "Задачи должны распределяться в соответствии со способностями сотрудников."
+        }
+      ],
+      "synonyms": [
+        "auftragen",
+        "verschmieren",
+        "austeilen"
+      ],
+      "partizip_2": "verteilt",
+      "imperative": "verteile! / verteilt! / verteilen Sie!",
+      "conjugations": {
+        "ich": "verteile",
+        "du": "verteilst",
+        "er/sie/es": "verteilt",
+        "wir": "verteilen",
+        "ihr": "verteilt",
+        "sie/Sie": "verteilen"
+      },
+      "prepositions": [
+        "an + Akkusativ (кому-то)",
+        "auf + Akkusativ (между кем-то / на какой-то срок)"
+      ]
+    },
+    {
+      "word": "verantworten",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "отвечать за / быть ответственным",
+      "translation_en": "to be responsible for / to answer for",
+      "examples": [
+        {
+          "de": "Der Projektleiter verantwortet das gesamte Budget.",
+          "ru": "Руководитель проекта отвечает за весь бюджет."
+        },
+        {
+          "de": "Wer verantwortet die Einhaltung der Sicherheitsrichtlinien?",
+          "ru": "Кто отвечает за соблюдение правил безопасности."
+        },
+        {
+          "de": "Er verantwortet den Bereich Softwareentwicklung in unserer Firma.",
+          "ru": "Он отвечает за направление разработки ПО в нашей компании."
+        },
+        {
+          "de": "Dieses Risiko müssen Sie vor dem Vorstand verantworten.",
+          "ru": "За этот риск вам придется отвечать перед правлением."
+        },
+        {
+          "de": "Sie verantwortet die Freigabe des neuen Produkts.",
+          "ru": "Она отвечает за выпуск нового продукта."
+        }
+      ],
+      "synonyms": [
+        "verantwortlich",
+        "Verantwortung tragen",
+        "vertreten müssen"
+      ],
+      "partizip_2": "verantwortet",
+      "imperative": "verantworte! / verantwortet! / verantworten Sie!",
+      "conjugations": {
+        "ich": "verantworte",
+        "du": "verantwortest",
+        "er/sie/es": "verantwortet",
+        "wir": "verantworten",
+        "ihr": "verantwortet",
+        "sie/Sie": "verantworten"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "leiten",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "руководить / вести",
+      "translation_en": "to lead / to manage / to run",
+      "examples": [
+        {
+          "de": "Seit zwei Jahren leitet sie dieses anspruchsvolle Projekt.",
+          "ru": "Она руководит этим сложным проектом уже два года."
+        },
+        {
+          "de": "Wer wird das morgige Meeting leiten?",
+          "ru": "Кто будет вести завтрашнее собрание?"
+        },
+        {
+          "de": "Er leitet ein Team von zehn Softwareentwicklern.",
+          "ru": "Он руководит командой из десяти разработчиков ПО."
+        },
+        {
+          "de": "Es ist schwer, ein Projekt ohne klare Befugnisse zu leiten.",
+          "ru": "Трудно руководить проектом без четких полномочий."
+        },
+        {
+          "de": "Er leitet die Abteilung übergangsweise bis zur Neubesetzung.",
+          "ru": "Он временно руководит отделом до назначения нового человека."
+        }
+      ],
+      "synonyms": [
+        "navigieren",
+        "routen",
+        "schicken"
+      ],
+      "partizip_2": "geleitet",
+      "imperative": "leite! / leitet! / leiten Sie!",
+      "conjugations": {
+        "ich": "leite",
+        "du": "leitest",
+        "er/sie/es": "leitet",
+        "wir": "leiten",
+        "ihr": "leitet",
+        "sie/Sie": "leiten"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "unterstützen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "поддерживать / помогать",
+      "translation_en": "to support / to assist",
+      "examples": [
+        {
+          "de": "Können Sie mich bei dieser Aufgabe unterstützen?",
+          "ru": "Можете ли вы помочь мне с этой задачей?"
+        },
+        {
+          "de": "Wir unterstützen uns im Team gegenseitig bei Problemen.",
+          "ru": "Мы в команде поддерживаем друг друга при возникновении проблем."
+        },
+        {
+          "de": "Die Geschäftsführung unterstützt das Projekt voll und ganz.",
+          "ru": "Руководство полностью поддерживает проект."
+        },
+        {
+          "de": "Das neue Tool wird uns bei der Arbeit sehr unterstützen.",
+          "ru": "Новый инструмент очень поможет нам в работе."
+        },
+        {
+          "de": "Ein externer Berater wird das Team in der Testphase unterstützen.",
+          "ru": "Внешний консультант поддержит команду на этапе тестирования."
+        }
+      ],
+      "synonyms": [
+        "anpreisen",
+        "aussprechen für",
+        "befürworten"
+      ],
+      "partizip_2": "unterstützt",
+      "imperative": "unterstütze! / unterstützt! / unterstützen Sie!",
+      "conjugations": {
+        "ich": "unterstütze",
+        "du": "unterstützt",
+        "er/sie/es": "unterstützt",
+        "wir": "unterstützen",
+        "ihr": "unterstützt",
+        "sie/Sie": "unterstützen"
+      },
+      "prepositions": [
+        "bei + Dativ (в чём-то)"
+      ]
+    },
+    {
+      "word": "beitragen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "вносить вклад / способствовать",
+      "translation_en": "to contribute",
+      "examples": [
+        {
+          "de": "Jedes Teammitglied muss zum Erfolg des Projekts beitragen.",
+          "ru": "Каждый член команды должен вносить вклад в успех проекта."
+        },
+        {
+          "de": "Ihre Erfahrung wird wesentlich zur Qualitätsverbesserung beitragen.",
+          "ru": "Ваш опыт внесет существенный вклад в улучшение качества."
+        },
+        {
+          "de": "Was können Sie zu diesem Thema beitragen?",
+          "ru": "Что вы можете внести по этой теме?"
+        },
+        {
+          "de": "Diese Entscheidung wird dazu beitragen, Kosten zu senken.",
+          "ru": "Это решение будет способствовать снижению затрат."
+        },
+        {
+          "de": "Gute Kommunikation trägt zur Zufriedenheit der Kunden bei.",
+          "ru": "Хорошая коммуникация способствует удовлетворенности клиентов."
+        }
+      ],
+      "synonyms": [
+        "dienlich sein",
+        "einbringen",
+        "förderlich sein"
+      ],
+      "partizip_2": "beigetragen",
+      "imperative": "trage bei! / tragt bei! / tragen Sie bei!",
+      "conjugations": {
+        "ich": "trage bei",
+        "du": "trägst bei",
+        "er/sie/es": "trägt bei",
+        "wir": "tragen bei",
+        "ihr": "tragt bei",
+        "sie/Sie": "tragen bei"
+      },
+      "prepositions": [
+        "zu + Dativ (к чему-то)"
+      ]
+    },
+    {
+      "word": "zusammenarbeiten",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "сотрудничать / работать вместе",
+      "translation_en": "to collaborate / to work together",
+      "examples": [
+        {
+          "de": "Wir arbeiten eng mit der Marketingabteilung zusammen.",
+          "ru": "Мы тесно сотрудничаем с отделом маркетинга."
+        },
+        {
+          "de": "Es macht Spaß, mit so motivierten Kollegen zusammenzuarbeiten.",
+          "ru": "Приятно работать вместе с такими мотивированными коллегами."
+        },
+        {
+          "de": "Das Team muss lernen, über Abteilungen hinweg zusammenzuarbeiten.",
+          "ru": "Команда должна научиться сотрудничать между отделами."
+        },
+        {
+          "de": "Wir haben in der Vergangenheit bereits erfolgreich zusammengearbeitet.",
+          "ru": "В прошлом мы уже успешно сотрудничали."
+        },
+        {
+          "de": "Um dieses Ziel zu erreichen, müssen alle Abteilungen zusammenarbeiten.",
+          "ru": "Чтобы достичь этой цели, все отделы должны работать вместе."
+        }
+      ],
+      "synonyms": [
+        "gemeinsam handeln",
+        "kooperieren",
+        "mitarbeiten"
+      ],
+      "partizip_2": "zusammengearbeitet",
+      "imperative": "arbeite zusammen! / arbeitet zusammen! / arbeiten Sie zusammen!",
+      "conjugations": {
+        "ich": "arbeite zusammen",
+        "du": "arbeitest zusammen",
+        "er/sie/es": "arbeitet zusammen",
+        "wir": "arbeiten zusammen",
+        "ihr": "arbeitet zusammen",
+        "sie/Sie": "arbeiten zusammen"
+      },
+      "prepositions": [
+        "mit + Dativ (с кем-то)",
+        "an + Dativ (над чем-то)"
+      ]
+    },
+    {
+      "word": "vereinbaren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "согласовывать / договариваться",
+      "translation_en": "to agree on / to arrange",
+      "examples": [
+        {
+          "de": "Wir müssen einen Termin für das Kick-off-Meeting vereinbaren.",
+          "ru": "Мы должны согласовать дату для стартовой встречи."
+        },
+        {
+          "de": "Habt ihr schon die Kriterien für die Abnahme vereinbart?",
+          "ru": "Вы уже согласовали критерии приемки?"
+        },
+        {
+          "de": "Die Vertragspartner haben Stillschweigen vereinbart.",
+          "ru": "Стороны договора договорились о конфиденциальности."
+        },
+        {
+          "de": "Bitte vereinbaren Sie ein persönliches Gespräch mit dem Kunden.",
+          "ru": "Пожалуйста, договоритесь о личной встрече с клиентом."
+        },
+        {
+          "de": "Wir haben vereinbart, uns jeden Montag abzustimmen.",
+          "ru": "Мы договорились согласовывать действия каждый понедельник."
+        }
+      ],
+      "synonyms": [
+        "abmachen",
+        "Abmachung treffen",
+        "Absprache treffen"
+      ],
+      "partizip_2": "vereinbart",
+      "imperative": "vereinbare! / vereinbart! / vereinbaren Sie!",
+      "conjugations": {
+        "ich": "vereinbare",
+        "du": "vereinbarst",
+        "er/sie/es": "vereinbart",
+        "wir": "vereinbaren",
+        "ihr": "vereinbart",
+        "sie/Sie": "vereinbaren"
+      },
+      "prepositions": [
+        "mit + Dativ (с кем-то)"
+      ]
+    },
+    {
+      "word": "festlegen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "определять / устанавливать",
+      "translation_en": "to determine / to define / to set",
+      "examples": [
+        {
+          "de": "Wir müssen die Prioritäten für den nächsten Sprint festlegen.",
+          "ru": "Мы должны определить приоритеты для следующего sprints."
+        },
+        {
+          "de": "Wer legt die Deadlines für die Arbeitspakete fest?",
+          "ru": "Кто устанавливает сроки для рабочих пакетов?"
+        },
+        {
+          "de": "Das Budget wurde im Projektvertrag festgelegt.",
+          "ru": "Бюджет был зафиксирован в контракте проекта."
+        },
+        {
+          "de": "Wir sollten klare Regeln für die Kommunikation im Team festlegen.",
+          "ru": "Нам следует установить четкие правила для коммуникации в команде."
+        },
+        {
+          "de": "Die Kriterien für den Projekterfolg müssen vorab festgelegt werden.",
+          "ru": "Критерии успеха проекта должны быть определены заранее."
+        }
+      ],
+      "synonyms": [
+        "abgrenzen",
+        "abstecken",
+        "bestimmen"
+      ],
+      "partizip_2": "gefestlegt",
+      "imperative": "festlege! / festlegt! / festlegen Sie!",
+      "conjugations": {
+        "ich": "festlege",
+        "du": "festlegst",
+        "er/sie/es": "festlegt",
+        "wir": "festlegen",
+        "ihr": "festlegt",
+        "sie/Sie": "festlegen"
+      },
+      "prepositions": [
+        "auf + Akkusativ (на чём-то / sich festlegen auf)"
+      ]
+    },
+    {
+      "word": "regeln",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "регулировать / улаживать",
+      "translation_en": "to regulate / to arrange / to settle",
+      "examples": [
+        {
+          "de": "Die Vertretung im Urlaubsfall ist klar geregelt.",
+          "ru": "Замещение на случай отпуска четко отрегулировано."
+        },
+        {
+          "de": "Wer regelt die Verteilung der Aufgaben, wenn der Chef weg ist?",
+          "ru": "Кто регулирует распределение задач, когда начальника нет?"
+        },
+        {
+          "de": "Wir müssen diesen Konflikt im Team intern regeln.",
+          "ru": "Мы должны уладить этот конфликт внутри команды."
+        },
+        {
+          "de": "Die Details der Zusammenarbeit sind im Vertrag geregelt.",
+          "ru": "Детали сотрудничества прописаны в договоре."
+        },
+        {
+          "de": "Bitte regeln Sie das Problem so schnell wie möglich.",
+          "ru": "Пожалуйста, уладьте эту проблему как можно быстрее."
+        }
+      ],
+      "synonyms": [
+        "beherrschen",
+        "herrschen",
+        "managen"
+      ],
+      "partizip_2": "geregelt",
+      "imperative": "regele! / regelt! / regeln Sie!",
+      "conjugations": {
+        "ich": "regele",
+        "du": "regelst",
+        "er/sie/es": "regelt",
+        "wir": "regeln",
+        "ihr": "regelt",
+        "sie/Sie": "regeln"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "erledigen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "выполнять / делать (работу)",
+      "translation_en": "to complete / to get done / to deal with",
+      "examples": [
+        {
+          "de": "Ich muss diese Aufgabe bis heute Abend erledigen.",
+          "ru": "Я должен выполнить эту задачу до сегодняшнего вечера."
+        },
+        {
+          "de": "Haben Sie alle offenen Punkte aus dem Protokoll erledigt?",
+          "ru": "Вы выполнили все открытые пункты из протокола?"
+        },
+        {
+          "de": "Das Problem hat sich von selbst erledigt.",
+          "ru": "Проблема решилась сама собой."
+        },
+        {
+          "de": "Wir müssen die dringenden Aufgaben zuerst erledigen.",
+          "ru": "Мы должны сначала сделать срочные задачи."
+        },
+        {
+          "de": "Wer erledigt die Ablage der Projektdokumente?",
+          "ru": "Кто занимается архивированием проектных документов?"
+        }
+      ],
+      "synonyms": [
+        "abschließen",
+        "absolvieren",
+        "erfüllen"
+      ],
+      "partizip_2": "erledigt",
+      "imperative": "erledige! / erledigt! / erledigen Sie!",
+      "conjugations": {
+        "ich": "erledige",
+        "du": "erledigst",
+        "er/sie/es": "erledigt",
+        "wir": "erledigen",
+        "ihr": "erledigt",
+        "sie/Sie": "erledigen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "bewältigen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "справляться / преодолевать",
+      "translation_en": "to manage / to overcome / to cope with",
+      "examples": [
+        {
+          "de": "Gemeinsam können wir diese große Herausforderung bewältigen.",
+          "ru": "Вместе мы сможем справиться с этим большим вызовом."
+        },
+        {
+          "de": "Wie wollen wir dieses enorme Arbeitspensum bewältigen?",
+          "ru": "Как мы собираемся справиться с этим огромным объемом работы?"
+        },
+        {
+          "de": "Das Team hat die Krise im Projekt gut bewältigt.",
+          "ru": "Команда хорошо справилась с кризисом в проекте."
+        },
+        {
+          "de": "Mit den richtigen Tools lässt sich das Projekt leicht bewältigen.",
+          "ru": "С правильными инструментами с проектом можно легко справиться."
+        },
+        {
+          "de": "Er hat alle Hindernisse auf dem Weg zum Ziel bewältigt.",
+          "ru": "Он преодолел все препятствия на пути к цели."
+        }
+      ],
+      "synonyms": [
+        "fertigbekommen",
+        "bewerkstelligen",
+        "Herr werden"
+      ],
+      "partizip_2": "bewältigt",
+      "imperative": "bewältige! / bewältigt! / bewältigen Sie!",
+      "conjugations": {
+        "ich": "bewältige",
+        "du": "bewältigst",
+        "er/sie/es": "bewältigt",
+        "wir": "bewältigen",
+        "ihr": "bewältigt",
+        "sie/Sie": "bewältigen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "übertragen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "поручать / передавать (задачу)",
+      "translation_en": "to assign / to transfer / to delegate",
+      "examples": [
+        {
+          "de": "Der Projektleiter hat mir die Verantwortung für das Budget übertragen.",
+          "ru": "Руководитель проекта передал мне ответственность за бюджет."
+        },
+        {
+          "de": "Ihm wurde eine sehr wichtige Aufgabe im neuen Projekt übertragen.",
+          "ru": "Ему поручили очень важную задачу в новом проекте."
+        },
+        {
+          "de": "Kann man diese Methode auch auf andere Projekte übertragen?",
+          "ru": "Можно ли перенести этот метод и на другие проекты?"
+        },
+        {
+          "de": "Wir haben die Daten erfolgreich in das neue System übertragen.",
+          "ru": "Мы успешно перенесли данные в новую систему."
+        },
+        {
+          "de": "Bitte übertragen Sie diese Termine in Ihren Kalender.",
+          "ru": "Пожалуйста, перенесите эти встречи в свой календарь."
+        }
+      ],
+      "synonyms": [
+        "transferieren",
+        "veräußern",
+        "leiten"
+      ],
+      "partizip_2": "übertragen",
+      "imperative": "übertrage! / übertragt! / übertragen Sie!",
+      "conjugations": {
+        "ich": "übertrage",
+        "du": "überträgst",
+        "er/sie/es": "überträgt",
+        "wir": "übertragen",
+        "ihr": "übertragt",
+        "sie/Sie": "übertragen"
+      },
+      "prepositions": [
+        "an + Akkusativ (кому-то)",
+        "auf + Akkusativ (на кого-то / что-то)"
+      ]
+    },
+    {
+      "word": "einteilen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "распределять / планировать",
+      "translation_en": "to divide / to schedule / to budget",
+      "examples": [
+        {
+          "de": "Du musst dir deine Zeit im Projekt besser einteilen.",
+          "ru": "Тебе нужно лучше распределять свое время в проекте."
+        },
+        {
+          "de": "Wir haben das Projekt in fünf Phasen eingeteilt.",
+          "ru": "Мы разделили проект на пять фаз."
+        },
+        {
+          "de": "Wer teilt die Mitarbeiter für die Schichten ein?",
+          "ru": "Кто распределяет сотрудников по сменам?"
+        },
+        {
+          "de": "Bei diesem Pensum must ich meine Kräfte gut einteilen.",
+          "ru": "При такой нагрузке мне нужно хорошо распределять свои силы."
+        },
+        {
+          "de": "Die Aufgaben wurden in verschiedene Kategorien eingeteilt.",
+          "ru": "Задачи были разделены на разные категории."
+        }
+      ],
+      "synonyms": [
+        "aufteilen",
+        "einordnen",
+        "kategorisieren"
+      ],
+      "partizip_2": "eingeteilt",
+      "imperative": "teile ein! / teilt ein! / teilen Sie ein!",
+      "conjugations": {
+        "ich": "teile ein",
+        "du": "teilst ein",
+        "er/sie/es": "teilt ein",
+        "wir": "teilen ein",
+        "ihr": "teilt ein",
+        "sie/Sie": "teilen ein"
+      },
+      "prepositions": [
+        "in + Akkusativ (на части/фазы)",
+        "für + Akkusativ (для выполнения чего-то)"
+      ]
+    },
+    {
+      "word": "zuständig",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "ответственный / компетентный",
+      "translation_en": "responsible / in charge",
+      "examples": [
+        {
+          "de": "Wer ist für die Freigabe der Dokumente zuständig?",
+          "ru": "Кто отвечает за утверждение документов?"
+        },
+        {
+          "de": "Für technische Probleme ist unsere IT-Abteilung zuständig.",
+          "ru": "За технические проблемы отвечает наш IT-отдел."
+        },
+        {
+          "de": "Ich bin in diesem Projekt nicht für das Budget zuständig.",
+          "ru": "В этом проекте я не отвечаю за бюджет."
+        },
+        {
+          "de": "Bitte wenden Sie sich an die zuständige Person.",
+          "ru": "Пожалуйста, обратитесь к ответственному лицу."
+        },
+        {
+          "de": "Wir müssen klären, wer für die Kundenkommunikation zuständig ist.",
+          "ru": "Мы должны прояснить, кто отвечает за коммуникацию с клиентами."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "verantwortlich",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "ответственный",
+      "translation_en": "responsible",
+      "examples": [
+        {
+          "de": "Der Projektleiter ist für den Projekterfolg verantwortlich.",
+          "ru": "Руководитель проекта является ответственным за успех проекта."
+        },
+        {
+          "de": "Wer ist verantwortlich für diesen Fehler im Code?",
+          "ru": "Кто несет ответственность за эту ошибку в коде?"
+        },
+        {
+          "de": "Sie ist verantwortlich für die Koordination des Teams.",
+          "ru": "Она отвечает за координацию команды."
+        },
+        {
+          "de": "Wir fühlen uns für die Zufriedenheit unserer Kunden verantwortlich.",
+          "ru": "Мы чувствуем себя ответственными за удовлетворенность наших клиентов."
+        },
+        {
+          "de": "Ein verantwortliches Handeln ist in diesem Projekt entscheidend.",
+          "ru": "Ответственные действия имеют решающее значение в этом проекте."
+        }
+      ],
+      "synonyms": [
+        "Aufgabe sein",
+        "Sache  sein",
+        "verantworten"
+      ]
+    },
+    {
+      "word": "weisungsbefugt",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "уполномоченный давать указания",
+      "translation_en": "authorized to give instructions",
+      "examples": [
+        {
+          "de": "Nur der Projektleiter ist gegenüber dem Team weisungsbefugt.",
+          "ru": "Только руководитель проекта уполномочен давать указания команде."
+        },
+        {
+          "de": "Externe Berater sind in der Regel nicht weisungsbefugt.",
+          "ru": "Внешние консультанты, как правило, не имеют полномочий давать указания."
+        },
+        {
+          "de": "Wer ist in dieser Matrixorganisation für mich weisungsbefugt?",
+          "ru": "Кто в этой матричной структуре имеет право давать мне указания?"
+        },
+        {
+          "de": "Die Abteilungsleiterin ist für alle Mitarbeiter weisungsbefugt.",
+          "ru": "Начальница отдела уполномочена давать указания всем сотрудникам."
+        },
+        {
+          "de": "Klare Linien helfen zu wissen, wer wem gegenüber weisungsbefugt ist.",
+          "ru": "Четкие линии помогают знать, кто перед кем имеет право давать указания."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "überlastet",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "перегруженный",
+      "translation_en": "overloaded / overworked",
+      "examples": [
+        {
+          "de": "Das Entwicklungsteam ist im Moment völlig überlastet.",
+          "ru": "Команда разработчиков в данный момент полностью перегружена."
+        },
+        {
+          "de": "Wenn Mitarbeiter überlastet sind, sinkt die Qualität der Arbeit.",
+          "ru": "Когда сотрудники перегружены, качество работы снижается."
+        },
+        {
+          "de": "Wir müssen Aufgaben abgeben, weil wir überlastet sind.",
+          "ru": "Мы должны передать задачи другим, потому что перегружены."
+        },
+        {
+          "de": "Der Server ist wegen der vielen Anfragen überlastet.",
+          "ru": "Сервер перегружен из-за большого количества запросов."
+        },
+        {
+          "de": "Um nicht überlastet zu werden, müssen wir 'Nein' sagen lernen.",
+          "ru": "Чтобы не перегружаться, мы должны научиться говорить 'нет'."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "eigenverantwortlich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "самостоятельный / под собственную ответственность",
+      "translation_en": "independent / responsible for oneself",
+      "examples": [
+        {
+          "de": "Unsere Entwickler arbeiten sehr eigenverantwortlich.",
+          "ru": "Наши разработчики работают очень самостоятельно."
+        },
+        {
+          "de": "In agilen Teams ist eigenverantwortliches Handeln wichtig.",
+          "ru": "В гибких командах важны самостоятельные действия."
+        },
+        {
+          "de": "Sie hat das Projekt eigenverantwortlich zum Erfolg geführt.",
+          "ru": "Она самостоятельно привела проект к успеху."
+        },
+        {
+          "de": "Wir fördern eine eigenverantwortliche Arbeitsweise.",
+          "ru": "Мы стимулируем самостоятельный стиль работы."
+        },
+        {
+          "de": "Jeder Mitarbeiter übernimmt eigenverantwortlich seine Aufgaben.",
+          "ru": "Каждый сотрудник самостоятельно выполняет свои задачи."
+        }
+      ],
+      "synonyms": [
+        "autonom",
+        "eigenständig",
+        "in Eigenregie"
+      ]
+    }
+  ]
+}

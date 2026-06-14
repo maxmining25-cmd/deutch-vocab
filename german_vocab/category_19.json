@@ -1,0 +1,2864 @@
+{
+  "category": "Wohnung & Anmeldung",
+  "words": [
+    {
+      "word": "die Wohnung, die Wohnungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "квартира",
+      "translation_en": "apartment / flat",
+      "examples": [
+        {
+          "de": "Hier ist die Wohnung.",
+          "ru": "Вот квартира."
+        },
+        {
+          "de": "Wir müssen die Wohnung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: квартира."
+        },
+        {
+          "de": "Sind Sie mit der Wohnung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: квартира?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Wohnung.",
+          "ru": "Сегодня мы концентрируемся на теме: квартира."
+        },
+        {
+          "de": "Die Wohnung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Квартира играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Unterkunft",
+        "Heim",
+        "Apartment"
+      ]
+    },
+    {
+      "word": "das Haus, die Häuser",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "дом",
+      "translation_en": "house",
+      "examples": [
+        {
+          "de": "Hier ist das Haus.",
+          "ru": "Вот дом."
+        },
+        {
+          "de": "Wir müssen das Haus genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: дом."
+        },
+        {
+          "de": "Sind Sie mit dem Haus einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: дом?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Haus.",
+          "ru": "Сегодня мы концентрируемся на теме: дом."
+        },
+        {
+          "de": "Das Haus spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Дом играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Miete, die Mieten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "арендная плата / аренда",
+      "translation_en": "rent",
+      "examples": [
+        {
+          "de": "Hier ist die Miete.",
+          "ru": "Вот арендная плата / аренда."
+        },
+        {
+          "de": "Wir müssen die Miete genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: арендная плата / аренда."
+        },
+        {
+          "de": "Sind Sie mit der Miete einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: арендная плата / аренда?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Miete.",
+          "ru": "Сегодня мы концентрируемся на теме: арендная плата / аренда."
+        },
+        {
+          "de": "Die Miete spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Арендная плата / аренда играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Mietgebühr",
+        "Mietzahlung"
+      ]
+    },
+    {
+      "word": "die Kaltmiete, die Kaltmieten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "базовая арендная плата (без коммунальных услуг)",
+      "translation_en": "base rent",
+      "examples": [
+        {
+          "de": "Hier ist die Kaltmiete.",
+          "ru": "Вот базовая арендная плата (без коммунальных услуг)."
+        },
+        {
+          "de": "Wir müssen die Kaltmiete genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: базовая арендная плата (без коммунальных услуг)."
+        },
+        {
+          "de": "Sind Sie mit der Kaltmiete einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: базовая арендная плата (без коммунальных услуг)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kaltmiete.",
+          "ru": "Сегодня мы концентрируемся на теме: базовая арендная плата (без коммунальных услуг)."
+        },
+        {
+          "de": "Die Kaltmiete spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Базовая арендная плата (без коммунальных услуг) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Warmmiete, die Warmmieten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "арендная плата с коммунальными услугами",
+      "translation_en": "rent including heating",
+      "examples": [
+        {
+          "de": "Hier ist die Warmmiete.",
+          "ru": "Вот арендная плата с коммунальными услугами."
+        },
+        {
+          "de": "Wir müssen die Warmmiete genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: арендная плата с коммунальными услугами."
+        },
+        {
+          "de": "Sind Sie mit der Warmmiete einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: арендная плата с коммунальными услугами?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Warmmiete.",
+          "ru": "Сегодня мы концентрируемся на теме: арендная плата с коммунальными услугами."
+        },
+        {
+          "de": "Die Warmmiete spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Арендная плата с коммунальными услугами играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Nebenkosten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "коммунальные услуги / дополнительные расходы",
+      "translation_en": "utility costs",
+      "examples": [
+        {
+          "de": "Hier sind die Nebenkosten.",
+          "ru": "Вот коммунальные услуги / дополнительные расходы."
+        },
+        {
+          "de": "Wir müssen die Nebenkosten genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: коммунальные услуги / дополнительные расходы."
+        },
+        {
+          "de": "Sind Sie mit den Nebenkosten einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: коммунальные услуги / дополнительные расходы?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Nebenkosten.",
+          "ru": "Сегодня мы концентрируемся на теме: коммунальные услуги / дополнительные расходы."
+        },
+        {
+          "de": "Die Nebenkosten spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Коммунальные услуги / дополнительные расходы играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Betriebskosten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "эксплуатационные расходы",
+      "translation_en": "operating costs",
+      "examples": [
+        {
+          "de": "Hier sind die Betriebskosten.",
+          "ru": "Вот эксплуатационные расходы."
+        },
+        {
+          "de": "Wir müssen die Betriebskosten genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: эксплуатационные расходы."
+        },
+        {
+          "de": "Sind Sie mit den Betriebskosten einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: эксплуатационные расходы?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Betriebskosten.",
+          "ru": "Сегодня мы концентрируемся на теме: эксплуатационные расходы."
+        },
+        {
+          "de": "Die Betriebskosten spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Эксплуатационные расходы играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Heizkosten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "расходы на отопление",
+      "translation_en": "heating costs",
+      "examples": [
+        {
+          "de": "Hier sind die Heizkosten.",
+          "ru": "Вот расходы на отопление."
+        },
+        {
+          "de": "Wir müssen die Heizkosten genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: расходы на отопление."
+        },
+        {
+          "de": "Sind Sie mit den Heizkosten einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: расходы на отопление?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Heizkosten.",
+          "ru": "Сегодня мы концентрируемся на теме: расходы на отопление."
+        },
+        {
+          "de": "Die Heizkosten spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Расходы на отопление играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kaution, die Kautionen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "залог (при аренде квартиры)",
+      "translation_en": "deposit",
+      "examples": [
+        {
+          "de": "Hier ist die Kaution.",
+          "ru": "Вот залог (при аренде квартиры)."
+        },
+        {
+          "de": "Wir müssen die Kaution genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: залог (при аренде квартиры)."
+        },
+        {
+          "de": "Sind Sie mit der Kaution einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: залог (при аренде квартиры)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kaution.",
+          "ru": "Сегодня мы концентрируемся на теме: залог (при аренде квартиры)."
+        },
+        {
+          "de": "Die Kaution spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Залог (при аренде квартиры) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Mietvertrag, die Mietverträge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "договор аренды квартиры",
+      "translation_en": "lease / rental agreement",
+      "examples": [
+        {
+          "de": "Hier ist der Mietvertrag.",
+          "ru": "Вот договор аренды квартиры."
+        },
+        {
+          "de": "Wir müssen den Mietvertrag genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: договор аренды квартиры."
+        },
+        {
+          "de": "Sind Sie mit dem Mietvertrag einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: договор аренды квартиры?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Mietvertrag.",
+          "ru": "Сегодня мы концентрируемся на теме: договор аренды квартиры."
+        },
+        {
+          "de": "Der Mietvertrag spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Договор аренды квартиры играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Vermieter, die Vermieter",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "арендодатель",
+      "translation_en": "landlord",
+      "examples": [
+        {
+          "de": "Hier ist der Vermieter.",
+          "ru": "Вот арендодатель."
+        },
+        {
+          "de": "Wir müssen den Vermieter genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: арендодатель."
+        },
+        {
+          "de": "Sind Sie mit dem Vermieter einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: арендодатель?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Vermieter.",
+          "ru": "Сегодня мы концентрируемся на теме: арендодатель."
+        },
+        {
+          "de": "Der Vermieter spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Арендодатель играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Besitzer",
+        "Eigentümer"
+      ]
+    },
+    {
+      "word": "die Vermieterin, die Vermieterinnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "арендодательница",
+      "translation_en": "female landlord",
+      "examples": [
+        {
+          "de": "Hier ist die Vermieterin.",
+          "ru": "Вот арендодательница."
+        },
+        {
+          "de": "Wir müssen die Vermieterin genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: арендодательница."
+        },
+        {
+          "de": "Sind Sie mit der Vermieterin einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: арендодательница?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Vermieterin.",
+          "ru": "Сегодня мы концентрируемся на теме: арендодательница."
+        },
+        {
+          "de": "Die Vermieterin spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Арендодательница играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Mieter, die Mieter",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "арендатор / жилец",
+      "translation_en": "tenant",
+      "examples": [
+        {
+          "de": "Hier ist der Mieter.",
+          "ru": "Вот арендатор / жилец."
+        },
+        {
+          "de": "Wir müssen den Mieter genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: арендатор / жилец."
+        },
+        {
+          "de": "Sind Sie mit dem Mieter einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: арендатор / жилец?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Mieter.",
+          "ru": "Сегодня мы концентрируемся на теме: арендатор / жилец."
+        },
+        {
+          "de": "Der Mieter spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Арендатор / жилец играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Bewohner"
+      ]
+    },
+    {
+      "word": "die Mieterin, die Mieterinnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "арендаторша",
+      "translation_en": "female tenant",
+      "examples": [
+        {
+          "de": "Hier ist die Mieterin.",
+          "ru": "Вот арендаторша."
+        },
+        {
+          "de": "Wir müssen die Mieterin genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: арендаторша."
+        },
+        {
+          "de": "Sind Sie mit der Mieterin einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: арендаторша?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Mieterin.",
+          "ru": "Сегодня мы концентрируемся на теме: арендаторша."
+        },
+        {
+          "de": "Die Mieterin spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Арендаторша играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Anmeldung, die Anmeldungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "регистрация / прописка",
+      "translation_en": "registration",
+      "examples": [
+        {
+          "de": "Hier ist die Anmeldung.",
+          "ru": "Вот регистрация / прописка."
+        },
+        {
+          "de": "Wir müssen die Anmeldung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: регистрация / прописка."
+        },
+        {
+          "de": "Sind Sie mit der Anmeldung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: регистрация / прописка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Anmeldung.",
+          "ru": "Сегодня мы концентрируемся на теме: регистрация / прописка."
+        },
+        {
+          "de": "Die Anmeldung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Регистрация / прописка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Registrierung",
+        "Erfassung",
+        "Eintragung"
+      ]
+    },
+    {
+      "word": "sich anmelden",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "регистрироваться / прописываться",
+      "translation_en": "to register",
+      "examples": [
+        {
+          "de": "Wir melden an uns diese Angelegenheit direkt im Team.",
+          "ru": "Мы регистрироваться / прописываться этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich melde an mich die notwendigen Unterlagen sofort.",
+          "ru": "Я регистрироваться / прописываться необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege meldet an sich das Ganze sehr professionell.",
+          "ru": "Ответственный коллега регистрироваться / прописываться всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich uns angemeldet.",
+          "ru": "Мы успешно регистрироваться / прописываться (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "melden Sie an sich bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: регистрироваться / прописываться вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gesich anmeldet",
+      "imperative": "sich anmelde! / sich anmeldet! / sich anmelden Sie!",
+      "conjugations": {
+        "ich": "sich anmelde",
+        "du": "sich anmeldest",
+        "er/sie/es": "sich anmeldet",
+        "wir": "sich anmelden",
+        "ihr": "sich anmeldet",
+        "sie/Sie": "sich anmelden"
+      },
+      "prepositions": [
+        "für + Akkusativ (зарегистрироваться на что-то)",
+        "bei + Dativ (зарегистрироваться у кого-то / в организации)"
+      ]
+    },
+    {
+      "word": "die Ummeldung, die Ummeldungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "перерегистрация / смена адреса",
+      "translation_en": "re-registration",
+      "examples": [
+        {
+          "de": "Hier ist die Ummeldung.",
+          "ru": "Вот перерегистрация / смена адреса."
+        },
+        {
+          "de": "Wir müssen die Ummeldung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: перерегистрация / смена адреса."
+        },
+        {
+          "de": "Sind Sie mit der Ummeldung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: перерегистрация / смена адреса?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Ummeldung.",
+          "ru": "Сегодня мы концентрируемся на теме: перерегистрация / смена адреса."
+        },
+        {
+          "de": "Die Ummeldung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Перерегистрация / смена адреса играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Abmeldung, die Abmeldungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "выписка / снятие с регистрационного учета",
+      "translation_en": "deregistration",
+      "examples": [
+        {
+          "de": "Hier ist die Abmeldung.",
+          "ru": "Вот выписка / снятие с регистрационного учета."
+        },
+        {
+          "de": "Wir müssen die Abmeldung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: выписка / снятие с регистрационного учета."
+        },
+        {
+          "de": "Sind Sie mit der Abmeldung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: выписка / снятие с регистрационного учета?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Abmeldung.",
+          "ru": "Сегодня мы концентрируемся на теме: выписка / снятие с регистрационного учета."
+        },
+        {
+          "de": "Die Abmeldung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Выписка / снятие с регистрационного учета играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Einzug, die Einzüge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "заселение / въезд в квартиру",
+      "translation_en": "moving in",
+      "examples": [
+        {
+          "de": "Hier ist der Einzug.",
+          "ru": "Вот заселение / въезд в квартиру."
+        },
+        {
+          "de": "Wir müssen den Einzug genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: заселение / въезд в квартиру."
+        },
+        {
+          "de": "Sind Sie mit dem Einzug einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: заселение / въезд в квартиру?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Einzug.",
+          "ru": "Сегодня мы концентрируемся на теме: заселение / въезд в квартиру."
+        },
+        {
+          "de": "Der Einzug spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Заселение / въезд в квартиру играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "einziehen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "въезжать (в новую квартиру)",
+      "translation_en": "to move in",
+      "examples": [
+        {
+          "de": "Wir ziehen ein diese Angelegenheit direkt im Team.",
+          "ru": "Мы въезжать (в новую квартиру) этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich ziehe ein die notwendigen Unterlagen sofort.",
+          "ru": "Я въезжать (в новую квартиру) необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege zieht ein das Ganze sehr professionell.",
+          "ru": "Ответственный коллега въезжать (в новую квартиру) всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich eingezieht.",
+          "ru": "Мы успешно въезжать (в новую квартиру) (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "ziehen Sie ein bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: въезжать (в новую квартиру) вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "eingezieht",
+      "imperative": "ziehe ein! / zieht ein! / ziehen Sie ein!",
+      "conjugations": {
+        "ich": "ziehe ein",
+        "du": "ziehst ein",
+        "er/sie/es": "zieht ein",
+        "wir": "ziehen ein",
+        "ihr": "zieht ein",
+        "sie/Sie": "ziehen ein"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "der Auszug, die Auszüge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "выезд из квартиры",
+      "translation_en": "moving out",
+      "examples": [
+        {
+          "de": "Hier ist der Auszug.",
+          "ru": "Вот выезд из квартиры."
+        },
+        {
+          "de": "Wir müssen den Auszug genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: выезд из квартиры."
+        },
+        {
+          "de": "Sind Sie mit dem Auszug einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: выезд из квартиры?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Auszug.",
+          "ru": "Сегодня мы концентрируемся на теме: выезд из квартиры."
+        },
+        {
+          "de": "Der Auszug spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Выезд из квартиры играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "ausziehen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "выезжать / освобождать квартиру",
+      "translation_en": "to move out",
+      "examples": [
+        {
+          "de": "Wir ziehen aus diese Angelegenheit direkt im Team.",
+          "ru": "Мы выезжать / освобождать квартиру этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich ziehe aus die notwendigen Unterlagen sofort.",
+          "ru": "Я выезжать / освобождать квартиру необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege zieht aus das Ganze sehr professionell.",
+          "ru": "Ответственный коллега выезжать / освобождать квартиру всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich ausgezieht.",
+          "ru": "Мы успешно выезжать / освобождать квартиру (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "ziehen Sie aus bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: выезжать / освобождать квартиру вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "ausgezieht",
+      "imperative": "ziehe aus! / zieht aus! / ziehen Sie aus!",
+      "conjugations": {
+        "ich": "ziehe aus",
+        "du": "ziehst aus",
+        "er/sie/es": "zieht aus",
+        "wir": "ziehen aus",
+        "ihr": "zieht aus",
+        "sie/Sie": "ziehen aus"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "der Umzug, die Umzüge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "переезд",
+      "translation_en": "move",
+      "examples": [
+        {
+          "de": "Hier ist der Umzug.",
+          "ru": "Вот переезд."
+        },
+        {
+          "de": "Wir müssen den Umzug genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: переезд."
+        },
+        {
+          "de": "Sind Sie mit dem Umzug einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: переезд?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Umzug.",
+          "ru": "Сегодня мы концентрируемся на теме: переезд."
+        },
+        {
+          "de": "Der Umzug spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Переезд играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "umziehen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "переезжать",
+      "translation_en": "to move",
+      "examples": [
+        {
+          "de": "Wir umziehen diese Angelegenheit direkt im Team.",
+          "ru": "Мы переезжать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich umziehe die notwendigen Unterlagen sofort.",
+          "ru": "Я переезжать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege umzieht das Ganze sehr professionell.",
+          "ru": "Ответственный коллега переезжать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich geumzieht.",
+          "ru": "Мы успешно переезжать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "umziehen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: переезжать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "geumzieht",
+      "imperative": "umziehe! / umzieht! / umziehen Sie!",
+      "conjugations": {
+        "ich": "umziehe",
+        "du": "umziehst",
+        "er/sie/es": "umzieht",
+        "wir": "umziehen",
+        "ihr": "umzieht",
+        "sie/Sie": "umziehen"
+      },
+      "prepositions": [
+        "in + Akkusativ (переезжать в квартиру/дом)",
+        "nach + Dativ (переезжать в другой город/страну)"
+      ]
+    },
+    {
+      "word": "das Umzugsunternehmen, die Umzugsunternehmen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "фирма по организации переездов",
+      "translation_en": "moving company",
+      "examples": [
+        {
+          "de": "Hier ist das Umzugsunternehmen.",
+          "ru": "Вот фирма по организации переездов."
+        },
+        {
+          "de": "Wir müssen das Umzugsunternehmen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: фирма по организации переездов."
+        },
+        {
+          "de": "Sind Sie mit dem Umzugsunternehmen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: фирма по организации переездов?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Umzugsunternehmen.",
+          "ru": "Сегодня мы концентрируемся на теме: фирма по организации переездов."
+        },
+        {
+          "de": "Das Umzugsunternehmen spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Фирма по организации переездов играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Wohnungsgeberbestätigung, die Bestätigungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "подтверждение от арендодателя (для прописки)",
+      "translation_en": "landlord confirmation",
+      "examples": [
+        {
+          "de": "Hier ist die Wohnungsgeberbestätigung.",
+          "ru": "Вот подтверждение от арендодателя (для прописки)."
+        },
+        {
+          "de": "Wir müssen die Wohnungsgeberbestätigung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: подтверждение от арендодателя (для прописки)."
+        },
+        {
+          "de": "Sind Sie mit der Wohnungsgeberbestätigung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: подтверждение от арендодателя (для прописки)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Wohnungsgeberbestätigung.",
+          "ru": "Сегодня мы концентрируемся на теме: подтверждение от арендодателя (для прописки)."
+        },
+        {
+          "de": "Die Wohnungsgeberbestätigung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Подтверждение от арендодателя (для прописки) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Hausordnung, die Hausordnungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "правила внутреннего распорядка дома",
+      "translation_en": "house rules",
+      "examples": [
+        {
+          "de": "Hier ist die Hausordnung.",
+          "ru": "Вот правила внутреннего распорядка дома."
+        },
+        {
+          "de": "Wir müssen die Hausordnung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: правила внутреннего распорядка дома."
+        },
+        {
+          "de": "Sind Sie mit der Hausordnung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: правила внутреннего распорядка дома?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Hausordnung.",
+          "ru": "Сегодня мы концентрируемся на теме: правила внутреннего распорядка дома."
+        },
+        {
+          "de": "Die Hausordnung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Правила внутреннего распорядка дома играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Hausmeister, die Hausmeister",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "управдом / смотритель дома / завхоз",
+      "translation_en": "caretaker / janitor",
+      "examples": [
+        {
+          "de": "Hier ist der Hausmeister.",
+          "ru": "Вот управдом / смотритель дома / завхоз."
+        },
+        {
+          "de": "Wir müssen den Hausmeister genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: управдом / смотритель дома / завхоз."
+        },
+        {
+          "de": "Sind Sie mit dem Hausmeister einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: управдом / смотритель дома / завхоз?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Hausmeister.",
+          "ru": "Сегодня мы концентрируемся на теме: управдом / смотритель дома / завхоз."
+        },
+        {
+          "de": "Der Hausmeister spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Управдом / смотритель дома / завхоз играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Mülltrennung, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "сортировка мусора",
+      "translation_en": "waste separation",
+      "examples": [
+        {
+          "de": "Hier ist die Mülltrennung.",
+          "ru": "Вот сортировка мусора."
+        },
+        {
+          "de": "Wir müssen die Mülltrennung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: сортировка мусора."
+        },
+        {
+          "de": "Sind Sie mit der Mülltrennung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: сортировка мусора?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Mülltrennung.",
+          "ru": "Сегодня мы концентрируемся на теме: сортировка мусора."
+        },
+        {
+          "de": "Die Mülltrennung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Сортировка мусора играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Restmüll, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "несортируемые отходы / бытовой мусор",
+      "translation_en": "residual waste",
+      "examples": [
+        {
+          "de": "Hier ist der Restmüll.",
+          "ru": "Вот несортируемые отходы / бытовой мусор."
+        },
+        {
+          "de": "Wir müssen den Restmüll genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: несортируемые отходы / бытовой мусор."
+        },
+        {
+          "de": "Sind Sie mit dem Restmüll einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: несортируемые отходы / бытовой мусор?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Restmüll.",
+          "ru": "Сегодня мы концентрируемся на теме: несортируемые отходы / бытовой мусор."
+        },
+        {
+          "de": "Der Restmüll spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Несортируемые отходы / бытовой мусор играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Biomüll, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "органические / биоразлагаемые отходы",
+      "translation_en": "organic waste",
+      "examples": [
+        {
+          "de": "Hier ist der Biomüll.",
+          "ru": "Вот органические / биоразлагаемые отходы."
+        },
+        {
+          "de": "Wir müssen den Biomüll genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: органические / биоразлагаемые отходы."
+        },
+        {
+          "de": "Sind Sie mit dem Biomüll einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: органические / биоразлагаемые отходы?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Biomüll.",
+          "ru": "Сегодня мы концентрируемся на теме: органические / биоразлагаемые отходы."
+        },
+        {
+          "de": "Der Biomüll spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Органические / биоразлагаемые отходы играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Altpapier, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "макулатура",
+      "translation_en": "waste paper",
+      "examples": [
+        {
+          "de": "Hier ist das Altpapier.",
+          "ru": "Вот макулатура."
+        },
+        {
+          "de": "Wir müssen das Altpapier genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: макулатура."
+        },
+        {
+          "de": "Sind Sie mit dem Altpapier einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: макулатура?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Altpapier.",
+          "ru": "Сегодня мы концентрируемся на теме: макулатура."
+        },
+        {
+          "de": "Das Altpapier spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Макулатура играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der gelbe Sack, die gelben Säcke",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "желтый мешок (для пластика и упаковки)",
+      "translation_en": "yellow sack for recycling",
+      "examples": [
+        {
+          "de": "Hier ist der gelbe Sack.",
+          "ru": "Вот желтый мешок (для пластика и упаковки)."
+        },
+        {
+          "de": "Wir müssen den gelbe Sack genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: желтый мешок (для пластика и упаковки)."
+        },
+        {
+          "de": "Sind Sie mit dem gelbe Sack einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: желтый мешок (для пластика и упаковки)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den gelbe Sack.",
+          "ru": "Сегодня мы концентрируемся на теме: желтый мешок (для пластика и упаковки)."
+        },
+        {
+          "de": "Der gelbe Sack spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Желтый мешок (для пластика и упаковки) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Altglas, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "стеклотара",
+      "translation_en": "waste glass",
+      "examples": [
+        {
+          "de": "Hier ist das Altglas.",
+          "ru": "Вот стеклотара."
+        },
+        {
+          "de": "Wir müssen das Altglas genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: стеклотара."
+        },
+        {
+          "de": "Sind Sie mit dem Altglas einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: стеклотара?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Altglas.",
+          "ru": "Сегодня мы концентрируемся на теме: стеклотара."
+        },
+        {
+          "de": "Das Altglas spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Стеклотара играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Lärm, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "шум",
+      "translation_en": "noise",
+      "examples": [
+        {
+          "de": "Hier ist der Lärm.",
+          "ru": "Вот шум."
+        },
+        {
+          "de": "Wir müssen den Lärm genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: шум."
+        },
+        {
+          "de": "Sind Sie mit dem Lärm einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: шум?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Lärm.",
+          "ru": "Сегодня мы концентрируемся на теме: шум."
+        },
+        {
+          "de": "Der Lärm spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Шум играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Ruhestörung, die Ruhestörungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "нарушение покоя / тишины",
+      "translation_en": "disturbance of peace",
+      "examples": [
+        {
+          "de": "Hier ist die Ruhestörung.",
+          "ru": "Вот нарушение покоя / тишины."
+        },
+        {
+          "de": "Wir müssen die Ruhestörung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: нарушение покоя / тишины."
+        },
+        {
+          "de": "Sind Sie mit der Ruhestörung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: нарушение покоя / тишины?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Ruhestörung.",
+          "ru": "Сегодня мы концентрируемся на теме: нарушение покоя / тишины."
+        },
+        {
+          "de": "Die Ruhestörung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Нарушение покоя / тишины играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Mittagsruhe, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "тихий час (обеденный перерыв)",
+      "translation_en": "afternoon quiet time",
+      "examples": [
+        {
+          "de": "Hier ist die Mittagsruhe.",
+          "ru": "Вот тихий час (обеденный перерыв)."
+        },
+        {
+          "de": "Wir müssen die Mittagsruhe genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: тихий час (обеденный перерыв)."
+        },
+        {
+          "de": "Sind Sie mit der Mittagsruhe einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: тихий час (обеденный перерыв)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Mittagsruhe.",
+          "ru": "Сегодня мы концентрируемся на теме: тихий час (обеденный перерыв)."
+        },
+        {
+          "de": "Die Mittagsruhe spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Тихий час (обеденный перерыв) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Nachtruhe, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "ночной покой / тишина",
+      "translation_en": "night quiet time",
+      "examples": [
+        {
+          "de": "Hier ist die Nachtruhe.",
+          "ru": "Вот ночной покой / тишина."
+        },
+        {
+          "de": "Wir müssen die Nachtruhe genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: ночной покой / тишина."
+        },
+        {
+          "de": "Sind Sie mit der Nachtruhe einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: ночной покой / тишина?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Nachtruhe.",
+          "ru": "Сегодня мы концентрируемся на теме: ночной покой / тишина."
+        },
+        {
+          "de": "Die Nachtruhe spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Ночной покой / тишина играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Haustiere, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "домашние животные",
+      "translation_en": "pets",
+      "examples": [
+        {
+          "de": "Hier sind die Haustiere.",
+          "ru": "Вот домашние животные."
+        },
+        {
+          "de": "Wir müssen die Haustiere genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: домашние животные."
+        },
+        {
+          "de": "Sind Sie mit den Haustiere einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: домашние животные?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Haustiere.",
+          "ru": "Сегодня мы концентрируемся на теме: домашние животные."
+        },
+        {
+          "de": "Die Haustiere spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Домашние животные играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Tierhaltung, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "содержание домашних животных",
+      "translation_en": "keeping of pets",
+      "examples": [
+        {
+          "de": "Hier ist die Tierhaltung.",
+          "ru": "Вот содержание домашних животных."
+        },
+        {
+          "de": "Wir müssen die Tierhaltung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: содержание домашних животных."
+        },
+        {
+          "de": "Sind Sie mit der Tierhaltung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: содержание домашних животных?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Tierhaltung.",
+          "ru": "Сегодня мы концентрируемся на теме: содержание домашних животных."
+        },
+        {
+          "de": "Die Tierhaltung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Содержание домашних животных играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Schlüssel, die Schlüssel",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "ключ",
+      "translation_en": "key",
+      "examples": [
+        {
+          "de": "Hier ist der Schlüssel.",
+          "ru": "Вот ключ."
+        },
+        {
+          "de": "Wir müssen den Schlüssel genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: ключ."
+        },
+        {
+          "de": "Sind Sie mit dem Schlüssel einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: ключ?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Schlüssel.",
+          "ru": "Сегодня мы концентрируемся на теме: ключ."
+        },
+        {
+          "de": "Der Schlüssel spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Ключ играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Wohnungsschlüssel, die Schlüssel",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "ключ от квартиры",
+      "translation_en": "apartment key",
+      "examples": [
+        {
+          "de": "Hier ist der Wohnungsschlüssel.",
+          "ru": "Вот ключ от квартиры."
+        },
+        {
+          "de": "Wir müssen den Wohnungsschlüssel genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: ключ от квартиры."
+        },
+        {
+          "de": "Sind Sie mit dem Wohnungsschlüssel einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: ключ от квартиры?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Wohnungsschlüssel.",
+          "ru": "Сегодня мы концентрируемся на теме: ключ от квартиры."
+        },
+        {
+          "de": "Der Wohnungsschlüssel spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Ключ от квартиры играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Haustürschlüssel, die Schlüssel",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "ключ от входной двери дома",
+      "translation_en": "house key",
+      "examples": [
+        {
+          "de": "Hier ist der Haustürschlüssel.",
+          "ru": "Вот ключ от входной двери дома."
+        },
+        {
+          "de": "Wir müssen den Haustürschlüssel genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: ключ от входной двери дома."
+        },
+        {
+          "de": "Sind Sie mit dem Haustürschlüssel einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: ключ от входной двери дома?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Haustürschlüssel.",
+          "ru": "Сегодня мы концентрируемся на теме: ключ от входной двери дома."
+        },
+        {
+          "de": "Der Haustürschlüssel spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Ключ от входной двери дома играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Übergabe, die Übergaben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "передача / сдача (объекта)",
+      "translation_en": "handover",
+      "examples": [
+        {
+          "de": "Hier ist die Übergabe.",
+          "ru": "Вот передача / сдача (объекта)."
+        },
+        {
+          "de": "Wir müssen die Übergabe genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: передача / сдача (объекта)."
+        },
+        {
+          "de": "Sind Sie mit der Übergabe einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: передача / сдача (объекта)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Übergabe.",
+          "ru": "Сегодня мы концентрируемся на теме: передача / сдача (объекта)."
+        },
+        {
+          "de": "Die Übergabe spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Передача / сдача (объекта) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Übergabeprotokoll, die Übergabeprotokolle",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "акт приема-передачи квартиры",
+      "translation_en": "handover protocol",
+      "examples": [
+        {
+          "de": "Hier ist das Übergabeprotokoll.",
+          "ru": "Вот акт приема-передачи квартиры."
+        },
+        {
+          "de": "Wir müssen das Übergabeprotokoll genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: акт приема-передачи квартиры."
+        },
+        {
+          "de": "Sind Sie mit dem Übergabeprotokoll einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: акт приема-передачи квартиры?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Übergabeprotokoll.",
+          "ru": "Сегодня мы концентрируемся на теме: акт приема-передачи квартиры."
+        },
+        {
+          "de": "Das Übergabeprotokoll spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Акт приема-передачи квартиры играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Mangel, die Mängel",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "недостаток / дефект",
+      "translation_en": "defect / deficiency",
+      "examples": [
+        {
+          "de": "Hier ist der Mangel.",
+          "ru": "Вот недостаток / дефект."
+        },
+        {
+          "de": "Wir müssen den Mangel genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: недостаток / дефект."
+        },
+        {
+          "de": "Sind Sie mit dem Mangel einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: недостаток / дефект?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Mangel.",
+          "ru": "Сегодня мы концентрируемся на теме: недостаток / дефект."
+        },
+        {
+          "de": "Der Mangel spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Недостаток / дефект играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Mängelrüge, die Mängelrügen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "жалоба / уведомление о недостатках",
+      "translation_en": "notice of defects",
+      "examples": [
+        {
+          "de": "Hier ist die Mängelrüge.",
+          "ru": "Вот жалоба / уведомление о недостатках."
+        },
+        {
+          "de": "Wir müssen die Mängelrüge genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: жалоба / уведомление о недостатках."
+        },
+        {
+          "de": "Sind Sie mit der Mängelrüge einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: жалоба / уведомление о недостатках?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Mängelrüge.",
+          "ru": "Сегодня мы концентрируемся на теме: жалоба / уведомление о недостатках."
+        },
+        {
+          "de": "Die Mängelrüge spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Жалоба / уведомление о недостатках играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "reparieren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "ремонтировать / исправлять",
+      "translation_en": "to repair",
+      "examples": [
+        {
+          "de": "Wir reparieren diese Angelegenheit direkt im Team.",
+          "ru": "Мы ремонтировать / исправлять этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich repariere die notwendigen Unterlagen sofort.",
+          "ru": "Я ремонтировать / исправлять необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege repariert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега ремонтировать / исправлять всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich repariert.",
+          "ru": "Мы успешно ремонтировать / исправлять (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "reparieren Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: ремонтировать / исправлять вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "repariert",
+      "imperative": "repariere! / repariert! / reparieren Sie!",
+      "conjugations": {
+        "ich": "repariere",
+        "du": "reparierst",
+        "er/sie/es": "repariert",
+        "wir": "reparieren",
+        "ihr": "repariert",
+        "sie/Sie": "reparieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Reparatur, die Reparaturen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "ремонт / починка",
+      "translation_en": "repair",
+      "examples": [
+        {
+          "de": "Hier ist die Reparatur.",
+          "ru": "Вот ремонт / починка."
+        },
+        {
+          "de": "Wir müssen die Reparatur genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: ремонт / починка."
+        },
+        {
+          "de": "Sind Sie mit der Reparatur einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: ремонт / починка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Reparatur.",
+          "ru": "Сегодня мы концентрируемся на теме: ремонт / починка."
+        },
+        {
+          "de": "Die Reparatur spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Ремонт / починка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Handwerker, die Handwerker",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "ремесленник / мастер",
+      "translation_en": "craftsman",
+      "examples": [
+        {
+          "de": "Hier ist der Handwerker.",
+          "ru": "Вот ремесленник / мастер."
+        },
+        {
+          "de": "Wir müssen den Handwerker genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: ремесленник / мастер."
+        },
+        {
+          "de": "Sind Sie mit dem Handwerker einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: ремесленник / мастер?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Handwerker.",
+          "ru": "Сегодня мы концентрируемся на теме: ремесленник / мастер."
+        },
+        {
+          "de": "Der Handwerker spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Ремесленник / мастер играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Renovierung, die Renovierungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "ремонт / косметический ремонт",
+      "translation_en": "renovation",
+      "examples": [
+        {
+          "de": "Hier ist die Renovierung.",
+          "ru": "Вот ремонт / косметический ремонт."
+        },
+        {
+          "de": "Wir müssen die Renovierung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: ремонт / косметический ремонт."
+        },
+        {
+          "de": "Sind Sie mit der Renovierung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: ремонт / косметический ремонт?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Renovierung.",
+          "ru": "Сегодня мы концентрируемся на теме: ремонт / косметический ремонт."
+        },
+        {
+          "de": "Die Renovierung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Ремонт / косметический ремонт играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "renovieren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "делать ремонт (косметический)",
+      "translation_en": "to renovate",
+      "examples": [
+        {
+          "de": "Wir renovieren diese Angelegenheit direkt im Team.",
+          "ru": "Мы делать ремонт (косметический) этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich renoviere die notwendigen Unterlagen sofort.",
+          "ru": "Я делать ремонт (косметический) необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege renoviert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега делать ремонт (косметический) всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich renoviert.",
+          "ru": "Мы успешно делать ремонт (косметический) (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "renovieren Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: делать ремонт (косметический) вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "renoviert",
+      "imperative": "renoviere! / renoviert! / renovieren Sie!",
+      "conjugations": {
+        "ich": "renoviere",
+        "du": "renovierst",
+        "er/sie/es": "renoviert",
+        "wir": "renovieren",
+        "ihr": "renoviert",
+        "sie/Sie": "renovieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die WG, die WGs",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "коммунальная квартира (студенческая)",
+      "translation_en": "flatshare / Wohngemeinschaft",
+      "examples": [
+        {
+          "de": "Hier ist die WG.",
+          "ru": "Вот коммунальная квартира (студенческая)."
+        },
+        {
+          "de": "Wir müssen die WG genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: коммунальная квартира (студенческая)."
+        },
+        {
+          "de": "Sind Sie mit der WG einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: коммунальная квартира (студенческая)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die WG.",
+          "ru": "Сегодня мы концентрируемся на теме: коммунальная квартира (студенческая)."
+        },
+        {
+          "de": "Die WG spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Коммунальная квартира (студенческая) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Mitbewohner, die Mitbewohner",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "сосед по квартире",
+      "translation_en": "flatmate",
+      "examples": [
+        {
+          "de": "Hier ist der Mitbewohner.",
+          "ru": "Вот сосед по квартире."
+        },
+        {
+          "de": "Wir müssen den Mitbewohner genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: сосед по квартире."
+        },
+        {
+          "de": "Sind Sie mit dem Mitbewohner einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: сосед по квартире?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Mitbewohner.",
+          "ru": "Сегодня мы концентрируемся на теме: сосед по квартире."
+        },
+        {
+          "de": "Der Mitbewohner spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Сосед по квартире играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Zimmer, die Zimmer",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "комната",
+      "translation_en": "room",
+      "examples": [
+        {
+          "de": "Hier ist das Zimmer.",
+          "ru": "Вот комната."
+        },
+        {
+          "de": "Wir müssen das Zimmer genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: комната."
+        },
+        {
+          "de": "Sind Sie mit dem Zimmer einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: комната?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Zimmer.",
+          "ru": "Сегодня мы концентрируемся на теме: комната."
+        },
+        {
+          "de": "Das Zimmer spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Комната играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Einbauküche, die Einbauküchen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "встроенная кухня",
+      "translation_en": "fitted kitchen",
+      "examples": [
+        {
+          "de": "Hier ist die Einbauküche.",
+          "ru": "Вот встроенная кухня."
+        },
+        {
+          "de": "Wir müssen die Einbauküche genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: встроенная кухня."
+        },
+        {
+          "de": "Sind Sie mit der Einbauküche einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: встроенная кухня?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Einbauküche.",
+          "ru": "Сегодня мы концентрируемся на теме: встроенная кухня."
+        },
+        {
+          "de": "Die Einbauküche spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Встроенная кухня играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Bad, die Bäder",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "ванная комната / ванна",
+      "translation_en": "bathroom",
+      "examples": [
+        {
+          "de": "Hier ist das Bad.",
+          "ru": "Вот ванная комната / ванна."
+        },
+        {
+          "de": "Wir müssen das Bad genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: ванная комната / ванна."
+        },
+        {
+          "de": "Sind Sie mit dem Bad einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: ванная комната / ванна?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Bad.",
+          "ru": "Сегодня мы концентрируемся на теме: ванная комната / ванна."
+        },
+        {
+          "de": "Das Bad spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Ванная комната / ванна играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Balkon, die Balkons",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "балкон",
+      "translation_en": "balcony",
+      "examples": [
+        {
+          "de": "Hier ist der Balkon.",
+          "ru": "Вот балкон."
+        },
+        {
+          "de": "Wir müssen den Balkon genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: балкон."
+        },
+        {
+          "de": "Sind Sie mit dem Balkon einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: балкон?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Balkon.",
+          "ru": "Сегодня мы концентрируемся на теме: балкон."
+        },
+        {
+          "de": "Der Balkon spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Балкон играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Terrasse, die Terrassen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "терраса",
+      "translation_en": "terrace",
+      "examples": [
+        {
+          "de": "Hier ist die Terrasse.",
+          "ru": "Вот терраса."
+        },
+        {
+          "de": "Wir müssen die Terrasse genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: терраса."
+        },
+        {
+          "de": "Sind Sie mit der Terrasse einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: терраса?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Terrasse.",
+          "ru": "Сегодня мы концентрируемся на теме: терраса."
+        },
+        {
+          "de": "Die Terrasse spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Терраса играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Keller, die Keller",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "подвал",
+      "translation_en": "cellar",
+      "examples": [
+        {
+          "de": "Hier ist der Keller.",
+          "ru": "Вот подвал."
+        },
+        {
+          "de": "Wir müssen den Keller genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: подвал."
+        },
+        {
+          "de": "Sind Sie mit dem Keller einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: подвал?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Keller.",
+          "ru": "Сегодня мы концентрируемся на теме: подвал."
+        },
+        {
+          "de": "Der Keller spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Подвал играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Dachboden, die Dachböden",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "чердак",
+      "translation_en": "attic",
+      "examples": [
+        {
+          "de": "Hier ist der Dachboden.",
+          "ru": "Вот чердак."
+        },
+        {
+          "de": "Wir müssen den Dachboden genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: чердак."
+        },
+        {
+          "de": "Sind Sie mit dem Dachboden einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: чердак?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Dachboden.",
+          "ru": "Сегодня мы концентрируемся на теме: чердак."
+        },
+        {
+          "de": "Der Dachboden spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Чердак играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Stellplatz, die Stellplätze",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "парковочное место",
+      "translation_en": "parking space",
+      "examples": [
+        {
+          "de": "Hier ist der Stellplatz.",
+          "ru": "Вот парковочное место."
+        },
+        {
+          "de": "Wir müssen den Stellplatz genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: парковочное место."
+        },
+        {
+          "de": "Sind Sie mit dem Stellplatz einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: парковочное место?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Stellplatz.",
+          "ru": "Сегодня мы концентрируемся на теме: парковочное место."
+        },
+        {
+          "de": "Der Stellplatz spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Парковочное место играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Garage, die Garagen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "гараж",
+      "translation_en": "garage",
+      "examples": [
+        {
+          "de": "Hier ist die Garage.",
+          "ru": "Вот гараж."
+        },
+        {
+          "de": "Wir müssen die Garage genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: гараж."
+        },
+        {
+          "de": "Sind Sie mit der Garage einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: гараж?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Garage.",
+          "ru": "Сегодня мы концентрируемся на теме: гараж."
+        },
+        {
+          "de": "Die Garage spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Гараж играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Mietspiegel, die Mietspiegel",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "официальный индекс арендной платы",
+      "translation_en": "rent index",
+      "examples": [
+        {
+          "de": "Hier ist der Mietspiegel.",
+          "ru": "Вот официальный индекс арендной платы."
+        },
+        {
+          "de": "Wir müssen den Mietspiegel genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: официальный индекс арендной платы."
+        },
+        {
+          "de": "Sind Sie mit dem Mietspiegel einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: официальный индекс арендной платы?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Mietspiegel.",
+          "ru": "Сегодня мы концентрируемся на теме: официальный индекс арендной платы."
+        },
+        {
+          "de": "Der Mietspiegel spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Официальный индекс арендной платы играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Mietpreisbremse, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "ограничение роста стоимости аренды",
+      "translation_en": "rent control",
+      "examples": [
+        {
+          "de": "Hier ist die Mietpreisbremse.",
+          "ru": "Вот ограничение роста стоимости аренды."
+        },
+        {
+          "de": "Wir müssen die Mietpreisbremse genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: ограничение роста стоимости аренды."
+        },
+        {
+          "de": "Sind Sie mit der Mietpreisbremse einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: ограничение роста стоимости аренды?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Mietpreisbremse.",
+          "ru": "Сегодня мы концентрируемся на теме: ограничение роста стоимости аренды."
+        },
+        {
+          "de": "Die Mietpreisbremse spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Ограничение роста стоимости аренды играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Wohnfläche, die Wohnflächen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "жилая площадь",
+      "translation_en": "living space",
+      "examples": [
+        {
+          "de": "Hier ist die Wohnfläche.",
+          "ru": "Вот жилая площадь."
+        },
+        {
+          "de": "Wir müssen die Wohnfläche genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: жилая площадь."
+        },
+        {
+          "de": "Sind Sie mit der Wohnfläche einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: жилая площадь?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Wohnfläche.",
+          "ru": "Сегодня мы концентрируемся на теме: жилая площадь."
+        },
+        {
+          "de": "Die Wohnfläche spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Жилая площадь играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Quadratmeter, die Quadratmeter",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "квадратный метр",
+      "translation_en": "square meter",
+      "examples": [
+        {
+          "de": "Hier ist das Quadratmeter.",
+          "ru": "Вот квадратный метр."
+        },
+        {
+          "de": "Wir müssen das Quadratmeter genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: квадратный метр."
+        },
+        {
+          "de": "Sind Sie mit dem Quadratmeter einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: квадратный метр?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Quadratmeter.",
+          "ru": "Сегодня мы концентрируемся на теме: квадратный метр."
+        },
+        {
+          "de": "Das Quadratmeter spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Квадратный метр играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Nebenkostenabrechnung, die Abrechnungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "расчет коммунальных услуг за год",
+      "translation_en": "utility bill",
+      "examples": [
+        {
+          "de": "Hier ist die Nebenkostenabrechnung.",
+          "ru": "Вот расчет коммунальных услуг за год."
+        },
+        {
+          "de": "Wir müssen die Nebenkostenabrechnung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: расчет коммунальных услуг за год."
+        },
+        {
+          "de": "Sind Sie mit der Nebenkostenabrechnung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: расчет коммунальных услуг за год?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Nebenkostenabrechnung.",
+          "ru": "Сегодня мы концентрируемся на теме: расчет коммунальных услуг за год."
+        },
+        {
+          "de": "Die Nebenkostenabrechnung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Расчет коммунальных услуг за год играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Nachzahlung, die Nachzahlungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "доплата (при перерасчете)",
+      "translation_en": "additional payment",
+      "examples": [
+        {
+          "de": "Hier ist die Nachzahlung.",
+          "ru": "Вот доплата (при перерасчете)."
+        },
+        {
+          "de": "Wir müssen die Nachzahlung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: доплата (при перерасчете)."
+        },
+        {
+          "de": "Sind Sie mit der Nachzahlung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: доплата (при перерасчете)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Nachzahlung.",
+          "ru": "Сегодня мы концентрируемся на теме: доплата (при перерасчете)."
+        },
+        {
+          "de": "Die Nachzahlung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Доплата (при перерасчете) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Guthaben, die Guthaben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "актив / остаток в пользу плательщика",
+      "translation_en": "credit / balance",
+      "examples": [
+        {
+          "de": "Hier ist das Guthaben.",
+          "ru": "Вот актив / остаток в пользу плательщика."
+        },
+        {
+          "de": "Wir müssen das Guthaben genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: актив / остаток в пользу плательщика."
+        },
+        {
+          "de": "Sind Sie mit dem Guthaben einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: актив / остаток в пользу плательщика?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Guthaben.",
+          "ru": "Сегодня мы концентрируемся на теме: актив / остаток в пользу плательщика."
+        },
+        {
+          "de": "Das Guthaben spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Актив / остаток в пользу плательщика играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Mieterhöhung, die Mieterhöhungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "повышение арендной платы",
+      "translation_en": "rent increase",
+      "examples": [
+        {
+          "de": "Hier ist die Mieterhöhung.",
+          "ru": "Вот повышение арендной платы."
+        },
+        {
+          "de": "Wir müssen die Mieterhöhung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: повышение арендной платы."
+        },
+        {
+          "de": "Sind Sie mit der Mieterhöhung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: повышение арендной платы?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Mieterhöhung.",
+          "ru": "Сегодня мы концентрируемся на теме: повышение арендной платы."
+        },
+        {
+          "de": "Die Mieterhöhung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Повышение арендной платы играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Wohngeld, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "жилищное пособие / субсидия на аренду",
+      "translation_en": "housing benefit",
+      "examples": [
+        {
+          "de": "Hier ist das Wohngeld.",
+          "ru": "Вот жилищное пособие / субсидия на аренду."
+        },
+        {
+          "de": "Wir müssen das Wohngeld genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: жилищное пособие / субсидия на аренду."
+        },
+        {
+          "de": "Sind Sie mit dem Wohngeld einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: жилищное пособие / субсидия на аренду?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Wohngeld.",
+          "ru": "Сегодня мы концентрируемся на теме: жилищное пособие / субсидия на аренду."
+        },
+        {
+          "de": "Das Wohngeld spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Жилищное пособие / субсидия на аренду играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Wohnberechtigungsschein, die Scheine",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "справка на право получения соцжилья",
+      "translation_en": "public housing certificate",
+      "examples": [
+        {
+          "de": "Hier ist der Wohnberechtigungsschein.",
+          "ru": "Вот справка на право получения соцжилья."
+        },
+        {
+          "de": "Wir müssen den Wohnberechtigungsschein genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: справка на право получения соцжилья."
+        },
+        {
+          "de": "Sind Sie mit dem Wohnberechtigungsschein einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: справка на право получения соцжилья?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Wohnberechtigungsschein.",
+          "ru": "Сегодня мы концентрируемся на теме: справка на право получения соцжилья."
+        },
+        {
+          "de": "Der Wohnberechtigungsschein spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Справка на право получения соцжилья играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Sozialwohnung, die Sozialwohnungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "социальное жилье",
+      "translation_en": "social housing",
+      "examples": [
+        {
+          "de": "Hier ist die Sozialwohnung.",
+          "ru": "Вот социальное жилье."
+        },
+        {
+          "de": "Wir müssen die Sozialwohnung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: социальное жилье."
+        },
+        {
+          "de": "Sind Sie mit der Sozialwohnung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: социальное жилье?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Sozialwohnung.",
+          "ru": "Сегодня мы концентрируемся на теме: социальное жилье."
+        },
+        {
+          "de": "Die Sozialwohnung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Социальное жилье играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Genossenschaft, die Genossenschaften",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "кооператив / товарищество",
+      "translation_en": "cooperative",
+      "examples": [
+        {
+          "de": "Hier ist die Genossenschaft.",
+          "ru": "Вот кооператив / товарищество."
+        },
+        {
+          "de": "Wir müssen die Genossenschaft genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: кооператив / товарищество."
+        },
+        {
+          "de": "Sind Sie mit der Genossenschaft einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: кооператив / товарищество?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Genossenschaft.",
+          "ru": "Сегодня мы концентрируемся на теме: кооператив / товарищество."
+        },
+        {
+          "de": "Die Genossenschaft spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Кооператив / товарищество играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Genossenschaftswohnung, die Wohnungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "кооперативная квартира",
+      "translation_en": "cooperative apartment",
+      "examples": [
+        {
+          "de": "Hier ist die Genossenschaftswohnung.",
+          "ru": "Вот кооперативная квартира."
+        },
+        {
+          "de": "Wir müssen die Genossenschaftswohnung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: кооперативная квартира."
+        },
+        {
+          "de": "Sind Sie mit der Genossenschaftswohnung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: кооперативная квартира?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Genossenschaftswohnung.",
+          "ru": "Сегодня мы концентрируемся на теме: кооперативная квартира."
+        },
+        {
+          "de": "Die Genossenschaftswohnung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Кооперативная квартира играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Eigentümer, die Eigentümer",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "собственник / владелец",
+      "translation_en": "owner",
+      "examples": [
+        {
+          "de": "Hier ist der Eigentümer.",
+          "ru": "Вот собственник / владелец."
+        },
+        {
+          "de": "Wir müssen den Eigentümer genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: собственник / владелец."
+        },
+        {
+          "de": "Sind Sie mit dem Eigentümer einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: собственник / владелец?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Eigentümer.",
+          "ru": "Сегодня мы концентрируемся на теме: собственник / владелец."
+        },
+        {
+          "de": "Der Eigentümer spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Собственник / владелец играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Eigentümergemeinschaft, die Gemeinschaften",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "товарищество собственников жилья (ТСЖ)",
+      "translation_en": "owners' association",
+      "examples": [
+        {
+          "de": "Hier ist die Eigentümergemeinschaft.",
+          "ru": "Вот товарищество собственников жилья (ТСЖ)."
+        },
+        {
+          "de": "Wir müssen die Eigentümergemeinschaft genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: товарищество собственников жилья (ТСЖ)."
+        },
+        {
+          "de": "Sind Sie mit der Eigentümergemeinschaft einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: товарищество собственников жилья (ТСЖ)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Eigentümergemeinschaft.",
+          "ru": "Сегодня мы концентрируемся на теме: товарищество собственников жилья (ТСЖ)."
+        },
+        {
+          "de": "Die Eigentümergemeinschaft spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Товарищество собственников жилья (ТСЖ) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Wohneigentum, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "жилая собственность",
+      "translation_en": "residential property",
+      "examples": [
+        {
+          "de": "Hier ist das Wohneigentum.",
+          "ru": "Вот жилая собственность."
+        },
+        {
+          "de": "Wir müssen das Wohneigentum genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: жилая собственность."
+        },
+        {
+          "de": "Sind Sie mit dem Wohneigentum einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: жилая собственность?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Wohneigentum.",
+          "ru": "Сегодня мы концентрируемся на теме: жилая собственность."
+        },
+        {
+          "de": "Das Wohneigentum spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Жилая собственность играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Eigentumswohnung, die Eigentumswohnungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "приватизированная квартира",
+      "translation_en": "condominium",
+      "examples": [
+        {
+          "de": "Hier ist die Eigentumswohnung.",
+          "ru": "Вот приватизированная квартира."
+        },
+        {
+          "de": "Wir müssen die Eigentumswohnung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: приватизированная квартира."
+        },
+        {
+          "de": "Sind Sie mit der Eigentumswohnung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: приватизированная квартира?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Eigentumswohnung.",
+          "ru": "Сегодня мы концентрируемся на теме: приватизированная квартира."
+        },
+        {
+          "de": "Die Eigentumswohnung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Приватизированная квартира играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Makler, die Makler",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "риелтор / маклер",
+      "translation_en": "real estate agent",
+      "examples": [
+        {
+          "de": "Hier ist der Makler.",
+          "ru": "Вот риелтор / маклер."
+        },
+        {
+          "de": "Wir müssen den Makler genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: риелтор / маклер."
+        },
+        {
+          "de": "Sind Sie mit dem Makler einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: риелтор / маклер?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Makler.",
+          "ru": "Сегодня мы концентрируемся на теме: риелтор / маклер."
+        },
+        {
+          "de": "Der Makler spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Риелтор / маклер играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Maklergebühr, die Maklergebühren",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "комиссия риелтора",
+      "translation_en": "broker's fee",
+      "examples": [
+        {
+          "de": "Hier ist die Maklergebühr.",
+          "ru": "Вот комиссия риелтора."
+        },
+        {
+          "de": "Wir müssen die Maklergebühr genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: комиссия риелтора."
+        },
+        {
+          "de": "Sind Sie mit der Maklergebühr einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: комиссия риелтора?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Maklergebühr.",
+          "ru": "Сегодня мы концентрируемся на теме: комиссия риелтора."
+        },
+        {
+          "de": "Die Maklergebühr spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Комиссия риелтора играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Besichtigung, die Besichtigungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "осмотр (квартиры)",
+      "translation_en": "viewing",
+      "examples": [
+        {
+          "de": "Hier ist die Besichtigung.",
+          "ru": "Вот осмотр (квартиры)."
+        },
+        {
+          "de": "Wir müssen die Besichtigung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: осмотр (квартиры)."
+        },
+        {
+          "de": "Sind Sie mit der Besichtigung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: осмотр (квартиры)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Besichtigung.",
+          "ru": "Сегодня мы концентрируемся на теме: осмотр (квартиры)."
+        },
+        {
+          "de": "Die Besichtigung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Осмотр (квартиры) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "besichtigen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "осматривать (помещение)",
+      "translation_en": "to view",
+      "examples": [
+        {
+          "de": "Wir besichtigen diese Angelegenheit direkt im Team.",
+          "ru": "Мы осматривать (помещение) этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich besichtige die notwendigen Unterlagen sofort.",
+          "ru": "Я осматривать (помещение) необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege besichtigt das Ganze sehr professionell.",
+          "ru": "Ответственный коллега осматривать (помещение) всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich besichtigt.",
+          "ru": "Мы успешно осматривать (помещение) (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "besichtigen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: осматривать (помещение) вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "besichtigt",
+      "imperative": "besichtige! / besichtigt! / besichtigen Sie!",
+      "conjugations": {
+        "ich": "besichtige",
+        "du": "besichtigst",
+        "er/sie/es": "besichtigt",
+        "wir": "besichtigen",
+        "ihr": "besichtigt",
+        "sie/Sie": "besichtigen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "der Besichtigungstermin, die Besichtigungstermine",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "время просмотра квартиры",
+      "translation_en": "viewing appointment",
+      "examples": [
+        {
+          "de": "Hier ist der Besichtigungstermin.",
+          "ru": "Вот время просмотра квартиры."
+        },
+        {
+          "de": "Wir müssen den Besichtigungstermin genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: время просмотра квартиры."
+        },
+        {
+          "de": "Sind Sie mit dem Besichtigungstermin einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: время просмотра квартиры?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Besichtigungstermin.",
+          "ru": "Сегодня мы концентрируемся на теме: время просмотра квартиры."
+        },
+        {
+          "de": "Der Besichtigungstermin spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Время просмотра квартиры играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Selbstauskunft, die Selbstauskünfte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "анкета арендатора (сведения о себе)",
+      "translation_en": "self-disclosure",
+      "examples": [
+        {
+          "de": "Hier ist die Selbstauskunft.",
+          "ru": "Вот анкета арендатора (сведения о себе)."
+        },
+        {
+          "de": "Wir müssen die Selbstauskunft genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: анкета арендатора (сведения о себе)."
+        },
+        {
+          "de": "Sind Sie mit der Selbstauskunft einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: анкета арендатора (сведения о себе)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Selbstauskunft.",
+          "ru": "Сегодня мы концентрируемся на теме: анкета арендатора (сведения о себе)."
+        },
+        {
+          "de": "Die Selbstauskunft spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Анкета арендатора (сведения о себе) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Schufa-Auszug, die Auszüge",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "выписка из кредитной истории (Шуфа)",
+      "translation_en": "credit report",
+      "examples": [
+        {
+          "de": "Hier ist der Schufa-Auszug.",
+          "ru": "Вот выписка из кредитной истории (Шуфа)."
+        },
+        {
+          "de": "Wir müssen den Schufa-Auszug genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: выписка из кредитной истории (Шуфа)."
+        },
+        {
+          "de": "Sind Sie mit dem Schufa-Auszug einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: выписка из кредитной истории (Шуфа)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Schufa-Auszug.",
+          "ru": "Сегодня мы концентрируемся на теме: выписка из кредитной истории (Шуфа)."
+        },
+        {
+          "de": "Der Schufa-Auszug spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Выписка из кредитной истории (Шуфа) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Einkommensnachweis, die Einkommensnachweise",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "подтверждение доходов",
+      "translation_en": "proof of income",
+      "examples": [
+        {
+          "de": "Hier ist der Einkommensnachweis.",
+          "ru": "Вот подтверждение доходов."
+        },
+        {
+          "de": "Wir müssen den Einkommensnachweis genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: подтверждение доходов."
+        },
+        {
+          "de": "Sind Sie mit dem Einkommensnachweis einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: подтверждение доходов?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Einkommensnachweis.",
+          "ru": "Сегодня мы концентрируемся на теме: подтверждение доходов."
+        },
+        {
+          "de": "Der Einkommensnachweis spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Подтверждение доходов играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Bürge, die Bürgen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "поручитель",
+      "translation_en": "guarantor",
+      "examples": [
+        {
+          "de": "Hier ist der Bürge.",
+          "ru": "Вот поручитель."
+        },
+        {
+          "de": "Wir müssen den Bürge genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: поручитель."
+        },
+        {
+          "de": "Sind Sie mit dem Bürge einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: поручитель?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Bürge.",
+          "ru": "Сегодня мы концентрируемся на теме: поручитель."
+        },
+        {
+          "de": "Der Bürge spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Поручитель играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Bürgschaft, die Bürgschaften",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "поручительство / гарантия",
+      "translation_en": "guaranty",
+      "examples": [
+        {
+          "de": "Hier ist die Bürgschaft.",
+          "ru": "Вот поручительство / гарантия."
+        },
+        {
+          "de": "Wir müssen die Bürgschaft genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: поручительство / гарантия."
+        },
+        {
+          "de": "Sind Sie mit der Bürgschaft einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: поручительство / гарантия?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Bürgschaft.",
+          "ru": "Сегодня мы концентрируемся на теме: поручительство / гарантия."
+        },
+        {
+          "de": "Die Bürgschaft spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Поручительство / гарантия играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Mietkaution, die Mietkautionen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "залог за аренду жилья",
+      "translation_en": "rental deposit",
+      "examples": [
+        {
+          "de": "Hier ist die Mietkaution.",
+          "ru": "Вот залог за аренду жилья."
+        },
+        {
+          "de": "Wir müssen die Mietkaution genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: залог за аренду жилья."
+        },
+        {
+          "de": "Sind Sie mit der Mietkaution einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: залог за аренду жилья?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Mietkaution.",
+          "ru": "Сегодня мы концентрируемся на теме: залог за аренду жилья."
+        },
+        {
+          "de": "Die Mietkaution spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Залог за аренду жилья играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Kautionskonto, die Kautionskonten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "залоговый банковский счет",
+      "translation_en": "deposit account",
+      "examples": [
+        {
+          "de": "Hier ist das Kautionskonto.",
+          "ru": "Вот залоговый банковский счет."
+        },
+        {
+          "de": "Wir müssen das Kautionskonto genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: залоговый банковский счет."
+        },
+        {
+          "de": "Sind Sie mit dem Kautionskonto einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: залоговый банковский счет?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Kautionskonto.",
+          "ru": "Сегодня мы концентрируемся на теме: залоговый банковский счет."
+        },
+        {
+          "de": "Das Kautionskonto spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Залоговый банковский счет играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    }
+  ]
+}
