@@ -9,24 +9,20 @@
       "translation_en": "customizing / configuration",
       "examples": [
         {
-          "de": "Hier ist das Customizing.",
-          "ru": "Вот кастомизация / настройка системы под клиента."
+          "de": "Zum Produktservice zählen die Installation, Anpassung an Kundenwünsche (sogenanntes Customizing) sowie die Wartung für PC, Geldautomaten und Kassen.",
+          "ru": "В сервис продукта входит установка, адаптация к требованиям заказчика (так называемая кастомизация), а также обслуживание ПК, банкоматов и кассовых аппаратов."
         },
         {
-          "de": "Wir müssen das Customizing genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: кастомизация / настройка системы под клиента."
+          "de": "Ein Customizing von Oberflächenelementen über das Setzen von Properties hinaus ist ebenfalls nicht möglich.",
+          "ru": "Настройка элементов интерфейса помимо настройки свойств также невозможна."
         },
         {
-          "de": "Sind Sie mit dem Customizing einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: кастомизация / настройка системы под клиента?"
+          "de": "Ganz neue Wege beim Customizing der Office‑Applikationen bietet außerdem die ActiveX‑Unterstützung.",
+          "ru": "Поддержка ActiveX также предлагает совершенно новые способы настройки приложений Office."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Customizing.",
-          "ru": "Сегодня мы концентрируемся на теме: кастомизация / настройка системы под клиента."
-        },
-        {
-          "de": "Das Customizing spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Кастомизация / настройка системы под клиента играет решающую роль в успехе."
+          "de": "Außerdem bietet WinGen keine Unterstützung bei der Wiederverwendung von Layout‑Teilen oder beim Customizing von Oberflächen‑Controls.",
+          "ru": "Кроме того, WinGen не поддерживает повторное использование частей макета или настройку элементов управления интерфейса."
         }
       ],
       "synonyms": []
@@ -39,24 +35,12 @@
       "translation_en": "Implementation Guide (IMG)",
       "examples": [
         {
-          "de": "Hier ist der Einführungsleitfaden.",
-          "ru": "Вот руководство по внедрению (IMG)."
+          "de": "Im Einführungsleitfaden sind alle Schritte zur Systemkonfiguration übersichtlich aufgelistet.",
+          "ru": "В руководстве по внедрению наглядно перечислены все шаги по конфигурации системы."
         },
         {
-          "de": "Wir müssen den Einführungsleitfaden genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: руководство по внедрению (IMG)."
-        },
-        {
-          "de": "Sind Sie mit dem Einführungsleitfaden einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: руководство по внедрению (IMG)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Einführungsleitfaden.",
-          "ru": "Сегодня мы концентрируемся на теме: руководство по внедрению (IMG)."
-        },
-        {
-          "de": "Der Einführungsleitfaden spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Руководство по внедрению (IMG) играет решающую роль в успехе."
+          "de": "Wir folgen dem Einführungsleitfaden, um die neuen Steuersätze einzurichten.",
+          "ru": "Мы следуем руководству по внедрению, чтобы настроить новые налоговые ставки."
         }
       ],
       "synonyms": []
@@ -69,24 +53,20 @@
       "translation_en": "transport request",
       "examples": [
         {
-          "de": "Hier ist der Transportauftrag.",
-          "ru": "Вот запрос на перенос."
+          "de": "Bei jedem Transportauftrag achten wir auf hochwertige Bearbeitung und Befriedigung des Kunden.",
+          "ru": "В течение нашей деятельности мы всегда следим за качественным оформлением и удовлетворением запросов клиента, контролируя груз на каждом этапе его движения."
         },
         {
-          "de": "Wir müssen den Transportauftrag genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: запрос на перенос."
+          "de": "Wäre das ein geschäftlicher Transportauftrag, weißt du... angemessen bezahlt, wär's viel einfacher...",
+          "ru": "Если бы это был коммерческий рейс, надлежащим образом оплаченный, все было бы куда проще, но..."
         },
         {
-          "de": "Sind Sie mit dem Transportauftrag einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: запрос на перенос?"
+          "de": "Um genaue Bedingungen eines konkreten Transportauftrags zu bestimmen, bitten wir Sie darum, an uns eine Anfrage zu senden.",
+          "ru": "Для определения условий конкретного транспортного поручения просим передать запрос на предложение."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Transportauftrag.",
-          "ru": "Сегодня мы концентрируемся на теме: запрос на перенос."
-        },
-        {
-          "de": "Der Transportauftrag spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Запрос на перенос играет решающую роль в успехе."
+          "de": "Wir führen Transportaufträge sowohl im In- als auch im Ausland aus.",
+          "ru": "Реализуем транспортные поручения в масштабе страны и международном масштабе."
         }
       ],
       "synonyms": []
@@ -99,24 +79,12 @@
       "translation_en": "customizing table",
       "examples": [
         {
-          "de": "Hier ist die Customizing-Tabelle.",
-          "ru": "Вот таблица настроек."
+          "de": "Die neuen Buchungsschlüssel werden in einer Customizing-Tabelle gespeichert.",
+          "ru": "Новые ключи проводки сохраняются в таблице настроек (Customizing-Tabelle)."
         },
         {
-          "de": "Wir müssen die Customizing-Tabelle genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: таблица настроек."
-        },
-        {
-          "de": "Sind Sie mit der Customizing-Tabelle einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: таблица настроек?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Customizing-Tabelle.",
-          "ru": "Сегодня мы концентрируемся на теме: таблица настроек."
-        },
-        {
-          "de": "Die Customizing-Tabelle spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Таблица настроек играет решающую роль в успехе."
+          "de": "Direkte Änderungen an einer Customizing-Tabelle im Produktivsystem sind untersagt.",
+          "ru": "Прямые изменения в таблице настроек в продуктивной системе запрещены."
         }
       ],
       "synonyms": []
@@ -129,24 +97,20 @@
       "translation_en": "system landscape",
       "examples": [
         {
-          "de": "Hier ist die Systemlandschaft.",
-          "ru": "Вот системный ландшафт."
+          "de": "IBM ist davon überzeugt, dass wir uns noch lange in einer heterogenen Systemlandschaft bewegen werden.",
+          "ru": "IBM убеждена, что мы еще долгое время будем работать в гетерогенной системной среде."
         },
         {
-          "de": "Wir müssen die Systemlandschaft genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: системный ландшафт."
+          "de": "Damit der Kunde eine komplette, in seine Systemlandschaft integrierte Lösung nutzen kann, muss diese komplexe Lösung in seine zentralen IT-Systeme eingebunden werden.",
+          "ru": "Чтобы клиент мог использовать комплексное решение, интегрированное в его системный ландшафт, это комплексное решение должно быть интегрировано в его центральные ИТ-системы."
         },
         {
-          "de": "Sind Sie mit der Systemlandschaft einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: системный ландшафт?"
+          "de": "Entscheidend ist, daß SCM-Systeme auf einer beliebig heterogenen Systemlandschaft aufbauen können.",
+          "ru": "Крайне важно то, что системы SCM могут быть построены на любом гетерогенном системном ландшафте."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Systemlandschaft.",
-          "ru": "Сегодня мы концентрируемся на теме: системный ландшафт."
-        },
-        {
-          "de": "Die Systemlandschaft spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Системный ландшафт играет решающую роль в успехе."
+          "de": "Mit den neuen Funktionen der Industrielösung SAP-Banking werde die bisherige Systemlandschaft der Postbank in den Kernbereichen Sparund Girokonten sowie Darlehen abgelöst.",
+          "ru": "Новые функции банковского промышленного решения SAP заменят предыдущую системную среду Postbank в основных областях сбережений и текущих счетов, а также кредитов."
         }
       ],
       "synonyms": []
@@ -159,24 +123,24 @@
       "translation_en": "development system",
       "examples": [
         {
-          "de": "Hier ist das Entwicklungssystem.",
-          "ru": "Вот система разработки (DEV)."
+          "de": "Ein kohärenteres Entwicklungssystem würde die globale analytische und normative Arbeit der Vereinten Nationen mit regionalen Perspektiven und Maßnahmen auf Landesebene in Einklang bringen und integrieren sowie die Synergien zwischen ihnen maximieren.",
+          "ru": "Более согласованная система развития позволит объединить и тесно увязать глобальную аналитическую и нормотворческую работу Организации Объединенных Наций с региональными мероприятиями и мерами, принимаемыми на страновом уровне, а также обеспечить их максимальную взаимодополняемость."
         },
         {
-          "de": "Wir müssen das Entwicklungssystem genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: система разработки (DEV)."
+          "de": "Durch Konsolidierung, Prioritätensetzung und die Beseitigung von Überschneidungen wird ein umstrukturiertes Entwicklungssystem zu Leistungsverbesserungen und höherer Kostenwirksamkeit führen.",
+          "ru": "Благодаря консолидации, установлению приоритетов и устранению дублирования перестроенная система развития даст возможность повысить результативность и эффективность деятельности с точки зрения затрат."
         },
         {
-          "de": "Sind Sie mit dem Entwicklungssystem einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: система разработки (DEV)?"
+          "de": "3: Das integrierte evolutionäre Entwicklungssystem).",
+          "ru": "АО \"Центр комплексного развития\"."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Entwicklungssystem.",
-          "ru": "Сегодня мы концентрируемся на теме: система разработки (DEV)."
+          "de": "Wir sind überzeugt, dass die Umsetzung dieses mutigen, aber realistischen Programms von Empfehlungen dazu beitragen wird, dass das Entwicklungssystem der Vereinten Nationen den Herausforderungen des 21. Jahrhunderts gewachsen ist.",
+          "ru": "Мы убеждены в том, что осуществление этой смелой, но реалистичной программы будет содействовать обеспечению того, чтобы система развития Организации Объединенных Наций оставалась на уровне требований XXI века."
         },
         {
-          "de": "Das Entwicklungssystem spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Система разработки (DEV) играет решающую роль в успехе."
+          "de": "Die Build-Server für die S/390-Architektur werden von Millenux betrieben, dem Distributor der Think-Blue-Distribution für S/390 , und dem Entwicklungssystem der Linux-Gemeinschaft (Linux Community Development System - LCDS).",
+          "ru": "Серверы сборки для архитектуры S/390 расположены на сервере Millenux, разработчика дистрибутива Think Blue для S/390, и Linux Community Development System (LCDS)."
         }
       ],
       "synonyms": []
@@ -189,24 +153,24 @@
       "translation_en": "quality assurance system",
       "examples": [
         {
-          "de": "Hier ist das Qualitätssicherungssystem.",
-          "ru": "Вот тестовая система / система качества (QA)."
+          "de": "Wird ein Qualitätssicherungssystem, welches den unsere Gesamttätigkeit- Produktion, Handel - umfassenden Anforderungen der Norm MSZ EN 9001:2001, sowie den sich ständig ändernden Ansprüchen entspricht eingerichtet, und betreiben, durchgehend entwickeln.",
+          "ru": "Мы создали систему управления качеством, соответствующую требованиям стандарта MSZ EN 9001:2001 и постоянно меняющимся спросу, распространённую на всю сферу нашей деятельности, в том числе и на производство, и на торговлю, эта система работает и постоянно совершенствуется у нас."
         },
         {
-          "de": "Wir müssen das Qualitätssicherungssystem genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: тестовая система / система качества (QA)."
+          "de": "ständige Verbesserung der Qualität von Managementmethoden und Realisierung der Prozesse durch das eingeführte Qualitätssicherungssystem, gemäß den Anforderungen der Norm PN- ISO 9001: 2009.",
+          "ru": "постоянного повышения качества и улучшения методов управления, а также реализации процессов путем внедрения системы обеспечения качества в соответствии с требованиями нормы PN- ISO 9001: 2009."
         },
         {
-          "de": "Sind Sie mit dem Qualitätssicherungssystem einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: тестовая система / система качества (QA)?"
+          "de": "Internes und externes Qualitätssicherungssystem für die vorgelegten Ergebnisse,",
+          "ru": "Система внутренней и внешней оценки качества полученных результатов."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Qualitätssicherungssystem.",
-          "ru": "Сегодня мы концентрируемся на теме: тестовая система / система качества (QA)."
+          "de": "Ingenieurwesen, insbesondere Technologietransfer, Projektmanagement, Qualitätssicherungssysteme",
+          "ru": "Инженерные Дисциплины, в частности, передача технологий, руководство проектами, системы обеспечения качества"
         },
         {
-          "de": "Das Qualitätssicherungssystem spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Тестовая система / система качества (QA) играет решающую роль в успехе."
+          "de": "Unter anderem könnten die folgenden Themen bearbeitet werden: Hochschulleitung ('university governance') und Finanzwesen, die Internationalisierungsstrategie der Hochschule oder die Verbesserung von Qualitätssicherungssystemen;",
+          "ru": "Эти вопросы включают, помимо прочих, руководство и финансовую деятельность университетов, стратегию интернационализации или укрепление механизмов обеспечения качества;"
         }
       ],
       "synonyms": []
@@ -219,24 +183,12 @@
       "translation_en": "production system",
       "examples": [
         {
-          "de": "Hier ist das Produktivsystem.",
-          "ru": "Вот продуктивная / рабочая система (PRD)."
+          "de": "Nach erfolgreichen Tests können wir die Änderungen in das Produktivsystem transportieren.",
+          "ru": "После успешных тестов мы можем перенести изменения в продуктивную систему."
         },
         {
-          "de": "Wir müssen das Produktivsystem genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: продуктивная / рабочая система (PRD)."
-        },
-        {
-          "de": "Sind Sie mit dem Produktivsystem einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: продуктивная / рабочая система (PRD)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Produktivsystem.",
-          "ru": "Сегодня мы концентрируемся на теме: продуктивная / рабочая система (PRD)."
-        },
-        {
-          "de": "Das Produktivsystem spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Продуктивная / рабочая система (PRD) играет решающую роль в успехе."
+          "de": "Im Produktivsystem arbeiten die Mitarbeiter des Kunden mit realen Geschäftsdaten.",
+          "ru": "В продуктивной системе сотрудники клиента работают с реальными бизнес-данными."
         }
       ],
       "synonyms": []
@@ -249,24 +201,24 @@
       "translation_en": "client",
       "examples": [
         {
-          "de": "Hier ist der Mandant.",
-          "ru": "Вот мандант (клиент в базе данных)."
+          "de": "Wenn es ein neuer Mandant ist, dann lass sie uns fallen lassen.",
+          "ru": "Если это новый клиент, тогда давай от него откажемся."
         },
         {
-          "de": "Wir müssen den Mandant genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: мандант (клиент в базе данных)."
+          "de": "Er ist mein Mandant, das muss von Anfang an klar sein.",
+          "ru": "Он мой клиент и это должно быть понятно с самого начала."
         },
         {
-          "de": "Sind Sie mit dem Mandant einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: мандант (клиент в базе данных)?"
+          "de": "Katrina, ich muss wissen, ob sie ein Mandant von euch sind.",
+          "ru": "Катрина, я должен знать, являются ли они вашим клиентом."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Mandant.",
-          "ru": "Сегодня мы концентрируемся на теме: мандант (клиент в базе данных)."
+          "de": "Er ist mein wichtigster Mandant. Ich kann ihn nicht ignorieren.",
+          "ru": "Он мой важнейший клиент, а я на его звонки не отвечаю."
         },
         {
-          "de": "Der Mandant spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Мандант (клиент в базе данных) играет решающую роль в успехе."
+          "de": "Wir hätten gerne, dass Ihr Mandant diese Frage beantwortet.",
+          "ru": "Мы бы хотели, чтобы на этот вопрос ответил ваш клиент."
         }
       ],
       "synonyms": []
@@ -279,24 +231,24 @@
       "translation_en": "data migration",
       "examples": [
         {
-          "de": "Hier ist die Datenübernahme.",
-          "ru": "Вот миграция / перенос данных."
+          "de": "Die Datenübernahme aus dem Vorjahr ist nun von beliebigen Pfaden möglich.",
+          "ru": "Передача данных за предыдущий год теперь возможна по любому пути."
         },
         {
-          "de": "Wir müssen die Datenübernahme genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: миграция / перенос данных."
+          "de": "Die Datenübernahme aus dem Vorjahr ist nur während der Installation möglich, später nicht mehr.",
+          "ru": "Перенос данных за предыдущий год возможен только во время установки, не позже."
         },
         {
-          "de": "Sind Sie mit der Datenübernahme einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: миграция / перенос данных?"
+          "de": "Wir verwendeten den Steuerfall des vergangenen Jahres und testeten dabei gleich die korrekte Datenübernahme.",
+          "ru": "Мы использовали налоговый кейс за предыдущий год и сразу проверили, правильно ли были переданы данные."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Datenübernahme.",
-          "ru": "Сегодня мы концентрируемся на теме: миграция / перенос данных."
+          "de": "Zwar brach im Vorverkaufsbüro des Veranstalters nicht der Rinderwahnsinn aus, aber das Computersystem kollabierte bei der Datenübernahme in ein neues System.",
+          "ru": "Хотя коровье бешенство в кассе организатора не разразилось, компьютерная система вышла из строя, когда данные были перенесены в новую систему."
         },
         {
-          "de": "Die Datenübernahme spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Миграция / перенос данных играет решающую роль в успехе."
+          "de": "Beim Umstieg zeigte sich allerdings eine besondere Problematik bei der Datenübernahme vom zählerorientierten EAS ins IS-U.",
+          "ru": "Однако при переходе возникла особая проблема при передаче данных из EAS, ориентированного на счетчик, в IS-U."
         }
       ],
       "synonyms": []
@@ -309,24 +261,12 @@
       "translation_en": "legacy data transfer",
       "examples": [
         {
-          "de": "Hier ist die Altdatenübernahme.",
-          "ru": "Вот миграция исторических данных."
+          "de": "Die Altdatenübernahme ist ein kritischer Schritt beim Go-Live des neuen SAP-Systems.",
+          "ru": "Перенос исторических данных — это критически важный шаг при запуске новой системы SAP."
         },
         {
-          "de": "Wir müssen die Altdatenübernahme genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: миграция исторических данных."
-        },
-        {
-          "de": "Sind Sie mit der Altdatenübernahme einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: миграция исторических данных?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Altdatenübernahme.",
-          "ru": "Сегодня мы концентрируемся на теме: миграция исторических данных."
-        },
-        {
-          "de": "Die Altdatenübernahme spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Миграция исторических данных играет решающую роль в успехе."
+          "de": "Vor der Altdatenübernahme müssen wir alle Daten gründlich bereinigen.",
+          "ru": "Перед переносом исторических данных нам необходимо тщательно очистить все данные."
         }
       ],
       "synonyms": []
@@ -339,24 +279,12 @@
       "translation_en": "fit-gap analysis",
       "examples": [
         {
-          "de": "Hier ist die Lückenanalyse.",
-          "ru": "Вот анализ разрывов (Fit-Gap)."
+          "de": "Die Lückenanalyse zeigt die Abweichungen zwischen dem SAP-Standard und den Kundenanforderungen.",
+          "ru": "Анализ расхождений (Lückenanalyse) показывает отклонения между стандартом SAP и требованиями клиента."
         },
         {
-          "de": "Wir müssen die Lückenanalyse genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: анализ разрывов (Fit-Gap)."
-        },
-        {
-          "de": "Sind Sie mit der Lückenanalyse einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: анализ разрывов (Fit-Gap)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Lückenanalyse.",
-          "ru": "Сегодня мы концентрируемся на теме: анализ разрывов (Fit-Gap)."
-        },
-        {
-          "de": "Die Lückenanalyse spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Анализ разрывов (Fit-Gap) играет решающую роль в успехе."
+          "de": "Auf Basis der Lückenanalyse entscheiden wir, ob wir eine Eigenentwicklung benötigen.",
+          "ru": "На основе анализа расхождений мы решаем, требуется ли нам собственная разработка."
         }
       ],
       "synonyms": []
@@ -369,24 +297,24 @@
       "translation_en": "Go-Live",
       "examples": [
         {
-          "de": "Hier ist der Go-Live.",
-          "ru": "Вот запуск системы / промышленный старт."
+          "de": "Ihre Memoiren Mut zur Freiheit: Meine Flucht aus Nordkorea (In Order to Live: A North Korean Girl's Journey to Freedom) wurden im September 2015 veröffentlicht.",
+          "ru": "Мемуары Пак In Order to Live: A North Korean Girl's Journey to Freedom опубликованы на английском языке в 2015 году."
         },
         {
-          "de": "Wir müssen den Go-Live genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: запуск системы / промышленный старт."
+          "de": "Du glaubst nie, was gerade bei \"One Life to Live\" abgeht.",
+          "ru": "Вы не представляете, что там в одном сериале творится."
         },
         {
-          "de": "Sind Sie mit dem Go-Live einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: запуск системы / промышленный старт?"
+          "de": "Diese Wandlung des Soldaten zum Staatsmann ist in seinem Buch Are We Truly Condemned to Live by the Sword to Eternity? beschrieben.",
+          "ru": "Его книга «Действительно ли мы обречены жить при помощи меча во веки веков?» ознаменовала преобразование солдата в государственного деятеля."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Go-Live.",
-          "ru": "Сегодня мы концентрируемся на теме: запуск системы / промышленный старт."
+          "de": "In seiner ersten Rolle spielte er Rick Gardner in der Seifenoper One Life to Live von 1985 bis 1987.",
+          "ru": "Первой ролью для Ричарда стала роль Рика Гарднера в американской мыльной опере «Одна жизнь, чтобы жить» с 1985 по 1987 годы."
         },
         {
-          "de": "Der Go-Live spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Запуск системы / промышленный старт играет решающую роль в успехе."
+          "de": "Eine Verwundbarkeit in BIND (einem Domain-Name-Server) wurde entdeckt, wodurch ein böswilliger Nameserver eine autoritative negative Antwort mit einem großen TTL-Wert (Time To Live) zurückliefern kann und dadurch einen Domainnamen unerreichbar macht.",
+          "ru": "Обнаружена уязвимость в BIND, сервере имён доменов. Злонамеренный сервер имён мог возвратить пользующийся доверием отрицательный ответ с большим временем жизни (time-to-live, TTL), тем самым делая домен недоступным по имени."
         }
       ],
       "synonyms": []
@@ -399,24 +327,24 @@
       "translation_en": "support",
       "examples": [
         {
-          "de": "Hier ist der Support.",
-          "ru": "Вот поддержка / сопровождение."
+          "de": "Kein Wunder also, das der Support so schlecht ist.",
+          "ru": "Так что не стоит удивляться, что поддержка так плоха."
         },
         {
-          "de": "Wir müssen den Support genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: поддержка / сопровождение."
+          "de": "Bei proprietärer Software ist Support ein Monopol.",
+          "ru": "С случае проприетарного программного обеспечения, поддержка это монополия."
         },
         {
-          "de": "Sind Sie mit dem Support einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: поддержка / сопровождение?"
+          "de": "Unsere Administratoren bieten Ihnen keinen technischen Support oder Beratung zu diesem Produkt an.",
+          "ru": "Наши администраторы не предоставляют услуги технической поддержки ни консультации."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Support.",
-          "ru": "Сегодня мы концентрируемся на теме: поддержка / сопровождение."
+          "de": "Er arbeitete im technischen Support, richtig?",
+          "ru": "Он же из технической поддержки, да?"
         },
         {
-          "de": "Der Support spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Поддержка / сопровождение играет решающую роль в успехе."
+          "de": "Kostenloser Support und Installation auf Ihrem Server!",
+          "ru": "Бесплатная поддержка и установка на ваш сервер!"
         }
       ],
       "synonyms": []
@@ -429,24 +357,12 @@
       "translation_en": "SAP implementation project",
       "examples": [
         {
-          "de": "Hier ist das SAP-Einführungsprojekt.",
-          "ru": "Вот проект внедрения SAP."
+          "de": "Das SAP-Einführungsprojekt erfordert eine enge Zusammenarbeit zwischen IT und Fachabteilung.",
+          "ru": "Проект внедрения SAP требует тесного взаимодействия между ИТ и бизнес-подразделениями."
         },
         {
-          "de": "Wir müssen das SAP-Einführungsprojekt genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: проект внедрения SAP."
-        },
-        {
-          "de": "Sind Sie mit dem SAP-Einführungsprojekt einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: проект внедрения SAP?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das SAP-Einführungsprojekt.",
-          "ru": "Сегодня мы концентрируемся на теме: проект внедрения SAP."
-        },
-        {
-          "de": "Das SAP-Einführungsprojekt spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Проект внедрения SAP играет решающую роль в успехе."
+          "de": "Unser SAP-Einführungsprojekt befindet sich derzeit in der Realisierungsphase.",
+          "ru": "Наш проект внедрения SAP в настоящее время находится на этапе реализации."
         }
       ],
       "synonyms": []
@@ -459,24 +375,24 @@
       "translation_en": "functional test",
       "examples": [
         {
-          "de": "Hier ist der Funktionstest.",
-          "ru": "Вот функциональное тестирование."
+          "de": "Vor dem Verpacken wird jede einzelne Maschine einem Qualitäts- und Funktionstest unterzogen.",
+          "ru": "Перед упаковкой каждый станок еще раз проверяется на предмет выявления возможных дефектов производства."
         },
         {
-          "de": "Wir müssen den Funktionstest genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: функциональное тестирование."
+          "de": "Nach einem Funktionstest übermittelte Surveyor 1 die ersten von insgesamt 11240 Bildern.",
+          "ru": "В общей сложности «Сервейер-1» передал на Землю 11240 фотографий."
         },
         {
-          "de": "Sind Sie mit dem Funktionstest einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: функциональное тестирование?"
+          "de": "Nachdem Funktionstests und Maschinenerprobungen erfolgreich abgeschlossen worden waren, verließ die AIDAdiva am 4. März 2007 das überdachte Baudock und wurde an den Ausrüstungskai überführt, wo sie ausgebaut und schließlich fertiggestellt wurde.",
+          "ru": "После серии успешных тестов и испытаний AIDAdiva покинула 4 марта 2007 г. закрытый док и была поставлена у причала на дооборудование."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Funktionstest.",
-          "ru": "Сегодня мы концентрируемся на теме: функциональное тестирование."
+          "de": "Ich habe einen Leber-Funktionstest angesetzt.",
+          "ru": "Я записал тебя на анализы."
         },
         {
-          "de": "Der Funktionstest spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Функциональное тестирование играет решающую роль в успехе."
+          "de": "Funktionstasten ermÃglichen eine schnelle Ausführung von Datei-Operationen.",
+          "ru": "Функциональные клавиши позволяют выполнять быстрые операции с файлами."
         }
       ],
       "synonyms": []
@@ -489,24 +405,12 @@
       "translation_en": "integration test",
       "examples": [
         {
-          "de": "Hier ist der Integrationstest.",
-          "ru": "Вот интеграционное тестирование."
+          "de": "Im Integrationstest prüfen wir das Zusammenspiel verschiedener SAP-Module.",
+          "ru": "В ходе интеграционного теста мы проверяем взаимодействие различных модулей SAP."
         },
         {
-          "de": "Wir müssen den Integrationstest genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: интеграционное тестирование."
-        },
-        {
-          "de": "Sind Sie mit dem Integrationstest einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: интеграционное тестирование?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Integrationstest.",
-          "ru": "Сегодня мы концентрируемся на теме: интеграционное тестирование."
-        },
-        {
-          "de": "Der Integrationstest spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Интеграционное тестирование играет решающую роль в успехе."
+          "de": "Der Integrationstest muss vollständig dokumentiert werden.",
+          "ru": "Интеграционный тест должен быть полностью задокументирован."
         }
       ],
       "synonyms": []
@@ -519,24 +423,24 @@
       "translation_en": "user acceptance test (UAT)",
       "examples": [
         {
-          "de": "Hier ist der Benutzertest.",
-          "ru": "Вот пользовательское тестирование (UAT)."
+          "de": "Eigene Farbeinstellungen für Eingabefeld, Benutzerliste und & Unterfensterleiste verwenden.",
+          "ru": "Использовать собственные цвета для поля ввода, списка пользователей и списка вкладок"
         },
         {
-          "de": "Wir müssen den Benutzertest genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: пользовательское тестирование (UAT)."
+          "de": "Nur für Benutzer der Benutzerliste sind Verbindungen erlaubt",
+          "ru": "Разрешать соединение только для следующих & пользователей"
         },
         {
-          "de": "Sind Sie mit dem Benutzertest einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: пользовательское тестирование (UAT)?"
+          "de": "Wenn Sie die Benutzerliste nicht anzeigen, ist das Erscheinungsbild des Anmeldefensters eher traditionell. Benutzer müssen ihren Benutzernamen und ihr Passwort eingeben, um sich anzumelden. Bei sehr vielen Benutzern wird diese Option empfohlen.",
+          "ru": "Если вы решите не показывать изображения пользователей, окно входа в систему будет выглядеть более традиционно. Чтобы войти в систему, пользователям необходимо будет ввести имя и пароль. Этот выбор предпочтителен, если на вашем компьютере много пользователей."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Benutzertest.",
-          "ru": "Сегодня мы концентрируемся на теме: пользовательское тестирование (UAT)."
+          "de": "Global Sysops müssen in jedem Wiki auf dem sie aktiv sind eine Benutzerseite haben, welche Kontaktmöglichkeiten oder Links zu ihren Heimatwikis beinhaltet (Benutzerseitenerstellung per Bot möglich).",
+          "ru": "В каждом вики-проекте, где глобальные администраторы используют свои инструменты, они должны иметь персональную страницу участника, содержащую контактную информацию или ссылку на их основную страницу участника (доступно автоматическое создание)."
         },
         {
-          "de": "Der Benutzertest spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Пользовательское тестирование (UAT) играет решающую роль в успехе."
+          "de": "Wenn diese Einstellung aktiv ist, wird KDM eine Benutzerliste mit Bildern anzeigen, so dass Benutzer auf ihren Namen/Bild klicken können, statt ihren Benutzernamen über die Tastatur einzugeben.user...",
+          "ru": "Если установлен этот параметр, KDM будет показывать список всех пользователей, так что пользователи смогут выбрать своё имя из списка вместо того, чтобы набирать его на клавиатуре. user..."
         }
       ],
       "synonyms": []
@@ -549,24 +453,24 @@
       "translation_en": "training",
       "examples": [
         {
-          "de": "Hier ist die Schulung.",
-          "ru": "Вот обучение / тренинг."
+          "de": "Für eine einwöchige Schulung, die leider nicht stattfindet.",
+          "ru": "В бюджет входит недельное обучение, которого, к сожалению, не будет."
         },
         {
-          "de": "Wir müssen die Schulung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: обучение / тренинг."
+          "de": "Die Entscheidung diese einzusetzen hätte früher getroffen werden sollen, um mehr Zeit für die Schulung im Umgang damit zu ermöglichen, doch die meisten Wähler hatten keine Schwierigkeiten.",
+          "ru": "Решение использовать их должно было быть принято раньше, чтобы осталось больше времени на обучение и практику, но у большинства избирателей не возникло никаких проблем."
         },
         {
-          "de": "Sind Sie mit der Schulung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: обучение / тренинг?"
+          "de": "Er beteiligte sich an der Herstellung von Flugblättern und der politischen Schulung von Studenten.",
+          "ru": "Участвовал в производстве листовок и политической подготовке студентов."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Schulung.",
-          "ru": "Сегодня мы концентрируемся на теме: обучение / тренинг."
+          "de": "Und schließlich könnten alle europäischen Länder ihre Bemühungen zur Schulung ihrer Bevölkerung für die digitale Ära verstärken.",
+          "ru": "Наконец, все европейские страны могли бы удвоить свои усилия по обучению и подготовке населения к потребностям цифровой эры."
         },
         {
-          "de": "Die Schulung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Обучение / тренинг играет решающую роль в успехе."
+          "de": "Alles konzentriert sich auf Verbesserung und Schulung und Entwicklung und Entwicklung.",
+          "ru": "Все сфокусировано на улучшении, обучении, развитии и движении вперед."
         }
       ],
       "synonyms": []
@@ -579,24 +483,24 @@
       "translation_en": "end user",
       "examples": [
         {
-          "de": "Hier ist der Endanwender.",
-          "ru": "Вот конечный пользователь."
+          "de": "Das Gericht entschied zugunsten Grokster und StreamCast, die nicht für unrechtmäßige Handlungen ihrer Endanwender verantwortlich gemacht werden können.",
+          "ru": "На основании этого в апреле 2003 г. судом было вынесено решение о том, что ни Grokster ни StreamCast Networks не несут ответственности за незаконные действия своих пользователей."
         },
         {
-          "de": "Wir müssen den Endanwender genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: конечный пользователь."
+          "de": "Des weiteren gibt es keine Leute, die speziell für die Unterstützung der Endanwender zuständig sind. Also versuche, dir selbst zu helfen, bevor du höflich versuchst, einen Freiwilligen zu finden.",
+          "ru": "Разработчики Тог большую часть времени заняты улучшением Тог и у нас нет специальных людей для поддержки пользователей, поэтому постарайтесь помочь себе сами перед тем, как вежливо попытаться найти добровольца."
         },
         {
-          "de": "Sind Sie mit dem Endanwender einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: конечный пользователь?"
+          "de": "Ich habe den Endanwender lokalisiert, der den Traffic empfängt.",
+          "ru": "Я вычислил конечных получателей трафика."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Endanwender.",
-          "ru": "Сегодня мы концентрируемся на теме: конечный пользователь."
+          "de": "Ausfallzeiten bedeutet Einnahmeverluste und zugleich einen Vertrauensverlust für Endanwender und Anbieter.",
+          "ru": "Простои в работе означают потерю дохода и эквивалентны потере доверия как конечного пользователя, так и поставщика услуг."
         },
         {
-          "de": "Der Endanwender spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Конечный пользователь играет решающую роль в успехе."
+          "de": "Weiterhin hebt Capobianco den gemeinschaftlichen Ansatz hervor: Die Erfahrung unserer bestehenden Partner hat gezeigt, dass die Nachfrage an qualitativ hochwertigen Produkten mit einem gesteigerten Mehrwert für den Endanwender deutlich wächst.",
+          "ru": "Далее Энзо Капобьянко подчеркивает взаимные преимущества, предоставляемые этой программой: «Опыт наших партнеров свидетельствует о возросшем спросе на продукцию высокого качества, которая способствует значительному повышению добавленной стоимости и для конечных пользователей."
         }
       ],
       "synonyms": []
@@ -609,24 +513,24 @@
       "translation_en": "ticketing system",
       "examples": [
         {
-          "de": "Hier ist das Ticket-System.",
-          "ru": "Вот система тикетов (поддержки)."
+          "de": "Gibt es beim neuen Ticket-System der Bahn trotzdem noch Verlierer?",
+          "ru": "Есть ли еще проигравшие в новой системе железнодорожных билетов?"
         },
         {
-          "de": "Wir müssen das Ticket-System genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: система тикетов (поддержки)."
+          "de": "Bis Ende dieses Jahres solle die Entscheidung über die Weiterführung des elektronischen Ticket-Systems fallen.",
+          "ru": "Решение о продолжении работы системы электронных билетов должно быть принято до конца этого года."
         },
         {
-          "de": "Sind Sie mit dem Ticket-System einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: система тикетов (поддержки)?"
+          "de": "Mit einem neuen Ticket-System, bei dem Wartenummern ausgegeben werden, sollen die Schlangen entfallen oder möglichst kurz gehalten werden.",
+          "ru": "Благодаря новой системе билетов, в которой выдаются номера ожидания, очереди должны быть устранены или сохранены как можно короче."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Ticket-System.",
-          "ru": "Сегодня мы концентрируемся на теме: система тикетов (поддержки)."
+          "de": "Da sich viele hauptsächlich für die Stars und das kulinarisch-gesellschaftliche Beiprogramm interessieren, denkt Nusch über ein neues Ticket-System nach.",
+          "ru": "Поскольку многих людей в первую очередь интересуют звезды, кулинария и светские развлечения, Нуш подумывает о новой билетной системе."
         },
         {
-          "de": "Das Ticket-System spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Система тикетов (поддержки) играет решающую роль в успехе."
+          "de": "Dieses revolutionäre Ticket-System kündigte Fifa-Generaldirektor Michel Zen Ruffinen in einem Gespräch mit dem Sport-Informationsdienst (sid) an.",
+          "ru": "Генеральный директор ФИФА Мишель Зен Руффинен объявил об этой революционной билетной системе в интервью Службе спортивной информации (sid)."
         }
       ],
       "synonyms": []
@@ -639,24 +543,24 @@
       "translation_en": "incident",
       "examples": [
         {
-          "de": "Hier ist der Incident.",
-          "ru": "Вот инцидент / сбой / запрос на поддержку."
+          "de": "In der Zwischenzeit sind Sie Incident Commander.",
+          "ru": "А пока ты здесь остаёшься руководить расследованием."
         },
         {
-          "de": "Wir müssen den Incident genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: инцидент / сбой / запрос на поддержку."
+          "de": "In der Zwischenzeit sind Sie Incident Commander.",
+          "ru": "Сейчас ты случайный командир."
         },
         {
-          "de": "Sind Sie mit dem Incident einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: инцидент / сбой / запрос на поддержку?"
+          "de": "Normalerweise führen sie das so genannte ,Debriefing\" oder ,Critical Incident Stress Debriefing\" (Gruppengespräche nach einem kritischen Ereignis) durch.",
+          "ru": "Обычно они выполняют одну из форм действий, называемых «разбор несчастного случая» или «разбор стресса, полученного во время критического инцидента»."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Incident.",
-          "ru": "Сегодня мы концентрируемся на теме: инцидент / сбой / запрос на поддержку."
+          "de": "Eine zweite Forschungsreise führte sie nach Yucatán, woraus 1843 Stephens Buch \"Incidents of Travel in Yucatan\" entsprang.",
+          "ru": "Вторая их экспедиция направилась на Юкатан, по результатам которой Стефенс выпустил в 1843 году книгу «Incidents of Travel in Yucatan»."
         },
         {
-          "de": "Der Incident spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Инцидент / сбой / запрос на поддержку играет решающую роль в успехе."
+          "de": "Die Untersuchung des Unglücks wurde durch die spanische Unfalluntersuchungskommission Comisión de Investigación de Accidentes e Incidentes de Aviación Civil (CIAIAC) in Zusammenarbeit mit dem National Transportation Safety Board (NTSB) durchgeführt.",
+          "ru": "Расследованием катастрофы занимался Тайский комитет по расследованию авиационных происшествий (AAIC) совместно с американским Национальным советом по безопасности на транспорте (NTSB)."
         }
       ],
       "synonyms": []
@@ -669,24 +573,24 @@
       "translation_en": "change request",
       "examples": [
         {
-          "de": "Hier ist der Änderungsantrag.",
-          "ru": "Вот запрос на изменение (CR)."
+          "de": "Und wenn der Änderungsantrag morgen zurückgenommen wird, werden Sie die Resolution unterstützen.",
+          "ru": "И когда завтра условие будет снято, вы поддержите резолюцию."
         },
         {
-          "de": "Wir müssen den Änderungsantrag genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: запрос на изменение (CR)."
+          "de": "Ein Vorschlag gilt als Änderungsantrag zu einem anderen Vorschlag, wenn er lediglich die Ergänzung, Streichung oder Änderung eines Teils dieses Vorschlags vorsieht.",
+          "ru": "Любое предложение считается поправкой к другому предложению, если оно добавляет что-либо к этому предложению, исключает что-либо из него или изменяет часть такого предложения."
         },
         {
-          "de": "Sind Sie mit dem Änderungsantrag einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: запрос на изменение (CR)?"
+          "de": "Heute hat das Bergamt Stralsund den Änderungsantrag für den Bau der Gaspipeline genehmigt, den die Nord Stream AG am 25. März 2010 eingereicht Genehmigung bezieht sich auf einen rund 20 Kilometer langen...",
+          "ru": "Крупнейшее в мире трубоукладочное судно Solitaire швейцарской компании Allseas (партнера компании Saipem в рамках проекта Nord Stream) после проведения технического обслуживания и модернизации вышло из порта Роттердам и..."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Änderungsantrag.",
-          "ru": "Сегодня мы концентрируемся на теме: запрос на изменение (CR)."
+          "de": "Simbabwe wird morgen den Änderungsantrag zurückziehen.",
+          "ru": "Завтра Зимбабве отзовет поправку."
         },
         {
-          "de": "Der Änderungsantrag spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Запрос на изменение (CR) играет решающую роль в успехе."
+          "de": "Ein Antrag gilt als Änderungsantrag zu einem Vorschlag, wenn er lediglich die Ergänzung, Streichung oder Änderung eines Teiles davon vorsieht.",
+          "ru": "Она приняла участие в рабочем заседании членов Национального конгресса Чили, посвященном вопросу об осуществлении Конвенции и возможности ратификации Чили Факультативного протокола."
         }
       ],
       "synonyms": []
@@ -699,24 +603,24 @@
       "translation_en": "release / approval",
       "examples": [
         {
-          "de": "Hier ist die Freigabe.",
-          "ru": "Вот выпуск / утверждение / деблокирование."
+          "de": "Es wird Wochen dauern, eine Freigabe zu erhalten.",
+          "ru": "Недели уйдут на то, чтобы получить разрешение."
         },
         {
-          "de": "Wir müssen die Freigabe genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: выпуск / утверждение / деблокирование."
+          "de": "Sie wollte, dass ich eine Freigabe unterzeichne, aber ich wollte nicht.",
+          "ru": "Она хотела, чтобы я подписала разрешение, но я отказалась."
         },
         {
-          "de": "Sind Sie mit der Freigabe einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: выпуск / утверждение / деблокирование?"
+          "de": "Warum glauben Sie, habe ich Ihnen die Freigabe erteilt?",
+          "ru": "А иначе как я бы дал вам допуск?"
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Freigabe.",
-          "ru": "Сегодня мы концентрируемся на теме: выпуск / утверждение / деблокирование."
+          "de": "Ich habe hier jemand, der die Freigabe braucht, Zadran abzuholen.",
+          "ru": "У меня здесь кое-кто, кому нужен допуск чтобы забрать Задрана."
         },
         {
-          "de": "Die Freigabe spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Выпуск / утверждение / деблокирование играет решающую роль в успехе."
+          "de": "Ich weiß, das ist schwer zu verstehen, aber du hast nicht die Freigabe.",
+          "ru": "Знаю, тяжело такое слышать, но у тебя нет доступа."
         }
       ],
       "synonyms": []
@@ -729,24 +633,24 @@
       "translation_en": "to release / approve",
       "examples": [
         {
-          "de": "Wir geben frei diese Angelegenheit direkt im Team.",
-          "ru": "Мы деблокировать / выпускать / утверждать этот вопрос непосредственно в команде."
+          "de": "Sie sagte, sie wollte mich freigeben.",
+          "ru": "Сказала, что хочет освободить меня."
         },
         {
-          "de": "Ich gebe frei die notwendigen Unterlagen sofort.",
-          "ru": "Я деблокировать / выпускать / утверждать необходимые документы незамедлительно."
+          "de": "Er meint, mich \"freigeben\" zu müssen, wie er es nennt.",
+          "ru": "Считает, что должен меня \"освободить\", как он выразился."
         },
         {
-          "de": "Der verantwortliche Kollege gibt frei das Ganze sehr professionell.",
-          "ru": "Ответственный коллега деблокировать / выпускать / утверждать всё это очень профессионально."
+          "de": "Du musst den armen Jungen freigeben.",
+          "ru": "Ты должна отпустить этого бедного мальчика."
         },
         {
-          "de": "Wir haben das Thema erfolgreich freigegeben.",
-          "ru": "Мы успешно деблокировать / выпускать / утверждать (в прошедшем времени) эту тему."
+          "de": "Ich muss dich freigeben.",
+          "ru": "Я должен отпустить тебя."
         },
         {
-          "de": "geben Sie frei bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: деблокировать / выпускать / утверждать вовремя!"
+          "de": "Sie müssten die Daten freigeben.",
+          "ru": "Им придется рассекретить файлы."
         }
       ],
       "synonyms": [],
@@ -770,24 +674,24 @@
       "translation_en": "to import",
       "examples": [
         {
-          "de": "Wir importieren diese Angelegenheit direkt im Team.",
-          "ru": "Мы импортировать этот вопрос непосредственно в команде."
+          "de": "In manchen Programmen können Sie Kontaktinformationen in bestimmten Formaten importieren.",
+          "ru": "Некоторые программы позволяют импортировать контактную информацию в специальных форматах."
         },
         {
-          "de": "Ich importiere die notwendigen Unterlagen sofort.",
-          "ru": "Я импортировать необходимые документы незамедлительно."
+          "de": "Zusätzlich können Sie folgende Bilder importieren.",
+          "ru": "Кроме того, можно также импортировать следующие изображения."
         },
         {
-          "de": "Der verantwortliche Kollege importiert das Ganze sehr professionell.",
-          "ru": "Ответственный коллега импортировать всё это очень профессионально."
+          "de": "Ich bin nicht in Eile diesen Kampf nach Frankreich zu importieren.",
+          "ru": "Я не спешу ввозить такую борьбу во Францию."
         },
         {
-          "de": "Wir haben das Thema erfolgreich importiert.",
-          "ru": "Мы успешно импортировать (в прошедшем времени) эту тему."
+          "de": "Text Dokumente; importieren in ein Tabllendokument",
+          "ru": "текстовые документы; импорт в электронные таблицы"
         },
         {
-          "de": "importieren Sie bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: импортировать вовремя!"
+          "de": "Kalender zusammenführen und importieren.",
+          "ru": "Объединение и импорт календарей."
         }
       ],
       "synonyms": [],
@@ -811,24 +715,24 @@
       "translation_en": "to export",
       "examples": [
         {
-          "de": "Wir exportieren diese Angelegenheit direkt im Team.",
-          "ru": "Мы экспортировать этот вопрос непосредственно в команде."
+          "de": "Oder ein unterbewerteter Wechselkurs kann dazu beitragen, die fehlende Binnennachfrage zu exportieren.",
+          "ru": "Или заниженный обменный курс может помочь экспортировать недостаток внутреннего спроса."
         },
         {
-          "de": "Ich exportiere die notwendigen Unterlagen sofort.",
-          "ru": "Я экспортировать необходимые документы незамедлительно."
+          "de": "Jetzt können Sie die Daten in einem von vielen Dateitypen exportieren oder speichern.",
+          "ru": "Теперь можно сохранить или экспортировать данные в файлы многих типов."
         },
         {
-          "de": "Der verantwortliche Kollege exportiert das Ganze sehr professionell.",
-          "ru": "Ответственный коллега экспортировать всё это очень профессионально."
+          "de": "Vorlagen; importieren und exportieren",
+          "ru": "шаблоны; импорт и экспорт"
         },
         {
-          "de": "Wir haben das Thema erfolgreich exportiert.",
-          "ru": "Мы успешно экспортировать (в прошедшем времени) эту тему."
+          "de": "Einzelne Objekte exportieren und importieren",
+          "ru": "Экспорт и импорт отдельных объектов"
         },
         {
-          "de": "exportieren Sie bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: экспортировать вовремя!"
+          "de": "Die Peripherie kann erst wieder wachsen, wenn es ihr gelingt, mehr zu exportieren.",
+          "ru": "Периферия может снова вырасти, только если ей удастся больше экспортировать."
         }
       ],
       "synonyms": [],
@@ -852,24 +756,16 @@
       "translation_en": "workbench",
       "examples": [
         {
-          "de": "Hier ist die Workbench.",
-          "ru": "Вот рабочая среда разработчика (Workbench)."
+          "de": "In der ABAP Workbench erstellen und modifizieren Entwickler eigene Programme und Tabellenstrukturen im System.",
+          "ru": "В инструментальных средствах ABAP разработчики создают и модифицируют собственные программы и структуры таблиц в системе."
         },
         {
-          "de": "Wir müssen die Workbench genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: рабочая среда разработчика (Workbench)."
+          "de": "Um Änderungen an der Workbench vornehmen zu können, benötigen Sie einen Entwicklerschlüssel und einen Transportauftrag.",
+          "ru": "Чтобы иметь возможность вносить изменения в Workbench, вам потребуются ключ разработчика и запрос на перенос."
         },
         {
-          "de": "Sind Sie mit der Workbench einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: рабочая среда разработчика (Workbench)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Workbench.",
-          "ru": "Сегодня мы концентрируемся на теме: рабочая среда разработчика (Workbench)."
-        },
-        {
-          "de": "Die Workbench spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Рабочая среда разработчика (Workbench) играет решающую роль в успехе."
+          "de": "Die Workbench bietet eine integrierte Entwicklungsumgebung direkt innerhalb der SAP-GUI-Oberfläche.",
+          "ru": "Workbench предоставляет интегрированную среду разработки непосредственно в интерфейсе SAP GUI."
         }
       ],
       "synonyms": []
@@ -882,24 +778,12 @@
       "translation_en": "workbench object",
       "examples": [
         {
-          "de": "Hier ist das Workbench-Objekt.",
-          "ru": "Вот объект среды разработки."
+          "de": "Ein ABAP-Programm ist ein typisches Workbench-Objekt, das transportiert werden muss.",
+          "ru": "Программа ABAP — это типичный объект Workbench, который должен быть перенесен."
         },
         {
-          "de": "Wir müssen das Workbench-Objekt genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: объект среды разработки."
-        },
-        {
-          "de": "Sind Sie mit dem Workbench-Objekt einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: объект среды разработки?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Workbench-Objekt.",
-          "ru": "Сегодня мы концентрируемся на теме: объект среды разработки."
-        },
-        {
-          "de": "Das Workbench-Objekt spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Объект среды разработки играет решающую роль в успехе."
+          "de": "Jedes neue Workbench-Objekt muss einem Paket zugeordnet werden.",
+          "ru": "Каждый новый объект Workbench должен быть назначен пакету."
         }
       ],
       "synonyms": []
@@ -912,24 +796,12 @@
       "translation_en": "table maintenance",
       "examples": [
         {
-          "de": "Hier ist die Tabellenpflege.",
-          "ru": "Вот ведение таблицы (настройка)."
+          "de": "Der Entwickler hat eine Tabellenpflege für die neue Customizing-Tabelle generiert.",
+          "ru": "Разработчик сгенерировал ведение таблицы для новой настроечной таблицы."
         },
         {
-          "de": "Wir müssen die Tabellenpflege genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: ведение таблицы (настройка)."
-        },
-        {
-          "de": "Sind Sie mit der Tabellenpflege einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: ведение таблицы (настройка)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Tabellenpflege.",
-          "ru": "Сегодня мы концентрируемся на теме: ведение таблицы (настройка)."
-        },
-        {
-          "de": "Die Tabellenpflege spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Ведение таблицы (настройка) играет решающую роль в успехе."
+          "de": "Über die Tabellenpflege können Anwender Daten direkt erfassen und ändern.",
+          "ru": "Через ведение таблицы пользователи могут напрямую вводить и изменять данные."
         }
       ],
       "synonyms": []
@@ -942,24 +814,24 @@
       "translation_en": "maintenance view",
       "examples": [
         {
-          "de": "Hier ist die Pflegesicht.",
-          "ru": "Вот ракурс ведения (таблицы)."
+          "de": "Unter diesem pflegeleichten Hemd hast du tatsächlich ein Herz.",
+          "ru": "А знаешь, под этой вечно мятой рубашкой у тебя тоже есть сердце."
         },
         {
-          "de": "Wir müssen die Pflegesicht genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: ракурс ведения (таблицы)."
+          "de": "Anspruchsvoll, hältst dich aber für pflegeleicht.",
+          "ru": "Ты с претензиями, но считаешь себя без претензий."
         },
         {
-          "de": "Sind Sie mit der Pflegesicht einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: ракурс ведения (таблицы)?"
+          "de": "Wenn Ich eingebildet und pflegeleicht bin, möchte Ich...",
+          "ru": "Если я кажусь самодовольным и поверхностным."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Pflegesicht.",
-          "ru": "Сегодня мы концентрируемся на теме: ракурс ведения (таблицы)."
+          "de": "Du weißt doch, ich bin pflegeleicht.",
+          "ru": "Ты же знаешь, дорогая, я не обидчива."
         },
         {
-          "de": "Die Pflegesicht spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Ракурс ведения (таблицы) играет решающую роль в успехе."
+          "de": "Ich komme nur auf die Bitte meiner Pflegetochter.",
+          "ru": "Я пришел сюда только по просьбе Ровены."
         }
       ],
       "synonyms": []
@@ -972,24 +844,12 @@
       "translation_en": "SAP standard behavior",
       "examples": [
         {
-          "de": "Hier ist das SAP-Standard-Verhalten.",
-          "ru": "Вот стандартное поведение системы SAP."
+          "de": "Wir sollten das SAP-Standard-Verhalten nicht ohne triftigen Grund ändern.",
+          "ru": "Нам не следует менять стандартное поведение SAP без веской причины."
         },
         {
-          "de": "Wir müssen das SAP-Standard-Verhalten genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: стандартное поведение системы SAP."
-        },
-        {
-          "de": "Sind Sie mit dem SAP-Standard-Verhalten einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: стандартное поведение системы SAP?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das SAP-Standard-Verhalten.",
-          "ru": "Сегодня мы концентрируемся на теме: стандартное поведение системы SAP."
-        },
-        {
-          "de": "Das SAP-Standard-Verhalten spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Стандартное поведение системы SAP играет решающую роль в успехе."
+          "de": "Das SAP-Standard-Verhalten deckt die meisten Geschäftsprozesse bereits ab.",
+          "ru": "Стандартное поведение SAP уже покрывает большинство бизнес-процессов."
         }
       ],
       "synonyms": []
@@ -1002,24 +862,24 @@
       "translation_en": "modification",
       "examples": [
         {
-          "de": "Hier ist die Modifikation.",
-          "ru": "Вот модификация стандарта (изменение кода)."
+          "de": "Ich meine, das ist - das ist definitiv eine genetische Modifikation.",
+          "ru": "Я имею в виду, что это несомненно генетическая модификация."
         },
         {
-          "de": "Wir müssen die Modifikation genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: модификация стандарта (изменение кода)."
+          "de": "Chemische Modifikation von Culcitate... durch Beimischung eines Duft- oder Farbstoffes als Detektormolekül... würde eine grundlegende Änderung des Produktionsablaufs zur Folge haben.",
+          "ru": "Химическая модификация кальцитата добавление молекулы-детектора, как-то: красителя или ароматизатора может потребовать кардинального изменения процесса производства кальцитата."
         },
         {
-          "de": "Sind Sie mit der Modifikation einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: модификация стандарта (изменение кода)?"
+          "de": "Die einzige Modifikation, die funktionieren würde, wäre, euch ausziehen zu lassen.",
+          "ru": "Но единственное изменение, которое действительно помогло бы мне, это быть от вас подальше."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Modifikation.",
-          "ru": "Сегодня мы концентрируемся на теме: модификация стандарта (изменение кода)."
+          "de": "Nur eine kleine Modifikation. Damit haben Sie die Schussweite praktisch verdoppelt.",
+          "ru": "Всего лишь небольшая доработка и дальность стрелы увеличивается вдвое."
         },
         {
-          "de": "Die Modifikation spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Модификация стандарта (изменение кода) играет решающую роль в успехе."
+          "de": "Für diese Modifikation interessierte sich vor allem die British Army, die anfangs etwa 2500 Fahrzeuge orderte.",
+          "ru": "Для этой модификации, особенно британской армии, которая первоначально заказала около 2500 автомобилей."
         }
       ],
       "synonyms": []
@@ -1032,24 +892,24 @@
       "translation_en": "enhancement / extension",
       "examples": [
         {
-          "de": "Hier ist die Erweiterung.",
-          "ru": "Вот расширение (User Exit / BAdI)."
+          "de": "Für die älteren Mitglieder stellt die Erweiterung eine Chance dar, die Staatsfinanzen auf kommende demografische Anforderungen vorzubereiten.",
+          "ru": "Давним членам расширение предоставляет возможность подготовить общественные финансы к грядущим демографическим проблемам."
         },
         {
-          "de": "Wir müssen die Erweiterung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: расширение (User Exit / BAdI)."
+          "de": "Nun, da die Erweiterung stattgefunden hat, ist es leichter, die Migrationsfrage objektiv zu erörtern.",
+          "ru": "Теперь, когда расширение состоялось, легче обсуждать миграцию объективно."
         },
         {
-          "de": "Sind Sie mit der Erweiterung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: расширение (User Exit / BAdI)?"
+          "de": "Das hier ist tatsächlich eine Erweiterung dessen, was auf ihrem Körper steht.",
+          "ru": "Это фактически продолжение того, что было на её теле."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Erweiterung.",
-          "ru": "Сегодня мы концентрируемся на теме: расширение (User Exit / BAdI)."
+          "de": "Was, wenn diese andere Person eine Erweiterung von mir ist?",
+          "ru": "Что если эта другая личность - это продолжение меня?"
         },
         {
-          "de": "Die Erweiterung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Расширение (User Exit / BAdI) играет решающую роль в успехе."
+          "de": "Und noch eine Erweiterung für unseren neuen Stützpunkt.",
+          "ru": "А теперь еще одно дополнение для нашего лагеря..."
         }
       ],
       "synonyms": []
@@ -1062,24 +922,24 @@
       "translation_en": "Business Add-In (BAdI)",
       "examples": [
         {
-          "de": "Hier ist das BAdI.",
-          "ru": "Вот технология расширения BAdI."
+          "de": "Das ist wichtig, Badi.",
+          "ru": "Бади, это важно."
         },
         {
-          "de": "Wir müssen das BAdI genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: технология расширения BAdI."
+          "de": "Das ist wichtig, Badi.",
+          "ru": "Это важно, Бади."
         },
         {
-          "de": "Sind Sie mit dem BAdI einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: технология расширения BAdI?"
+          "de": "Cory, wo ist Badi?",
+          "ru": "Кори, а где Бади?"
         },
         {
-          "de": "Wir konzentrieren uns heute auf das BAdI.",
-          "ru": "Сегодня мы концентрируемся на теме: технология расширения BAdI."
+          "de": "Alle mal herhören, das ist mein neuer Adjutant, Badi Basim.",
+          "ru": "Ребята, это мой новый адъютант, Бади Бассим."
         },
         {
-          "de": "Das BAdI spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Технология расширения BAdI играет решающую роль в успехе."
+          "de": "Am Tag der afghanischen Parlamentswahlen, auf die Glen so geduldig gewartet hatte, stieß Badi Basim zu seinem Team.",
+          "ru": "В день всеобщих выборов в Афганистане, которого Глен так сильно ждал, к его команде присоединился Бади Бассим."
         }
       ],
       "synonyms": []
@@ -1092,24 +952,12 @@
       "translation_en": "user exit",
       "examples": [
         {
-          "de": "Hier ist der User-Exit.",
-          "ru": "Вот пользовательский выход (точка расширения)."
+          "de": "Wir nutzen einen User-Exit, um eine zusätzliche Validierung beim Speichern hinzuzufügen.",
+          "ru": "Мы используем User-Exit, чтобы добавить дополнительную проверку при сохранении."
         },
         {
-          "de": "Wir müssen den User-Exit genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: пользовательский выход (точка расширения)."
-        },
-        {
-          "de": "Sind Sie mit dem User-Exit einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: пользовательский выход (точка расширения)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den User-Exit.",
-          "ru": "Сегодня мы концентрируемся на теме: пользовательский выход (точка расширения)."
-        },
-        {
-          "de": "Der User-Exit spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Пользовательский выход (точка расширения) играет решающую роль в успехе."
+          "de": "Der User-Exit ermöglicht kundenspezifische Erweiterungen im SAP-Standard.",
+          "ru": "User-Exit позволяет выполнять специфические для клиента расширения в стандарте SAP."
         }
       ],
       "synonyms": []
@@ -1122,24 +970,24 @@
       "translation_en": "custom development",
       "examples": [
         {
-          "de": "Hier ist die Eigenentwicklung.",
-          "ru": "Вот собственная разработка / Z-объекты."
+          "de": "Auch die komplette Eigenentwicklung von Modellraketen ist möglich.",
+          "ru": "Альтернативой было разрабатывать зенитные ракеты самостоятельно."
         },
         {
-          "de": "Wir müssen die Eigenentwicklung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: собственная разработка / Z-объекты."
+          "de": "Das ursprüngliche Betriebssystem, eine Eigenentwicklung, nannte sich Apollo Aegis, Aegis wurde später in Apollo Domain/OS umbenannt.",
+          "ru": "Операционной системой была собственная разработка Apollo под названием Aegis, позже переименованная в Domain/OS."
         },
         {
-          "de": "Sind Sie mit der Eigenentwicklung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: собственная разработка / Z-объекты?"
+          "de": "Alle KoCoS-Produkte sind Eigenentwicklungen auf hohem Niveau.",
+          "ru": "Все KoCoS - продукты - это результат собственных разработок на высоком уровне."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Eigenentwicklung.",
-          "ru": "Сегодня мы концентрируемся на теме: собственная разработка / Z-объекты."
+          "de": "Yars' Revenge gilt als eine der populärsten Eigenentwicklungen, die für das Atari 2600 veröffentlicht wurden.",
+          "ru": "Так, например, в этом году выходит Yars' Revenge, которая стала самой популярной оригинальной игрой Atari для Atari 2600."
         },
         {
-          "de": "Die Eigenentwicklung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Собственная разработка / Z-объекты играет решающую роль в успехе."
+          "de": "Nach Angaben Katsmans in einem Interview 2011 strebt das Unternehmen keine Eigenentwicklungen an, da Katsman keine Leidenschaft für das Game Design hegt und seinen Schwerpunkt in der technischen Dienstleistung sieht.",
+          "ru": "По словам Катсмана в интервью в 2011 году, компания не стремится к саморазвитию, потому что у Катсмана нет страсти к дизайну игр и он сосредоточен на техническом обслуживании."
         }
       ],
       "synonyms": []
@@ -1152,24 +1000,16 @@
       "translation_en": "Z-program",
       "examples": [
         {
-          "de": "Hier ist das Z-Programm.",
-          "ru": "Вот программа Z-класса (кастомная)."
+          "de": "Dies umfasst z. B. Programme, die einem ein simples Kopieren von Dateien, die Kompilierung eines Programms oder die Bearbeitung von Dokumenten verschiedenster, erlauben.",
+          "ru": "Эти программы позволяют делать все, что нужно - от обычных заданий, таких как копирование или удаление файлов из системы, до компилирования программ и сложного редактирования разных видов документов."
         },
         {
-          "de": "Wir müssen das Z-Programm genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: программа Z-класса (кастомная)."
+          "de": "Embedded C++ wurde von einem Industriekonsortium verschiedener japanischer Chip-Hersteller, darunter NEC, Hitachi, Fujitsu, und Toshiba für eingebettete Systeme mit geringen Ressourcen wie z. B. Programm- und Arbeitsspeicher entwickelt.",
+          "ru": "Он был определен отраслевой группой, во главе с основными японскими производителями центральных процессоров (ЦП), включая NEC, Hitachi, Fujitsu и Toshiba, для устранения недостатков C++ для встроенных приложений."
         },
         {
-          "de": "Sind Sie mit dem Z-Programm einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: программа Z-класса (кастомная)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Z-Programm.",
-          "ru": "Сегодня мы концентрируемся на теме: программа Z-класса (кастомная)."
-        },
-        {
-          "de": "Das Z-Programm spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Программа Z-класса (кастомная) играет решающую роль в успехе."
+          "de": "Hier können Sie eine kurze Beschreibung für Dateien des gewählten Typs eingeben (z. B.„ HTML-Seite\"). Einige Programme wie z. B. Konqueror benutzen sie, um den Inhalt von Ordnern anzuzeigen.",
+          "ru": "Вы можете ввести краткое описание для файлов данного типа (например, 'HTML Page'). Это описание может быть использовано программами, такими как Konqueror, для отображения содержимого каталога."
         }
       ],
       "synonyms": []
@@ -1182,24 +1022,24 @@
       "translation_en": "Z-table",
       "examples": [
         {
-          "de": "Hier ist die Z-Tabelle.",
-          "ru": "Вот кастомная таблица (Z-таблица)."
+          "de": "Diese Tabelle zeigt alle bekannten Isotope der chemischen Elemente.",
+          "ru": "Эта таблица показывает все известные изотопы химических элементов."
         },
         {
-          "de": "Wir müssen die Z-Tabelle genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: кастомная таблица (Z-таблица)."
+          "de": "Die Abfrage oder Tabelle wird in das Dokument eingefügt.",
+          "ru": "Запрос или таблица будет вставлена в документ."
         },
         {
-          "de": "Sind Sie mit der Z-Tabelle einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: кастомная таблица (Z-таблица)?"
+          "de": "Sie können die letzte sichtbare Tabelle nicht ausblenden.",
+          "ru": "Вы не можете скрыть последний видимый лист."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Z-Tabelle.",
-          "ru": "Сегодня мы концентрируемся на теме: кастомная таблица (Z-таблица)."
+          "de": "Wechseln Sie in die Tabelle, deren Schutz Sie aufheben wollen.",
+          "ru": "Щелкните лист, с которого нужно снять защиту."
         },
         {
-          "de": "Die Z-Tabelle spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Кастомная таблица (Z-таблица) играет решающую роль в успехе."
+          "de": "Zeigt alle Felder an, die in die neue Tabelle aufgenommen werden.",
+          "ru": "Отображает все поля, которые будут включены в новую таблицу."
         }
       ],
       "synonyms": []
@@ -1212,24 +1052,12 @@
       "translation_en": "ABAP programming language",
       "examples": [
         {
-          "de": "Hier ist das ABAP.",
-          "ru": "Вот язык программирования ABAP."
+          "de": "Die Geschäftslogik im ERP-System ist vollständig in ABAP geschrieben.",
+          "ru": "Бизнес-логика в ERP-системе полностью написана на ABAP."
         },
         {
-          "de": "Wir müssen das ABAP genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: язык программирования ABAP."
-        },
-        {
-          "de": "Sind Sie mit dem ABAP einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: язык программирования ABAP?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das ABAP.",
-          "ru": "Сегодня мы концентрируемся на теме: язык программирования ABAP."
-        },
-        {
-          "de": "Das ABAP spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Язык программирования ABAP играет решающую роль в успехе."
+          "de": "Erfahrene Entwickler können komplexe Berichte in ABAP erstellen.",
+          "ru": "Опытные разработчики могут создавать сложные отчеты на ABAP."
         }
       ],
       "synonyms": []
@@ -1242,24 +1070,12 @@
       "translation_en": "ABAP developer",
       "examples": [
         {
-          "de": "Hier ist der ABAP-Entwickler.",
-          "ru": "Вот разработчик ABAP."
+          "de": "Wir suchen einen erfahrenen ABAP-Entwickler zur Unterstützung unseres Teams.",
+          "ru": "Мы ищем опытного разработчика ABAP для поддержки нашей команды."
         },
         {
-          "de": "Wir müssen den ABAP-Entwickler genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: разработчик ABAP."
-        },
-        {
-          "de": "Sind Sie mit dem ABAP-Entwickler einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: разработчик ABAP?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den ABAP-Entwickler.",
-          "ru": "Сегодня мы концентрируемся на теме: разработчик ABAP."
-        },
-        {
-          "de": "Der ABAP-Entwickler spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Разработчик ABAP играет решающую роль в успехе."
+          "de": "Der ABAP-Entwickler implementiert die Anforderungen aus dem Fachkonzept.",
+          "ru": "Разработчик ABAP реализует требования из функционального проекта."
         }
       ],
       "synonyms": []
@@ -1272,24 +1088,24 @@
       "translation_en": "functional specification",
       "examples": [
         {
-          "de": "Hier ist die Funktionsbeschreibung.",
-          "ru": "Вот функциональная спецификация."
+          "de": "besteht in einer kurzen Funktionsbeschreibung, die zu dem jeweils unter dem Mauszeiger befindlichen Symbol, Textfeld oder Menübefehl eingeblendet wird.",
+          "ru": "выводит на экран краткое описание действия конкретного значка, текстового поля или команды меню при наведении на них курсора."
         },
         {
-          "de": "Wir müssen die Funktionsbeschreibung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: функциональная спецификация."
+          "de": "Aktive Radaufhängung Produktbeschreibung des Herstellers Pressemitteilung Funktionsbeschreibung",
+          "ru": "Метод коррекции ошибки Ошибки печати на почтовых марках"
         },
         {
-          "de": "Sind Sie mit der Funktionsbeschreibung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: функциональная спецификация?"
+          "de": "besteht in einer kurzen Funktionsbeschreibung, die zu dem jeweils unter dem Mauszeiger befindlichen Symbol, Textfeld oder Menübefehl eingeblendet wird.",
+          "ru": "выводит на экран краткое описание действия конкретного значка, текстового поля или команды меню при наведении на них курсора."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Funktionsbeschreibung.",
-          "ru": "Сегодня мы концентрируемся на теме: функциональная спецификация."
+          "de": "In einigen der Funktionsbeschreibungen werden die folgenden Daten als Beispiel herangezogen:",
+          "ru": "Следующие данные используются в некоторых примерах описания функций:"
         },
         {
-          "de": "Die Funktionsbeschreibung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Функциональная спецификация играет решающую роль в успехе."
+          "de": "Die Daten in der folgenden Tabelle dienen als Grundlage für einige der Beispiele in den Funktionsbeschreibungen:",
+          "ru": "В приведенной ниже таблице содержатся сведения о некоторых функциях и примеры."
         }
       ],
       "synonyms": []
@@ -1302,24 +1118,24 @@
       "translation_en": "blueprint / concept",
       "examples": [
         {
-          "de": "Hier ist das Konzept.",
-          "ru": "Вот концепция / проектное решение."
+          "de": "Und es gibt ein Konzept, das Sie vertraut sein sollten.",
+          "ru": "Есть концепция, которую вы должны знать."
         },
         {
-          "de": "Wir müssen das Konzept genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: концепция / проектное решение."
+          "de": "Nun, wenn sich ein Konzept weiterentwickelt, können höhere Kosten entstehen.",
+          "ru": "Ну, когда концепция развивается, расходы могут возрасти."
         },
         {
-          "de": "Sind Sie mit dem Konzept einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: концепция / проектное решение?"
+          "de": "Dieses Konzept wollte dir nie in den dicken... Schädel.",
+          "ru": "Эта идея никогда не проникала в твою тупую... голову."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Konzept.",
-          "ru": "Сегодня мы концентрируемся на теме: концепция / проектное решение."
+          "de": "Sehen Sie, auf der Konzeptebene war das ein großartiges Konzept.",
+          "ru": "Видите, на уровне концепции, это была отличная идея."
         },
         {
-          "de": "Das Konzept spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Концепция / проектное решение играет решающую роль в успехе."
+          "de": "Ich habe nie in dieses Konzept gepasst.",
+          "ru": "Я никогда не вписывался в это понятие."
         }
       ],
       "synonyms": []
@@ -1332,24 +1148,24 @@
       "translation_en": "business blueprint (BBP)",
       "examples": [
         {
-          "de": "Hier ist das Fachkonzept.",
-          "ru": "Вот бизнес-концепция / ТЗ."
+          "de": "Immer mehr Menschen werden im Wiener Ballungsraum leben und sich fortbewegen. Das stellt die Wiener Stadtverwaltung vor eine große organisatorische Herausforderung, denn bereits im Jahre 2025 sollen laut dem Fachkonzept für Mobilität rund drei Viertel aller zurückgelegten Wege zu Fuß, auf dem Fahrrad oder mit den öffentlichen Verkehrsmitteln zurückgelegt werden.",
+          "ru": "Все больше и больше людей будут жить и передвигаться в агломерации Вены. Это ставит перед городской администрацией Вены серьезную организационную задачу, поскольку согласно технической концепции мобильности к 2025 году около трех четвертей всех поездок должно совершаться пешком, на велосипеде или на общественном транспорте."
         },
         {
-          "de": "Wir müssen das Fachkonzept genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: бизнес-концепция / ТЗ."
+          "de": "Die Stadt Zürich und viele Gemeinden setzen […] bereits seit einigen Jahren auf vorschulische Fördermassnahmen, um Kindern aus bildungsfernen oder fremdsprachigen Familien bessere Ausgangsbedingungen zu gewähren. Vor zwei Jahren hat die Bildungsdirektion […] das Fachkonzept »Frühe Sprachbildung« herausgegeben. Darin sind Leitlinien definiert, die Erwachsenen zeigen sollen, wie sie Kinder in ihrer sprachlichen Entwicklung begleiten können in Familien, Tagesfamilien, Kitas und Spielgruppen.",
+          "ru": "Город Цюрих и многие муниципалитеты уже несколько лет полагаются на меры поддержки дошкольных учреждений, чтобы предоставить детям из семей с низким уровнем образования или иноязычных семей лучшие стартовые условия. Два года назад Управление образования […] опубликовало специальную концепцию «Раннее языковое образование». Он определяет руководящие принципы, призванные показать взрослым, как они могут поддерживать детей в языковом развитии в семьях, семьях с детскими садами, детских садах и игровых группах."
         },
         {
-          "de": "Sind Sie mit dem Fachkonzept einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: бизнес-концепция / ТЗ?"
+          "de": "Inhalt [der Fachtagung] ist das von der Bundesagentur für Arbeit erstellte neue Fachkonzept, welches beschreibt, wie berufsvorbereitende Bildungsmaßnahmen künftig aussehen sollen.",
+          "ru": "Содержание [конференции] — новая техническая концепция, созданная Федеральным агентством занятости, которая описывает, как должны выглядеть меры допрофессиональной подготовки в будущем."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Fachkonzept.",
-          "ru": "Сегодня мы концентрируемся на теме: бизнес-концепция / ТЗ."
+          "de": "Der Oberbürgermeister hat […] eine städtische Projektgruppe mit der Erstellung eine Fachkonzepts beauftragt. »Neben der Steigerung der Erreichbarkeit bzw. der sofortigen Verfügbarkeit der Stadtverwaltung«, so L[…], »kann durch ein Bürgerservice‑Call‑Center das serviceunfreundliche Weitervermitteln vermieden werden. Denn dort können Informationen über alle häufig nachgefragten Produkte und Dienstleistungen der Verwaltung gebündelt und übermittelt werden«.",
+          "ru": "Мэр […] поручил муниципальной проектной группе разработать техническую концепцию. \"Помимо повышения доступности и немедленной доступности городской администрации\", - говорит L[...], - \"колл-центр обслуживания граждан может избежать неприятных для обслуживания переводов. Информация обо всех часто запрашиваемых администрацией продуктах и ​​услугах может быть сгруппирована и передана туда\"."
         },
         {
-          "de": "Das Fachkonzept spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Бизнес-концепция / ТЗ играет решающую роль в успехе."
+          "de": "Die in einer Projektphase erstellte Dokumentation ist essenziell in einer späteren Phase. Wenn wir uns beispielsweise die Spezifikation (auch Fachkonzept oder Pflichtenheft genannt) ansehen, so geht sie in das Design, die Entwicklung und schließlich in den Test und die Abnahme der Software ein.",
+          "ru": "Документация, созданная на одном этапе проекта, необходима на более позднем этапе. Например, если мы посмотрим на спецификацию (также называемую технической концепцией или функциональной спецификацией), она включает в себя проектирование, разработку и, наконец, тестирование и приемку программного обеспечения."
         }
       ],
       "synonyms": []
@@ -1362,24 +1178,24 @@
       "translation_en": "project step / phase",
       "examples": [
         {
-          "de": "Hier ist der Projektschritt.",
-          "ru": "Вот этап проекта."
+          "de": "Jeder Teilnehmer erarbeitet einzelne Projektschritte und erhält einen Überblick über verschiedene Bereiche.",
+          "ru": "Каждый участник работает над отдельными этапами проекта и получает обзор различных областей."
         },
         {
-          "de": "Wir müssen den Projektschritt genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: этап проекта."
+          "de": "Mit Flyern, Briefen und viel Öffentlichkeitsarbeit hätten sie stets über die einzelnen Projektschritte informiert.",
+          "ru": "С помощью листовок, писем и большого количества работы по связям с общественностью они всегда предоставляли информацию об отдельных этапах проекта."
         },
         {
-          "de": "Sind Sie mit dem Projektschritt einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: этап проекта?"
+          "de": "Wieder mal musste der Termin für den nächsten Projektschritt verschoben werden.",
+          "ru": "В очередной раз дату следующего этапа проекта пришлось перенести."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Projektschritt.",
-          "ru": "Сегодня мы концентрируемся на теме: этап проекта."
+          "de": "Da einige Abgeordnete in der Februar-Sitzung des Stadtparlamentes mangelnde Transparenz bei dem Vorhaben beklagten, sollen die Ausschüsse über weitere Projektschritte noch ausführlicher informiert werden.",
+          "ru": "Поскольку на февральском заседании городского парламента некоторые представители жаловались на недостаточную прозрачность проекта, комитеты должны быть проинформированы более подробно о дальнейших шагах проекта."
         },
         {
-          "de": "Der Projektschritt spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Этап проекта играет решающую роль в успехе."
+          "de": "Die Initiative Idee-IT Westsachsen engagiert sich daher für diese Klientel und hat mit einer Homepage für Mädchen (www. idee-it. de) einen ersten Projektschritt gestartet.",
+          "ru": "Поэтому инициатива Idea-IT Западная Саксония ориентирована на эту клиентуру и начала первый этап проекта с домашней страницы для девочек (www.idee-it.de)."
         }
       ],
       "synonyms": []
@@ -1392,24 +1208,20 @@
       "translation_en": "project phase",
       "examples": [
         {
-          "de": "Hier ist die Projektphase.",
-          "ru": "Вот фаза проекта."
+          "de": "Die Firma Wiedemann Polska, kann auf ein Team aus qualifizierten Fachleuten zurückgreifen, die in den Bereichen der Technologie und Automatik zu Hause sind. Sie sind in der Lage, in jeder beliebigen Projektphase, eine Dokumentation zusammenzustellen und auch Nutzprogramme der Prozessautomation.",
+          "ru": "Кроме того, коллектив опытных и квалифицированных в области технологии и автоматики специалистов проектировочного отдела фирмы «Видеманн Польска» способен разработать любую документацию на каждом этапе проектирования, включая программное обеспечение для систем промышленной автоматики."
         },
         {
-          "de": "Wir müssen die Projektphase genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: фаза проекта."
+          "de": "Dies könnte eine weitere Projektphase sein.",
+          "ru": "Это может быть очередным этапом их проекта... их экспериментов по евгенике."
         },
         {
-          "de": "Sind Sie mit der Projektphase einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: фаза проекта?"
+          "de": "Die zweite Projektphase ist mehr oder weniger abgeschlossen.",
+          "ru": "Второй этап реконструкции практически завершен."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Projektphase.",
-          "ru": "Сегодня мы концентрируемся на теме: фаза проекта."
-        },
-        {
-          "de": "Die Projektphase spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Фаза проекта играет решающую роль в успехе."
+          "de": "Die zweite Projektphase ist mehr oder weniger abgeschlossen.",
+          "ru": "Подобно жизни и черепахе."
         }
       ],
       "synonyms": []
@@ -1422,24 +1234,24 @@
       "translation_en": "milestone",
       "examples": [
         {
-          "de": "Hier ist der Meilenstein.",
-          "ru": "Вот веха / контрольная точка."
+          "de": "Das ist ein wichtiger Meilenstein in eurer romantischen Beziehung.",
+          "ru": "Это важная веха в твоей романтичной и страстной игре."
         },
         {
-          "de": "Wir müssen den Meilenstein genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: веха / контрольная точка."
+          "de": "Ein weiterer Meilenstein auf einer verwirrenden Reise wohin?",
+          "ru": "Ещё одна веха в ошеломляющем путешествии, ведущем куда?"
         },
         {
-          "de": "Sind Sie mit dem Meilenstein einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: веха / контрольная точка?"
+          "de": "Wir haben einen neuen Meilenstein erreicht die Stiefel nach den Maßnahmen, die jeder Client Zentimeter machen.",
+          "ru": "Мы вышли на новый этап, чтобы загружается в соответствии с мерами, которые каждый сантиметр клиента."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Meilenstein.",
-          "ru": "Сегодня мы концентрируемся на теме: веха / контрольная точка."
+          "de": "Das jüngste Gesetz ist ein Meilenstein in diesem Prozess, jedoch keineswegs ein Endpunkt.",
+          "ru": "Недавний закон - это важный этап в данном процессе, но ни в коем случае не является конечной точкой."
         },
         {
-          "de": "Der Meilenstein spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Веха / контрольная точка играет решающую роль в успехе."
+          "de": "Es ist kein Meilenstein, es ist ein Grabstein.",
+          "ru": "Это не рубеж - это могильная плита."
         }
       ],
       "synonyms": []
@@ -1452,24 +1264,24 @@
       "translation_en": "steering committee",
       "examples": [
         {
-          "de": "Hier ist der Lenkungsausschuss.",
-          "ru": "Вот руководящий комитет."
+          "de": "Sie erleichtert außerdem die Koordinierung zwischen den weit verstreuten Mitgliedern der Familie der Vereinten Nationen. Einen weiteren nützlichen Prozess stellt der Lenkungsausschuss für Reform und Management unter dem Vorsitz der Stellvertretenden Generalsekretärin dar, der Politiken und Praktiken im Verwaltungs-, Haushalts- und Personalbereich einer regelmäßigen Überprüfung unterzieht.",
+          "ru": "Может иметься также оборудование для тепловой денитрации нитрата урана, конверсии нитрата плутония в окись или металл, а также для обработки жидких отходов, содержащих продукты деления, до получения формы, пригодной для продолжительного хранения или захоронения."
         },
         {
-          "de": "Wir müssen den Lenkungsausschuss genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: руководящий комитет."
+          "de": "Wir agieren als,... ein Lenkungsausschuss für alle.",
+          "ru": "Мы вроде совета директоров."
         },
         {
-          "de": "Sind Sie mit dem Lenkungsausschuss einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: руководящий комитет?"
+          "de": "Ein aus Vertretern der nationalen, regionalen und kommunalen Behörden und weiterer Organisationen zusammengesetzter Lenkungsausschuss wählt dann die geeignetesten Projektvorschläge aus.",
+          "ru": "Наиболее подходящие предложения отбираются Руководящим Комитетом, состоящим из представителей государственных, региональных и местных органов власти и других организаций."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Lenkungsausschuss.",
-          "ru": "Сегодня мы концентрируемся на теме: руководящий комитет."
+          "de": "Die Antragsfristen für INTERREG-Projekte sowie die Termine für die Sitzungen des Lenkungsausschusses sollten möglichst frühzeitig festgelegt werden, um eine zeitliche Abstimmung mit Tacis-Maßnahmen zu ermöglichen.",
+          "ru": "Комиссия составит электронный список данных по Интеррег-Тасис, который будет регулярно рассылаться заинтересованным сторонам с тем, чтобы сообщать им самую свежую информацию о датах заседаний, принятых к исполнению проектах и других важных событиях."
         },
         {
-          "de": "Der Lenkungsausschuss spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Руководящий комитет играет решающую роль в успехе."
+          "de": "Die INTERREG-Lenkungsausschüsse könnten vor Ablauf der Antragsfristen für Tacis-Kleinprojekte tagen und dabei Projekte vorläufig genehmigen, die auf eine Tacis-Aufforderung hin vorgeschlagen werden.",
+          "ru": "Соответствующие директораты внесут свой вклад в межведомственные консультации и заседания оценочных комитетов."
         }
       ],
       "synonyms": []
@@ -1482,24 +1294,24 @@
       "translation_en": "requirement",
       "examples": [
         {
-          "de": "Hier ist die Anforderung.",
-          "ru": "Вот требование / бизнес-требование."
+          "de": "Ich muss eine Anforderung ausfüllen, für die große Auszahlung.",
+          "ru": "Нужно было заполнить запрос на большую выплату."
         },
         {
-          "de": "Wir müssen die Anforderung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: требование / бизнес-требование."
+          "de": "Vorladungen, Anforderung eidesstattlicher Aussagen, Vernehmungen.",
+          "ru": "Повестки в суд, запрос о дачи показаний, допросов."
         },
         {
-          "de": "Sind Sie mit der Anforderung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: требование / бизнес-требование?"
+          "de": "Was passiert, wenn eine neue Anforderung auftritt?",
+          "ru": "Что происходит, когда возникает новое требование?"
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Anforderung.",
-          "ru": "Сегодня мы концентрируемся на теме: требование / бизнес-требование."
+          "de": "Sie müssen Ihr Passwort umgehend ändern. (Anforderung des Systemverwalters.)",
+          "ru": "Вы должны сменить пароль немедленно (требование администратора)."
         },
         {
-          "de": "Die Anforderung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Требование / бизнес-требование играет решающую роль в успехе."
+          "de": "Eingang des Dokuments und Anforderung einer Übersetzung per E-Mail oder über einen dedizierten FTP-Server.",
+          "ru": "Принятие документа и запроса на перевод по электронной почте или через соответствующий сервер-ftp."
         }
       ],
       "synonyms": []
@@ -1512,24 +1324,12 @@
       "translation_en": "requirements gathering",
       "examples": [
         {
-          "de": "Hier ist die Anforderungserhebung.",
-          "ru": "Вот сбор требований."
+          "de": "Die Anforderungserhebung findet in Workshops mit den Key-Usern statt.",
+          "ru": "Сбор требований проходит на воркшопах с ключевыми пользователями."
         },
         {
-          "de": "Wir müssen die Anforderungserhebung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: сбор требований."
-        },
-        {
-          "de": "Sind Sie mit der Anforderungserhebung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: сбор требований?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Anforderungserhebung.",
-          "ru": "Сегодня мы концентрируемся на теме: сбор требований."
-        },
-        {
-          "de": "Die Anforderungserhebung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Сбор требований играет решающую роль в успехе."
+          "de": "Eine präzise Anforderungserhebung verhindert spätere Verzögerungen im Projekt.",
+          "ru": "Точный сбор требований предотвращает последующие задержки в проекте."
         }
       ],
       "synonyms": []
@@ -1542,24 +1342,24 @@
       "translation_en": "workshop",
       "examples": [
         {
-          "de": "Hier ist der Workshop.",
-          "ru": "Вот семинар / воркшоп."
+          "de": "Erarbeitung eines Konzepts (Aufgabenbeschreibung), das dem Bedarf der Empfängerhochschule Rechnung trägt, durch die Projektteilnehmer (Workshop)",
+          "ru": "разработка участниками проекта концепции (бизнес-плана), отвечающей потребностям университета-бенефициария (семинар); а утверждение концепции управления университетом; ассигнование средств; подготовка персонала; рекламирование услуг отдела МС."
         },
         {
-          "de": "Wir müssen den Workshop genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: семинар / воркшоп."
+          "de": "Dieser Workshop ist eine praktische Einführung in das Verständnis, wie das UCL uns beeinflusst, und zwar unser Bewusstsein und auch unsere Fähigkeit, uns ein optimal erleuchtetes Leben zu ko-kreieren.",
+          "ru": "Данный семинар является эмпирическим введением в понимание того, как UCL воздействует на наше сознание и на нашу способность созидать нашу самую просветленную жизнь!"
         },
         {
-          "de": "Sind Sie mit dem Workshop einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: семинар / воркшоп?"
+          "de": "Der Workshop, der einzige seiner Art in Nordamerika, umfasst einen Gesamtbereich von 4.180 qm und beschäftigt Spezialisten in Bereichen wie Schumacherei, Textildesign, Spitzenklöpplerei, Perückenmacherei, Musterherstellung, Kostümherstellung und Hutmacherei.",
+          "ru": "Мастерская, единственная в своем роде в Северной Америке, занимает площадь 4180 кв. м., в ней работают специалисты в таких областях, как сапожное дело, текстильный дизайн, плетение кружев, изготовление париков, изготовление моделей, костюмерное дело и производство шляп."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Workshop.",
-          "ru": "Сегодня мы концентрируемся на теме: семинар / воркшоп."
+          "de": "Sie ist woanders, mit Freunden aus ihrem Workshop.",
+          "ru": "Пошла в другой филиал с людьми из мастерской."
         },
         {
-          "de": "Der Workshop spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Семинар / воркшоп играет решающую роль в успехе."
+          "de": "Du solltest nicht in einem Workshop schaffen.",
+          "ru": "Ты не должен был творить на семинаре."
         }
       ],
       "synonyms": []
@@ -1572,24 +1372,24 @@
       "translation_en": "minutes / protocol",
       "examples": [
         {
-          "de": "Hier ist das Protokoll.",
-          "ru": "Вот протокол встречи."
+          "de": "Ich erstelle ein Protokoll und suche ein Krankenhaus, das zustimmt.",
+          "ru": "Я напишу протокол, поищем больницу, которая на это пойдет."
         },
         {
-          "de": "Wir müssen das Protokoll genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: протокол встречи."
+          "de": "In den meisten Fällen sollte das standardmäßig ausgewählte Protokoll korrekt funktionieren.",
+          "ru": "В большинстве случаев используемый по умолчанию протокол работает правильно."
         },
         {
-          "de": "Sind Sie mit dem Protokoll einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: протокол встречи?"
+          "de": "Nur für das Protokoll, das ist eine fantastische Idee.",
+          "ru": "Просто для записи, это отличная идея."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Protokoll.",
-          "ru": "Сегодня мы концентрируемся на теме: протокол встречи."
+          "de": "Komisch, es gibt dafür kein Protokoll.",
+          "ru": "Забавно, но об этом нет никаких записей."
         },
         {
-          "de": "Das Protokoll spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Протокол встречи играет решающую роль в успехе."
+          "de": "Darum haben wir das Protokoll Ihrer Einrichtung für Proben geprüft.",
+          "ru": "И поэтому мы проверили рабочий журнал вашей лаборатории."
         }
       ],
       "synonyms": []
@@ -1602,24 +1402,24 @@
       "translation_en": "task",
       "examples": [
         {
-          "de": "Hier ist die Aufgabe.",
-          "ru": "Вот задача."
+          "de": "Für dich habe ich eine besonders schwierige Aufgabe.",
+          "ru": "Для тебя у меня есть особо сложная задача."
         },
         {
-          "de": "Wir müssen die Aufgabe genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: задача."
+          "de": "Sie sagten selbst, unsere Aufgabe sei nie komplett beendet.",
+          "ru": "Вы же сами сказали, что наша задача никогда не будет выполнена полностью."
         },
         {
-          "de": "Sind Sie mit der Aufgabe einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: задача?"
+          "de": "Es ist meine Aufgabe, ihn so lange ich kann zu beschützen.",
+          "ru": "Это моя работа защищать его так долго как я могу."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Aufgabe.",
-          "ru": "Сегодня мы концентрируемся на теме: задача."
+          "de": "Okay, vielleicht war diese Aufgabe für euch zwei allein zu schwer.",
+          "ru": "Так, знаете, может эта работа была слишком сложной для вас одних."
         },
         {
-          "de": "Die Aufgabe spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Задача играет решающую роль в успехе."
+          "de": "Sie wollen wissen, wer diese sehr gefährliche Aufgabe übernehmen soll.",
+          "ru": "Они хотят знать, кто возьмется за это очень опасное задание."
         }
       ],
       "synonyms": []
@@ -1632,24 +1432,24 @@
       "translation_en": "responsibility",
       "examples": [
         {
-          "de": "Hier ist die Zuständigkeit.",
-          "ru": "Вот область ответственности."
+          "de": "Ich brauche keine Zuständigkeit, um einen alten Freund zu besuchen.",
+          "ru": "Ну мне же не нужна юрисдикция, чтобы повидаться со старым другом."
         },
         {
-          "de": "Wir müssen die Zuständigkeit genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: область ответственности."
+          "de": "Aber du und ich nicht, und das ist meine Zuständigkeit.",
+          "ru": "Но у нас нет, и это моя юрисдикция."
         },
         {
-          "de": "Sind Sie mit der Zuständigkeit einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: область ответственности?"
+          "de": "Nicht zu vergessen, dass Ihre Festnahmen illegal waren, - da Sie außerhalb ihrer Zuständigkeit waren.",
+          "ru": "Я уже не говорю о том, что этот арест изначально незаконен, потому что вы превысили свои полномочия."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Zuständigkeit.",
-          "ru": "Сегодня мы концентрируемся на теме: область ответственности."
+          "de": "Diese globale Krise verlangt nach einer globalen Reaktion. Leider jedoch liegt die Zuständigkeit für derartige Reaktionen weiter auf der nationalen Ebene.",
+          "ru": "Этот глобальный кризис требует глобального ответа, но, к сожалению, ответственность за ответные меры остается на национальном уровне."
         },
         {
-          "de": "Die Zuständigkeit spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Область ответственности играет решающую роль в успехе."
+          "de": "Auch wenn wir es wollten, es ist nicht unsere Zuständigkeit.",
+          "ru": "Даже если бы охотились, это не в нашей юрисдикции."
         }
       ],
       "synonyms": []
@@ -1662,24 +1462,24 @@
       "translation_en": "responsible",
       "examples": [
         {
-          "de": "Dieses Verfahren ist wirklich zuständig.",
-          "ru": "Этот процесс действительно ответственный (за задачу)."
+          "de": "Und Sie waren zuständig für die Beweismittel während der Beratungen?",
+          "ru": "И вы были ответственны за все улики в течение совещания присяжных?"
         },
         {
-          "de": "Es ist sehr wichtig, dass alles zuständig bleibt.",
-          "ru": "Очень важно, чтобы всё оставалось ответственный (за задачу)."
+          "de": "Forbes wurde einer von zwei Stellvertretern und war besonders für die Südinsel zuständig.",
+          "ru": "Форбс стал одним из двух его заместителей и стал отвечать за Южный остров."
         },
         {
-          "de": "Wir arbeiten heute besonders zuständig.",
-          "ru": "Сегодня мы работаем особенно ответственный (за задачу)."
+          "de": "Ich sehe hier sonst niemanden, der für diese Einheit zuständig ist.",
+          "ru": "Я не знаю больше никого, кто руководит этим расследованием."
         },
         {
-          "de": "Das erzielte Ergebnis ist sehr zuständig.",
-          "ru": "Полученный результат очень ответственный (за задачу)."
+          "de": "Da er nicht hier ist, bin wohl ich zuständig.",
+          "ru": "Поскольку его нет здесь, этим должен заняться я."
         },
         {
-          "de": "Ich finde diese Arbeitsweise persönlich zuständig.",
-          "ru": "Я лично нахожу этот стиль работы ответственный (за задачу)."
+          "de": "Wer auch ihr Partner ist, er ist wohl für das Ende zuständig.",
+          "ru": "Кто бы ни был её напарник, они, явно спешат к развязке."
         }
       ],
       "synonyms": []
@@ -1692,24 +1492,12 @@
       "translation_en": "key user",
       "examples": [
         {
-          "de": "Hier ist der Key-User.",
-          "ru": "Вот ключевой пользователь."
+          "de": "Der Key-User testet die neuen Funktionen und schult die Endanwender.",
+          "ru": "Ключевой пользователь тестирует новые функции и обучает конечных пользователей."
         },
         {
-          "de": "Wir müssen den Key-User genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: ключевой пользователь."
-        },
-        {
-          "de": "Sind Sie mit dem Key-User einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: ключевой пользователь?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Key-User.",
-          "ru": "Сегодня мы концентрируемся на теме: ключевой пользователь."
-        },
-        {
-          "de": "Der Key-User spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Ключевой пользователь играет решающую роль в успехе."
+          "de": "Die Key-User aus der Buchhaltung gaben grünes Licht für den Produktivstart.",
+          "ru": "Ключевые пользователи из бухгалтерии дали зеленый свет на запуск в промышленную эксплуатацию."
         }
       ],
       "synonyms": []
@@ -1722,24 +1510,12 @@
       "translation_en": "test script / scenario",
       "examples": [
         {
-          "de": "Hier ist das Testdrehbuch.",
-          "ru": "Вот сценарий тестирования."
+          "de": "Für den Integrationstest hat der Berater ein detailliertes Testdrehbuch erstellt.",
+          "ru": "Для интеграционного теста консультант создал детальный сценарий тестирования (Testdrehbuch)."
         },
         {
-          "de": "Wir müssen das Testdrehbuch genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: сценарий тестирования."
-        },
-        {
-          "de": "Sind Sie mit dem Testdrehbuch einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: сценарий тестирования?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Testdrehbuch.",
-          "ru": "Сегодня мы концентрируемся на теме: сценарий тестирования."
-        },
-        {
-          "de": "Das Testdrehbuch spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Сценарий тестирования играет решающую роль в успехе."
+          "de": "Jeder Schritt im Testdrehbuch muss vom Tester abgezeichnet werden.",
+          "ru": "Каждый шаг в сценарии тестирования должен быть подписан тестером."
         }
       ],
       "synonyms": []
@@ -1752,24 +1528,24 @@
       "translation_en": "test case",
       "examples": [
         {
-          "de": "Hier ist der Testfall.",
-          "ru": "Вот тест-кейс / тестовый случай."
+          "de": "Was dich zum idealen Testfall macht, für eine neue Version einer Formel, die ich perfektionieren muss.",
+          "ru": "Который делает тебя идеальным испытательным случаем для состава новой формулы."
         },
         {
-          "de": "Wir müssen den Testfall genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: тест-кейс / тестовый случай."
+          "de": "Der Kosovo gilt häufig als Testfall für das Konzept der „humanitären\" Intervention.",
+          "ru": "Косово часто приводят в качестве контрольного примера для понятия \"гуманитарного\" вмешательства."
         },
         {
-          "de": "Sind Sie mit dem Testfall einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: тест-кейс / тестовый случай?"
+          "de": "Ich wollte nicht der Testfall sein.",
+          "ru": "Но я не хотел быть прецентдентным делом"
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Testfall.",
-          "ru": "Сегодня мы концентрируемся на теме: тест-кейс / тестовый случай."
+          "de": "Dann ist das unser Testfall.",
+          "ru": "Тогда это наше прецедентное дело."
         },
         {
-          "de": "Der Testfall spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Тест-кейс / тестовый случай играет решающую роль в успехе."
+          "de": "Voq war der Testfall.",
+          "ru": "Вок был пробным вариантом."
         }
       ],
       "synonyms": []
@@ -1782,24 +1558,24 @@
       "translation_en": "error / bug",
       "examples": [
         {
-          "de": "Hier ist der Fehler.",
-          "ru": "Вот ошибка / дефект."
+          "de": "Und das ist ein Fehler, den ich gewöhnlich nicht mache.",
+          "ru": "И эта та ошибка, которую я обычно не делаю."
         },
         {
-          "de": "Wir müssen den Fehler genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: ошибка / дефект."
+          "de": "Ich habe nie gesagt, dass es dein Fehler war.",
+          "ru": "Я никогда не говорил, что это была твоя ошибка."
         },
         {
-          "de": "Sind Sie mit dem Fehler einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: ошибка / дефект?"
+          "de": "Vielleicht ist es mein Fehler, ich war nicht ich selbst.",
+          "ru": "Возможно, это была моя вина, я был не самим собой."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Fehler.",
-          "ru": "Сегодня мы концентрируемся на теме: ошибка / дефект."
+          "de": "Wo du rumsitzt und sagst, dass alles dein Fehler wäre.",
+          "ru": "А то ты любишь сесть и заявить, что это твоя вина."
         },
         {
-          "de": "Der Fehler spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Ошибка / дефект играет решающую роль в успехе."
+          "de": "Wie ich mich erinnere, hatte Ihr Vater denselben Fehler.",
+          "ru": "Насколько я помню, у твоего отца был такой же недостаток."
         }
       ],
       "synonyms": []
@@ -1812,24 +1588,24 @@
       "translation_en": "to resolve / fix (bug)",
       "examples": [
         {
-          "de": "Wir beheben diese Angelegenheit direkt im Team.",
-          "ru": "Мы исправлять (ошибку) этот вопрос непосредственно в команде."
+          "de": "Du musst mein Chaos beheben und dann kann ich nach Hause gehen.",
+          "ru": "Тебе нужно исправить мой беспорядок, а потом я могу отправиться домой."
         },
         {
-          "de": "Ich behebe die notwendigen Unterlagen sofort.",
-          "ru": "Я исправлять (ошибку) необходимые документы незамедлительно."
+          "de": "Nach einem langen Kampf gelang es mir, ihn zu beheben.",
+          "ru": "После долгой борьбы, мне удалось это исправить."
         },
         {
-          "de": "Der verantwortliche Kollege behebt das Ganze sehr professionell.",
-          "ru": "Ответственный коллега исправлять (ошибку) всё это очень профессионально."
+          "de": "Glücklicherweise versuchen Menschen dies nun zu beheben.",
+          "ru": "К счастью, люди пытаются придумать, как это решить."
         },
         {
-          "de": "Wir haben das Thema erfolgreich behebt.",
-          "ru": "Мы успешно исправлять (ошибку) (в прошедшем времени) эту тему."
+          "de": "Wir werden operieren müssen, aber ich bin zuversichtlich, dass wir dieses Problem beheben können.",
+          "ru": "Вам понадобится операция, но я уверена что мы сможем решить проблему."
         },
         {
-          "de": "beheben Sie bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: исправлять (ошибку) вовремя!"
+          "de": "Ich kann jeweils nur einen Ihrer Fehler beheben.",
+          "ru": "Я могу исправлять только по одной вашей ошибке за раз."
         }
       ],
       "synonyms": [],
@@ -1853,24 +1629,24 @@
       "translation_en": "bug fixing",
       "examples": [
         {
-          "de": "Hier ist die Fehlerbehebung.",
-          "ru": "Вот исправление ошибок."
+          "de": "Wenn die Person, die für die Fehlerbehebung verantwortlich ist, nicht der zugewiesene Betreuer des Pakets ist (zum Beispiel, wenn das Paket von einer Gruppe betreut wird), kann es nützlich sein, diese Tatsache im Fehlerverwaltungssystem festzuhalten.",
+          "ru": "В случаях, когда ответственным за исправление ошибки является человек, не являющийся сопровождающим пакета (например, если пакет сопровождается несколькими людьми), может быть полезно отметить это в системе отслеживания ошибок."
         },
         {
-          "de": "Wir müssen die Fehlerbehebung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: исправление ошибок."
+          "de": "Fehlerbehebung für Signalstärke in der Kontrollleiste",
+          "ru": "Исправление ошибки увеличения соединения в системном лотке"
         },
         {
-          "de": "Sind Sie mit der Fehlerbehebung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: исправление ошибок?"
+          "de": "Wie Sie sehen können, arbeiten wir noch an der Fehlerbehebung.",
+          "ru": "Как вы можете видеть, еще есть погрешности, требующие доработки."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Fehlerbehebung.",
-          "ru": "Сегодня мы концентрируемся на теме: исправление ошибок."
+          "de": "Fügt die Anmerkung hinzu, dass die Fehlerbehebung des ersten Fehlers durch die anderen aufgeführten Fehler blockiert wird.",
+          "ru": "Учтите, что исправление для первой ошибки блокируется другими перечисленными ошибками."
         },
         {
-          "de": "Die Fehlerbehebung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Исправление ошибок играет решающую роль в успехе."
+          "de": "Wie auch immer, das Entwicklerteam arbeitete gleichzeitig an neuen Eigenschaften wie auch an der Fehlerbehebung und ein paar Neuerungen fanden den Weg in diese Version.",
+          "ru": "Тем не менее, команда разработчиков помимо улучшения существующего кода работала и над новой функциональностью, часть которой вошла в этот релиз."
         }
       ],
       "synonyms": []
@@ -1883,24 +1659,20 @@
       "translation_en": "test log / report",
       "examples": [
         {
-          "de": "Hier ist das Testprotokoll.",
-          "ru": "Вот протокол тестирования."
+          "de": "Weder die Bezirksregierung noch die zuständigen staatlichen Veterinärämter bekämen die Testprotokolle zu Gesicht.",
+          "ru": "Ни правительство округа, ни ответственные государственные ветеринарные службы не увидели протоколы испытаний."
         },
         {
-          "de": "Wir müssen das Testprotokoll genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: протокол тестирования."
+          "de": "Weder die Bezirksregierung noch die zuständigen staatlichen Veterinärämter bekämen die Testprotokolle zu Gesicht, heißt es in der Erklärung der Regierung.",
+          "ru": "Согласно заявлению правительства, ни правительство округа, ни ответственные государственные ветеринарные службы не имеют доступа к протоколам испытаний."
         },
         {
-          "de": "Sind Sie mit dem Testprotokoll einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: протокол тестирования?"
+          "de": "Doch es wird MonateMonate dauern, bis die gesamten Testprotokolle ausgewertet sind.",
+          "ru": "Однако для оценки всех протоколов испытаний потребуются месяцы."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Testprotokoll.",
-          "ru": "Сегодня мы концентрируемся на теме: протокол тестирования."
-        },
-        {
-          "de": "Das Testprotokoll spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Протокол тестирования играет решающую роль в успехе."
+          "de": "Auch der von Milan behauptete zeitliche Ablauf sei aufgrund der vorgelegten Testprotokolle nicht nachvollziebar.",
+          "ru": "Сроки, заявленные «Миланом», также непонятны на основании представленных протоколов испытаний."
         }
       ],
       "synonyms": []
@@ -1913,24 +1685,24 @@
       "translation_en": "acceptance / sign-off",
       "examples": [
         {
-          "de": "Hier ist die Abnahme.",
-          "ru": "Вот приемка / утверждение."
+          "de": "Eine erhebliche Abnahme der roten und weißen Blutkörperchen?",
+          "ru": "Значительное уменьшение красных и белых кровяных клеток у животных?"
         },
         {
-          "de": "Wir müssen die Abnahme genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: приемка / утверждение."
+          "de": "Es zeichnet die jährliche Zu- und Abnahme der Treibhausgase und Temperaturen auf und reicht bis zum Beginn der letzten Eiszeit zurück.",
+          "ru": "Он фиксирует годовые увеличение и уменьшение парниковых газов и температур, простираясь до начала прошлых ледниковых периодов."
         },
         {
-          "de": "Sind Sie mit der Abnahme einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: приемка / утверждение?"
+          "de": "Hohe Dosen von Dicamba bewirkten Änderungen im Lebergewebe und eine Abnahme des Körpergewichtes bei Ratten und Mäusen.",
+          "ru": "Высокие дозы дикамба вызывает изменения в ткани печени и снижение массы тела у крыс и мышей."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Abnahme.",
-          "ru": "Сегодня мы концентрируемся на теме: приемка / утверждение."
+          "de": "Also sollten wir bald eine Abnahme von Autodiebstehlen sehen.",
+          "ru": "Поэтому вероятно мы скоро увидим снижение количества автомобильных краж."
         },
         {
-          "de": "Die Abnahme spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Приемка / утверждение играет решающую роль в успехе."
+          "de": "Die selbe Wachstumsrate kann von einer bescheidenen Abnahme der Armut bis hin zu einem signifikanten Verfall vielerlei Folgen haben.",
+          "ru": "Одни и те же темпы экономического роста могут принести с собой как скромное сокращение нищеты, так и ее значительное падение."
         }
       ],
       "synonyms": []
@@ -1943,24 +1715,24 @@
       "translation_en": "to sign off / accept",
       "examples": [
         {
-          "de": "Wir nehmen ab diese Angelegenheit direkt im Team.",
-          "ru": "Мы принимать (работу/систему) этот вопрос непосредственно в команде."
+          "de": "Ich habe ihr gesagt, Sie kann den Ring abnehmen.",
+          "ru": "Дьявол, я сказал ей, что она может снять кольцо."
         },
         {
-          "de": "Ich nehme ab die notwendigen Unterlagen sofort.",
-          "ru": "Я принимать (работу/систему) необходимые документы незамедлительно."
+          "de": "Ich muss dir den Helm abnehmen, um dich zu retten.",
+          "ru": "Нужно снять твой шлем, чтобы я тебя спас."
         },
         {
-          "de": "Der verantwortliche Kollege nimmt ab das Ganze sehr professionell.",
-          "ru": "Ответственный коллега принимать (работу/систему) всё это очень профессионально."
+          "de": "Ich musste so viel abnehmen, um in dieses Kleid reinzukommen.",
+          "ru": "Мне пришлось сильно похудеть, чтобы влезть в это платье."
         },
         {
-          "de": "Wir haben das Thema erfolgreich abgenommen.",
-          "ru": "Мы успешно принимать (работу/систему) (в прошедшем времени) эту тему."
+          "de": "Ich muss abnehmen, deshalb werde ich eine Diät machen.",
+          "ru": "Мне надо похудеть, поэтому я собираюсь сесть на диету."
         },
         {
-          "de": "nehmen Sie ab bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: принимать (работу/систему) вовремя!"
+          "de": "Wenn ich aufhörte damit zu arbeiten, musste ich ihn abnehmen.",
+          "ru": "Если рука отключалась, то приходилось её снимать."
         }
       ],
       "synonyms": [],
@@ -1984,24 +1756,24 @@
       "translation_en": "sign-off document",
       "examples": [
         {
-          "de": "Hier ist das Abnahmeprotokoll.",
-          "ru": "Вот акт приемки-передачи."
+          "de": "Prinz Mishari hat das Abnahmeprotokoll unterzeichnet.",
+          "ru": "Принц Мишари подпишет отчет об инспекции."
         },
         {
-          "de": "Wir müssen das Abnahmeprotokoll genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: акт приемки-передачи."
+          "de": "Das ist ihr Aufnahmeprotokoll.",
+          "ru": "Я искал ее... в своем времени."
         },
         {
-          "de": "Sind Sie mit dem Abnahmeprotokoll einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: акт приемки-передачи?"
+          "de": "Das ist ihr Aufnahmeprotokoll.",
+          "ru": "Это ее осмотр при поступлении."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Abnahmeprotokoll.",
-          "ru": "Сегодня мы концентрируемся на теме: акт приемки-передачи."
+          "de": "Man hat zwei Ausnahmeprotokolle aufgenommen.",
+          "ru": "Было составлено два протокола изъятия..."
         },
         {
-          "de": "Das Abnahmeprotokoll spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Акт приемки-передачи играет решающую роль в успехе."
+          "de": "Ihr Name stand auf dem Aufnahmeprotokoll.",
+          "ru": "Ваше имя было в карте."
         }
       ],
       "synonyms": []
@@ -2014,24 +1786,24 @@
       "translation_en": "Go-Live",
       "examples": [
         {
-          "de": "Hier ist der Produktivstart.",
-          "ru": "Вот продуктивный старт."
+          "de": "Eine Verknappung eines dieser Inputfaktoren kann katastrophale Auswirkungen auf die Produktivität haben.",
+          "ru": "Нехватка любого из этих факторов может иметь катастрофические последствия для производительности."
         },
         {
-          "de": "Wir müssen den Produktivstart genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: продуктивный старт."
+          "de": "Die Produktivität in der Fertigung stieg aufgrund scharfer internationaler Konkurrenz leicht an.",
+          "ru": "Производительность производства несколько выросла, благодаря интенсивной международной конкуренции."
         },
         {
-          "de": "Sind Sie mit dem Produktivstart einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: продуктивный старт?"
+          "de": "Die Produktivität ist in den USA ist immer noch höher.",
+          "ru": "В конце концов, производительность все еще выше в США."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Produktivstart.",
-          "ru": "Сегодня мы концентрируемся на теме: продуктивный старт."
+          "de": "Die Produktivität sinkt, der Abfall muss zwischengelagert werden.",
+          "ru": "Производительность падает, и отходы приходится складировать под землей."
         },
         {
-          "de": "Der Produktivstart spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Продуктивный старт играет решающую роль в успехе."
+          "de": "Und all dies hat einen sehr gleichmäßigen und vorhersehbaren Anstieg an Produktivität vorangetrieben.",
+          "ru": "И всё это является двигателем очень гладкого и предсказуемого прироста продуктивности."
         }
       ],
       "synonyms": []
@@ -2044,24 +1816,12 @@
       "translation_en": "hypercare phase",
       "examples": [
         {
-          "de": "Hier ist die Hypercare-Phase.",
-          "ru": "Вот период усиленной поддержки после старта."
+          "de": "Nach dem Go-Live unterstützt das Projektteam den Kunden in der Hypercare-Phase.",
+          "ru": "После запуска проекта команда проекта поддерживает клиента на этапе усиленной поддержки (Hypercare)."
         },
         {
-          "de": "Wir müssen die Hypercare-Phase genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: период усиленной поддержки после старта."
-        },
-        {
-          "de": "Sind Sie mit der Hypercare-Phase einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: период усиленной поддержки после старта?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Hypercare-Phase.",
-          "ru": "Сегодня мы концентрируемся на теме: период усиленной поддержки после старта."
-        },
-        {
-          "de": "Die Hypercare-Phase spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Период усиленной поддержки после старта играет решающую роль в успехе."
+          "de": "Die Hypercare-Phase dauert in der Regel vier Wochen.",
+          "ru": "Этап усиленной поддержки обычно длится четыре недели."
         }
       ],
       "synonyms": []
@@ -2074,24 +1834,20 @@
       "translation_en": "normal operations / run",
       "examples": [
         {
-          "de": "Hier ist der Regelbetrieb.",
-          "ru": "Вот регулярная эксплуатация системы."
+          "de": "Seit Mai 2014 arbeitet er im Regelbetrieb.",
+          "ru": "С мая 2014 года работала в."
         },
         {
-          "de": "Wir müssen den Regelbetrieb genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: регулярная эксплуатация системы."
+          "de": "Der Regelbetrieb läuft seit 2004.",
+          "ru": "Правила начали действовать с 2004 года."
         },
         {
-          "de": "Sind Sie mit dem Regelbetrieb einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: регулярная эксплуатация системы?"
+          "de": "Nach erfolgreichen Probefahrten wurden die Talgo RD 1969 in den Regelbetrieb übernommen.",
+          "ru": "После успешных испытаний LARS-1 был принят на вооружение Бундесвера в 1969 году."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Regelbetrieb.",
-          "ru": "Сегодня мы концентрируемся на теме: регулярная эксплуатация системы."
-        },
-        {
-          "de": "Der Regelbetrieb spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Регулярная эксплуатация системы играет решающую роль в успехе."
+          "de": "Der Regiebetrieb bildet auch in Österreich lediglich eine Abteilung der allgemeinen Verwaltung.",
+          "ru": "Таким образом округ в Австрии является основной единицей общего управления."
         }
       ],
       "synonyms": []
@@ -2104,24 +1860,12 @@
       "translation_en": "ticket volume",
       "examples": [
         {
-          "de": "Hier ist das Ticket-Volumen.",
-          "ru": "Вот объем поступающих заявок."
+          "de": "Das Ticket-Volumen stieg direkt nach dem Produktivstart kurzzeitig an.",
+          "ru": "Объем тикетов кратковременно вырос сразу после запуска в эксплуатацию."
         },
         {
-          "de": "Wir müssen das Ticket-Volumen genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: объем поступающих заявок."
-        },
-        {
-          "de": "Sind Sie mit dem Ticket-Volumen einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: объем поступающих заявок?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Ticket-Volumen.",
-          "ru": "Сегодня мы концентрируемся на теме: объем поступающих заявок."
-        },
-        {
-          "de": "Das Ticket-Volumen spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Объем поступающих заявок играет решающую роль в успехе."
+          "de": "Durch Schulungen konnten wir das Ticket-Volumen im Support reduzieren.",
+          "ru": "Благодаря обучению мы смогли сократить объем тикетов в поддержке."
         }
       ],
       "synonyms": []
@@ -2134,24 +1878,24 @@
       "translation_en": "processing time",
       "examples": [
         {
-          "de": "Hier ist die Bearbeitungszeit.",
-          "ru": "Вот время обработки (тикета)."
+          "de": "Die Bearbeitungszeit wird beim Speichern der Datei aktualisiert.",
+          "ru": "Время редактирования обновляется при сохранении файла."
         },
         {
-          "de": "Wir müssen die Bearbeitungszeit genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: время обработки (тикета)."
+          "de": "Er erbittet sich eine Woche Bearbeitungszeit.",
+          "ru": "Есть только неделя, чтобы сдать дела."
         },
         {
-          "de": "Sind Sie mit der Bearbeitungszeit einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: время обработки (тикета)?"
+          "de": "Setzt die Bearbeitungszeit auf Null, das Erstellungsdatum auf das aktuelle Datum und die aktuelle Uhrzeit und die Versionsnummer auf 1.",
+          "ru": "Переустановка времени редактирования на ноль, даты создания на текущие дату и время и номера версии на 1."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Bearbeitungszeit.",
-          "ru": "Сегодня мы концентрируемся на теме: время обработки (тикета)."
+          "de": "Bearbeitungszeit ist sieben Tage.",
+          "ru": "7 дней на обработку."
         },
         {
-          "de": "Die Bearbeitungszeit spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Время обработки (тикета) играет решающую роль в успехе."
+          "de": "Texturgenerierung nimmt den grossten Anteil der Bearbeitungszeit.",
+          "ru": "На первый этап тратится основное время обработки."
         }
       ],
       "synonyms": []
@@ -2164,24 +1908,24 @@
       "translation_en": "Service Level Agreement (SLA)",
       "examples": [
         {
-          "de": "Hier ist das Service Level Agreement (SLA).",
-          "ru": "Вот соглашение об уровне услуг (SLA)."
+          "de": "Der effektive Top-Level-Domain-Service (eTLD) begrenzt Cookies und anderen beschränkten Inhalt jetzt besser zu einer einzelnen Domain.",
+          "ru": "Служба эффективных доменов верхнего уровня (eTLD) лучше ограничивает cookies и другую служебную информацию рамками одного домена."
         },
         {
-          "de": "Wir müssen das Service Level Agreement (SLA) genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: соглашение об уровне услуг (SLA)."
+          "de": "Das Trade in Services Agreement (TiSA; deutsch Abkommen über den Handel mit Dienstleistungen) ist eine sich in Verhandlung befindliche Sammlung von Vereinbarungen in Form eines völkerrechtlichen Vertrags zwischen 23 Parteien einschließlich der USA und der Europäischen Union.",
+          "ru": "Соглашение о торговле услугами (Trade in Services Agreement, TiSA) - планируемое торговое соглашение между 23 сторонами, среди которых Евросоюз и США."
         },
         {
-          "de": "Sind Sie mit dem Service Level Agreement (SLA) einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: соглашение об уровне услуг (SLA)?"
+          "de": "Menschen haben uns immer versklavt, aber das ist ein neues Level.",
+          "ru": "Люди всегда пользуются нашей добротой, но это новый уровень."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Service Level Agreement (SLA).",
-          "ru": "Сегодня мы концентрируемся на теме: соглашение об уровне услуг (SLA)."
+          "de": "Weil es mich beleidigt... auf einem zutiefst persönlichem Level.",
+          "ru": "Потому что это задевает меня... на глубоком личном уровне."
         },
         {
-          "de": "Das Service Level Agreement (SLA) spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Соглашение об уровне услуг (SLA) играет решающую роль в успехе."
+          "de": "Nach jedem Level muss der Spieler einen besonders starken Boss besiegen.",
+          "ru": "В конце каждого уровня игроку предстоит сразиться с уникальным боссом."
         }
       ],
       "synonyms": []
@@ -2194,24 +1938,24 @@
       "translation_en": "escalation",
       "examples": [
         {
-          "de": "Hier ist die Eskalation.",
-          "ru": "Вот эскалация проблемы."
+          "de": "Mit Ermutigung und Anerkennung kommt Eskalation.",
+          "ru": "А с поддержки и признания начинается эскалация."
         },
         {
-          "de": "Wir müssen die Eskalation genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: эскалация проблемы."
+          "de": "Diese Eskalation deutet an, dass er selbst verheiratet sein könnte und wahrscheinlich eine Familie hat.",
+          "ru": "Подобная эскалация вероятно означает, что он сам женат, и, возможно, у него есть дети."
         },
         {
-          "de": "Sind Sie mit der Eskalation einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: эскалация проблемы?"
+          "de": "Wenn es zur Eskalation kommt, löst man sie besser selbst aus.",
+          "ru": "Если будет обострение, то нам лучше напасть первыми."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Eskalation.",
-          "ru": "Сегодня мы концентрируемся на теме: эскалация проблемы."
+          "de": "Was ist das, eine Eskalation?",
+          "ru": "Это что - обострение?"
         },
         {
-          "de": "Die Eskalation spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Эскалация проблемы играет решающую роль в успехе."
+          "de": "Drittens: Eskalation der Erwartungen.",
+          "ru": "Третье: рост ожиданий."
         }
       ],
       "synonyms": []
@@ -2224,24 +1968,24 @@
       "translation_en": "to escalate",
       "examples": [
         {
-          "de": "Wir eskalieren diese Angelegenheit direkt im Team.",
-          "ru": "Мы эскалировать этот вопрос непосредственно в команде."
+          "de": "Jeglicher Versuch diese zu evakuieren könnte zu einem Bürgerkrieg eskalieren.",
+          "ru": "Любая попытка эвакуировать их может перерасти в гражданскую войну."
         },
         {
-          "de": "Ich eskaliere die notwendigen Unterlagen sofort.",
-          "ru": "Я эскалировать необходимые документы незамедлительно."
+          "de": "Aber die Gefahr, dass ein Konflikt in eine nukleare Konfrontation hätte eskalieren können, hat mehr als einmal auf beiden Seiten waghalsiges und gefährliches Verhalten verhindert.",
+          "ru": "Однако опасение, что любой конфликт мог бы перерасти в ядерную конфронтацию, неоднократно ограничивало безрассудное и опасное поведение обеих сторон."
         },
         {
-          "de": "Der verantwortliche Kollege eskaliert das Ganze sehr professionell.",
-          "ru": "Ответственный коллега эскалировать всё это очень профессионально."
+          "de": "Lassen wir es doch nicht eskalieren, OK?",
+          "ru": "Давайте не будем все усугублять."
         },
         {
-          "de": "Wir haben das Thema erfolgreich eskaliert.",
-          "ru": "Мы успешно эскалировать (в прошедшем времени) эту тему."
+          "de": "Ich will die Situation nicht eskalieren lassen, bis wir rausfinden, womit wir es zu tun haben.",
+          "ru": "Не хочу усугублять ситуацию пока не разберемся в случившемся."
         },
         {
-          "de": "eskalieren Sie bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: эскалировать вовремя!"
+          "de": "Wenn es für China und Taiwan je eine Gelegenheit gegeben haben sollte eine Möglichkeit zu finden dafür zu sorgen, dass zukünftige Konfrontationen nicht eskalieren und die USA in einen Konflikt hineingezogen werden, dann jetzt.",
+          "ru": "Если бы у Китая и Тайваня и появилась бы возможность найти способ гарантировать, что будущая конфронтация не будет обостряться и что США не будут в нее вовлечены, то это сейчас."
         }
       ],
       "synonyms": [],
@@ -2265,24 +2009,24 @@
       "translation_en": "cleansing / cleanup",
       "examples": [
         {
-          "de": "Hier ist die Bereinigung.",
-          "ru": "Вот очистка / выверка (данных)."
+          "de": "Einige aus der königlichen Familie gestehen dies zu und wissen, dass eine gründlichere Bereinigung nötig ist.",
+          "ru": "Некоторые члены королевской семьи признают это и знают, что необходима более тщательная чистка."
         },
         {
-          "de": "Wir müssen die Bereinigung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: очистка / выверка (данных)."
+          "de": "Das heißt wiederum, dass die Bereinigung des Bankwesens immer mehr kosten wird und dass die Staatsverschuldung immer mehr zunehmen wird.",
+          "ru": "В свою очередь это означает, что банковская чистка будет стоить еще дороже и что внутренний бюджетный долг вырастет еще выше."
         },
         {
-          "de": "Sind Sie mit der Bereinigung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: очистка / выверка (данных)?"
+          "de": "Aber Sie können sich noch immer retten... wenn Sie nichts unternehmen, um die Bereinigung aufzuhalten.",
+          "ru": "Но ты всё ещё можешь спастись, если не будешь мешать Коррекции."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Bereinigung.",
-          "ru": "Сегодня мы концентрируемся на теме: очистка / выверка (данных)."
+          "de": "Ja, ich weiß von der \"Bereinigung.\"",
+          "ru": "Я знаю о \"Коррекции\"."
         },
         {
-          "de": "Die Bereinigung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Очистка / выверка (данных) играет решающую роль в успехе."
+          "de": "Ja, ich meine, du musst noch ein paar Korrekturen vornehmen, ein bisschen Bearbeitung und Bereinigung.",
+          "ru": "Да, но тебе нужно немного поработать над ним, - немного отредактировать и подчистить."
         }
       ],
       "synonyms": []
@@ -2295,24 +2039,12 @@
       "translation_en": "data cleansing",
       "examples": [
         {
-          "de": "Hier ist die Datenbereinigung.",
-          "ru": "Вот очистка данных."
+          "de": "Die Datenbereinigung im Altsystem spart viel Zeit bei der Datenmigration.",
+          "ru": "Очистка данных в старой системе экономит много времени при миграции данных."
         },
         {
-          "de": "Wir müssen die Datenbereinigung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: очистка данных."
-        },
-        {
-          "de": "Sind Sie mit der Datenbereinigung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: очистка данных?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Datenbereinigung.",
-          "ru": "Сегодня мы концентрируемся на теме: очистка данных."
-        },
-        {
-          "de": "Die Datenbereinigung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Очистка данных играет решающую роль в успехе."
+          "de": "Für die Datenbereinigung sind die Fachabteilungen verantwortlich.",
+          "ru": "За очистку данных несут ответственность бизнес-подразделения."
         }
       ],
       "synonyms": []
@@ -2325,24 +2057,12 @@
       "translation_en": "interface reconciliation",
       "examples": [
         {
-          "de": "Hier ist die Schnittstellenabstimmung.",
-          "ru": "Вот согласование интерфейсов."
+          "de": "Die Schnittstellenabstimmung mit den externen Partnern läuft planmäßig.",
+          "ru": "Согласование интерфейсов с внешними партнерами идет по плану."
         },
         {
-          "de": "Wir müssen die Schnittstellenabstimmung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: согласование интерфейсов."
-        },
-        {
-          "de": "Sind Sie mit der Schnittstellenabstimmung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: согласование интерфейсов?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Schnittstellenabstimmung.",
-          "ru": "Сегодня мы концентрируемся на теме: согласование интерфейсов."
-        },
-        {
-          "de": "Die Schnittstellenabstimmung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Согласование интерфейсов играет решающую роль в успехе."
+          "de": "Wir müssen die Schnittstellenabstimmung vor dem Integrationstest abschließen.",
+          "ru": "Нам необходимо завершить согласование интерфейсов перед интеграционным тестом."
         }
       ],
       "synonyms": []
@@ -2355,24 +2075,12 @@
       "translation_en": "migration tool",
       "examples": [
         {
-          "de": "Hier ist das Migrationswerkzeug.",
-          "ru": "Вот инструмент миграции (например, LSMW, LTMC)."
+          "de": "Als Migrationswerkzeug nutzen wir das bewährte SAP S/4HANA Migration Cockpit.",
+          "ru": "В качестве инструмента миграции мы используем проверенный SAP S/4HANA Migration Cockpit."
         },
         {
-          "de": "Wir müssen das Migrationswerkzeug genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: инструмент миграции (например, LSMW, LTMC)."
-        },
-        {
-          "de": "Sind Sie mit dem Migrationswerkzeug einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: инструмент миграции (например, LSMW, LTMC)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Migrationswerkzeug.",
-          "ru": "Сегодня мы концентрируемся на теме: инструмент миграции (например, LSMW, LTMC)."
-        },
-        {
-          "de": "Das Migrationswerkzeug spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Инструмент миграции (например, LSMW, LTMC) играет решающую роль в успехе."
+          "de": "Das Migrationswerkzeug importiert die Daten automatisch aus Excel-Vorlagen.",
+          "ru": "Инструмент миграции автоматически импортирует данные из шаблонов Excel."
         }
       ],
       "synonyms": []
@@ -2385,24 +2093,24 @@
       "translation_en": "Migration Cockpit",
       "examples": [
         {
-          "de": "Hier ist das LTMC (Legacy Transfer Migration Cockpit).",
-          "ru": "Вот миграционный кокпит (LTMC)."
+          "de": "Sie findet seit 1926 auf den Tennisplätzen des LTC Pardubice statt.",
+          "ru": "Проводится с 1926 г. на кортах клуба «LTC Pardubice»."
         },
         {
-          "de": "Wir müssen das LTMC (Legacy Transfer Migration Cockpit) genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: миграционный кокпит (LTMC)."
+          "de": "Danach spielte der LTC Prag, 1951 fusioniert mit Tatra Smíchov, nur noch eine untergeordnete Rolle und musste 1957 den Gang in die 2. Liga antreten.",
+          "ru": "После всего этого в 1951 ЛТЦ слился с клубом «Татра Смихов», играя лишь незначительную роль, и в 1957 вылетел во вторую лигу."
         },
         {
-          "de": "Sind Sie mit dem LTMC (Legacy Transfer Migration Cockpit) einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: миграционный кокпит (LTMC)?"
+          "de": "Das erste Eishockeyspiel in Pardubice fand auf dem See Matiční jezero im Jahre 1913 statt und der erste Eishockeyclub unter dem Namen LTC Pardubice wurde im Jahre 1923 gegründet.",
+          "ru": "Первый матч состоялся на Матичном озере в 1913 году, а первый клуб под названием «LTC Пардубице» был создан в 1923 году."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das LTMC (Legacy Transfer Migration Cockpit).",
-          "ru": "Сегодня мы концентрируемся на теме: миграционный кокпит (LTMC)."
+          "de": "1903 wurde im Sportverein Slavia Prag eine Tennisabteilung mit dem Namen Lawn Tennis Cercle, abgekürzt LTC, gegründet.",
+          "ru": "В 1903 в спортивном клубе «Славия» Прага была основана секция тенниса, названная «Лаун Теннис Клаб», сокращенно ЛТЦ."
         },
         {
-          "de": "Das LTMC (Legacy Transfer Migration Cockpit) spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Миграционный кокпит (LTMC) играет решающую роль в успехе."
+          "de": "1964 ging LTC in Slavia Prag auf, dem Klub, aus dem er ursprünglich entstanden war.",
+          "ru": "В 1964 ЛТЦ вошёл в состав «Славии», клуба, из которого он первоначально возник."
         }
       ],
       "synonyms": []
@@ -2415,24 +2123,24 @@
       "translation_en": "data structure",
       "examples": [
         {
-          "de": "Hier ist die Datenstruktur.",
-          "ru": "Вот структура данных."
+          "de": "Sie besteht im Wesentlichen aus zwei Teilen: Einer Datenstruktur für die Übergabe einer Referenz zu einem Webservice-Endpoint und einer Menge von Adresseigenschaften von Nachrichten, die Adressinformationen mit einer bestimmten Nachricht verknüpfen.",
+          "ru": "По существу, она состоит из двух частей: структуры, содержащей конечные точки служб и набора свойств сообщения, ассоциирующих информацию об адресе с конкретным сообщением."
         },
         {
-          "de": "Wir müssen die Datenstruktur genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: структура данных."
+          "de": "Der Algorithmus von Kruskal erfordert beispielsweise eine solche Datenstruktur, um effizient implementiert werden zu können.",
+          "ru": "Применяется для хранения компонент связности в графах, в частности, алгоритму Краскала необходима подобная структура данных для эффективной реализации."
         },
         {
-          "de": "Sind Sie mit der Datenstruktur einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: структура данных?"
+          "de": "Das Verzeichnis der Adressen von fehlerhaften Sektoren wird für die Bildung der Datenstruktur verwendet, die als Compiler bezeichnet wird.",
+          "ru": "Список адресов дефектных секторов используется для создания структуры данных, называемой транслятором."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Datenstruktur.",
-          "ru": "Сегодня мы концентрируемся на теме: структура данных."
+          "de": "Der Standard definiert Datenstrukturen und Dienste für den Austausch medizinischer Bilder und zugehöriger Information.",
+          "ru": "Стандарт определяет структуры данных и службы обмена медицинскими изображениями и другими данными."
         },
         {
-          "de": "Die Datenstruktur spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Структура данных играет решающую роль в успехе."
+          "de": "Plattformunabhängige Skalierbarkeit der Performanz wird durch rekursive Datenstrukturen und Algorithmen erreicht.",
+          "ru": "Независимая от платформы масштабируемость производительности достигнута рекурсивной структурой данных и рекурсивными алгоритмами."
         }
       ],
       "synonyms": []
@@ -2445,24 +2153,12 @@
       "translation_en": "mapping rule",
       "examples": [
         {
-          "de": "Hier ist die Mapping-Regel.",
-          "ru": "Вот правило сопоставления данных."
+          "de": "Die Mapping-Regel bestimmt, wie die alten Kontonummern in die neuen übersetzt werden.",
+          "ru": "Правило сопоставления (Mapping-Regel) определяет, как старые номера счетов переводятся в новые."
         },
         {
-          "de": "Wir müssen die Mapping-Regel genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: правило сопоставления данных."
-        },
-        {
-          "de": "Sind Sie mit der Mapping-Regel einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: правило сопоставления данных?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Mapping-Regel.",
-          "ru": "Сегодня мы концентрируемся на теме: правило сопоставления данных."
-        },
-        {
-          "de": "Die Mapping-Regel spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Правило сопоставления данных играет решающую роль в успехе."
+          "de": "Wir müssen jede Mapping-Regel im Migrationswerkzeug definieren.",
+          "ru": "Мы должны определить каждое правило сопоставления в инструменте миграции."
         }
       ],
       "synonyms": []
@@ -2475,24 +2171,12 @@
       "translation_en": "source field",
       "examples": [
         {
-          "de": "Hier ist das Quellfeld.",
-          "ru": "Вот исходное поле."
+          "de": "Der Wert aus dem Quellfeld wird in das entsprechende Zielfeld übertragen.",
+          "ru": "Значение из исходного поля переносится в соответствующее целевое поле."
         },
         {
-          "de": "Wir müssen das Quellfeld genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: исходное поле."
-        },
-        {
-          "de": "Sind Sie mit dem Quellfeld einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: исходное поле?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Quellfeld.",
-          "ru": "Сегодня мы концентрируемся на теме: исходное поле."
-        },
-        {
-          "de": "Das Quellfeld spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Исходное поле играет решающую роль в успехе."
+          "de": "Das Quellfeld in der Alttabelle hat eine Länge von zehn Zeichen.",
+          "ru": "Исходное поле в старой таблице имеет длину десять символов."
         }
       ],
       "synonyms": []
@@ -2505,24 +2189,24 @@
       "translation_en": "target field",
       "examples": [
         {
-          "de": "Hier ist das Zielfeld.",
-          "ru": "Вот целевое поле."
+          "de": "Das Zielfeld ist nun ausgeblendet. Zur Wiederanzeige verwenden Sie bitte das Menü Einstellungen - > KGet einrichten - > Aussehen und Bedienung.",
+          "ru": "Цель для перетаскивания скрыта. Если вы хотите отобразить её, перейдите в меню Параметры - > Настроить KGet - > Внешний вид."
         },
         {
-          "de": "Wir müssen das Zielfeld genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: целевое поле."
+          "de": "Aber jetzt, da es kaum noch interne Wirtschaftsgrenzen in Europa gibt und die politische Einigung immer mehr ins Zielfeld rückt, wird die Integration vielleicht nicht mehr ganz so marktfreundlich sein.",
+          "ru": "Однако сейчас, когда внутренние экономические границы в Европе по большей части сняты, и главной целью стало политическое объединение, интеграция может больше не быть такой благоприятной для развития рынка."
         },
         {
-          "de": "Sind Sie mit dem Zielfeld einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: целевое поле?"
+          "de": "Ich muss zugeben, dieser Auftrag... ist ein wenig außerhalb meines Zielfeldes.",
+          "ru": "Должна признать, это задание... немного выходит за рамки моей дальности обстрела."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Zielfeld.",
-          "ru": "Сегодня мы концентрируемся на теме: целевое поле."
+          "de": "Sie haben einen Lebenslauf von einem Mädchen bekommen, das Sie im Ziegfeld Theater trafen.",
+          "ru": "Вам пришло резюме от девушки, с которой вы познакомились в театре Зигфелд."
         },
         {
-          "de": "Das Zielfeld spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Целевое поле играет решающую роль в успехе."
+          "de": "Lucy Danziger, eine Tänzerin im Ziegfeld Follies.",
+          "ru": "Люси Данцигер, танцовщица в шоу \"Шалуньи Зигфелда\"."
         }
       ],
       "synonyms": []
@@ -2535,24 +2219,12 @@
       "translation_en": "conversion rule",
       "examples": [
         {
-          "de": "Hier ist die Konvertierungsregel.",
-          "ru": "Вот правило конвертации."
+          "de": "Die Konvertierungsregel wandelt das Datumsformat der Altdaten um.",
+          "ru": "Правило преобразования изменяет формат даты исторических данных."
         },
         {
-          "de": "Wir müssen die Konvertierungsregel genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: правило конвертации."
-        },
-        {
-          "de": "Sind Sie mit der Konvertierungsregel einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: правило конвертации?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Konvertierungsregel.",
-          "ru": "Сегодня мы концентрируемся на теме: правило конвертации."
-        },
-        {
-          "de": "Die Konvertierungsregel spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Правило конвертации играет решающую роль в успехе."
+          "de": "Wir haben eine kundenspezifische Konvertierungsregel für die Kundennummern implementiert.",
+          "ru": "Мы внедрили специфическое для клиента правило преобразования для номеров клиентов."
         }
       ],
       "synonyms": []
@@ -2565,24 +2237,24 @@
       "translation_en": "test system",
       "examples": [
         {
-          "de": "Hier ist das Testsystem.",
-          "ru": "Вот тестовая система."
+          "de": "ein automatisches, biologisches Testsystem",
+          "ru": "автоматическая биологическая тест-система"
         },
         {
-          "de": "Wir müssen das Testsystem genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: тестовая система."
+          "de": "ein Testsystem entwickeln",
+          "ru": "разработать тестовую систему"
         },
         {
-          "de": "Sind Sie mit dem Testsystem einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: тестовая система?"
+          "de": "als Testsystem dienen",
+          "ru": "служить тестовой системой"
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Testsystem.",
-          "ru": "Сегодня мы концентрируемся на теме: тестовая система."
+          "de": "Testsysteme, die überprüfen, ob eine Person sich mit dem HI‑Virus infiziert hat, dürfen in Deutschland seit dem 21. März 2010 nur noch an Ärzte, ambulante und stationäre Einrichtungen im Gesundheitswesen und an Gesundheitsbehörden abgegeben werden.",
+          "ru": "С 21 марта 2010 года тест-системы, проверяющие, заражен ли человек вирусом ВИЧ, могут предоставляться только врачам, амбулаторным и стационарным медицинским учреждениям, а также органам здравоохранения Германии."
         },
         {
-          "de": "Das Testsystem spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Тестовая система играет решающую роль в успехе."
+          "de": "[…] es ist nach wie vor so, dass die Arzneiprüfung an Mäusen vorgenommen wird, jedoch dank neuerer Testsysteme in geringerem Ausmass als früher.",
+          "ru": "[…] тестирование на наркотики по-прежнему проводится на мышах, но благодаря новым системам тестирования в меньшей степени, чем раньше."
         }
       ],
       "synonyms": []
@@ -2595,24 +2267,12 @@
       "translation_en": "sandbox system",
       "examples": [
         {
-          "de": "Hier ist das Sandbox-System.",
-          "ru": "Вот песочница (изолированная тестовая система)."
+          "de": "Im Sandbox-System können wir neue Customizing-Ideen ohne Risiko ausprobieren.",
+          "ru": "В системе песочницы (Sandbox) мы можем без риска опробовать новые идеи настроек."
         },
         {
-          "de": "Wir müssen das Sandbox-System genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: песочница (изолированная тестовая система)."
-        },
-        {
-          "de": "Sind Sie mit dem Sandbox-System einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: песочница (изолированная тестовая система)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Sandbox-System.",
-          "ru": "Сегодня мы концентрируемся на теме: песочница (изолированная тестовая система)."
-        },
-        {
-          "de": "Das Sandbox-System spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Песочница (изолированная тестовая система) играет решающую роль в успехе."
+          "de": "Das Sandbox-System wurde gestern mit aktuellen Daten aktualisiert.",
+          "ru": "Система песочницы была обновлена вчера актуальными данными."
         }
       ],
       "synonyms": []
@@ -2625,24 +2285,12 @@
       "translation_en": "release upgrade",
       "examples": [
         {
-          "de": "Hier ist das Release-Upgrade.",
-          "ru": "Вот обновление версии системы."
+          "de": "Am Wochenende führen wir ein Release-Upgrade auf dem Testsystem durch.",
+          "ru": "В выходные мы проведем обновление релиза в тестовой системе."
         },
         {
-          "de": "Wir müssen das Release-Upgrade genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: обновление версии системы."
-        },
-        {
-          "de": "Sind Sie mit dem Release-Upgrade einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: обновление версии системы?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Release-Upgrade.",
-          "ru": "Сегодня мы концентрируемся на теме: обновление версии системы."
-        },
-        {
-          "de": "Das Release-Upgrade spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Обновление версии системы играет решающую роль в успехе."
+          "de": "Ein Release-Upgrade bringt neue Funktionen und Sicherheitsupdates.",
+          "ru": "Обновление релиза приносит новые функции и обновления безопасности."
         }
       ],
       "synonyms": []
@@ -2655,24 +2303,24 @@
       "translation_en": "Support Package",
       "examples": [
         {
-          "de": "Hier ist das Support Package.",
-          "ru": "Вот пакет поддержки (обновлений)."
+          "de": "Unsere Administratoren bieten Ihnen keinen technischen Support oder Beratung zu diesem Produkt an.",
+          "ru": "Наши администраторы не предоставляют услуги технической поддержки ни консультации."
         },
         {
-          "de": "Wir müssen das Support Package genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: пакет поддержки (обновлений)."
+          "de": "Kein Wunder also, das der Support so schlecht ist.",
+          "ru": "Так что не стоит удивляться, что поддержка так плоха."
         },
         {
-          "de": "Sind Sie mit dem Support Package einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: пакет поддержки (обновлений)?"
+          "de": "In Diesem Fall wenden Sie sich bitte an unser Support Center.",
+          "ru": "Для этого обращайтесь в наш Центр Поддержки."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Support Package.",
-          "ru": "Сегодня мы концентрируемся на теме: пакет поддержки (обновлений)."
+          "de": "Bei proprietärer Software ist Support ein Monopol.",
+          "ru": "С случае проприетарного программного обеспечения, поддержка это монополия."
         },
         {
-          "de": "Das Support Package spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Пакет поддержки (обновлений) играет решающую роль в успехе."
+          "de": "Hast Du Fragen oder Probleme, wende Dich bitte an unseren Support.",
+          "ru": "Хочешь задать вопросы или поделиться проблемами? Тогда обращайся в нашу службу поддержки."
         }
       ],
       "synonyms": []
@@ -2685,24 +2333,12 @@
       "translation_en": "SAP Note",
       "examples": [
         {
-          "de": "Hier ist der SAP-Hinweis.",
-          "ru": "Вот нота SAP (исправление бага)."
+          "de": "Dieser Fehler lässt sich durch das Einspielen eines SAP-Hinweises beheben.",
+          "ru": "Эту ошибку можно исправить, применив ноту SAP (SAP-Hinweis)."
         },
         {
-          "de": "Wir müssen den SAP-Hinweis genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: нота SAP (исправление бага)."
-        },
-        {
-          "de": "Sind Sie mit dem SAP-Hinweis einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: нота SAP (исправление бага)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den SAP-Hinweis.",
-          "ru": "Сегодня мы концентрируемся на теме: нота SAP (исправление бага)."
-        },
-        {
-          "de": "Der SAP-Hinweis spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Нота SAP (исправление бага) играет решающую роль в успехе."
+          "de": "Der Berater suchte im SAP-Support-Portal nach einem passenden SAP-Hinweis.",
+          "ru": "Консультант искал подходящую ноту SAP на портале поддержки SAP."
         }
       ],
       "synonyms": []
@@ -2715,24 +2351,24 @@
       "translation_en": "to apply / implement (note/patch)",
       "examples": [
         {
-          "de": "Wir spielen ein diese Angelegenheit direkt im Team.",
-          "ru": "Мы устанавливать / применять (ноту/патч) этот вопрос непосредственно в команде."
+          "de": "Ermöglicht das Einspielen der ausgewählten Dateien. Siehe.",
+          "ru": "Позволяет вам передавать выбранные файлы."
         },
         {
-          "de": "Ich spiele ein die notwendigen Unterlagen sofort.",
-          "ru": "Я устанавливать / применять (ноту/патч) необходимые документы незамедлительно."
+          "de": "Einstellungen Unterordner beim Einspielen und Entfernen einbeziehen",
+          "ru": "Настройка Передавать и удалять рекурсивно"
         },
         {
-          "de": "Der verantwortliche Kollege spielt ein das Ganze sehr professionell.",
-          "ru": "Ответственный коллега устанавливать / применять (ноту/патч) всё это очень профессионально."
+          "de": "Ich kann das einspielen.",
+          "ru": "Я могу её считать."
         },
         {
-          "de": "Wir haben das Thema erfolgreich eingespielt.",
-          "ru": "Мы успешно устанавливать / применять (ноту/патч) (в прошедшем времени) эту тему."
+          "de": "Das wird sich schon einspielen.",
+          "ru": "У нас все будет нормально, да?"
         },
         {
-          "de": "spielen Sie ein bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: устанавливать / применять (ноту/патч) вовремя!"
+          "de": "Könnten wir bitte das Video einspielen?",
+          "ru": "Мы можем включить запись."
         }
       ],
       "synonyms": [],
@@ -2756,24 +2392,20 @@
       "translation_en": "hotfix",
       "examples": [
         {
-          "de": "Hier ist der Hotfix.",
-          "ru": "Вот срочное исправление."
+          "de": "Sie können den Hotfix hier herunterladen: . Weitere Informationen zu dem durch diesen Hotfix behobenen Problem finden Sie im entsprechenden Knowledge Base-Artikel unter.",
+          "ru": "По мере того как технологии будут обновляться и проверяться на совместимость с SP1, они будут добавляться в этот список."
         },
         {
-          "de": "Wir müssen den Hotfix genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: срочное исправление."
+          "de": "Wenn Sie Microsoft Visual Studio 2008 Service Pack 1 herunterladen und installieren, sollten Sie auch den Hotfix für Intellisense in diesem Service Pack herunterladen und installieren. Bei der Installation von SP1 werden einige Dateien auf Englisch zurückgesetzt, die zuvor übersetzt waren.",
+          "ru": "При возникновении неполадок при установке SP1, удалите технологии и (или) надстройки для разработки, не указанные в списке выше, и повторно запустите установку SP1."
         },
         {
-          "de": "Sind Sie mit dem Hotfix einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: срочное исправление?"
+          "de": "Alle öffentlichen Updates, Sicherheitsupdates, kumulativen Updates und Hotfixes, die bis Februar 2009 veröffentlicht wurden.",
+          "ru": "все общедоступные обновления, обновления системы безопасности, накопительные обновления и исправления, выпущенные в феврале 2009 года."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Hotfix.",
-          "ru": "Сегодня мы концентрируемся на теме: срочное исправление."
-        },
-        {
-          "de": "Der Hotfix spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Срочное исправление играет решающую роль в успехе."
+          "de": "Wenn Sie bereits einen Visual Studio 2008-Hotfix oder die Vorabversion von Visual Studio 2008 SP1 installiert haben, müssen Sie vor der Installation von Visual Studio 2008 SP1 das Service Pack-Vorbereitungstool ausführen.",
+          "ru": "Если ранее были установлены исправление Visual Studio 2008 Hotfix или предварительная версия пакета обновления Visual Studio 2008 SP1, перед установкой Visual Studio 2008 SP1 необходимо запустить инструмент подготовки к установке пакета обновления."
         }
       ],
       "synonyms": []
@@ -2786,24 +2418,12 @@
       "translation_en": "system update",
       "examples": [
         {
-          "de": "Hier ist die Systemaktualisierung.",
-          "ru": "Вот обновление системы."
+          "de": "Die geplante Systemaktualisierung findet außerhalb der Arbeitszeiten statt.",
+          "ru": "Запланированное обновление системы происходит в нерабочее время."
         },
         {
-          "de": "Wir müssen die Systemaktualisierung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: обновление системы."
-        },
-        {
-          "de": "Sind Sie mit der Systemaktualisierung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: обновление системы?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Systemaktualisierung.",
-          "ru": "Сегодня мы концентрируемся на теме: обновление системы."
-        },
-        {
-          "de": "Die Systemaktualisierung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Обновление системы играет решающую роль в успехе."
+          "de": "Während der Systemaktualisierung ist das SAP-System nicht erreichbar.",
+          "ru": "Во время обновления системы система SAP недоступна."
         }
       ],
       "synonyms": []
@@ -2816,24 +2436,24 @@
       "translation_en": "data backup",
       "examples": [
         {
-          "de": "Hier ist die Datensicherung.",
-          "ru": "Вот резервное копирование данных."
+          "de": "Was unsere Hauptrechner angeht, so hat Easy-Forex zwei verschiedene Serverfarmen an unterschiedlichen Standorten, um Datensicherung und -wiederherstellung zu gewährleisten.",
+          "ru": "Система Easy-Forex предусматривает две разных группы серверов в различных местах, которые обеспечивают резервирование и восстановление данных."
         },
         {
-          "de": "Wir müssen die Datensicherung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: резервное копирование данных."
+          "de": "Die Datensicherung ist heute nicht mehr so umständlich wie früher.",
+          "ru": "Сегодня резервное копирование - уже совсем не такая сложная задача, как раньше."
         },
         {
-          "de": "Sind Sie mit der Datensicherung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: резервное копирование данных?"
+          "de": "Zerstöre seinen Computer und jede Datensicherung, bevor du ihn tötest.",
+          "ru": "Уничтожь компьютер и все резервные файлы, перед тем, как убьешь его."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Datensicherung.",
-          "ru": "Сегодня мы концентрируемся на теме: резервное копирование данных."
+          "de": "Eine wurde zur Datensicherung aufbewahrt, die andere wurde als Ausgangspunkt für die nächste Stapelverarbeitung verwendet.",
+          "ru": "Один из них хранится для резервного копирования, а другой был использован в качестве отправной точки для работы на следующий день."
         },
         {
-          "de": "Die Datensicherung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Резервное копирование данных играет решающую роль в успехе."
+          "de": "Was ist mit Datensicherung?",
+          "ru": "А что на счёт запасного устройства?"
         }
       ],
       "synonyms": []
@@ -2846,24 +2466,24 @@
       "translation_en": "backup",
       "examples": [
         {
-          "de": "Hier ist das Backup.",
-          "ru": "Вот резервная копия."
+          "de": "Sagen Sie mir, dass Sie ein Backup Ihres Profils hatte...",
+          "ru": "Скажи мне, что у вас есть резервная копия профиля..."
         },
         {
-          "de": "Wir müssen das Backup genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: резервная копия."
+          "de": "Vielleicht gibt es ein Backup...",
+          "ru": "Возможно есть резервная копия..."
         },
         {
-          "de": "Sind Sie mit dem Backup einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: резервная копия?"
+          "de": "Sie entschuldigen, um den Baum jetzt oder ich rufe für das Backup.",
+          "ru": "Извинитесь перед деревом сейчас же, или я зову подкрепление."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Backup.",
-          "ru": "Сегодня мы концентрируемся на теме: резервная копия."
+          "de": "Okay, abbrechen Backup!",
+          "ru": "Ладно, отменить подкрепление!"
         },
         {
-          "de": "Das Backup spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Резервная копия играет решающую роль в успехе."
+          "de": "Ich prüfe das Backup.",
+          "ru": "Я проверю резервные копии."
         }
       ],
       "synonyms": []
@@ -2876,24 +2496,24 @@
       "translation_en": "to restore",
       "examples": [
         {
-          "de": "Wir wiederherstellen diese Angelegenheit direkt im Team.",
-          "ru": "Мы восстанавливать (из бэкапа) этот вопрос непосредственно в команде."
+          "de": "Aber wir können sie nachbilden und in einigen Fällen, wiederherstellen.",
+          "ru": "Но мы можем воссоздать, и в некоторых случаях, восстановить."
         },
         {
-          "de": "Ich wiederherstelle die notwendigen Unterlagen sofort.",
-          "ru": "Я восстанавливать (из бэкапа) необходимые документы незамедлительно."
+          "de": "Ich kann nicht wiederherstellen, was für sie nie vorgesehen war.",
+          "ru": "Я не могу восстановить то, на что у них не было прав."
         },
         {
-          "de": "Der verantwortliche Kollege wiederherstellt das Ganze sehr professionell.",
-          "ru": "Ответственный коллега восстанавливать (из бэкапа) всё это очень профессионально."
+          "de": "Wir werden wiederherstellen, was verloren gegangen ist und zur Normalität zurückkehren.",
+          "ru": "Мы будем восстанавливать то что было потеряно, и вернёмся к нормальной жизни."
         },
         {
-          "de": "Wir haben das Thema erfolgreich gewiederherstellt.",
-          "ru": "Мы успешно восстанавливать (из бэкапа) (в прошедшем времени) эту тему."
+          "de": "Zum Glück gibt es viele Software Anwendungen die Kennwörter wiederherstellen.",
+          "ru": "К счастью, имеется много программных приложений, которые умеют восстанавливать утерянные пароли."
         },
         {
-          "de": "wiederherstellen Sie bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: восстанавливать (из бэкапа) вовремя!"
+          "de": "Denkst du, dass du ihre Erinnerung wiederherstellen kannst?",
+          "ru": "Думаете, вы сможете вернуть ей память?"
         }
       ],
       "synonyms": [],
@@ -2917,24 +2537,24 @@
       "translation_en": "system outage / downtime",
       "examples": [
         {
-          "de": "Hier ist der Systemausfall.",
-          "ru": "Вот сбой / простой системы."
+          "de": "Soweit ich weiß, gab es auf der Station einen massiven Systemausfall.",
+          "ru": "Насколько я могу судить, на станции произошел массовый отказ систем."
         },
         {
-          "de": "Wir müssen den Systemausfall genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: сбой / простой системы."
+          "de": "Wir sehen uns gerade einen totalen Systemausfall an.",
+          "ru": "Полный отказ системы, вот на что мы имеем."
         },
         {
-          "de": "Sind Sie mit dem Systemausfall einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: сбой / простой системы?"
+          "de": "Sir, wir haben einen Systemausfall.",
+          "ru": "Сэр! У нас системный сбой."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Systemausfall.",
-          "ru": "Сегодня мы концентрируемся на теме: сбой / простой системы."
+          "de": "An jenem Tag, verwandelten sich diese Zahlen in Hieroglyphen, und als der letzte runterkam, fing hier alles an zu wackeln, und der Bildschirm... der Bildschirm füllte sich mit den Worten \"Systemausfall\".",
+          "ru": "В тот день цифры превратились в иероглифы и когда последний из них остановился, всё начало трястись, а экран... экран заполнила надпись \"отказ системы\"."
         },
         {
-          "de": "Der Systemausfall spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Сбой / простой системы играет решающую роль в успехе."
+          "de": "Könnte am Systemausfall liegen.",
+          "ru": "Я думаю, из-за поломки."
         }
       ],
       "synonyms": []
@@ -2947,24 +2567,24 @@
       "translation_en": "downtime",
       "examples": [
         {
-          "de": "Hier ist die Ausfallzeit.",
-          "ru": "Вот время простоя."
+          "de": "Ich schätze, Ihre Freundin wird eine Ausfallzeit danach brauchen?",
+          "ru": "твоей подруге нужно будет взять небольшой отгул после этого?"
         },
         {
-          "de": "Wir müssen die Ausfallzeit genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: время простоя."
+          "de": "Ausfallzeit ist wenn du in Schwierigkeiten kommst.",
+          "ru": "Тебе нельзя попадать в переделки."
         },
         {
-          "de": "Sind Sie mit der Ausfallzeit einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: время простоя?"
+          "de": "Wie immer können Debian-GNU/Linux-Systeme ziemlich problemlos auf den aktuellen Stand gebracht werden, direkt, ohne erzwungene Ausfallzeit. Es wird jedoch dringend empfohlen, die Veröffentlichungshinweise wegen möglicher Probleme zu lesen.",
+          "ru": "Как всегда, системы Debian GNU/Linux могут быть совершенно безболезненно обновлены на месте, без большого времени простоя, но всё же очень рекомендуется прочитать о возможных проблемах в замечаниях о выпуске."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Ausfallzeit.",
-          "ru": "Сегодня мы концентрируемся на теме: время простоя."
+          "de": "Ich, ähm, ich trage das Zeug mit mir rum, weil ich viel Ausfallzeit auf der Arbeit habe.",
+          "ru": "Я ношу эти инструменты с собой потому что на работе бывает много свободного времени."
         },
         {
-          "de": "Die Ausfallzeit spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Время простоя играет решающую роль в успехе."
+          "de": "Eine Benachrichtigung enthält den Namen der Website oder des Servers, den aktuellen Status, die Ausfallzeit in Ihrer lokalen Zeit und relevante Fehlerangaben.",
+          "ru": "Уведомление содержит название сайта или сервера, текущий статус, время возникновения неполадки (ваше местное) и описание ошибки."
         }
       ],
       "synonyms": []
@@ -2977,24 +2597,12 @@
       "translation_en": "recovery time",
       "examples": [
         {
-          "de": "Hier ist die Wiederherstellungszeit.",
-          "ru": "Вот время восстановления (RTO)."
+          "de": "Die maximale Wiederherstellungszeit im Katastrophenfall beträgt vier Stunden.",
+          "ru": "Максимальное время восстановления в случае катастрофы составляет четыре часа."
         },
         {
-          "de": "Wir müssen die Wiederherstellungszeit genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: время восстановления (RTO)."
-        },
-        {
-          "de": "Sind Sie mit der Wiederherstellungszeit einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: время восстановления (RTO)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Wiederherstellungszeit.",
-          "ru": "Сегодня мы концентрируемся на теме: время восстановления (RTO)."
-        },
-        {
-          "de": "Die Wiederherstellungszeit spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Время восстановления (RTO) играет решающую роль в успехе."
+          "de": "Wir testen die Wiederherstellungszeit bei unserer jährlichen Notfallübung.",
+          "ru": "Мы тестируем время восстановления во время ежегодных учений по чрезвычайным ситуациям."
         }
       ],
       "synonyms": []
@@ -3007,24 +2615,12 @@
       "translation_en": "disaster recovery planning",
       "examples": [
         {
-          "de": "Hier ist die Katastrophenfall-Vorsorge.",
-          "ru": "Вот планирование аварийного восстановления."
+          "de": "Die Katastrophenfall-Vorsorge sieht tägliche Backups an einem separaten Standort vor.",
+          "ru": "Аварийное планирование предусматривает ежедневное резервное копирование в отдельном месте."
         },
         {
-          "de": "Wir müssen die Katastrophenfall-Vorsorge genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: планирование аварийного восстановления."
-        },
-        {
-          "de": "Sind Sie mit der Katastrophenfall-Vorsorge einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: планирование аварийного восстановления?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Katastrophenfall-Vorsorge.",
-          "ru": "Сегодня мы концентрируемся на теме: планирование аварийного восстановления."
-        },
-        {
-          "de": "Die Katastrophenfall-Vorsorge spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Планирование аварийного восстановления играет решающую роль в успехе."
+          "de": "Ein wichtiger Teil der Katastrophenfall-Vorsorge ist der Disaster-Recovery-Plan.",
+          "ru": "Важной частью планирования действий на случай чрезвычайных ситуаций является план аварийного восстановления."
         }
       ],
       "synonyms": []
@@ -3037,24 +2633,24 @@
       "translation_en": "data loss",
       "examples": [
         {
-          "de": "Hier ist der Datenverlust.",
-          "ru": "Вот потеря данных."
+          "de": "Möchten Sie die Datei wirklich schließen? Es kann zu Datenverlust kommen.",
+          "ru": "Закрыть этот файл? Возможна потеря данных."
         },
         {
-          "de": "Wir müssen den Datenverlust genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: потеря данных."
+          "de": "Verbindungsunterbrechungen führen nicht mehr zu Datenverlust.",
+          "ru": "Потеря соединения больше не приводит к потере данных."
         },
         {
-          "de": "Sind Sie mit dem Datenverlust einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: потеря данных?"
+          "de": "Dies bedeutet, dass es höchstwahrscheinlich instabil oder fehlerhaft ist und sogar Datenverlust verursachen kann.",
+          "ru": "Это означает, что он нестабилен или содержит ошибки, и даже может вызвать потерю данных."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Datenverlust.",
-          "ru": "Сегодня мы концентрируемся на теме: потеря данных."
+          "de": "Es könne zu Datenverlust kommen.",
+          "ru": "Приводит к потере данных."
         },
         {
-          "de": "Der Datenverlust spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Потеря данных играет решающую роль в успехе."
+          "de": "Geben Sie eine kleinere Anzahl von Zeilen an, als im benutzten Vokabeldokument vorhanden sind, so kann das zum Datenverlust führen.",
+          "ru": "Если вы по ошибке недовведёте цифру и количество рядов окажется меньше текущего, возможна потеря данных."
         }
       ],
       "synonyms": []
@@ -3067,24 +2663,12 @@
       "translation_en": "authorization concept",
       "examples": [
         {
-          "de": "Hier ist das Berechtigungskonzept.",
-          "ru": "Вот концепция полномочий (прав доступа)."
+          "de": "Das neue Berechtigungskonzept schützt sensible Personaldaten vor unbefugtem Zugriff.",
+          "ru": "Новая концепция полномочий защищает конфиденциальные данные персонала от несанкционированного доступа."
         },
         {
-          "de": "Wir müssen das Berechtigungskonzept genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: концепция полномочий (прав доступа)."
-        },
-        {
-          "de": "Sind Sie mit dem Berechtigungskonzept einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: концепция полномочий (прав доступа)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Berechtigungskonzept.",
-          "ru": "Сегодня мы концентрируемся на теме: концепция полномочий (прав доступа)."
-        },
-        {
-          "de": "Das Berechtigungskonzept spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Концепция полномочий (прав доступа) играет решающую роль в успехе."
+          "de": "Der Sicherheitsbeauftragte muss das Berechtigungskonzept genehmigen.",
+          "ru": "Сотрудник по безопасности должен утвердить концепцию полномочий."
         }
       ],
       "synonyms": []

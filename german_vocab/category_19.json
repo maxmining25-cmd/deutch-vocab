@@ -9,24 +9,24 @@
       "translation_en": "apartment / flat",
       "examples": [
         {
-          "de": "Hier ist die Wohnung.",
-          "ru": "Вот квартира."
+          "de": "Nun, das ist meine Wohnung nicht mehr da, weil ich trank.",
+          "ru": "Ну, моя квартира больше не здесь ведь я пропил её."
         },
         {
-          "de": "Wir müssen die Wohnung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: квартира."
+          "de": "Dann gehen wir zu ihr, sie hat eine grossartige Wohnung.",
+          "ru": "Потом едем к ней домой. А у нее очень крутая квартира."
         },
         {
-          "de": "Sind Sie mit der Wohnung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: квартира?"
+          "de": "Und bitte, sag nichts, bis ich eine Wohnung finde.",
+          "ru": "Пожалуйста, не говори ничего, пока я не найду дом."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Wohnung.",
-          "ru": "Сегодня мы концентрируемся на теме: квартира."
+          "de": "Während du sie beschäftigt hältst, werden wir ihre Wohnung durchsuchen.",
+          "ru": "Пока ты будешь ее занимать, мы обыщем ее дом."
         },
         {
-          "de": "Die Wohnung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Квартира играет решающую роль в успехе."
+          "de": "Zumindest wissen wir, dass sie die Wohnung nicht ausraubt.",
+          "ru": "Теперь мы хотя бы знаем, что она не грабит это место."
         }
       ],
       "synonyms": [
@@ -43,24 +43,24 @@
       "translation_en": "house",
       "examples": [
         {
-          "de": "Hier ist das Haus.",
-          "ru": "Вот дом."
+          "de": "Wir werden zu ihrem Haus gehen, um danach zu suchen.",
+          "ru": "Мы отправимся к ней в дом, чтобы отыскать её."
         },
         {
-          "de": "Wir müssen das Haus genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: дом."
+          "de": "Er wurde zu meinem, als er in mein Haus kam.",
+          "ru": "Он сделал её моей когда вломился ко мне в дом."
         },
         {
-          "de": "Sind Sie mit dem Haus einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: дом?"
+          "de": "Ich habe ein sicheres Haus eingerichtet, wo wir ihn ausfragen können.",
+          "ru": "Я подготовила безопасное место... где мы сможем выслушать его."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Haus.",
-          "ru": "Сегодня мы концентрируемся на теме: дом."
+          "de": "Sie hat viel für das Haus bezahlt, sollte es auch sehen können.",
+          "ru": "Она достаточно платит за это место, чтобы видеть все вокруг."
         },
         {
-          "de": "Das Haus spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Дом играет решающую роль в успехе."
+          "de": "Also ich denke, dass wir dieses Haus nicht kaufen sollten.",
+          "ru": "Я уже сомневаюсь, что нам стоит покупать этот дом."
         }
       ],
       "synonyms": []
@@ -73,24 +73,24 @@
       "translation_en": "rent",
       "examples": [
         {
-          "de": "Hier ist die Miete.",
-          "ru": "Вот арендная плата / аренда."
+          "de": "Wenn die Miete nicht bezahlt wird, tun Anwälte diese Dinge automatisch.",
+          "ru": "Когда аренда не оплачена, адвокаты действуют автоматически."
         },
         {
-          "de": "Wir müssen die Miete genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: арендная плата / аренда."
+          "de": "In der Stadt ist die Miete zu hoch.",
+          "ru": "Нет, аренда в городе слишком высока."
         },
         {
-          "de": "Sind Sie mit der Miete einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: арендная плата / аренда?"
+          "de": "Schließlich muss ich die Miete bald alleine zahlen, dank Ihnen.",
+          "ru": "К тому же, скоро мне одному платить ренту, благодаря вам."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Miete.",
-          "ru": "Сегодня мы концентрируемся на теме: арендная плата / аренда."
+          "de": "Er bezahlte meine Miete, als ich auf meinen ersten Scheck wartete.",
+          "ru": "Платил мою ренту, пока я ждала первый гонорар."
         },
         {
-          "de": "Die Miete spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Арендная плата / аренда играет решающую роль в успехе."
+          "de": "Du bezahlst keine Miete, also hast du ziemlich viel Geld übrig.",
+          "ru": "Ты не платишь квартплату, так что у тебя есть куча свободных денег."
         }
       ],
       "synonyms": [
@@ -106,24 +106,24 @@
       "translation_en": "base rent",
       "examples": [
         {
-          "de": "Hier ist die Kaltmiete.",
-          "ru": "Вот базовая арендная плата (без коммунальных услуг)."
+          "de": "die monatliche, durchschnittliche, reine Kaltmiete",
+          "ru": "ежемесячная, средняя, ​​базовая арендная плата"
         },
         {
-          "de": "Wir müssen die Kaltmiete genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: базовая арендная плата (без коммунальных услуг)."
+          "de": "die Kaltmiete beträgt, liegt bei [500 Euro]",
+          "ru": "Базовая арендная плата составляет [500 евро]"
         },
         {
-          "de": "Sind Sie mit der Kaltmiete einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: базовая арендная плата (без коммунальных услуг)?"
+          "de": "In Hamburg mit einem Gesamtangebot von 1231 Wohnungen lag die Kaltmiete bei 254 Wohnungen oberhalb von 1500 Euro, lediglich 104 Wohnungen wurden für weniger als 500 Euro kalt offeriert.",
+          "ru": "В Гамбурге при общем предложении в 1231 квартиру базовая арендная плата за 254 квартиры превышала 1500 евро, только 104 квартиры предлагались менее чем за 500 евро."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Kaltmiete.",
-          "ru": "Сегодня мы концентрируемся на теме: базовая арендная плата (без коммунальных услуг)."
+          "de": "Vermieter können bis zu drei Kaltmieten als Kaution verlangen.",
+          "ru": "Арендодатели могут взимать до трех арендных платежей в качестве залога."
         },
         {
-          "de": "Die Kaltmiete spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Базовая арендная плата (без коммунальных услуг) играет решающую роль в успехе."
+          "de": "Die Kosten darf der Vermieter erst später teilweise auf die Kaltmieten umlegen; die Motivation für Investitionen bleibt entsprechend gering.",
+          "ru": "Только позже арендодатель может переложить часть расходов на основную арендную плату; Мотивация инвестиций остается соответственно низкой."
         }
       ],
       "synonyms": []
@@ -136,24 +136,20 @@
       "translation_en": "rent including heating",
       "examples": [
         {
-          "de": "Hier ist die Warmmiete.",
-          "ru": "Вот арендная плата с коммунальными услугами."
+          "de": "Die Warmmiete für die 82‑Quadratmeter‑Wohnung dagegen kostet heute 1400 Mark, 300 Mark mehr als noch vor zwei Jahren.",
+          "ru": "Напротив, арендная плата за квартиру площадью 82 квадратных метра сейчас стоит 1400 марок, что на 300 марок больше, чем два года назад."
         },
         {
-          "de": "Wir müssen die Warmmiete genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: арендная плата с коммунальными услугами."
+          "de": "Üblich ist, die Warmmiete plus minus 50 Mark zu verlangen.",
+          "ru": "Обычно арендная плата взимается плюс минус 50 марок."
         },
         {
-          "de": "Sind Sie mit der Warmmiete einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: арендная плата с коммунальными услугами?"
+          "de": "Diese sind für eine Warmmiete von 640 Euro im Angebot.",
+          "ru": "Они предлагаются за аренду в размере 640 евро."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Warmmiete.",
-          "ru": "Сегодня мы концентрируемся на теме: арендная плата с коммунальными услугами."
-        },
-        {
-          "de": "Die Warmmiete spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Арендная плата с коммунальными услугами играет решающую роль в успехе."
+          "de": "Soviel hätten sie bei etwa 15 Mark / qm Warmmiete bis heute zahlen müssen.",
+          "ru": "Именно столько им пришлось бы платить до сих пор, если бы арендная плата составляла около 15 марок за квадратный метр."
         }
       ],
       "synonyms": []
@@ -166,24 +162,24 @@
       "translation_en": "utility costs",
       "examples": [
         {
-          "de": "Hier sind die Nebenkosten.",
-          "ru": "Вот коммунальные услуги / дополнительные расходы."
+          "de": "Und bitte vergessen Sie nicht die Nebenkosten.",
+          "ru": "И вы не должны забыть про дополнительные затраты."
         },
         {
-          "de": "Wir müssen die Nebenkosten genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: коммунальные услуги / дополнительные расходы."
+          "de": "2.250 $ im Monat, plus Nebenkosten.",
+          "ru": "2,250 в месяц, плюс коммунальные услуги."
         },
         {
-          "de": "Sind Sie mit den Nebenkosten einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: коммунальные услуги / дополнительные расходы?"
+          "de": "Es kommt 650$, inklusive Nebenkosten.",
+          "ru": "650 долларов, включая коммунальные услуги."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Nebenkosten.",
-          "ru": "Сегодня мы концентрируемся на теме: коммунальные услуги / дополнительные расходы."
+          "de": "Samt Nebenkosten und Grundsteuer?",
+          "ru": "Коммунальные услуги, налоги..."
         },
         {
-          "de": "Die Nebenkosten spielen eine entscheidende Rolle für den Erfolg.",
-          "ru": "Коммунальные услуги / дополнительные расходы играет решающую роль в успехе."
+          "de": "Kabelfernsehen, Miete, Nebenkosten.",
+          "ru": "Кабельное, рента, коммунальные услуги."
         }
       ],
       "synonyms": []
@@ -196,24 +192,24 @@
       "translation_en": "operating costs",
       "examples": [
         {
-          "de": "Hier sind die Betriebskosten.",
-          "ru": "Вот эксплуатационные расходы."
+          "de": "Austauschbare Bezüge vereinfachen die Wartung und senken die Betriebskosten.",
+          "ru": "Заменяемые чехлы упрощают обслуживание и снижают эксплуатационные расходы."
         },
         {
-          "de": "Wir müssen die Betriebskosten genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: эксплуатационные расходы."
+          "de": "Aber der Hauptgrund war das Rekordhoch Ölpreis steigt, möglicherweise durch geringere Umsätze und höhere Betriebskosten gemildert.",
+          "ru": "Но главной причиной является рекордным повышением цен на нефть, потенциально смягчен снижением продаж и более высокие эксплуатационные расходы."
         },
         {
-          "de": "Sind Sie mit den Betriebskosten einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: эксплуатационные расходы?"
+          "de": "Der Umsatz steigt zwar von Jahr zu Jahr, aber die Betriebskosten sind höher als je zuvor.",
+          "ru": "Из года в год наши доходы растут, но максимально высоки и операционные расходы."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Betriebskosten.",
-          "ru": "Сегодня мы концентрируемся на теме: эксплуатационные расходы."
+          "de": "Wenn wir dann FunSpace Yonkers eröffnen, werden dort alle Betriebskosten von der Hauptfiliale gedeckt.",
+          "ru": "На операционные расходы этого центра будем тратить не много, когда мы откроем филиал в Йонкерсе... все операционные расходы филиала будут покрывать доходы от основного центра."
         },
         {
-          "de": "Die Betriebskosten spielen eine entscheidende Rolle für den Erfolg.",
-          "ru": "Эксплуатационные расходы играет решающую роль в успехе."
+          "de": "Die zweite Vereinbarung also war, dass die Freiheit, die wir ermöglichten, die Fähigkeit, zwischen verschiedenen Bühnenformen zu wechseln, realisierbar sein musste, ohne sich in den Betriebskosten niederzuschlagen.",
+          "ru": "Итак, вторая позиция, которую мы заняли, заключалась в том, что предоставляемые нами возможности, возможность переключаться между конфигурациями сцены должна была бы осуществляться без опоры на эксплуатационные расходы."
         }
       ],
       "synonyms": []
@@ -226,24 +222,24 @@
       "translation_en": "heating costs",
       "examples": [
         {
-          "de": "Hier sind die Heizkosten.",
-          "ru": "Вот расходы на отопление."
+          "de": "Gleichzeitig sollte die EU dazu beitragen, die Ursache dieser außergewöhnlich hohen Heizkosten zu bekämpfen: nämlich die miserable Energieeffizienz eines Großteils des Gebäudebestandes.",
+          "ru": "В то же время, ЕС должен помочь в устранении причины чрезмерных расходов на отопление: печальной энергетической неэффективности большей части существующего жилищного фонда."
         },
         {
-          "de": "Wir müssen die Heizkosten genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: расходы на отопление."
+          "de": "Vorzüglich für Passivhäuser geeignetes Profil SI82, zwei Dichtungsniveaus und Dreischeibenpaket haben deutlichen Einfluss auf die Heizkosten, schützen vor Wettereinflüssen und sind umweltfreundlicher.",
+          "ru": "Идеальный для пассивных домов профиль SI82, два уровня уплотнения, а также двухкамерный стеклопакет значительно способствуют снижению расходов на отопление, защищают от воздействия неблагоприятных атмосферных явлений и способствуют бережному отношению к окружающей среде."
         },
         {
-          "de": "Sind Sie mit den Heizkosten einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: расходы на отопление?"
+          "de": "Die sehen wie richtige Fenster aus... aber wir sparen damit vier Prozent Heizkosten.",
+          "ru": "Они выглядят, как обычные но экономят 4 процента на плате за отопление..."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Heizkosten.",
-          "ru": "Сегодня мы концентрируемся на теме: расходы на отопление."
+          "de": "Wir steckten nicht in diesem Schlamassel, wenn du einfach die Heizkosten beglichen hättest.",
+          "ru": "Мы бы сейчас не тряслись, если бы ты просто заплатил за отопление."
         },
         {
-          "de": "Die Heizkosten spielen eine entscheidende Rolle für den Erfolg.",
-          "ru": "Расходы на отопление играет решающую роль в успехе."
+          "de": "Das Haus hat über 200 Zimmer, die meisten ungenutzt, um Heizkosten zu sparen.",
+          "ru": "Почти все 200 комнат закрыты, чтобы сберечь тепло."
         }
       ],
       "synonyms": []
@@ -256,24 +252,24 @@
       "translation_en": "deposit",
       "examples": [
         {
-          "de": "Hier ist die Kaution.",
-          "ru": "Вот залог (при аренде квартиры)."
+          "de": "Und meine Kaution wurde bezahlt, das Geld sollte zurückgegeben werden.",
+          "ru": "И мой залог был заплачен, так что эти деньги должны быть возвращены."
         },
         {
-          "de": "Wir müssen die Kaution genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: залог (при аренде квартиры)."
+          "de": "Oder seine Kaution ist verloren und ich schulde dem Gericht eine Million Dollar.",
+          "ru": "Или залог пропадет и я буду должна суду миллион баксов."
         },
         {
-          "de": "Sind Sie mit der Kaution einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: залог (при аренде квартиры)?"
+          "de": "Meine Kaution für die neue Wohnung ging flöten.",
+          "ru": "У меня был депозит за квартиру, который я потерял."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Kaution.",
-          "ru": "Сегодня мы концентрируемся на теме: залог (при аренде квартиры)."
+          "de": "Er hält meine Sachen auf Kaution, bis ich ihm die Schlüssel wiedergebe.",
+          "ru": "Он отказывался вернуть мне задаток, пока я не отдала ему все ключи."
         },
         {
-          "de": "Die Kaution spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Залог (при аренде квартиры) играет решающую роль в успехе."
+          "de": "Art bezahlte seine Kaution und die Miete für den nächsten Monat in bar.",
+          "ru": "Арт внес задаток и заплатил наличкой за следующий месяц."
         }
       ],
       "synonyms": []
@@ -286,24 +282,24 @@
       "translation_en": "lease / rental agreement",
       "examples": [
         {
-          "de": "Hier ist der Mietvertrag.",
-          "ru": "Вот договор аренды квартиры."
+          "de": "Ich bin hier, um diesen Mietvertrag zu bestätigen, ich wäre gerne durch, bevor der Eingang einbricht.",
+          "ru": "Я здесь, чтобы проверить аренду, и хотелось бы успеть до того, как этот дверной проём обвалится."
         },
         {
-          "de": "Wir müssen den Mietvertrag genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: договор аренды квартиры."
+          "de": "Du hast dich um den Mietvertrag beworben.",
+          "ru": "Ты подала заявку на аренду?"
         },
         {
-          "de": "Sind Sie mit dem Mietvertrag einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: договор аренды квартиры?"
+          "de": "Ich habe den Mietvertrag heute Morgen unterschrieben.",
+          "ru": "Я подписал договор аренды сегодня утром."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Mietvertrag.",
-          "ru": "Сегодня мы концентрируемся на теме: договор аренды квартиры."
+          "de": "Sag jetzt nicht dass du den Mietvertrag schon unterschrieben hast",
+          "ru": "Только... не говори мне, что подписал договор аренды."
         },
         {
-          "de": "Der Mietvertrag spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Договор аренды квартиры играет решающую роль в успехе."
+          "de": "Ich habe grade den Mietvertrag unterschrieben.",
+          "ru": "Я только что подписал договор об аренде."
         }
       ],
       "synonyms": []
@@ -316,24 +312,24 @@
       "translation_en": "landlord",
       "examples": [
         {
-          "de": "Hier ist der Vermieter.",
-          "ru": "Вот арендодатель."
+          "de": "Ihr Vermieter wurde diese Woche tot aufgefunden.",
+          "ru": "Ваш домовладелец был найден мёртвым на этой неделе."
         },
         {
-          "de": "Wir müssen den Vermieter genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: арендодатель."
+          "de": "Sie meinen, ich weiß jetzt, wer der Vermieter ist?",
+          "ru": "Вы имеете в виду, что я узнала наконец, кто наш домовладелец?"
         },
         {
-          "de": "Sind Sie mit dem Vermieter einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: арендодатель?"
+          "de": "Ihr Vermieter hat seinen Antrag mit dem Namen seines Hundes ausgefüllt?",
+          "ru": "Твой арендодатель заполнил заявление на ипотеку, используя имя своей собаки?"
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Vermieter.",
-          "ru": "Сегодня мы концентрируемся на теме: арендодатель."
+          "de": "Wir hatten also dieses Gebäude, wir mieteten es, der Vermieter unterstütze uns.",
+          "ru": "Итак, мы арендовали здание, арендодатель поддержал нашу идею."
         },
         {
-          "de": "Der Vermieter spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Арендодатель играет решающую роль в успехе."
+          "de": "Er ist der großzügigste Schwager und schlechteste Vermieter der Welt.",
+          "ru": "Он самый щедрый зять и худший хозяин на планете."
         }
       ],
       "synonyms": [
@@ -349,24 +345,24 @@
       "translation_en": "female landlord",
       "examples": [
         {
-          "de": "Hier ist die Vermieterin.",
-          "ru": "Вот арендодательница."
+          "de": "Meine Vermieterin kann es einfach nicht lassen.",
+          "ru": "Это моя домовладелица, она никак не оставит меня в покое."
         },
         {
-          "de": "Wir müssen die Vermieterin genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: арендодательница."
+          "de": "Ich sehe mich gerne als zugängliche Vermieterin.",
+          "ru": "Мне нравится думать, что я доступная домовладелица."
         },
         {
-          "de": "Sind Sie mit der Vermieterin einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: арендодательница?"
+          "de": "Das hier ist die Vermieterin. Sie kennt den Verdächtigen.",
+          "ru": "Это хозяйка, она знает подозреваемого."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Vermieterin.",
-          "ru": "Сегодня мы концентрируемся на теме: арендодательница."
+          "de": "Sie meinen, die Vermieterin benutzt sie als Lockvogel?",
+          "ru": "Вы думаете, что хозяйка использует их как приманку?"
         },
         {
-          "de": "Die Vermieterin spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Арендодательница играет решающую роль в успехе."
+          "de": "Ihre Vermieterin hat gerade angerufen.",
+          "ru": "Только что звонил твой арендодатель."
         }
       ],
       "synonyms": []
@@ -379,24 +375,24 @@
       "translation_en": "tenant",
       "examples": [
         {
-          "de": "Hier ist der Mieter.",
-          "ru": "Вот арендатор / жилец."
+          "de": "Und mein Mieter zieht Ende des Monats aus.",
+          "ru": "А ещё мой арендатор в конце месяца съезжает."
         },
         {
-          "de": "Wir müssen den Mieter genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: арендатор / жилец."
+          "de": "Wir haben einen Mieter, dessen Mitvertrag vor drei Jahren ausgelaufen ist.",
+          "ru": "У нас есть арендатор, срок аренды которого истек З года назад."
         },
         {
-          "de": "Sind Sie mit dem Mieter einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: арендатор / жилец?"
+          "de": "Es riecht, als hätte der letzte Mieter Affen gehalten oder so.",
+          "ru": "Пахнет, словно предыдущий жилец держал здесь обезьян или что-то вроде этого."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Mieter.",
-          "ru": "Сегодня мы концентрируемся на теме: арендатор / жилец."
+          "de": "Ich erinnere dich daran, dass wir seit Wochen keine Mieter da oben hatten.",
+          "ru": "Позволь напомнить тебе, что уже недели прошли, с тех пор как у нас появился жилец."
         },
         {
-          "de": "Der Mieter spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Арендатор / жилец играет решающую роль в успехе."
+          "de": "Wie es jeder andere unabhängige, mündige erwachsene Mieter tun würde.",
+          "ru": "Как любой другой независимый, зрелый, взрослый съемщик?"
         }
       ],
       "synonyms": [
@@ -411,24 +407,24 @@
       "translation_en": "female tenant",
       "examples": [
         {
-          "de": "Hier ist die Mieterin.",
-          "ru": "Вот арендаторша."
+          "de": "Ich wusste nicht, dass er eine Mieterin hat.",
+          "ru": "Не знала, что у него есть арендатор."
         },
         {
-          "de": "Wir müssen die Mieterin genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: арендаторша."
+          "de": "Sie ist aber nicht nur deine Mieterin.",
+          "ru": "Все же она не только твой арендатор."
         },
         {
-          "de": "Sind Sie mit der Mieterin einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: арендаторша?"
+          "de": "Wann ist noch mal die letzte Mieterin ausgezogen?",
+          "ru": "Ну так, Эд, когда съехал последний жилец?"
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Mieterin.",
-          "ru": "Сегодня мы концентрируемся на теме: арендаторша."
+          "de": "Ihre Mieterin Mrs. Rodriguez hat wegen ihrer Toilette angerufen.",
+          "ru": "Ваш жилец миссис Родригез снова звонила по поводу своего туалета."
         },
         {
-          "de": "Die Mieterin spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Арендаторша играет решающую роль в успехе."
+          "de": "Gute Mieterin, machte keinen Ärger.",
+          "ru": "Хороший съемщик, никаких проблем."
         }
       ],
       "synonyms": []
@@ -441,24 +437,24 @@
       "translation_en": "registration",
       "examples": [
         {
-          "de": "Hier ist die Anmeldung.",
-          "ru": "Вот регистрация / прописка."
+          "de": "Keine Ahnung, ob hier die Anmeldung ist.",
+          "ru": "Не знаю, где тут регистрация."
         },
         {
-          "de": "Wir müssen die Anmeldung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: регистрация / прописка."
+          "de": "Das Fahrzeug, die Lizenz, die Anmeldung...",
+          "ru": "Технический осмотр, лицензия, регистрация..."
         },
         {
-          "de": "Sind Sie mit der Anmeldung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: регистрация / прописка?"
+          "de": "Ich habe gesehen, dass deine Anmeldung für gemeinsames Wohnen bewilligt wurde.",
+          "ru": "Я заметил, что твоё заявление о совместном проживании одобрили."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Anmeldung.",
-          "ru": "Сегодня мы концентрируемся на теме: регистрация / прописка."
+          "de": "Hier ist eine Anmeldung und ein paar Psychotests.",
+          "ru": "Вот заявление и два психологических теста."
         },
         {
-          "de": "Die Anmeldung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Регистрация / прописка играет решающую роль в успехе."
+          "de": "Ich habe es vermasselt, als ich die vorrangige Anmeldung versprach.",
+          "ru": "Я навел шуму, когда пообещал приоритетную регистрацию."
         }
       ],
       "synonyms": [
@@ -475,24 +471,24 @@
       "translation_en": "to register",
       "examples": [
         {
-          "de": "Wir melden an uns diese Angelegenheit direkt im Team.",
-          "ru": "Мы регистрироваться / прописываться этот вопрос непосредственно в команде."
+          "de": "Um die Internet-Vertretung zu schaffen, braucht der Mitarbeiter Ihres Unternehmens keine Spezialkenntnisse - soll man nur sich anmelden und die Form der Ergänzung des Unternehmens und des Kataloges der Produktion ausfüllen.",
+          "ru": "Для его создания, сотруднику Вашей компании не нужно иметь специальных знаний - нужно всего лишь зарегистрироваться, заполнить форму добавления компании и каталога продукции."
         },
         {
-          "de": "Ich melde an mich die notwendigen Unterlagen sofort.",
-          "ru": "Я регистрироваться / прописываться необходимые документы незамедлительно."
+          "de": "Einkaufswagen anzeigen Für vollen Zugang müssen Sie sich anmelden.",
+          "ru": "Показать корзину Для полного доступа вам нужно зарегистрироваться."
         },
         {
-          "de": "Der verantwortliche Kollege meldet an sich das Ganze sehr professionell.",
-          "ru": "Ответственный коллега регистрироваться / прописываться всё это очень профессионально."
+          "de": "Ich glaube, dass standardmäßig nicht festgelegt Jamendo Album-Download, und wenn Sie sich anmelden Sie nimmt den Schutz Ihrer Präferenzen und dann macht Sie der Download ohne Probleme.",
+          "ru": "Я считаю, что по умолчанию не указывать Jamendo альбом загрузки, и когда вы войти в вас принимает ваши предпочтения, а затем заставляет вас делать скачать без проблем."
         },
         {
-          "de": "Wir haben das Thema erfolgreich uns angemeldet.",
-          "ru": "Мы успешно регистрироваться / прописываться (в прошедшем времени) эту тему."
+          "de": "Für diese Funktionen müssen Sie ein PlayStationNetwork-Konto erstellen (sich anmelden).",
+          "ru": "Для доступа к этим возможностям необходимо создать учетную запись (зарегистрироваться) в PlayStationNetwork."
         },
         {
-          "de": "melden Sie an sich bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: регистрироваться / прописываться вовремя!"
+          "de": "Um dieses Modell bewerten zu können, müssen Sie sich anmelden oder ein Konto anlegen.",
+          "ru": "Для оценки этой модели необходимо выполнить вход или создать аккаунт."
         }
       ],
       "synonyms": [],
@@ -519,24 +515,24 @@
       "translation_en": "re-registration",
       "examples": [
         {
-          "de": "Hier ist die Ummeldung.",
-          "ru": "Вот перерегистрация / смена адреса."
+          "de": "Wir bekamen eine Meldung rein, dass die Botschaft abgeriegelt ist.",
+          "ru": "Мы получили сообщение, что посольство оцеплено."
         },
         {
-          "de": "Wir müssen die Ummeldung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: перерегистрация / смена адреса."
+          "de": "Wir haben eine dringende Meldung für das Oberkommando.",
+          "ru": "У нас есть срочное сообщение для высшего командования."
         },
         {
-          "de": "Sind Sie mit der Ummeldung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: перерегистрация / смена адреса?"
+          "de": "Nach Ablauf dieses Zeitraums können wir Ihre Meldung nicht mehr bearbeiten.",
+          "ru": "По истечении этого срока мы не сможем рассмотреть Ваше заявление."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Ummeldung.",
-          "ru": "Сегодня мы концентрируемся на теме: перерегистрация / смена адреса."
+          "de": "Wenn eine Extension nicht heruntergeladen werden kann, wird eine Meldung angezeigt.",
+          "ru": "Если расширение не может быть загружено, выводится соответствующее сообщение."
         },
         {
-          "de": "Die Ummeldung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Перерегистрация / смена адреса играет решающую роль в успехе."
+          "de": "Vielleicht ist dies eine Meldung aus dem Jenseits.",
+          "ru": "Может, это сообщение с того света."
         }
       ],
       "synonyms": []
@@ -549,24 +545,24 @@
       "translation_en": "deregistration",
       "examples": [
         {
-          "de": "Hier ist die Abmeldung.",
-          "ru": "Вот выписка / снятие с регистрационного учета."
+          "de": "Ich Abmeldung auf Ihrem intern Stunden.",
+          "ru": "Я проставлю вам часы отработки."
         },
         {
-          "de": "Wir müssen die Abmeldung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: выписка / снятие с регистрационного учета."
+          "de": "Ich Abmeldung auf Ihrem intern Stunden.",
+          "ru": "Позволил тебе придти на работу."
         },
         {
-          "de": "Sind Sie mit der Abmeldung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: выписка / снятие с регистрационного учета?"
+          "de": "Der Eingang des Signales in das telefonische Netzwerk und seine Abmeldung stammen praktisch gleichzeitig, was zuläßt, das vollwertige Gespräch zu versorgen.",
+          "ru": "Вход сигнала в телефонную сеть и его выход происходят практически одновременно, что позволяет обеспечить полноценный разговор."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Abmeldung.",
-          "ru": "Сегодня мы концентрируемся на теме: выписка / снятие с регистрационного учета."
+          "de": "Nach dieser Aktualisierung ist eine Abmeldung und Wiederanmeldung am System erforderlich",
+          "ru": "Вам необходимо будет выйти из системы и зарегистрироваться в системе снова"
         },
         {
-          "de": "Die Abmeldung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Выписка / снятие с регистрационного учета играет решающую роль в успехе."
+          "de": "Wenn du Probleme bei der An- oder Abmeldung hast, kann es helfen, wenn du die Cookies des Boards löscht.",
+          "ru": "Если у вас имеются проблемы с входом или с выходом из форума, то функция удаления cookies может помочь в решении этой проблемы."
         }
       ],
       "synonyms": []
@@ -579,24 +575,24 @@
       "translation_en": "moving in",
       "examples": [
         {
-          "de": "Hier ist der Einzug.",
-          "ru": "Вот заселение / въезд в квартиру."
+          "de": "Hier legen Sie die Einstellungen für Einzug, Abstände und Ausrichtung von Aufzählungen fest.",
+          "ru": "Задает отступ, интервал и параметры выравнивания для нумерованного или маркированного списка."
         },
         {
-          "de": "Wir müssen den Einzug genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: заселение / въезд в квартиру."
+          "de": "Um den Einzug für die erste Zeile eines ausgewählten Absatzes zu ändern, ziehen Sie das obere linke Dreieck auf dem horizontalen Lineal an eine neue Position.",
+          "ru": "Чтобы изменить отступ первой строки выбранного абзаца, перетащите левый верхний треугольник на горизонтальной линейке в нужное положение."
         },
         {
-          "de": "Sind Sie mit dem Einzug einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: заселение / въезд в квартиру?"
+          "de": "Ich weiß nicht, ob dein Einzug hier eine gute Idee ist.",
+          "ru": "Думаю, твой переезд сюда - не очень удачная идея."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Einzug.",
-          "ru": "Сегодня мы концентрируемся на теме: заселение / въезд в квартиру."
+          "de": "Du bietest an, jedem beim Einzug zu helfen?",
+          "ru": "Предлагаешь всем помощь с переездом?"
         },
         {
-          "de": "Der Einzug spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Заселение / въезд в квартиру играет решающую роль в успехе."
+          "de": "Hat Jeanne nichts von meinem Einzug erwähnt?",
+          "ru": "Жанна не предупредила тебя о моем переезде?"
         }
       ],
       "synonyms": []
@@ -609,24 +605,24 @@
       "translation_en": "to move in",
       "examples": [
         {
-          "de": "Wir ziehen ein diese Angelegenheit direkt im Team.",
-          "ru": "Мы въезжать (в новую квартиру) этот вопрос непосредственно в команде."
+          "de": "Hör zu, ich finde, du solltest wieder bei mir einziehen.",
+          "ru": "Послушай, я думаю, что ты должна переехать ко мне снова."
         },
         {
-          "de": "Ich ziehe ein die notwendigen Unterlagen sofort.",
-          "ru": "Я въезжать (в новую квартиру) необходимые документы незамедлительно."
+          "de": "Vielleicht kann sie bei dir einziehen, wenn wir alle gehen.",
+          "ru": "Может, ей переехать к тебе, когда мы все уедем."
         },
         {
-          "de": "Der verantwortliche Kollege zieht ein das Ganze sehr professionell.",
-          "ru": "Ответственный коллега въезжать (в новую квартиру) всё это очень профессионально."
+          "de": "Ich dachte, vielleicht sollte ich wieder bei ihm einziehen.",
+          "ru": "Я подумал, может сейчас самое время вернуться и жить с ним снова."
         },
         {
-          "de": "Wir haben das Thema erfolgreich eingezieht.",
-          "ru": "Мы успешно въезжать (в новую квартиру) (в прошедшем времени) эту тему."
+          "de": "Dann kann ich hier weg, und bei dir einziehen.",
+          "ru": "Тогда я смогу убраться отсюда и жить с тобой."
         },
         {
-          "de": "ziehen Sie ein bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: въезжать (в новую квартиру) вовремя!"
+          "de": "Die Leute wollen so schnell wie möglich einziehen.",
+          "ru": "Покупатели хотят въехать как можно скорее."
         }
       ],
       "synonyms": [],
@@ -650,24 +646,24 @@
       "translation_en": "moving out",
       "examples": [
         {
-          "de": "Hier ist der Auszug.",
-          "ru": "Вот выезд из квартиры."
+          "de": "Dies ist nur ein Auszug aus einem dieser Briefe.",
+          "ru": "Вот отрывок из одного подобного письма:"
         },
         {
-          "de": "Wir müssen den Auszug genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: выезд из квартиры."
+          "de": "Aber dieser kleine Auszug ist eine sehr gute Zusammenfassung dessen, was er während des Interviews gesagt hat.",
+          "ru": "Но этот небольшой отрывок - очень хорошее резюме всего сказанного."
         },
         {
-          "de": "Sind Sie mit dem Auszug einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: выезд из квартиры?"
+          "de": "Nun ein Auszug aus Mr. Hardings Antrittsrede.",
+          "ru": "Тишина. А вот выдержка из последнего выступления мистера Гардинга."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Auszug.",
-          "ru": "Сегодня мы концентрируемся на теме: выезд из квартиры."
+          "de": "Sie ist gewissermaßen ein Auszug aus einem ihrer Zitate.",
+          "ru": "Это своего рода выдержка из ее слов."
         },
         {
-          "de": "Der Auszug spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Выезд из квартиры играет решающую роль в успехе."
+          "de": "Wie war der Auszug aus dem Springwood?",
+          "ru": "Как твой переезд из Спрингвуда?"
         }
       ],
       "synonyms": []
@@ -680,24 +676,24 @@
       "translation_en": "to move out",
       "examples": [
         {
-          "de": "Wir ziehen aus diese Angelegenheit direkt im Team.",
-          "ru": "Мы выезжать / освобождать квартиру этот вопрос непосредственно в команде."
+          "de": "Aber das musste ich ausziehen, war nicht meine Größe.",
+          "ru": "Пришлось снять их, потому что не было моего размера."
         },
         {
-          "de": "Ich ziehe aus die notwendigen Unterlagen sofort.",
-          "ru": "Я выезжать / освобождать квартиру необходимые документы незамедлительно."
+          "de": "Sage ihm, seine Tochter solle ihre Stiefel ausziehen.",
+          "ru": "Скажи ему, что его дочь должна снять сапоги."
         },
         {
-          "de": "Der verantwortliche Kollege zieht aus das Ganze sehr professionell.",
-          "ru": "Ответственный коллега выезжать / освобождать квартиру всё это очень профессионально."
+          "de": "Bei diesem Song müssen sie austrinken und sich ausziehen.",
+          "ru": "Когда играет эта песня, они должны опустошить бокалы и раздеться."
         },
         {
-          "de": "Wir haben das Thema erfolgreich ausgezieht.",
-          "ru": "Мы успешно выезжать / освобождать квартиру (в прошедшем времени) эту тему."
+          "de": "Dann musst du dich auf dem Sprungbrett ausziehen.",
+          "ru": "Ну, тогда тебе придется раздеться там, у трамплина."
         },
         {
-          "de": "ziehen Sie aus bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: выезжать / освобождать квартиру вовремя!"
+          "de": "Dann konnten sie ihn bei einem Auftrag ausziehen.",
+          "ru": "После этого, её можно было снимать в задании."
         }
       ],
       "synonyms": [],
@@ -721,24 +717,24 @@
       "translation_en": "move",
       "examples": [
         {
-          "de": "Hier ist der Umzug.",
-          "ru": "Вот переезд."
+          "de": "Wir müssen den Umzug dann wohl auf Montag verschieben.",
+          "ru": "Так что придётся перенести переезд на понедельник."
         },
         {
-          "de": "Wir müssen den Umzug genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: переезд."
+          "de": "Der Umzug nach Austin war echt schwer für sie.",
+          "ru": "Этот переезд в Остин ей трудно дался."
         },
         {
-          "de": "Sind Sie mit dem Umzug einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: переезд?"
+          "de": "Um diesen Umzug zu sehen, bei dem du mitmachst.",
+          "ru": "Посмотреть на парад, в котором ты участвуешь."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Umzug.",
-          "ru": "Сегодня мы концентрируемся на теме: переезд."
+          "de": "Du sitzt in deiner Garderobe, schaust dem Umzug zu.",
+          "ru": "Ты сидела у входа в магазин одежды, смотрела парад."
         },
         {
-          "de": "Der Umzug spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Переезд играет решающую роль в успехе."
+          "de": "Und dennoch ist er nicht hier, um dir beim Umzug zu helfen.",
+          "ru": "Но его сейчас здесь нет, чтобы помочь с переездом."
         }
       ],
       "synonyms": []
@@ -751,24 +747,24 @@
       "translation_en": "to move",
       "examples": [
         {
-          "de": "Wir umziehen diese Angelegenheit direkt im Team.",
-          "ru": "Мы переезжать этот вопрос непосредственно в команде."
+          "de": "Nein, ich möchte mich umziehen und suche meinen Frack.",
+          "ru": "Нет, я собирался переодеться, но не смог найти белую бабочку."
         },
         {
-          "de": "Ich umziehe die notwendigen Unterlagen sofort.",
-          "ru": "Я переезжать необходимые документы незамедлительно."
+          "de": "Ihre Kleidung ist nebenan, Sie können sich dort umziehen.",
+          "ru": "Ваша одежда в соседней комнате, там вы можете переодеться."
         },
         {
-          "de": "Der verantwortliche Kollege umzieht das Ganze sehr professionell.",
-          "ru": "Ответственный коллега переезжать всё это очень профессионально."
+          "de": "Ich will aber nicht einfach von diesem Haus in ein anderes umziehen.",
+          "ru": "Папочка, я не хочу просто переехать из одного дома в другой."
         },
         {
-          "de": "Wir haben das Thema erfolgreich geumzieht.",
-          "ru": "Мы успешно переезжать (в прошедшем времени) эту тему."
+          "de": "Ich wollte umziehen, aber ich habe nicht so viel Geld.",
+          "ru": "Я хотела переехать, но у меня нет таких денег."
         },
         {
-          "de": "umziehen Sie bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: переезжать вовремя!"
+          "de": "Dann kann ich die Miete nicht bezahlen und muss umziehen.",
+          "ru": "И не смогу платить за квартиру, и мне придётся переезжать."
         }
       ],
       "synonyms": [],
@@ -795,24 +791,24 @@
       "translation_en": "moving company",
       "examples": [
         {
-          "de": "Hier ist das Umzugsunternehmen.",
-          "ru": "Вот фирма по организации переездов."
+          "de": "Ich würde das nicht einmal dem Umzugsunternehmen anvertrauen.",
+          "ru": "Я бы не доверила это грузчикам."
         },
         {
-          "de": "Wir müssen das Umzugsunternehmen genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: фирма по организации переездов."
+          "de": "Ich habe eine Liste gemacht und einige Umzugsunternehmen angerufen.",
+          "ru": "Я составила список и вызвала нескольких грузчиков."
         },
         {
-          "de": "Sind Sie mit dem Umzugsunternehmen einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: фирма по организации переездов?"
+          "de": "Wir rufen morgen früh das Umzugsunternehmen an.",
+          "ru": "Мы позвоним грузчикам завтра утром. Идёт?"
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Umzugsunternehmen.",
-          "ru": "Сегодня мы концентрируемся на теме: фирма по организации переездов."
+          "de": "Ich schätze das, aber ich habe bereits ein Umzugsunternehmen angeheuert, die am Morgen kommen und meine Sachen holen.",
+          "ru": "Я благодарна тебе, но я уже наняла носильщиков, которые помогут мне с переездом эавтра утром."
         },
         {
-          "de": "Das Umzugsunternehmen spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Фирма по организации переездов играет решающую роль в успехе."
+          "de": "Er braucht sein Auto, um zu seinem Job bei einem kleinen Umzugsunternehmen zu kommen, und um seine Kinder morgens zur Schule zu bringen.",
+          "ru": "Ему нужна машина, чтобы ездить до работы а также чтобы подвозить в школу своих детей."
         }
       ],
       "synonyms": []
@@ -825,24 +821,16 @@
       "translation_en": "landlord confirmation",
       "examples": [
         {
-          "de": "Hier ist die Wohnungsgeberbestätigung.",
-          "ru": "Вот подтверждение от арендодателя (для прописки)."
+          "de": "Für die Anmeldung beim Bürgeramt benötigen Sie zwingend eine ausgefüllte Wohnungsgeberbestätigung Ihres Vermieters.",
+          "ru": "Для регистрации в ведомстве по делам граждан вам обязательно требуется заполненное подтверждение от вашего арендодателя."
         },
         {
-          "de": "Wir müssen die Wohnungsgeberbestätigung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: подтверждение от арендодателя (для прописки)."
+          "de": "Der Vermieter ist gesetzlich verpflichtet, die Wohnungsgeberbestätigung innerhalb von zwei Wochen nach dem Einzug auszustellen.",
+          "ru": "Арендодатель по закону обязан выдать подтверждение о заселении в течение двух недель после въезда."
         },
         {
-          "de": "Sind Sie mit der Wohnungsgeberbestätigung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: подтверждение от арендодателя (для прописки)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Wohnungsgeberbestätigung.",
-          "ru": "Сегодня мы концентрируемся на теме: подтверждение от арендодателя (для прописки)."
-        },
-        {
-          "de": "Die Wohnungsgeberbestätigung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Подтверждение от арендодателя (для прописки) играет решающую роль в успехе."
+          "de": "Bitte vergessen Sie nicht, die Wohnungsgeberbestätigung zu Ihrem Termin beim Einwohnermeldeamt mitzubringen.",
+          "ru": "Пожалуйста, не забудьте взять с собой подтверждение от арендодателя на ваш прием в паспортный стол."
         }
       ],
       "synonyms": []
@@ -855,24 +843,24 @@
       "translation_en": "house rules",
       "examples": [
         {
-          "de": "Hier ist die Hausordnung.",
-          "ru": "Вот правила внутреннего распорядка дома."
+          "de": "Ich kenne die Hausordnung.",
+          "ru": "Я знаю местные правила."
         },
         {
-          "de": "Wir müssen die Hausordnung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: правила внутреннего распорядка дома."
+          "de": "Sie haben eine Hausordnung?",
+          "ru": "У тебя есть правила?"
         },
         {
-          "de": "Sind Sie mit der Hausordnung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: правила внутреннего распорядка дома?"
+          "de": "Nein, das ist gegen die Hausordnung.",
+          "ru": "Девушки, вы же знаете правила."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Hausordnung.",
-          "ru": "Сегодня мы концентрируемся на теме: правила внутреннего распорядка дома."
+          "de": "Diesem Dokument zufolge... haben Sie die Hausordnung gelesen und verstanden.",
+          "ru": "Ну, это документ, свидетельствующий что ты прочитал и понял правила внутреннего распорядка."
         },
         {
-          "de": "Die Hausordnung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Правила внутреннего распорядка дома играет решающую роль в успехе."
+          "de": "Laurent, holst du uns mal die Hausordnung?",
+          "ru": "Лоран, принеси свод домашних правил."
         }
       ],
       "synonyms": []
@@ -885,24 +873,24 @@
       "translation_en": "caretaker / janitor",
       "examples": [
         {
-          "de": "Hier ist der Hausmeister.",
-          "ru": "Вот управдом / смотритель дома / завхоз."
+          "de": "Ich tauchte vor dem Training auf, und der Hausmeister ließ mich rein.",
+          "ru": "Еще до тренировки уборщик открывал мне дверь."
         },
         {
-          "de": "Wir müssen den Hausmeister genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: управдом / смотритель дома / завхоз."
+          "de": "Was ist mit dem Hausmeister, der an der Schule Drogen verkauft?",
+          "ru": "ј как же тогда уборщик, который продавал в школе наркотики?"
         },
         {
-          "de": "Sind Sie mit dem Hausmeister einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: управдом / смотритель дома / завхоз?"
+          "de": "Dieses Gebäude braucht keinen Hausmeister, der nicht hausmeistern kann.",
+          "ru": "Этому зданию не нужен управляющий, который не может управлять."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Hausmeister.",
-          "ru": "Сегодня мы концентрируемся на теме: управдом / смотритель дома / завхоз."
+          "de": "Ach ja, dann war ich bei deiner Wohnung und der Hausmeister hat gesagt, du bist noch nicht zurückgekommen.",
+          "ru": "Слушай, я поехал к тебе на квартиру, а управляющий сказал, что ты не возвращался..."
         },
         {
-          "de": "Der Hausmeister spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Управдом / смотритель дома / завхоз играет решающую роль в успехе."
+          "de": "Der Hausmeister hat mir gesagt, er hat Rattenkot gesehen.",
+          "ru": "Дворник сказал мне, что видел несколько крысиных какашек."
         }
       ],
       "synonyms": []
@@ -915,24 +903,24 @@
       "translation_en": "waste separation",
       "examples": [
         {
-          "de": "Hier ist die Mülltrennung.",
-          "ru": "Вот сортировка мусора."
+          "de": "Es geht um die Richtlinien des Quartierrats zur Mülltrennung.",
+          "ru": "Решение совета кварталов о сортировке отходов."
         },
         {
-          "de": "Wir müssen die Mülltrennung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: сортировка мусора."
+          "de": "Zuerst streitest du dich mit dieser verrückten Frau wegen ihrer Mülltrennung, was ich dir sagte, du sollst es nicht tun.",
+          "ru": "Сначала ты лезешь к этой безумной старухе с ее мусором, хотя я велел тебе не лезть."
         },
         {
-          "de": "Sind Sie mit der Mülltrennung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: сортировка мусора?"
+          "de": "Zu den Prioritäten zählen eine Verbesserung der Entsorgung von Siedlungsabfällen mit Hilfe einer verbesserten Mülltrennung und einer verbesserten Bewirtschaftung der Deponien, die Einführung von Recyclingmaßnahmen auf lokaler Ebene und die Durchführung von kostengünstigen Maßnahmen zur Verhinderung von Bodenverunreinigungen.",
+          "ru": "Приоритетами здесь являются усовершенствование процесса по удалению городских отходов более тщательной их сортировкой и улучшением качества их захоронения, внедрения на местном уровне инициатив по вторичной переработке и проведению недорогостоящих мер по предотвращению загрязнения почвы."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Mülltrennung.",
-          "ru": "Сегодня мы концентрируемся на теме: сортировка мусора."
+          "de": "Heute haben wir mit 70 % - die höchste Rate der Mülltrennung weltweit seit 20 Jahren.",
+          "ru": "В итоге у нас до 70% мусора сортируется и разделяется спустя 20 лет после начала, это самый высокий показатель в мире."
         },
         {
-          "de": "Die Mülltrennung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Сортировка мусора играет решающую роль в успехе."
+          "de": "Heute haben wir mit 70 % - die höchste Rate der Mülltrennung weltweit seit 20 Jahren.",
+          "ru": "В итоге у нас до 70% мусора сортируется и разделяется спустя 20 лет после начала, это самый высокий показатель в мире."
         }
       ],
       "synonyms": []
@@ -945,24 +933,16 @@
       "translation_en": "residual waste",
       "examples": [
         {
-          "de": "Hier ist der Restmüll.",
-          "ru": "Вот несортируемые отходы / бытовой мусор."
+          "de": "Der Restmüll der Gesellschaft.",
+          "ru": "Бедные такие, несчастные."
         },
         {
-          "de": "Wir müssen den Restmüll genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: несортируемые отходы / бытовой мусор."
+          "de": "Die wollen die Kippgebühr für den Festmüll wieder erhöhen.",
+          "ru": "Они опять взвинчивают ценник на твёрдые отходы."
         },
         {
-          "de": "Sind Sie mit dem Restmüll einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: несортируемые отходы / бытовой мусор?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Restmüll.",
-          "ru": "Сегодня мы концентрируемся на теме: несортируемые отходы / бытовой мусор."
-        },
-        {
-          "de": "Der Restmüll spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Несортируемые отходы / бытовой мусор играет решающую роль в успехе."
+          "de": "Das private Abfallmanagementunternehmen ITC erhält täglich tausende von Tonnen an städtischem Festmüll.",
+          "ru": "Частная компания по переработке отходов ITC каждый день принимает тысячи тонн твердых бытовых отходов."
         }
       ],
       "synonyms": []
@@ -975,24 +955,24 @@
       "translation_en": "organic waste",
       "examples": [
         {
-          "de": "Hier ist der Biomüll.",
-          "ru": "Вот органические / биоразлагаемые отходы."
+          "de": "Hierzulande landet die Wassermelonenschale im Biomüll, in Südkorea kommt sie ins Kimchi, in Katalonien wird daraus Konfitüre, in den USA Chutney.",
+          "ru": "В этой стране арбузная кожура попадает в органические отходы, в Южной Корее — в кимчи, в Каталонии из нее делают варенье, а в США — для чатни."
         },
         {
-          "de": "Wir müssen den Biomüll genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: органические / биоразлагаемые отходы."
+          "de": "Darf ich Suppenreste in den Biomüll kippen, oder müssen gegarte Lebensmittel generell in die graue Tonne?",
+          "ru": "Могу ли я выбросить остатки супа в органические отходы, или приготовленную пищу обычно приходится выбрасывать в серый мусорный бак?"
         },
         {
-          "de": "Sind Sie mit dem Biomüll einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: органические / биоразлагаемые отходы?"
+          "de": "Durch einen flächendeckenden Gebrauch von Biotonnen könnten mindestens 2 Millionen Tonnen Biomüll weiter verwendet werden.",
+          "ru": "Благодаря широкому использованию контейнеров для органических отходов можно будет повторно использовать не менее 2 миллионов тонн органических отходов."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Biomüll.",
-          "ru": "Сегодня мы концентрируемся на теме: органические / биоразлагаемые отходы."
+          "de": "Durch die Fermentierung dieses Biomülls entsteht Gas, dessen (saubere) Verbrennung Strom erzeugt.",
+          "ru": "В результате ферментации этих органических отходов образуется газ, который при (чистом) сгорании производит электричество."
         },
         {
-          "de": "Der Biomüll spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Органические / биоразлагаемые отходы играет решающую роль в успехе."
+          "de": "Wer seinen Biomüll im Garten selbst kompostiert, braucht keine Biotonne.",
+          "ru": "Если вы компостируете органические отходы самостоятельно в саду, вам не понадобится контейнер для органических отходов."
         }
       ],
       "synonyms": []
@@ -1005,24 +985,24 @@
       "translation_en": "waste paper",
       "examples": [
         {
-          "de": "Hier ist das Altpapier.",
-          "ru": "Вот макулатура."
+          "de": "Der Wirbelwind aus Altpapier war ein toller Anblick.",
+          "ru": "Вихрь из макулатуры - достойное зрелище!"
         },
         {
-          "de": "Wir müssen das Altpapier genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: макулатура."
+          "de": "Ah, ich guck nochmal im Altpapier nach.",
+          "ru": "Я посмотрю в газетах."
         },
         {
-          "de": "Sind Sie mit dem Altpapier einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: макулатура?"
+          "de": "Auf dem Territorium des Gebietes wird aktiv an der Sammlung, Lagerung, Verlagerung und Verarbeitung von Eisen- und Nichteisenmetallschrott, Altglas, Altpapier gearbeitet.",
+          "ru": "На территории области проводится активная работа по приёму, хранению, перемещению и переработке лома цветных и чёрных металлов, стекла, макулатуры."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Altpapier.",
-          "ru": "Сегодня мы концентрируемся на теме: макулатура."
+          "de": "Gebt bis morgen alle euer gesammeltes Altpapier ab! Vergesst zumindest das nicht!",
+          "ru": "Приведите свои мозги впорядок к завтрашнему дню."
         },
         {
-          "de": "Das Altpapier spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Макулатура играет решающую роль в успехе."
+          "de": "Na ja, das landet sowieso bis abends im Altpapier der Leute und ist morgen vergessen, nicht?",
+          "ru": "Знаете, думаю сегодня это будет у всех на слуху, а завтра все уже забудут об этом, да?"
         }
       ],
       "synonyms": []
@@ -1035,24 +1015,24 @@
       "translation_en": "yellow sack for recycling",
       "examples": [
         {
-          "de": "Hier ist der gelbe Sack.",
-          "ru": "Вот желтый мешок (для пластика и упаковки)."
+          "de": "der gelbe Sack wird abgeholt, eingesammelt",
+          "ru": "желтый мешок поднят и собран"
         },
         {
-          "de": "Wir müssen den gelbe Sack genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: желтый мешок (для пластика и упаковки)."
+          "de": "Abfuhr, Inhalt, Abholung, Entsorgung, Einsammeln der gelben Säcke",
+          "ru": "Вывоз, содержимое, сбор, утилизация, сбор желтых мешков."
         },
         {
-          "de": "Sind Sie mit dem gelbe Sack einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: желтый мешок (для пластика и упаковки)?"
+          "de": "in den gelben Sack gehören",
+          "ru": "место в желтой сумке"
         },
         {
-          "de": "Wir konzentrieren uns heute auf den gelbe Sack.",
-          "ru": "Сегодня мы концентрируемся на теме: желтый мешок (для пластика и упаковки)."
+          "de": "Organisatorisch spiele es [für die Entsorgungsbetriebe] keine Rolle, ob nun Gelbe Säcke eingesammelt oder Gelbe Tonnen entleert werden. Denn es handle sich um dasselbe Fahrzeug, erklärt Nele S[…]. […] Dennoch müsse sich eine Gemeinde flächendeckend dafür entscheiden, ob es den Gelben Sack oder die Gelbe Tonne wolle.",
+          "ru": "С организационной точки зрения [для компаний по вывозу мусора] не имеет значения, собираются ли желтые мешки или опорожняются желтые контейнеры. Потому что это один и тот же автомобиль, объясняет Неле С[…]. […] Тем не менее, сообщество по всем направлениям должно решить, хочет ли оно желтый мешок или желтый мусорный бак."
         },
         {
-          "de": "Der gelbe Sack spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Желтый мешок (для пластика и упаковки) играет решающую роль в успехе."
+          "de": "Der Gelbe Sack dient zur Sammlung von Verpackungen aus Metall, Verbundstoffen, Kunststoff und Styropor.",
+          "ru": "Желтый пакет предназначен для сбора упаковки из металла, композитных материалов, пластика и пенопласта."
         }
       ],
       "synonyms": []
@@ -1065,24 +1045,24 @@
       "translation_en": "waste glass",
       "examples": [
         {
-          "de": "Hier ist das Altglas.",
-          "ru": "Вот стеклотара."
+          "de": "Sammelbehälter, Container für Altglas",
+          "ru": "Контейнер для сбора, контейнер для использованного стекла"
         },
         {
-          "de": "Wir müssen das Altglas genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: стеклотара."
+          "de": "Altglas einwerfen, sammeln",
+          "ru": "Бросай старое стекло и собирай его."
         },
         {
-          "de": "Sind Sie mit dem Altglas einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: стеклотара?"
+          "de": "Das Recycling von Altpapier und Altglas klappt gut, beide Materialien sind Wirtschaftsgüter.",
+          "ru": "Переработка макулатуры и стекла работает хорошо; оба материала являются экономическими товарами."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Altglas.",
-          "ru": "Сегодня мы концентрируемся на теме: стеклотара."
+          "de": "Glaswolle wird aus Quarzsand, Kalkstein und bis zu 80 Prozent aus Altglas hergestellt.",
+          "ru": "Стекловата изготавливается из кварцевого песка, известняка и до 80 процентов переработанного стекла."
         },
         {
-          "de": "Das Altglas spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Стеклотара играет решающую роль в успехе."
+          "de": "In der Regel entsteht die neue Flasche immer aus einem Anteil von gleichfarbigem Altglas und neu angesetzter Schmelze.",
+          "ru": "Как правило, новая бутылка всегда изготавливается из кусочка старого стекла того же цвета и вновь приготовленной расплава."
         }
       ],
       "synonyms": []
@@ -1095,24 +1075,24 @@
       "translation_en": "noise",
       "examples": [
         {
-          "de": "Hier ist der Lärm.",
-          "ru": "Вот шум."
+          "de": "Wenn in einem Stück mehrere gleichzeitig sprechen, ist es nur Lärm.",
+          "ru": "В пьесе, если одновременно говорят несколько персонажей это лишь шум."
         },
         {
-          "de": "Wir müssen den Lärm genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: шум."
+          "de": "Ich brauche Lärm, um hier zu bleiben.",
+          "ru": "Мне нужен шум, чтобы удержаться здесь."
         },
         {
-          "de": "Sind Sie mit dem Lärm einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: шум?"
+          "de": "Du weißt nicht, was das für ein Lärm ist.",
+          "ru": "Ты не представляешь, какой это звук."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Lärm.",
-          "ru": "Сегодня мы концентрируемся на теме: шум."
+          "de": "Ich erwachte mitten in der Nacht vom Lärm einer schweren Explosion.",
+          "ru": "Аплодисменты Я проснулась посреди ночи от звука мощного взрыва."
         },
         {
-          "de": "Der Lärm spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Шум играет решающую роль в успехе."
+          "de": "Die Natur hatte so schöne Farben, und kein Lärm störte die Stille.",
+          "ru": "У природы были такие красивые краски,... и не было слышно никакого шума."
         }
       ],
       "synonyms": []
@@ -1125,24 +1105,24 @@
       "translation_en": "disturbance of peace",
       "examples": [
         {
-          "de": "Hier ist die Ruhestörung.",
-          "ru": "Вот нарушение покоя / тишины."
+          "de": "Wir nehmen Leute wegen Trinkens in der Öffentlichkeit fest,... wegen Ruhestörung, wegen Herumlungerns.",
+          "ru": "Мы арестовываем людей за спиртные напитки, за нарушение порядка, бродяжничество."
         },
         {
-          "de": "Wir müssen die Ruhestörung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: нарушение покоя / тишины."
+          "de": "Sein erbärmliches Verhalten, seine Verstöße gegen das Gesetz: Geschwindigkeitsübertretung, nächtliche Ruhestörung, Trunkenheit, Schlägereien...",
+          "ru": "Его отвратительное поведение, нарушения закона, превышение скорости, нарушение порядка, пьяные выходки, драки..."
         },
         {
-          "de": "Sind Sie mit der Ruhestörung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: нарушение покоя / тишины?"
+          "de": "Im Zeitraum von 1932 bis 1937 wurde er mehrmals wegen kleinerer Diebstähle, Einbrüche und öffentlicher Ruhestörung festgenommen.",
+          "ru": "Между 1932 и 1937 годами он был пойман несколько раз за мелкие кражи, кражи со взломом и нарушение общественного порядка."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Ruhestörung.",
-          "ru": "Сегодня мы концентрируемся на теме: нарушение покоя / тишины."
+          "de": "Letzte Woche: Ruhestörung.",
+          "ru": "На прошлой неделе - нарушение общественного порядка."
         },
         {
-          "de": "Die Ruhestörung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Нарушение покоя / тишины играет решающую роль в успехе."
+          "de": "Vandalismus, Ruhestörung, Alkoholkonsum.",
+          "ru": "Вандализм, хулиганство, распитие алкоголя."
         }
       ],
       "synonyms": []
@@ -1155,24 +1135,24 @@
       "translation_en": "afternoon quiet time",
       "examples": [
         {
-          "de": "Hier ist die Mittagsruhe.",
-          "ru": "Вот тихий час (обеденный перерыв)."
+          "de": "(wütend) Mittagsruhe!",
+          "ru": "Тихо! Время отдыха!"
         },
         {
-          "de": "Wir müssen die Mittagsruhe genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: тихий час (обеденный перерыв)."
+          "de": "(Mann, wütend) Mittagsruhe!",
+          "ru": "Тихо! Время отдыха!"
         },
         {
-          "de": "Sind Sie mit der Mittagsruhe einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: тихий час (обеденный перерыв)?"
+          "de": "denn Ihm gebührt alles Lob in den Himmeln und auf Erden und am Abend und zu eurer Mittagsruhe.",
+          "ru": "И Ему хвала и в небесах, и на земле, и ночью, и когда для вас наступает полдень!"
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Mittagsruhe.",
-          "ru": "Сегодня мы концентрируемся на теме: тихий час (обеденный перерыв)."
+          "de": "Und wie viele Ortschaften haben WIR doch zugrunde gehen lassen, so überraschte Unsere Peinigung sie entweder nachts, oder als sie sich bei der Mittagsruhe befanden.",
+          "ru": "Сколько же селений Мы погубили! Наше наказание поражало их ночью или во время полуденного отдыха."
         },
         {
-          "de": "Die Mittagsruhe spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Тихий час (обеденный перерыв) играет решающую роль в успехе."
+          "de": "Du holst sie einfach vor dem Mittag, nachdem du Schreiben vorbereitet hast, wenn du deinen Brief fertig hast, vor der Mittagsruhe... hängst du also deine Sachen nach unten, grüßt die Besucher... und meldest Herrn Viney, dass dein Schreiben unterzeichnet ist.",
+          "ru": "Просто получаешь справку до обеда, после того, как подготовился к Закону Божьему и написал письмо домой до тихого часа перевесил свою куртку на нижний крючок, встретил посетителей и сообщил мистеру Вайни, что пропуск тебе подписали."
         }
       ],
       "synonyms": []
@@ -1185,24 +1165,24 @@
       "translation_en": "night quiet time",
       "examples": [
         {
-          "de": "Hier ist die Nachtruhe.",
-          "ru": "Вот ночной покой / тишина."
+          "de": "Nichts als eine Höhle für eine gute Nachtruhe.",
+          "ru": "Нет ничего лучше пещеры для отличного ночного сна."
         },
         {
-          "de": "Wir müssen die Nachtruhe genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: ночной покой / тишина."
+          "de": "Nach einer erholsamen Nachtruhe genießen Sie eine Tasse Starbucks-Kaffee in Ihrem Zimmer und verwöhnen sich mit \"Shine by Bliss\"-Kosmetikprodukten.",
+          "ru": "После спокойного ночного сна в номере постояльцев ожидает чашечка кофе Starbucks и великолепные банные принадлежности Shine by Bliss."
         },
         {
-          "de": "Sind Sie mit der Nachtruhe einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: ночной покой / тишина?"
+          "de": "Eine gelegentliche Party nach der Nachtruhe?",
+          "ru": "Вечеринки после отбоя время от времени?"
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Nachtruhe.",
-          "ru": "Сегодня мы концентрируемся на теме: ночной покой / тишина."
+          "de": "Tja, wenn jemand eine gute Nachtruhe verdient.",
+          "ru": "Ну, если кто и заслуживает хорошенько выспаться, так это ты."
         },
         {
-          "de": "Die Nachtruhe spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Ночной покой / тишина играет решающую роль в успехе."
+          "de": "Zur Nahrungssuche und zur Nachtruhe schließen sich oft mehrere Gruppen zu Verbänden zusammen.",
+          "ru": "В поисках пищи или для ночного покоя нередко несколько групп объединяются в одну большую группу."
         }
       ],
       "synonyms": []
@@ -1215,24 +1195,24 @@
       "translation_en": "pets",
       "examples": [
         {
-          "de": "Hier sind die Haustiere.",
-          "ru": "Вот домашние животные."
+          "de": "Es gibt in dieser Stadt wahrscheinlich Kinder, die Kakerlaken als Haustiere haben.",
+          "ru": "В этом городе наверняка есть дети с тараканами в качестве домашних животных."
         },
         {
-          "de": "Wir müssen die Haustiere genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: домашние животные."
+          "de": "Er hat im Voraus bezahlt und er hat keine Haustiere.",
+          "ru": "Он заплатил наперед, и у него нет домашних животных."
         },
         {
-          "de": "Sind Sie mit den Haustiere einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: домашние животные?"
+          "de": "Blutbaden und Haustiere passen nicht wirklich zusammen.",
+          "ru": "Блутбад и домашние животные не очень сочетаются."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Haustiere.",
-          "ru": "Сегодня мы концентрируемся на теме: домашние животные."
+          "de": "Das sind keine Haustiere, sondern Wildtiere.",
+          "ru": "Это дикие, а не домашние животные."
         },
         {
-          "de": "Die Haustiere spielen eine entscheidende Rolle für den Erfolg.",
-          "ru": "Домашние животные играет решающую роль в успехе."
+          "de": "Ich dachte, du würdest deine Haustiere inzwischen verwanzen.",
+          "ru": "Странно, что ты ещё до сих пор не пометил своих питомцев."
         }
       ],
       "synonyms": []
@@ -1245,24 +1225,24 @@
       "translation_en": "keeping of pets",
       "examples": [
         {
-          "de": "Hier ist die Tierhaltung.",
-          "ru": "Вот содержание домашних животных."
+          "de": "Zudem gibt es Tierhaltung und Fischfang.",
+          "ru": "Развиты также животноводство и рыбоводство."
         },
         {
-          "de": "Wir müssen die Tierhaltung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: содержание домашних животных."
+          "de": "Die wichtigsten Wirtschaftszweige von Ciudad Bolívar sind Kaffeeanbau, Tierhaltung und Tourismus.",
+          "ru": "Основу экономики Сьюдад-Боливара составляют выращивание кофе, животноводство и туризм."
         },
         {
-          "de": "Sind Sie mit der Tierhaltung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: содержание домашних животных?"
+          "de": "Tierhaltung ist in der Schule aus hygienischen Gründen nicht erlaubt.",
+          "ru": "Содержание животных в школе не разрешено по гигиеническим причинам."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Tierhaltung.",
-          "ru": "Сегодня мы концентрируемся на теме: содержание домашних животных."
+          "de": "Doch ein Blick in die Ära der modernen Tierhaltung zeigt diese vier: Truthahn, Ente, Huhn und Gans.",
+          "ru": "Но переносимся в эпоху современного животноводства - и видим лишь четырёх: индейку, утку, курицу и гуся."
         },
         {
-          "de": "Die Tierhaltung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Содержание домашних животных играет решающую роль в успехе."
+          "de": "Es reicht wohl zu sagen, dass das nicht das schönste Bild nachhaltiger Tierhaltung ist.",
+          "ru": "Достаточно сказать, что описана не самая приятная картина устойчивого фермерства."
         }
       ],
       "synonyms": []
@@ -1275,24 +1255,24 @@
       "translation_en": "key",
       "examples": [
         {
-          "de": "Hier ist der Schlüssel.",
-          "ru": "Вот ключ."
+          "de": "Du hast 'n Schlüssel, obwohl du nicht hier wohnst.",
+          "ru": "У тебя есть ключ, а т ы здесь даже не живешь."
         },
         {
-          "de": "Wir müssen den Schlüssel genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: ключ."
+          "de": "Und jetzt versteck den Schlüssel irgendwo wo ich ihn nicht finde.",
+          "ru": "Теперь спрячь ключ там, где я его никогда не найду."
         },
         {
-          "de": "Sind Sie mit dem Schlüssel einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: ключ?"
+          "de": "Die nahmen mir den Schlüssel weg, also lief ich heim.",
+          "ru": "У меня забрали ключи, так что я собирался прогуляться."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Schlüssel.",
-          "ru": "Сегодня мы концентрируемся на теме: ключ."
+          "de": "Also denke ich, du solltest mir von dem Schlüssel erzählen.",
+          "ru": "Так что, я думаю тебе стоит рассказать мне о ключе."
         },
         {
-          "de": "Der Schlüssel spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Ключ играет решающую роль в успехе."
+          "de": "Er ist verschlossen, also öffnet sie ihn mit ihrem eigenen Schlüssel.",
+          "ru": "Бюро закрыто, она открывает его при помощи своего ключа."
         }
       ],
       "synonyms": []
@@ -1305,24 +1285,16 @@
       "translation_en": "apartment key",
       "examples": [
         {
-          "de": "Hier ist der Wohnungsschlüssel.",
-          "ru": "Вот ключ от квартиры."
+          "de": "Beim Einzug in die neue Wohnung hat uns der Vermieter drei Wohnungsschlüssel übergeben.",
+          "ru": "При въезде в новую квартиру арендодатель передал нам три ключа от квартиры."
         },
         {
-          "de": "Wir müssen den Wohnungsschlüssel genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: ключ от квартиры."
+          "de": "Ich habe meinen Wohnungsschlüssel verloren und muss nun den Schlüsseldienst rufen.",
+          "ru": "Я потерял свой ключ от квартиры и теперь вынужден вызывать службу вскрытия замков."
         },
         {
-          "de": "Sind Sie mit dem Wohnungsschlüssel einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: ключ от квартиры?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Wohnungsschlüssel.",
-          "ru": "Сегодня мы концентрируемся на теме: ключ от квартиры."
-        },
-        {
-          "de": "Der Wohnungsschlüssel spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Ключ от квартиры играет решающую роль в успехе."
+          "de": "Bitte lassen Sie den Wohnungsschlüssel beim Nachbarn, falls der Handwerker während unserer Abwesenheit kommt.",
+          "ru": "Пожалуйста, оставьте ключ от квартиры у соседа на случай, если мастер придет во время нашего отсутствия."
         }
       ],
       "synonyms": []
@@ -1335,24 +1307,24 @@
       "translation_en": "house key",
       "examples": [
         {
-          "de": "Hier ist der Haustürschlüssel.",
-          "ru": "Вот ключ от входной двери дома."
+          "de": "Der Haustürschlüssel ist in meiner Jacke.",
+          "ru": "Ключи от дома у меня в пиджаке."
         },
         {
-          "de": "Wir müssen den Haustürschlüssel genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: ключ от входной двери дома."
+          "de": "Wie sieht der Haustürschlüssel aus?",
+          "ru": "Как выглядит ключ от парадной двери?"
         },
         {
-          "de": "Sind Sie mit dem Haustürschlüssel einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: ключ от входной двери дома?"
+          "de": "Er hat den Haustürschlüssel! Er hat ihn genommen!",
+          "ru": "Проклятье! Он взял ключи!"
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Haustürschlüssel.",
-          "ru": "Сегодня мы концентрируемся на теме: ключ от входной двери дома."
+          "de": "Der Haustürschlüssel passt auch im Dienstboteneingang.",
+          "ru": "Ключ от парадного входа также подходит и к задней двери."
         },
         {
-          "de": "Der Haustürschlüssel spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Ключ от входной двери дома играет решающую роль в успехе."
+          "de": "\"Ich mache nur meinen Haustürschlüssel ab.\"",
+          "ru": "Можно, я оставлю себе хотя бы ключи от дома?"
         }
       ],
       "synonyms": []
@@ -1365,24 +1337,24 @@
       "translation_en": "handover",
       "examples": [
         {
-          "de": "Hier ist die Übergabe.",
-          "ru": "Вот передача / сдача (объекта)."
+          "de": "Die Übergabe ist heute Abend, oder?",
+          "ru": "Сегодня передача, не так ли?"
         },
         {
-          "de": "Wir müssen die Übergabe genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: передача / сдача (объекта)."
+          "de": "Tanner trifft in Kürze in der US-Botschaft in London ein, wo die Übergabe stattfindet.",
+          "ru": "Таннера везут в лондонское посольство США, где состоится передача."
         },
         {
-          "de": "Sind Sie mit der Übergabe einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: передача / сдача (объекта)?"
+          "de": "Zuvor war ein Ultimatum zur Übergabe der Stadt abgelaufen.",
+          "ru": "Ещё месяц велись переговоры о сдаче города."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Übergabe.",
-          "ru": "Сегодня мы концентрируемся на теме: передача / сдача (объекта)."
+          "de": "Deshalb möchte ich, dass du und Josh bei der Übergabe dabei seid.",
+          "ru": "Вот почему я хочу, чтобы ты и Джош пришли на вручение."
         },
         {
-          "de": "Die Übergabe spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Передача / сдача (объекта) играет решающую роль в успехе."
+          "de": "Du willst Leute um dich haben, um von der Übergabe abzulenken.",
+          "ru": "Ты хочешь, чтобы люди вокруг были отвлекающим маневром от передачи."
         }
       ],
       "synonyms": []
@@ -1395,24 +1367,24 @@
       "translation_en": "handover protocol",
       "examples": [
         {
-          "de": "Hier ist das Übergabeprotokoll.",
-          "ru": "Вот акт приема-передачи квартиры."
+          "de": "In dem Übergabeprotokoll steht, das versiegelte Päckchen solle fünf Jahre verwahrt werden.",
+          "ru": "В протоколе передачи указано, что запечатанная упаковка должна храниться в течение пяти лет."
         },
         {
-          "de": "Wir müssen das Übergabeprotokoll genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: акт приема-передачи квартиры."
+          "de": "Der Mieter kann nur für die Schäden verantwortlich gemacht werden, die im Übergabeprotokoll vermerkt sind.",
+          "ru": "Арендатор несет ответственность только за ущерб, указанный в акте приема-передачи."
         },
         {
-          "de": "Sind Sie mit dem Übergabeprotokoll einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: акт приема-передачи квартиры?"
+          "de": "Ob über beide Vorgänge die vorgeschriebenen Übergabeprotokolle angefertigt wurden, wusste sie nicht.",
+          "ru": "Она не знает, составлены ли необходимые протоколы передачи для обоих процессов."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Übergabeprotokoll.",
-          "ru": "Сегодня мы концентрируемся на теме: акт приема-передачи квартиры."
+          "de": "Zur Sicherheit werden vorhandene Beulen und Lackschäden sekundenschnell auf einem Übergabeprotokoll vermerkt.",
+          "ru": "На всякий случай существующие вмятины и повреждения лакокрасочного покрытия отмечаются в отчете о передаче в течение нескольких секунд."
         },
         {
-          "de": "Das Übergabeprotokoll spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Акт приема-передачи квартиры играет решающую роль в успехе."
+          "de": "Ein Mieter kann nach dem Auszug nur dann für Schäden verantwortlich gemacht werden, wenn sie im Übergabeprotokoll vermerkt sind.",
+          "ru": "Арендатор может нести ответственность за ущерб после выселения только в том случае, если он отмечен в протоколе приема-передачи."
         }
       ],
       "synonyms": []
@@ -1425,24 +1397,24 @@
       "translation_en": "defect / deficiency",
       "examples": [
         {
-          "de": "Hier ist der Mangel.",
-          "ru": "Вот недостаток / дефект."
+          "de": "Und diese Art Mangel an Diversität, diese Gleichheit führt zu katastrophalen Problemen.",
+          "ru": "Такое отсутствие разнообразия и одинаковость, ведет к катастрофическим проблемам."
         },
         {
-          "de": "Wir müssen den Mangel genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: недостаток / дефект."
+          "de": "Deshalb suche ich nach Fotos, oder einem Mangel dieser.",
+          "ru": "Поэтому я ищу фото или их отсутствие."
         },
         {
-          "de": "Sind Sie mit dem Mangel einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: недостаток / дефект?"
+          "de": "In diesem speziellen Fall ist dein Mangel an Weiblichkeit unser Vorteil.",
+          "ru": "В данном случае твой недостаток женственности играет в нашу пользу."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Mangel.",
-          "ru": "Сегодня мы концентрируемся на теме: недостаток / дефект."
+          "de": "Das Kernproblem des demokratischen Geistes ist sein Mangel an historischem Bewusstsein.",
+          "ru": "Основной проблемой демократического разума является недостаток исторической сознательности."
         },
         {
-          "de": "Der Mangel spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Недостаток / дефект играет решающую роль в успехе."
+          "de": "Dein Mangel an Disziplin, die Zerstörung von Eigentum.",
+          "ru": "Твоя нехватка дисциплины, твое уничтожение собственности."
         }
       ],
       "synonyms": []
@@ -1455,24 +1427,16 @@
       "translation_en": "notice of defects",
       "examples": [
         {
-          "de": "Hier ist die Mängelrüge.",
-          "ru": "Вот жалоба / уведомление о недостатках."
+          "de": "Nach der Lieferung der Ware haben wir unverzüglich eine schriftliche Mängelrüge an den Lieferanten geschickt.",
+          "ru": "После доставки товара мы незамедлительно направили поставщику письменную рекламацию о недостатках."
         },
         {
-          "de": "Wir müssen die Mängelrüge genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: жалоба / уведомление о недостатках."
+          "de": "Wenn die Mängelrüge nicht rechtzeitig erfolgt, gilt die gelieferte Ware als genehmigt.",
+          "ru": "Если уведомление о недостатках не отправлено своевременно, поставленный товар считается принятым."
         },
         {
-          "de": "Sind Sie mit der Mängelrüge einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: жалоба / уведомление о недостатках?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Mängelrüge.",
-          "ru": "Сегодня мы концентрируемся на теме: жалоба / уведомление о недостатках."
-        },
-        {
-          "de": "Die Mängelrüge spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Жалоба / уведомление о недостатках играет решающую роль в успехе."
+          "de": "Unsere Rechtsabteilung prüft derzeit die Mängelrüge des Kunden bezüglich der Softwarefehler.",
+          "ru": "Наш юридический отдел в настоящее время проверяет претензию клиента касательно дефектов программного обеспечения."
         }
       ],
       "synonyms": []
@@ -1485,24 +1449,24 @@
       "translation_en": "to repair",
       "examples": [
         {
-          "de": "Wir reparieren diese Angelegenheit direkt im Team.",
-          "ru": "Мы ремонтировать / исправлять этот вопрос непосредственно в команде."
+          "de": "Aber ich muss diese Autos reparieren und ich brauche neue Teile...",
+          "ru": "Но я должен починить эти машины, и мне нужны запчасти..."
         },
         {
-          "de": "Ich repariere die notwendigen Unterlagen sofort.",
-          "ru": "Я ремонтировать / исправлять необходимые документы незамедлительно."
+          "de": "Der Chief hätte meine Schalldusche reparieren sollen, aber er erschien nicht.",
+          "ru": "Сегодня утром шеф должен был починить мой акустический душ, но не пришел."
         },
         {
-          "de": "Der verantwortliche Kollege repariert das Ganze sehr professionell.",
-          "ru": "Ответственный коллега ремонтировать / исправлять всё это очень профессионально."
+          "de": "Du willst immer alles reparieren, aber manchmal ist nichts kaputt.",
+          "ru": "Ты всегда пытаешься всё исправить, но иногда ничего не сломано."
         },
         {
-          "de": "Wir haben das Thema erfolgreich repariert.",
-          "ru": "Мы успешно ремонтировать / исправлять (в прошедшем времени) эту тему."
+          "de": "Nun, ich kann nicht alles reparieren, was kaputt ist.",
+          "ru": "Ну, я же не могу исправить все, что не в порядке."
         },
         {
-          "de": "reparieren Sie bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: ремонтировать / исправлять вовремя!"
+          "de": "Mom, ich dachte, du wolltest das Dach schon letztes Jahr reparieren.",
+          "ru": "Мам, я думал, ты собиралась чинить крышу прошлым летом."
         }
       ],
       "synonyms": [],
@@ -1526,24 +1490,24 @@
       "translation_en": "repair",
       "examples": [
         {
-          "de": "Hier ist die Reparatur.",
-          "ru": "Вот ремонт / починка."
+          "de": "Ein Zeiger war kaputt, und sie war in Reparatur.",
+          "ru": "Один из датчиков сломался, он отнес их в ремонт."
         },
         {
-          "de": "Wir müssen die Reparatur genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: ремонт / починка."
+          "de": "Ich wollte keine Reparatur bezahlen, so kurz vor der Hochzeit.",
+          "ru": "Я не хотела платить за ремонт, потому что собиралась замуж."
         },
         {
-          "de": "Sind Sie mit der Reparatur einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: ремонт / починка?"
+          "de": "Callie, ich fühle, dass du eine primäre Reparatur machen solltest.",
+          "ru": "Келли, я чувствую, что нужно сделать первичное восстановление."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Reparatur.",
-          "ru": "Сегодня мы концентрируемся на теме: ремонт / починка."
+          "de": "Es ist hauptsächlich eine vaskuläre Reparatur.",
+          "ru": "По большей части это восстановление сосудов."
         },
         {
-          "de": "Die Reparatur spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Ремонт / починка играет решающую роль в успехе."
+          "de": "Vielleicht meinte sie, dass du dir die Reparatur vorstellen musst.",
+          "ru": "Наверное, она имела в виду, что нужно вообразить починку."
         }
       ],
       "synonyms": []
@@ -1556,24 +1520,24 @@
       "translation_en": "craftsman",
       "examples": [
         {
-          "de": "Hier ist der Handwerker.",
-          "ru": "Вот ремесленник / мастер."
+          "de": "Ich bin nur ein Handwerker.",
+          "ru": "Я пока всего лишь ремесленник."
         },
         {
-          "de": "Wir müssen den Handwerker genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: ремесленник / мастер."
+          "de": "Sie nennen ihn den Klempner in Italien, aber auch den Maestro, denn er ist tatsächlich gleichzeitig Ingenieur, Handwerker und Bildhauer.",
+          "ru": "В Италии его называют «слесарем» а также «маэстро», потому что он, на самом деле, и инженер и ремесленник, и скульптор одновременно."
         },
         {
-          "de": "Sind Sie mit dem Handwerker einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: ремесленник / мастер?"
+          "de": "Der Handwerker war gerade da, aber jetzt ist er fertig.",
+          "ru": "Просто у меня тут был мастер, но он уже закончил."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Handwerker.",
-          "ru": "Сегодня мы концентрируемся на теме: ремесленник / мастер."
+          "de": "Ich habe einen guten Handwerker für Sie.",
+          "ru": "У меня есть хороший мастер для тебя."
         },
         {
-          "de": "Der Handwerker spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Ремесленник / мастер играет решающую роль в успехе."
+          "de": "Ich warte auf einen Handwerker, der in meinem Haus Teppiche verlegen soll.",
+          "ru": "Я ожидаю мастера, который должен в моём доме постелить ковролин."
         }
       ],
       "synonyms": []
@@ -1586,24 +1550,24 @@
       "translation_en": "renovation",
       "examples": [
         {
-          "de": "Hier ist die Renovierung.",
-          "ru": "Вот ремонт / косметический ремонт."
+          "de": "Wir haben noch genug für die Renovierung, wenn wir sparsam sind.",
+          "ru": "Ещё хватит на ремонт, если мы будем бережливы."
         },
         {
-          "de": "Wir müssen die Renovierung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: ремонт / косметический ремонт."
+          "de": "Wir haben fast so viel in die Renovierung gesteckt.",
+          "ru": "Мы вложили в ремонт почти столько же денег."
         },
         {
-          "de": "Sind Sie mit der Renovierung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: ремонт / косметический ремонт?"
+          "de": "Im Jahre 1842 waren der Ausbau und die Renovierung des Schlosses beendet.",
+          "ru": "В 1842 году расширение и реконструкция дворца были остановлены."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Renovierung.",
-          "ru": "Сегодня мы концентрируемся на теме: ремонт / косметический ремонт."
+          "de": "Die Renovierung des Hotels wurde 2013 nach fast vierjähriger Arbeit abgeschlossen.",
+          "ru": "Реконструкция отеля после 4 лет работы завершена в 2013 году."
         },
         {
-          "de": "Die Renovierung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Ремонт / косметический ремонт играет решающую роль в успехе."
+          "de": "Die letzte Renovierung des Gebäudes erfolgte im Jahr 2002.",
+          "ru": "Последняя реставрация здания производилась в 2002 году."
         }
       ],
       "synonyms": []
@@ -1616,24 +1580,24 @@
       "translation_en": "to renovate",
       "examples": [
         {
-          "de": "Wir renovieren diese Angelegenheit direkt im Team.",
-          "ru": "Мы делать ремонт (косметический) этот вопрос непосредственно в команде."
+          "de": "In den Sommerferien helfe ich, das Basketballfeld zu renovieren.",
+          "ru": "В летние каникулы я буду помогать ремонтировать баскетбольную площадку."
         },
         {
-          "de": "Ich renoviere die notwendigen Unterlagen sofort.",
-          "ru": "Я делать ремонт (косметический) необходимые документы незамедлительно."
+          "de": "In den letzten Monaten haben Cam und ich gemeinsam ein Haus renovieren lassen, um es profitabel weiter zu verkaufen und ich muss sagen, es läuft großartig!",
+          "ru": "Последние несколько месяцев мы с Кэмом ремонтируем дом, который собираемся перепродать, и, должна признаться, у нас отлично получается!"
         },
         {
-          "de": "Der verantwortliche Kollege renoviert das Ganze sehr professionell.",
-          "ru": "Ответственный коллега делать ремонт (косметический) всё это очень профессионально."
+          "de": "Wenn wir das nächste Mal renovieren, nehmen wir Kalkstein.",
+          "ru": "Буду делать ремонт, возьму известняк."
         },
         {
-          "de": "Wir haben das Thema erfolgreich renoviert.",
-          "ru": "Мы успешно делать ремонт (косметический) (в прошедшем времени) эту тему."
+          "de": "Ich werde es bald renovieren.",
+          "ru": "Скоро буду делать ремонт."
         },
         {
-          "de": "renovieren Sie bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: делать ремонт (косметический) вовремя!"
+          "de": "Ich hab's gebraucht, um das Haus zu renovieren.",
+          "ru": "Они мне нужны были, чтобы отремонтировать дом."
         }
       ],
       "synonyms": [],
@@ -1657,24 +1621,24 @@
       "translation_en": "flatshare / Wohngemeinschaft",
       "examples": [
         {
-          "de": "Hier ist die WG.",
-          "ru": "Вот коммунальная квартира (студенческая)."
+          "de": "Ich liebe es, in einer WG zu wohnen.",
+          "ru": "Я на самом деле люблю жить с соседями."
         },
         {
-          "de": "Wir müssen die WG genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: коммунальная квартира (студенческая)."
+          "de": "Du wohnst mit zwei anderen in einer WG.",
+          "ru": "Снимаешь квартиру с двумя соседями."
         },
         {
-          "de": "Sind Sie mit der WG einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: коммунальная квартира (студенческая)?"
+          "de": "Meine WG gibt eine Party und es ist nicht weit von hier.",
+          "ru": "Мои сожители устраивают вечеринку недалеко отсюда."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die WG.",
-          "ru": "Сегодня мы концентрируемся на теме: коммунальная квартира (студенческая)."
+          "de": "Spannungen gibt es in jeder WG.",
+          "ru": "Трения по поводу любой ситуации в квартире."
         },
         {
-          "de": "Die WG spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Коммунальная квартира (студенческая) играет решающую роль в успехе."
+          "de": "In einer WG mit einem gruseligen Mitbewohner?",
+          "ru": "В какой-то причудливой квартире с придурковатым соседом?"
         }
       ],
       "synonyms": []
@@ -1687,24 +1651,24 @@
       "translation_en": "flatmate",
       "examples": [
         {
-          "de": "Hier ist der Mitbewohner.",
-          "ru": "Вот сосед по квартире."
+          "de": "Ich würde Sie ja hoch bitten, aber mein Mitbewohner schläft tagsüber.",
+          "ru": "Я бы пригласила вас, но мой сосед по комнате днем спит."
         },
         {
-          "de": "Wir müssen den Mitbewohner genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: сосед по квартире."
+          "de": "Sekunde, ich glaub, da kommt mein Mitbewohner.",
+          "ru": "Погоди, кажется пришёл мой сосед по комнате."
         },
         {
-          "de": "Sind Sie mit dem Mitbewohner einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: сосед по квартире?"
+          "de": "Entschuldige die Störung, Mitbewohner, aber ich versuche eine Wurst zu machen.",
+          "ru": "Извините, что прерываю, соседи, но я пытаюсь сделать колбасу."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Mitbewohner.",
-          "ru": "Сегодня мы концентрируемся на теме: сосед по квартире."
+          "de": "Ich habe Mitbewohner, da gibt es keine Privatsphäre.",
+          "ru": "У меня есть соседи, никакого уединения."
         },
         {
-          "de": "Der Mitbewohner spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Сосед по квартире играет решающую роль в успехе."
+          "de": "Und ich bin nicht nur dein Mitbewohner.",
+          "ru": "И я не просто сосед по квартире."
         }
       ],
       "synonyms": []
@@ -1717,24 +1681,24 @@
       "translation_en": "room",
       "examples": [
         {
-          "de": "Hier ist das Zimmer.",
-          "ru": "Вот комната."
+          "de": "Das ist bloß ein weiteres Zimmer, das du saubermachen musst.",
+          "ru": "Это всего лишь еще одна комната, в которой следует прибраться."
         },
         {
-          "de": "Wir müssen das Zimmer genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: комната."
+          "de": "Dein Zimmer ist genau so, wie du es verlassen hast.",
+          "ru": "Твоя комната все в том же виде, как ты ее оставила."
         },
         {
-          "de": "Sind Sie mit dem Zimmer einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: комната?"
+          "de": "Ich wusste nicht genau, wann ich das Zimmer aufräumen sollte.",
+          "ru": "Я не знала во сколько вы хотели чтобы я пришла убирать номер."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Zimmer.",
-          "ru": "Сегодня мы концентрируемся на теме: комната."
+          "de": "Ich kam zurück in unser Zimmer und er war tot.",
+          "ru": "Я вернулась в наш номер, и он был уже мертв."
         },
         {
-          "de": "Das Zimmer spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Комната играет решающую роль в успехе."
+          "de": "Er weiß nicht mal mehr, wie er in ihr Zimmer kam.",
+          "ru": "Он даже не помнит, что заходил в ее палату."
         }
       ],
       "synonyms": []
@@ -1747,24 +1711,16 @@
       "translation_en": "fitted kitchen",
       "examples": [
         {
-          "de": "Hier ist die Einbauküche.",
-          "ru": "Вот встроенная кухня."
+          "de": "Zwei Riesenbetten, Einbauküche, Dampfdusche... und Satelliten-TV mit Rundum-Sound.",
+          "ru": "Огромные кровати, шикарная кухня, душ с паром спутниковое ТВ с объёмным звуком."
         },
         {
-          "de": "Wir müssen die Einbauküche genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: встроенная кухня."
+          "de": "Oh. Brandneue Holzdielen, brandneue Einbauküche.",
+          "ru": "Новое паркетное покрытие, новая бытовая техника."
         },
         {
-          "de": "Sind Sie mit der Einbauküche einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: встроенная кухня?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Einbauküche.",
-          "ru": "Сегодня мы концентрируемся на теме: встроенная кухня."
-        },
-        {
-          "de": "Die Einbauküche spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Встроенная кухня играет решающую роль в успехе."
+          "de": "Und in der Nähe der Sphinx: eine große Einbauküche.",
+          "ru": "А рядом со сфинксами большая оборудованная кухня"
         }
       ],
       "synonyms": []
@@ -1777,24 +1733,24 @@
       "translation_en": "bathroom",
       "examples": [
         {
-          "de": "Hier ist das Bad.",
-          "ru": "Вот ванная комната / ванна."
+          "de": "Tja, ist etwas bescheiden hier, aber wir haben ein eigenes Bad.",
+          "ru": "Знаю, что это немного, но у нас есть собственная ванная."
         },
         {
-          "de": "Wir müssen das Bad genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: ванная комната / ванна."
+          "de": "Als ich sie weckte, schob sie mich weg und ging ins Bad.",
+          "ru": "Когда я разбудил ее, она оттолкнула меня и пошла в ванную."
         },
         {
-          "de": "Sind Sie mit dem Bad einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: ванная комната / ванна?"
+          "de": "Ich hoffe, ein heißes Bad bringt mich zu Verstand.",
+          "ru": "Давай надеяться, что горячая ванна приведёт меня в чувство."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Bad.",
-          "ru": "Сегодня мы концентрируемся на теме: ванная комната / ванна."
+          "de": "Nichts, was ein heißes Bad nicht wieder in Ordnung bringt.",
+          "ru": "Ничего, что не смогла бы исправить горячая ванна."
         },
         {
-          "de": "Das Bad spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Ванная комната / ванна играет решающую роль в успехе."
+          "de": "Gut, du darfst unser Bad benutzen.",
+          "ru": "Ладно, можешь бежать в наш туалет."
         }
       ],
       "synonyms": []
@@ -1807,24 +1763,24 @@
       "translation_en": "balcony",
       "examples": [
         {
-          "de": "Hier ist der Balkon.",
-          "ru": "Вот балкон."
+          "de": "Die Tür war von innen verschlossen, Sie mussten über den Balkon klettern.",
+          "ru": "Дверь была заперта изнутри, тебе пришлось спускаться через балкон."
         },
         {
-          "de": "Wir müssen den Balkon genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: балкон."
+          "de": "Sie kam jeweils auf den Balkon und lächelte mich an.",
+          "ru": "Она выходила на балкон... улыбалась мне."
         },
         {
-          "de": "Sind Sie mit dem Balkon einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: балкон?"
+          "de": "Oder ich esse sie, wenn ich mal wieder auf dem Balkon penne.",
+          "ru": "Или я съем их, когда придется опять спать на балконе."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Balkon.",
-          "ru": "Сегодня мы концентрируемся на теме: балкон."
+          "de": "Moment mal, auf dem Balkon hast du mich gefragt.",
+          "ru": "Минуточку, но ведь на балконе ты сама меня спросила."
         },
         {
-          "de": "Der Balkon spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Балкон играет решающую роль в успехе."
+          "de": "Zwei Streuner auf dem Balkon, ich hab sie nicht im Schussfeld.",
+          "ru": "Внимание, там два стрелка на балконе, мне их не снять."
         }
       ],
       "synonyms": []
@@ -1837,24 +1793,24 @@
       "translation_en": "terrace",
       "examples": [
         {
-          "de": "Hier ist die Terrasse.",
-          "ru": "Вот терраса."
+          "de": "Einige Zimmer verfügen über einen privaten Balkon oder eine Terrasse.",
+          "ru": "В некоторых номерах есть балкон или терраса."
         },
         {
-          "de": "Wir müssen die Terrasse genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: терраса."
+          "de": "Jede Einheit verfügt über eine vollständig ausgestattete Küche, eine Terrasse und moderne Ausstattung.",
+          "ru": "В каждом номере имеется полностью оборудованная кухня, открытая терраса и современная мебель."
         },
         {
-          "de": "Sind Sie mit der Terrasse einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: терраса?"
+          "de": "Wenn die Terrasse erst mal fertig ist, Sitz ich in der Sonne und trink Bier.",
+          "ru": "Когда будет готова веранда, смогу сидеть на солнышке и потягивать пиво!"
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Terrasse.",
-          "ru": "Сегодня мы концентрируемся на теме: терраса."
+          "de": "Dann könnte ich noch eine Terrasse bauen, verstehst du?",
+          "ru": "Тогда можно будет построить ещё одну веранду без крыши."
         },
         {
-          "de": "Die Terrasse spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Терраса играет решающую роль в успехе."
+          "de": "Also trage ich dich für die Terrasse ein.",
+          "ru": "Ну я запишу тебя на работу в патио."
         }
       ],
       "synonyms": []
@@ -1867,24 +1823,24 @@
       "translation_en": "cellar",
       "examples": [
         {
-          "de": "Hier ist der Keller.",
-          "ru": "Вот подвал."
+          "de": "Dann sah er, wie sie alle in den Keller gingen.",
+          "ru": "Затем он видел, как все они спустились в подвал."
         },
         {
-          "de": "Wir müssen den Keller genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: подвал."
+          "de": "Sobald ich ihn los bin, bringst du sie in den Keller.",
+          "ru": "Как только я от него избавлюсь, отведи её назад в подвал."
         },
         {
-          "de": "Sind Sie mit dem Keller einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: подвал?"
+          "de": "Ich würde ein großes Schloss kaufen und die Keller mit Süßigkeiten füllen.",
+          "ru": "Тогда я куплю себе огромный замок и набью весь погреб конфетами..."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Keller.",
-          "ru": "Сегодня мы концентрируемся на теме: подвал."
+          "de": "Du wirst das, was du suchst, im Keller finden.",
+          "ru": "Ты найдёшь, что ищешь в погребе."
         },
         {
-          "de": "Der Keller spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Подвал играет решающую роль в успехе."
+          "de": "Uns wurde gesagt, sie kamen von einem überfluteten Keller von nebenan.",
+          "ru": "Нам сказали, что они прибежали из соседнего затопленного подвала."
         }
       ],
       "synonyms": []
@@ -1897,24 +1853,24 @@
       "translation_en": "attic",
       "examples": [
         {
-          "de": "Hier ist der Dachboden.",
-          "ru": "Вот чердак."
+          "de": "Und wir dachten, das mit dem Dachboden wäre schon übel.",
+          "ru": "Да, а мы думали, что чердак был плох."
         },
         {
-          "de": "Wir müssen den Dachboden genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: чердак."
+          "de": "Es verschwindet wieder auf dem Dachboden und ich will keine weiteren Fragen hören.",
+          "ru": "Я забираю это обратно на чердак, и мне не нужны вопросы."
         },
         {
-          "de": "Sind Sie mit dem Dachboden einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: чердак?"
+          "de": "Marcel, du siehst in mir immer noch das kleine Mädchen vom Dachboden.",
+          "ru": "Марсель, ты всё ещё видишь во мне эту маленькую девочку на чердаке."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Dachboden.",
-          "ru": "Сегодня мы концентрируемся на теме: чердак."
+          "de": "Du kannst auf dem Dachboden beim Teleskop sitzen oder weiterleben.",
+          "ru": "Можешь либо сидеть на чердаке и играться с телескопом, либо двигаться дальше."
         },
         {
-          "de": "Der Dachboden spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Чердак играет решающую роль в успехе."
+          "de": "Ich werde die ganze Nacht auf sein, um den Dachboden zu durchwühlen.",
+          "ru": "Я буду на ногах всю ночь, копаясь на чердаке."
         }
       ],
       "synonyms": []
@@ -1927,24 +1883,24 @@
       "translation_en": "parking space",
       "examples": [
         {
-          "de": "Hier ist der Stellplatz.",
-          "ru": "Вот парковочное место."
+          "de": "Die leere Campingwagen und die Zelte bezahlen in der Vorsaison und Mittelsaison: Stellplatz + eine Person in der Hochsaison: Stellplatz + zwei Personen.",
+          "ru": "В случае неосвобождения домика до 10:00, дополнительный день будет отнесен на счет клиента. Прицепы или свободные походные палатки, стоят в течение низкого и среднего сезона: площадка + 1 человек; в течение высокого сезона: площадка + 2 человека."
         },
         {
-          "de": "Wir müssen den Stellplatz genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: парковочное место."
+          "de": "Und der Stellplatz hinter dem Haus ist unverzichtbar in Federal Hill.",
+          "ru": "И парковочное место на заднем дворе не облагается налогами в Федерал Хилл."
         },
         {
-          "de": "Sind Sie mit dem Stellplatz einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: парковочное место?"
+          "de": "Ich brauche den Stellplatz sowieso für meine Orgel.",
+          "ru": "Ну, всё равно мне нужно освободить парковку для органа."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Stellplatz.",
-          "ru": "Сегодня мы концентрируемся на теме: парковочное место."
+          "de": "Ich gehe aus dem Haus und dort ist das Auto mitten auf dem Stellplatz.",
+          "ru": "Я вышел из дома - и увидел эту тачку на дорожке перед домом."
         },
         {
-          "de": "Der Stellplatz spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Парковочное место играет решающую роль в успехе."
+          "de": "Steht auf seinem Stellplatz.",
+          "ru": "Она была на его парковке."
         }
       ],
       "synonyms": []
@@ -1957,24 +1913,24 @@
       "translation_en": "garage",
       "examples": [
         {
-          "de": "Hier ist die Garage.",
-          "ru": "Вот гараж."
+          "de": "Du musst zusammen mit den anderen Erntern in der Garage warten.",
+          "ru": "Тебе нужно вернуться в гараж и ждать с другими жнецами."
         },
         {
-          "de": "Wir müssen die Garage genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: гараж."
+          "de": "Bring deinen Wagen in die Garage und gib mir die Liste.",
+          "ru": "Откати свою тележку в гараж и принеси мне свой отчет."
         },
         {
-          "de": "Sind Sie mit der Garage einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: гараж?"
+          "de": "Ich wollte es dir in der Garage sagen, aber ich konnte nicht.",
+          "ru": "Я пыталась сказать тебе тогда в гараже, но не смогла."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Garage.",
-          "ru": "Сегодня мы концентрируемся на теме: гараж."
+          "de": "Nein, aber in unserer Garage sind ein paar Leichen vergraben.",
+          "ru": "Нет, но есть несколько тел, закопанных в нашем гараже."
         },
         {
-          "de": "Die Garage spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Гараж играет решающую роль в успехе."
+          "de": "Oh, ja, in dem leeren Zimmer über der Garage.",
+          "ru": "А ну, да, в этой пустой комнате над гаражом."
         }
       ],
       "synonyms": []
@@ -1987,24 +1943,24 @@
       "translation_en": "rent index",
       "examples": [
         {
-          "de": "Hier ist der Mietspiegel.",
-          "ru": "Вот официальный индекс арендной платы."
+          "de": "Ich verschwinde, aber lass mich vorher die Spiegel übermalen.",
+          "ru": "Я обещаю, что уйду, только разреши закрасить зеркала."
         },
         {
-          "de": "Wir müssen den Mietspiegel genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: официальный индекс арендной платы."
+          "de": "Was, wenn die Spiegel uns was Falsches zeigen?",
+          "ru": "А вдруг зеркала показывают нам то, что не происходит в реальности?"
         },
         {
-          "de": "Sind Sie mit dem Mietspiegel einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: официальный индекс арендной платы?"
+          "de": "Und was es auch war, es verließ meinen Körper und drang in die Spiegel ein.",
+          "ru": "И вот это нечто вышло из меня и вошло в зеркала."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Mietspiegel.",
-          "ru": "Сегодня мы концентрируемся на теме: официальный индекс арендной платы."
+          "de": "Überprüf die Spiegel, stell den Sitz ein, sitz bequem.",
+          "ru": "Проверьте свои зеркала, свое место, устройтесь поудобней."
         },
         {
-          "de": "Der Mietspiegel spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Официальный индекс арендной платы играет решающую роль в успехе."
+          "de": "Und, Will, die Spiegel in Ihrem Verstand können nur das Beste von Ihnen reflektieren, nicht das Schlechteste von jemand anderem.",
+          "ru": "И, воля, зеркала в ваш разум может отражают лучшие из себя, не самое худшее кого-то другого."
         }
       ],
       "synonyms": []
@@ -2017,24 +1973,24 @@
       "translation_en": "rent control",
       "examples": [
         {
-          "de": "Hier ist die Mietpreisbremse.",
-          "ru": "Вот ограничение роста стоимости аренды."
+          "de": "die geplante, so genannte Mietpreisbremse",
+          "ru": "плановый, так называемый арендный тормоз"
         },
         {
-          "de": "Wir müssen die Mietpreisbremse genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: ограничение роста стоимости аренды."
+          "de": "die Mietpreisbremse einführen",
+          "ru": "ввести контроль за арендной платой"
         },
         {
-          "de": "Sind Sie mit der Mietpreisbremse einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: ограничение роста стоимости аренды?"
+          "de": "die Einführung der Mietpreisbremse",
+          "ru": "введение потолка арендной платы"
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Mietpreisbremse.",
-          "ru": "Сегодня мы концентрируемся на теме: ограничение роста стоимости аренды."
+          "de": "von der Mietpreisbremse ausnehmen",
+          "ru": "освобожден от контроля арендной платы"
         },
         {
-          "de": "Die Mietpreisbremse spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Ограничение роста стоимости аренды играет решающую роль в успехе."
+          "de": "der Mindestlohn, die Regulierung, die Rente und die Mietpreisbremse",
+          "ru": "минимальная заработная плата, регулирование, пенсии и контроль арендной платы"
         }
       ],
       "synonyms": []
@@ -2047,24 +2003,24 @@
       "translation_en": "living space",
       "examples": [
         {
-          "de": "Hier ist die Wohnfläche.",
-          "ru": "Вот жилая площадь."
+          "de": "Nach der Ankunft auf die Stelle bezahlt der Kunde die uebrige Summe unmittelbar dem Wirt der Wohnflaeche vom Bargeld.",
+          "ru": "Остальную сумму клиент оплачивает по прибытии на место непосредственно хозяину жилья наличными."
         },
         {
-          "de": "Wir müssen die Wohnfläche genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: жилая площадь."
+          "de": "Alle Ansprueche, die im Laufe der Ueberlassung der Dienstleistung entstehen, soll der Kunde unmittelbar dem Wirt der Wohnflaeche vorlegen.",
+          "ru": "Все претензии, возникающие в процессе предоставления услуги, клиент должен предъявлять непосредственно хозяину жилья."
         },
         {
-          "de": "Sind Sie mit der Wohnfläche einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: жилая площадь?"
+          "de": "Die Ergebnisse von 2013 schlugen den Branchen- sowie den eigenen Rekord von 1,51 Mio. m² der Wohnfläche aus dem Jahr 2009.",
+          "ru": "Результат 2013 года побил отраслевой и собственный рекорд в 1,51 млн м² жилья, установленный компанией в 2009 году."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Wohnfläche.",
-          "ru": "Сегодня мы концентрируемся на теме: жилая площадь."
+          "de": "Was den Wohnungssektor angeht, wurden im Jahr 2001 in den Zentral- und Südprovinzen 14,9 Millionen Quadratmeter Wohnfläche gebaut, sodass Wohnraum für rund eine halbe Million Menschen und 200.000 neue Arbeitsplätze für gelernte und ungelernte Arbeitskräfte geschaffen wurden.",
+          "ru": "В секторе жилищного строительства в 2001 году было построено 14,9 млн. квадратных метров жилья в центральных и южных мухафазах, благодаря чему жилье получили приблизительно полмиллиона человек и было создано более 200000 новых рабочих мест для квалифицированных и неквалифицированных рабочих."
         },
         {
-          "de": "Die Wohnfläche spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Жилая площадь играет решающую роль в успехе."
+          "de": "Der Kunde kommt selbstaendig auf das Objekt der Mietung an und ist verpflichtet, die Dienstleistung der Mietung bis 10 Stunden des zweiten Tages der Reservierung zu uebernehmen. Andernfalls ist der Wirt der Wohnflaeche berechtigt, die angegebene Dienstleistung den anderen Personen anzubieten.",
+          "ru": "Клиент прибывает самостоятельно непосредственно на объект размещения и обязан принять услугу размещения до 10 часов второго дня бронирования. В противном случае хозяин жилья имеет право предложить указанную услугу третьим лицам."
         }
       ],
       "synonyms": []
@@ -2077,24 +2033,24 @@
       "translation_en": "square meter",
       "examples": [
         {
-          "de": "Hier ist das Quadratmeter.",
-          "ru": "Вот квадратный метр."
+          "de": "Jeder Quadratmeter wurde vom Shah selbst entworfen.",
+          "ru": "Каждый квадратный метр был спроектирован самим шахом."
         },
         {
-          "de": "Wir müssen das Quadratmeter genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: квадратный метр."
+          "de": "Die Fülle, wie viele Fische es pro Quadratmeter gibt, erhöht sich um fast 170 Prozent.",
+          "ru": "Изобилие, количество рыбы на квадратный метр, увеличивается почти на 170%."
         },
         {
-          "de": "Sind Sie mit dem Quadratmeter einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: квадратный метр?"
+          "de": "Ich war allein in einer neun Quadratmeter großen Zelle eingesperrt.",
+          "ru": "Я сидел один в камере на девять квадратных метров."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Quadratmeter.",
-          "ru": "Сегодня мы концентрируемся на теме: квадратный метр."
+          "de": "Seismische Aktivität ist normalerweise nicht auf ein paar Quadratmeter begrenzt, verstehen Sie?",
+          "ru": "Сейсмическая активность обычно не ограничивается парой квадратных метров, понимаете, о чём я?"
         },
         {
-          "de": "Das Quadratmeter spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Квадратный метр играет решающую роль в успехе."
+          "de": "Und wie viele Quadratmeter?",
+          "ru": "И сколько квадратных футов?"
         }
       ],
       "synonyms": []
@@ -2107,24 +2063,24 @@
       "translation_en": "utility bill",
       "examples": [
         {
-          "de": "Hier ist die Nebenkostenabrechnung.",
-          "ru": "Вот расчет коммунальных услуг за год."
+          "de": "Bis heute prozessieren manche von ihnen um ihre Nebenkostenabrechnungen aus den siebziger Jahren.",
+          "ru": "По сей день некоторые из них все еще судятся по поводу счетов за коммунальные услуги 1970-х годов."
         },
         {
-          "de": "Wir müssen die Nebenkostenabrechnung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: расчет коммунальных услуг за год."
+          "de": "Das trifft dann auch auf die erst später zu erstellende Nebenkostenabrechnung zu.",
+          "ru": "Это касается и счета за коммунальные услуги, который будет создан позже."
         },
         {
-          "de": "Sind Sie mit der Nebenkostenabrechnung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: расчет коммунальных услуг за год?"
+          "de": "Denn bis zur nächsten Nebenkostenabrechnung kann es im ungünstigsten Fall fast zwei Jahre dauern.",
+          "ru": "В худшем случае до следующего счета за коммунальные услуги может пройти почти два года."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Nebenkostenabrechnung.",
-          "ru": "Сегодня мы концентрируемся на теме: расчет коммунальных услуг за год."
+          "de": "Andererseits befreit der Fristablauf keinesfalls von der Pflicht zur Erstellung einer Nebenkostenabrechnung.",
+          "ru": "С другой стороны, истечение срока никоим образом не освобождает вас от обязанности подготовить дополнительную смету расходов."
         },
         {
-          "de": "Die Nebenkostenabrechnung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Расчет коммунальных услуг за год играет решающую роль в успехе."
+          "de": "Kaum sind die horrenden Nebenkostenabrechnungen durch, wird der Strom schon wieder teurer!",
+          "ru": "Как только пройдут ужасающие счета за коммунальные услуги, электричество снова станет дороже!"
         }
       ],
       "synonyms": []
@@ -2137,24 +2093,24 @@
       "translation_en": "additional payment",
       "examples": [
         {
-          "de": "Hier ist die Nachzahlung.",
-          "ru": "Вот доплата (при перерасчете)."
+          "de": "Nach einer Woche eine Nachzahlung.",
+          "ru": "Апелляция - всё по-новой."
         },
         {
-          "de": "Wir müssen die Nachzahlung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: доплата (при перерасчете)."
+          "de": "Weil alle EU-Mitgliedsstaaten verpflichtet sind, rund 1% ihres BNE an den Unionshaushalt abzuführen, führte die britische Datenprüfung zwangsläufig zu einer milliardenschweren Nachzahlung.",
+          "ru": "Поскольку все члены ЕС обязаны перечислять примерно 1% своего ВНД в бюджет Евросоюза, ревизия британской статистики привела к необходимости выплатить миллиарды евро задним числом."
         },
         {
-          "de": "Sind Sie mit der Nachzahlung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: доплата (при перерасчете)?"
+          "de": "Der Minister kündigte eine Nachzahlung der entstandenen Kosten an.",
+          "ru": "Министру пришлось объяснить, с чем были связаны выплаты."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Nachzahlung.",
-          "ru": "Сегодня мы концентрируемся на теме: доплата (при перерасчете)."
+          "de": "Addiert man die drei unerlaubten Abzüge im Lauf der letzten sechs Jahre, beläuft sich die Nachzahlung auf...",
+          "ru": "Но если добавить три фальшивых вычета за более чем шесть лет, получается..."
         },
         {
-          "de": "Die Nachzahlung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Доплата (при перерасчете) играет решающую роль в успехе."
+          "de": "So viel Nachzahlung, wie Sie leisten müssten, können Sie sich gar nicht leisten.",
+          "ru": "Можете считать, что между нами ничего не произошло."
         }
       ],
       "synonyms": []
@@ -2167,24 +2123,24 @@
       "translation_en": "credit / balance",
       "examples": [
         {
-          "de": "Hier ist das Guthaben.",
-          "ru": "Вот актив / остаток в пользу плательщика."
+          "de": "OK. Sie hatten ein Guthaben von 93 Cents.",
+          "ru": "Так, у вас был баланс 93 цента..."
         },
         {
-          "de": "Wir müssen das Guthaben genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: актив / остаток в пользу плательщика."
+          "de": "Falls ein Geschäft dieser Art nicht greift, werden die Sicherheiten auf Ihr Guthaben zurückgebucht.",
+          "ru": "Если такая сделка не будет совершена, то все обеспечения возвращаются на ваш свободный баланс."
         },
         {
-          "de": "Sind Sie mit dem Guthaben einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: актив / остаток в пользу плательщика?"
+          "de": "Du hast noch Guthaben im Laden.",
+          "ru": "У тебя остался кредит в магазине."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Guthaben.",
-          "ru": "Сегодня мы концентрируемся на теме: актив / остаток в пользу плательщика."
+          "de": "Ich müsste ein Guthaben haben.",
+          "ru": "Привет, м, у меня здесь должен быть кредит."
         },
         {
-          "de": "Das Guthaben spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Актив / остаток в пользу плательщика играет решающую роль в успехе."
+          "de": "Ich bekomme mein Guthaben wohl nie mehr zurück.",
+          "ru": "Я никогда не получу свой аванс"
         }
       ],
       "synonyms": []
@@ -2197,24 +2153,24 @@
       "translation_en": "rent increase",
       "examples": [
         {
-          "de": "Hier ist die Mieterhöhung.",
-          "ru": "Вот повышение арендной платы."
+          "de": "Aber mit der Mieterhöhung müsste ich mich verschulden.",
+          "ru": "Но это повышение ренты повергнет меня в долги,"
         },
         {
-          "de": "Wir müssen die Mieterhöhung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: повышение арендной платы."
+          "de": "Hier sind sechs Monate Mieterhöhung im Voraus.",
+          "ru": "Держите, это вам на 6 месяцев вперед."
         },
         {
-          "de": "Sind Sie mit der Mieterhöhung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: повышение арендной платы?"
+          "de": "Besonders bei der Mieterhöhung.",
+          "ru": "К тому же, сумма возросла..."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Mieterhöhung.",
-          "ru": "Сегодня мы концентрируемся на теме: повышение арендной платы."
+          "de": "Wissen Sie von der Mieterhöhung?",
+          "ru": "Вы получили письмо об изменении условий аренды?"
         },
         {
-          "de": "Die Mieterhöhung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Повышение арендной платы играет решающую роль в успехе."
+          "de": "Ich habe die Mieterhöhungen ab nächsten Monat ausgerechnet.",
+          "ru": "Я пересмотрел тарифы, и увеличил ренту в следующем месяце."
         }
       ],
       "synonyms": []
@@ -2227,24 +2183,20 @@
       "translation_en": "housing benefit",
       "examples": [
         {
-          "de": "Hier ist das Wohngeld.",
-          "ru": "Вот жилищное пособие / субсидия на аренду."
+          "de": "Ich krieg bald Wohngeld.",
+          "ru": "Я должен получить чек."
         },
         {
-          "de": "Wir müssen das Wohngeld genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: жилищное пособие / субсидия на аренду."
+          "de": "Ich krieg bald Wohngeld.",
+          "ru": "Скоро должны прислать чек за квартиру."
         },
         {
-          "de": "Sind Sie mit dem Wohngeld einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: жилищное пособие / субсидия на аренду?"
+          "de": "Kein Sicherheitsdienst meldet den Diebstahl seiner Lohngelder.",
+          "ru": "Никакая частная фирма никогда не будет докладывать о краже их денег."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Wohngeld.",
-          "ru": "Сегодня мы концентрируемся на теме: жилищное пособие / субсидия на аренду."
-        },
-        {
-          "de": "Das Wohngeld spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Жилищное пособие / субсидия на аренду играет решающую роль в успехе."
+          "de": "Haben Fanty und Mingo Recht, was die Lohngelder angeht, könnte das 'n sonniger Tag für uns werden.",
+          "ru": "Если Фэнти и Минго правы насчет платежной ведомости... это был бы для нас солнечный день."
         }
       ],
       "synonyms": []
@@ -2257,24 +2209,24 @@
       "translation_en": "public housing certificate",
       "examples": [
         {
-          "de": "Hier ist der Wohnberechtigungsschein.",
-          "ru": "Вот справка на право получения соцжилья."
+          "de": "Für Wohnberechtigungsscheine für Sozialwohnungen kassieren die Ämter künftig 15 Euro.",
+          "ru": "В будущем власти будут собирать 15 евро за свидетельства о разрешении на социальное жилье."
         },
         {
-          "de": "Wir müssen den Wohnberechtigungsschein genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: справка на право получения соцжилья."
+          "de": "Einen Wohnberechtigungsschein braucht man nicht, eine Fehlbelegungsabgabe muss nicht gezahlt werden.",
+          "ru": "Вам не нужно свидетельство о праве на проживание, и вам не нужно платить за проживание."
         },
         {
-          "de": "Sind Sie mit dem Wohnberechtigungsschein einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: справка на право получения соцжилья?"
+          "de": "Wer diese Wohnungen mieten will, benötigt einen einkommensabhängigen Wohnberechtigungsschein (WBS).",
+          "ru": "Любой, кто хочет арендовать эти квартиры, должен получить свидетельство о праве на жилье в зависимости от дохода (WBS)."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Wohnberechtigungsschein.",
-          "ru": "Сегодня мы концентрируемся на теме: справка на право получения соцжилья."
+          "de": "Wer hier wohnen will, muß sich in lange Wartelisten eintragen und einen Wohnberechtigungsschein vorweisen.",
+          "ru": "Если вы хотите жить здесь, вам придется встать в длинные очереди и предъявить вид на жительство."
         },
         {
-          "de": "Der Wohnberechtigungsschein spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Справка на право получения соцжилья играет решающую роль в успехе."
+          "de": "Was bleibt, ist nur die Bearbeitung von Wohngeld und Wohnberechtigungsscheinen.",
+          "ru": "Остается только оформить жилищные пособия и жилищные сертификаты."
         }
       ],
       "synonyms": []
@@ -2287,24 +2239,24 @@
       "translation_en": "social housing",
       "examples": [
         {
-          "de": "Hier ist die Sozialwohnung.",
-          "ru": "Вот социальное жилье."
+          "de": "Wir ziehen zurück in eine Sozialwohnung.",
+          "ru": "Мы вернемся в социальное жилье."
         },
         {
-          "de": "Wir müssen die Sozialwohnung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: социальное жилье."
+          "de": "Ich bin nicht in einer Sozialwohnung aufgewachsen.",
+          "ru": "Нет, я не рос в трущобах"
         },
         {
-          "de": "Sind Sie mit der Sozialwohnung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: социальное жилье?"
+          "de": "Was wird denn, wenn du rauskommst und kriegst keine Sozialwohnung, weil du vorbestraft bist?",
+          "ru": "Что будет, если тебе не дадут бюджетное жилье, потому что у тебя судимость?"
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Sozialwohnung.",
-          "ru": "Сегодня мы концентрируемся на теме: социальное жилье."
+          "de": "Die Geschichte beweist, dass es egal ist, ob man in einer Sozialwohnung aufwächst oder auf einem Landgut.",
+          "ru": "История показывает, что не имеет значение, где вы проживаете - в муниципальном доме или в своём доме."
         },
         {
-          "de": "Die Sozialwohnung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Социальное жилье играет решающую роль в успехе."
+          "de": "Ich habe eine Sozialwohnung.",
+          "ru": "У меня квартира в 8 секции."
         }
       ],
       "synonyms": []
@@ -2317,24 +2269,24 @@
       "translation_en": "cooperative",
       "examples": [
         {
-          "de": "Hier ist die Genossenschaft.",
-          "ru": "Вот кооператив / товарищество."
+          "de": "Eine Gemeinschaftssiedlung ist eine Genossenschaft, in der alle Bewohner Mitglied sind.",
+          "ru": "Юридически общинное поселение работает как кооператив, в котором все жители должны быть членами."
         },
         {
-          "de": "Wir müssen die Genossenschaft genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: кооператив / товарищество."
+          "de": "In der Folge wurde die Trägergesellschaft in eine Genossenschaft umgewandelt.",
+          "ru": "Впоследствии товарищество было преобразовано в потребительский кооператив."
         },
         {
-          "de": "Sind Sie mit der Genossenschaft einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: кооператив / товарищество?"
+          "de": "Für die Genossenschaft sollten die Rochdaler Grundsätze gelten.",
+          "ru": "В основе деятельности кооператива лежат кооперативные принципы."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Genossenschaft.",
-          "ru": "Сегодня мы концентрируемся на теме: кооператив / товарищество."
+          "de": "Heute Morgen: die Bohnen hacken, die Kürbisse beschneiden, dann fährst du zur Genossenschaft und holst etwas Dünger.",
+          "ru": "Сегодня утром: вскопать фасоль, прищипать тыквы, затем... заехать в кооператив за удобрениями."
         },
         {
-          "de": "Die Genossenschaft spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Кооператив / товарищество играет решающую роль в успехе."
+          "de": "Die Mitglieder der Genossenschaft erhielten 35 Jahre uneingeschränkte Nutzungsrechte an dem Wohnraum.",
+          "ru": "Членам-пайщикам кооператива предоставлялось право пользоваться жилой площадью на протяжении 35 лет без каких-либо ограничений."
         }
       ],
       "synonyms": []
@@ -2347,24 +2299,24 @@
       "translation_en": "cooperative apartment",
       "examples": [
         {
-          "de": "Hier ist die Genossenschaftswohnung.",
-          "ru": "Вот кооперативная квартира."
+          "de": "Wer das Geld nicht hat, muß eben zwanzig bis dreißig Jahre auf eine subventionierte Genossenschaftswohnung warten.",
+          "ru": "Тому, у кого нет денег, приходится ждать двадцать-тридцать лет субсидированной кооперативной квартиры."
         },
         {
-          "de": "Wir müssen die Genossenschaftswohnung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: кооперативная квартира."
+          "de": "Seine Genossenschaftswohnung hat er verloren, weil er die Miete nicht mehr bezahlen konnte.",
+          "ru": "Он потерял свою кооперативную квартиру, потому что больше не мог платить за аренду."
         },
         {
-          "de": "Sind Sie mit der Genossenschaftswohnung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: кооперативная квартира?"
+          "de": "Genossenschaftswohnungen sind allerdings nicht grundsätzlich billiger als vergleichbare auf dem Wohnungsmarkt.",
+          "ru": "Однако кооперативные квартиры принципиально не дешевле сопоставимых на рынке жилья."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Genossenschaftswohnung.",
-          "ru": "Сегодня мы концентрируемся на теме: кооперативная квартира."
+          "de": "Die Vorschriften der Absätze 1 bis 4 gelten nicht für den Bau von Genossenschaftswohnungen.",
+          "ru": "Положения пунктов 1-4 не распространяются на строительство кооперативных квартир."
         },
         {
-          "de": "Die Genossenschaftswohnung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Кооперативная квартира играет решающую роль в успехе."
+          "de": "Dem Bauherrn steht bei einem Kaufeigenheim, einer Trägerkleinsiedlung, einer Kaufeigentumswohnung und einer Genossenschaftswohnung der Bewerber gleich.",
+          "ru": "Заявителем является тот же застройщик, что и для покупного дома, небольшого поддерживаемого жилого комплекса, покупной квартиры и кооперативной квартиры."
         }
       ],
       "synonyms": []
@@ -2377,24 +2329,24 @@
       "translation_en": "owner",
       "examples": [
         {
-          "de": "Hier ist der Eigentümer.",
-          "ru": "Вот собственник / владелец."
+          "de": "Jeder Eigentümer fegt vor seinem Haus sehr reinlich mit den Besen.",
+          "ru": "Каждый владелец очень чисто подметает метлой перед своим домом."
         },
         {
-          "de": "Wir müssen den Eigentümer genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: собственник / владелец."
+          "de": "Wir wollten es zurückgeben, aber der Eigentümer schrieb nirgends seinen Namen.",
+          "ru": "Мы хотели вернуть его, но его владелец никогда не писал своего имени."
         },
         {
-          "de": "Sind Sie mit dem Eigentümer einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: собственник / владелец?"
+          "de": "Schade, dass dir nicht auch der Eigentümer gefallen hat.",
+          "ru": "Как жаль, что тебе не так нравится его хозяин."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Eigentümer.",
-          "ru": "Сегодня мы концентрируемся на теме: собственник / владелец."
+          "de": "Obwohl die Lichter ausgeschaltet waren, war der Eigentümer zu Hause.",
+          "ru": "Мы не ожидали, ведь свет был выключен, что хозяин дома."
         },
         {
-          "de": "Der Eigentümer spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Собственник / владелец играет решающую роль в успехе."
+          "de": "Buntschuk, aus Ihnen spricht der Eigentümer.",
+          "ru": "Бунчук, в вас заговорил собственник."
         }
       ],
       "synonyms": []
@@ -2407,24 +2359,24 @@
       "translation_en": "owners' association",
       "examples": [
         {
-          "de": "Hier ist die Eigentümergemeinschaft.",
-          "ru": "Вот товарищество собственников жилья (ТСЖ)."
+          "de": "Denn damit stelle er seine Interessen über die der Eigentümergemeinschaft.",
+          "ru": "Потому что тем самым он ставит свои интересы выше интересов сообщества собственников."
         },
         {
-          "de": "Wir müssen die Eigentümergemeinschaft genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: товарищество собственников жилья (ТСЖ)."
+          "de": "Das allein genüge jedoch nicht, den Beschluss der Eigentümergemeinschaft ungültig zu machen.",
+          "ru": "Однако одного этого недостаточно, чтобы признать решение товарищества собственников недействительным."
         },
         {
-          "de": "Sind Sie mit der Eigentümergemeinschaft einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: товарищество собственников жилья (ТСЖ)?"
+          "de": "Besonders wichtig ist die Versammlung bei der Begründung der Eigentümergemeinschaft.",
+          "ru": "Собрание особенно важно при создании ассоциации собственников."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Eigentümergemeinschaft.",
-          "ru": "Сегодня мы концентрируемся на теме: товарищество собственников жилья (ТСЖ)."
+          "de": "Deshalb sei eine Umwandlung in eine Eigentümergemeinschaft weder nötig noch vertretbar.",
+          "ru": "Таким образом, преобразование в сообщество собственников не является ни необходимым, ни оправданным."
         },
         {
-          "de": "Die Eigentümergemeinschaft spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Товарищество собственников жилья (ТСЖ) играет решающую роль в успехе."
+          "de": "Sie überzeugten die Eigentümergemeinschaft, dass das Haus erhalten bleiben müsse.",
+          "ru": "Они убедили сообщество владельцев, что дом необходимо сохранить."
         }
       ],
       "synonyms": []
@@ -2437,24 +2389,24 @@
       "translation_en": "residential property",
       "examples": [
         {
-          "de": "Hier ist das Wohneigentum.",
-          "ru": "Вот жилая собственность."
+          "de": "Deshalb besitze ich kein Kraftfahrzeug, ... kein Wohneigentum, keine Versicherung und keine großen Ambitionen.",
+          "ru": "Так что у меня нет моторизованного транспорта, я не владею недвижимостью... нет страховки, нет больших амбиций."
         },
         {
-          "de": "Wir müssen das Wohneigentum genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: жилая собственность."
+          "de": "Er argumentierte, dass enorme Mengen an Auslandskapital über die US-Banken auf den Häusermarkt strömten, weil die internationalen Anleger „die Tiefe und Ausgereiftheit der Finanzmärkte des Landes (die den Haushalten u.a. einen problemlosen Zugriff auf Wohneigentum ermögliche)\" zu schätzen wüssten.",
+          "ru": "Он доказывал, что большие объемы иностранного капитала, которые прошли через американские банки в жилищный сектор, стали результатом оценки инвесторами «глубины и мудрости финансовых рынков страны (которые среди других возможностей позволяли семьям получить легкий доступ к жилищному богатству)»."
         },
         {
-          "de": "Sind Sie mit dem Wohneigentum einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: жилая собственность?"
+          "de": "Zudem funktionieren die Mechanismen, mit deren Hilfe die Käufe besicherter Anleihen der US Federal Reserve um die Verbraucher zu höheren Konsumausgaben ermutigen - niedrige Hypothekenzinsen, eine weithin verfügbare Eigenheimrefinanzierung, hohe Wohnungspreise und die Beleihung von Wohneigentum - in der Eurozone anders.",
+          "ru": "Кроме того, механизмы, с помощью которых покупки активов ценных бумаг Федеральной резервной системой США стимулируют потребительские расходы - низкие ставки по ипотечным кредитам, широко доступное рефинансирование недвижимости, высокие цены на жилье и вывоз из страны частного капитала - по-разному функционируют в еврозоне."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Wohneigentum.",
-          "ru": "Сегодня мы концентрируемся на теме: жилая собственность."
+          "de": "Bereits jetzt übersteigen die Einnahmen aus der Stempelsteuer für Wohneigentum in den Bezirken Westminster und Kensington & Chelsea, die im Steuerjahr 2012/13 bei 708 Millionen Pfund lagen, die Erlöse für Nordirland, Wales, Schottland, den Nordosten, Nordwesten, Yorkshire und die Region Humber zusammengenommen.",
+          "ru": "На данный момент госпошлина на жилую недвижимость в районах Вестминстер, Кенсингтон и Челси, составлявшая 708 миллионов фунтов в 2012/13 финансовом году, уже превышает общую сумму по Северной Ирландии, Уэльсу, Шотландии, северо-востоку, северо-западу, Йоркширу и Хамберу вместе взятым."
         },
         {
-          "de": "Das Wohneigentum spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Жилая собственность играет решающую роль в успехе."
+          "de": "Sie könnten zudem auf ein Programm zur Förderung des Wohneigentums hoffen, das endlich etwas gegen Amerikas Zwangsvollstreckungskrise tut.",
+          "ru": "Они также могут надеяться на жилищную программу, которая, наконец, разберется с ипотечным кризисом в Америке."
         }
       ],
       "synonyms": []
@@ -2467,24 +2419,24 @@
       "translation_en": "condominium",
       "examples": [
         {
-          "de": "Hier ist die Eigentumswohnung.",
-          "ru": "Вот приватизированная квартира."
+          "de": "Es ist nur eine Eigentumswohnung.",
+          "ru": "Это всего лишь квартира."
         },
         {
-          "de": "Wir müssen die Eigentumswohnung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: приватизированная квартира."
+          "de": "Sie hat eine Eigentumswohnung in Key Biscayne, Chauffeur, Blumen aus Europa, täglich.",
+          "ru": "У нее есть квартира в Кей Бискейн, шофер, ежедневно цветы из Европы."
         },
         {
-          "de": "Sind Sie mit der Eigentumswohnung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: приватизированная квартира?"
+          "de": "Ich gebe diesem Job alles, was ich habe, ich kann mir nicht mal eine Anzahlung für eine Eigentumswohnung leisten.",
+          "ru": "Я отдаю этой работе всего себя, а мне не по карману даже первый взнос за кондоминиум."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Eigentumswohnung.",
-          "ru": "Сегодня мы концентрируемся на теме: приватизированная квартира."
+          "de": "Und nun, vielleicht könnten wir bis dahin in unserer Eigentumswohnung leben.",
+          "ru": "И может быть, мы могли бы жить в нашей квартире."
         },
         {
-          "de": "Die Eigentumswohnung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Приватизированная квартира играет решающую роль в успехе."
+          "de": "Du musst ihr diese Eigentumswohnung kaufen, damit sie geht.",
+          "ru": "Купи ей квартиру, чтобы она съехала."
         }
       ],
       "synonyms": []
@@ -2497,24 +2449,24 @@
       "translation_en": "real estate agent",
       "examples": [
         {
-          "de": "Hier ist der Makler.",
-          "ru": "Вот риелтор / маклер."
+          "de": "So dass die Marge kann als Garantie dafür, dass der Makler wurden verhaftet, wenn Sie einen Handel machen, interpretiert werden.",
+          "ru": "Таким образом, разница может быть истолковано как гарантия того, что брокер, были арестованы, когда вы делаете торговли."
         },
         {
-          "de": "Wir müssen den Makler genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: риелтор / маклер."
+          "de": "Ich dachte, du wärst ein Makler?",
+          "ru": "Я думала, ты биржевой брокер."
         },
         {
-          "de": "Sind Sie mit dem Makler einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: риелтор / маклер?"
+          "de": "Sie wollen ihr Haus verkaufen und der Makler dekoriert es.",
+          "ru": "Ты хочешь продать свой дом, твой риэлтор украшает его."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Makler.",
-          "ru": "Сегодня мы концентрируемся на теме: риелтор / маклер."
+          "de": "Naomi hat gesagt du hast den besten Makler.",
+          "ru": "Наоми сказала, что у тебя лучший риэлтор."
         },
         {
-          "de": "Der Makler spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Риелтор / маклер играет решающую роль в успехе."
+          "de": "Robin, ein Makler wird sie einfach an den Höchstbietenden verkaufen.",
+          "ru": "Робин, риелтор отдаст её тому, кто больше заплатит."
         }
       ],
       "synonyms": []
@@ -2527,24 +2479,16 @@
       "translation_en": "broker's fee",
       "examples": [
         {
-          "de": "Hier ist die Maklergebühr.",
-          "ru": "Вот комиссия риелтора."
+          "de": "Ich sag euch was... für euch gehe ich noch 100 Riesen runter, weil ich dann keine Maklergebühr zahlen muss.",
+          "ru": "Вот что - для тебя я скину сотню тысяч, поскольку мне не придется платить комиссионные посреднику."
         },
         {
-          "de": "Wir müssen die Maklergebühr genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: комиссия риелтора."
+          "de": "Meinen Eltern, wegen der Maklergebühr.",
+          "ru": "Родителям. Может помогут сократить издержки при найме."
         },
         {
-          "de": "Sind Sie mit der Maklergebühr einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: комиссия риелтора?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Maklergebühr.",
-          "ru": "Сегодня мы концентрируемся на теме: комиссия риелтора."
-        },
-        {
-          "de": "Die Maklergebühr spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Комиссия риелтора играет решающую роль в успехе."
+          "de": "Er hat auch Maklergebühren bezahlt, oder?",
+          "ru": "И он также заплатил комиссию, так?"
         }
       ],
       "synonyms": []
@@ -2557,24 +2501,24 @@
       "translation_en": "viewing",
       "examples": [
         {
-          "de": "Hier ist die Besichtigung.",
-          "ru": "Вот осмотр (квартиры)."
+          "de": "Ich spreche mit dem Schulleiter und mache eine offizielle Besichtigung.",
+          "ru": "Побеседую с директором, проведу официальный осмотр школы."
         },
         {
-          "de": "Wir müssen die Besichtigung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: осмотр (квартиры)."
+          "de": "Dabei steht die Besichtigung des Hafens und der Verkehrseinrichtungen an.",
+          "ru": "В программу пребывания включены осмотр городского порта и транспортных средств."
         },
         {
-          "de": "Sind Sie mit der Besichtigung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: осмотр (квартиры)?"
+          "de": "Hier ist der Rest der Geschichte über die Gesellschaft Labor Intellicig nach der Präsentation und Besichtigung der Räumlichkeiten in Accrington in diesem Artikel.",
+          "ru": "Вот остальной части рассказа об обществе лаборатории Intellicig после презентации и экскурсии помещений в Accrington в этой статье."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Besichtigung.",
-          "ru": "Сегодня мы концентрируемся на теме: осмотр (квартиры)."
+          "de": "Zu jemandem, der die Besichtigung arrangiert hat, die ich der Klasse meiner Nichte versprochen habe.",
+          "ru": "Для тех, кто может организовать тур Я обещала моей племянницы третьего класса."
         },
         {
-          "de": "Die Besichtigung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Осмотр (квартиры) играет решающую роль в успехе."
+          "de": "Ich war in einem Ashram... zur Besichtigung.",
+          "ru": "Я ездила в Ашрам. В тур."
         }
       ],
       "synonyms": []
@@ -2587,24 +2531,24 @@
       "translation_en": "to view",
       "examples": [
         {
-          "de": "Wir besichtigen diese Angelegenheit direkt im Team.",
-          "ru": "Мы осматривать (помещение) этот вопрос непосредственно в команде."
+          "de": "Komm heute unser neues Haus besichtigen.",
+          "ru": "Арно, приходи сегодня посмотреть наш новый дом."
         },
         {
-          "de": "Ich besichtige die notwendigen Unterlagen sofort.",
-          "ru": "Я осматривать (помещение) необходимые документы незамедлительно."
+          "de": "Ich möchte die Wohnung so bald wie möglich besichtigen.",
+          "ru": "Я бы хотела посмотреть квартиру как можно скорее"
         },
         {
-          "de": "Der verantwortliche Kollege besichtigt das Ganze sehr professionell.",
-          "ru": "Ответственный коллега осматривать (помещение) всё это очень профессионально."
+          "de": "Wir möchten alle vier Backup-Anlagen von China besichtigen.",
+          "ru": "Мы хотели бы посетить все четыре резервных хранилища в Китае."
         },
         {
-          "de": "Wir haben das Thema erfolgreich besichtigt.",
-          "ru": "Мы успешно осматривать (помещение) (в прошедшем времени) эту тему."
+          "de": "Liebe Leute der ganzen Welt. Ich, Willy Wonka, werde dieses Jahr 5 Kindern erlauben, meine Fabrik zu besichtigen.",
+          "ru": "Дорогие жители планеты я, Вилли Вонка решил позволить пятерым детям посетить мою фабрику в этом году."
         },
         {
-          "de": "besichtigen Sie bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: осматривать (помещение) вовремя!"
+          "de": "Wieviele Denkmäler wollen Sie denn in einer Nacht besichtigen?",
+          "ru": "И сколько памятников вы собираетесь осмотреть за ночь?"
         }
       ],
       "synonyms": [],
@@ -2628,24 +2572,20 @@
       "translation_en": "viewing appointment",
       "examples": [
         {
-          "de": "Hier ist der Besichtigungstermin.",
-          "ru": "Вот время просмотра квартиры."
+          "de": "Ich habe heute Abend dort einen Besichtigungstermin.",
+          "ru": "Я показываю её сегодня вечером."
         },
         {
-          "de": "Wir müssen den Besichtigungstermin genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: время просмотра квартиры."
+          "de": "Er hat einen Besichtigungstermin in Marin County.",
+          "ru": "Он в Марин Каунти, показывает дом."
         },
         {
-          "de": "Sind Sie mit dem Besichtigungstermin einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: время просмотра квартиры?"
+          "de": "Sie hatte für 14 Uhr einen Besichtigungstermin.",
+          "ru": "Я должен был провести экскурсию новому постояльцу в 2 часа."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Besichtigungstermin.",
-          "ru": "Сегодня мы концентрируемся на теме: время просмотра квартиры."
-        },
-        {
-          "de": "Der Besichtigungstermin spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Время просмотра квартиры играет решающую роль в успехе."
+          "de": "Ich war schon bei einer Maklerin und sie könnte kurzfristig Besichtigungstermine für das Haus organisieren und...",
+          "ru": "Я говорила с риелтором и она думает что мы можем"
         }
       ],
       "synonyms": []
@@ -2658,24 +2598,24 @@
       "translation_en": "self-disclosure",
       "examples": [
         {
-          "de": "Hier ist die Selbstauskunft.",
-          "ru": "Вот анкета арендатора (сведения о себе)."
+          "de": "Ich fülle zum ersten Mal in meinem Leben eine Selbstauskunft aus.",
+          "ru": "Я заполняю самооценку первый раз в жизни."
         },
         {
-          "de": "Wir müssen die Selbstauskunft genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: анкета арендатора (сведения о себе)."
+          "de": "Wer wissen möchte, was die Schufa über die eigene Person gesammelt hat, kann eine so genannte Selbstauskunft verlangen.",
+          "ru": "Если вы хотите знать, что о вас собрала компания Schufa, вы можете запросить так называемое самораскрытие."
         },
         {
-          "de": "Sind Sie mit der Selbstauskunft einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: анкета арендатора (сведения о себе)?"
+          "de": "Die freiwillige Selbstauskunft allein ist indes weder neu noch ausreichend.",
+          "ru": "Однако само по себе добровольное самораскрытие не является ни новым, ни достаточным."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Selbstauskunft.",
-          "ru": "Сегодня мы концентрируемся на теме: анкета арендатора (сведения о себе)."
+          "de": "Wer wissen will, welche Daten die »Schufa« über seine persönliche Situation gespeichert hat, kann für 15 Mark eine Selbstauskunft beantragen.",
+          "ru": "Любой, кто хочет знать, какие данные о его личной ситуации хранит Schufa, может подать заявку на самораскрытие за 15 баллов."
         },
         {
-          "de": "Die Selbstauskunft spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Анкета арендатора (сведения о себе) играет решающую роль в успехе."
+          "de": "Er gibt seine Selbstauskünfte nicht nur einmal ab, sondern wieder und wieder.",
+          "ru": "Он не раз раскрывает себя один раз, а снова и снова."
         }
       ],
       "synonyms": []
@@ -2688,24 +2628,16 @@
       "translation_en": "credit report",
       "examples": [
         {
-          "de": "Hier ist der Schufa-Auszug.",
-          "ru": "Вот выписка из кредитной истории (Шуфа)."
+          "de": "Viele Vermieter verlangen vor dem Abschluss des Mietvertrags einen aktuellen Schufa-Auszug des Bewerbers.",
+          "ru": "Многие арендодатели требуют актуальную выписку из кредитной истории SCHUFA перед заключением договора аренды."
         },
         {
-          "de": "Wir müssen den Schufa-Auszug genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: выписка из кредитной истории (Шуфа)."
+          "de": "Ich habe meinen Schufa-Auszug online beantragt, um meine Kreditwürdigkeit nachzuweisen.",
+          "ru": "Я заказал выписку из SCHUFA онлайн, чтобы подтвердить свою кредитоспособность."
         },
         {
-          "de": "Sind Sie mit dem Schufa-Auszug einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: выписка из кредитной истории (Шуфа)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Schufa-Auszug.",
-          "ru": "Сегодня мы концентрируемся на теме: выписка из кредитной истории (Шуфа)."
-        },
-        {
-          "de": "Der Schufa-Auszug spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Выписка из кредитной истории (Шуфа) играет решающую роль в успехе."
+          "de": "Ein negativer Eintrag im Schufa-Auszug kann die Suche nach einer Wohnung erheblich erschweren.",
+          "ru": "Негативная запись в кредитной истории SCHUFA может значительно усложнить поиск квартиры."
         }
       ],
       "synonyms": []
@@ -2718,24 +2650,24 @@
       "translation_en": "proof of income",
       "examples": [
         {
-          "de": "Hier ist der Einkommensnachweis.",
-          "ru": "Вот подтверждение доходов."
+          "de": "Einkommensnachweis, Geburtsurkunde zum Nachweis der Mutterschaft, einen Nachweis über ihren derzeitigen Wohnsitz, eine Antragsbegründung und eine schriftliche Erklärung über ihre Vorstellungen, was die Zukunft des Kindes betrifft.",
+          "ru": "Справка о доходах, свидетельство о рождении с предоставлением доказательств биологического материнства, справка с места жительства и объяснительная относительно будущего её ребёнка."
         },
         {
-          "de": "Wir müssen den Einkommensnachweis genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: подтверждение доходов."
+          "de": "Bonität, Vorlage aktueller Einkommensnachweis und Personalausweis vorausgesetzt.",
+          "ru": "Кредитоспособность, предоставление доказательства актуального дохода и паспорта вдяются непременным условием."
         },
         {
-          "de": "Sind Sie mit dem Einkommensnachweis einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: подтверждение доходов?"
+          "de": "Und Sie sagen, dass er lügt, aber als Vorsitzender des Vergütungsausschusses hatten Sie Zugang zu Harvey Einkommensnachweisen.",
+          "ru": "И обвиняешь его во лжи, но, будучи главой комитета по зарплатам, ты имел доступ к расчётным листам Харви."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Einkommensnachweis.",
-          "ru": "Сегодня мы концентрируемся на теме: подтверждение доходов."
+          "de": "Dass ich derjenige war, der Harveys Einkommensnachweise in den Kopierer gelegt Absicht.",
+          "ru": "Что это я оставил расчётные Харви в ксероксе... специально."
         },
         {
-          "de": "Der Einkommensnachweis spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Подтверждение доходов играет решающую роль в успехе."
+          "de": "Das sind die letzten drei Einkommensnachweise von Harvey, und ich habe sie im Kopierer gefunden.",
+          "ru": "Это расчётные листы Харви, и я почему-то нашла их в ксероксе."
         }
       ],
       "synonyms": []
@@ -2748,24 +2680,24 @@
       "translation_en": "guarantor",
       "examples": [
         {
-          "de": "Hier ist der Bürge.",
-          "ru": "Вот поручитель."
+          "de": "Mein Bruder ist an der Königlichen Militärakademie, aber er wird entlassen, weil sein Bürge das Land verließ.",
+          "ru": "Мой брат в королевской военной академии, но его выгонят: его поручитель покинул страну."
         },
         {
-          "de": "Wir müssen den Bürge genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: поручитель."
+          "de": "Ein Bürge wird gegenzeichnen.",
+          "ru": "У меня есть поручитель."
         },
         {
-          "de": "Sind Sie mit dem Bürge einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: поручитель?"
+          "de": "Ich bürge für sie, ihre Leute und ihre Drachen.",
+          "ru": "Я поручусь за нее, ее людей и ее драконов."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Bürge.",
-          "ru": "Сегодня мы концентрируемся на теме: поручитель."
+          "de": "Ich bürge für ihn mit meinem Leben.",
+          "ru": "Я поручусь за него собственной жизнью."
         },
         {
-          "de": "Der Bürge spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Поручитель играет решающую роль в успехе."
+          "de": "Ja, Reverend Massey ist unser Bürge, von der Heiligen Mission.",
+          "ru": "Да, Преподобный Мэсси поручился за нас в Святой Миссии."
         }
       ],
       "synonyms": []
@@ -2778,24 +2710,24 @@
       "translation_en": "guaranty",
       "examples": [
         {
-          "de": "Hier ist die Bürgschaft.",
-          "ru": "Вот поручительство / гарантия."
+          "de": "Ich kann seine Bürgschaft wohl annehmen.",
+          "ru": "Думаю, могу принять его поручительство."
         },
         {
-          "de": "Wir müssen die Bürgschaft genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: поручительство / гарантия."
+          "de": "Wissen Sie, Sie zeigten mir etwas, das ich unterschrieben war eine Bürgschaft für William, hieß es.",
+          "ru": "Они показали мне кое-что, я подписал поручительство за Уильяма, я думаю, что это было необходимо."
         },
         {
-          "de": "Sind Sie mit der Bürgschaft einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: поручительство / гарантия?"
+          "de": "Für ihre Darstellung in dem Film Bürgschaft für ein Jahr (1981), gedreht noch während ihrer Studienzeit, erhielt sie auf der Berlinale 1982 in West-Berlin den Silbernen Bären.",
+          "ru": "За свою роль в фильме «Поручительство на год» (Bürgschaft für ein Jahr, 1981), снятому ещё во времена учёбы, актриса удостоилась «Серебряного медведя» на Берлинском кинофестивале 1982 года."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Bürgschaft.",
-          "ru": "Сегодня мы концентрируемся на теме: поручительство / гарантия."
+          "de": "Sobald Kardinal Rohan dies erfährt... wird er seine Bürgschaft zurückziehen.",
+          "ru": "Когда кардинал об этом узнает, он откажется быть гарантом."
         },
         {
-          "de": "Die Bürgschaft spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Поручительство / гарантия играет решающую роль в успехе."
+          "de": "Du hast ihn dazu gebracht, dass er nicht nur dieses Projekt riskieren kann, sondern auch noch alles, was er besitzt, mit persönlicher Bürgschaft.",
+          "ru": "Ты позволил ему решить, что он может рисковать, не только этим проектом, но и всем, что у него есть, под личную гарантию."
         }
       ],
       "synonyms": []
@@ -2808,24 +2740,24 @@
       "translation_en": "rental deposit",
       "examples": [
         {
-          "de": "Hier ist die Mietkaution.",
-          "ru": "Вот залог за аренду жилья."
+          "de": "Sie können meine Mietkaution behalten.",
+          "ru": "Залог можете оставить себе."
         },
         {
-          "de": "Wir müssen die Mietkaution genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: залог за аренду жилья."
+          "de": "Nun, du wirst deine Mietkaution nicht zurück bekommen.",
+          "ru": "Ладно, но я не отдам тебе залог."
         },
         {
-          "de": "Sind Sie mit der Mietkaution einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: залог за аренду жилья?"
+          "de": "Ich hoffe, du erwartest nicht, deine Mietkaution wiederzubekommen, oder?",
+          "ru": "Надеюсь ты не рассчитываешь получить залог обратно, не?"
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Mietkaution.",
-          "ru": "Сегодня мы концентрируемся на теме: залог за аренду жилья."
+          "de": "Ich habe schon die Mietkaution bezahlt.",
+          "ru": "У меня есть работа в Нью-Йорке?"
         },
         {
-          "de": "Die Mietkaution spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Залог за аренду жилья играет решающую роль в успехе."
+          "de": "Nun, du wirst deine Mietkaution nicht zurück bekommen.",
+          "ru": "Ну, Вы не получите Ваш страховой депозит обратно."
         }
       ],
       "synonyms": []
@@ -2838,24 +2770,24 @@
       "translation_en": "deposit account",
       "examples": [
         {
-          "de": "Hier ist das Kautionskonto.",
-          "ru": "Вот залоговый банковский счет."
+          "de": "Die Bank entrichtet auch für die Zinsen eines Kautionskontos Zinsabschlagsteuer.",
+          "ru": "Банк также платит процентный налог с процентов по депозитному счету."
         },
         {
-          "de": "Wir müssen das Kautionskonto genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: залоговый банковский счет."
+          "de": "Nach dem Wortlaut des Gesetzes muß er das Kautionsgeld getrennt von seinem sonstigen Vermögen auf einem sogenannten Kautionskonto bei einer Bank aufbewahren und verzinsen.",
+          "ru": "Согласно формулировке закона, он должен хранить деньги вклада отдельно от другого своего имущества на так называемом депозитном счете в банке и выплачивать по нему проценты."
         },
         {
-          "de": "Sind Sie mit dem Kautionskonto einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: залоговый банковский счет?"
+          "de": "Das ist ohne weiteres möglich, wenn das Kautionskonto auf den Namen des Mieters läuft, und das gilt auch bei einem an den Vermieter verpfändeten Sparbuch.",
+          "ru": "Это легко возможно, если депозитный счет открыт на имя арендатора, и это также относится к сберегательному счету, переданному в залог арендодателю."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Kautionskonto.",
-          "ru": "Сегодня мы концентрируемся на теме: залоговый банковский счет."
+          "de": "Denn in dem Sparkassenbuch mit der Nummer 67-041293 ist ausdrücklich der Sperrvermerk \"Kautionskonto\" angekreuzt.",
+          "ru": "Потому что в сберкнижке с номером 67-041293 четко отмечена блокировка «депозитный счет»."
         },
         {
-          "de": "Das Kautionskonto spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Залоговый банковский счет играет решающую роль в успехе."
+          "de": "Die Kaution muss der Vermieter getrennt von seinem anderen Vermögen auf einem Kautionskonto anlegen – mit dem für Spareinlagen mit dreimonatiger Kündigungsfrist üblichen Zinssatz.",
+          "ru": "Арендодатель должен вложить депозит на депозитный счет отдельно от других своих активов - с обычной процентной ставкой для сберегательных депозитов с периодом уведомления в три месяца."
         }
       ],
       "synonyms": []

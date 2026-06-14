@@ -9,24 +9,16 @@
       "translation_en": "material ledger",
       "examples": [
         {
-          "de": "Hier ist das Material-Ledger.",
-          "ru": "Вот регистр материалов."
+          "de": "Durch die Aktivierung des Material-Ledgers im SAP-System können wir die tatsächlichen Ist-Kosten berechnen.",
+          "ru": "Активировав регистр материалов в системе SAP, мы можем рассчитать фактическую себестоимость."
         },
         {
-          "de": "Wir müssen das Material-Ledger genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: регистр материалов."
+          "de": "Das Material-Ledger ermöglicht eine parallele Bewertung der Bestände in verschiedenen Währungen.",
+          "ru": "Регистр материалов позволяет выполнять параллельную оценку запасов в различных валютах."
         },
         {
-          "de": "Sind Sie mit dem Material-Ledger einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: регистр материалов?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Material-Ledger.",
-          "ru": "Сегодня мы концентрируемся на теме: регистр материалов."
-        },
-        {
-          "de": "Das Material-Ledger spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Регистр материалов играет решающую роль в успехе."
+          "de": "Zum Periodenabschluss müssen alle Transaktionen im Material-Ledger vollständig gebucht sein.",
+          "ru": "К закрытию периода все операции в регистре материалов должны быть полностью проведены."
         }
       ],
       "synonyms": []
@@ -39,24 +31,16 @@
       "translation_en": "material valuation",
       "examples": [
         {
-          "de": "Hier ist die Materialbewertung.",
-          "ru": "Вот оценка материала."
+          "de": "Die Materialbewertung erfolgt in unserem Unternehmen nach dem gleitenden Durchschnittspreis.",
+          "ru": "Оценка материалов на нашем предприятии осуществляется по скользящей средней цене."
         },
         {
-          "de": "Wir müssen die Materialbewertung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: оценка материала."
+          "de": "Änderungen an der Materialbewertung können erhebliche Auswirkungen auf die Bilanz haben.",
+          "ru": "Изменения в оценке материалов могут оказать существенное влияние на баланс."
         },
         {
-          "de": "Sind Sie mit der Materialbewertung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: оценка материала?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Materialbewertung.",
-          "ru": "Сегодня мы концентрируемся на теме: оценка материала."
-        },
-        {
-          "de": "Die Materialbewertung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Оценка материала играет решающую роль в успехе."
+          "de": "Im SAP-Materialstamm wird festgelegt, welche Methode für die Materialbewertung angewendet wird.",
+          "ru": "В основной записи материала SAP определяется, какой метод применяется для оценки материала."
         }
       ],
       "synonyms": []
@@ -69,24 +53,24 @@
       "translation_en": "moving average price",
       "examples": [
         {
-          "de": "Hier ist der gleitende Durchschnittspreis.",
-          "ru": "Вот среднескользящая цена."
+          "de": "Der Durchschnittspreis eines Menschen beträgt heute etwa $90.",
+          "ru": "Средняя цена на человека сегодня по всему миру около 90 долларов."
         },
         {
-          "de": "Wir müssen den gleitende Durchschnittspreis genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: среднескользящая цена."
+          "de": "Der Durchschnittspreis eines Menschen beträgt heute etwa $90.",
+          "ru": "Средняя цена на человека сегодня по всему миру около 90 долларов."
         },
         {
-          "de": "Sind Sie mit dem gleitende Durchschnittspreis einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: среднескользящая цена?"
+          "de": "Zu welchem (gewichtetem) Durchschnittspreis hat er seine Butter verkauft?",
+          "ru": "Кто, как не свыше, открыл ему совершать победы силою омрачённого воздуха?"
         },
         {
-          "de": "Wir konzentrieren uns heute auf den gleitende Durchschnittspreis.",
-          "ru": "Сегодня мы концентрируемся на теме: среднескользящая цена."
+          "de": "Vor zehn Jahren lag der Goldpreis um einiges unter dem langfristigen inflationsbereinigten Durchschnittspreis und die Integration von drei Milliarden Bürgern der Schwellenländer in die Weltwirtschaft konnte nur zu einem gigantischen langfristigen Anstieg der Nachfrage führen.",
+          "ru": "Десять лет назад оно продавалось по цене, значительно более низкой, чем его долгосрочная, скорректированная на инфляцию средняя стоимость, а интеграция развивающихся стран, с трехмиллиардным населением, в мировую экономику могла означать только огромный долгосрочный скачок спроса."
         },
         {
-          "de": "Der gleitende Durchschnittspreis spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Среднескользящая цена играет решающую роль в успехе."
+          "de": "(Auf die letzten fünf Jahre bezogen ergibt sich ein Durchschnittspreis von 22 Dollar pro Barrel.)",
+          "ru": "(В течение последних 5 лет средняя цена составляла $22 за баррель)."
         }
       ],
       "synonyms": []
@@ -99,24 +83,24 @@
       "translation_en": "standard price",
       "examples": [
         {
-          "de": "Hier ist der Standardpreis.",
-          "ru": "Вот стандартная цена."
+          "de": "Aber es ist der Standardpreis und es... ist alles, was geben können.",
+          "ru": "Но это стандартная сумма, и это... все, что мы можем позволить."
         },
         {
-          "de": "Wir müssen den Standardpreis genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: стандартная цена."
+          "de": "Und ungefähr im Herbst dieses Jahres hatten wir alles ausgearbeitet, wen wir im technischen Team brauchten, wie die Verkaufsbedingungen sein sollten, was der entscheidende Standardpreis wäre, und wir erhielten unsere Gründungsregistrierung im Nov 1989.",
+          "ru": "И примерно к осени того года у нас были выработаны все моменты о том, кто необходим в технической группе, какие должны быть условия продаж, какими должны быть ключевые цены, и в ноябре 1989-го мы окончательно организовались."
         },
         {
-          "de": "Sind Sie mit dem Standardpreis einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: стандартная цена?"
+          "de": "Nutzen Sie Rabatt bis zu 20 % aus unseren Standardpreisen bei on-line Reservierung.",
+          "ru": "Воспользуйтесь специальной скидкой до 20% из наших цен на проживание при онлайн бронировании."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Standardpreis.",
-          "ru": "Сегодня мы концентрируемся на теме: стандартная цена."
+          "de": "Wenn Sie keine solche Zahl im Kopf haben, können Sie GIMPs Standardbreite von 256 Pixel verwenden.",
+          "ru": "Если неизвестна, то можно ввести ширину по умолчанию, 256 точек."
         },
         {
-          "de": "Der Standardpreis spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Стандартная цена играет решающую роль в успехе."
+          "de": "Das Material Isobent wird in Blättern mit Standardbreite 1,15m und länge 5,0m, eingewickelt in Rollen, hergestellt.",
+          "ru": "Материал Изобент производится в виде листов стандартной ширины 1,15 m и длины 5,0 m, скрученных в рулон."
         }
       ],
       "synonyms": []
@@ -129,24 +113,24 @@
       "translation_en": "price control",
       "examples": [
         {
-          "de": "Hier ist die Preissteuerung.",
-          "ru": "Вот управление ценой."
+          "de": "Die resultierende Widersprüchlichkeit schafft Verzerrungen: Wie bei jeder Preissteuerung erhält das Kapital einen Anreiz, in Investitionen zu fließen, die mit Angebot und Nachfrage, so wie sie tatsächlich bestehen, unvereinbar sind.",
+          "ru": "Получающееся несоответствие создает искажения: как и с любым контролем над ценами, капитал получает стимул вкладываться в инвестиции, которые не согласуются с реальным спросом и предложением."
         },
         {
-          "de": "Wir müssen die Preissteuerung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: управление ценой."
+          "de": "Diese Strategie hatte eine große Preissteigerung zum Ergebnis.",
+          "ru": "Результатом этого политического курса стал резкий скачок цен."
         },
         {
-          "de": "Sind Sie mit der Preissteuerung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: управление ценой?"
+          "de": "Daraufhin nutzt die Regierung ihre Macht dazu, die Preissteigerungen zu deckeln.",
+          "ru": "Затем правительство старается придерживать рост цен в узде."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Preissteuerung.",
-          "ru": "Сегодня мы концентрируемся на теме: управление ценой."
+          "de": "Preissteigerungen dieser Art können sich für Rohstoffimportländer als besonders inflationär erweisen.",
+          "ru": "Такой рост цен может оказаться особенно способствующим инфляции в странах, которые импортируют сырьевые товары."
         },
         {
-          "de": "Die Preissteuerung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Управление ценой играет решающую роль в успехе."
+          "de": "Die Käufer waren von starken Erwartungen über zukünftige Preissteigerungen beseelt und das Risiko erschien ihnen gering.",
+          "ru": "Покупатели находились под влиянием распространенных ожиданий относительно роста цен и предвидели некоторый риск."
         }
       ],
       "synonyms": []
@@ -159,24 +143,24 @@
       "translation_en": "revaluation",
       "examples": [
         {
-          "de": "Hier ist die Umbewertung.",
-          "ru": "Вот переоценка."
+          "de": "Nach einer Umbewertung des Bolívar zum 1. Januar 2008 wurde er zur Unterscheidung von der alten Währung Bolívar fuerte (Starker Bolivar; Abkürzung: BsF) genannt.",
+          "ru": "1 января 2008 года после деноминации (1000:1) национальная валюта Венесуэлы получила название боливар фуэрте (исп. bolívar fuerte - сильный боли́вар)."
         },
         {
-          "de": "Wir müssen die Umbewertung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: переоценка."
+          "de": "Bewertungskriterien... 22Bewertung... 23",
+          "ru": "Критерий оценки... 22Процесс оценки... 23"
         },
         {
-          "de": "Sind Sie mit der Umbewertung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: переоценка?"
+          "de": "Niemand hört gerne, dass er schlechte Bewertungen bekommen hat.",
+          "ru": "Никому не нравится слышать, что о нем плохо отзываются."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Umbewertung.",
-          "ru": "Сегодня мы концентрируемся на теме: переоценка."
+          "de": "Wenn mir jeder eine schlechte Bewertung gibt, werde ich nie Manager.",
+          "ru": "Если все дадут мне плохие оценки, я никогда не стану менеджером."
         },
         {
-          "de": "Die Umbewertung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Переоценка играет решающую роль в успехе."
+          "de": "Aber in Wirklichkeit ist es eine Bewertung für uns alle.",
+          "ru": "Технически, да, но на деле это оценивание каждого из нас."
         }
       ],
       "synonyms": []
@@ -189,24 +173,24 @@
       "translation_en": "actual costing",
       "examples": [
         {
-          "de": "Hier ist die Ist-Kalkulation.",
-          "ru": "Вот фактическая калькуляция."
+          "de": "Und die Kalkulation ist nicht schlecht.",
+          "ru": "Я должна признать, что вы очень убедительны и ваши планы тоже."
         },
         {
-          "de": "Wir müssen die Ist-Kalkulation genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: фактическая калькуляция."
+          "de": "Gematrie ist die Kalkulation vom numerischen Äquivalent von Buchstaben, Wörtern oder Sätzen.",
+          "ru": "Гематрия - это сумма числовых значений входящих в него букв, слов или фраз."
         },
         {
-          "de": "Sind Sie mit der Ist-Kalkulation einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: фактическая калькуляция?"
+          "de": "Es ist kein endgültiges Ergebnis... aber wenn diese Kalkulation richtig ist... ist das Wesen, das den Untergang bringt, schon hier.",
+          "ru": "Это все еще очень примерно, но, если эти вычисления верны эта плохая штука уже должна быть здесь."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Ist-Kalkulation.",
-          "ru": "Сегодня мы концентрируемся на теме: фактическая калькуляция."
+          "de": "Das ist die richtige Kalkulation.",
+          "ru": "И это правильный расчет."
         },
         {
-          "de": "Die Ist-Kalkulation spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Фактическая калькуляция играет решающую роль в успехе."
+          "de": "Das ist meine Kalkulation!",
+          "ru": "Почему? - Ускорение."
         }
       ],
       "synonyms": []
@@ -219,24 +203,16 @@
       "translation_en": "material document",
       "examples": [
         {
-          "de": "Hier ist der Materialbeleg.",
-          "ru": "Вот документ материала."
+          "de": "Jede Warenbewegung im Lager erzeugt automatisch einen Materialbeleg im System.",
+          "ru": "Каждое движение материала на складе автоматически создает документ материала в системе."
         },
         {
-          "de": "Wir müssen den Materialbeleg genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: документ материала."
+          "de": "Bitte prüfen Sie den Materialbeleg, um festzustellen, wer die Buchung vorgenommen hat.",
+          "ru": "Пожалуйста, проверьте документ материала, чтобы определить, кто выполнил проводку."
         },
         {
-          "de": "Sind Sie mit dem Materialbeleg einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: документ материала?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Materialbeleg.",
-          "ru": "Сегодня мы концентрируемся на теме: документ материала."
-        },
-        {
-          "de": "Der Materialbeleg spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Документ материала играет решающую роль в успехе."
+          "de": "Der Materialbeleg dient als Nachweis für die ordnungsgemäße Einlagerung der Rohstoffe.",
+          "ru": "Документ материала служит подтверждением надлежащего оприходования сырья на склад."
         }
       ],
       "synonyms": []
@@ -249,24 +225,24 @@
       "translation_en": "material type",
       "examples": [
         {
-          "de": "Hier ist die Materialart.",
-          "ru": "Вот вид материала."
+          "de": "Sie können bestimmen, welche Farbe das Produkt haben soll, vielleicht auch die Materialart.",
+          "ru": "Вы можете управлять цветом будущего изделия, возможно, материалом."
         },
         {
-          "de": "Wir müssen die Materialart genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: вид материала."
+          "de": "Sie können bestimmen, welche Farbe das Produkt haben soll, vielleicht auch die Materialart.",
+          "ru": "Вы можете управлять цветом будущего изделия, возможно, материалом."
         },
         {
-          "de": "Sind Sie mit der Materialart einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: вид материала?"
+          "de": "Ich handle nicht mit Materialisten wie Sie einer sind.",
+          "ru": "Я не якшаюсь с материалистами вроде вас."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Materialart.",
-          "ru": "Сегодня мы концентрируемся на теме: вид материала."
+          "de": "Ernsthaft, es ist meine gesetzliche Pflicht, irgendwelche Materialdaten oder Mängel offenzulegen.",
+          "ru": "Серьезно, по закону я обязан сообщить обо всех существенных фактах и недостатках."
         },
         {
-          "de": "Die Materialart spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Вид материала играет решающую роль в успехе."
+          "de": "Du möchtest ihn in einen widerlichen Materialisten verwandeln,... obwohl er in der spirituellen Welt lebt.",
+          "ru": "Ты хочешь погрузить его в грубый материализм, в то время, как он живет в духовном мире."
         }
       ],
       "synonyms": []
@@ -279,24 +255,24 @@
       "translation_en": "material group",
       "examples": [
         {
-          "de": "Hier ist die Warengruppe.",
-          "ru": "Вот товарная группа."
+          "de": "Der Name der Warengruppe läßt sich aber bereits aus ihrer Nummer bestimmen.",
+          "ru": "Название группы товаров уже можно определить по ее номеру."
         },
         {
-          "de": "Wir müssen die Warengruppe genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: товарная группа."
+          "de": "Diese Warengruppen hatten auch die stärksten Zunahmen gegenüber 1965 zu verzeichnen.",
+          "ru": "В этих группах продуктов также зафиксирован самый сильный рост по сравнению с 1965 годом."
         },
         {
-          "de": "Sind Sie mit der Warengruppe einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: товарная группа?"
+          "de": "Außerdem handelt es sich bei den zur Lieferung vorgesehenen Warengruppen um rüstungsfremde Güter.",
+          "ru": "Кроме того, группы товаров, предназначенные для поставки, являются товарами невоенного назначения."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Warengruppe.",
-          "ru": "Сегодня мы концентрируемся на теме: товарная группа."
+          "de": "Danach haben sie denn also, zum vierten Male seit ihrem Bestehen, die Preise bestimmter Warengruppen gesenkt.",
+          "ru": "После этого в четвертый раз за время своего существования они снизили цены на отдельные группы товаров."
         },
         {
-          "de": "Die Warengruppe spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Товарная группа играет решающую роль в успехе."
+          "de": "Die »Dürerbund‑Werkbund‑Genossenschaft« umfaßt bis jetzt 160 der besten Fachgeschäfte unserer Warengruppen.",
+          "ru": "В настоящее время в объединение «Dürerbund-Werkbund-Genossenschaft» входят 160 лучших специализированных магазинов наших товарных групп."
         }
       ],
       "synonyms": []
@@ -309,24 +285,16 @@
       "translation_en": "valuation level",
       "examples": [
         {
-          "de": "Hier ist die Bewertungsebene.",
-          "ru": "Вот уровень оценки."
+          "de": "Wir müssen festlegen, ob die Bewertungsebene auf Werksebene oder auf Buchungskreisebene definiert wird.",
+          "ru": "Мы должны определить, задается ли уровень оценки на уровне завода или на уровне балансовой единицы."
         },
         {
-          "de": "Wir müssen die Bewertungsebene genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: уровень оценки."
+          "de": "Die Wahl der Bewertungsebene beeinflusst, wie flexibel wir Preise im SAP-System verwalten können.",
+          "ru": "Выбор уровня оценки влияет на то, насколько гибко мы можем управлять ценами в системе SAP."
         },
         {
-          "de": "Sind Sie mit der Bewertungsebene einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: уровень оценки?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Bewertungsebene.",
-          "ru": "Сегодня мы концентрируемся на теме: уровень оценки."
-        },
-        {
-          "de": "Die Bewertungsebene spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Уровень оценки играет решающую роль в успехе."
+          "de": "Im Standard-SAP ist das Werk als empfohlene Bewertungsebene voreingestellt.",
+          "ru": "В стандартной системе SAP завод предварительно настроен как рекомендуемый уровень оценки."
         }
       ],
       "synonyms": []
@@ -339,24 +307,16 @@
       "translation_en": "valuation area",
       "examples": [
         {
-          "de": "Hier ist der Bewertungskreis.",
-          "ru": "Вот область оценки."
+          "de": "Jeder Bewertungskreis entspricht in unserer SAP-Konfiguration genau einem Betriebswerk.",
+          "ru": "Каждая область оценки в нашей конфигурации SAP соответствует ровно одному производственному заводу."
         },
         {
-          "de": "Wir müssen den Bewertungskreis genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: область оценки."
+          "de": "Für den neuen Standort müssen wir einen separaten Bewertungskreis im System anlegen.",
+          "ru": "Для новой площадки нам необходимо создать отдельную область оценки в системе."
         },
         {
-          "de": "Sind Sie mit dem Bewertungskreis einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: область оценки?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Bewertungskreis.",
-          "ru": "Сегодня мы концентрируемся на теме: область оценки."
-        },
-        {
-          "de": "Der Bewertungskreis spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Область оценки играет решающую роль в успехе."
+          "de": "Die Bestände werden auf der Ebene des Bewertungskreises wertmäßig geführt.",
+          "ru": "Запасы ведутся в стоимостном выражении на уровне области оценки."
         }
       ],
       "synonyms": []
@@ -369,24 +329,16 @@
       "translation_en": "valuation class",
       "examples": [
         {
-          "de": "Hier ist die Bewertungsklasse.",
-          "ru": "Вот класс оценки."
+          "de": "Die Bewertungsklasse im Materialstamm steuert die automatische Kontenfindung in der Buchhaltung.",
+          "ru": "Класс оценки в основной записи материала управляет автоматическим определением счетов в бухгалтерии."
         },
         {
-          "de": "Wir müssen die Bewertungsklasse genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: класс оценки."
+          "de": "Rohstoffe und Fertigerzeugnisse müssen unterschiedlichen Bewertungsklassen zugeordnet werden.",
+          "ru": "Сырье и готовая продукция должны быть присвоены разным классам оценки."
         },
         {
-          "de": "Sind Sie mit der Bewertungsklasse einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: класс оценки?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Bewertungsklasse.",
-          "ru": "Сегодня мы концентрируемся на теме: класс оценки."
-        },
-        {
-          "de": "Die Bewertungsklasse spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Класс оценки играет решающую роль в успехе."
+          "de": "Wenn Sie eine falsche Bewertungsklasse wählen, werden die Bestandsveränderungen auf das verkehrte Sachkonto gebucht.",
+          "ru": "Если вы выберете неправильный класс оценки, изменения запасов будут проведены на неверный счет главной книги."
         }
       ],
       "synonyms": []
@@ -399,24 +351,24 @@
       "translation_en": "account determination",
       "examples": [
         {
-          "de": "Hier ist die Kontenfindung.",
-          "ru": "Вот определение счетов."
+          "de": "China hat bereits einen hoch entwickelten Mechanismus zur Konsensfindung im eigenen Lande entwickelt.",
+          "ru": "Китай уже разработал сложный механизм достижения консенсуса в домашних условиях."
         },
         {
-          "de": "Wir müssen die Kontenfindung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: определение счетов."
+          "de": "Nun muss es einen Schritt weiter gehen und sich international um Konsensfindung bemühen.",
+          "ru": "Теперь он должен пойти дальше и принять участие в формировании консенсуса на международном уровне."
         },
         {
-          "de": "Sind Sie mit der Kontenfindung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: определение счетов?"
+          "de": "S2k: Eine formale Konsensfindung hat stattgefunden.",
+          "ru": "С.); состоялась даже отдельная дискуссия, посвященная оформлению дома."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Kontenfindung.",
-          "ru": "Сегодня мы концентрируемся на теме: определение счетов."
+          "de": "Nach Aussagen von Herrn Duisenberg habe es keinen einzigen Fall gegeben, in dem eine wichtige geldpolitische Entscheidung aus Gründen der Konsensfindung aufgeschoben worden wäre.",
+          "ru": "Согласно г-ну Дуйзенбергу, не было ни одного случая, чтобы принятие важного решения из области кредитно-денежной политики затягивалось по причине отсутствия консенсуса."
         },
         {
-          "de": "Die Kontenfindung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Определение счетов играет решающую роль в успехе."
+          "de": "Der \"Preis\" einer europäischen Mitgliedschaft hat innerhalb der Bewerberländer die politische Konsensfindung unterstützt und das wäre auch bei der Türkei der Fall.",
+          "ru": "«Награда» в виде членства в Евросоюзе помогала достижению политического согласия в странах - кандидатах, и то же самое произойдет и с Турцией."
         }
       ],
       "synonyms": []
@@ -429,24 +381,24 @@
       "translation_en": "automatic account determination",
       "examples": [
         {
-          "de": "Hier ist die automatische Kontenfindung.",
-          "ru": "Вот автоматический выбор счетов."
+          "de": "Fügt automatische Nummerierung für Tabellen, Grafiken oder Textrahmen ein.",
+          "ru": "Вставляет автоматически номера таблиц, графических объектов или текстовых врезок."
         },
         {
-          "de": "Wir müssen die automatische Kontenfindung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: автоматический выбор счетов."
+          "de": "Fügt automatische Nummerierung für Tabellen, Grafiken oder Textrahmen ein.",
+          "ru": "Вставляет автоматически номера таблиц, графических объектов или текстовых врезок."
         },
         {
-          "de": "Sind Sie mit der automatische Kontenfindung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: автоматический выбор счетов?"
+          "de": "Automatische Erkennung und die Möglichkeit gibt, entsperren Benutzerkonten gesperrt oder deaktiviert werden.",
+          "ru": "Автоматически обнаруживает и дает возможность разблокировать учетные записи заблокированы или отключены."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die automatische Kontenfindung.",
-          "ru": "Сегодня мы концентрируемся на теме: автоматический выбор счетов."
+          "de": "Er ist bereit, aber er ist nicht für die automatische Umschaltung konfiguriert.",
+          "ru": "Он готов, но не настроен на автоматическое переключение."
         },
         {
-          "de": "Die automatische Kontenfindung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Автоматический выбор счетов играет решающую роль в успехе."
+          "de": "Zu viele falsch geschriebene Wörter. Automatische Rechtschreibprüfung deaktiviert.",
+          "ru": "Слишком много ошибочных слов. Проверка орфографии на лету выключена."
         }
       ],
       "synonyms": []
@@ -459,24 +411,16 @@
       "translation_en": "storage location",
       "examples": [
         {
-          "de": "Hier ist der Lagerort.",
-          "ru": "Вот склад / место хранения."
+          "de": "Wegen dir verriet der Junge den Lagerort.",
+          "ru": "Ты заставила парня выдать расположение своего лагеря."
         },
         {
-          "de": "Wir müssen den Lagerort genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: склад / место хранения."
+          "de": "Das abgeschiedene Kohlendioxid wird dann in unterirdische Lager wie beispielsweise leere Ölfelder oder andere geeignete Lagerorte gepumpt.",
+          "ru": "Задержанный углерод затем закачивают в подземные хранилища, такие как пустые нефтяные месторождения и другие подходящие места."
         },
         {
-          "de": "Sind Sie mit dem Lagerort einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: склад / место хранения?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Lagerort.",
-          "ru": "Сегодня мы концентрируемся на теме: склад / место хранения."
-        },
-        {
-          "de": "Der Lagerort spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Склад / место хранения играет решающую роль в успехе."
+          "de": "befindet sich in den westlichen Teil von Slovenija mit sehr gutem logistischen Lageort.",
+          "ru": "расположен в Западной части Словении, с хорошим расположением относительно транспортных магистралей."
         }
       ],
       "synonyms": []
@@ -489,24 +433,24 @@
       "translation_en": "plant",
       "examples": [
         {
-          "de": "Hier ist das Werk.",
-          "ru": "Вот завод."
+          "de": "Ohne Sie wäre mein Werk in den vergangenen Jahren nicht möglich gewesen.",
+          "ru": "Без вас моя работа последние несколько лет было бы не возможна."
         },
         {
-          "de": "Wir müssen das Werk genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: завод."
+          "de": "Unsere Feinde könnten das Hotel abbrennen, unser Werk wäre sicher.",
+          "ru": "И если враги сожгут отель, наша работа будет цела."
         },
         {
-          "de": "Sind Sie mit dem Werk einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: завод?"
+          "de": "Dieses Werk machte sie auch in England berühmt.",
+          "ru": "Это произведение сделало его известным в Эстонии."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Werk.",
-          "ru": "Сегодня мы концентрируемся на теме: завод."
+          "de": "Das Werk eines tiefen Gedankens, einer einfachen und einheitlichen Form.",
+          "ru": "Произведение глубокой идеи, простой и единой формы."
         },
         {
-          "de": "Das Werk spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Завод играет решающую роль в успехе."
+          "de": "Es ist kein guter Deal, aber dadurch bleibt das Werk geöffnet.",
+          "ru": "Это не много, но сохранит завод открытым."
         }
       ],
       "synonyms": []
@@ -519,24 +463,24 @@
       "translation_en": "stock / inventory",
       "examples": [
         {
-          "de": "Hier ist der Bestand.",
-          "ru": "Вот запас / остаток."
+          "de": "Ihr Bestand ist relativ stabil; sie profitieren sogar von der Abholzung des Regenwaldes, da sie sich im offenen Land besser zurechtfinden.",
+          "ru": "Его популяция относительно стабильна; они извлекают пользу даже от вырубки сельвы, так как они лучше ориентируются на открытой местности."
         },
         {
-          "de": "Wir müssen den Bestand genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: запас / остаток."
+          "de": "Der Bestand ist noch relativ groß und nicht gefährdet.",
+          "ru": "Популяция относительно большая и не находится под угрозой."
         },
         {
-          "de": "Sind Sie mit dem Bestand einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: запас / остаток?"
+          "de": "Ihr Bestand besteht heute aus mehreren kleinen, voneinander isolierten Populationen.",
+          "ru": "Сегодня его состав состоит из нескольких маленьких, изолированных друг от друга популяций."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Bestand.",
-          "ru": "Сегодня мы концентрируемся на теме: запас / остаток."
+          "de": "Doch ist sein Bestand wohlbekannt von minderwertiger Qualität zu sein, wie der Junge selbst.",
+          "ru": "Известно, что его запасы довольно низкого качества, также как и сам мальчишка."
         },
         {
-          "de": "Der Bestand spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Запас / остаток играет решающую роль в успехе."
+          "de": "Ich will unseren Bestand erweitern und ihm außerdem Gannicus anbieten.",
+          "ru": "Я бы хотел пополнить наши запасы, и предложить также Ганника."
         }
       ],
       "synonyms": []
@@ -549,24 +493,24 @@
       "translation_en": "changes in inventories",
       "examples": [
         {
-          "de": "Hier ist die Bestandsveränderung.",
-          "ru": "Вот изменение запасов."
+          "de": "Von den Großanlegern scheint niemand mehr an größeren Bestandsveränderungen interessiert zu sein.",
+          "ru": "Никто из крупных инвесторов, похоже, больше не заинтересован в серьезных изменениях запасов."
         },
         {
-          "de": "Wir müssen die Bestandsveränderung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: изменение запасов."
+          "de": "Dem dichten Netz besonders der englischen Sonntags‑Ornithologen entgeht keine Bestandsveränderung.",
+          "ru": "Ни одно изменение в популяции не ускользает от плотной сети английских воскресных орнитологов."
         },
         {
-          "de": "Sind Sie mit der Bestandsveränderung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: изменение запасов?"
+          "de": "Dabei trugen wegen der nur geringfügigen Bestandsveränderungen vor allem Tarifanpassungen zu dem Wachstum bei.",
+          "ru": "Из-за лишь незначительных изменений в запасах росту, в частности, способствовала корректировка тарифов."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Bestandsveränderung.",
-          "ru": "Сегодня мы концентрируемся на теме: изменение запасов."
+          "de": "Die Bestandsveränderungen unter den Ländern sind eine Folge davon, daß Forderungen einzelner Länder weiterhin mit Währungsgold ausgeglichen werden.",
+          "ru": "Изменения запасов между странами являются следствием того, что требования отдельных стран продолжают компенсироваться монетарным золотом."
         },
         {
-          "de": "Die Bestandsveränderung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Изменение запасов играет решающую роль в успехе."
+          "de": "Sie enthalten den Erzeugungswert aus der Futtermitteleinfuhr sowie Bestandsveränderungen bei der Nutzviehhaltung.",
+          "ru": "Они содержат стоимость производства от импорта кормов, а также изменения в поголовье скота."
         }
       ],
       "synonyms": []
@@ -579,24 +523,16 @@
       "translation_en": "inventory posting",
       "examples": [
         {
-          "de": "Hier ist die Bestandsbuchung.",
-          "ru": "Вот проводка запасов."
+          "de": "Bei der Inventur müssen wir jede Bestandsbuchung sorgfältig prüfen, um Differenzen zu vermeiden.",
+          "ru": "При инвентаризации мы должны тщательно проверять каждую проводку запасов, чтобы избежать расхождений."
         },
         {
-          "de": "Wir müssen die Bestandsbuchung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: проводка запасов."
+          "de": "Eine automatische Bestandsbuchung wird durch den Wareneingang im System ausgelöst.",
+          "ru": "Автоматическая проводка запаса запускается поступлением материала в системе."
         },
         {
-          "de": "Sind Sie mit der Bestandsbuchung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: проводка запасов?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Bestandsbuchung.",
-          "ru": "Сегодня мы концентрируемся на теме: проводка запасов."
-        },
-        {
-          "de": "Die Bestandsbuchung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Проводка запасов играет решающую роль в успехе."
+          "de": "Der Buchhalter korrigierte den Fehler durch eine manuelle Bestandsbuchung am Monatsende.",
+          "ru": "Бухгалтер исправил ошибку с помощью ручной проводки запаса в конце месяца."
         }
       ],
       "synonyms": []
@@ -609,24 +545,24 @@
       "translation_en": "physical inventory",
       "examples": [
         {
-          "de": "Hier ist die Inventur.",
-          "ru": "Вот инвентаризация."
+          "de": "Also gut, wir brauchen eine volle Inventur.",
+          "ru": "Хорошо, нам нужна полная инвентаризация."
         },
         {
-          "de": "Wir müssen die Inventur genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: инвентаризация."
+          "de": "OK. Wir brauchen eine volle Inventur.",
+          "ru": "Хорошо, нам нужна полная инвентаризация."
         },
         {
-          "de": "Sind Sie mit der Inventur einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: инвентаризация?"
+          "de": "Captain, nach einer Inventur unserer Vorräte haben die Männer Ihrem Plan zugestimmt.",
+          "ru": "Капитан, после описи наших припасов, люди согласились с вашим планом."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Inventur.",
-          "ru": "Сегодня мы концентрируемся на теме: инвентаризация."
+          "de": "Nun. Ich werde sicher gehen, das in der Inventur anzumerken.",
+          "ru": "Хорошо я не забуду сделать пометку об этом в описи."
         },
         {
-          "de": "Die Inventur spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Инвентаризация играет решающую роль в успехе."
+          "de": "Wir haben früh zugemacht, wegen der Inventur.",
+          "ru": "Мы закрылись пораньше на учет."
         }
       ],
       "synonyms": []
@@ -639,24 +575,24 @@
       "translation_en": "inventory difference",
       "examples": [
         {
-          "de": "Hier ist die Inventurdifferenz.",
-          "ru": "Вот инвентаризационная разница."
+          "de": "Über eine Million Mark Schaden entstehen in seinen Läden pro Jahr durch Inventurdifferenzen.",
+          "ru": "Ежегодно в его магазинах происходит ущерб на сумму более миллиона марок из-за товарно-материальных различий."
         },
         {
-          "de": "Wir müssen die Inventurdifferenz genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: инвентаризационная разница."
+          "de": "Genau ermitteln können wir zunächst nur die Verluste durch Inventurdifferenzen.",
+          "ru": "Первоначально мы можем лишь точно определить потери из-за складских разниц."
         },
         {
-          "de": "Sind Sie mit der Inventurdifferenz einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: инвентаризационная разница?"
+          "de": "Denn im Vergleich zu 2009 sind die sogenannten Inventurdifferenzen um etwa 5 Prozent zurückgegangen - so deutlich wie noch nie.",
+          "ru": "По сравнению с 2009 годом так называемые товарно-материальные разницы сократились примерно на 5 процентов – более значительно, чем когда-либо прежде."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Inventurdifferenz.",
-          "ru": "Сегодня мы концентрируемся на теме: инвентаризационная разница."
+          "de": "Insgesamt machten die Händler Inventurdifferenzen von etwa vier Milliarden Euro aus.",
+          "ru": "В целом дилеры составили разницу в запасах примерно на четыре миллиарда евро."
         },
         {
-          "de": "Die Inventurdifferenz spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Инвентаризационная разница играет решающую роль в успехе."
+          "de": "Inventurdifferenz heißt der Fachbegriff, und der zeigt, wie viele Teile seit der letzten Bestandsaufnahme verschwunden sind.",
+          "ru": "Разница в запасах — это технический термин, показывающий, сколько деталей исчезло с момента последней инвентаризации."
         }
       ],
       "synonyms": []
@@ -669,24 +605,24 @@
       "translation_en": "goods receipt (GR)",
       "examples": [
         {
-          "de": "Hier ist der Wareneingang.",
-          "ru": "Вот поступление материала (ПМ)."
+          "de": "Sie sind vom Wareneingang, oder?",
+          "ru": "Вы из приемной, да?"
         },
         {
-          "de": "Wir müssen den Wareneingang genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: поступление материала (ПМ)."
+          "de": "Versand und Wareneingang. Sie sprechen mit Jeannie.",
+          "ru": "Отдел обслуживания, Джинни слушает."
         },
         {
-          "de": "Sind Sie mit dem Wareneingang einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: поступление материала (ПМ)?"
+          "de": "Sehen Sie den großen Mageneingang, wo sich die Speise...",
+          "ru": "Посмотрите на размер сердцевидного отверстия, откуда пища..."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Wareneingang.",
-          "ru": "Сегодня мы концентрируемся на теме: поступление материала (ПМ)."
+          "de": "Hier, sehen Sie den großen Mageneingang, wo die...",
+          "ru": "Вот. Взгляните на размер кардии желудка, где еда..."
         },
         {
-          "de": "Der Wareneingang spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Поступление материала (ПМ) играет решающую роль в успехе."
+          "de": "Unser Ladeneingang ist um die Ecke.",
+          "ru": "Вход в магазин находится за углом."
         }
       ],
       "synonyms": []
@@ -699,24 +635,20 @@
       "translation_en": "goods issue (GI)",
       "examples": [
         {
-          "de": "Hier ist der Warenausgang.",
-          "ru": "Вот отпуск материала (ОМ)."
+          "de": "die Warenausgänge buchen",
+          "ru": "Почтовые проблемы с товаром"
         },
         {
-          "de": "Wir müssen den Warenausgang genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: отпуск материала (ОМ)."
+          "de": "Dabei können beim Warenausgang 312 Paar Schuhe in maximal fünf Sekunden geprüft werden.",
+          "ru": "При отправке товара 312 пар обуви можно проверить максимум за пять секунд."
         },
         {
-          "de": "Sind Sie mit dem Warenausgang einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: отпуск материала (ОМ)?"
+          "de": "Neben dem Warenausgang muß aber beim Mehrwertsteuersystem die auf dem gesamten Wareneingang liegende Steuer erfaßt werden.",
+          "ru": "Помимо исходящих товаров, система НДС также должна учитывать налог на все поступающие товары."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Warenausgang.",
-          "ru": "Сегодня мы концентрируемся на теме: отпуск материала (ОМ)."
-        },
-        {
-          "de": "Der Warenausgang spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Отпуск материала (ОМ) играет решающую роль в успехе."
+          "de": "Der Warenausgang stieg im Wert gegenüber dem Vorjahre um über 30 v. H.",
+          "ru": "Стоимость исходящих товаров увеличилась более чем на 30% по сравнению с предыдущим годом. ЧАС"
         }
       ],
       "synonyms": []
@@ -729,24 +661,24 @@
       "translation_en": "stock transfer",
       "examples": [
         {
-          "de": "Hier ist die Umlagerung.",
-          "ru": "Вот перемещение запасов."
+          "de": "Wir haben sein Telefon überwacht, seit die Belagerung begonnen hat.",
+          "ru": "Мы отслеживаем его телефон с тех пор как началась осада."
         },
         {
-          "de": "Wir müssen die Umlagerung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: перемещение запасов."
+          "de": "Der erste Tag vom Krieg, die Belagerung von Beirut.",
+          "ru": "Первый день войны, осада Бейрута."
         },
         {
-          "de": "Sind Sie mit der Umlagerung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: перемещение запасов?"
+          "de": "Eine recht kurze Belagerung, die ich nicht erwartete zu überleben.",
+          "ru": "Короткую осаду, из которой я не надеялась выбраться живой."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Umlagerung.",
-          "ru": "Сегодня мы концентрируемся на теме: перемещение запасов."
+          "de": "Besonders wenn ich mich erinnere, wie feige er während der Belagerung war.",
+          "ru": "Особенно когда я вспоминаю, как трусливо он вел себя во время осады."
         },
         {
-          "de": "Die Umlagerung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Перемещение запасов играет решающую роль в успехе."
+          "de": "Eine recht kurze Belagerung, die ich nicht erwartete zu überleben.",
+          "ru": "Очень короткую осаду, которую я не рассчитывала пережить."
         }
       ],
       "synonyms": []
@@ -759,24 +691,24 @@
       "translation_en": "transfer posting",
       "examples": [
         {
-          "de": "Hier ist die Umbuchung.",
-          "ru": "Вот перенос проводки / изменение статуса."
+          "de": "Wir kümmern uns um eine Umbuchung.",
+          "ru": "Мы закажем вам другие билеты."
         },
         {
-          "de": "Wir müssen die Umbuchung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: перенос проводки / изменение статуса."
+          "de": "Für eine Umbuchung müssen Sie herkommen.",
+          "ru": "Для этого вам необходимо зайти в агентство."
         },
         {
-          "de": "Sind Sie mit der Umbuchung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: перенос проводки / изменение статуса?"
+          "de": "Das Personal ist Ihnen gern bei der Planung und Organisation von Ausflügen oder bei der Umbuchung Ihres Fluges behilflich.",
+          "ru": "Сотрудники на стойке регистрации с радостью порекомендуют и организуют для Вас экскурсии и круизы, помогут перебронировать авиабилеты и многое другое."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Umbuchung.",
-          "ru": "Сегодня мы концентрируемся на теме: перенос проводки / изменение статуса."
+          "de": "Bei Umbuchung wird eine Bearbeitungsgebühr von bis zu CHF 500.- erhoben.",
+          "ru": "При изменении договора будут удержаны расходы на оформление договора в размере до 500 швейцарских франков (CHF)."
         },
         {
-          "de": "Die Umbuchung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Перенос проводки / изменение статуса играет решающую роль в успехе."
+          "de": "In der Taverne im zypriotischen Stil genießen Sie köstliche lokale und internationale Gerichte. Das Personal ist Ihnen gern bei der Planung und Organisation von Ausflügen oder bei der Umbuchung Ihres Fluges behilflich.",
+          "ru": "Это семейный отель, разместившийся в 120 метрах от пляжа в центре наиболее оживленного района Ларнаки, где гостей ждёт прекрасный отдых и всевозможные развлечения."
         }
       ],
       "synonyms": []
@@ -789,24 +721,16 @@
       "translation_en": "material posting",
       "examples": [
         {
-          "de": "Hier ist die Materialbuchung.",
-          "ru": "Вот проводка материала."
+          "de": "Nach der Materialbuchung können wir den aktuellen Lagerbestand im System abfragen.",
+          "ru": "После проведения проводки по материалу мы можем запросить текущий запас на складе в системе."
         },
         {
-          "de": "Wir müssen die Materialbuchung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: проводка материала."
+          "de": "Eine fehlerhafte Materialbuchung muss storniert und neu erfasst werden.",
+          "ru": "Ошибочную проводку по материалу необходимо сторнировать и зарегистрировать заново."
         },
         {
-          "de": "Sind Sie mit der Materialbuchung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: проводка материала?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Materialbuchung.",
-          "ru": "Сегодня мы концентрируемся на теме: проводка материала."
-        },
-        {
-          "de": "Die Materialbuchung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Проводка материала играет решающую роль в успехе."
+          "de": "Die Materialbuchung führte zu einer automatischen Aktualisierung des Finanzbuchhaltungsbelegs.",
+          "ru": "Проводка по материалу привело к автоматическому обновлению документа финансовой бухгалтерии."
         }
       ],
       "synonyms": []
@@ -819,24 +743,16 @@
       "translation_en": "GR/IR reconciliation",
       "examples": [
         {
-          "de": "Hier ist die WE/RE-Abstimmung.",
-          "ru": "Вот сверка ПМ/Сchild (поступление материала/счет)."
+          "de": "Die monatliche WE/RE-Abstimmung hilft uns, Differenzen zwischen gelieferten Waren und erhaltenen Rechnungen zu klären.",
+          "ru": "Ежемесячная выверка поступления материала и поступления счета (ПМ/ПС) помогает нам устранять расхождения между поставленными товарами и полученными счетами."
         },
         {
-          "de": "Wir müssen die WE/RE-Abstimmung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: сверка ПМ/Сchild (поступление материала/счет)."
+          "de": "Vor dem Jahresabschluss ist eine vollständige WE/RE-Abstimmung für alle Lieferantenkonten erforderlich.",
+          "ru": "Перед закрытием года необходима полная выверка ПМ/ПС по всем счетам поставщиков."
         },
         {
-          "de": "Sind Sie mit der WE/RE-Abstimmung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: сверка ПМ/Сchild (поступление материала/счет)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die WE/RE-Abstimmung.",
-          "ru": "Сегодня мы концентрируемся на теме: сверка ПМ/Сchild (поступление материала/счет)."
-        },
-        {
-          "de": "Die WE/RE-Abstimmung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Сверка ПМ/Сchild (поступление материала/счет) играет решающую роль в успехе."
+          "de": "Fehler bei der WE/RE-Abstimmung können zu falschen Abgrenzungen in der Bilanz führen.",
+          "ru": "Ошибки при выверке ПМ/ПС могут привести к неверным разграничениям в балансе."
         }
       ],
       "synonyms": []
@@ -849,24 +765,16 @@
       "translation_en": "GR/IR clearing account",
       "examples": [
         {
-          "de": "Hier ist das WE/RE-Verrechnungskonto.",
-          "ru": "Вот счет перерасчета ПМ/Счет (GR/IR)."
+          "de": "Das WE/RE-Verrechnungskonto muss am Monatsende ausgeglichen sein, wenn alle Rechnungen eingegangen sind.",
+          "ru": "Перерасчетный счет ПМ/ПС должен быть сбалансирован в конце месяца, если поступили все счета."
         },
         {
-          "de": "Wir müssen das WE/RE-Verrechnungskonto genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: счет перерасчета ПМ/Счет (GR/IR)."
+          "de": "Buchungen auf dem WE/RE-Verrechnungskonto erfolgen automatisch beim Wareneingang und beim Rechnungseingang.",
+          "ru": "Проводки на перерасчетном счете ПМ/ПС выполняются автоматически при поступлении материала и поступлении счета."
         },
         {
-          "de": "Sind Sie mit dem WE/RE-Verrechnungskonto einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: счет перерасчета ПМ/Счет (GR/IR)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das WE/RE-Verrechnungskonto.",
-          "ru": "Сегодня мы концентрируемся на теме: счет перерасчета ПМ/Счет (GR/IR)."
-        },
-        {
-          "de": "Das WE/RE-Verrechnungskonto spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Счет перерасчета ПМ/Счет (GR/IR) играет решающую роль в успехе."
+          "de": "Wir analysieren die offenen Posten auf dem WE/RE-Verrechnungskonto, um überfällige Rechnungen zu identifizieren.",
+          "ru": "Мы анализируем открытые позиции на перерасчетном счете ПМ/ПС, чтобы выявить просроченные счета."
         }
       ],
       "synonyms": []
@@ -879,24 +787,16 @@
       "translation_en": "special stock",
       "examples": [
         {
-          "de": "Hier ist der Sonderbestand.",
-          "ru": "Вот особый запас."
+          "de": "Konsignationswaren des Lieferanten werden im System als Sonderbestand geführt.",
+          "ru": "Консигнационные товары поставщика ведутся в системе как особый запас."
         },
         {
-          "de": "Wir müssen den Sonderbestand genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: особый запас."
+          "de": "Für den Sonderbestand gelten oft andere Bewertungsregeln als für den normalen Lagerbestand.",
+          "ru": "Для особого запаса часто действуют иные правила оценки, нежели для обычного запаса на складе."
         },
         {
-          "de": "Sind Sie mit dem Sonderbestand einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: особый запас?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Sonderbestand.",
-          "ru": "Сегодня мы концентрируемся на теме: особый запас."
-        },
-        {
-          "de": "Der Sonderbestand spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Особый запас играет решающую роль в успехе."
+          "de": "Ein Umlagerungsauftrag kann auch für Sonderbestände im SAP-System angelegt werden.",
+          "ru": "Заказ на перемещение запаса может быть создан в системе SAP и для особых запасов."
         }
       ],
       "synonyms": []
@@ -909,24 +809,16 @@
       "translation_en": "consignment stock",
       "examples": [
         {
-          "de": "Hier ist der Konsignationsbestand.",
-          "ru": "Вот консигнационный запас."
+          "de": "Der Konsignationsbestand bleibt so lange im Eigentum des Lieferanten, bis wir ihn entnehmen.",
+          "ru": "Консигнационный запас остается в собственности поставщика до тех пор, пока мы не заберем его со склада."
         },
         {
-          "de": "Wir müssen den Konsignationsbestand genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: консигнационный запас."
+          "de": "Wir müssen den Konsignationsbestand regelmäßig zählen und dem Lieferanten die Entnahmen melden.",
+          "ru": "Мы должны регулярно проводить инвентаризацию консигнационного запаса и сообщать поставщику о списаниях."
         },
         {
-          "de": "Sind Sie mit dem Konsignationsbestand einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: консигнационный запас?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Konsignationsbestand.",
-          "ru": "Сегодня мы концентрируемся на теме: консигнационный запас."
-        },
-        {
-          "de": "Der Konsignationsbestand spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Консигнационный запас играет решающую роль в успехе."
+          "de": "Die Verwaltung des Konsignationsbestands im SAP reduziert unsere eigenen Lagerhaltungskosten.",
+          "ru": "Управление консигнационным запасом в SAP снижает наши собственные затраты на содержание склада."
         }
       ],
       "synonyms": []
@@ -939,24 +831,16 @@
       "translation_en": "sales order stock",
       "examples": [
         {
-          "de": "Hier ist der Kundenauftragsbestand.",
-          "ru": "Вот запас для заказа клиента."
+          "de": "Ein hoher Kundenauftragsbestand sichert die Auslastung der Produktionsanlagen für das nächste Quartal.",
+          "ru": "Высокий объем портфеля заказов клиентов гарантирует загрузку производственных мощностей на следующий квартал."
         },
         {
-          "de": "Wir müssen den Kundenauftragsbestand genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: запас для заказа клиента."
+          "de": "Der Vertriebsleiter berichtet wöchentlich über den aktuellen Kundenauftragsbestand und die erwarteten Umsätze.",
+          "ru": "Руководитель отдела продаж еженедельно отчитывается о текущем портфеле заказов клиентов и ожидаемой выручке."
         },
         {
-          "de": "Sind Sie mit dem Kundenauftragsbestand einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: запас для заказа клиента?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Kundenauftragsbestand.",
-          "ru": "Сегодня мы концентрируемся на теме: запас для заказа клиента."
-        },
-        {
-          "de": "Der Kundenauftragsbestand spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Запас для заказа клиента играет решающую роль в успехе."
+          "de": "Wir müssen den Kundenauftragsbestand reduzieren, indem wir die Lieferzeiten in der Montage verkürzen.",
+          "ru": "Мы должны сократить портфель невыполненных заказов клиентов, уменьшив сроки поставки на сборочном производстве."
         }
       ],
       "synonyms": []
@@ -969,24 +853,16 @@
       "translation_en": "project stock",
       "examples": [
         {
-          "de": "Hier ist der Projektbestand.",
-          "ru": "Вот запас проекта."
+          "de": "Die Materialien für den Bau der neuen Anlage werden direkt auf den Projektbestand gebucht.",
+          "ru": "Материалы для строительства новой установки списываются непосредственно на проектный запас."
         },
         {
-          "de": "Wir müssen den Projektbestand genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: запас проекта."
+          "de": "Der Projektbestand ermöglicht eine genaue Zuordnung der Materialkosten zu einzelnen WBS-Elementen.",
+          "ru": "Проектный запас позволяет точно распределять затраты на материалы по отдельным СПП-элементам."
         },
         {
-          "de": "Sind Sie mit dem Projektbestand einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: запас проекта?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Projektbestand.",
-          "ru": "Сегодня мы концентрируемся на теме: запас проекта."
-        },
-        {
-          "de": "Der Projektbestand spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Запас проекта играет решающую роль в успехе."
+          "de": "Erst nach Freigabe des Projekts können Entnahmen aus dem Projektbestand vorgenommen werden.",
+          "ru": "Списание из проектного запаса может быть выполнено только после деблокирования проекта."
         }
       ],
       "synonyms": []
@@ -999,24 +875,16 @@
       "translation_en": "batch management",
       "examples": [
         {
-          "de": "Hier ist die Chargenverwaltung.",
-          "ru": "Вот управление партиями."
+          "de": "In der Pharmaindustrie ist eine lückenlose Chargenverwaltung gesetzlich vorgeschrieben.",
+          "ru": "В фармацевтической промышленности непрерывное управление партиями предписано законом."
         },
         {
-          "de": "Wir müssen die Chargenverwaltung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: управление партиями."
+          "de": "Durch die Aktivierung der Chargenverwaltung können wir fehlerhafte Produkte schnell zurückverfolgen.",
+          "ru": "Активировав управление партиями, мы можем быстро отслеживать дефектную продукцию."
         },
         {
-          "de": "Sind Sie mit der Chargenverwaltung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: управление партиями?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Chargenverwaltung.",
-          "ru": "Сегодня мы концентрируемся на теме: управление партиями."
-        },
-        {
-          "de": "Die Chargenverwaltung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Управление партиями играет решающую роль в успехе."
+          "de": "Im SAP-System erfordert die Chargenverwaltung eine eindeutige Kennzeichnung jeder Produktionscharge.",
+          "ru": "В системе SAP управление партиями требует однозначной маркировки каждой производственной партии."
         }
       ],
       "synonyms": []
@@ -1029,24 +897,24 @@
       "translation_en": "batch",
       "examples": [
         {
-          "de": "Hier ist die Charge.",
-          "ru": "Вот партия."
+          "de": "Die erste Charge hat die Testratte innerhalb von zwei Tagen getötet.",
+          "ru": "Первая партия убила испытуемую крысу через два дня."
         },
         {
-          "de": "Wir müssen die Charge genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: партия."
+          "de": "Im Grunde ist jede Charge von Heroin wie eine Schneeflocke.",
+          "ru": "Вообще-то, каждая партия героина - как снежинка."
         },
         {
-          "de": "Sind Sie mit der Charge einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: партия?"
+          "de": "Korporal ist die schlimmste Charge.",
+          "ru": "Капрал - СЗМОЭ худшее звание."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Charge.",
-          "ru": "Сегодня мы концентрируемся на теме: партия."
+          "de": "Zwei Handys der gestohlenen Charge wurden aktiviert und sind nahe beieinander.",
+          "ru": "Два телефона из украденной партии были активированы недалеко друг от друга."
         },
         {
-          "de": "Die Charge spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Партия играет решающую роль в успехе."
+          "de": "Ich habe nur bei der ersten Charge geholfen, dann platzte ein Rohr.",
+          "ru": "Я только помог с первой партией, но прорвало трубу."
         }
       ],
       "synonyms": []
@@ -1059,24 +927,24 @@
       "translation_en": "serial number",
       "examples": [
         {
-          "de": "Hier ist die Serialnummer.",
-          "ru": "Вот серийный номер."
+          "de": "Wir müssen die Seriennummern so schnell wie möglich notieren.",
+          "ru": "Нужно записать их серийные номера как можно быстрее."
         },
         {
-          "de": "Wir müssen die Serialnummer genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: серийный номер."
+          "de": "Wir müssen die Seriennummern ermitteln, um rauszukriegen, wo es gekauft wurde.",
+          "ru": "Мы проверяем номер партии, чтобы выяснить где он куплен."
         },
         {
-          "de": "Sind Sie mit der Serialnummer einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: серийный номер?"
+          "de": "Seriennummern von sechs verschiedenen Scheinen, alles Fünfziger.",
+          "ru": "Серийные номера из шести разных счетов, все пятидесятые."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Serialnummer.",
-          "ru": "Сегодня мы концентрируемся на теме: серийный номер."
+          "de": "Schau dir die Seriennummern dieser Geldscheine an.",
+          "ru": "Посмотри на серийные номера на этих купюрах."
         },
         {
-          "de": "Die Serialnummer spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Серийный номер играет решающую роль в успехе."
+          "de": "Ohne Seriennummern, so nett ist mein Kontaktmann.",
+          "ru": "Никаких серийных номеров. потому что мой контакт серьезный человек."
         }
       ],
       "synonyms": []
@@ -1089,24 +957,24 @@
       "translation_en": "usability / shelf life",
       "examples": [
         {
-          "de": "Hier ist die Verwendbarkeit.",
-          "ru": "Вот применимость / годность."
+          "de": "Eines der spannendsten Dinge ist solare Wasser-Desinfektion und die Verbesserung ihrer Verwendbarkeit.",
+          "ru": "Одно из многообещающих направлений в этом деле - дезинфекция воды с помощью солнечной энергии и увеличение возможности это делать."
         },
         {
-          "de": "Wir müssen die Verwendbarkeit genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: применимость / годность."
+          "de": "Ein komplett sicheres System ist praktisch ein Ding der Unmöglichkeit, weshalb ein unter Sicherheitsprofis oft genutzter Ansatz ist, einen Mittelweg zwischen Risiko und Verwendbarkeit zu finden.",
+          "ru": "Так как абсолютно безопасные системы являются не более, чем мифом, на практике приходится балансировать между комфортом и безопасностью."
         },
         {
-          "de": "Sind Sie mit der Verwendbarkeit einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: применимость / годность?"
+          "de": "Ich muss zugeben, seit wir über die militärische Verwendbarkeit sprachen, mache ich mir Gedanken.",
+          "ru": "Должен признать, меня беспокоило военное применение с самого начала."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Verwendbarkeit.",
-          "ru": "Сегодня мы концентрируемся на теме: применимость / годность."
+          "de": "Und alle diese Versuche sollten die Verwendbarkeit der Racketantriebmittel beweisen",
+          "ru": "И все эти испытания должны были доказать принципиальную применимость ракетных двигателей"
         },
         {
-          "de": "Die Verwendbarkeit spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Применимость / годность играет решающую роль в успехе."
+          "de": "Falls Sie keine genaue Bezeichnung wissen, erweisen Sie bitte ihre Verwendbarkeit.",
+          "ru": "По Вашей просьбе с первой отправкой товара в Ваш адрес будет отослан каталог запасных частей трактора МТЗ соответствующей модификации и запасных частей его двигателя."
         }
       ],
       "synonyms": []
@@ -1119,24 +987,24 @@
       "translation_en": "expiration date",
       "examples": [
         {
-          "de": "Hier ist das Verfallsdatum.",
-          "ru": "Вот срок годности."
+          "de": "Ich wusste nicht, dass unsere Verbindung ein Verfallsdatum hat.",
+          "ru": "Я не знал, что у наших отношений есть срок годности."
         },
         {
-          "de": "Wir müssen das Verfallsdatum genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: срок годности."
+          "de": "Wenn diese Ringe ein Verfallsdatum haben, ist er ungeschützt.",
+          "ru": "Если кольца имеют срок годности, то он остается без защиты."
         },
         {
-          "de": "Sind Sie mit dem Verfallsdatum einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: срок годности?"
+          "de": "Eine Bindung ist nur eine Bindung, weil sie kein Verfallsdatum hat.",
+          "ru": "Обещание является обещанием, потому что у него нет срока годности."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Verfallsdatum.",
-          "ru": "Сегодня мы концентрируемся на теме: срок годности."
+          "de": "Das hat kein Verfallsdatum.",
+          "ru": "Здесь нет срока годности."
         },
         {
-          "de": "Das Verfallsdatum spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Срок годности играет решающую роль в успехе."
+          "de": "Seitdem kauf ich jeden Tag eine Dose Ananas mit dem Verfallsdatum 1. Mai.",
+          "ru": "Каждый день я покупаю банку ананасов со сроком годности 1 мая."
         }
       ],
       "synonyms": []
@@ -1149,24 +1017,24 @@
       "translation_en": "shelf life expiration date",
       "examples": [
         {
-          "de": "Hier ist das Mindesthaltbarkeitsdatum.",
-          "ru": "Вот минимальный срок годности."
+          "de": "Schwarz auf weiß prangt es auf zahlreichen Lebensmittelpackungen und erweckt den Anschein amtlich beglaubigter Unbestechlichkeit: das Mindesthaltbarkeitsdatum.",
+          "ru": "Он изображен в черно-белых тонах на многочисленных упаковках продуктов питания и создает впечатление официально сертифицированной нетленности: срок годности."
         },
         {
-          "de": "Wir müssen das Mindesthaltbarkeitsdatum genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: минимальный срок годности."
+          "de": "Joghurt ist […] oft Monate länger haltbar, als es das MHD [Mindesthaltbarkeitsdatum] suggerieren würde. Und der Handel mit Produkten, deren MHD abgelaufen ist, ist absolut legal. Viele Verbraucher kennen allerdings den Unterschied zwischen dem Mindesthaltbarkeitsdatum und dem Verbrauchsdatum nicht. […] Das Verbrauchsdatum ist nur für sehr leicht verderbliche Lebensmittel vorgesehen, bei denen ein Verzehr nach dem Verbrauchsdatum eine Gesundheitsgefährdung bedeuten würde.",
+          "ru": "Йогурт часто хранится на несколько месяцев дольше, чем можно предположить по сроку годности. А торговля продуктами, срок годности которых истек, абсолютно законна. Однако многие потребители не знают разницы между сроком годности и сроком годности. […] Срок годности предназначен только для очень скоропортящихся продуктов, употребление которых после истечения срока годности может представлять риск для здоровья."
         },
         {
-          "de": "Sind Sie mit dem Mindesthaltbarkeitsdatum einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: минимальный срок годности?"
+          "de": "Die Supermarktkette Kaufland hat Rotkohl ihrer Hausmarke K‑Classic zurückgerufen.[…] Zurückgerufen werden Gläser […] mit dem Mindesthaltbarkeitsdatum 31.12.2020.",
+          "ru": "Сеть супермаркетов Kaufland отозвала краснокочанную капусту из собственного бренда K‑Classic.[…] Банки […] со сроком годности 31 декабря 2020 года отзываются."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Mindesthaltbarkeitsdatum.",
-          "ru": "Сегодня мы концентрируемся на теме: минимальный срок годности."
+          "de": "Wie die Polizei mitteilte, stehe ein 59‑jähriger Großhändler […] im Verdacht, 15.000 Sauerkrautdosen mit neuen Mindesthaltbarkeitsdaten versehen zu haben.",
+          "ru": "Как сообщила полиция, 59-летний оптовик […] подозревается в том, что установил новые сроки годности для 15 000 банок квашеной капусты."
         },
         {
-          "de": "Das Mindesthaltbarkeitsdatum spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Минимальный срок годности играет решающую роль в успехе."
+          "de": "[…] rausgeworfen aus den Verkaufsräumen werden Milchprodukte wie Butter oder etwa Quark, die ihr Mindesthaltbarkeitsdatum erreicht haben.",
+          "ru": "[…] молочные продукты, такие как масло или творог, срок годности которых истек, выбрасываются из торговых залов."
         }
       ],
       "synonyms": []
@@ -1179,24 +1047,20 @@
       "translation_en": "quality inspection",
       "examples": [
         {
-          "de": "Hier ist die Qualitätsprüfung.",
-          "ru": "Вот контроль качества."
+          "de": "Was den ersten Punkt angeht, dürften die Qualitätsprüfung der Bilanzen und die Banken-Stresstests der EZB für etwas mehr Klarheit sorgen.",
+          "ru": "Обзор качества активов и банк стресс-тесты ЕЦБ, как ожидается, внесут некоторую ясность по первому вопросу."
         },
         {
-          "de": "Wir müssen die Qualitätsprüfung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: контроль качества."
+          "de": "Diese Messsysteme werden vorwiegend zur Qualitätsprüfung in der Automobil- oder Halbleiterindustrie eingesetzt.",
+          "ru": "Эти измерительные системы используются преимущественно при контроле качества в автомобильной и полупроводниковой промышленности."
         },
         {
-          "de": "Sind Sie mit der Qualitätsprüfung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: контроль качества?"
+          "de": "Zur Qualitätsprüfung der OpenStreetMap-Daten wurden verschiedene Lösungen entworfen.",
+          "ru": "Над проектом OpenStreetMap проводили исследования на выяснение качества данных."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Qualitätsprüfung.",
-          "ru": "Сегодня мы концентрируемся на теме: контроль качества."
-        },
-        {
-          "de": "Die Qualitätsprüfung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Контроль качества играет решающую роль в успехе."
+          "de": "Zusätzlich werden auch in unserem Betrieb eigene Qualitätsprüfungen des Gewebes durchgeführt.",
+          "ru": "Кроме этого, на территории нашего предприятия мы проводим самостоятельные исследования качества ткани."
         }
       ],
       "synonyms": []
@@ -1209,24 +1073,24 @@
       "translation_en": "quality inspection stock",
       "examples": [
         {
-          "de": "Hier ist der Prüfbestand.",
-          "ru": "Вот запас на контроле качества."
+          "de": "Ich bin's gewohnt, auf dem Prüfstand zu stehen.",
+          "ru": "Я привык, что меня разбирают по кусочкам."
         },
         {
-          "de": "Wir müssen den Prüfbestand genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: запас на контроле качества."
+          "de": "Er stand nie so stark auf dem Prüfstand.",
+          "ru": "Ему не надо быть на виду у всех."
         },
         {
-          "de": "Sind Sie mit dem Prüfbestand einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: запас на контроле качества?"
+          "de": "Sollen wir deine Überheblichkeit auf den Prüfstand stellen...",
+          "ru": "Должны ли мы испытать твоё превосходство раз и на всегда?"
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Prüfbestand.",
-          "ru": "Сегодня мы концентрируемся на теме: запас на контроле качества."
+          "de": "Ihnen mag es vielleicht nicht klar sein, aber ich stehe im Moment auf dem Prüfstand.",
+          "ru": "Может, вы не в курсе, но я сейчас под очень надёжной защитой."
         },
         {
-          "de": "Der Prüfbestand spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Запас на контроле качества играет решающую роль в успехе."
+          "de": "In Serbien stehen alle diese Punkte auf dem Prüfstand.",
+          "ru": "Сербия - это показательный случай для ответов на все эти вопросы."
         }
       ],
       "synonyms": []
@@ -1239,24 +1103,24 @@
       "translation_en": "blocked stock",
       "examples": [
         {
-          "de": "Hier ist der gesperrte Bestand.",
-          "ru": "Вот блокированный запас."
+          "de": "Ihr Bestand ist relativ stabil; sie profitieren sogar von der Abholzung des Regenwaldes, da sie sich im offenen Land besser zurechtfinden.",
+          "ru": "Его популяция относительно стабильна; они извлекают пользу даже от вырубки сельвы, так как они лучше ориентируются на открытой местности."
         },
         {
-          "de": "Wir müssen den gesperrte Bestand genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: блокированный запас."
+          "de": "Der Bestand ist noch relativ groß und nicht gefährdet.",
+          "ru": "Популяция относительно большая и не находится под угрозой."
         },
         {
-          "de": "Sind Sie mit dem gesperrte Bestand einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: блокированный запас?"
+          "de": "Ihr Bestand besteht heute aus mehreren kleinen, voneinander isolierten Populationen.",
+          "ru": "Сегодня его состав состоит из нескольких маленьких, изолированных друг от друга популяций."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den gesperrte Bestand.",
-          "ru": "Сегодня мы концентрируемся на теме: блокированный запас."
+          "de": "Doch ist sein Bestand wohlbekannt von minderwertiger Qualität zu sein, wie der Junge selbst.",
+          "ru": "Известно, что его запасы довольно низкого качества, также как и сам мальчишка."
         },
         {
-          "de": "Der gesperrte Bestand spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Блокированный запас играет решающую роль в успехе."
+          "de": "Ich will unseren Bestand erweitern und ihm außerdem Gannicus anbieten.",
+          "ru": "Я бы хотел пополнить наши запасы, и предложить также Ганника."
         }
       ],
       "synonyms": []
@@ -1269,24 +1133,24 @@
       "translation_en": "unrestricted-use stock",
       "examples": [
         {
-          "de": "Hier ist der frei verwendbare Bestand.",
-          "ru": "Вот свободно используемый запас."
+          "de": "Sie bestand Riggs Urteil, wurde geheilt und war wieder frei.",
+          "ru": "Она оправдалась перед Ригом. И получила свободу."
         },
         {
-          "de": "Wir müssen den frei verwendbare Bestand genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: свободно используемый запас."
+          "de": "Solange das Bretton-Woods-System fester Wechselkurse bestand, war die Beschaffenheit dieses Privilegs klar: Die USA waren das einzige Land, das seine Geldpolitik frei bestimmen konnte.",
+          "ru": "Пока обменные курсы были фиксированные, согласно Бреттонвудской системе, суть этих привилегий была ясна: США были единственной страной, которая могла свободно определять свою собственную денежную политику."
         },
         {
-          "de": "Sind Sie mit dem frei verwendbare Bestand einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: свободно используемый запас?"
+          "de": "Der audiovisuelle Bestand des Programms AFA, frei für jeden zugänglich, vereint heute 5121 Stunden an Videomaterial, welches die grossen Herausforderungen und Fragestellungen aller geistes- und sozialwissenschaftlichen Disziplinen dokumentiert.",
+          "ru": "Аудиовизуальный фонд ААНИ, обладающий свободным доступом, сегодня включает в себя 5121 часов видео, затрагивающих наиболее актуальные темы и вопросы во всех областях общественно-гуманитарных наук."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den frei verwendbare Bestand.",
-          "ru": "Сегодня мы концентрируемся на теме: свободно используемый запас."
+          "de": "Er lehrte auch an der privaten Freien Polnischen Universität (Wolna Wszechnica Polska) in Warschau, die 1918 bis 1952 bestand.",
+          "ru": "Свободный польский университет действовал в Варшаве с 1918 по 1952 год."
         },
         {
-          "de": "Der frei verwendbare Bestand spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Свободно используемый запас играет решающую роль в успехе."
+          "de": "Eine bedeutende von der NATO im ersten Jahrzehnt nach dem Kalten Krieg erfüllte Aufgabe bestand darin, die nun freien Länder Mitteleuropas an sich zu binden, wobei die Aussicht auf Mitgliedschaft an die Einhaltung demokratischer Mindeststandards gekoppelt war.",
+          "ru": "Одной из крупных задач, которую выполняла НАТО в течение первого десятилетия после холодной войны, было привлечение вновь освободившихся стран на сторону Запада, требуя от них соответствия демократическим стандартам в обмен на обещание членства в организации."
         }
       ],
       "synonyms": []
@@ -1299,24 +1163,16 @@
       "translation_en": "stock type",
       "examples": [
         {
-          "de": "Hier ist die Bestandsart.",
-          "ru": "Вот вид запаса."
+          "de": "Im System wird zwischen verschiedenen Bestandsarten wie frei verwendbar, Qualitätsprüfung und gesperrt unterschieden.",
+          "ru": "В системе различаются различные виды запаса, такие как свободно используемый, на контроле качества и блокированный."
         },
         {
-          "de": "Wir müssen die Bestandsart genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: вид запаса."
+          "de": "Um das Material freizugeben, müssen wir die Bestandsart von Qualitätsprüfung auf frei verwendbar ändern.",
+          "ru": "Чтобы деблокировать материал, мы должны изменить вид запаса с контроля качества на свободно используемый."
         },
         {
-          "de": "Sind Sie mit der Bestandsart einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: вид запаса?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Bestandsart.",
-          "ru": "Сегодня мы концентрируемся на теме: вид запаса."
-        },
-        {
-          "de": "Die Bestandsart spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Вид запаса играет решающую роль в успехе."
+          "de": "Die jeweilige Bestandsart bestimmt, ob das Material für den Verkauf oder die Produktion verfügbar ist.",
+          "ru": "Соответствующий вид запаса определяет, доступен ли материал для продажи или производства."
         }
       ],
       "synonyms": []
@@ -1329,24 +1185,24 @@
       "translation_en": "movement type",
       "examples": [
         {
-          "de": "Hier ist die Bewegungsart.",
-          "ru": "Вот вид движения (запасов)."
+          "de": "Spiel ähnlich wie»Fifteen«, aber mit einer anderen Bewegungsart",
+          "ru": "Игра, похожая на пятнашки, но с другим типом перемещения"
         },
         {
-          "de": "Wir müssen die Bewegungsart genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: вид движения (запасов)."
+          "de": "Aber wenn Studien zeigen, konkrete Zahlen für die Folgen der Wahl einer Bewegungsarmut, erkennen wir, was ist alarmierend und verstörend, dass keine körperlichen Aktivität ab.",
+          "ru": "Но когда исследования показывают конкретные цифры за последствия выбора сидячий образ жизни, мы понимаем, что вызывает тревогу и озабоченность то, что никакой физической активности."
         },
         {
-          "de": "Sind Sie mit der Bewegungsart einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: вид движения (запасов)?"
+          "de": "Es ist ein Bewegungs-Coprozessor, der Bewegungsdaten sammelt und speichert; auf dem Beschleunigungssensor, Gyroskop und Kompass des Handys.",
+          "ru": "Это сопроцессор, который собирает и хранит данные о движении на акселерометрах, гиродатчиках и компасах телефона."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Bewegungsart.",
-          "ru": "Сегодня мы концентрируемся на теме: вид движения (запасов)."
+          "de": "Auf jeden Fall hat dieser VIP-Raum eine maximale Belegungsrate von zwei Leuten, einschließlich mir, also Ene...",
+          "ru": "В этом вся головоломка! Короче, это ВИП-комната для двоих, включая меня, так что Эни проходи..."
         },
         {
-          "de": "Die Bewegungsart spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Вид движения (запасов) играет решающую роль в успехе."
+          "de": "Argentina's Heart Foundation, die Gemeinschaft Arm der Sociedad Argentina de Cardiología, warnte über die Bedeutung der Bekämpfung der Bewegungsarmut, ein großes Herz-Kreislauf-Risikofaktoren.",
+          "ru": "Аргентина's Heart Foundation, сообщество рука Сосьедад де Cardiología Аргентине, предупредили о важности борьбы с сидячим образом жизни, основные сердечно-сосудистые факторы риска."
         }
       ],
       "synonyms": []
@@ -1359,24 +1215,16 @@
       "translation_en": "stock deficit",
       "examples": [
         {
-          "de": "Hier ist die Bestandsunterdeckung.",
-          "ru": "Вот дефицит запасов."
+          "de": "Um eine Bestandsunterdeckung zu vermeiden, müssen wir den Bestellpunkt im System anpassen.",
+          "ru": "Чтобы избежать дефицита запасов, мы должны скорректировать точку заказа в системе."
         },
         {
-          "de": "Wir müssen die Bestandsunterdeckung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: дефицит запасов."
+          "de": "Die ungeplante Bestandsunterdeckung führte zu einer Verzögerung in der gesamten Produktionslinie.",
+          "ru": "Внеплановый дефицит запасов привел к задержке на всей производственной линии."
         },
         {
-          "de": "Sind Sie mit der Bestandsunterdeckung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: дефицит запасов?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Bestandsunterdeckung.",
-          "ru": "Сегодня мы концентрируемся на теме: дефицит запасов."
-        },
-        {
-          "de": "Die Bestandsunterdeckung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Дефицит запасов играет решающую роль в успехе."
+          "de": "Das System meldet eine Bestandsunterdeckung für Rohstoffe, weshalb wir sofort eine Nachbestellung auslösen müssen.",
+          "ru": "Система сообщает о дефиците запасов сырья, поэтому нам необходимо немедленно оформить дозаказ."
         }
       ],
       "synonyms": []
@@ -1389,24 +1237,24 @@
       "translation_en": "material requirements planning (MRP)",
       "examples": [
         {
-          "de": "Hier ist die Bedarfsplanung.",
-          "ru": "Вот планирование потребностей (MRP)."
+          "de": "die mittelfristige, ärztliche Bedarfsplanung",
+          "ru": "среднесрочное планирование медицинских потребностей"
         },
         {
-          "de": "Wir müssen die Bedarfsplanung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: планирование потребностей (MRP)."
+          "de": "Die Bundesregierung will die Bedarfsplanung für die Krankenhäuser nicht mehr nur den Ländern überlassen, sondern nur dann Gelder zuschießen, wenn eine »bundesweit abgestimmte Bedarfsermittlung« vorliegt.",
+          "ru": "Федеральное правительство больше не хочет оставлять планирование потребностей больниц только на усмотрение штатов, а вкладывает средства только в том случае, если существует «оценка потребностей, скоординированная на национальном уровне»."
         },
         {
-          "de": "Sind Sie mit der Bedarfsplanung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: планирование потребностей (MRP)?"
+          "de": "Das Umfrageergebnis zur Bedarfsplanung der öffentlichen Kinderbetreuungszeiten in der Gemeinde wird in der nächsten Sitzung des Gemeinderats Wittnau am Montag, 16. Mai, um 18.30 Uhr im Gallushaus vorgestellt.",
+          "ru": "Результаты опроса о планировании потребностей общественного ухода за детьми в общине будут представлены на следующем заседании городского совета Виттнау в понедельник, 16 мая, в 18:30. в Галлюсхаусе."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Bedarfsplanung.",
-          "ru": "Сегодня мы концентрируемся на теме: планирование потребностей (MRP)."
+          "de": "Es bringt nichts, Kliniken zu schließen und Bettenkapazitäten abzubauen, wenn nicht zugleich die ambulante Versorgung flächendeckend sichergestellt und die Bedarfsplanung für die gesundheitliche Versorgung insgesamt neu geordnet wird.",
+          "ru": "Нет смысла закрывать поликлиники и сокращать коечный фонд, если не будет обеспечена повсеместная амбулаторная помощь и не будет реорганизовано планирование спроса на здравоохранение в целом."
         },
         {
-          "de": "Die Bedarfsplanung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Планирование потребностей (MRP) играет решающую роль в успехе."
+          "de": "Knifflig wird es beispielsweise beim Brandschutz. Dort laufen die Bedarfsplanungen. Es wird sich zeigen, ob Pritzier ganz alleine einen sicheren Brandschutz auf die Beine stellen kann.",
+          "ru": "Например, все становится сложнее, когда дело доходит до противопожарной защиты. Там идет планирование потребностей. Еще неизвестно, сможет ли Притциер самостоятельно организовать надежную противопожарную защиту."
         }
       ],
       "synonyms": []
@@ -1419,24 +1267,24 @@
       "translation_en": "material planning",
       "examples": [
         {
-          "de": "Hier ist die Disposition.",
-          "ru": "Вот диспетчеризация / планирование запасов."
+          "de": "Die Disposition für morgen, sogar für heute, denn es ist nach Mitternacht, wird nicht mehr geändert.",
+          "ru": "Господа, диспозиция на завтра, даже на нынче, потому что уже за полночь не может быть изменена."
         },
         {
-          "de": "Wir müssen die Disposition genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: диспетчеризация / планирование запасов."
+          "de": "Der Biergarten ist zu der Disposition für allen, die ruhiger Atmosphäre bevorzugen.",
+          "ru": "Также доступны наши терассы для всех, кто предпочитает спокойную атмосферу."
         },
         {
-          "de": "Sind Sie mit der Disposition einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: диспетчеризация / планирование запасов?"
+          "de": "Oder wir kommen mit einem Gerichtsbeschluss und einer wirklich bösen Disposition zurück.",
+          "ru": "Или мы можем вернуться с постановлением суда и в очень плохом настроении."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Disposition.",
-          "ru": "Сегодня мы концентрируемся на теме: диспетчеризация / планирование запасов."
+          "de": "Die Disposition der Ingenieure überlassen Sie mir, ja?",
+          "ru": "Распределением инженеров занимаюсь я, да?"
         },
         {
-          "de": "Die Disposition spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Диспетчеризация / планирование запасов играет решающую роль в успехе."
+          "de": "Weitere Änderungen der Disposition gab es 1952 und 1965.",
+          "ru": "Последующие изменения в неё были внесены в 1952 и 1965 годах."
         }
       ],
       "synonyms": []
@@ -1449,24 +1297,24 @@
       "translation_en": "material planner",
       "examples": [
         {
-          "de": "Hier ist der Disponent.",
-          "ru": "Вот планировщик / диспетчер."
+          "de": "Der Disponent braucht einen Dolce Latte, einen Espresso und Frappé koffeinfrei...",
+          "ru": "Так... звездный букер хочет латте и особый маккиато, а также фраппе капучино без кофеина для её гостьи."
         },
         {
-          "de": "Wir müssen den Disponent genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: планировщик / диспетчер."
+          "de": "Der Disponent kann sie anfassen und auf der Karte absetzen, um den Einheiten zu sagen, wohin sie müssen.",
+          "ru": "Диспетчер может захватить их рукой и разместить на карте, указав данным элементам направление пути."
         },
         {
-          "de": "Sind Sie mit dem Disponent einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: планировщик / диспетчер?"
+          "de": "Wir arbeiten alle rund um die Uhr und ich bin sicher, der Disponent wird was Passendes für Sie finden.",
+          "ru": "Мы все работаем с утра до вечера если вам это подходит, пройдите к секретарю."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Disponent.",
-          "ru": "Сегодня мы концентрируемся на теме: планировщик / диспетчер."
+          "de": "Ridleys Disponent in der Botschaft ist Vivian Long gewesen.",
+          "ru": "Ридли был экспедитером в посольстве и молодая вице-консул по имени Вивиан Лонг"
         },
         {
-          "de": "Der Disponent spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Планировщик / диспетчер играет решающую роль в успехе."
+          "de": "Ich habe eine Kontonummer und den Namen eines Disponenten.",
+          "ru": "У меня есть номер счета и имя управляющего."
         }
       ],
       "synonyms": []
@@ -1479,24 +1327,24 @@
       "translation_en": "safety stock",
       "examples": [
         {
-          "de": "Hier ist der Sicherheitsbestand.",
-          "ru": "Вот страховой запас."
+          "de": "Anlegung zentraler und regionaler Sicherheitsbestände für Notsituationen",
+          "ru": "Центральные и региональные запасы для неотложной помощи"
         },
         {
-          "de": "Wir müssen den Sicherheitsbestand genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: страховой запас."
+          "de": "Im Anschluss an eine kritische Bewertung der Vorsorge des UNHCR für Hilfseinsätze wurden Maßnahmen ergriffen, um die Sicherheitsbestände für Notsituationen aufzustocken.",
+          "ru": "После критики по поводу готовности УВКБ к чрезвычайным операциям были приняты меры по увеличению объемов запасов для неотложной помощи."
         },
         {
-          "de": "Sind Sie mit dem Sicherheitsbestand einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: страховой запас?"
+          "de": "Wir gehen auf Sicherheitsabstand und melden uns auf euer Signal hin.",
+          "ru": "Мы отойдем на безопасное расстояние, и вернемся по вашему сигналу."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Sicherheitsbestand.",
-          "ru": "Сегодня мы концентрируемся на теме: страховой запас."
+          "de": "Bei der Entfernung sollte auf einen ausreichenden Sicherheitsabstand geachtet werden.",
+          "ru": "При применении необходимо отдаляться на безопасное расстояние."
         },
         {
-          "de": "Der Sicherheitsbestand spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Страховой запас играет решающую роль в успехе."
+          "de": "Ich wäre für jeden Zeitpunkt dankbar, an dem ihr euren Sicherheitsabstand aufgebt.",
+          "ru": "В любой момент, когда вы, ребята, захотите сократить то безопасное расстояние, которое поддерживаете, я буду благодарен за это."
         }
       ],
       "synonyms": []
@@ -1509,24 +1357,24 @@
       "translation_en": "reorder point",
       "examples": [
         {
-          "de": "Hier ist der Meldebestand.",
-          "ru": "Вот точка заказа / пороговый запас."
+          "de": "Sie wird berechnet als Jahressozialprodukt geteilt durch den durchschnittlichen Geldbestand in diesem Zeitraum.",
+          "ru": "Рассчитывается как годовой национальный доход, разделенный на среднюю денежную массу в обращении за этот период."
         },
         {
-          "de": "Wir müssen den Meldebestand genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: точка заказа / пороговый запас."
+          "de": "Tatsächlich sind die Kreditkanäle blockiert, und der Geldumlauf ist zusammengebrochen, weil die Banken den zusätzlichen Geldbestand in Form exzessiver Reserven horten.",
+          "ru": "Кредитный канал заморожен и скорость замедлилась, а банки безудержно накапливают денежную массу в виде избыточных резервов."
         },
         {
-          "de": "Sind Sie mit dem Meldebestand einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: точка заказа / пороговый запас?"
+          "de": "Eine besondere Sorge ist, dass der Geldbestand in der Eurozone weit über der EZB-Benchmark liegt, was auf ein Übermaß an Liquidität hindeutet.",
+          "ru": "Особое беспокойство вызывает то, что денежные запасы еврозоны намного превышают контрольный уровень ЕЦБ, указывая на излишек ликвидности."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Meldebestand.",
-          "ru": "Сегодня мы концентрируемся на теме: точка заказа / пороговый запас."
+          "de": "Anstatt den Geldbestand zu erhöhen, um sich von dem ökonomischen Einsturz zu erholen hat FED ihn stattdessen verringert, wodurch eine der größten Depressionen der Geschichte ausgelöst wurde.",
+          "ru": "Если мы заглянем в историю, то увидим чистую модель машинной автоматизации, плавно заменяющей человеческий труд."
         },
         {
-          "de": "Der Meldebestand spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Точка заказа / пороговый запас играет решающую роль в успехе."
+          "de": "Anstatt den Geldbestand zu erhöhen, um sich von dem ökonomischen Einsturz zu erholen hat FED ihn stattdessen verringert, wodurch eine der größten Depressionen der Geschichte ausgelöst wurde.",
+          "ru": "Или мы никогда не будем свободны и технологии так и останутся замороженными. У нас есть машины, которые чистят канализации, освобождая человека от этой работы."
         }
       ],
       "synonyms": []
@@ -1539,24 +1387,24 @@
       "translation_en": "lot size",
       "examples": [
         {
-          "de": "Hier ist die Losgröße.",
-          "ru": "Вот размер партии (заказа)."
+          "de": "Oft zählt nur noch die Losgröße eins, alles soll für einen Kunden maßgeschneidert sein.",
+          "ru": "Часто учитывается только размер партии; все должно быть сделано специально для клиента."
         },
         {
-          "de": "Wir müssen die Losgröße genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: размер партии (заказа)."
+          "de": "Zum anderen rechnen sich die Handwerker als Team größere Chancen bei der Vergabe von Aufträgen in umfangreicheren Losgrößen aus.",
+          "ru": "С другой стороны, мастера как команда ожидают больших возможностей при размещении заказов на большие партии."
         },
         {
-          "de": "Sind Sie mit der Losgröße einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: размер партии (заказа)?"
+          "de": "Stattdessen wird immer bei Bedarf in kleineren oder mittleren Losgrößen bestellt.",
+          "ru": "Вместо этого, при необходимости, заказы всегда выполняются партиями меньшего или среднего размера."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Losgröße.",
-          "ru": "Сегодня мы концентрируемся на теме: размер партии (заказа)."
+          "de": "Zwar werde man durch die höheren Losgrößen die Zulieferbeziehungen ändern, aber der Deal gehe nicht zu Lasten anderer Unternehmen.",
+          "ru": "Хотя увеличение размера партии изменит отношения с поставщиками, сделка не будет осуществляться за счет других компаний."
         },
         {
-          "de": "Die Losgröße spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Размер партии (заказа) играет решающую роль в успехе."
+          "de": "Für kleine Losgrößen, manchmal nur alle drei Jahre bestellt, arbeiten einige Maschinen nur wenige Tage oder Wochen im Jahr.",
+          "ru": "При небольших размерах партий, иногда заказываемых только раз в три года, некоторые машины работают всего несколько дней или недель в году."
         }
       ],
       "synonyms": []
@@ -1569,24 +1417,16 @@
       "translation_en": "minimum order quantity",
       "examples": [
         {
-          "de": "Hier ist die Mindestbestellmenge.",
-          "ru": "Вот минимальный объем заказа."
+          "de": "Da die Mindestbestellmenge bei 100 Stück liegt, können wir keine kleineren Mengen bestellen.",
+          "ru": "Поскольку минимальный объем заказа составляет 100 штук, мы не можем заказывать меньшие партии."
         },
         {
-          "de": "Wir müssen die Mindestbestellmenge genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: минимальный объем заказа."
+          "de": "Der Lieferant hat die Mindestbestellmenge für diesen Artikel erhöht, um seine Logistikkosten zu senken.",
+          "ru": "Поставщик увеличил минимальный объем заказа на этот товар, чтобы снизить свои логистические расходы."
         },
         {
-          "de": "Sind Sie mit der Mindestbestellmenge einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: минимальный объем заказа?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Mindestbestellmenge.",
-          "ru": "Сегодня мы концентрируемся на теме: минимальный объем заказа."
-        },
-        {
-          "de": "Die Mindestbestellmenge spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Минимальный объем заказа играет решающую роль в успехе."
+          "de": "Bitte prüfen Sie im Einkaufsinfosatz, ob für dieses Material eine Mindestbestellmenge hinterlegt ist.",
+          "ru": "Пожалуйста, проверьте в инфо-записи закупки, указан ли для этого материала минимальный объем заказа."
         }
       ],
       "synonyms": []
@@ -1599,24 +1439,16 @@
       "translation_en": "material master record",
       "examples": [
         {
-          "de": "Hier ist das Materialstammblatt.",
-          "ru": "Вот основная запись материала."
+          "de": "Im Materialstammblatt sind alle logistischen und finanziellen Daten des Produkts zentral gespeichert.",
+          "ru": "В основной записи материала централизованно хранятся все логистические и финансовые данные продукта."
         },
         {
-          "de": "Wir müssen das Materialstammblatt genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: основная запись материала."
+          "de": "Vor der Anlage eines neuen Artikels müssen wir das zugehörige Materialstammblatt vollständig ausfüllen.",
+          "ru": "Перед созданием нового товара мы должны полностью заполнить соответствующую основную запись материала."
         },
         {
-          "de": "Sind Sie mit dem Materialstammblatt einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: основная запись материала?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Materialstammblatt.",
-          "ru": "Сегодня мы концентрируемся на теме: основная запись материала."
-        },
-        {
-          "de": "Das Materialstammblatt spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Основная запись материала играет решающую роль в успехе."
+          "de": "Änderungen im Materialstammblatt, wie zum Beispiel der Preis, bedürfen der Freigabe durch den Abteilungsleiter.",
+          "ru": "Изменения в основной записи материала, например цена, требуют утверждения руководителем отдела."
         }
       ],
       "synonyms": []
@@ -1629,24 +1461,20 @@
       "translation_en": "material number",
       "examples": [
         {
-          "de": "Hier ist die Materialnummer.",
-          "ru": "Вот номер материала."
+          "de": "Die Materialnummer ist eine Nummer, die ein Material eindeutig identifiziert und gegebenenfalls klassifiziert.",
+          "ru": "Номер материала — это номер, который однозначно идентифицирует и, при необходимости, классифицирует материал."
         },
         {
-          "de": "Wir müssen die Materialnummer genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: номер материала."
+          "de": "Man unterscheidet zwischen sprechenden und nichtsprechenden, numerischen, Alpha- und alphanumerischen sowie identifizierenden und klassifizierenden Materialnummern.",
+          "ru": "Делается различие между разговорными и неговорящими, числовыми, буквенно-цифровыми, а также идентификацией и классификацией материальных чисел."
         },
         {
-          "de": "Sind Sie mit der Materialnummer einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: номер материала?"
+          "de": "Eine sprechende Materialnummer erlaubt es, das Material bereits anhand der Materialnummer weitestgehend zu klassifizieren respektive zu erkennen.",
+          "ru": "Описательный номер материала позволяет классифицировать или распознавать материал на основе номера материала."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Materialnummer.",
-          "ru": "Сегодня мы концентрируемся на теме: номер материала."
-        },
-        {
-          "de": "Die Materialnummer spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Номер материала играет решающую роль в успехе."
+          "de": "Dementgegen ist eine nicht-sprechende Materialnummer eine (z.",
+          "ru": "С другой стороны, неговорящее материальное число равно единице (напр."
         }
       ],
       "synonyms": []
@@ -1659,24 +1487,20 @@
       "translation_en": "unit of measure",
       "examples": [
         {
-          "de": "Hier ist die Mengeneinheit.",
-          "ru": "Вот единица измерения."
+          "de": "Das kann im Einzelfall praktisch sein, doch müßte dann auch der Preis für eine normale Mengeneinheit mit vermerkt werden.",
+          "ru": "В отдельных случаях это может оказаться практичным, однако необходимо также учитывать цену за нормальную единицу количества."
         },
         {
-          "de": "Wir müssen die Mengeneinheit genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: единица измерения."
+          "de": "Dem ist es zu verdanken, wenn die Betriebskosten je verkaufter Mengeneinheit zwischen 1961 und 1965 um fast 12 Prozent gesenkt werden konnten.",
+          "ru": "Именно благодаря этому эксплуатационные расходы на проданную единицу продукции в период с 1961 по 1965 год сократились почти на 12 процентов."
         },
         {
-          "de": "Sind Sie mit der Mengeneinheit einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: единица измерения?"
+          "de": "Strömungsgrößen dagegen besitzen stets die Dimension »D‑Mark pro Zeiteinheit« oder »Mengeneinheit pro Zeiteinheit«.",
+          "ru": "С другой стороны, переменные потока всегда имеют размерность «Немецкая марка в единицу времени» или «Единица количества в единицу времени»."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Mengeneinheit.",
-          "ru": "Сегодня мы концентрируемся на теме: единица измерения."
-        },
-        {
-          "de": "Die Mengeneinheit spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Единица измерения играет решающую роль в успехе."
+          "de": "Zur Herstellung einer Mengeneinheit (ME) Brot benötigt A 1 Stunde, zur Herstellung einer Mengeneinheit Wein ½ Stunde.",
+          "ru": "Для производства одной единицы хлеба требуется 1 час, а для производства одной единицы вина — ½ часа."
         }
       ],
       "synonyms": []
@@ -1689,24 +1513,16 @@
       "translation_en": "base unit of measure",
       "examples": [
         {
-          "de": "Hier ist die Basismengeneinheit.",
-          "ru": "Вот базовая единица измерения."
+          "de": "Unabhängig von der Verpackungseinheit wird der Bestand im System immer in der Basismengeneinheit geführt.",
+          "ru": "Независимо от единицы упаковки, запас в системе всегда ведется в базовой единице измерения."
         },
         {
-          "de": "Wir müssen die Basismengeneinheit genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: базовая единица измерения."
+          "de": "Die Basismengeneinheit für dieses flüssige Material ist Liter und kann nachträglich nicht mehr geändert werden.",
+          "ru": "Базовой единицей измерения для этого жидкого материала является литр, и ее нельзя изменить впоследствии."
         },
         {
-          "de": "Sind Sie mit der Basismengeneinheit einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: базовая единица измерения?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Basismengeneinheit.",
-          "ru": "Сегодня мы концентрируемся на теме: базовая единица измерения."
-        },
-        {
-          "de": "Die Basismengeneinheit spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Базовая единица измерения играет решающую роль в успехе."
+          "de": "Bei der Umrechnung von der Alternativmengeneinheit in die Basismengeneinheit darf es keine Rundungsfehler geben.",
+          "ru": "При пересчете из альтернативной единицы измерения в базовую не должно быть ошибок огругления."
         }
       ],
       "synonyms": []
@@ -1719,24 +1535,16 @@
       "translation_en": "alternative unit of measure",
       "examples": [
         {
-          "de": "Hier ist die Alternativmengeneinheit.",
-          "ru": "Вот альтернативная единица измерения."
+          "de": "Für den Verkauf nutzen wir Karton als Alternativmengeneinheit, während der Bestand in Stück geführt wird.",
+          "ru": "Для продажи мы используем коробку в качестве альтернативной единицы измерения, в то время как запас ведется в штуках."
         },
         {
-          "de": "Wir müssen die Alternativmengeneinheit genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: альтернативная единица измерения."
+          "de": "Im Materialstamm müssen wir den Umrechnungsfaktor für jede Alternativmengeneinheit genau definieren.",
+          "ru": "В основной записи материала мы должны точно определить коэффициент пересчета для каждой альтернативной единицы измерения."
         },
         {
-          "de": "Sind Sie mit der Alternativmengeneinheit einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: альтернативная единица измерения?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Alternativmengeneinheit.",
-          "ru": "Сегодня мы концентрируемся на теме: альтернативная единица измерения."
-        },
-        {
-          "de": "Die Alternativmengeneinheit spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Альтернативная единица измерения играет решающую роль в успехе."
+          "de": "Der Wareneingang kann wahlweise in der Basismengeneinheit oder in einer Alternativmengeneinheit gebucht werden.",
+          "ru": "Поступление материала может быть проведено по выбору либо в базовой единице измерения, либо в альтернативной."
         }
       ],
       "synonyms": []
@@ -1749,24 +1557,24 @@
       "translation_en": "conversion",
       "examples": [
         {
-          "de": "Hier ist die Umrechnung.",
-          "ru": "Вот перерасчет / конвертация."
+          "de": "im Fall der Zahlungsunfähigkeit oder einer sonstigen Nichterfüllung seitens einer Partei, die Liquidation aller offenen Geschäfte zum Wiederbeschaffungswert oder Marktwert, die Umrechnung dieser Beträge in eine einzige Währung und ihre Aufrechnung zu einer einzigen Zahlung von einer Partei an die andere oder",
+          "ru": "в случае несостоятельности или иного неисполнения своих обязательств одной из сторон - прекращение всех незавершенных сделок с расчетом по восстановительной стоимости или цене свободного рынка, пересчет таких денежных сумм в единую валюту и выплата после взаимозачета единой суммой одной стороной другой стороне; или"
         },
         {
-          "de": "Wir müssen die Umrechnung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: перерасчет / конвертация."
+          "de": "Es dient auch der Umrechnung von Währungen und Maßeinheiten.",
+          "ru": "Ещё здесь есть конвертер валюты и единиц измерения."
         },
         {
-          "de": "Sind Sie mit der Umrechnung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: перерасчет / конвертация?"
+          "de": "Dies sollte ebenfalls dazu beitragen, indexierte Rechnungseinheiten populär zu machen, denn die Computertechnologie kann jetzt sämtliche Kalkulationen bewältigen, die an der Umrechnung in eine Währung beteiligt sind.",
+          "ru": "Использование индексированных расчётных единиц может стать популярным также и потому, что все вычисления по переводу данных единиц в валюту могут быть выполнены сегодня с помощью компьютерных технологий."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Umrechnung.",
-          "ru": "Сегодня мы концентрируемся на теме: перерасчет / конвертация."
+          "de": "Die Umrechnung von CO2 in eine unlogische und ineffiziente Maßeinheit der Waldfläche scheint hauptsächlich darauf ausgerichtet, eine Alarmbotschaft in die Welt zu setzen.",
+          "ru": "Основной целью перевода CO2 в нелогичное и неэффективное выражение через лесные площади было, по-видимому, создание тревожного послания."
         },
         {
-          "de": "Die Umrechnung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Перерасчет / конвертация играет решающую роль в успехе."
+          "de": "Es gilt bei den in Byzanz verwendeten Ären die Umrechnung: Jahr 1 n. Chr. = Jahr 754 ab urbe condita = 195.",
+          "ru": "Нулевой год в христианском календаре отсутствует: 1 ab urbe condita = 753 до н. э."
         }
       ],
       "synonyms": []
@@ -1779,24 +1587,24 @@
       "translation_en": "bill of materials (BOM)",
       "examples": [
         {
-          "de": "Hier ist die Stückliste.",
-          "ru": "Вот спецификация (BOM)."
+          "de": "Materialplanung nach Stücklisten",
+          "ru": "Планирование материалов согласно спискам деталей"
         },
         {
-          "de": "Wir müssen die Stückliste genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: спецификация (BOM)."
+          "de": "Auch in vielen anderen Bereichen haben Stücklisten eine wichtige Funktion.",
+          "ru": "Спецификации также выполняют важную функцию во многих других областях."
         },
         {
-          "de": "Sind Sie mit der Stückliste einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: спецификация (BOM)?"
+          "de": "Die Angebote der Zulieferer enthalten nur noch Pauschalversprechen, aber keine detaillierten Stücklisten.",
+          "ru": "Предложения поставщиков содержат лишь общие обещания, но не содержат подробных списков запчастей."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Stückliste.",
-          "ru": "Сегодня мы концентрируемся на теме: спецификация (BOM)."
+          "de": "Die notwendigen Bauteile für diese Schaltung finden Sie in der nebenstehenden Stückliste.",
+          "ru": "Вы можете найти необходимые компоненты для этой схемы в списке деталей ниже."
         },
         {
-          "de": "Die Stückliste spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Спецификация (BOM) играет решающую роль в успехе."
+          "de": "Dafür findet sich im Handbuch aber ein Schaltbild des Geräts und die zugehörige Stückliste.",
+          "ru": "Однако в руководстве содержится принципиальная схема устройства и соответствующий перечень деталей."
         }
       ],
       "synonyms": []
@@ -1809,24 +1617,24 @@
       "translation_en": "assembly / subassembly",
       "examples": [
         {
-          "de": "Hier ist die Baugruppe.",
-          "ru": "Вот узел / сборка."
+          "de": "Wir haben jedes Jahr eine Baugruppe.",
+          "ru": "Мы каждый год проводим собрания."
         },
         {
-          "de": "Wir müssen die Baugruppe genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: узел / сборка."
+          "de": "Baugruppen und auch die kompletten Fahrwerke wurden für die Produktion von Bussen eingesetzt.",
+          "ru": "Агрегаты и комплектные шасси использовались для производства автобусов."
         },
         {
-          "de": "Sind Sie mit der Baugruppe einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: узел / сборка?"
+          "de": "Temperaturmessungen in hochwertigen elektronischen Baugruppen für den Industrie- oder Laboreinsatz...",
+          "ru": "Измерение температуры в высококачественных электронных блоках для промышленного..."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Baugruppe.",
-          "ru": "Сегодня мы концентрируемся на теме: узел / сборка."
+          "de": "Aus der Übersicht der Baugruppen, Systeme und Software kann man den Umfang unserer Aktivitäten entnehmen.",
+          "ru": "В перечне модулей, систем и программного оснащения виден масштаб нашей деятельности."
         },
         {
-          "de": "Die Baugruppe spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Узел / сборка играет решающую роль в успехе."
+          "de": "Die Liste umfasst nicht alle Baugruppen oder Systeme, die wir in vergangenen Jahren produziert haben.",
+          "ru": "Перечень не включает в себя все модули или системы, которые мы изготовили за прошедшие годы."
         }
       ],
       "synonyms": []
@@ -1839,24 +1647,24 @@
       "translation_en": "semi-finished product",
       "examples": [
         {
-          "de": "Hier ist das Halbfabrikat.",
-          "ru": "Вот полуфабрикат."
+          "de": "Die Drukluftstrahlkammern sind zum Strahlen von Halbfabrikaten, Gussstuecken, Eisenbahnwaggonen, Kontainern, Behaeltern und anderen groesseren Abmessungen von Halberzeugnissen geeignet.",
+          "ru": "Обитаемые камеры с использованием сжатого воздуха используются для обработки заготовок, литья, железнодорожных вагонов, контейнеров, емкостей и других крупногабаритных деталей."
         },
         {
-          "de": "Wir müssen das Halbfabrikat genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: полуфабрикат."
+          "de": "All diese Nahrungsmittel sind durch Einweichen, Keimen und auf natürliche Weise verarbeitet und in Gerichte, Halbfabrikate, Vorspeisen, Nachtische verwandelt worden.",
+          "ru": "Все эти продукты питания обработаны путем выжима, произрастания и в натуральном виде, преврашенные в блюда, полуфабрикаты, закуски, десерты."
         },
         {
-          "de": "Sind Sie mit dem Halbfabrikat einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: полуфабрикат?"
+          "de": "Zum Zwecke der Schnittholzab-kürzung in Sägeräumen, sowie zum Zwecke der Abkürzung von getrockneten Zuschnitten, bzw. Halbfabrikaten, werden Untertischkappsägen verwendet.",
+          "ru": "Для нарезки пиломатериала, а также сухих досок или заготовок в лесопильных цехах, мы предлагаем поперечные пилы."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Halbfabrikat.",
-          "ru": "Сегодня мы концентрируемся на теме: полуфабрикат."
+          "de": "Auswirkungen auf die Weiterbildung wird die Tatsache haben, daß in mittel-und osteuropäischen Ländern mit aller Wahrscheinlichkeit umweltschädliche und arbeitsintensive Wirtschaftsbereiche, die Schwerindustrie sowie der Export von Rohstoffen oder Halbfabrikaten an Bedeutung verlieren werden.",
+          "ru": "В этом случае, последующее непрерывное обучение должно учитывать тот факт, что страны Центральной и Восточной Европе будут, несомненно, отходить от концентрации экономики на тяжелой, опасной для окружающей среды промышленности с интенсивными формами организации труда и от производства сырья или полуфакбрикатов."
         },
         {
-          "de": "Das Halbfabrikat spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Полуфабрикат играет решающую роль в успехе."
+          "de": "Verpackung (von Warm- und Kaltprodukten) für Betriebe der Schnellgastronomie , Verpackung für Halbfabrikate, Brotverpackung , Lebensmittelverpackungen, Verpackungen für Süßwaren, spezielle Verpackung, Verpackung für kosmetische und pharmazeutische Mittel.",
+          "ru": "Упаковка для предприятий быстрого питания (горячих и холодных продуктов), Упаковка для полуфабрикатов, Упаковка для хлеба, Упаковка для продуктов, Упаковка для кондитерских изделий, Упаковка специальная, Упаковка для косметических и фармацевтических средств."
         }
       ],
       "synonyms": []
@@ -1869,24 +1677,24 @@
       "translation_en": "finished product",
       "examples": [
         {
-          "de": "Hier ist das Fertigerzeugnis.",
-          "ru": "Вот готовое изделие."
+          "de": "China sollte also Fertigerzeugnisse in die USA exportieren.",
+          "ru": "Поэтому Китай должен экспортировать промышленные товары в США."
         },
         {
-          "de": "Wir müssen das Fertigerzeugnis genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: готовое изделие."
+          "de": "Außerdem beabsichtigt das Unternehmen, auf dem Komplexgelände* in Zusammenarbeit mit seinen ausländischen Partnern eine Produktion für Fertigerzeugnisse aus Aluminium zu errichten.",
+          "ru": "Кроме того, на территории комплекса компания намерена открыть совместное с зарубежными партнерами производство готовых деталей из алюминия."
         },
         {
-          "de": "Sind Sie mit dem Fertigerzeugnis einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: готовое изделие?"
+          "de": "Die Britische Ostindien-Kompanie führte bewusst einen Dreieckshandel ein, innerhalb dessen Großbritannien Fertigerzeugnisse nach Indien lieferte, um Opium zu erwerben, das man anschließend in China verkaufte, um so den Kauf von Tee und anderen Produkten zu finanzieren.",
+          "ru": "Британская Ост-Индская компания умышленно ввела в ход трёхстороннее торговое соглашение, при котором Британия продавала промышленные товары Индии, чтобы купить опиум, который она впоследствии продавала в Китае, чтобы финансировать покупку чая и других продуктов."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Fertigerzeugnis.",
-          "ru": "Сегодня мы концентрируемся на теме: готовое изделие."
+          "de": "Jahrzehntelang schien Amerika in der Produktion führend und so konzentrierte man sich auf die Liberalisierung des Handels mit Fertigerzeugnissen.",
+          "ru": "На протяжении многих десятилетий США, казалось, господствовали на рынке промышленной продукции, и американское правительство сосредоточилось на либерализации торговли промышленными товарами."
         },
         {
-          "de": "Das Fertigerzeugnis spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Готовое изделие играет решающую роль в успехе."
+          "de": "Obwohl Rohstoffpreise immer größeren Schwankungen unterliegen als die Preise von Fertigerzeugnissen und Dienstleistungen, waren die Rohstoffmärkte in den letzten fünf Jahren mit einer außergewöhnlichen, beinahe beispiellosen Volatilität konfrontiert.",
+          "ru": "Хотя цены на сырьевые товары всегда более изменчивы, чем цены на готовые товары и услуги, на рынке сырьевых товаров в течение последних пяти лет наблюдается исключительная, практически беспрецедентная изменчивость."
         }
       ],
       "synonyms": []
@@ -1899,24 +1707,24 @@
       "translation_en": "raw material",
       "examples": [
         {
-          "de": "Hier ist der Rohstoff.",
-          "ru": "Вот сырье / исходный материал."
+          "de": "Es ist der Rohstoff, das Baumaterial der Evolution unserer landwirtschaftlichen Nutzpflanzen.",
+          "ru": "Это сырье, материалы, эволюция наших сельскохозяйственных культур."
         },
         {
-          "de": "Wir müssen den Rohstoff genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: сырье / исходный материал."
+          "de": "solange bis... es etwas zu Essen kriegt, denn das ist der Rohstoff.",
+          "ru": "Пока... берёт еду, то есть сырьё."
         },
         {
-          "de": "Sind Sie mit dem Rohstoff einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: сырье / исходный материал?"
+          "de": "Ja. Aber noch wichtiger: Sie fühlten sich wohl damit, das, was sie die Toilette runterspülten, als Rohstoff zu betrachten.",
+          "ru": "Потому что они экономят деньги? Да. Но что более важно, они чувствуют себя комфортно, когда смотрят на то, что уходит в унитаз, как на ресурс."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Rohstoff.",
-          "ru": "Сегодня мы концентрируемся на теме: сырье / исходный материал."
+          "de": "Selbst vor dem Trawlervorfall versuchte China, den Handel mit seltenen Erden zu regulieren, und erklärte sie zum strategischen Rohstoff.",
+          "ru": "Даже до инцидента с траулером Китай пытался регулировать экспорт редкоземельных элементов, характеризуя их как стратегический ресурс."
         },
         {
-          "de": "Der Rohstoff spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Сырье / исходный материал играет решающую роль в успехе."
+          "de": "Knuspriger und leckerer Rostzwiebel, hergestellt aus dem Rohstoff von bester Qualität.",
+          "ru": "Хрупкий и вкусный жареный лук, мы делаем из сырья лучшего качества."
         }
       ],
       "synonyms": []
@@ -1929,24 +1737,24 @@
       "translation_en": "trading goods",
       "examples": [
         {
-          "de": "Hier ist das Handelsgut.",
-          "ru": "Вот товар для перепродажи."
+          "de": "Zeit ist von allen das kostbarste Handelsgut im Universum.",
+          "ru": "Время, как выяснилось, самая большая ценность во вселенной."
         },
         {
-          "de": "Wir müssen das Handelsgut genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: товар для перепродажи."
+          "de": "Mit anderen Worten,... es ist ein Handelsgut, keine Währung? Ja.",
+          "ru": "Другими словами, это биржевой товар, а не валюта?"
         },
         {
-          "de": "Sind Sie mit dem Handelsgut einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: товар для перепродажи?"
+          "de": "Als Handelsgut, ja.",
+          "ru": "Только в качестве товара."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Handelsgut.",
-          "ru": "Сегодня мы концентрируемся на теме: товар для перепродажи."
+          "de": "Die Software ist ein \"Handelsgut\" im Sinne von 48 C.F.R. 2.101 (OCT 1995) und besteht aus \"kommerzieller Computersoftware\" und \"kommerzieller Softwaredokumentation\" gemäß 48 C.F.R.",
+          "ru": "Корпорация Microsoft (или в зависимости от места Вашего проживания, одна из ее дочерних компаний) выдает Вам лицензию на использование данного приложения."
         },
         {
-          "de": "Das Handelsgut spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Товар для перепродажи играет решающую роль в успехе."
+          "de": "Vasenmaler waren ebenso wie Töpfer Handwerker, ihre Produkte Handelsgut.",
+          "ru": "Вазописцы как и гончары были ремесленниками, а результаты их труда - товаром."
         }
       ],
       "synonyms": []
@@ -1959,24 +1767,24 @@
       "translation_en": "packaging",
       "examples": [
         {
-          "de": "Hier ist die Verpackung.",
-          "ru": "Вот упаковка."
+          "de": "Nein, es ist nur die neue Verpackung, schätze ich.",
+          "ru": "Нет, похоже, просто новая упаковка."
         },
         {
-          "de": "Wir müssen die Verpackung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: упаковка."
+          "de": "Die Leute mögen die Verpackung nicht so.",
+          "ru": "Народ считает, что упаковка может быть получше."
         },
         {
-          "de": "Sind Sie mit der Verpackung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: упаковка?"
+          "de": "Wo ist die Verpackung von dem anderen?",
+          "ru": "Где обертка от того, который он съел?"
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Verpackung.",
-          "ru": "Сегодня мы концентрируемся на теме: упаковка."
+          "de": "Sieht nach der gleichen Verpackung wie bei der von Santos aus.",
+          "ru": "Обертка такая же как и в посылке от Сантоса."
         },
         {
-          "de": "Die Verpackung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Упаковка играет решающую роль в успехе."
+          "de": "Du bist genauso wie ich, nur in einer viel hübscheren Verpackung.",
+          "ru": "Ты такой же, как и я, просто в намного красивей упаковке."
         }
       ],
       "synonyms": []
@@ -1989,24 +1797,24 @@
       "translation_en": "packaging material",
       "examples": [
         {
-          "de": "Hier ist das Packmittel.",
-          "ru": "Вот упаковочный материал."
+          "de": "Außerdem waren die Preise für Rohstoffe und Packmittel leicht rückläufig.",
+          "ru": "Кроме того, незначительно снизились цены на сырье и упаковочные материалы."
         },
         {
-          "de": "Wir müssen das Packmittel genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: упаковочный материал."
+          "de": "Im Bereich der Packmittel ist die Branche weit weniger optimistisch.",
+          "ru": "Отрасль гораздо менее оптимистична, когда дело касается упаковки."
         },
         {
-          "de": "Sind Sie mit dem Packmittel einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: упаковочный материал?"
+          "de": "Insgesamt wuchs der deutsche Markt für Packmittel im vorigen Jahr um fünf bis sechs Prozent auf 23 Milliarden Euro.",
+          "ru": "В целом немецкий рынок упаковки в прошлом году вырос на пять-шесть процентов и составил 23 миллиарда евро."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Packmittel.",
-          "ru": "Сегодня мы концентрируемся на теме: упаковочный материал."
+          "de": "Die \"Interpack\", Internationale Messe für Verpackungsmaschinen, Packmittel und Süßwarenmaschinen in Düsseldorf, gilt unter Kennern seit mehr als vier Jahrzehnten weltweit als das Mekka der Verpackungsindustrie.",
+          "ru": "Международная выставка упаковочного оборудования, упаковочных материалов и кондитерского оборудования Interpack в Дюссельдорфе уже более четырех десятилетий считается Меккой упаковочной индустрии знатоков всего мира."
         },
         {
-          "de": "Das Packmittel spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Упаковочный материал играет решающую роль в успехе."
+          "de": "Insgesamt werden 71 Prozent des Papiers zu Packmitteln verarbeitet, 5,1 Prozent entfallen auf Schreib- und Bürobedarf.",
+          "ru": "Всего 71 процент бумаги перерабатывается в упаковочные материалы, 5,1 процента используется для изготовления письменных и офисных товаров."
         }
       ],
       "synonyms": []
@@ -2019,24 +1827,16 @@
       "translation_en": "batch class",
       "examples": [
         {
-          "de": "Hier ist die Chargenklasse.",
-          "ru": "Вот класс партий."
+          "de": "Über die Chargenklasse werden die spezifischen Merkmale der Charge im SAP-System definiert.",
+          "ru": "Через класс партий определяются специфические признаки партии в системе SAP."
         },
         {
-          "de": "Wir müssen die Chargenklasse genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: класс партий."
+          "de": "Wir haben eine neue Chargenklasse angelegt, um das Haltbarkeitsdatum und den Wirkstoffgehalt zu erfassen.",
+          "ru": "Мы создали новый класс партий для фиксации срока годности и содержания действующего вещества."
         },
         {
-          "de": "Sind Sie mit der Chargenklasse einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: класс партий?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Chargenklasse.",
-          "ru": "Сегодня мы концентрируемся на теме: класс партий."
-        },
-        {
-          "de": "Die Chargenklasse spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Класс партий играет решающую роль в успехе."
+          "de": "Jedes Material mit Chargenpflicht muss einer bestimmten Chargenklasse zugeordnet werden.",
+          "ru": "Каждый материал, подлежащий ведению партиями, должен быть присвоен определенному классу партий."
         }
       ],
       "synonyms": []
@@ -2049,24 +1849,24 @@
       "translation_en": "split valuation",
       "examples": [
         {
-          "de": "Hier ist die Bewertung für geteilte Bestände.",
-          "ru": "Вот раздельная оценка запасов."
+          "de": "Aber in Wirklichkeit ist es eine Bewertung für uns alle.",
+          "ru": "Технически, да, но на деле это оценивание каждого из нас."
         },
         {
-          "de": "Wir müssen die Bewertung für geteilte Bestände genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: раздельная оценка запасов."
+          "de": "Dieses Feld definiert die Bewertungen für die Schulbezirke für jedes aufgelistete Haus.",
+          "ru": "Это поле определяет рейтинги школьных округов для каждого жилого объекта в списке."
         },
         {
-          "de": "Sind Sie mit der Bewertung für geteilte Bestände einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: раздельная оценка запасов?"
+          "de": "Für geteilte Loyalitäten ist hier kein Platz.",
+          "ru": "На станции нет места для сомнительной верности."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Bewertung für geteilte Bestände.",
-          "ru": "Сегодня мы концентрируемся на теме: раздельная оценка запасов."
+          "de": "Der Termin zur Bewertung für Ihr Amt auf Lebenszeit ist Donnerstag.",
+          "ru": "В четверг мы вынесем решение по приему вас в штат."
         },
         {
-          "de": "Die Bewertung für geteilte Bestände spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Раздельная оценка запасов играет решающую роль в успехе."
+          "de": "Strittige Bewertung: Die Bewertungen für diese Website widersprechen einander.",
+          "ru": "Противоречивый рейтинг: оценки этого сайта противоречат друг другу."
         }
       ],
       "synonyms": []
@@ -2079,24 +1879,24 @@
       "translation_en": "valuation type",
       "examples": [
         {
-          "de": "Hier ist die Bewertungsart.",
-          "ru": "Вот вид оценки (при раздельной оценке)."
+          "de": "Und vergiss nicht, die Bewertungskarte mitzunehmen!",
+          "ru": "И не забудь вручить им карточку отзывов."
         },
         {
-          "de": "Wir müssen die Bewertungsart genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: вид оценки (при раздельной оценке)."
+          "de": "Im Laufe der Zeit entstand eine Vielzahl neuer Ämter: eine Innenrevision, ein unabhängiges Bewertungsamt, ein Prüfungsrat, ein Ethikbeauftragter und ein Büro für institutionelle Integrität.",
+          "ru": "Со временем, появились новые департаменты: Управление Внутреннего Аудита, Независимый Департамент Оценки, Инспекционная Комиссия, Главный Администратор по Корпоративной Этике и Департамент Институциональной Целостности."
         },
         {
-          "de": "Sind Sie mit der Bewertungsart einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: вид оценки (при раздельной оценке)?"
+          "de": "Rahmen/Bau Bewertungsnote: Rahmenbeschdigte Fahrzeuge werden nicht eine Bewertigungsnote von 2 berschreiten.",
+          "ru": "Замечания по состоянию рамы: Оценка автомобилей с поврежденной рамой не может быть выше значения 2."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Bewertungsart.",
-          "ru": "Сегодня мы концентрируемся на теме: вид оценки (при раздельной оценке)."
+          "de": "Wählen Sie hier den Bewertungswert der benutzt wird, um den Inhalt des Albums zu filtern. Benutzen Sie bitte das KontextmenÃ1/4, um die Filterbewertung zu setzen.",
+          "ru": "Выбрать значение оценки, по которой будет фильтроваться содержимое альбомов. Используйте контекстное меню чтобы установить настройки фильтра."
         },
         {
-          "de": "Die Bewertungsart spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Вид оценки (при раздельной оценке) играет решающую роль в успехе."
+          "de": "Angabepflicht sind duch diese Richtlinien erforderlich , wenn es sich um Fahrzeuge mit Bewertungsnote 2 und niedriger handelt, die bestehenden Rahmen oder strukturellen Schaden aufweisen, repariert oder verndert wurden.",
+          "ru": "Требования данной политики распространяется на автомобили с оценкой 2 и ниже, если они имеют повреждения конструкции, либо рама автомобиля была повреждена, восстановлена или переделана."
         }
       ],
       "synonyms": []
@@ -2109,24 +1909,24 @@
       "translation_en": "origin",
       "examples": [
         {
-          "de": "Hier ist die Herkunft.",
-          "ru": "Вот происхождение (страна/источник)."
+          "de": "Aber Dominikaner wie ich hatten für unsere Herkunft immer einen Preis zu bezahlen.",
+          "ru": "Но такие доминиканцы, как я, всегда расплачивались за свое происхождение."
         },
         {
-          "de": "Wir müssen die Herkunft genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: происхождение (страна/источник)."
+          "de": "Wir gingen den Pakt ein, deine Herkunft zu verschweigen.",
+          "ru": "Мы договорились скрывать от тебя твоё происхождение."
         },
         {
-          "de": "Sind Sie mit der Herkunft einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: происхождение (страна/источник)?"
+          "de": "Er muss aufgezeichnet haben, damit er die Herkunft der Dokumente belegen kann.",
+          "ru": "Должно быть, он записывал это, чтобы он мог доказать источник файлов."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Herkunft.",
-          "ru": "Сегодня мы концентрируемся на теме: происхождение (страна/источник)."
+          "de": "Das ist zweifelsohne die Herkunft des Signals.",
+          "ru": "Ну вот, это определённо источник сигнала."
         },
         {
-          "de": "Die Herkunft spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Происхождение (страна/источник) играет решающую роль в успехе."
+          "de": "Ihre Untertanen wollen einen Erben von ihrer königlichen Herkunft.",
+          "ru": "Её поданные ждут приемника их королевской родословной."
         }
       ],
       "synonyms": []
@@ -2139,24 +1939,24 @@
       "translation_en": "customs procedure",
       "examples": [
         {
-          "de": "Hier ist das Zollverfahren.",
-          "ru": "Вот таможенная процедура."
+          "de": "Die Regierung übermittelte dem Kongreß einen Gesetzentwurf zur Vereinfachung des Zollverfahrens bei der Einfuhr.",
+          "ru": "Правительство внесло в Конгресс законопроект об упрощении таможенной процедуры импорта."
         },
         {
-          "de": "Wir müssen das Zollverfahren genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: таможенная процедура."
+          "de": "Sie verlieren bisher viel Zeit und Geld dadurch, dass ihre Waren an so mancher Grenze komplizierte Zollverfahren durchlaufen müssen.",
+          "ru": "Они теряют много времени и денег, поскольку их товары проходят сложные таможенные процедуры на некоторых границах."
         },
         {
-          "de": "Sind Sie mit dem Zollverfahren einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: таможенная процедура?"
+          "de": "Die Zollverfahren können gegenüber dem internationalen Handel noch höhere Schranken bedeuten als die Zölle selbst.",
+          "ru": "Таможенные процедуры могут создавать еще большие барьеры для международной торговли, чем сами тарифы."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Zollverfahren.",
-          "ru": "Сегодня мы концентрируемся на теме: таможенная процедура."
+          "de": "Allein in China schlügen Handelsbarrieren wie aufwändige Zollverfahren mit 20 Milliarden Euro jährlich zu Buche.",
+          "ru": "Только в Китае торговые барьеры и сложные таможенные процедуры обходятся ежегодно в 20 миллиардов евро."
         },
         {
-          "de": "Das Zollverfahren spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Таможенная процедура играет решающую роль в успехе."
+          "de": "Das Carnet TIR (Transport International de Marchandises par la Route) vereinfacht das Zollverfahren für den Straßengüterverkehr.",
+          "ru": "Книжка МДП (Transport International de Marchandises par la Route) упрощает таможенную процедуру для грузовых автомобильных перевозок."
         }
       ],
       "synonyms": []
@@ -2169,24 +1969,20 @@
       "translation_en": "customs declaration",
       "examples": [
         {
-          "de": "Hier ist die Zollanmeldung.",
-          "ru": "Вот таможенная декларация."
+          "de": "Einfuhrgenehmigungen und Zollanmeldungen sind hierfür nicht erforderlich, jedoch werden Zoll und Umsatzausgleichssteuer erhoben.",
+          "ru": "Разрешения на импорт и таможенные декларации для этого не требуются, но взимаются таможенные пошлины и компенсационный налог с продаж."
         },
         {
-          "de": "Wir müssen die Zollanmeldung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: таможенная декларация."
+          "de": "Schweden gilt beim japanischen Elektronikriesen Panasonic als vorbildlich, weil dort elektronische Zollanmeldungen akzeptiert sind.",
+          "ru": "Японский гигант электроники Panasonic считает Швецию образцовой, поскольку там принимаются электронные таможенные декларации."
         },
         {
-          "de": "Sind Sie mit der Zollanmeldung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: таможенная декларация?"
+          "de": "Ledeboer und seine Kollegen übernehmen für die Importeure die Zollanmeldung.",
+          "ru": "Ледебоер и его коллеги занимаются оформлением таможенной декларации для импортеров."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Zollanmeldung.",
-          "ru": "Сегодня мы концентрируемся на теме: таможенная декларация."
-        },
-        {
-          "de": "Die Zollanmeldung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Таможенная декларация играет решающую роль в успехе."
+          "de": "Seit Ende 2004 kann auch das »New Computerised Transit System« (NCTS), die europäische Zollanmeldung, über »ATLAS« durchgeführt werden.",
+          "ru": "С конца 2004 года «Новая компьютеризированная транзитная система» (NCTS), европейская таможенная декларация, также может осуществляться через «ATLAS»."
         }
       ],
       "synonyms": []
@@ -2199,24 +1995,24 @@
       "translation_en": "warehouse management",
       "examples": [
         {
-          "de": "Hier ist die Lagerverwaltung.",
-          "ru": "Вот управление складом (WM/EWM)."
+          "de": "Ich heiße euch im Namen der Lagerverwaltung willkommen.",
+          "ru": "От имени администрации лагеря я приветствую вас."
         },
         {
-          "de": "Wir müssen die Lagerverwaltung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: управление складом (WM/EWM)."
+          "de": "Ein Kriegsgefangenenlager hatte einen Hauptstandort mit dem Sitz der Lagerverwaltung und administrativ angeschlossene Nebenlager (bis zu 25 Nebenlager pro Hauptstandort).",
+          "ru": "У лагеря для военнопленных было основное местонахождение с управлением лагеря и административно подчинённые лагеря (до 25 лагерей на основное местонахождение)."
         },
         {
-          "de": "Sind Sie mit der Lagerverwaltung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: управление складом (WM/EWM)?"
+          "de": "Jede Platte hat ihre eigene Farbtönung, Maserung und Größe: Die Lagerverwaltung bei Marmo Arredo erfolgt über digitalisierte Bilder der einzelnen Stücke: so erhält die Planung Zugang zu allen wesentlichen Daten, die den besonderen Charakter jeder Platte ausmachen.",
+          "ru": "Каждая плита имеет свои собственные размеры, свой оттенок цвета и рисунок прожилок. Изображения каждого куска камня оцифровываются и поступают в архив склада: таким образом, проектировщики Компании «Магмо Arredo» имеют в своем распоряжении все данные, относящиеся к основным и второстпенным характеристикам каждой плиты."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Lagerverwaltung.",
-          "ru": "Сегодня мы концентрируемся на теме: управление складом (WM/EWM)."
+          "de": "Die Tabellen enthalten eine Sammlung der Städte und Ortschaften, in denen es Standorte von Lagerverwaltungen gab.",
+          "ru": "Таблицы содержат названия городов и местностей, в которых находились лагерные управления."
         },
         {
-          "de": "Die Lagerverwaltung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Управление складом (WM/EWM) играет решающую роль в успехе."
+          "de": "Die Standorte der Lagerverwaltungen mit Lagernummern sind in tabellarischer Form geordnet und mit Links zu heutigen Städten versehen.",
+          "ru": "Местонахождения лагерных управлений с соответствующими номерами упорядочены в виде таблицы и снабжены ссылками на современные населённые пункты."
         }
       ],
       "synonyms": []
@@ -2229,24 +2025,24 @@
       "translation_en": "warehouse / store",
       "examples": [
         {
-          "de": "Hier ist das Lager.",
-          "ru": "Вот склад."
+          "de": "Sie werden uns nicht erlauben einfach in ihr Lager zu spazieren.",
+          "ru": "Они нам не позволят, просто прийти в их лагерь."
         },
         {
-          "de": "Wir müssen das Lager genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: склад."
+          "de": "Ich ging in sein Lager und... zerstörte ihn von innen heraus.",
+          "ru": "Я пошел к себе в лагерь, а... и уничтожил его изнутри."
         },
         {
-          "de": "Sind Sie mit dem Lager einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: склад?"
+          "de": "Stopf sie dir in die Hosen und ab damit ins Lager.",
+          "ru": "Начинай засовывать это себе в штаны и возвращайся на склад."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Lager.",
-          "ru": "Сегодня мы концентрируемся на теме: склад."
+          "de": "Dieser Kick-Ass hat mein Lager abgebrannt und meine Männer getötet, Gigante.",
+          "ru": "Этот сучий потрох Кикэсс сжёг мой склад и убил моих людей, Гиганти."
         },
         {
-          "de": "Das Lager spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Склад играет решающую роль в успехе."
+          "de": "Wenn ihr es nicht tut, wird sie alle in diesem Lager töten.",
+          "ru": "Если вы не сделаете этого, она убьет каждого в этом лагере."
         }
       ],
       "synonyms": []
@@ -2259,24 +2055,24 @@
       "translation_en": "warehouse number",
       "examples": [
         {
-          "de": "Hier ist die Lagernummer.",
-          "ru": "Вот номер склада."
+          "de": "Die Standorte der Lagerverwaltungen mit Lagernummern sind in tabellarischer Form geordnet und mit Links zu heutigen Städten versehen.",
+          "ru": "Местонахождения лагерных управлений с соответствующими номерами упорядочены в виде таблицы и снабжены ссылками на современные населённые пункты."
         },
         {
-          "de": "Wir müssen die Lagernummer genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: номер склада."
+          "de": "Die neuen 9 Wagen tragen die Wagennummern 266 bis 274.",
+          "ru": "Новые вагоны получили номера от 241 до 266."
         },
         {
-          "de": "Sind Sie mit der Lagernummer einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: номер склада?"
+          "de": "Die genauen Wagennummern sind unbekannt, die ersten LM-49 und LP-49-Straßenbahnfahrzeuge erhielten aber die Nr. 650 bzw. Nr. 453.",
+          "ru": "Точно инвентарные номера не известны, первые ЛМ-49 и ЛП-49 получили номера 650 и 453 соответственно, а поставленные в дальнейшем вагоны нумеровались по восходящей от этих чисел последовательности."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Lagernummer.",
-          "ru": "Сегодня мы концентрируемся на теме: номер склада."
+          "de": "Fastnachtsumzug mit 111 Wagennummern.",
+          "ru": "Сидений 117, в вагонах с туалетами 113."
         },
         {
-          "de": "Die Lagernummer spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Номер склада играет решающую роль в успехе."
+          "de": "Bei der Neunummerierung im Jahr 1970 erhielten alle damals vorhandenen LM-49 Wagennummern von 3701 bis 3761 und die LP-49 von 3801 bis 3846.",
+          "ru": "После проведённой в 1970 году перенумерации подвижного состава все существовавшие на тот момент ЛМ-49 получили номера от 3701 до 3761, а ЛП-49 - от 3801 до 3846."
         }
       ],
       "synonyms": []
@@ -2289,24 +2085,16 @@
       "translation_en": "storage type",
       "examples": [
         {
-          "de": "Hier ist der Lagertyp.",
-          "ru": "Вот тип склада."
+          "de": "In unserem Hochregallager ist jeder Stellplatz einem bestimmten Lagertyp zugeordnet.",
+          "ru": "На нашем высотном складе каждое место хранения присвоено определенному типу склада."
         },
         {
-          "de": "Wir müssen den Lagertyp genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: тип склада."
+          "de": "Der Lagertyp steuert die Einlagerungs- und Auslagerungsstrategien im Warehouse-Management-System.",
+          "ru": "Тип склада управляет стратегиями размещения и отпуска со склада в системе управления складом (WM)."
         },
         {
-          "de": "Sind Sie mit dem Lagertyp einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: тип склада?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Lagertyp.",
-          "ru": "Сегодня мы концентрируемся на теме: тип склада."
-        },
-        {
-          "de": "Der Lagertyp spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Тип склада играет решающую роль в успехе."
+          "de": "Für Gefahrstoffe haben wir einen separaten Lagertyp mit speziellen Sicherheitsvorkehrungen eingerichtet.",
+          "ru": "Для опасных веществ мы организовали отдельный тип склада со специальными мерами безопасности."
         }
       ],
       "synonyms": []
@@ -2319,24 +2107,24 @@
       "translation_en": "storage section",
       "examples": [
         {
-          "de": "Hier ist der Lagerbereich.",
-          "ru": "Вот складская секция."
+          "de": "Sie haben Sie sich aus dem Lagerbereich im Erdgeschoss genommen, weil Sie es konnten.",
+          "ru": "Вы украли ее со склада на первом этаже, потому что могли."
         },
         {
-          "de": "Wir müssen den Lagerbereich genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: складская секция."
+          "de": "Dort führt eine Tür zum Lagerbereich.",
+          "ru": "Дверь ведет на склад."
         },
         {
-          "de": "Sind Sie mit dem Lagerbereich einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: складская секция?"
+          "de": "Es gibt einen Lagerbereich im Keller?",
+          "ru": "В подвале есть кладовка?"
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Lagerbereich.",
-          "ru": "Сегодня мы концентрируемся на теме: складская секция."
+          "de": "\"Lieber Charlie, tu mir einen Gefallen und stell das in den Lagerbereich von H.G. Wells.\"",
+          "ru": "Дорогой Чарли, окажи мне услугу и положи это в секцию хранения Герберта Уэллса."
         },
         {
-          "de": "Der Lagerbereich spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Складская секция играет решающую роль в успехе."
+          "de": "Da dieses Gerät in einem Lagerbereich meiner Realität sein sollte,... drehen Sie anders herum.",
+          "ru": "Поскольку в моей реальности оно должно храниться в кладовке... нужно сделать другой выбор."
         }
       ],
       "synonyms": []
@@ -2349,24 +2137,24 @@
       "translation_en": "storage bin",
       "examples": [
         {
-          "de": "Hier ist der Lagerplatz.",
-          "ru": "Вот складское место / ячейка."
+          "de": "Bald ist es dunkel, wir sollten einen Lagerplatz suchen.",
+          "ru": "Скоро стемнеет, и нам нужно найти место для ночлега."
         },
         {
-          "de": "Wir müssen den Lagerplatz genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: складское место / ячейка."
+          "de": "Es gibt zwei Meilen nördlich einen städtischen Auto Lagerplatz.",
+          "ru": "Через две мили на север будет городской автопарк."
         },
         {
-          "de": "Sind Sie mit dem Lagerplatz einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: складское место / ячейка?"
+          "de": "Verstanden, er steht auf dem Lagerplatz.",
+          "ru": "Принято, вижу его на площадке."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Lagerplatz.",
-          "ru": "Сегодня мы концентрируемся на теме: складское место / ячейка."
+          "de": "Ich habe Safari-Arbeit angenommen, und muss einen Lagerplatz finden.",
+          "ru": "Я устраиваю сафари, мне нужно выбрать лагерь."
         },
         {
-          "de": "Der Lagerplatz spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Складское место / ячейка играет решающую роль в успехе."
+          "de": "Wie vorzüglich ist der Lohn und wie schön der Lagerplatz!",
+          "ru": "Прекрасна награда, и хорошо убежище!"
         }
       ],
       "synonyms": []
@@ -2379,24 +2167,16 @@
       "translation_en": "transport management",
       "examples": [
         {
-          "de": "Hier ist das Transport-Management.",
-          "ru": "Вот управление транспортировками (TM)."
+          "de": "Ein effizientes Transport-Management hilft uns, die Lieferzeiten zu verkürzen und Frachtkosten zu sparen.",
+          "ru": "Эффективное управление транспортировками помогает нам сократить сроки поставки и сэкономить на транспортных расходах."
         },
         {
-          "de": "Wir müssen das Transport-Management genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: управление транспортировками (TM)."
+          "de": "Die Einführung der neuen Software für das Transport-Management hat unsere Logistikprozesse optimiert.",
+          "ru": "Внедрение нового программного обеспечения для управления транспортировками оптимизировало наши логистические процессы."
         },
         {
-          "de": "Sind Sie mit dem Transport-Management einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: управление транспортировками (TM)?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Transport-Management.",
-          "ru": "Сегодня мы концентрируемся на теме: управление транспортировками (TM)."
-        },
-        {
-          "de": "Das Transport-Management spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Управление транспортировками (TM) играет решающую роль в успехе."
+          "de": "In dieser Abteilung sind Sie für das weltweite Transport-Management unserer Exportgüter zuständig.",
+          "ru": "В этом отделе вы отвечаете за международное управление транспортировками наших экспортных товаров."
         }
       ],
       "synonyms": []
@@ -2409,24 +2189,20 @@
       "translation_en": "transfer requirement",
       "examples": [
         {
-          "de": "Hier ist der Transportbedarf.",
-          "ru": "Вот потребность в переносе (TR)."
+          "de": "Die normannischen Könige hatten einen beständigen Transportbedarf zwischen der britischen Insel und ihrem Stammland auf dem Kontinent und begannen ab 1155 mit dem Aufbau einer königlichen Flotte.",
+          "ru": "Чтобы обеспечивать регулярное морское сообщение между Британскими островами и континентальной Европой, норманнские правители собрали флот в 1155 году, обязав Пять портов построить им 57 кораблей с экипажем 21 человек каждый."
         },
         {
-          "de": "Wir müssen den Transportbedarf genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: потребность в переносе (TR)."
+          "de": "In der heutigen Welt mit einem durch zunehmende Globalisierung von Produktion und Verbrauch ständig wachsenden Transportbedarf, beeinflussen Transport und Logistik erheblich die Produktionsqualität und die Befriedigung von Kunden und Verbrauchern.",
+          "ru": "В условиях все усиливающейся глобализации производства и потребления все более строгие требования предъявляются к организации и качеству услуг по перевозке грузов. В то же время, транспортировка и логистика способны в значительной мере повлиять на качество производства и, в конечном итоге, на мнение клиентов и потребителей."
         },
         {
-          "de": "Sind Sie mit dem Transportbedarf einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: потребность в переносе (TR)?"
+          "de": "Von Flughafentransfers über exklusives Sightseeing durch Österreich und die benachbarten Länder bis zur Abwicklung von großen Events mit einem umfangreichen Transportbedarf, ABC & VIP Sightseeing ist Ihr zuverlässiger Partner für alle Mietwagendienste in und um Österreich.",
+          "ru": "Наши услуги включают в себя не только встречу и проводы в аэропорту, но и эксклюзивные программы по осмотру достопримечательностей в Австрии и соседних странах, обслуживание разного рода торжественных мероприятий с предоставлением транспортных средств."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Transportbedarf.",
-          "ru": "Сегодня мы концентрируемся на теме: потребность в переносе (TR)."
-        },
-        {
-          "de": "Der Transportbedarf spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Потребность в переносе (TR) играет решающую роль в успехе."
+          "de": "Seit kurzem werden Anstrengungen unternommen, die zunehmende Verkehrsnachfrage einzudämmen, eine verstärkte Nutzung öffentlicher Verkehrsmittel zu fördern und neue Siedlungs- und Produktionsmodelle zu unterstützen, die zu einer Verringerung des Transportbedarfs fuhren.",
+          "ru": "Делались попытки сдерживания потребностей в транспорте, стимулирования большего использования общественного транспорта, а также поощрения новых моделей жилых и производственных зон, которые могли бы снизить потребность в транспорте."
         }
       ],
       "synonyms": []
@@ -2439,24 +2215,20 @@
       "translation_en": "transfer order",
       "examples": [
         {
-          "de": "Hier ist der Transportauftrag.",
-          "ru": "Вот заказ на перенос (TO)."
+          "de": "Bei jedem Transportauftrag achten wir auf hochwertige Bearbeitung und Befriedigung des Kunden.",
+          "ru": "В течение нашей деятельности мы всегда следим за качественным оформлением и удовлетворением запросов клиента, контролируя груз на каждом этапе его движения."
         },
         {
-          "de": "Wir müssen den Transportauftrag genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: заказ на перенос (TO)."
+          "de": "Wäre das ein geschäftlicher Transportauftrag, weißt du... angemessen bezahlt, wär's viel einfacher...",
+          "ru": "Если бы это был коммерческий рейс, надлежащим образом оплаченный, все было бы куда проще, но..."
         },
         {
-          "de": "Sind Sie mit dem Transportauftrag einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: заказ на перенос (TO)?"
+          "de": "Um genaue Bedingungen eines konkreten Transportauftrags zu bestimmen, bitten wir Sie darum, an uns eine Anfrage zu senden.",
+          "ru": "Для определения условий конкретного транспортного поручения просим передать запрос на предложение."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Transportauftrag.",
-          "ru": "Сегодня мы концентрируемся на теме: заказ на перенос (TO)."
-        },
-        {
-          "de": "Der Transportauftrag spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Заказ на перенос (TO) играет решающую роль в успехе."
+          "de": "Wir führen Transportaufträge sowohl im In- als auch im Ausland aus.",
+          "ru": "Реализуем транспортные поручения в масштабе страны и международном масштабе."
         }
       ],
       "synonyms": []
@@ -2469,24 +2241,24 @@
       "translation_en": "confirmation",
       "examples": [
         {
-          "de": "Hier ist die Quittierung.",
-          "ru": "Вот подтверждение (заказа на перенос)."
+          "de": "OK, Sie müssen die Lieferung quittieren.",
+          "ru": "Конечно, вам надо быть там, чтобы расписаться."
         },
         {
-          "de": "Wir müssen die Quittierung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: подтверждение (заказа на перенос)."
+          "de": "Ich musste es quittieren.",
+          "ru": "Мне пришлось расписаться за нее."
         },
         {
-          "de": "Sind Sie mit der Quittierung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: подтверждение (заказа на перенос)?"
+          "de": "Ich könnte den Dienst quittieren.",
+          "ru": "Я могу уйти в отставку."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Quittierung.",
-          "ru": "Сегодня мы концентрируемся на теме: подтверждение (заказа на перенос)."
+          "de": "Ich muss meinen Dienst quittieren.",
+          "ru": "Я не тот человек."
         },
         {
-          "de": "Die Quittierung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Подтверждение (заказа на перенос) играет решающую роль в успехе."
+          "de": "Ich möchte den Dienst quittieren.",
+          "ru": "Я подаю в отставку."
         }
       ],
       "synonyms": []
@@ -2499,24 +2271,24 @@
       "translation_en": "to confirm / acknowledge",
       "examples": [
         {
-          "de": "Wir quittieren diese Angelegenheit direkt im Team.",
-          "ru": "Мы подтверждать / квитировать этот вопрос непосредственно в команде."
+          "de": "OK, Sie müssen die Lieferung quittieren.",
+          "ru": "Конечно, вам надо быть там, чтобы расписаться."
         },
         {
-          "de": "Ich quittiere die notwendigen Unterlagen sofort.",
-          "ru": "Я подтверждать / квитировать необходимые документы незамедлительно."
+          "de": "Ich musste es quittieren.",
+          "ru": "Мне пришлось расписаться за нее."
         },
         {
-          "de": "Der verantwortliche Kollege quittiert das Ganze sehr professionell.",
-          "ru": "Ответственный коллега подтверждать / квитировать всё это очень профессионально."
+          "de": "Ich könnte den Dienst quittieren.",
+          "ru": "Я могу уйти в отставку."
         },
         {
-          "de": "Wir haben das Thema erfolgreich quittiert.",
-          "ru": "Мы успешно подтверждать / квитировать (в прошедшем времени) эту тему."
+          "de": "Ich muss meinen Dienst quittieren.",
+          "ru": "Я не тот человек."
         },
         {
-          "de": "quittieren Sie bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: подтверждать / квитировать вовремя!"
+          "de": "Ich möchte den Dienst quittieren.",
+          "ru": "Я подаю в отставку."
         }
       ],
       "synonyms": [],
@@ -2540,24 +2312,12 @@
       "translation_en": "stock difference",
       "examples": [
         {
-          "de": "Hier ist die Bestandsdifferenz.",
-          "ru": "Вот разница в запасах."
+          "de": "Bei der Feststellung des Jahresabschlusses habe man entdeckt, daß dort im Laufe des Jahres wiederholt Bestandsdifferenzen verschleiert worden seien.",
+          "ru": "При составлении годовой финансовой отчетности было обнаружено, что в течение года товарно-материальные разницы неоднократно скрывались."
         },
         {
-          "de": "Wir müssen die Bestandsdifferenz genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: разница в запасах."
-        },
-        {
-          "de": "Sind Sie mit der Bestandsdifferenz einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: разница в запасах?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die Bestandsdifferenz.",
-          "ru": "Сегодня мы концентрируемся на теме: разница в запасах."
-        },
-        {
-          "de": "Die Bestandsdifferenz spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Разница в запасах играет решающую роль в успехе."
+          "de": "Der Ärger hatte bereits Ende April begonnen, als bei der Inventur in den USA Bestandsdifferenzen von zwei Mio. Euro entdeckt wurden.",
+          "ru": "Проблемы начались уже в конце апреля, когда во время инвентаризации в США были обнаружены товарные разницы в два миллиона евро."
         }
       ],
       "synonyms": []
@@ -2570,24 +2330,16 @@
       "translation_en": "interface account",
       "examples": [
         {
-          "de": "Hier ist das Schnittstellenkonto.",
-          "ru": "Вот промежуточный счет / интерфейсный счет."
+          "de": "Buchungen zwischen verschiedenen Systemmodulen werden zunächst auf ein Schnittstellenkonto geleitet.",
+          "ru": "Проводки между различными модулями системы сначала направляются на интерфейсный счет."
         },
         {
-          "de": "Wir müssen das Schnittstellenkonto genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: промежуточный счет / интерфейсный счет."
+          "de": "Am Tagesende muss der Saldo auf dem Schnittstellenkonto idealerweise null betragen.",
+          "ru": "В конце дня сальдо на интерфейсном счете в идеале должно быть равно нулю."
         },
         {
-          "de": "Sind Sie mit dem Schnittstellenkonto einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: промежуточный счет / интерфейсный счет?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Schnittstellenkonto.",
-          "ru": "Сегодня мы концентрируемся на теме: промежуточный счет / интерфейсный счет."
-        },
-        {
-          "de": "Das Schnittstellenkonto spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Промежуточный счет / интерфейсный счет играет решающую роль в успехе."
+          "de": "Der IT-Support prüft die Fehlermeldung bei der Abstimmung des Schnittstellenkontos.",
+          "ru": "ИТ-поддержка проверяет сообщение об ошибке при выверке промежуточного счета."
         }
       ],
       "synonyms": []
@@ -2600,24 +2352,24 @@
       "translation_en": "physical stock",
       "examples": [
         {
-          "de": "Hier ist der physische Bestand.",
-          "ru": "Вот фактический (физический) запас."
+          "de": "Ihr Bestand ist relativ stabil; sie profitieren sogar von der Abholzung des Regenwaldes, da sie sich im offenen Land besser zurechtfinden.",
+          "ru": "Его популяция относительно стабильна; они извлекают пользу даже от вырубки сельвы, так как они лучше ориентируются на открытой местности."
         },
         {
-          "de": "Wir müssen den physische Bestand genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: фактический (физический) запас."
+          "de": "Der Bestand ist noch relativ groß und nicht gefährdet.",
+          "ru": "Популяция относительно большая и не находится под угрозой."
         },
         {
-          "de": "Sind Sie mit dem physische Bestand einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: фактический (физический) запас?"
+          "de": "Ihr Bestand besteht heute aus mehreren kleinen, voneinander isolierten Populationen.",
+          "ru": "Сегодня его состав состоит из нескольких маленьких, изолированных друг от друга популяций."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den physische Bestand.",
-          "ru": "Сегодня мы концентрируемся на теме: фактический (физический) запас."
+          "de": "Doch ist sein Bestand wohlbekannt von minderwertiger Qualität zu sein, wie der Junge selbst.",
+          "ru": "Известно, что его запасы довольно низкого качества, также как и сам мальчишка."
         },
         {
-          "de": "Der physische Bestand spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Фактический (физический) запас играет решающую роль в успехе."
+          "de": "Ich will unseren Bestand erweitern und ihm außerdem Gannicus anbieten.",
+          "ru": "Я бы хотел пополнить наши запасы, и предложить также Ганника."
         }
       ],
       "synonyms": []
@@ -2630,24 +2382,24 @@
       "translation_en": "book inventory",
       "examples": [
         {
-          "de": "Hier ist der Buchbestand.",
-          "ru": "Вот книжный запас (по данным системы)."
+          "de": "Zum Ausbau des Buchbestands wurde das Budget für Neuankäufe stark aufgestockt.",
+          "ru": "В связи с увеличением ассигнований значительно увеличилось количество покупаемых книг."
         },
         {
-          "de": "Wir müssen den Buchbestand genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: книжный запас (по данным системы)."
+          "de": "Bis heute sind noch etwa zwei Drittel des ursprünglichen Buchbestandes erhalten.",
+          "ru": "К настоящему времени было добыто около 2 % первоначальных установленных запасов."
         },
         {
-          "de": "Sind Sie mit dem Buchbestand einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: книжный запас (по данным системы)?"
+          "de": "Das Museum besteht jetzt aus zwei Teilen: dem Folklore Museum, und der Gemäldegalerie, während die Bücher in die Buchbestände der Korais-Bibliothek eingegliedert wurden.",
+          "ru": "Музей в настоящее время состоит из двух частей: Фольклорный музей и Художественная галерея, в то время как его книги включены в собрание Библиотеки Кораиса."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Buchbestand.",
-          "ru": "Сегодня мы концентрируемся на теме: книжный запас (по данным системы)."
+          "de": "Die Nahrungssuche erfolgt ebenfalls in Kiefernwäldern, teilweise an Berghängen mit dichtem Buschbestand, in harten Wintern auch in Kulturlandschaften bis hinunter in 500 Meter Höhe.",
+          "ru": "Гнездование происходит на высоте от 1200 до 1800 м. Поиски корма проходят также в сосновых лесах, частично на горных склонах с густым кустарником, суровыми зимами также на культурных ландшафтах на высоте до 500 м вниз."
         },
         {
-          "de": "Der Buchbestand spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Книжный запас (по данным системы) играет решающую роль в успехе."
+          "de": "Er lebte ursprünglich in buschbestandenen Ödländern oder in lichten Wäldern, heute bewohnt er als Kulturfolger des Menschen Obstplantagen, Parks oder Gärten.",
+          "ru": "Первоначально обитала в поросших кустарником пустошах или в светлых лесах, сегодня как гемерофил населяет фруктовые плантации, парки или сады."
         }
       ],
       "synonyms": []
@@ -2660,24 +2412,24 @@
       "translation_en": "physical inventory count",
       "examples": [
         {
-          "de": "Hier ist die Inventuraufnahme.",
-          "ru": "Вот инвентаризационная опись."
+          "de": "eine Inventaraufnahme machen",
+          "ru": "провести инвентаризацию"
         },
         {
-          "de": "Wir müssen die Inventuraufnahme genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: инвентаризационная опись."
+          "de": "In mehreren Kirchen konnten die Beamten die Inventaraufnahme nicht vornehmen, da die Geistlichen sich weigerten, ihnen die Schlüssel zu geben.",
+          "ru": "В нескольких храмах чиновники не смогли провести инвентаризацию, поскольку священнослужители отказались выдать им ключи."
         },
         {
-          "de": "Sind Sie mit der Inventuraufnahme einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: инвентаризационная опись?"
+          "de": "Er wurde von der Geistlichkeit in höflichster Form empfangen und nahm in ihrer Gegenwart die Inventaraufnahme vor.",
+          "ru": "Духовенство приняло его самым вежливым образом и в его присутствии произвело инвентаризацию."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Inventuraufnahme.",
-          "ru": "Сегодня мы концентрируемся на теме: инвентаризационная опись."
+          "de": "In Saint Vincent de Paul gelang es dem Geistlichen, die erregte Menge zu beruhigen, so daß es dem Beamten möglich war, die Inventaraufnahme vorzunehmen.",
+          "ru": "В Сен-Винсенте-де-Поле священнику удалось успокоить возбужденную толпу, чтобы чиновник мог провести инвентаризацию."
         },
         {
-          "de": "Die Inventuraufnahme spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Инвентаризационная опись играет решающую роль в успехе."
+          "de": "Die Kundgebungen, die von der Geistlichkeit veranstaltet wurden, um die Inventaraufnahme der Kircheneinrichtung zu verhindern, werden von den verständigen Klerikalen mißbilligt.",
+          "ru": "Демонстрации, организуемые духовенством с целью воспрепятствовать инвентаризации церковного убранства, вызывают недовольство здравомыслящего духовенства."
         }
       ],
       "synonyms": []
@@ -2690,24 +2442,24 @@
       "translation_en": "re-count",
       "examples": [
         {
-          "de": "Hier ist die Nachzählung.",
-          "ru": "Вот повторный подсчет."
+          "de": "Warum, willst du eine Nachzählung einfordern?",
+          "ru": "А что, ты требуешь пересчёта голосов?"
         },
         {
-          "de": "Wir müssen die Nachzählung genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: повторный подсчет."
+          "de": "Als wir beim Obersten Gerichtshof in Florida gewannen und die Nachzählung begonnen werden musste, kamen wir raus und tranken literweise Champagner.",
+          "ru": "И когда дело вынесли на суд, и там было заявлено о необходимости пересчета, все выпили шампанского, но на другой день всё остановили."
         },
         {
-          "de": "Sind Sie mit der Nachzählung einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: повторный подсчет?"
+          "de": "Doch am nächsten Tag stoppte der US Gerichtshof die Nachzählung.",
+          "ru": "Когда остановили пересчет мы отставали на 1 54 голоса."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Nachzählung.",
-          "ru": "Сегодня мы концентрируемся на теме: повторный подсчет."
+          "de": "Sie trat an die Armee heran wegen Nachzahlungen für ihre Tochter Samantha Dutton.",
+          "ru": "Она обратилась в Вооружённые силы за компенсацией для своей дочери, Саманты Даттон."
         },
         {
-          "de": "Die Nachzählung spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Повторный подсчет играет решающую роль в успехе."
+          "de": "Jetz' wollen die auf einmal Nachzahlungen.",
+          "ru": "А теперь с меня требуют заплатить налог и штраф."
         }
       ],
       "synonyms": []
@@ -2720,24 +2472,24 @@
       "translation_en": "to reconcile / match",
       "examples": [
         {
-          "de": "Wir gleichen ab diese Angelegenheit direkt im Team.",
-          "ru": "Мы сверять / сопоставлять этот вопрос непосредственно в команде."
+          "de": "Wir können die Namen mit einer Liste von Verdächtigen abgleichen, die in der Stadt waren.",
+          "ru": "Мы можем сверить эти имена со списком подозреваемых, находившихся в городе."
         },
         {
-          "de": "Ich gleiche ab die notwendigen Unterlagen sofort.",
-          "ru": "Я сверять / сопоставлять необходимые документы незамедлительно."
+          "de": "Ich muss sie mit diesen Formularen abgleichen.",
+          "ru": "Мне нужно его сверить."
         },
         {
-          "de": "Der verantwortliche Kollege gleicht ab das Ganze sehr professionell.",
-          "ru": "Ответственный коллега сверять / сопоставлять всё это очень профессионально."
+          "de": "Wollen Sie die Aussagen miteinander abgleichen, oder was?",
+          "ru": "Женщина, вам что, сопоставить заявления для сравнения?"
         },
         {
-          "de": "Wir haben das Thema erfolgreich abgegleicht.",
-          "ru": "Мы успешно сверять / сопоставлять (в прошедшем времени) эту тему."
+          "de": "Wir müssen unsere Geschichten abgleichen, für den Fall, dass ihre Erinnerungen zurückkehren.",
+          "ru": "Наши версии произошедшего должны совпадать на случай, если ее память вернется."
         },
         {
-          "de": "gleichen Sie ab bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: сверять / сопоставлять вовремя!"
+          "de": "Wir müssen unsere Geschichten abgleichen.",
+          "ru": "Нужно сверить нашу легенду."
         }
       ],
       "synonyms": [],
@@ -2761,24 +2513,24 @@
       "translation_en": "reconciliation / comparison",
       "examples": [
         {
-          "de": "Hier ist der Abgleich.",
-          "ru": "Вот сверка / сопоставление."
+          "de": "Es ist ein Fehler aufgetreten, Abgleich abgebrochen.",
+          "ru": "Произошла ошибка, синхронизация прервана."
         },
         {
-          "de": "Wir müssen den Abgleich genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: сверка / сопоставление."
+          "de": "Vollständiger Abgleich (auch ungeänderte Einträge abgleichen)",
+          "ru": "Полная синхронизация (синхронизация с не изменёнными данными)"
         },
         {
-          "de": "Sind Sie mit dem Abgleich einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: сверка / сопоставление?"
+          "de": "Die Lage der toten Skorpione und ein Abgleich mit den rekonstruierten Wasserständen in der Höhle erlaubte die Feststellung, dass Akrav israchanani zwischen 1960 und 1991 ausgestorben ist.",
+          "ru": "Положение мёртвых скорпионов и сравнение с реконструированным уровнем воды в пещере позволило обнаружить, что Akrav israchanani вымер в период с 1960 по 1991 годы."
         },
         {
-          "de": "Wir konzentrieren uns heute auf den Abgleich.",
-          "ru": "Сегодня мы концентрируемся на теме: сверка / сопоставление."
+          "de": "Ich werde Proben sammeln gehen für einen genetischen Abgleich.",
+          "ru": "Я собираюсь собрать образцы для генетического сравнения"
         },
         {
-          "de": "Der Abgleich spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Сверка / сопоставление играет решающую роль в успехе."
+          "de": "Für den automatischen Abgleich der Bestellungen verfügt Yatego über Schnittstellen zu Anbietern wie Afterbuy, AuktionMaster, OXID eSales, plentyMarkets und DreamRobot.",
+          "ru": "Экспорт заказов: Для автоматического сравнения данных о поступивших заказах Yatego использует специальные интерфейсы, такие как Afterbuy и AuktionMaster, OXID eSales, plentyMarkets и DreamRobot."
         }
       ],
       "synonyms": []
@@ -2791,24 +2543,24 @@
       "translation_en": "to evaluate / value",
       "examples": [
         {
-          "de": "Wir bewerten diese Angelegenheit direkt im Team.",
-          "ru": "Мы оценивать этот вопрос непосредственно в команде."
+          "de": "Es gibt Websites, auf denen Patienten ihre Ärzte bewerten.",
+          "ru": "Видимо есть сайты, на которых пациенты могут оценить своих докторов."
         },
         {
-          "de": "Ich bewerte die notwendigen Unterlagen sofort.",
-          "ru": "Я оценивать необходимые документы незамедлительно."
+          "de": "Zu diesem Zeitpunkt... geht es darum, die emotionalen Schäden zu bewerten.",
+          "ru": "На данный момент, нужно оценить размер принесенного морального вреда."
         },
         {
-          "de": "Der verantwortliche Kollege bewertet das Ganze sehr professionell.",
-          "ru": "Ответственный коллега оценивать всё это очень профессионально."
+          "de": "Ich werde euch bewerten, einzeln und als Team.",
+          "ru": "Я буду вас оценивать, каждого по отдельности и как команду."
         },
         {
-          "de": "Wir haben das Thema erfolgreich bewertet.",
-          "ru": "Мы успешно оценивать (в прошедшем времени) эту тему."
+          "de": "Sie besitzen nicht das geistige Vermögen, um meine Arbeit zu bewerten.",
+          "ru": "У тебя нет интеллектуальных способностей оценивать мою работу."
         },
         {
-          "de": "bewerten Sie bitte rechtzeitig!",
-          "ru": "Пожалуйста, выполните действие: оценивать вовремя!"
+          "de": "Schreiben Sie uns jetzt gleich, damit wir jetzt Ihr Projekt sorgfältig bewerten könnten.",
+          "ru": "Напишите нам прямо сейчас, чтобы подробно оценить ваш проект."
         }
       ],
       "synonyms": [],
@@ -2832,24 +2584,16 @@
       "translation_en": "valuation price",
       "examples": [
         {
-          "de": "Hier ist der Bewertungspreis.",
-          "ru": "Вот цена оценки."
+          "de": "Der Bewertungspreis des Materials wird monatlich auf Basis der tatsächlichen Einkaufskosten aktualisiert.",
+          "ru": "Оценочная стоимость материала обновляется ежемесячно на основе фактических затрат на закупку."
         },
         {
-          "de": "Wir müssen den Bewertungspreis genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: цена оценки."
+          "de": "Bei einer starken Abweichung zwischen dem Marktpreis und dem Bewertungspreis müssen wir eine Wertberichtigung vornehmen.",
+          "ru": "При сильном расхождении между рыночной ценой и оценочной стоимостью мы должны произвести корректировку стоимости."
         },
         {
-          "de": "Sind Sie mit dem Bewertungspreis einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: цена оценки?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf den Bewertungspreis.",
-          "ru": "Сегодня мы концентрируемся на теме: цена оценки."
-        },
-        {
-          "de": "Der Bewertungspreis spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Цена оценки играет решающую роль в успехе."
+          "de": "Im SAP-System bestimmt der Bewertungspreis den Wert des Bestands in der Bilanz.",
+          "ru": "В системе SAP оценочная стоимость определяет стоимость запаса в балансе."
         }
       ],
       "synonyms": []
@@ -2862,24 +2606,24 @@
       "translation_en": "valuation method",
       "examples": [
         {
-          "de": "Hier ist das Bewertungsverfahren.",
-          "ru": "Вот метод оценки."
+          "de": "Deswegen wollen wir uns nun so schnell wie möglich daran machen, ein geeignetes Bewertungsverfahren zu entwickeln.",
+          "ru": "Поэтому сейчас мы хотим как можно быстрее приступить к разработке подходящей процедуры оценки."
         },
         {
-          "de": "Wir müssen das Bewertungsverfahren genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: метод оценки."
+          "de": "Die Bewertung nach dem NAV setzt einen zweistufigen Aufbau des Bewertungsverfahrens voraus.",
+          "ru": "Оценка по NAV требует двухэтапной структуры процесса оценки."
         },
         {
-          "de": "Sind Sie mit dem Bewertungsverfahren einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: метод оценки?"
+          "de": "Aber man kann das auch günstiger machen, das Bewertungsverfahren beispielsweise muss vereinfacht werden.",
+          "ru": "Но это также можно сделать и дешевле; например, необходимо упростить процесс оценки."
         },
         {
-          "de": "Wir konzentrieren uns heute auf das Bewertungsverfahren.",
-          "ru": "Сегодня мы концентрируемся на теме: метод оценки."
+          "de": "Es soll im Rahmen des gesetzlich vorgeschriebenen Bewertungsverfahrens ermittelt werden.",
+          "ru": "Это должно быть определено в рамках требуемого законом процесса оценки."
         },
         {
-          "de": "Das Bewertungsverfahren spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Метод оценки играет решающую роль в успехе."
+          "de": "Sie werden gemeinsam mit uns Möglichkeiten erörtern, das Bewertungsverfahren zusätzlich abzusichern.",
+          "ru": "Вместе с нами вы обсудите варианты дальнейшего обеспечения безопасности процесса оценки."
         }
       ],
       "synonyms": []
@@ -2892,24 +2636,16 @@
       "translation_en": "FIFO method",
       "examples": [
         {
-          "de": "Hier ist die FIFO-Methode.",
-          "ru": "Вот метод ФИФО."
+          "de": "Bei der Bewertung des Lagerbestands zum Periodenende nutzen wir standardmäßig die FIFO-Methode.",
+          "ru": "При оценке складских запасов на конец периода мы по умолчанию используем метод ФИФО."
         },
         {
-          "de": "Wir müssen die FIFO-Methode genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: метод ФИФО."
+          "de": "Die FIFO-Methode stellt sicher, dass ältere Vorräte zuerst verbraucht oder verkauft werden, um Verluste durch Veralterung zu minimieren.",
+          "ru": "Метод ФИФО гарантирует, что более старые запасы расходуются или продаются в первую очередь, чтобы свести к минимуму потери от устаревания."
         },
         {
-          "de": "Sind Sie mit der FIFO-Methode einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: метод ФИФО?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die FIFO-Methode.",
-          "ru": "Сегодня мы концентрируемся на теме: метод ФИФО."
-        },
-        {
-          "de": "Die FIFO-Methode spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Метод ФИФО играет решающую роль в успехе."
+          "de": "In Zeiten steigender Preise führt die FIFO-Methode in der Regel zu einem höheren ausgewiesenen Gewinn im Jahresabschluss.",
+          "ru": "В периоды роста цен метод ФИФО обычно приводит к более высокой отражаемой прибыли в годовой финансовой отчетности."
         }
       ],
       "synonyms": []
@@ -2922,24 +2658,16 @@
       "translation_en": "LIFO method",
       "examples": [
         {
-          "de": "Hier ist die LIFO-Methode.",
-          "ru": "Вот метод ЛИФО."
+          "de": "Die LIFO-Methode ist in vielen Ländern aus steuerrechtlichen Gründen für die Bilanzierung nicht zulässig.",
+          "ru": "Метод ЛИФО во многих странах недопустим для ведения бухгалтерского учета по налоговым соображениям."
         },
         {
-          "de": "Wir müssen die LIFO-Methode genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: метод ЛИФО."
+          "de": "Wenn ein Unternehmen die LIFO-Methode anwendet, werden die zuletzt erworbenen Waren als zuerst verkauft angenommen.",
+          "ru": "Если компания применяет метод ЛИФО, то предполагается, что товары, приобретенные последними, продаются первыми."
         },
         {
-          "de": "Sind Sie mit der LIFO-Methode einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: метод ЛИФО?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf die LIFO-Methode.",
-          "ru": "Сегодня мы концентрируемся на теме: метод ЛИФО."
-        },
-        {
-          "de": "Die LIFO-Methode spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Метод ЛИФО играет решающую роль в успехе."
+          "de": "Für bestimmte Schüttgüter wie Kohle oder Kies kann die LIFO-Methode die tatsächliche physische Lagerbewegung gut abbilden.",
+          "ru": "Для определенных сыпучих грузов, таких как уголь или гравий, метод ЛИФО может хорошо отражать фактическое физическое движение запасов."
         }
       ],
       "synonyms": []
@@ -2952,24 +2680,24 @@
       "translation_en": "acquisition costs",
       "examples": [
         {
-          "de": "Hier sind die Anschaffungskosten.",
-          "ru": "Вот затраты на приобретение."
+          "de": "Und ich möchte darauf hinweisen dass wenn Sie verständlicherweise irgendwelche Fragen bezüglich der Anschaffungskosten haben...",
+          "ru": "И я бы хотел отметить что если у вас есть вполне очевидные вопросы о цене..."
         },
         {
-          "de": "Wir müssen die Anschaffungskosten genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: затраты на приобретение."
+          "de": "Wenn ihr... ein Kangaroos-Shirt zu Anschaffungskosten wollt, bin ich euer Mädel.",
+          "ru": "Ты хочешь... толстовку по себестоимости, могу устроить."
         },
         {
-          "de": "Sind Sie mit den Anschaffungskosten einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: затраты на приобретение?"
+          "de": "Für die Bestandserhaltung oder die Erhaltung der Konkurrenzfähigkeit eines Unternehmens müssen die Kosten angesetzt werden, die für die Wiederbeschaffung zu bezahlen sind, nicht die historischen Anschaffungskosten, die in der Vergangenheit zu bezahlen waren.",
+          "ru": "Для сохранения или поддержания конкурентоспособности предприятия требуется расходовать средства на восстановление стоимости основных фондов, а не на их предшествующее создание."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Anschaffungskosten.",
-          "ru": "Сегодня мы концентрируемся на теме: затраты на приобретение."
+          "de": "Die verhältnismässig geringen Anschaffungskosten, die Leistungsfähigkeit und die universellen Einsatzmöglichkeiten des Menzi Muck bieten den Forstunternehmern interessante Perspektiven.",
+          "ru": "Относительно низкая стоимость покупки, высокая производительность и универсальность применения Menzi Muck открывают интересные возможности для управляющих лесным бизнесом."
         },
         {
-          "de": "Die Anschaffungskosten spielen eine entscheidende Rolle für den Erfolg.",
-          "ru": "Затраты на приобретение играет решающую роль в успехе."
+          "de": "Für den Kauf von Arbeitskraft und Produktionsmitteln werden die Kosten, die bei ihrer Anschaffung anfielen, die Anschaffungskosten in Rechnung gestellt.",
+          "ru": "При покупке рабочей силы и средств производства принимается в расчет стоимость их создания."
         }
       ],
       "synonyms": []
@@ -2982,24 +2710,24 @@
       "translation_en": "cost of goods manufactured",
       "examples": [
         {
-          "de": "Hier sind die Herstellungskosten.",
-          "ru": "Вот производственная себестоимость."
+          "de": "Die Änderungen führten zu einer beträchtlichen Reduktion der Herstellungskosten.",
+          "ru": "Изменения должны были сократить затраты на производство."
         },
         {
-          "de": "Wir müssen die Herstellungskosten genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: производственная себестоимость."
+          "de": "Gesetze gegen Preis-Dumping sollen einen gerechten Handel gewährleisten, indem sie den Verkauf der Waren unter den Herstellungskosten verhindern.",
+          "ru": "Антидемпинговые законы предназначены для обеспечения честной торговли путем запрещения продаж товаров по ценам ниже себестоимости."
         },
         {
-          "de": "Sind Sie mit den Herstellungskosten einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: производственная себестоимость?"
+          "de": "Einige Hersteller qualitätsvoller Lizenz-Produkte, beispielsweise Cipla in Indien, haben vorgeschlagen, die Arzneien zu Preisen anzubieten, die nur unerheblich über den Herstellungskosten liegen.",
+          "ru": "Некоторые из производителей качественных непатентованных лекарств, такие как индийская компания \"Сипла\", предложили продавать аналогичные лекарства собственного производства по ценам, приближенным к стоимости производства."
         },
         {
-          "de": "Wir konzentrieren uns heute auf die Herstellungskosten.",
-          "ru": "Сегодня мы концентрируемся на теме: производственная себестоимость."
+          "de": "Wegen der steigenden Herstellungskosten entschieden die Herrscher des Planeten, die Produktion einzustellen und die Industrie auf den entfernten Planeten Mayberry zu verlegen, wo die Bevölkerung noch mehr litt, und deshalb Arbeitskräfte viel billiger waren.",
+          "ru": "Чтобы покрыть растущие затраты на производство лидеры планеты закрыли производство и переместили промышленность на далёкую планету Мейберри, где населения было более чем достаточно, и поэтому рабочая сила намного дешевле."
         },
         {
-          "de": "Die Herstellungskosten spielen eine entscheidende Rolle für den Erfolg.",
-          "ru": "Производственная себестоимость играет решающую роль в успехе."
+          "de": "Bei den Herstellungskosten und der Produktionsweise von Medikamenten hat sich eigentlich nichts verändert.",
+          "ru": "Если посмотреть на стоимость создания лекарств, на то, как это происходит, - ничего не сдвинулось с места."
         }
       ],
       "synonyms": []
@@ -3012,24 +2740,16 @@
       "translation_en": "period end",
       "examples": [
         {
-          "de": "Hier ist das Periodenende.",
-          "ru": "Вот конец периода."
+          "de": "Alle offenen Rechnungen müssen vor dem Periodenende im System verbucht werden, damit der Monatsabschluss korrekt ist.",
+          "ru": "Все открытые счета должны быть проведены в системе до окончания периода, чтобы месячное закрытие было корректным."
         },
         {
-          "de": "Wir müssen das Periodenende genau analysieren.",
-          "ru": "Мы должны точно проанализировать следующий объект: конец периода."
+          "de": "Am Periodenende führen wir eine Inventur durch, um eventuelle Differenzen im Lagerbestand aufzudecken.",
+          "ru": "В конце периода мы проводим инвентаризацию, чтобы выявить возможные расхождения в складских запасах."
         },
         {
-          "de": "Sind Sie mit dem Periodenende einverstanden?",
-          "ru": "Вы согласны с тем, что касается понятия: конец периода?"
-        },
-        {
-          "de": "Wir konzentrieren uns heute auf das Periodenende.",
-          "ru": "Сегодня мы концентрируемся на теме: конец периода."
-        },
-        {
-          "de": "Das Periodenende spielt eine entscheidende Rolle für den Erfolg.",
-          "ru": "Конец периода играет решающую роль в успехе."
+          "de": "Der Controller analysiert nach dem Periodenende die Abweichungen zwischen den geplanten und den tatsächlichen Kosten.",
+          "ru": "После окончания периода контролер анализирует отклонения между запланированными и фактическими затратами."
         }
       ],
       "synonyms": []
