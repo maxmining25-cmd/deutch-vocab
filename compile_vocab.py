@@ -1134,6 +1134,9 @@ def generate_html(all_words, categories, html_path):
             <button class="group-btn" data-group="Ämter & Alltag" onclick="selectGroup('Ämter & Alltag')">
                 <i class="fa-solid fa-building-columns"></i> Ämter & Alltag
             </button>
+            <button class="group-btn" data-group="SAP-Consulting" onclick="selectGroup('SAP-Consulting')">
+                <i class="fa-solid fa-gears"></i> SAP-Consulting
+            </button>
         </div>
 
         <div class="search-row">
@@ -1317,7 +1320,12 @@ def generate_html(all_words, categories, html_path):
             "Wohnung & Anmeldung": "Ämter & Alltag",
             "Gesundheit & Kassen": "Ämter & Alltag",
             "ÖPNV & Reisen": "Ämter & Alltag",
-            "Alltag & Dienste": "Ämter & Alltag"
+            "Alltag & Dienste": "Ämter & Alltag",
+            "SAP FI/CO (Finanzwesen & Controlling)": "SAP-Consulting",
+            "Materialwirtschaft & Bestandsbewertung (MM/ML)": "SAP-Consulting",
+            "Vertrieb & Kundenmanagement (SD)": "SAP-Consulting",
+            "S4 HANA & Fiori Benutzeroberfläche": "SAP-Consulting",
+            "SAP-Einführung & Customizing": "SAP-Consulting"
         }};
         
         let activeGroup = localStorage.getItem('vocab_active_group') || 'Projektmanagement';

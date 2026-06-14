@@ -26,6 +26,11 @@
 20. [Gesundheit & Kassen](#gesundheit--kassen)
 21. [ÖPNV & Reisen](#oepnv--reisen)
 22. [Alltag & Dienste](#alltag--dienste)
+23. [SAP FI/CO (Finanzwesen & Controlling)](#sap-fico-finanzwesen--controlling)
+24. [Materialwirtschaft & Bestandsbewertung (MM/ML)](#materialwirtschaft--bestandsbewertung-mmml)
+25. [Vertrieb & Kundenmanagement (SD)](#vertrieb--kundenmanagement-sd)
+26. [S4 HANA & Fiori Benutzeroberfläche](#s4-hana--fiori-benutzeroberflaeche)
+27. [SAP-Einführung & Customizing](#sap-einfuehrung--customizing)
 
 ---
 
@@ -29148,6 +29153,7443 @@
      ➔ Сегодня мы концентрируемся на теме: газ.
   5. *Das Gas spielt eine entscheidende Rolle für den Erfolg.*
      ➔ Газ играет решающую роль в успехе.
+
+
+---
+
+## <a name="sap-fico-finanzwesen--controlling"></a>SAP FI/CO (Finanzwesen & Controlling)
+
+### 1645. das Profit-Center, die Profit-Center [🎥 YouGlish](https://de.youglish.com/pronounce/Profit-Center/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** центр прибыли
+- **Translation (EN):** profit center
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Profit-Center.*
+     ➔ Вот центр прибыли.
+  2. *Wir müssen das Profit-Center genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: центр прибыли.
+  3. *Sind Sie mit dem Profit-Center einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: центр прибыли?
+  4. *Wir konzentrieren uns heute auf das Profit-Center.*
+     ➔ Сегодня мы концентрируемся на теме: центр прибыли.
+  5. *Das Profit-Center spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Центр прибыли играет решающую роль в успехе.
+
+### 1646. die Anlagenbuchhaltung, die Anlagenbuchhaltungen [🎥 YouGlish](https://de.youglish.com/pronounce/Anlagenbuchhaltung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** учет основных средств
+- **Translation (EN):** asset accounting
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Anlagenbuchhaltung.*
+     ➔ Вот учет основных средств.
+  2. *Wir müssen die Anlagenbuchhaltung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: учет основных средств.
+  3. *Sind Sie mit der Anlagenbuchhaltung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: учет основных средств?
+  4. *Wir konzentrieren uns heute auf die Anlagenbuchhaltung.*
+     ➔ Сегодня мы концентрируемся на теме: учет основных средств.
+  5. *Die Anlagenbuchhaltung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Учет основных средств играет решающую роль в успехе.
+
+### 1647. die Kreditorenbuchhaltung, die Kreditorenbuchhaltungen [🎥 YouGlish](https://de.youglish.com/pronounce/Kreditorenbuchhaltung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** бухгалтерия кредиторов (AP)
+- **Translation (EN):** accounts payable
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Kreditorenbuchhaltung.*
+     ➔ Вот бухгалтерия кредиторов (AP).
+  2. *Wir müssen die Kreditorenbuchhaltung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: бухгалтерия кредиторов (AP).
+  3. *Sind Sie mit der Kreditorenbuchhaltung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: бухгалтерия кредиторов (AP)?
+  4. *Wir konzentrieren uns heute auf die Kreditorenbuchhaltung.*
+     ➔ Сегодня мы концентрируемся на теме: бухгалтерия кредиторов (AP).
+  5. *Die Kreditorenbuchhaltung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Бухгалтерия кредиторов (AP) играет решающую роль в успехе.
+
+### 1648. die Debitorenbuchhaltung, die Debitorenbuchhaltungen [🎥 YouGlish](https://de.youglish.com/pronounce/Debitorenbuchhaltung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** бухгалтерия дебиторов (AR)
+- **Translation (EN):** accounts receivable
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Debitorenbuchhaltung.*
+     ➔ Вот бухгалтерия дебиторов (AR).
+  2. *Wir müssen die Debitorenbuchhaltung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: бухгалтерия дебиторов (AR).
+  3. *Sind Sie mit der Debitorenbuchhaltung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: бухгалтерия дебиторов (AR)?
+  4. *Wir konzentrieren uns heute auf die Debitorenbuchhaltung.*
+     ➔ Сегодня мы концентрируемся на теме: бухгалтерия дебиторов (AR).
+  5. *Die Debitorenbuchhaltung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Бухгалтерия дебиторов (AR) играет решающую роль в успехе.
+
+### 1649. der Buchungskreis, die Buchungskreise [🎥 YouGlish](https://de.youglish.com/pronounce/Buchungskreis/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** балансовая единица (БЕ)
+- **Translation (EN):** company code
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Buchungskreis.*
+     ➔ Вот балансовая единица (БЕ).
+  2. *Wir müssen den Buchungskreis genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: балансовая единица (БЕ).
+  3. *Sind Sie mit dem Buchungskreis einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: балансовая единица (БЕ)?
+  4. *Wir konzentrieren uns heute auf den Buchungskreis.*
+     ➔ Сегодня мы концентрируемся на теме: балансовая единица (БЕ).
+  5. *Der Buchungskreis spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Балансовая единица (БЕ) играет решающую роль в успехе.
+
+### 1650. die Belegart, die Belegarten [🎥 YouGlish](https://de.youglish.com/pronounce/Belegart/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** вид документа
+- **Translation (EN):** document type
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Belegart.*
+     ➔ Вот вид документа.
+  2. *Wir müssen die Belegart genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: вид документа.
+  3. *Sind Sie mit der Belegart einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: вид документа?
+  4. *Wir konzentrieren uns heute auf die Belegart.*
+     ➔ Сегодня мы концентрируемся на теме: вид документа.
+  5. *Die Belegart spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Вид документа играет решающую роль в успехе.
+
+### 1651. die Buchungsperiode, die Buchungsperioden [🎥 YouGlish](https://de.youglish.com/pronounce/Buchungsperiode/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** период проведения
+- **Translation (EN):** posting period
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Buchungsperiode.*
+     ➔ Вот период проведения.
+  2. *Wir müssen die Buchungsperiode genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: период проведения.
+  3. *Sind Sie mit der Buchungsperiode einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: период проведения?
+  4. *Wir konzentrieren uns heute auf die Buchungsperiode.*
+     ➔ Сегодня мы концентрируемся на теме: период проведения.
+  5. *Die Buchungsperiode spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Период проведения играет решающую роль в успехе.
+
+### 1652. die Gewinn- und Verlustrechnung, die Rechnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Gewinn-%20und%20Verlustrechnung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** отчет о прибылях и убытках (ПиУ)
+- **Translation (EN):** profit and loss statement (P&L)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Gewinn- und Verlustrechnung.*
+     ➔ Вот отчет о прибылях и убытках (ПиУ).
+  2. *Wir müssen die Gewinn- und Verlustrechnung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: отчет о прибылях и убытках (ПиУ).
+  3. *Sind Sie mit der Gewinn- und Verlustrechnung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: отчет о прибылях и убытках (ПиУ)?
+  4. *Wir konzentrieren uns heute auf die Gewinn- und Verlustrechnung.*
+     ➔ Сегодня мы концентрируемся на теме: отчет о прибылях и убытках (ПиУ).
+  5. *Die Gewinn- und Verlustrechnung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Отчет о прибылях и убытках (ПиУ) играет решающую роль в успехе.
+
+### 1653. das Sachkonto, die Sachkonten [🎥 YouGlish](https://de.youglish.com/pronounce/Sachkonto/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** счет главной книги
+- **Translation (EN):** G/L account
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Sachkonto.*
+     ➔ Вот счет главной книги.
+  2. *Wir müssen das Sachkonto genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: счет главной книги.
+  3. *Sind Sie mit dem Sachkonto einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: счет главной книги?
+  4. *Wir konzentrieren uns heute auf das Sachkonto.*
+     ➔ Сегодня мы концентрируемся на теме: счет главной книги.
+  5. *Das Sachkonto spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Счет главной книги играет решающую роль в успехе.
+
+### 1654. die Kostenstellenrechnung, die Rechnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Kostenstellenrechnung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** учет затрат по МВЗ
+- **Translation (EN):** cost center accounting
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Kostenstellenrechnung.*
+     ➔ Вот учет затрат по МВЗ.
+  2. *Wir müssen die Kostenstellenrechnung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: учет затрат по МВЗ.
+  3. *Sind Sie mit der Kostenstellenrechnung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: учет затрат по МВЗ?
+  4. *Wir konzentrieren uns heute auf die Kostenstellenrechnung.*
+     ➔ Сегодня мы концентрируемся на теме: учет затрат по МВЗ.
+  5. *Die Kostenstellenrechnung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Учет затрат по МВЗ играет решающую роль в успехе.
+
+### 1655. die Gemeinkosten, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/Gemeinkosten/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** косвенные / накладные расходы
+- **Translation (EN):** overhead costs
+- **Примеры использования (Beispiele):**
+  1. *Hier sind die Gemeinkosten.*
+     ➔ Вот косвенные / накладные расходы.
+  2. *Wir müssen die Gemeinkosten genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: косвенные / накладные расходы.
+  3. *Sind Sie mit den Gemeinkosten einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: косвенные / накладные расходы?
+  4. *Wir konzentrieren uns heute auf die Gemeinkosten.*
+     ➔ Сегодня мы концентрируемся на теме: косвенные / накладные расходы.
+  5. *Die Gemeinkosten spielen eine entscheidende Rolle für den Erfolg.*
+     ➔ Косвенные / накладные расходы играет решающую роль в успехе.
+
+### 1656. die Einzelkosten, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/Einzelkosten/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** прямые затраты
+- **Translation (EN):** direct costs
+- **Примеры использования (Beispiele):**
+  1. *Hier sind die Einzelkosten.*
+     ➔ Вот прямые затраты.
+  2. *Wir müssen die Einzelkosten genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: прямые затраты.
+  3. *Sind Sie mit den Einzelkosten einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: прямые затраты?
+  4. *Wir konzentrieren uns heute auf die Einzelkosten.*
+     ➔ Сегодня мы концентрируемся на теме: прямые затраты.
+  5. *Die Einzelkosten spielen eine entscheidende Rolle für den Erfolg.*
+     ➔ Прямые затраты играет решающую роль в успехе.
+
+### 1657. die Leistungsart, die Leistungsarten [🎥 YouGlish](https://de.youglish.com/pronounce/Leistungsart/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** вид работ
+- **Translation (EN):** activity type
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Leistungsart.*
+     ➔ Вот вид работ.
+  2. *Wir müssen die Leistungsart genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: вид работ.
+  3. *Sind Sie mit der Leistungsart einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: вид работ?
+  4. *Wir konzentrieren uns heute auf die Leistungsart.*
+     ➔ Сегодня мы концентрируемся на теме: вид работ.
+  5. *Die Leistungsart spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Вид работ играет решающую роль в успехе.
+
+### 1658. die Kostenart, die Kostenarten [🎥 YouGlish](https://de.youglish.com/pronounce/Kostenart/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** вид затрат
+- **Translation (EN):** cost element
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Kostenart.*
+     ➔ Вот вид затрат.
+  2. *Wir müssen die Kostenart genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: вид затрат.
+  3. *Sind Sie mit der Kostenart einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: вид затрат?
+  4. *Wir konzentrieren uns heute auf die Kostenart.*
+     ➔ Сегодня мы концентрируемся на теме: вид затрат.
+  5. *Die Kostenart spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Вид затрат играет решающую роль в успехе.
+
+### 1659. die primäre Kostenart, die Kostenarten [🎥 YouGlish](https://de.youglish.com/pronounce/prim%C3%A4re%20Kostenart/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** первичный вид затрат
+- **Translation (EN):** primary cost element
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die primäre Kostenart.*
+     ➔ Вот первичный вид затрат.
+  2. *Wir müssen die primäre Kostenart genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: первичный вид затрат.
+  3. *Sind Sie mit der primäre Kostenart einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: первичный вид затрат?
+  4. *Wir konzentrieren uns heute auf die primäre Kostenart.*
+     ➔ Сегодня мы концентрируемся на теме: первичный вид затрат.
+  5. *Die primäre Kostenart spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Первичный вид затрат играет решающую роль в успехе.
+
+### 1660. die sekundäre Kostenart, die Kostenarten [🎥 YouGlish](https://de.youglish.com/pronounce/sekund%C3%A4re%20Kostenart/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** вторичный вид затрат
+- **Translation (EN):** secondary cost element
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die sekundäre Kostenart.*
+     ➔ Вот вторичный вид затрат.
+  2. *Wir müssen die sekundäre Kostenart genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: вторичный вид затрат.
+  3. *Sind Sie mit der sekundäre Kostenart einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: вторичный вид затрат?
+  4. *Wir konzentrieren uns heute auf die sekundäre Kostenart.*
+     ➔ Сегодня мы концентрируемся на теме: вторичный вид затрат.
+  5. *Die sekundäre Kostenart spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Вторичный вид затрат играет решающую роль в успехе.
+
+### 1661. die Umlage, die Umlagen [🎥 YouGlish](https://de.youglish.com/pronounce/Umlage/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** раскладка (затрат)
+- **Translation (EN):** assessment
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Umlage.*
+     ➔ Вот раскладка (затрат).
+  2. *Wir müssen die Umlage genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: раскладка (затрат).
+  3. *Sind Sie mit der Umlage einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: раскладка (затрат)?
+  4. *Wir konzentrieren uns heute auf die Umlage.*
+     ➔ Сегодня мы концентрируемся на теме: раскладка (затрат).
+  5. *Die Umlage spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Раскладка (затрат) играет решающую роль в успехе.
+
+### 1662. die Verteilung, die Verteilungen [🎥 YouGlish](https://de.youglish.com/pronounce/Verteilung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** распределение (затрат)
+- **Translation (EN):** distribution
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Verteilung.*
+     ➔ Вот распределение (затрат).
+  2. *Wir müssen die Verteilung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: распределение (затрат).
+  3. *Sind Sie mit der Verteilung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: распределение (затрат)?
+  4. *Wir konzentrieren uns heute auf die Verteilung.*
+     ➔ Сегодня мы концентрируемся на теме: распределение (затрат).
+  5. *Die Verteilung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Распределение (затрат) играет решающую роль в успехе.
+
+### 1663. der statistische Kennzahl, die Kennzahlen [🎥 YouGlish](https://de.youglish.com/pronounce/statistische%20Kennzahl/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** статистический показатель
+- **Translation (EN):** statistical key figure
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der statistische Kennzahl.*
+     ➔ Вот статистический показатель.
+  2. *Wir müssen den statistische Kennzahl genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: статистический показатель.
+  3. *Sind Sie mit dem statistische Kennzahl einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: статистический показатель?
+  4. *Wir konzentrieren uns heute auf den statistische Kennzahl.*
+     ➔ Сегодня мы концентрируемся на теме: статистический показатель.
+  5. *Der statistische Kennzahl spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Статистический показатель играет решающую роль в успехе.
+
+### 1664. der Innenauftrag, die Innenaufträge [🎥 YouGlish](https://de.youglish.com/pronounce/Innenauftrag/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** внутренний заказ
+- **Translation (EN):** internal order
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Innenauftrag.*
+     ➔ Вот внутренний заказ.
+  2. *Wir müssen den Innenauftrag genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: внутренний заказ.
+  3. *Sind Sie mit dem Innenauftrag einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: внутренний заказ?
+  4. *Wir konzentrieren uns heute auf den Innenauftrag.*
+     ➔ Сегодня мы концентрируемся на теме: внутренний заказ.
+  5. *Der Innenauftrag spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Внутренний заказ играет решающую роль в успехе.
+
+### 1665. die Ergebnisrechnung, die Rechnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Ergebnisrechnung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** учет результатов (CO-PA)
+- **Translation (EN):** profitability analysis (CO-PA)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Ergebnisrechnung.*
+     ➔ Вот учет результатов (CO-PA).
+  2. *Wir müssen die Ergebnisrechnung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: учет результатов (CO-PA).
+  3. *Sind Sie mit der Ergebnisrechnung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: учет результатов (CO-PA)?
+  4. *Wir konzentrieren uns heute auf die Ergebnisrechnung.*
+     ➔ Сегодня мы концентрируемся на теме: учет результатов (CO-PA).
+  5. *Die Ergebnisrechnung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Учет результатов (CO-PA) играет решающую роль в успехе.
+
+### 1666. das Profit-Center-Accounting, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Profit-Center-Accounting/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** учет по центрам прибыли (EC-PCA)
+- **Translation (EN):** profit center accounting
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Profit-Center-Accounting.*
+     ➔ Вот учет по центрам прибыли (EC-PCA).
+  2. *Wir müssen das Profit-Center-Accounting genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: учет по центрам прибыли (EC-PCA).
+  3. *Sind Sie mit dem Profit-Center-Accounting einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: учет по центрам прибыли (EC-PCA)?
+  4. *Wir konzentrieren uns heute auf das Profit-Center-Accounting.*
+     ➔ Сегодня мы концентрируемся на теме: учет по центрам прибыли (EC-PCA).
+  5. *Das Profit-Center-Accounting spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Учет по центрам прибыли (EC-PCA) играет решающую роль в успехе.
+
+### 1667. der Anlagenspiegel, die Anlagenspiegel [🎥 YouGlish](https://de.youglish.com/pronounce/Anlagenspiegel/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** ведомость движения основных средств
+- **Translation (EN):** asset history sheet
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Anlagenspiegel.*
+     ➔ Вот ведомость движения основных средств.
+  2. *Wir müssen den Anlagenspiegel genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: ведомость движения основных средств.
+  3. *Sind Sie mit dem Anlagenspiegel einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: ведомость движения основных средств?
+  4. *Wir konzentrieren uns heute auf den Anlagenspiegel.*
+     ➔ Сегодня мы концентрируемся на теме: ведомость движения основных средств.
+  5. *Der Anlagenspiegel spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Ведомость движения основных средств играет решающую роль в успехе.
+
+### 1668. die Anzahlung, die Anzahlungen [🎥 YouGlish](https://de.youglish.com/pronounce/Anzahlung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** авансовый платеж / предоплата
+- **Translation (EN):** down payment
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Anzahlung.*
+     ➔ Вот авансовый платеж / предоплата.
+  2. *Wir müssen die Anzahlung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: авансовый платеж / предоплата.
+  3. *Sind Sie mit der Anzahlung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: авансовый платеж / предоплата?
+  4. *Wir konzentrieren uns heute auf die Anzahlung.*
+     ➔ Сегодня мы концентрируемся на теме: авансовый платеж / предоплата.
+  5. *Die Anzahlung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Авансовый платеж / предоплата играет решающую роль в успехе.
+
+### 1669. die Schlussrechnung, die Schlussrechnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Schlussrechnung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** финальный счет
+- **Translation (EN):** final invoice
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Schlussrechnung.*
+     ➔ Вот финальный счет.
+  2. *Wir müssen die Schlussrechnung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: финальный счет.
+  3. *Sind Sie mit der Schlussrechnung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: финальный счет?
+  4. *Wir konzentrieren uns heute auf die Schlussrechnung.*
+     ➔ Сегодня мы концентрируемся на теме: финальный счет.
+  5. *Die Schlussrechnung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Финальный счет играет решающую роль в успехе.
+
+### 1670. die offene Posten, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/offene%20Posten/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** открытые позиции
+- **Translation (EN):** open items
+- **Примеры использования (Beispiele):**
+  1. *Hier sind die offene Posten.*
+     ➔ Вот открытые позиции.
+  2. *Wir müssen die offene Posten genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: открытые позиции.
+  3. *Sind Sie mit den offene Posten einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: открытые позиции?
+  4. *Wir konzentrieren uns heute auf die offene Posten.*
+     ➔ Сегодня мы концентрируемся на теме: открытые позиции.
+  5. *Die offene Posten spielen eine entscheidende Rolle für den Erfolg.*
+     ➔ Открытые позиции играет решающую роль в успехе.
+
+### 1671. das Mahnverfahren, die Mahnverfahren [🎥 YouGlish](https://de.youglish.com/pronounce/Mahnverfahren/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** процедура напоминания платежей
+- **Translation (EN):** dunning procedure
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Mahnverfahren.*
+     ➔ Вот процедура напоминания платежей.
+  2. *Wir müssen das Mahnverfahren genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: процедура напоминания платежей.
+  3. *Sind Sie mit dem Mahnverfahren einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: процедура напоминания платежей?
+  4. *Wir konzentrieren uns heute auf das Mahnverfahren.*
+     ➔ Сегодня мы концентрируемся на теме: процедура напоминания платежей.
+  5. *Das Mahnverfahren spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Процедура напоминания платежей играет решающую роль в успехе.
+
+### 1672. der Mahnlauf, die Mahnläufe [🎥 YouGlish](https://de.youglish.com/pronounce/Mahnlauf/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** прогон программы напоминаний
+- **Translation (EN):** dunning run
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Mahnlauf.*
+     ➔ Вот прогон программы напоминаний.
+  2. *Wir müssen den Mahnlauf genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: прогон программы напоминаний.
+  3. *Sind Sie mit dem Mahnlauf einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: прогон программы напоминаний?
+  4. *Wir konzentrieren uns heute auf den Mahnlauf.*
+     ➔ Сегодня мы концентрируемся на теме: прогон программы напоминаний.
+  5. *Der Mahnlauf spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Прогон программы напоминаний играет решающую роль в успехе.
+
+### 1673. der Zahllauf, die Zahlläufe [🎥 YouGlish](https://de.youglish.com/pronounce/Zahllauf/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** прогон программы платежей
+- **Translation (EN):** payment run
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Zahllauf.*
+     ➔ Вот прогон программы платежей.
+  2. *Wir müssen den Zahllauf genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: прогон программы платежей.
+  3. *Sind Sie mit dem Zahllauf einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: прогон программы платежей?
+  4. *Wir konzentrieren uns heute auf den Zahllauf.*
+     ➔ Сегодня мы концентрируемся на теме: прогон программы платежей.
+  5. *Der Zahllauf spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Прогон программы платежей играет решающую роль в успехе.
+
+### 1674. die Bankverbindung, die Bankverbindungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bankverbindung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** банковские реквизиты
+- **Translation (EN):** bank details
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bankverbindung.*
+     ➔ Вот банковские реквизиты.
+  2. *Wir müssen die Bankverbindung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: банковские реквизиты.
+  3. *Sind Sie mit der Bankverbindung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: банковские реквизиты?
+  4. *Wir konzentrieren uns heute auf die Bankverbindung.*
+     ➔ Сегодня мы концентрируемся на теме: банковские реквизиты.
+  5. *Die Bankverbindung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Банковские реквизиты играет решающую роль в успехе.
+
+### 1675. das Übergangskonto, die Übergangskonten [🎥 YouGlish](https://de.youglish.com/pronounce/%C3%9Cbergangskonto/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** транзитный счет
+- **Translation (EN):** clearing account
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Übergangskonto.*
+     ➔ Вот транзитный счет.
+  2. *Wir müssen das Übergangskonto genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: транзитный счет.
+  3. *Sind Sie mit dem Übergangskonto einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: транзитный счет?
+  4. *Wir konzentrieren uns heute auf das Übergangskonto.*
+     ➔ Сегодня мы концентрируемся на теме: транзитный счет.
+  5. *Das Übergangskonto spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Транзитный счет играет решающую роль в успехе.
+
+### 1676. die Abstimmvereinbarung, die Abstimmvereinbarungen [🎥 YouGlish](https://de.youglish.com/pronounce/Abstimmvereinbarung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** соглашение о выравнивании
+- **Translation (EN):** reconciliation agreement
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Abstimmvereinbarung.*
+     ➔ Вот соглашение о выравнивании.
+  2. *Wir müssen die Abstimmvereinbarung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: соглашение о выравнивании.
+  3. *Sind Sie mit der Abstimmvereinbarung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: соглашение о выравнивании?
+  4. *Wir konzentrieren uns heute auf die Abstimmvereinbarung.*
+     ➔ Сегодня мы концентрируемся на теме: соглашение о выравнивании.
+  5. *Die Abstimmvereinbarung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Соглашение о выравнивании играет решающую роль в успехе.
+
+### 1677. das Abstimmkonto, die Abstimmkonten [🎥 YouGlish](https://de.youglish.com/pronounce/Abstimmkonto/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** контрольный счет
+- **Translation (EN):** reconciliation account
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Abstimmkonto.*
+     ➔ Вот контрольный счет.
+  2. *Wir müssen das Abstimmkonto genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: контрольный счет.
+  3. *Sind Sie mit dem Abstimmkonto einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: контрольный счет?
+  4. *Wir konzentrieren uns heute auf das Abstimmkonto.*
+     ➔ Сегодня мы концентрируемся на теме: контрольный счет.
+  5. *Das Abstimmkonto spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Контрольный счет играет решающую роль в успехе.
+
+### 1678. der Kontenplan, die Kontenpläne [🎥 YouGlish](https://de.youglish.com/pronounce/Kontenplan/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** план счетов
+- **Translation (EN):** chart of accounts
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Kontenplan.*
+     ➔ Вот план счетов.
+  2. *Wir müssen den Kontenplan genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: план счетов.
+  3. *Sind Sie mit dem Kontenplan einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: план счетов?
+  4. *Wir konzentrieren uns heute auf den Kontenplan.*
+     ➔ Сегодня мы концентрируемся на теме: план счетов.
+  5. *Der Kontenplan spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ План счетов играет решающую роль в успехе.
+
+### 1679. die Saldovortrag, die Saldovorträge [🎥 YouGlish](https://de.youglish.com/pronounce/Saldovortrag/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** перенос сальдо
+- **Translation (EN):** balance carryforward
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Saldovortrag.*
+     ➔ Вот перенос сальдо.
+  2. *Wir müssen die Saldovortrag genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: перенос сальдо.
+  3. *Sind Sie mit der Saldovortrag einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: перенос сальдо?
+  4. *Wir konzentrieren uns heute auf die Saldovortrag.*
+     ➔ Сегодня мы концентрируемся на теме: перенос сальдо.
+  5. *Die Saldovortrag spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Перенос сальдо играет решающую роль в успехе.
+
+### 1680. die Umsatzsteuer, die Umsatzsteuern [🎥 YouGlish](https://de.youglish.com/pronounce/Umsatzsteuer/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** налог с оборота / НДС
+- **Translation (EN):** sales tax / VAT
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Umsatzsteuer.*
+     ➔ Вот налог с оборота / НДС.
+  2. *Wir müssen die Umsatzsteuer genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: налог с оборота / НДС.
+  3. *Sind Sie mit der Umsatzsteuer einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: налог с оборота / НДС?
+  4. *Wir konzentrieren uns heute auf die Umsatzsteuer.*
+     ➔ Сегодня мы концентрируемся на теме: налог с оборота / НДС.
+  5. *Die Umsatzsteuer spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Налог с оборота / НДС играет решающую роль в успехе.
+
+### 1681. die Vorsteuer, die Vorsteuern [🎥 YouGlish](https://de.youglish.com/pronounce/Vorsteuer/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** входящий НДС
+- **Translation (EN):** input tax
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Vorsteuer.*
+     ➔ Вот входящий НДС.
+  2. *Wir müssen die Vorsteuer genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: входящий НДС.
+  3. *Sind Sie mit der Vorsteuer einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: входящий НДС?
+  4. *Wir konzentrieren uns heute auf die Vorsteuer.*
+     ➔ Сегодня мы концентрируемся на теме: входящий НДС.
+  5. *Die Vorsteuer spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Входящий НДС играет решающую роль в успехе.
+
+### 1682. die Zahllast, die Zahllasten [🎥 YouGlish](https://de.youglish.com/pronounce/Zahllast/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сумма налога к уплате
+- **Translation (EN):** tax liability
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Zahllast.*
+     ➔ Вот сумма налога к уплате.
+  2. *Wir müssen die Zahllast genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сумма налога к уплате.
+  3. *Sind Sie mit der Zahllast einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сумма налога к уплате?
+  4. *Wir konzentrieren uns heute auf die Zahllast.*
+     ➔ Сегодня мы концентрируемся на теме: сумма налога к уплате.
+  5. *Die Zahllast spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сумма налога к уплате играет решающую роль в успехе.
+
+### 1683. der Buchungsbeleg, die Buchungsbelege [🎥 YouGlish](https://de.youglish.com/pronounce/Buchungsbeleg/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** бухгалтерский документ
+- **Translation (EN):** accounting document
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Buchungsbeleg.*
+     ➔ Вот бухгалтерский документ.
+  2. *Wir müssen den Buchungsbeleg genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: бухгалтерский документ.
+  3. *Sind Sie mit dem Buchungsbeleg einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: бухгалтерский документ?
+  4. *Wir konzentrieren uns heute auf den Buchungsbeleg.*
+     ➔ Сегодня мы концентрируемся на теме: бухгалтерский документ.
+  5. *Der Buchungsbeleg spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Бухгалтерский документ играет решающую роль в успехе.
+
+### 1684. das Sachkontenbuch, die Sachkontenbücher [🎥 YouGlish](https://de.youglish.com/pronounce/Sachkontenbuch/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** регистр счетов главной книги
+- **Translation (EN):** G/L ledger
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Sachkontenbuch.*
+     ➔ Вот регистр счетов главной книги.
+  2. *Wir müssen das Sachkontenbuch genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: регистр счетов главной книги.
+  3. *Sind Sie mit dem Sachkontenbuch einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: регистр счетов главной книги?
+  4. *Wir konzentrieren uns heute auf das Sachkontenbuch.*
+     ➔ Сегодня мы концентрируемся на теме: регистр счетов главной книги.
+  5. *Das Sachkontenbuch spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Регистр счетов главной книги играет решающую роль в успехе.
+
+### 1685. die Belegaufteilung, die Belegaufteilungen [🎥 YouGlish](https://de.youglish.com/pronounce/Belegaufteilung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** разделение документа (document splitting)
+- **Translation (EN):** document splitting
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Belegaufteilung.*
+     ➔ Вот разделение документа (document splitting).
+  2. *Wir müssen die Belegaufteilung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: разделение документа (document splitting).
+  3. *Sind Sie mit der Belegaufteilung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: разделение документа (document splitting)?
+  4. *Wir konzentrieren uns heute auf die Belegaufteilung.*
+     ➔ Сегодня мы концентрируемся на теме: разделение документа (document splitting).
+  5. *Die Belegaufteilung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Разделение документа (document splitting) играет решающую роль в успехе.
+
+### 1686. das Segment, die Segmente [🎥 YouGlish](https://de.youglish.com/pronounce/Segment/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сегмент
+- **Translation (EN):** segment
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Segment.*
+     ➔ Вот сегмент.
+  2. *Wir müssen das Segment genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сегмент.
+  3. *Sind Sie mit dem Segment einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сегмент?
+  4. *Wir konzentrieren uns heute auf das Segment.*
+     ➔ Сегодня мы концентрируемся на теме: сегмент.
+  5. *Das Segment spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сегмент играет решающую роль в успехе.
+
+### 1687. der Funktionsbereich, die Funktionsbereiche [🎥 YouGlish](https://de.youglish.com/pronounce/Funktionsbereich/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** функциональная сфера
+- **Translation (EN):** functional area
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Funktionsbereich.*
+     ➔ Вот функциональная сфера.
+  2. *Wir müssen den Funktionsbereich genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: функциональная сфера.
+  3. *Sind Sie mit dem Funktionsbereich einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: функциональная сфера?
+  4. *Wir konzentrieren uns heute auf den Funktionsbereich.*
+     ➔ Сегодня мы концентрируемся на теме: функциональная сфера.
+  5. *Der Funktionsbereich spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Функциональная сфера играет решающую роль в успехе.
+
+### 1688. die Konzernwährung, die Konzernwährungen [🎥 YouGlish](https://de.youglish.com/pronounce/Konzernw%C3%A4hrung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** концерновая валюта
+- **Translation (EN):** group currency
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Konzernwährung.*
+     ➔ Вот концерновая валюта.
+  2. *Wir müssen die Konzernwährung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: концерновая валюта.
+  3. *Sind Sie mit der Konzernwährung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: концерновая валюта?
+  4. *Wir konzentrieren uns heute auf die Konzernwährung.*
+     ➔ Сегодня мы концентрируемся на теме: концерновая валюта.
+  5. *Die Konzernwährung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Концерновая валюта играет решающую роль в успехе.
+
+### 1689. die Kreiswährung, die Kreiswährungen [🎥 YouGlish](https://de.youglish.com/pronounce/Kreisw%C3%A4hrung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** местная валюта
+- **Translation (EN):** local currency
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Kreiswährung.*
+     ➔ Вот местная валюта.
+  2. *Wir müssen die Kreiswährung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: местная валюта.
+  3. *Sind Sie mit der Kreiswährung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: местная валюта?
+  4. *Wir konzentrieren uns heute auf die Kreiswährung.*
+     ➔ Сегодня мы концентрируемся на теме: местная валюта.
+  5. *Die Kreiswährung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Местная валюта играет решающую роль в успехе.
+
+### 1690. die Fremdwährung, die Fremdwährungen [🎥 YouGlish](https://de.youglish.com/pronounce/Fremdw%C3%A4hrung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** иностранная валюта
+- **Translation (EN):** foreign currency
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Fremdwährung.*
+     ➔ Вот иностранная валюта.
+  2. *Wir müssen die Fremdwährung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: иностранная валюта.
+  3. *Sind Sie mit der Fremdwährung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: иностранная валюта?
+  4. *Wir konzentrieren uns heute auf die Fremdwährung.*
+     ➔ Сегодня мы концентрируемся на теме: иностранная валюта.
+  5. *Die Fremdwährung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Иностранная валюта играет решающую роль в успехе.
+
+### 1691. die Fremdwährungsbewertung, die Bewertungen [🎥 YouGlish](https://de.youglish.com/pronounce/Fremdw%C3%A4hrungsbewertung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** оценка в иностранной валюте
+- **Translation (EN):** foreign currency valuation
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Fremdwährungsbewertung.*
+     ➔ Вот оценка в иностранной валюте.
+  2. *Wir müssen die Fremdwährungsbewertung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: оценка в иностранной валюте.
+  3. *Sind Sie mit der Fremdwährungsbewertung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: оценка в иностранной валюте?
+  4. *Wir konzentrieren uns heute auf die Fremdwährungsbewertung.*
+     ➔ Сегодня мы концентрируемся на теме: оценка в иностранной валюте.
+  5. *Die Fremdwährungsbewertung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Оценка в иностранной валюте играет решающую роль в успехе.
+
+### 1692. das Kursdifferenzkonto, die Kursdifferenzkonten [🎥 YouGlish](https://de.youglish.com/pronounce/Kursdifferenzkonto/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** счет курсовых разниц
+- **Translation (EN):** exchange rate difference account
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Kursdifferenzkonto.*
+     ➔ Вот счет курсовых разниц.
+  2. *Wir müssen das Kursdifferenzkonto genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: счет курсовых разниц.
+  3. *Sind Sie mit dem Kursdifferenzkonto einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: счет курсовых разниц?
+  4. *Wir konzentrieren uns heute auf das Kursdifferenzkonto.*
+     ➔ Сегодня мы концентрируемся на теме: счет курсовых разниц.
+  5. *Das Kursdifferenzkonto spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Счет курсовых разниц играет решающую роль в успехе.
+
+### 1693. das Intercompany-Geschäft, die Geschäfte [🎥 YouGlish](https://de.youglish.com/pronounce/Intercompany-Gesch%C3%A4ft/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** межфилиальные / межкомпанейские сделки
+- **Translation (EN):** intercompany transaction
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Intercompany-Geschäft.*
+     ➔ Вот межфилиальные / межкомпанейские сделки.
+  2. *Wir müssen das Intercompany-Geschäft genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: межфилиальные / межкомпанейские сделки.
+  3. *Sind Sie mit dem Intercompany-Geschäft einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: межфилиальные / межкомпанейские сделки?
+  4. *Wir konzentrieren uns heute auf das Intercompany-Geschäft.*
+     ➔ Сегодня мы концентрируемся на теме: межфилиальные / межкомпанейские сделки.
+  5. *Das Intercompany-Geschäft spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Межфилиальные / межкомпанейские сделки играет решающую роль в успехе.
+
+### 1694. die Verrechnung, die Verrechnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Verrechnung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** взаимозачет / аллокация / распределение
+- **Translation (EN):** allocation / clearing
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Verrechnung.*
+     ➔ Вот взаимозачет / аллокация / распределение.
+  2. *Wir müssen die Verrechnung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: взаимозачет / аллокация / распределение.
+  3. *Sind Sie mit der Verrechnung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: взаимозачет / аллокация / распределение?
+  4. *Wir konzentrieren uns heute auf die Verrechnung.*
+     ➔ Сегодня мы концентрируемся на теме: взаимозачет / аллокация / распределение.
+  5. *Die Verrechnung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Взаимозачет / аллокация / распределение играет решающую роль в успехе.
+
+### 1695. die Kostenstellen-Gruppe, die Gruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Kostenstellen-Gruppe/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** группа мест возникновения затрат
+- **Translation (EN):** cost center group
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Kostenstellen-Gruppe.*
+     ➔ Вот группа мест возникновения затрат.
+  2. *Wir müssen die Kostenstellen-Gruppe genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: группа мест возникновения затрат.
+  3. *Sind Sie mit der Kostenstellen-Gruppe einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: группа мест возникновения затрат?
+  4. *Wir konzentrieren uns heute auf die Kostenstellen-Gruppe.*
+     ➔ Сегодня мы концентрируемся на теме: группа мест возникновения затрат.
+  5. *Die Kostenstellen-Gruppe spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Группа мест возникновения затрат играет решающую роль в успехе.
+
+### 1696. die Profit-Center-Gruppe, die Gruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Profit-Center-Gruppe/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** группа центров прибыли
+- **Translation (EN):** profit center group
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Profit-Center-Gruppe.*
+     ➔ Вот группа центров прибыли.
+  2. *Wir müssen die Profit-Center-Gruppe genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: группа центров прибыли.
+  3. *Sind Sie mit der Profit-Center-Gruppe einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: группа центров прибыли?
+  4. *Wir konzentrieren uns heute auf die Profit-Center-Gruppe.*
+     ➔ Сегодня мы концентрируемся на теме: группа центров прибыли.
+  5. *Die Profit-Center-Gruppe spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Группа центров прибыли играет решающую роль в успехе.
+
+### 1697. die Standardhierarchie, die Standardhierarchien [🎥 YouGlish](https://de.youglish.com/pronounce/Standardhierarchie/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** стандартная иерархия
+- **Translation (EN):** standard hierarchy
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Standardhierarchie.*
+     ➔ Вот стандартная иерархия.
+  2. *Wir müssen die Standardhierarchie genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: стандартная иерархия.
+  3. *Sind Sie mit der Standardhierarchie einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: стандартная иерархия?
+  4. *Wir konzentrieren uns heute auf die Standardhierarchie.*
+     ➔ Сегодня мы концентрируемся на теме: стандартная иерархия.
+  5. *Die Standardhierarchie spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Стандартная иерархия играет решающую роль в успехе.
+
+### 1698. die Plankalkulation, die Plankalkulationen [🎥 YouGlish](https://de.youglish.com/pronounce/Plankalkulation/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** плановая калькуляция
+- **Translation (EN):** planned costing
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Plankalkulation.*
+     ➔ Вот плановая калькуляция.
+  2. *Wir müssen die Plankalkulation genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: плановая калькуляция.
+  3. *Sind Sie mit der Plankalkulation einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: плановая калькуляция?
+  4. *Wir konzentrieren uns heute auf die Plankalkulation.*
+     ➔ Сегодня мы концентрируемся на теме: плановая калькуляция.
+  5. *Die Plankalkulation spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Плановая калькуляция играет решающую роль в успехе.
+
+### 1699. die Istkalkulation, die Istkalkulationen [🎥 YouGlish](https://de.youglish.com/pronounce/Istkalkulation/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** фактическая калькуляция
+- **Translation (EN):** actual costing
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Istkalkulation.*
+     ➔ Вот фактическая калькуляция.
+  2. *Wir müssen die Istkalkulation genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: фактическая калькуляция.
+  3. *Sind Sie mit der Istkalkulation einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: фактическая калькуляция?
+  4. *Wir konzentrieren uns heute auf die Istkalkulation.*
+     ➔ Сегодня мы концентрируемся на теме: фактическая калькуляция.
+  5. *Die Istkalkulation spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Фактическая калькуляция играет решающую роль в успехе.
+
+### 1700. die Tarifermittlung, die Tarifermittlungen [🎥 YouGlish](https://de.youglish.com/pronounce/Tarifermittlung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** расчет тарифа
+- **Translation (EN):** activity price calculation
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Tarifermittlung.*
+     ➔ Вот расчет тарифа.
+  2. *Wir müssen die Tarifermittlung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: расчет тарифа.
+  3. *Sind Sie mit der Tarifermittlung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: расчет тарифа?
+  4. *Wir konzentrieren uns heute auf die Tarifermittlung.*
+     ➔ Сегодня мы концентрируемся на теме: расчет тарифа.
+  5. *Die Tarifermittlung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Расчет тарифа играет решающую роль в успехе.
+
+### 1701. die Abweichungsanalyse, die Abweichungsanalysen [🎥 YouGlish](https://de.youglish.com/pronounce/Abweichungsanalyse/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** анализ отклонений
+- **Translation (EN):** variance analysis
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Abweichungsanalyse.*
+     ➔ Вот анализ отклонений.
+  2. *Wir müssen die Abweichungsanalyse genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: анализ отклонений.
+  3. *Sind Sie mit der Abweichungsanalyse einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: анализ отклонений?
+  4. *Wir konzentrieren uns heute auf die Abweichungsanalyse.*
+     ➔ Сегодня мы концентрируемся на теме: анализ отклонений.
+  5. *Die Abweichungsanalyse spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Анализ отклонений играет решающую роль в успехе.
+
+### 1702. die Deckungsbeitragsrechnung, die Rechnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Deckungsbeitragsrechnung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** учет сумм покрытия (маржинальный доход)
+- **Translation (EN):** contribution margin accounting
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Deckungsbeitragsrechnung.*
+     ➔ Вот учет сумм покрытия (маржинальный доход).
+  2. *Wir müssen die Deckungsbeitragsrechnung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: учет сумм покрытия (маржинальный доход).
+  3. *Sind Sie mit der Deckungsbeitragsrechnung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: учет сумм покрытия (маржинальный доход)?
+  4. *Wir konzentrieren uns heute auf die Deckungsbeitragsrechnung.*
+     ➔ Сегодня мы концентрируемся на теме: учет сумм покрытия (маржинальный доход).
+  5. *Die Deckungsbeitragsrechnung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Учет сумм покрытия (маржинальный доход) играет решающую роль в успехе.
+
+### 1703. der Buchungsschlüssel, die Buchungsschlüssel [🎥 YouGlish](https://de.youglish.com/pronounce/Buchungsschl%C3%BCssel/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** ключ проводки
+- **Translation (EN):** posting key
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Buchungsschlüssel.*
+     ➔ Вот ключ проводки.
+  2. *Wir müssen den Buchungsschlüssel genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: ключ проводки.
+  3. *Sind Sie mit dem Buchungsschlüssel einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: ключ проводки?
+  4. *Wir konzentrieren uns heute auf den Buchungsschlüssel.*
+     ➔ Сегодня мы концентрируемся на теме: ключ проводки.
+  5. *Der Buchungsschlüssel spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Ключ проводки играет решающую роль в успехе.
+
+### 1704. die Abstimmungsarbeit, die Abstimmungsarbeiten [🎥 YouGlish](https://de.youglish.com/pronounce/Abstimmungsarbeit/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** работа по согласованию / сверке
+- **Translation (EN):** reconciliation work
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Abstimmungsarbeit.*
+     ➔ Вот работа по согласованию / сверке.
+  2. *Wir müssen die Abstimmungsarbeit genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: работа по согласованию / сверке.
+  3. *Sind Sie mit der Abstimmungsarbeit einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: работа по согласованию / сверке?
+  4. *Wir konzentrieren uns heute auf die Abstimmungsarbeit.*
+     ➔ Сегодня мы концентрируемся на теме: работа по согласованию / сверке.
+  5. *Die Abstimmungsarbeit spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Работа по согласованию / сверке играет решающую роль в успехе.
+
+### 1705. die Abschlussarbeiten, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/Abschlussarbeiten/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** операции закрытия периода
+- **Translation (EN):** closing operations
+- **Примеры использования (Beispiele):**
+  1. *Hier sind die Abschlussarbeiten.*
+     ➔ Вот операции закрытия периода.
+  2. *Wir müssen die Abschlussarbeiten genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: операции закрытия периода.
+  3. *Sind Sie mit den Abschlussarbeiten einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: операции закрытия периода?
+  4. *Wir konzentrieren uns heute auf die Abschlussarbeiten.*
+     ➔ Сегодня мы концентрируемся на теме: операции закрытия периода.
+  5. *Die Abschlussarbeiten spielen eine entscheidende Rolle für den Erfolg.*
+     ➔ Операции закрытия периода играет решающую роль в успехе.
+
+### 1706. der Monatsabschluss, die Monatsabschlüsse [🎥 YouGlish](https://de.youglish.com/pronounce/Monatsabschluss/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** закрытие месяца
+- **Translation (EN):** month-end closing
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Monatsabschluss.*
+     ➔ Вот закрытие месяца.
+  2. *Wir müssen den Monatsabschluss genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: закрытие месяца.
+  3. *Sind Sie mit dem Monatsabschluss einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: закрытие месяца?
+  4. *Wir konzentrieren uns heute auf den Monatsabschluss.*
+     ➔ Сегодня мы концентрируемся на теме: закрытие месяца.
+  5. *Der Monatsabschluss spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Закрытие месяца играет решающую роль в успехе.
+
+### 1707. der Jahresabschluss, die Jahresabschlüsse [🎥 YouGlish](https://de.youglish.com/pronounce/Jahresabschluss/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** закрытие года
+- **Translation (EN):** year-end closing
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Jahresabschluss.*
+     ➔ Вот закрытие года.
+  2. *Wir müssen den Jahresabschluss genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: закрытие года.
+  3. *Sind Sie mit dem Jahresabschluss einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: закрытие года?
+  4. *Wir konzentrieren uns heute auf den Jahresabschluss.*
+     ➔ Сегодня мы концентрируемся на теме: закрытие года.
+  5. *Der Jahresabschluss spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Закрытие года играет решающую роль в успехе.
+
+### 1708. das Kreditlimit, die Kreditlimits [🎥 YouGlish](https://de.youglish.com/pronounce/Kreditlimit/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** кредитный лимит
+- **Translation (EN):** credit limit
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Kreditlimit.*
+     ➔ Вот кредитный лимит.
+  2. *Wir müssen das Kreditlimit genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: кредитный лимит.
+  3. *Sind Sie mit dem Kreditlimit einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: кредитный лимит?
+  4. *Wir konzentrieren uns heute auf das Kreditlimit.*
+     ➔ Сегодня мы концентрируемся на теме: кредитный лимит.
+  5. *Das Kreditlimit spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Кредитный лимит играет решающую роль в успехе.
+
+### 1709. die Kreditkontrolle, die Kreditkontrollen [🎥 YouGlish](https://de.youglish.com/pronounce/Kreditkontrolle/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** кредитный контроль
+- **Translation (EN):** credit control
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Kreditkontrolle.*
+     ➔ Вот кредитный контроль.
+  2. *Wir müssen die Kreditkontrolle genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: кредитный контроль.
+  3. *Sind Sie mit der Kreditkontrolle einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: кредитный контроль?
+  4. *Wir konzentrieren uns heute auf die Kreditkontrolle.*
+     ➔ Сегодня мы концентрируемся на теме: кредитный контроль.
+  5. *Die Kreditkontrolle spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Кредитный контроль играет решающую роль в успехе.
+
+### 1710. der Zahlungsbeleg, die Zahlungsbelege [🎥 YouGlish](https://de.youglish.com/pronounce/Zahlungsbeleg/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** платежный документ
+- **Translation (EN):** payment document
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Zahlungsbeleg.*
+     ➔ Вот платежный документ.
+  2. *Wir müssen den Zahlungsbeleg genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: платежный документ.
+  3. *Sind Sie mit dem Zahlungsbeleg einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: платежный документ?
+  4. *Wir konzentrieren uns heute auf den Zahlungsbeleg.*
+     ➔ Сегодня мы концентрируемся на теме: платежный документ.
+  5. *Der Zahlungsbeleg spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Платежный документ играет решающую роль в успехе.
+
+### 1711. die Zahlungsbedingung, die Zahlungsbedingungen [🎥 YouGlish](https://de.youglish.com/pronounce/Zahlungsbedingung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** условие платежа
+- **Translation (EN):** terms of payment
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Zahlungsbedingung.*
+     ➔ Вот условие платежа.
+  2. *Wir müssen die Zahlungsbedingung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: условие платежа.
+  3. *Sind Sie mit der Zahlungsbedingung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: условие платежа?
+  4. *Wir konzentrieren uns heute auf die Zahlungsbedingung.*
+     ➔ Сегодня мы концентрируемся на теме: условие платежа.
+  5. *Die Zahlungsbedingung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Условие платежа играет решающую роль в успехе.
+
+### 1712. das Skonto, die Skontos [🎥 YouGlish](https://de.youglish.com/pronounce/Skonto/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** скидка за быструю оплату
+- **Translation (EN):** cash discount
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Skonto.*
+     ➔ Вот скидка за быструю оплату.
+  2. *Wir müssen das Skonto genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: скидка за быструю оплату.
+  3. *Sind Sie mit dem Skonto einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: скидка за быструю оплату?
+  4. *Wir konzentrieren uns heute auf das Skonto.*
+     ➔ Сегодня мы концентрируемся на теме: скидка за быструю оплату.
+  5. *Das Skonto spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Скидка за быструю оплату играет решающую роль в успехе.
+
+### 1713. der Verzugszins, die Verzugszinsen [🎥 YouGlish](https://de.youglish.com/pronounce/Verzugszins/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** процент за просрочку платежа
+- **Translation (EN):** interest on arrears
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Verzugszins.*
+     ➔ Вот процент за просрочку платежа.
+  2. *Wir müssen den Verzugszins genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: процент за просрочку платежа.
+  3. *Sind Sie mit dem Verzugszins einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: процент за просрочку платежа?
+  4. *Wir konzentrieren uns heute auf den Verzugszins.*
+     ➔ Сегодня мы концентрируемся на теме: процент за просрочку платежа.
+  5. *Der Verzugszins spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Процент за просрочку платежа играет решающую роль в успехе.
+
+### 1714. die Wertberichtigung, die Wertberichtigungen [🎥 YouGlish](https://de.youglish.com/pronounce/Wertberichtigung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** корректировка стоимости
+- **Translation (EN):** value adjustment
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Wertberichtigung.*
+     ➔ Вот корректировка стоимости.
+  2. *Wir müssen die Wertberichtigung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: корректировка стоимости.
+  3. *Sind Sie mit der Wertberichtigung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: корректировка стоимости?
+  4. *Wir konzentrieren uns heute auf die Wertberichtigung.*
+     ➔ Сегодня мы концентрируемся на теме: корректировка стоимости.
+  5. *Die Wertberichtigung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Корректировка стоимости играет решающую роль в успехе.
+
+### 1715. die Rechnungsabgrenzung, die Rechnungsabgrenzungen [🎥 YouGlish](https://de.youglish.com/pronounce/Rechnungsabgrenzung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** разграничение доходов и расходов
+- **Translation (EN):** accruals and deferrals
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Rechnungsabgrenzung.*
+     ➔ Вот разграничение доходов и расходов.
+  2. *Wir müssen die Rechnungsabgrenzung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: разграничение доходов и расходов.
+  3. *Sind Sie mit der Rechnungsabgrenzung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: разграничение доходов и расходов?
+  4. *Wir konzentrieren uns heute auf die Rechnungsabgrenzung.*
+     ➔ Сегодня мы концентрируемся на теме: разграничение доходов и расходов.
+  5. *Die Rechnungsabgrenzung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Разграничение доходов и расходов играет решающую роль в успехе.
+
+### 1716. die Anzahlungsanforderung, die Anzahlungsanforderungen [🎥 YouGlish](https://de.youglish.com/pronounce/Anzahlungsanforderung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** запрос авансового платежа
+- **Translation (EN):** down payment request
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Anzahlungsanforderung.*
+     ➔ Вот запрос авансового платежа.
+  2. *Wir müssen die Anzahlungsanforderung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: запрос авансового платежа.
+  3. *Sind Sie mit der Anzahlungsanforderung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: запрос авансового платежа?
+  4. *Wir konzentrieren uns heute auf die Anzahlungsanforderung.*
+     ➔ Сегодня мы концентрируемся на теме: запрос авансового платежа.
+  5. *Die Anzahlungsanforderung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Запрос авансового платежа играет решающую роль в успехе.
+
+### 1717. die Umsatzsteuer-Voranmeldung, die Voranmeldungen [🎥 YouGlish](https://de.youglish.com/pronounce/Umsatzsteuer-Voranmeldung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** предварительная декларация по НДС
+- **Translation (EN):** advance return for tax on sales/purchases
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Umsatzsteuer-Voranmeldung.*
+     ➔ Вот предварительная декларация по НДС.
+  2. *Wir müssen die Umsatzsteuer-Voranmeldung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: предварительная декларация по НДС.
+  3. *Sind Sie mit der Umsatzsteuer-Voranmeldung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: предварительная декларация по НДС?
+  4. *Wir konzentrieren uns heute auf die Umsatzsteuer-Voranmeldung.*
+     ➔ Сегодня мы концентрируемся на теме: предварительная декларация по НДС.
+  5. *Die Umsatzsteuer-Voranmeldung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Предварительная декларация по НДС играет решающую роль в успехе.
+
+### 1718. das Steuerkennzeichen, die Steuerkennzeichen [🎥 YouGlish](https://de.youglish.com/pronounce/Steuerkennzeichen/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** код налога
+- **Translation (EN):** tax code
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Steuerkennzeichen.*
+     ➔ Вот код налога.
+  2. *Wir müssen das Steuerkennzeichen genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: код налога.
+  3. *Sind Sie mit dem Steuerkennzeichen einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: код налога?
+  4. *Wir konzentrieren uns heute auf das Steuerkennzeichen.*
+     ➔ Сегодня мы концентрируемся на теме: код налога.
+  5. *Das Steuerkennzeichen spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Код налога играет решающую роль в успехе.
+
+### 1719. die Anlagenklasse, die Anlagenklassen [🎥 YouGlish](https://de.youglish.com/pronounce/Anlagenklasse/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** класс основных средств
+- **Translation (EN):** asset class
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Anlagenklasse.*
+     ➔ Вот класс основных средств.
+  2. *Wir müssen die Anlagenklasse genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: класс основных средств.
+  3. *Sind Sie mit der Anlagenklasse einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: класс основных средств?
+  4. *Wir konzentrieren uns heute auf die Anlagenklasse.*
+     ➔ Сегодня мы концентрируемся на теме: класс основных средств.
+  5. *Die Anlagenklasse spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Класс основных средств играет решающую роль в успехе.
+
+### 1720. die Nutzungsdauer, die Nutzungsdauern [🎥 YouGlish](https://de.youglish.com/pronounce/Nutzungsdauer/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** срок полезного использования
+- **Translation (EN):** useful life
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Nutzungsdauer.*
+     ➔ Вот срок полезного использования.
+  2. *Wir müssen die Nutzungsdauer genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: срок полезного использования.
+  3. *Sind Sie mit der Nutzungsdauer einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: срок полезного использования?
+  4. *Wir konzentrieren uns heute auf die Nutzungsdauer.*
+     ➔ Сегодня мы концентрируемся на теме: срок полезного использования.
+  5. *Die Nutzungsdauer spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Срок полезного использования играет решающую роль в успехе.
+
+### 1721. der Abschreibungsbereich, die Abschreibungsbereiche [🎥 YouGlish](https://de.youglish.com/pronounce/Abschreibungsbereich/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** область амортизации
+- **Translation (EN):** depreciation area
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Abschreibungsbereich.*
+     ➔ Вот область амортизации.
+  2. *Wir müssen den Abschreibungsbereich genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: область амортизации.
+  3. *Sind Sie mit dem Abschreibungsbereich einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: область амортизации?
+  4. *Wir konzentrieren uns heute auf den Abschreibungsbereich.*
+     ➔ Сегодня мы концентрируемся на теме: область амортизации.
+  5. *Der Abschreibungsbereich spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Область амортизации играет решающую роль в успехе.
+
+### 1722. der Abschreibungsschlüssel, die Abschreibungsschlüssel [🎥 YouGlish](https://de.youglish.com/pronounce/Abschreibungsschl%C3%BCssel/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** код амортизации
+- **Translation (EN):** depreciation key
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Abschreibungsschlüssel.*
+     ➔ Вот код амортизации.
+  2. *Wir müssen den Abschreibungsschlüssel genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: код амортизации.
+  3. *Sind Sie mit dem Abschreibungsschlüssel einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: код амортизации?
+  4. *Wir konzentrieren uns heute auf den Abschreibungsschlüssel.*
+     ➔ Сегодня мы концентрируемся на теме: код амортизации.
+  5. *Der Abschreibungsschlüssel spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Код амортизации играет решающую роль в успехе.
+
+
+---
+
+## <a name="materialwirtschaft--bestandsbewertung-mmml"></a>Materialwirtschaft & Bestandsbewertung (MM/ML)
+
+### 1723. das Material-Ledger, die Material-Ledger [🎥 YouGlish](https://de.youglish.com/pronounce/Material-Ledger/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** регистр материалов
+- **Translation (EN):** material ledger
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Material-Ledger.*
+     ➔ Вот регистр материалов.
+  2. *Wir müssen das Material-Ledger genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: регистр материалов.
+  3. *Sind Sie mit dem Material-Ledger einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: регистр материалов?
+  4. *Wir konzentrieren uns heute auf das Material-Ledger.*
+     ➔ Сегодня мы концентрируемся на теме: регистр материалов.
+  5. *Das Material-Ledger spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Регистр материалов играет решающую роль в успехе.
+
+### 1724. die Materialbewertung, die Materialbewertungen [🎥 YouGlish](https://de.youglish.com/pronounce/Materialbewertung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** оценка материала
+- **Translation (EN):** material valuation
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Materialbewertung.*
+     ➔ Вот оценка материала.
+  2. *Wir müssen die Materialbewertung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: оценка материала.
+  3. *Sind Sie mit der Materialbewertung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: оценка материала?
+  4. *Wir konzentrieren uns heute auf die Materialbewertung.*
+     ➔ Сегодня мы концентрируемся на теме: оценка материала.
+  5. *Die Materialbewertung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Оценка материала играет решающую роль в успехе.
+
+### 1725. der gleitende Durchschnittspreis, die Durchschnittspreise [🎥 YouGlish](https://de.youglish.com/pronounce/gleitende%20Durchschnittspreis/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** среднескользящая цена
+- **Translation (EN):** moving average price
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der gleitende Durchschnittspreis.*
+     ➔ Вот среднескользящая цена.
+  2. *Wir müssen den gleitende Durchschnittspreis genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: среднескользящая цена.
+  3. *Sind Sie mit dem gleitende Durchschnittspreis einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: среднескользящая цена?
+  4. *Wir konzentrieren uns heute auf den gleitende Durchschnittspreis.*
+     ➔ Сегодня мы концентрируемся на теме: среднескользящая цена.
+  5. *Der gleitende Durchschnittspreis spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Среднескользящая цена играет решающую роль в успехе.
+
+### 1726. der Standardpreis, die Standardpreise [🎥 YouGlish](https://de.youglish.com/pronounce/Standardpreis/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** стандартная цена
+- **Translation (EN):** standard price
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Standardpreis.*
+     ➔ Вот стандартная цена.
+  2. *Wir müssen den Standardpreis genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: стандартная цена.
+  3. *Sind Sie mit dem Standardpreis einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: стандартная цена?
+  4. *Wir konzentrieren uns heute auf den Standardpreis.*
+     ➔ Сегодня мы концентрируемся на теме: стандартная цена.
+  5. *Der Standardpreis spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Стандартная цена играет решающую роль в успехе.
+
+### 1727. die Preissteuerung, die Preissteuerungen [🎥 YouGlish](https://de.youglish.com/pronounce/Preissteuerung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** управление ценой
+- **Translation (EN):** price control
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Preissteuerung.*
+     ➔ Вот управление ценой.
+  2. *Wir müssen die Preissteuerung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: управление ценой.
+  3. *Sind Sie mit der Preissteuerung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: управление ценой?
+  4. *Wir konzentrieren uns heute auf die Preissteuerung.*
+     ➔ Сегодня мы концентрируемся на теме: управление ценой.
+  5. *Die Preissteuerung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Управление ценой играет решающую роль в успехе.
+
+### 1728. die Umbewertung, die Umbewertungen [🎥 YouGlish](https://de.youglish.com/pronounce/Umbewertung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** переоценка
+- **Translation (EN):** revaluation
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Umbewertung.*
+     ➔ Вот переоценка.
+  2. *Wir müssen die Umbewertung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: переоценка.
+  3. *Sind Sie mit der Umbewertung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: переоценка?
+  4. *Wir konzentrieren uns heute auf die Umbewertung.*
+     ➔ Сегодня мы концентрируемся на теме: переоценка.
+  5. *Die Umbewertung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Переоценка играет решающую роль в успехе.
+
+### 1729. die Ist-Kalkulation, die Ist-Kalkulationen [🎥 YouGlish](https://de.youglish.com/pronounce/Ist-Kalkulation/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** фактическая калькуляция
+- **Translation (EN):** actual costing
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Ist-Kalkulation.*
+     ➔ Вот фактическая калькуляция.
+  2. *Wir müssen die Ist-Kalkulation genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: фактическая калькуляция.
+  3. *Sind Sie mit der Ist-Kalkulation einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: фактическая калькуляция?
+  4. *Wir konzentrieren uns heute auf die Ist-Kalkulation.*
+     ➔ Сегодня мы концентрируемся на теме: фактическая калькуляция.
+  5. *Die Ist-Kalkulation spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Фактическая калькуляция играет решающую роль в успехе.
+
+### 1730. der Materialbeleg, die Materialbelege [🎥 YouGlish](https://de.youglish.com/pronounce/Materialbeleg/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** документ материала
+- **Translation (EN):** material document
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Materialbeleg.*
+     ➔ Вот документ материала.
+  2. *Wir müssen den Materialbeleg genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: документ материала.
+  3. *Sind Sie mit dem Materialbeleg einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: документ материала?
+  4. *Wir konzentrieren uns heute auf den Materialbeleg.*
+     ➔ Сегодня мы концентрируемся на теме: документ материала.
+  5. *Der Materialbeleg spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Документ материала играет решающую роль в успехе.
+
+### 1731. die Materialart, die Materialarten [🎥 YouGlish](https://de.youglish.com/pronounce/Materialart/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** вид материала
+- **Translation (EN):** material type
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Materialart.*
+     ➔ Вот вид материала.
+  2. *Wir müssen die Materialart genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: вид материала.
+  3. *Sind Sie mit der Materialart einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: вид материала?
+  4. *Wir konzentrieren uns heute auf die Materialart.*
+     ➔ Сегодня мы концентрируемся на теме: вид материала.
+  5. *Die Materialart spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Вид материала играет решающую роль в успехе.
+
+### 1732. die Warengruppe, die Warengruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Warengruppe/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** товарная группа
+- **Translation (EN):** material group
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Warengruppe.*
+     ➔ Вот товарная группа.
+  2. *Wir müssen die Warengruppe genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: товарная группа.
+  3. *Sind Sie mit der Warengruppe einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: товарная группа?
+  4. *Wir konzentrieren uns heute auf die Warengruppe.*
+     ➔ Сегодня мы концентрируемся на теме: товарная группа.
+  5. *Die Warengruppe spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Товарная группа играет решающую роль в успехе.
+
+### 1733. die Bewertungsebene, die Bewertungsebenen [🎥 YouGlish](https://de.youglish.com/pronounce/Bewertungsebene/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** уровень оценки
+- **Translation (EN):** valuation level
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bewertungsebene.*
+     ➔ Вот уровень оценки.
+  2. *Wir müssen die Bewertungsebene genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: уровень оценки.
+  3. *Sind Sie mit der Bewertungsebene einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: уровень оценки?
+  4. *Wir konzentrieren uns heute auf die Bewertungsebene.*
+     ➔ Сегодня мы концентрируемся на теме: уровень оценки.
+  5. *Die Bewertungsebene spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Уровень оценки играет решающую роль в успехе.
+
+### 1734. der Bewertungskreis, die Bewertungskreise [🎥 YouGlish](https://de.youglish.com/pronounce/Bewertungskreis/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** область оценки
+- **Translation (EN):** valuation area
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Bewertungskreis.*
+     ➔ Вот область оценки.
+  2. *Wir müssen den Bewertungskreis genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: область оценки.
+  3. *Sind Sie mit dem Bewertungskreis einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: область оценки?
+  4. *Wir konzentrieren uns heute auf den Bewertungskreis.*
+     ➔ Сегодня мы концентрируемся на теме: область оценки.
+  5. *Der Bewertungskreis spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Область оценки играет решающую роль в успехе.
+
+### 1735. die Bewertungsklasse, die Bewertungsklassen [🎥 YouGlish](https://de.youglish.com/pronounce/Bewertungsklasse/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** класс оценки
+- **Translation (EN):** valuation class
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bewertungsklasse.*
+     ➔ Вот класс оценки.
+  2. *Wir müssen die Bewertungsklasse genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: класс оценки.
+  3. *Sind Sie mit der Bewertungsklasse einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: класс оценки?
+  4. *Wir konzentrieren uns heute auf die Bewertungsklasse.*
+     ➔ Сегодня мы концентрируемся на теме: класс оценки.
+  5. *Die Bewertungsklasse spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Класс оценки играет решающую роль в успехе.
+
+### 1736. die Kontenfindung, die Kontenfindungen [🎥 YouGlish](https://de.youglish.com/pronounce/Kontenfindung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** определение счетов
+- **Translation (EN):** account determination
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Kontenfindung.*
+     ➔ Вот определение счетов.
+  2. *Wir müssen die Kontenfindung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: определение счетов.
+  3. *Sind Sie mit der Kontenfindung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: определение счетов?
+  4. *Wir konzentrieren uns heute auf die Kontenfindung.*
+     ➔ Сегодня мы концентрируемся на теме: определение счетов.
+  5. *Die Kontenfindung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Определение счетов играет решающую роль в успехе.
+
+### 1737. die automatische Kontenfindung, die Kontenfindungen [🎥 YouGlish](https://de.youglish.com/pronounce/automatische%20Kontenfindung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** автоматический выбор счетов
+- **Translation (EN):** automatic account determination
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die automatische Kontenfindung.*
+     ➔ Вот автоматический выбор счетов.
+  2. *Wir müssen die automatische Kontenfindung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: автоматический выбор счетов.
+  3. *Sind Sie mit der automatische Kontenfindung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: автоматический выбор счетов?
+  4. *Wir konzentrieren uns heute auf die automatische Kontenfindung.*
+     ➔ Сегодня мы концентрируемся на теме: автоматический выбор счетов.
+  5. *Die automatische Kontenfindung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Автоматический выбор счетов играет решающую роль в успехе.
+
+### 1738. der Lagerort, die Lagerorte [🎥 YouGlish](https://de.youglish.com/pronounce/Lagerort/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** склад / место хранения
+- **Translation (EN):** storage location
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Lagerort.*
+     ➔ Вот склад / место хранения.
+  2. *Wir müssen den Lagerort genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: склад / место хранения.
+  3. *Sind Sie mit dem Lagerort einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: склад / место хранения?
+  4. *Wir konzentrieren uns heute auf den Lagerort.*
+     ➔ Сегодня мы концентрируемся на теме: склад / место хранения.
+  5. *Der Lagerort spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Склад / место хранения играет решающую роль в успехе.
+
+### 1739. das Werk, die Werke [🎥 YouGlish](https://de.youglish.com/pronounce/Werk/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** завод
+- **Translation (EN):** plant
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Werk.*
+     ➔ Вот завод.
+  2. *Wir müssen das Werk genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: завод.
+  3. *Sind Sie mit dem Werk einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: завод?
+  4. *Wir konzentrieren uns heute auf das Werk.*
+     ➔ Сегодня мы концентрируемся на теме: завод.
+  5. *Das Werk spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Завод играет решающую роль в успехе.
+
+### 1740. die Bestandsveränderung, die Bestandsveränderungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bestandsver%C3%A4nderung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** изменение запасов
+- **Translation (EN):** changes in inventories
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bestandsveränderung.*
+     ➔ Вот изменение запасов.
+  2. *Wir müssen die Bestandsveränderung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: изменение запасов.
+  3. *Sind Sie mit der Bestandsveränderung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: изменение запасов?
+  4. *Wir konzentrieren uns heute auf die Bestandsveränderung.*
+     ➔ Сегодня мы концентрируемся на теме: изменение запасов.
+  5. *Die Bestandsveränderung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Изменение запасов играет решающую роль в успехе.
+
+### 1741. die Bestandsbuchung, die Bestandsbuchungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bestandsbuchung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** проводка запасов
+- **Translation (EN):** inventory posting
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bestandsbuchung.*
+     ➔ Вот проводка запасов.
+  2. *Wir müssen die Bestandsbuchung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: проводка запасов.
+  3. *Sind Sie mit der Bestandsbuchung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: проводка запасов?
+  4. *Wir konzentrieren uns heute auf die Bestandsbuchung.*
+     ➔ Сегодня мы концентрируемся на теме: проводка запасов.
+  5. *Die Bestandsbuchung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Проводка запасов играет решающую роль в успехе.
+
+### 1742. die Inventurdifferenz, die Inventurdifferenzen [🎥 YouGlish](https://de.youglish.com/pronounce/Inventurdifferenz/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** инвентаризационная разница
+- **Translation (EN):** inventory difference
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Inventurdifferenz.*
+     ➔ Вот инвентаризационная разница.
+  2. *Wir müssen die Inventurdifferenz genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: инвентаризационная разница.
+  3. *Sind Sie mit der Inventurdifferenz einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: инвентаризационная разница?
+  4. *Wir konzentrieren uns heute auf die Inventurdifferenz.*
+     ➔ Сегодня мы концентрируемся на теме: инвентаризационная разница.
+  5. *Die Inventurdifferenz spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Инвентаризационная разница играет решающую роль в успехе.
+
+### 1743. der Wareneingang, die Wareneingänge [🎥 YouGlish](https://de.youglish.com/pronounce/Wareneingang/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** поступление материала (ПМ)
+- **Translation (EN):** goods receipt (GR)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Wareneingang.*
+     ➔ Вот поступление материала (ПМ).
+  2. *Wir müssen den Wareneingang genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: поступление материала (ПМ).
+  3. *Sind Sie mit dem Wareneingang einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: поступление материала (ПМ)?
+  4. *Wir konzentrieren uns heute auf den Wareneingang.*
+     ➔ Сегодня мы концентрируемся на теме: поступление материала (ПМ).
+  5. *Der Wareneingang spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Поступление материала (ПМ) играет решающую роль в успехе.
+
+### 1744. der Warenausgang, die Warenausgänge [🎥 YouGlish](https://de.youglish.com/pronounce/Warenausgang/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** отпуск материала (ОМ)
+- **Translation (EN):** goods issue (GI)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Warenausgang.*
+     ➔ Вот отпуск материала (ОМ).
+  2. *Wir müssen den Warenausgang genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: отпуск материала (ОМ).
+  3. *Sind Sie mit dem Warenausgang einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: отпуск материала (ОМ)?
+  4. *Wir konzentrieren uns heute auf den Warenausgang.*
+     ➔ Сегодня мы концентрируемся на теме: отпуск материала (ОМ).
+  5. *Der Warenausgang spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Отпуск материала (ОМ) играет решающую роль в успехе.
+
+### 1745. die Umlagerung, die Umlagerungen [🎥 YouGlish](https://de.youglish.com/pronounce/Umlagerung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** перемещение запасов
+- **Translation (EN):** stock transfer
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Umlagerung.*
+     ➔ Вот перемещение запасов.
+  2. *Wir müssen die Umlagerung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: перемещение запасов.
+  3. *Sind Sie mit der Umlagerung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: перемещение запасов?
+  4. *Wir konzentrieren uns heute auf die Umlagerung.*
+     ➔ Сегодня мы концентрируемся на теме: перемещение запасов.
+  5. *Die Umlagerung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Перемещение запасов играет решающую роль в успехе.
+
+### 1746. die Materialbuchung, die Materialbuchungen [🎥 YouGlish](https://de.youglish.com/pronounce/Materialbuchung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** проводка материала
+- **Translation (EN):** material posting
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Materialbuchung.*
+     ➔ Вот проводка материала.
+  2. *Wir müssen die Materialbuchung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: проводка материала.
+  3. *Sind Sie mit der Materialbuchung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: проводка материала?
+  4. *Wir konzentrieren uns heute auf die Materialbuchung.*
+     ➔ Сегодня мы концентрируемся на теме: проводка материала.
+  5. *Die Materialbuchung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Проводка материала играет решающую роль в успехе.
+
+### 1747. die WE/RE-Abstimmung, die Abstimmungen [🎥 YouGlish](https://de.youglish.com/pronounce/WE/RE-Abstimmung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сверка ПМ/Сchild (поступление материала/счет)
+- **Translation (EN):** GR/IR reconciliation
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die WE/RE-Abstimmung.*
+     ➔ Вот сверка ПМ/Сchild (поступление материала/счет).
+  2. *Wir müssen die WE/RE-Abstimmung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сверка ПМ/Сchild (поступление материала/счет).
+  3. *Sind Sie mit der WE/RE-Abstimmung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сверка ПМ/Сchild (поступление материала/счет)?
+  4. *Wir konzentrieren uns heute auf die WE/RE-Abstimmung.*
+     ➔ Сегодня мы концентрируемся на теме: сверка ПМ/Сchild (поступление материала/счет).
+  5. *Die WE/RE-Abstimmung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сверка ПМ/Сchild (поступление материала/счет) играет решающую роль в успехе.
+
+### 1748. das WE/RE-Verrechnungskonto, die Verrechnungskonten [🎥 YouGlish](https://de.youglish.com/pronounce/WE/RE-Verrechnungskonto/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** счет перерасчета ПМ/Счет (GR/IR)
+- **Translation (EN):** GR/IR clearing account
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das WE/RE-Verrechnungskonto.*
+     ➔ Вот счет перерасчета ПМ/Счет (GR/IR).
+  2. *Wir müssen das WE/RE-Verrechnungskonto genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: счет перерасчета ПМ/Счет (GR/IR).
+  3. *Sind Sie mit dem WE/RE-Verrechnungskonto einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: счет перерасчета ПМ/Счет (GR/IR)?
+  4. *Wir konzentrieren uns heute auf das WE/RE-Verrechnungskonto.*
+     ➔ Сегодня мы концентрируемся на теме: счет перерасчета ПМ/Счет (GR/IR).
+  5. *Das WE/RE-Verrechnungskonto spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Счет перерасчета ПМ/Счет (GR/IR) играет решающую роль в успехе.
+
+### 1749. der Sonderbestand, die Sonderbestände [🎥 YouGlish](https://de.youglish.com/pronounce/Sonderbestand/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** особый запас
+- **Translation (EN):** special stock
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Sonderbestand.*
+     ➔ Вот особый запас.
+  2. *Wir müssen den Sonderbestand genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: особый запас.
+  3. *Sind Sie mit dem Sonderbestand einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: особый запас?
+  4. *Wir konzentrieren uns heute auf den Sonderbestand.*
+     ➔ Сегодня мы концентрируемся на теме: особый запас.
+  5. *Der Sonderbestand spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Особый запас играет решающую роль в успехе.
+
+### 1750. der Konsignationsbestand, die Konsignationsbestände [🎥 YouGlish](https://de.youglish.com/pronounce/Konsignationsbestand/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** консигнационный запас
+- **Translation (EN):** consignment stock
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Konsignationsbestand.*
+     ➔ Вот консигнационный запас.
+  2. *Wir müssen den Konsignationsbestand genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: консигнационный запас.
+  3. *Sind Sie mit dem Konsignationsbestand einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: консигнационный запас?
+  4. *Wir konzentrieren uns heute auf den Konsignationsbestand.*
+     ➔ Сегодня мы концентрируемся на теме: консигнационный запас.
+  5. *Der Konsignationsbestand spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Консигнационный запас играет решающую роль в успехе.
+
+### 1751. der Kundenauftragsbestand, die Bestände [🎥 YouGlish](https://de.youglish.com/pronounce/Kundenauftragsbestand/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** запас для заказа клиента
+- **Translation (EN):** sales order stock
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Kundenauftragsbestand.*
+     ➔ Вот запас для заказа клиента.
+  2. *Wir müssen den Kundenauftragsbestand genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: запас для заказа клиента.
+  3. *Sind Sie mit dem Kundenauftragsbestand einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: запас для заказа клиента?
+  4. *Wir konzentrieren uns heute auf den Kundenauftragsbestand.*
+     ➔ Сегодня мы концентрируемся на теме: запас для заказа клиента.
+  5. *Der Kundenauftragsbestand spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Запас для заказа клиента играет решающую роль в успехе.
+
+### 1752. der Projektbestand, die Projektbestände [🎥 YouGlish](https://de.youglish.com/pronounce/Projektbestand/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** запас проекта
+- **Translation (EN):** project stock
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Projektbestand.*
+     ➔ Вот запас проекта.
+  2. *Wir müssen den Projektbestand genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: запас проекта.
+  3. *Sind Sie mit dem Projektbestand einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: запас проекта?
+  4. *Wir konzentrieren uns heute auf den Projektbestand.*
+     ➔ Сегодня мы концентрируемся на теме: запас проекта.
+  5. *Der Projektbestand spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Запас проекта играет решающую роль в успехе.
+
+### 1753. die Chargenverwaltung, die Chargenverwaltungen [🎥 YouGlish](https://de.youglish.com/pronounce/Chargenverwaltung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** управление партиями
+- **Translation (EN):** batch management
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Chargenverwaltung.*
+     ➔ Вот управление партиями.
+  2. *Wir müssen die Chargenverwaltung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: управление партиями.
+  3. *Sind Sie mit der Chargenverwaltung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: управление партиями?
+  4. *Wir konzentrieren uns heute auf die Chargenverwaltung.*
+     ➔ Сегодня мы концентрируемся на теме: управление партиями.
+  5. *Die Chargenverwaltung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Управление партиями играет решающую роль в успехе.
+
+### 1754. die Charge, die Chargen [🎥 YouGlish](https://de.youglish.com/pronounce/Charge/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** партия
+- **Translation (EN):** batch
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Charge.*
+     ➔ Вот партия.
+  2. *Wir müssen die Charge genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: партия.
+  3. *Sind Sie mit der Charge einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: партия?
+  4. *Wir konzentrieren uns heute auf die Charge.*
+     ➔ Сегодня мы концентрируемся на теме: партия.
+  5. *Die Charge spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Партия играет решающую роль в успехе.
+
+### 1755. die Serialnummer, die Serialnummern [🎥 YouGlish](https://de.youglish.com/pronounce/Serialnummer/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** серийный номер
+- **Translation (EN):** serial number
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Serialnummer.*
+     ➔ Вот серийный номер.
+  2. *Wir müssen die Serialnummer genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: серийный номер.
+  3. *Sind Sie mit der Serialnummer einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: серийный номер?
+  4. *Wir konzentrieren uns heute auf die Serialnummer.*
+     ➔ Сегодня мы концентрируемся на теме: серийный номер.
+  5. *Die Serialnummer spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Серийный номер играет решающую роль в успехе.
+
+### 1756. die Verwendbarkeit, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Verwendbarkeit/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** применимость / годность
+- **Translation (EN):** usability / shelf life
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Verwendbarkeit.*
+     ➔ Вот применимость / годность.
+  2. *Wir müssen die Verwendbarkeit genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: применимость / годность.
+  3. *Sind Sie mit der Verwendbarkeit einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: применимость / годность?
+  4. *Wir konzentrieren uns heute auf die Verwendbarkeit.*
+     ➔ Сегодня мы концентрируемся на теме: применимость / годность.
+  5. *Die Verwendbarkeit spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Применимость / годность играет решающую роль в успехе.
+
+### 1757. das Verfallsdatum, die Verfallsdaten [🎥 YouGlish](https://de.youglish.com/pronounce/Verfallsdatum/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** срок годности
+- **Translation (EN):** expiration date
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Verfallsdatum.*
+     ➔ Вот срок годности.
+  2. *Wir müssen das Verfallsdatum genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: срок годности.
+  3. *Sind Sie mit dem Verfallsdatum einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: срок годности?
+  4. *Wir konzentrieren uns heute auf das Verfallsdatum.*
+     ➔ Сегодня мы концентрируемся на теме: срок годности.
+  5. *Das Verfallsdatum spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Срок годности играет решающую роль в успехе.
+
+### 1758. das Mindesthaltbarkeitsdatum, die Daten [🎥 YouGlish](https://de.youglish.com/pronounce/Mindesthaltbarkeitsdatum/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** минимальный срок годности
+- **Translation (EN):** shelf life expiration date
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Mindesthaltbarkeitsdatum.*
+     ➔ Вот минимальный срок годности.
+  2. *Wir müssen das Mindesthaltbarkeitsdatum genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: минимальный срок годности.
+  3. *Sind Sie mit dem Mindesthaltbarkeitsdatum einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: минимальный срок годности?
+  4. *Wir konzentrieren uns heute auf das Mindesthaltbarkeitsdatum.*
+     ➔ Сегодня мы концентрируемся на теме: минимальный срок годности.
+  5. *Das Mindesthaltbarkeitsdatum spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Минимальный срок годности играет решающую роль в успехе.
+
+### 1759. die Qualitätsprüfung, die Qualitätsprüfungen [🎥 YouGlish](https://de.youglish.com/pronounce/Qualit%C3%A4tspr%C3%BCfung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** контроль качества
+- **Translation (EN):** quality inspection
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Qualitätsprüfung.*
+     ➔ Вот контроль качества.
+  2. *Wir müssen die Qualitätsprüfung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: контроль качества.
+  3. *Sind Sie mit der Qualitätsprüfung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: контроль качества?
+  4. *Wir konzentrieren uns heute auf die Qualitätsprüfung.*
+     ➔ Сегодня мы концентрируемся на теме: контроль качества.
+  5. *Die Qualitätsprüfung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Контроль качества играет решающую роль в успехе.
+
+### 1760. der Prüfbestand, die Prüfbestände [🎥 YouGlish](https://de.youglish.com/pronounce/Pr%C3%BCfbestand/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** запас на контроле качества
+- **Translation (EN):** quality inspection stock
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Prüfbestand.*
+     ➔ Вот запас на контроле качества.
+  2. *Wir müssen den Prüfbestand genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: запас на контроле качества.
+  3. *Sind Sie mit dem Prüfbestand einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: запас на контроле качества?
+  4. *Wir konzentrieren uns heute auf den Prüfbestand.*
+     ➔ Сегодня мы концентрируемся на теме: запас на контроле качества.
+  5. *Der Prüfbestand spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Запас на контроле качества играет решающую роль в успехе.
+
+### 1761. der gesperrte Bestand, die Bestände [🎥 YouGlish](https://de.youglish.com/pronounce/gesperrte%20Bestand/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** блокированный запас
+- **Translation (EN):** blocked stock
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der gesperrte Bestand.*
+     ➔ Вот блокированный запас.
+  2. *Wir müssen den gesperrte Bestand genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: блокированный запас.
+  3. *Sind Sie mit dem gesperrte Bestand einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: блокированный запас?
+  4. *Wir konzentrieren uns heute auf den gesperrte Bestand.*
+     ➔ Сегодня мы концентрируемся на теме: блокированный запас.
+  5. *Der gesperrte Bestand spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Блокированный запас играет решающую роль в успехе.
+
+### 1762. der frei verwendbare Bestand, die Bestände [🎥 YouGlish](https://de.youglish.com/pronounce/frei%20verwendbare%20Bestand/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** свободно используемый запас
+- **Translation (EN):** unrestricted-use stock
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der frei verwendbare Bestand.*
+     ➔ Вот свободно используемый запас.
+  2. *Wir müssen den frei verwendbare Bestand genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: свободно используемый запас.
+  3. *Sind Sie mit dem frei verwendbare Bestand einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: свободно используемый запас?
+  4. *Wir konzentrieren uns heute auf den frei verwendbare Bestand.*
+     ➔ Сегодня мы концентрируемся на теме: свободно используемый запас.
+  5. *Der frei verwendbare Bestand spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Свободно используемый запас играет решающую роль в успехе.
+
+### 1763. die Bestandsart, die Bestandsarten [🎥 YouGlish](https://de.youglish.com/pronounce/Bestandsart/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** вид запаса
+- **Translation (EN):** stock type
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bestandsart.*
+     ➔ Вот вид запаса.
+  2. *Wir müssen die Bestandsart genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: вид запаса.
+  3. *Sind Sie mit der Bestandsart einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: вид запаса?
+  4. *Wir konzentrieren uns heute auf die Bestandsart.*
+     ➔ Сегодня мы концентрируемся на теме: вид запаса.
+  5. *Die Bestandsart spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Вид запаса играет решающую роль в успехе.
+
+### 1764. die Bewegungsart, die Bewegungsarten [🎥 YouGlish](https://de.youglish.com/pronounce/Bewegungsart/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** вид движения (запасов)
+- **Translation (EN):** movement type
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bewegungsart.*
+     ➔ Вот вид движения (запасов).
+  2. *Wir müssen die Bewegungsart genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: вид движения (запасов).
+  3. *Sind Sie mit der Bewegungsart einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: вид движения (запасов)?
+  4. *Wir konzentrieren uns heute auf die Bewegungsart.*
+     ➔ Сегодня мы концентрируемся на теме: вид движения (запасов).
+  5. *Die Bewegungsart spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Вид движения (запасов) играет решающую роль в успехе.
+
+### 1765. die Bestandsunterdeckung, die Unterdeckungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bestandsunterdeckung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** дефицит запасов
+- **Translation (EN):** stock deficit
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bestandsunterdeckung.*
+     ➔ Вот дефицит запасов.
+  2. *Wir müssen die Bestandsunterdeckung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: дефицит запасов.
+  3. *Sind Sie mit der Bestandsunterdeckung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: дефицит запасов?
+  4. *Wir konzentrieren uns heute auf die Bestandsunterdeckung.*
+     ➔ Сегодня мы концентрируемся на теме: дефицит запасов.
+  5. *Die Bestandsunterdeckung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Дефицит запасов играет решающую роль в успехе.
+
+### 1766. die Bedarfsplanung, die Bedarfsplanungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bedarfsplanung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** планирование потребностей (MRP)
+- **Translation (EN):** material requirements planning (MRP)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bedarfsplanung.*
+     ➔ Вот планирование потребностей (MRP).
+  2. *Wir müssen die Bedarfsplanung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: планирование потребностей (MRP).
+  3. *Sind Sie mit der Bedarfsplanung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: планирование потребностей (MRP)?
+  4. *Wir konzentrieren uns heute auf die Bedarfsplanung.*
+     ➔ Сегодня мы концентрируемся на теме: планирование потребностей (MRP).
+  5. *Die Bedarfsplanung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Планирование потребностей (MRP) играет решающую роль в успехе.
+
+### 1767. die Disposition, die Dispositionen [🎥 YouGlish](https://de.youglish.com/pronounce/Disposition/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** диспетчеризация / планирование запасов
+- **Translation (EN):** material planning
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Disposition.*
+     ➔ Вот диспетчеризация / планирование запасов.
+  2. *Wir müssen die Disposition genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: диспетчеризация / планирование запасов.
+  3. *Sind Sie mit der Disposition einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: диспетчеризация / планирование запасов?
+  4. *Wir konzentrieren uns heute auf die Disposition.*
+     ➔ Сегодня мы концентрируемся на теме: диспетчеризация / планирование запасов.
+  5. *Die Disposition spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Диспетчеризация / планирование запасов играет решающую роль в успехе.
+
+### 1768. der Disponent, die Disponenten [🎥 YouGlish](https://de.youglish.com/pronounce/Disponent/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** планировщик / диспетчер
+- **Translation (EN):** material planner
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Disponent.*
+     ➔ Вот планировщик / диспетчер.
+  2. *Wir müssen den Disponent genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: планировщик / диспетчер.
+  3. *Sind Sie mit dem Disponent einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: планировщик / диспетчер?
+  4. *Wir konzentrieren uns heute auf den Disponent.*
+     ➔ Сегодня мы концентрируемся на теме: планировщик / диспетчер.
+  5. *Der Disponent spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Планировщик / диспетчер играет решающую роль в успехе.
+
+### 1769. der Sicherheitsbestand, die Sicherheitsbestände [🎥 YouGlish](https://de.youglish.com/pronounce/Sicherheitsbestand/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** страховой запас
+- **Translation (EN):** safety stock
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Sicherheitsbestand.*
+     ➔ Вот страховой запас.
+  2. *Wir müssen den Sicherheitsbestand genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: страховой запас.
+  3. *Sind Sie mit dem Sicherheitsbestand einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: страховой запас?
+  4. *Wir konzentrieren uns heute auf den Sicherheitsbestand.*
+     ➔ Сегодня мы концентрируемся на теме: страховой запас.
+  5. *Der Sicherheitsbestand spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Страховой запас играет решающую роль в успехе.
+
+### 1770. der Meldebestand, die Meldebestände [🎥 YouGlish](https://de.youglish.com/pronounce/Meldebestand/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** точка заказа / пороговый запас
+- **Translation (EN):** reorder point
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Meldebestand.*
+     ➔ Вот точка заказа / пороговый запас.
+  2. *Wir müssen den Meldebestand genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: точка заказа / пороговый запас.
+  3. *Sind Sie mit dem Meldebestand einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: точка заказа / пороговый запас?
+  4. *Wir konzentrieren uns heute auf den Meldebestand.*
+     ➔ Сегодня мы концентрируемся на теме: точка заказа / пороговый запас.
+  5. *Der Meldebestand spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Точка заказа / пороговый запас играет решающую роль в успехе.
+
+### 1771. die Losgröße, die Losgrößen [🎥 YouGlish](https://de.youglish.com/pronounce/Losgr%C3%B6%C3%9Fe/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** размер партии (заказа)
+- **Translation (EN):** lot size
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Losgröße.*
+     ➔ Вот размер партии (заказа).
+  2. *Wir müssen die Losgröße genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: размер партии (заказа).
+  3. *Sind Sie mit der Losgröße einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: размер партии (заказа)?
+  4. *Wir konzentrieren uns heute auf die Losgröße.*
+     ➔ Сегодня мы концентрируемся на теме: размер партии (заказа).
+  5. *Die Losgröße spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Размер партии (заказа) играет решающую роль в успехе.
+
+### 1772. die Mindestbestellmenge, die Mindestbestellmengen [🎥 YouGlish](https://de.youglish.com/pronounce/Mindestbestellmenge/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** минимальный объем заказа
+- **Translation (EN):** minimum order quantity
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Mindestbestellmenge.*
+     ➔ Вот минимальный объем заказа.
+  2. *Wir müssen die Mindestbestellmenge genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: минимальный объем заказа.
+  3. *Sind Sie mit der Mindestbestellmenge einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: минимальный объем заказа?
+  4. *Wir konzentrieren uns heute auf die Mindestbestellmenge.*
+     ➔ Сегодня мы концентрируемся на теме: минимальный объем заказа.
+  5. *Die Mindestbestellmenge spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Минимальный объем заказа играет решающую роль в успехе.
+
+### 1773. das Materialstammblatt, die Materialstammblätter [🎥 YouGlish](https://de.youglish.com/pronounce/Materialstammblatt/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** основная запись материала
+- **Translation (EN):** material master record
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Materialstammblatt.*
+     ➔ Вот основная запись материала.
+  2. *Wir müssen das Materialstammblatt genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: основная запись материала.
+  3. *Sind Sie mit dem Materialstammblatt einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: основная запись материала?
+  4. *Wir konzentrieren uns heute auf das Materialstammblatt.*
+     ➔ Сегодня мы концентрируемся на теме: основная запись материала.
+  5. *Das Materialstammblatt spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Основная запись материала играет решающую роль в успехе.
+
+### 1774. die Materialnummer, die Materialnummern [🎥 YouGlish](https://de.youglish.com/pronounce/Materialnummer/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** номер материала
+- **Translation (EN):** material number
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Materialnummer.*
+     ➔ Вот номер материала.
+  2. *Wir müssen die Materialnummer genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: номер материала.
+  3. *Sind Sie mit der Materialnummer einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: номер материала?
+  4. *Wir konzentrieren uns heute auf die Materialnummer.*
+     ➔ Сегодня мы концентрируемся на теме: номер материала.
+  5. *Die Materialnummer spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Номер материала играет решающую роль в успехе.
+
+### 1775. die Mengeneinheit, die Mengeneinheiten [🎥 YouGlish](https://de.youglish.com/pronounce/Mengeneinheit/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** единица измерения
+- **Translation (EN):** unit of measure
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Mengeneinheit.*
+     ➔ Вот единица измерения.
+  2. *Wir müssen die Mengeneinheit genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: единица измерения.
+  3. *Sind Sie mit der Mengeneinheit einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: единица измерения?
+  4. *Wir konzentrieren uns heute auf die Mengeneinheit.*
+     ➔ Сегодня мы концентрируемся на теме: единица измерения.
+  5. *Die Mengeneinheit spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Единица измерения играет решающую роль в успехе.
+
+### 1776. die Basismengeneinheit, die Mengeneinheiten [🎥 YouGlish](https://de.youglish.com/pronounce/Basismengeneinheit/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** базовая единица измерения
+- **Translation (EN):** base unit of measure
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Basismengeneinheit.*
+     ➔ Вот базовая единица измерения.
+  2. *Wir müssen die Basismengeneinheit genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: базовая единица измерения.
+  3. *Sind Sie mit der Basismengeneinheit einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: базовая единица измерения?
+  4. *Wir konzentrieren uns heute auf die Basismengeneinheit.*
+     ➔ Сегодня мы концентрируемся на теме: базовая единица измерения.
+  5. *Die Basismengeneinheit spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Базовая единица измерения играет решающую роль в успехе.
+
+### 1777. die Alternativmengeneinheit, die Mengeneinheiten [🎥 YouGlish](https://de.youglish.com/pronounce/Alternativmengeneinheit/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** альтернативная единица измерения
+- **Translation (EN):** alternative unit of measure
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Alternativmengeneinheit.*
+     ➔ Вот альтернативная единица измерения.
+  2. *Wir müssen die Alternativmengeneinheit genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: альтернативная единица измерения.
+  3. *Sind Sie mit der Alternativmengeneinheit einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: альтернативная единица измерения?
+  4. *Wir konzentrieren uns heute auf die Alternativmengeneinheit.*
+     ➔ Сегодня мы концентрируемся на теме: альтернативная единица измерения.
+  5. *Die Alternativmengeneinheit spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Альтернативная единица измерения играет решающую роль в успехе.
+
+### 1778. die Umrechnung, die Umrechnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Umrechnung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** перерасчет / конвертация
+- **Translation (EN):** conversion
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Umrechnung.*
+     ➔ Вот перерасчет / конвертация.
+  2. *Wir müssen die Umrechnung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: перерасчет / конвертация.
+  3. *Sind Sie mit der Umrechnung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: перерасчет / конвертация?
+  4. *Wir konzentrieren uns heute auf die Umrechnung.*
+     ➔ Сегодня мы концентрируемся на теме: перерасчет / конвертация.
+  5. *Die Umrechnung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Перерасчет / конвертация играет решающую роль в успехе.
+
+### 1779. die Stückliste, die Stücklisten [🎥 YouGlish](https://de.youglish.com/pronounce/St%C3%BCckliste/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** спецификация (BOM)
+- **Translation (EN):** bill of materials (BOM)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Stückliste.*
+     ➔ Вот спецификация (BOM).
+  2. *Wir müssen die Stückliste genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: спецификация (BOM).
+  3. *Sind Sie mit der Stückliste einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: спецификация (BOM)?
+  4. *Wir konzentrieren uns heute auf die Stückliste.*
+     ➔ Сегодня мы концентрируемся на теме: спецификация (BOM).
+  5. *Die Stückliste spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Спецификация (BOM) играет решающую роль в успехе.
+
+### 1780. die Baugruppe, die Baugruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Baugruppe/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** узел / сборка
+- **Translation (EN):** assembly / subassembly
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Baugruppe.*
+     ➔ Вот узел / сборка.
+  2. *Wir müssen die Baugruppe genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: узел / сборка.
+  3. *Sind Sie mit der Baugruppe einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: узел / сборка?
+  4. *Wir konzentrieren uns heute auf die Baugruppe.*
+     ➔ Сегодня мы концентрируемся на теме: узел / сборка.
+  5. *Die Baugruppe spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Узел / сборка играет решающую роль в успехе.
+
+### 1781. das Halbfabrikat, die Halbfabrikate [🎥 YouGlish](https://de.youglish.com/pronounce/Halbfabrikat/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** полуфабрикат
+- **Translation (EN):** semi-finished product
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Halbfabrikat.*
+     ➔ Вот полуфабрикат.
+  2. *Wir müssen das Halbfabrikat genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: полуфабрикат.
+  3. *Sind Sie mit dem Halbfabrikat einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: полуфабрикат?
+  4. *Wir konzentrieren uns heute auf das Halbfabrikat.*
+     ➔ Сегодня мы концентрируемся на теме: полуфабрикат.
+  5. *Das Halbfabrikat spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Полуфабрикат играет решающую роль в успехе.
+
+### 1782. das Fertigerzeugnis, die Fertigerzeugnisse [🎥 YouGlish](https://de.youglish.com/pronounce/Fertigerzeugnis/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** готовое изделие
+- **Translation (EN):** finished product
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Fertigerzeugnis.*
+     ➔ Вот готовое изделие.
+  2. *Wir müssen das Fertigerzeugnis genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: готовое изделие.
+  3. *Sind Sie mit dem Fertigerzeugnis einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: готовое изделие?
+  4. *Wir konzentrieren uns heute auf das Fertigerzeugnis.*
+     ➔ Сегодня мы концентрируемся на теме: готовое изделие.
+  5. *Das Fertigerzeugnis spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Готовое изделие играет решающую роль в успехе.
+
+### 1783. der Rohstoff, die Rohstoffe [🎥 YouGlish](https://de.youglish.com/pronounce/Rohstoff/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сырье / исходный материал
+- **Translation (EN):** raw material
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Rohstoff.*
+     ➔ Вот сырье / исходный материал.
+  2. *Wir müssen den Rohstoff genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сырье / исходный материал.
+  3. *Sind Sie mit dem Rohstoff einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сырье / исходный материал?
+  4. *Wir konzentrieren uns heute auf den Rohstoff.*
+     ➔ Сегодня мы концентрируемся на теме: сырье / исходный материал.
+  5. *Der Rohstoff spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сырье / исходный материал играет решающую роль в успехе.
+
+### 1784. das Handelsgut, die Handelsgüter [🎥 YouGlish](https://de.youglish.com/pronounce/Handelsgut/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** товар для перепродажи
+- **Translation (EN):** trading goods
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Handelsgut.*
+     ➔ Вот товар для перепродажи.
+  2. *Wir müssen das Handelsgut genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: товар для перепродажи.
+  3. *Sind Sie mit dem Handelsgut einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: товар для перепродажи?
+  4. *Wir konzentrieren uns heute auf das Handelsgut.*
+     ➔ Сегодня мы концентрируемся на теме: товар для перепродажи.
+  5. *Das Handelsgut spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Товар для перепродажи играет решающую роль в успехе.
+
+### 1785. die Verpackung, die Verpackungen [🎥 YouGlish](https://de.youglish.com/pronounce/Verpackung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** упаковка
+- **Translation (EN):** packaging
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Verpackung.*
+     ➔ Вот упаковка.
+  2. *Wir müssen die Verpackung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: упаковка.
+  3. *Sind Sie mit der Verpackung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: упаковка?
+  4. *Wir konzentrieren uns heute auf die Verpackung.*
+     ➔ Сегодня мы концентрируемся на теме: упаковка.
+  5. *Die Verpackung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Упаковка играет решающую роль в успехе.
+
+### 1786. das Packmittel, die Packmittel [🎥 YouGlish](https://de.youglish.com/pronounce/Packmittel/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** упаковочный материал
+- **Translation (EN):** packaging material
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Packmittel.*
+     ➔ Вот упаковочный материал.
+  2. *Wir müssen das Packmittel genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: упаковочный материал.
+  3. *Sind Sie mit dem Packmittel einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: упаковочный материал?
+  4. *Wir konzentrieren uns heute auf das Packmittel.*
+     ➔ Сегодня мы концентрируемся на теме: упаковочный материал.
+  5. *Das Packmittel spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Упаковочный материал играет решающую роль в успехе.
+
+### 1787. die Chargenklasse, die Chargenklassen [🎥 YouGlish](https://de.youglish.com/pronounce/Chargenklasse/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** класс партий
+- **Translation (EN):** batch class
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Chargenklasse.*
+     ➔ Вот класс партий.
+  2. *Wir müssen die Chargenklasse genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: класс партий.
+  3. *Sind Sie mit der Chargenklasse einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: класс партий?
+  4. *Wir konzentrieren uns heute auf die Chargenklasse.*
+     ➔ Сегодня мы концентрируемся на теме: класс партий.
+  5. *Die Chargenklasse spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Класс партий играет решающую роль в успехе.
+
+### 1788. die Bewertung für geteilte Bestände, die Bewertungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bewertung%20f%C3%BCr%20geteilte%20Best%C3%A4nde/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** раздельная оценка запасов
+- **Translation (EN):** split valuation
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bewertung für geteilte Bestände.*
+     ➔ Вот раздельная оценка запасов.
+  2. *Wir müssen die Bewertung für geteilte Bestände genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: раздельная оценка запасов.
+  3. *Sind Sie mit der Bewertung für geteilte Bestände einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: раздельная оценка запасов?
+  4. *Wir konzentrieren uns heute auf die Bewertung für geteilte Bestände.*
+     ➔ Сегодня мы концентрируемся на теме: раздельная оценка запасов.
+  5. *Die Bewertung für geteilte Bestände spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Раздельная оценка запасов играет решающую роль в успехе.
+
+### 1789. die Bewertungsart, die Bewertungsarten [🎥 YouGlish](https://de.youglish.com/pronounce/Bewertungsart/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** вид оценки (при раздельной оценке)
+- **Translation (EN):** valuation type
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bewertungsart.*
+     ➔ Вот вид оценки (при раздельной оценке).
+  2. *Wir müssen die Bewertungsart genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: вид оценки (при раздельной оценке).
+  3. *Sind Sie mit der Bewertungsart einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: вид оценки (при раздельной оценке)?
+  4. *Wir konzentrieren uns heute auf die Bewertungsart.*
+     ➔ Сегодня мы концентрируемся на теме: вид оценки (при раздельной оценке).
+  5. *Die Bewertungsart spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Вид оценки (при раздельной оценке) играет решающую роль в успехе.
+
+### 1790. die Herkunft, die Herkünfte [🎥 YouGlish](https://de.youglish.com/pronounce/Herkunft/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** происхождение (страна/источник)
+- **Translation (EN):** origin
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Herkunft.*
+     ➔ Вот происхождение (страна/источник).
+  2. *Wir müssen die Herkunft genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: происхождение (страна/источник).
+  3. *Sind Sie mit der Herkunft einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: происхождение (страна/источник)?
+  4. *Wir konzentrieren uns heute auf die Herkunft.*
+     ➔ Сегодня мы концентрируемся на теме: происхождение (страна/источник).
+  5. *Die Herkunft spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Происхождение (страна/источник) играет решающую роль в успехе.
+
+### 1791. das Zollverfahren, die Zollverfahren [🎥 YouGlish](https://de.youglish.com/pronounce/Zollverfahren/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** таможенная процедура
+- **Translation (EN):** customs procedure
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Zollverfahren.*
+     ➔ Вот таможенная процедура.
+  2. *Wir müssen das Zollverfahren genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: таможенная процедура.
+  3. *Sind Sie mit dem Zollverfahren einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: таможенная процедура?
+  4. *Wir konzentrieren uns heute auf das Zollverfahren.*
+     ➔ Сегодня мы концентрируемся на теме: таможенная процедура.
+  5. *Das Zollverfahren spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Таможенная процедура играет решающую роль в успехе.
+
+### 1792. die Zollanmeldung, die Zollanmeldungen [🎥 YouGlish](https://de.youglish.com/pronounce/Zollanmeldung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** таможенная декларация
+- **Translation (EN):** customs declaration
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Zollanmeldung.*
+     ➔ Вот таможенная декларация.
+  2. *Wir müssen die Zollanmeldung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: таможенная декларация.
+  3. *Sind Sie mit der Zollanmeldung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: таможенная декларация?
+  4. *Wir konzentrieren uns heute auf die Zollanmeldung.*
+     ➔ Сегодня мы концентрируемся на теме: таможенная декларация.
+  5. *Die Zollanmeldung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Таможенная декларация играет решающую роль в успехе.
+
+### 1793. die Lagerverwaltung, die Lagerverwaltungen [🎥 YouGlish](https://de.youglish.com/pronounce/Lagerverwaltung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** управление складом (WM/EWM)
+- **Translation (EN):** warehouse management
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Lagerverwaltung.*
+     ➔ Вот управление складом (WM/EWM).
+  2. *Wir müssen die Lagerverwaltung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: управление складом (WM/EWM).
+  3. *Sind Sie mit der Lagerverwaltung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: управление складом (WM/EWM)?
+  4. *Wir konzentrieren uns heute auf die Lagerverwaltung.*
+     ➔ Сегодня мы концентрируемся на теме: управление складом (WM/EWM).
+  5. *Die Lagerverwaltung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Управление складом (WM/EWM) играет решающую роль в успехе.
+
+### 1794. das Lager, die Lager [🎥 YouGlish](https://de.youglish.com/pronounce/Lager/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** склад
+- **Translation (EN):** warehouse / store
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Lager.*
+     ➔ Вот склад.
+  2. *Wir müssen das Lager genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: склад.
+  3. *Sind Sie mit dem Lager einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: склад?
+  4. *Wir konzentrieren uns heute auf das Lager.*
+     ➔ Сегодня мы концентрируемся на теме: склад.
+  5. *Das Lager spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Склад играет решающую роль в успехе.
+
+### 1795. die Lagernummer, die Lagernummern [🎥 YouGlish](https://de.youglish.com/pronounce/Lagernummer/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** номер склада
+- **Translation (EN):** warehouse number
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Lagernummer.*
+     ➔ Вот номер склада.
+  2. *Wir müssen die Lagernummer genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: номер склада.
+  3. *Sind Sie mit der Lagernummer einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: номер склада?
+  4. *Wir konzentrieren uns heute auf die Lagernummer.*
+     ➔ Сегодня мы концентрируемся на теме: номер склада.
+  5. *Die Lagernummer spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Номер склада играет решающую роль в успехе.
+
+### 1796. der Lagertyp, die Lagertypen [🎥 YouGlish](https://de.youglish.com/pronounce/Lagertyp/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** тип склада
+- **Translation (EN):** storage type
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Lagertyp.*
+     ➔ Вот тип склада.
+  2. *Wir müssen den Lagertyp genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: тип склада.
+  3. *Sind Sie mit dem Lagertyp einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: тип склада?
+  4. *Wir konzentrieren uns heute auf den Lagertyp.*
+     ➔ Сегодня мы концентрируемся на теме: тип склада.
+  5. *Der Lagertyp spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Тип склада играет решающую роль в успехе.
+
+### 1797. der Lagerbereich, die Lagerbereiche [🎥 YouGlish](https://de.youglish.com/pronounce/Lagerbereich/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** складская секция
+- **Translation (EN):** storage section
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Lagerbereich.*
+     ➔ Вот складская секция.
+  2. *Wir müssen den Lagerbereich genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: складская секция.
+  3. *Sind Sie mit dem Lagerbereich einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: складская секция?
+  4. *Wir konzentrieren uns heute auf den Lagerbereich.*
+     ➔ Сегодня мы концентрируемся на теме: складская секция.
+  5. *Der Lagerbereich spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Складская секция играет решающую роль в успехе.
+
+### 1798. der Lagerplatz, die Lagerplätze [🎥 YouGlish](https://de.youglish.com/pronounce/Lagerplatz/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** складское место / ячейка
+- **Translation (EN):** storage bin
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Lagerplatz.*
+     ➔ Вот складское место / ячейка.
+  2. *Wir müssen den Lagerplatz genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: складское место / ячейка.
+  3. *Sind Sie mit dem Lagerplatz einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: складское место / ячейка?
+  4. *Wir konzentrieren uns heute auf den Lagerplatz.*
+     ➔ Сегодня мы концентрируемся на теме: складское место / ячейка.
+  5. *Der Lagerplatz spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Складское место / ячейка играет решающую роль в успехе.
+
+### 1799. das Transport-Management, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Transport-Management/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** управление транспортировками (TM)
+- **Translation (EN):** transport management
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Transport-Management.*
+     ➔ Вот управление транспортировками (TM).
+  2. *Wir müssen das Transport-Management genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: управление транспортировками (TM).
+  3. *Sind Sie mit dem Transport-Management einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: управление транспортировками (TM)?
+  4. *Wir konzentrieren uns heute auf das Transport-Management.*
+     ➔ Сегодня мы концентрируемся на теме: управление транспортировками (TM).
+  5. *Das Transport-Management spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Управление транспортировками (TM) играет решающую роль в успехе.
+
+### 1800. der Transportbedarf, die Transportbedarfe [🎥 YouGlish](https://de.youglish.com/pronounce/Transportbedarf/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** потребность в переносе (TR)
+- **Translation (EN):** transfer requirement
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Transportbedarf.*
+     ➔ Вот потребность в переносе (TR).
+  2. *Wir müssen den Transportbedarf genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: потребность в переносе (TR).
+  3. *Sind Sie mit dem Transportbedarf einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: потребность в переносе (TR)?
+  4. *Wir konzentrieren uns heute auf den Transportbedarf.*
+     ➔ Сегодня мы концентрируемся на теме: потребность в переносе (TR).
+  5. *Der Transportbedarf spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Потребность в переносе (TR) играет решающую роль в успехе.
+
+### 1801. der Transportauftrag, die Transportaufträge [🎥 YouGlish](https://de.youglish.com/pronounce/Transportauftrag/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** заказ на перенос (TO)
+- **Translation (EN):** transfer order
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Transportauftrag.*
+     ➔ Вот заказ на перенос (TO).
+  2. *Wir müssen den Transportauftrag genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: заказ на перенос (TO).
+  3. *Sind Sie mit dem Transportauftrag einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: заказ на перенос (TO)?
+  4. *Wir konzentrieren uns heute auf den Transportauftrag.*
+     ➔ Сегодня мы концентрируемся на теме: заказ на перенос (TO).
+  5. *Der Transportauftrag spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Заказ на перенос (TO) играет решающую роль в успехе.
+
+### 1802. die Quittierung, die Quittierungen [🎥 YouGlish](https://de.youglish.com/pronounce/Quittierung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** подтверждение (заказа на перенос)
+- **Translation (EN):** confirmation
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Quittierung.*
+     ➔ Вот подтверждение (заказа на перенос).
+  2. *Wir müssen die Quittierung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: подтверждение (заказа на перенос).
+  3. *Sind Sie mit der Quittierung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: подтверждение (заказа на перенос)?
+  4. *Wir konzentrieren uns heute auf die Quittierung.*
+     ➔ Сегодня мы концентрируемся на теме: подтверждение (заказа на перенос).
+  5. *Die Quittierung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Подтверждение (заказа на перенос) играет решающую роль в успехе.
+
+### 1803. die Bestandsdifferenz, die Bestandsdifferenzen [🎥 YouGlish](https://de.youglish.com/pronounce/Bestandsdifferenz/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** разница в запасах
+- **Translation (EN):** stock difference
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bestandsdifferenz.*
+     ➔ Вот разница в запасах.
+  2. *Wir müssen die Bestandsdifferenz genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: разница в запасах.
+  3. *Sind Sie mit der Bestandsdifferenz einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: разница в запасах?
+  4. *Wir konzentrieren uns heute auf die Bestandsdifferenz.*
+     ➔ Сегодня мы концентрируемся на теме: разница в запасах.
+  5. *Die Bestandsdifferenz spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Разница в запасах играет решающую роль в успехе.
+
+### 1804. das Schnittstellenkonto, die Schnittstellenkonten [🎥 YouGlish](https://de.youglish.com/pronounce/Schnittstellenkonto/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** промежуточный счет / интерфейсный счет
+- **Translation (EN):** interface account
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Schnittstellenkonto.*
+     ➔ Вот промежуточный счет / интерфейсный счет.
+  2. *Wir müssen das Schnittstellenkonto genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: промежуточный счет / интерфейсный счет.
+  3. *Sind Sie mit dem Schnittstellenkonto einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: промежуточный счет / интерфейсный счет?
+  4. *Wir konzentrieren uns heute auf das Schnittstellenkonto.*
+     ➔ Сегодня мы концентрируемся на теме: промежуточный счет / интерфейсный счет.
+  5. *Das Schnittstellenkonto spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Промежуточный счет / интерфейсный счет играет решающую роль в успехе.
+
+### 1805. der physische Bestand, die Bestände [🎥 YouGlish](https://de.youglish.com/pronounce/physische%20Bestand/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** фактический (физический) запас
+- **Translation (EN):** physical stock
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der physische Bestand.*
+     ➔ Вот фактический (физический) запас.
+  2. *Wir müssen den physische Bestand genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: фактический (физический) запас.
+  3. *Sind Sie mit dem physische Bestand einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: фактический (физический) запас?
+  4. *Wir konzentrieren uns heute auf den physische Bestand.*
+     ➔ Сегодня мы концентрируемся на теме: фактический (физический) запас.
+  5. *Der physische Bestand spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Фактический (физический) запас играет решающую роль в успехе.
+
+### 1806. der Buchbestand, die Buchbestände [🎥 YouGlish](https://de.youglish.com/pronounce/Buchbestand/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** книжный запас (по данным системы)
+- **Translation (EN):** book inventory
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Buchbestand.*
+     ➔ Вот книжный запас (по данным системы).
+  2. *Wir müssen den Buchbestand genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: книжный запас (по данным системы).
+  3. *Sind Sie mit dem Buchbestand einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: книжный запас (по данным системы)?
+  4. *Wir konzentrieren uns heute auf den Buchbestand.*
+     ➔ Сегодня мы концентрируемся на теме: книжный запас (по данным системы).
+  5. *Der Buchbestand spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Книжный запас (по данным системы) играет решающую роль в успехе.
+
+### 1807. die Inventuraufnahme, die Inventuraufnahmen [🎥 YouGlish](https://de.youglish.com/pronounce/Inventuraufnahme/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** инвентаризационная опись
+- **Translation (EN):** physical inventory count
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Inventuraufnahme.*
+     ➔ Вот инвентаризационная опись.
+  2. *Wir müssen die Inventuraufnahme genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: инвентаризационная опись.
+  3. *Sind Sie mit der Inventuraufnahme einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: инвентаризационная опись?
+  4. *Wir konzentrieren uns heute auf die Inventuraufnahme.*
+     ➔ Сегодня мы концентрируемся на теме: инвентаризационная опись.
+  5. *Die Inventuraufnahme spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Инвентаризационная опись играет решающую роль в успехе.
+
+### 1808. die Nachzählung, die Nachzählungen [🎥 YouGlish](https://de.youglish.com/pronounce/Nachz%C3%A4hlung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** повторный подсчет
+- **Translation (EN):** re-count
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Nachzählung.*
+     ➔ Вот повторный подсчет.
+  2. *Wir müssen die Nachzählung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: повторный подсчет.
+  3. *Sind Sie mit der Nachzählung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: повторный подсчет?
+  4. *Wir konzentrieren uns heute auf die Nachzählung.*
+     ➔ Сегодня мы концентрируемся на теме: повторный подсчет.
+  5. *Die Nachzählung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Повторный подсчет играет решающую роль в успехе.
+
+### 1809. abgleichen [🎥 YouGlish](https://de.youglish.com/pronounce/abgleichen/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B2
+- **Перевод (RU):** сверять / сопоставлять
+- **Translation (EN):** to reconcile / match
+- **Partizip II:** abgegleicht
+- **Императив (Imperativ):** gleiche ab! / gleicht ab! / gleichen Sie ab!
+- **Спряжение (Konjugation - Präsens):** ich *gleiche ab*, du *gleichst ab*, er/sie/es *gleicht ab*, wir *gleichen ab*, ihr *gleicht ab*, sie/Sie *gleichen ab*
+- **Примеры использования (Beispiele):**
+  1. *Wir gleichen ab diese Angelegenheit direkt im Team.*
+     ➔ Мы сверять / сопоставлять этот вопрос непосредственно в команде.
+  2. *Ich gleiche ab die notwendigen Unterlagen sofort.*
+     ➔ Я сверять / сопоставлять необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege gleicht ab das Ganze sehr professionell.*
+     ➔ Ответственный коллега сверять / сопоставлять всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich abgegleicht.*
+     ➔ Мы успешно сверять / сопоставлять (в прошедшем времени) эту тему.
+  5. *gleichen Sie ab bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: сверять / сопоставлять вовремя!
+
+### 1810. der Abgleich, die Abgleiche [🎥 YouGlish](https://de.youglish.com/pronounce/Abgleich/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сверка / сопоставление
+- **Translation (EN):** reconciliation / comparison
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Abgleich.*
+     ➔ Вот сверка / сопоставление.
+  2. *Wir müssen den Abgleich genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сверка / сопоставление.
+  3. *Sind Sie mit dem Abgleich einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сверка / сопоставление?
+  4. *Wir konzentrieren uns heute auf den Abgleich.*
+     ➔ Сегодня мы концентрируемся на теме: сверка / сопоставление.
+  5. *Der Abgleich spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сверка / сопоставление играет решающую роль в успехе.
+
+### 1811. der Bewertungspreis, die Bewertungspreise [🎥 YouGlish](https://de.youglish.com/pronounce/Bewertungspreis/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** цена оценки
+- **Translation (EN):** valuation price
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Bewertungspreis.*
+     ➔ Вот цена оценки.
+  2. *Wir müssen den Bewertungspreis genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: цена оценки.
+  3. *Sind Sie mit dem Bewertungspreis einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: цена оценки?
+  4. *Wir konzentrieren uns heute auf den Bewertungspreis.*
+     ➔ Сегодня мы концентрируемся на теме: цена оценки.
+  5. *Der Bewertungspreis spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Цена оценки играет решающую роль в успехе.
+
+### 1812. das Bewertungsverfahren, die Bewertungsverfahren [🎥 YouGlish](https://de.youglish.com/pronounce/Bewertungsverfahren/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** метод оценки
+- **Translation (EN):** valuation method
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Bewertungsverfahren.*
+     ➔ Вот метод оценки.
+  2. *Wir müssen das Bewertungsverfahren genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: метод оценки.
+  3. *Sind Sie mit dem Bewertungsverfahren einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: метод оценки?
+  4. *Wir konzentrieren uns heute auf das Bewertungsverfahren.*
+     ➔ Сегодня мы концентрируемся на теме: метод оценки.
+  5. *Das Bewertungsverfahren spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Метод оценки играет решающую роль в успехе.
+
+### 1813. die FIFO-Methode, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/FIFO-Methode/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** метод ФИФО
+- **Translation (EN):** FIFO method
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die FIFO-Methode.*
+     ➔ Вот метод ФИФО.
+  2. *Wir müssen die FIFO-Methode genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: метод ФИФО.
+  3. *Sind Sie mit der FIFO-Methode einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: метод ФИФО?
+  4. *Wir konzentrieren uns heute auf die FIFO-Methode.*
+     ➔ Сегодня мы концентрируемся на теме: метод ФИФО.
+  5. *Die FIFO-Methode spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Метод ФИФО играет решающую роль в успехе.
+
+### 1814. die LIFO-Methode, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/LIFO-Methode/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** метод ЛИФО
+- **Translation (EN):** LIFO method
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die LIFO-Methode.*
+     ➔ Вот метод ЛИФО.
+  2. *Wir müssen die LIFO-Methode genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: метод ЛИФО.
+  3. *Sind Sie mit der LIFO-Methode einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: метод ЛИФО?
+  4. *Wir konzentrieren uns heute auf die LIFO-Methode.*
+     ➔ Сегодня мы концентрируемся на теме: метод ЛИФО.
+  5. *Die LIFO-Methode spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Метод ЛИФО играет решающую роль в успехе.
+
+### 1815. die Herstellungskosten, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/Herstellungskosten/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** производственная себестоимость
+- **Translation (EN):** cost of goods manufactured
+- **Примеры использования (Beispiele):**
+  1. *Hier sind die Herstellungskosten.*
+     ➔ Вот производственная себестоимость.
+  2. *Wir müssen die Herstellungskosten genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: производственная себестоимость.
+  3. *Sind Sie mit den Herstellungskosten einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: производственная себестоимость?
+  4. *Wir konzentrieren uns heute auf die Herstellungskosten.*
+     ➔ Сегодня мы концентрируемся на теме: производственная себестоимость.
+  5. *Die Herstellungskosten spielen eine entscheidende Rolle für den Erfolg.*
+     ➔ Производственная себестоимость играет решающую роль в успехе.
+
+### 1816. das Periodenende, die Periodenenden [🎥 YouGlish](https://de.youglish.com/pronounce/Periodenende/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** конец периода
+- **Translation (EN):** period end
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Periodenende.*
+     ➔ Вот конец периода.
+  2. *Wir müssen das Periodenende genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: конец периода.
+  3. *Sind Sie mit dem Periodenende einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: конец периода?
+  4. *Wir konzentrieren uns heute auf das Periodenende.*
+     ➔ Сегодня мы концентрируемся на теме: конец периода.
+  5. *Das Periodenende spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Конец периода играет решающую роль в успехе.
+
+
+---
+
+## <a name="vertrieb--kundenmanagement-sd"></a>Vertrieb & Kundenmanagement (SD)
+
+### 1817. der Kundenauftrag, die Kundenaufträge [🎥 YouGlish](https://de.youglish.com/pronounce/Kundenauftrag/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** заказ клиента
+- **Translation (EN):** sales order
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Kundenauftrag.*
+     ➔ Вот заказ клиента.
+  2. *Wir müssen den Kundenauftrag genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: заказ клиента.
+  3. *Sind Sie mit dem Kundenauftrag einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: заказ клиента?
+  4. *Wir konzentrieren uns heute auf den Kundenauftrag.*
+     ➔ Сегодня мы концентрируемся на теме: заказ клиента.
+  5. *Der Kundenauftrag spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Заказ клиента играет решающую роль в успехе.
+
+### 1818. die Faktura, die Fakturen [🎥 YouGlish](https://de.youglish.com/pronounce/Faktura/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** фактура / счет-фактура
+- **Translation (EN):** billing document / invoice
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Faktura.*
+     ➔ Вот фактура / счет-фактура.
+  2. *Wir müssen die Faktura genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: фактура / счет-фактура.
+  3. *Sind Sie mit der Faktura einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: фактура / счет-фактура?
+  4. *Wir konzentrieren uns heute auf die Faktura.*
+     ➔ Сегодня мы концентрируемся на теме: фактура / счет-фактура.
+  5. *Die Faktura spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Фактура / счет-фактура играет решающую роль в успехе.
+
+### 1819. fakturieren [🎥 YouGlish](https://de.youglish.com/pronounce/fakturieren/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B2
+- **Перевод (RU):** выставлять счет-фактуру
+- **Translation (EN):** to bill / invoice
+- **Partizip II:** fakturiert
+- **Императив (Imperativ):** fakturiere! / fakturiert! / fakturieren Sie!
+- **Спряжение (Konjugation - Präsens):** ich *fakturiere*, du *fakturierst*, er/sie/es *fakturiert*, wir *fakturieren*, ihr *fakturiert*, sie/Sie *fakturieren*
+- **Примеры использования (Beispiele):**
+  1. *Wir fakturieren diese Angelegenheit direkt im Team.*
+     ➔ Мы выставлять счет-фактуру этот вопрос непосредственно в команде.
+  2. *Ich fakturiere die notwendigen Unterlagen sofort.*
+     ➔ Я выставлять счет-фактуру необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege fakturiert das Ganze sehr professionell.*
+     ➔ Ответственный коллега выставлять счет-фактуру всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich fakturiert.*
+     ➔ Мы успешно выставлять счет-фактуру (в прошедшем времени) эту тему.
+  5. *fakturieren Sie bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: выставлять счет-фактуру вовремя!
+
+### 1820. die Vertriebslinie, die Vertriebslinien [🎥 YouGlish](https://de.youglish.com/pronounce/Vertriebslinie/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** канал сбыта / сбытовая линия
+- **Translation (EN):** sales line / distribution channel
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Vertriebslinie.*
+     ➔ Вот канал сбыта / сбытовая линия.
+  2. *Wir müssen die Vertriebslinie genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: канал сбыта / сбытовая линия.
+  3. *Sind Sie mit der Vertriebslinie einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: канал сбыта / сбытовая линия?
+  4. *Wir konzentrieren uns heute auf die Vertriebslinie.*
+     ➔ Сегодня мы концентрируемся на теме: канал сбыта / сбытовая линия.
+  5. *Die Vertriebslinie spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Канал сбыта / сбытовая линия играет решающую роль в успехе.
+
+### 1821. der Vertriebskanal, die Vertriebskanäle [🎥 YouGlish](https://de.youglish.com/pronounce/Vertriebskanal/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** канал сбыта
+- **Translation (EN):** distribution channel
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Vertriebskanal.*
+     ➔ Вот канал сбыта.
+  2. *Wir müssen den Vertriebskanal genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: канал сбыта.
+  3. *Sind Sie mit dem Vertriebskanal einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: канал сбыта?
+  4. *Wir konzentrieren uns heute auf den Vertriebskanal.*
+     ➔ Сегодня мы концентрируемся на теме: канал сбыта.
+  5. *Der Vertriebskanal spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Канал сбыта играет решающую роль в успехе.
+
+### 1822. die Sparte, die Sparten [🎥 YouGlish](https://de.youglish.com/pronounce/Sparte/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сектор деятельности / сектор сбыта
+- **Translation (EN):** division
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Sparte.*
+     ➔ Вот сектор деятельности / сектор сбыта.
+  2. *Wir müssen die Sparte genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сектор деятельности / сектор сбыта.
+  3. *Sind Sie mit der Sparte einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сектор деятельности / сектор сбыта?
+  4. *Wir konzentrieren uns heute auf die Sparte.*
+     ➔ Сегодня мы концентрируемся на теме: сектор деятельности / сектор сбыта.
+  5. *Die Sparte spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сектор деятельности / сектор сбыта играет решающую роль в успехе.
+
+### 1823. die Verkaufsorganisation, die Verkaufsorganisationen [🎥 YouGlish](https://de.youglish.com/pronounce/Verkaufsorganisation/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сбытовая организация
+- **Translation (EN):** sales organization
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Verkaufsorganisation.*
+     ➔ Вот сбытовая организация.
+  2. *Wir müssen die Verkaufsorganisation genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сбытовая организация.
+  3. *Sind Sie mit der Verkaufsorganisation einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сбытовая организация?
+  4. *Wir konzentrieren uns heute auf die Verkaufsorganisation.*
+     ➔ Сегодня мы концентрируемся на теме: сбытовая организация.
+  5. *Die Verkaufsorganisation spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сбытовая организация играет решающую роль в успехе.
+
+### 1824. der Vertriebsbereich, die Vertriebsbereiche [🎥 YouGlish](https://de.youglish.com/pronounce/Vertriebsbereich/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сектор сбыта (продаж)
+- **Translation (EN):** sales area
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Vertriebsbereich.*
+     ➔ Вот сектор сбыта (продаж).
+  2. *Wir müssen den Vertriebsbereich genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сектор сбыта (продаж).
+  3. *Sind Sie mit dem Vertriebsbereich einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сектор сбыта (продаж)?
+  4. *Wir konzentrieren uns heute auf den Vertriebsbereich.*
+     ➔ Сегодня мы концентрируемся на теме: сектор сбыта (продаж).
+  5. *Der Vertriebsbereich spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сектор сбыта (продаж) играет решающую роль в успехе.
+
+### 1825. die Vertriebsorganisation, die Vertriebsorganisationen [🎥 YouGlish](https://de.youglish.com/pronounce/Vertriebsorganisation/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сбытовая организация
+- **Translation (EN):** sales organization
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Vertriebsorganisation.*
+     ➔ Вот сбытовая организация.
+  2. *Wir müssen die Vertriebsorganisation genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сбытовая организация.
+  3. *Sind Sie mit der Vertriebsorganisation einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сбытовая организация?
+  4. *Wir konzentrieren uns heute auf die Vertriebsorganisation.*
+     ➔ Сегодня мы концентрируемся на теме: сбытовая организация.
+  5. *Die Vertriebsorganisation spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сбытовая организация играет решающую роль в успехе.
+
+### 1826. die Versandstelle, die Versandstellen [🎥 YouGlish](https://de.youglish.com/pronounce/Versandstelle/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** пункт отгрузки
+- **Translation (EN):** shipping point
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Versandstelle.*
+     ➔ Вот пункт отгрузки.
+  2. *Wir müssen die Versandstelle genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: пункт отгрузки.
+  3. *Sind Sie mit der Versandstelle einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: пункт отгрузки?
+  4. *Wir konzentrieren uns heute auf die Versandstelle.*
+     ➔ Сегодня мы концентрируемся на теме: пункт отгрузки.
+  5. *Die Versandstelle spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Пункт отгрузки играет решающую роль в успехе.
+
+### 1827. der Lieferbeleg, die Lieferbelege [🎥 YouGlish](https://de.youglish.com/pronounce/Lieferbeleg/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** документ поставки
+- **Translation (EN):** delivery document
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Lieferbeleg.*
+     ➔ Вот документ поставки.
+  2. *Wir müssen den Lieferbeleg genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: документ поставки.
+  3. *Sind Sie mit dem Lieferbeleg einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: документ поставки?
+  4. *Wir konzentrieren uns heute auf den Lieferbeleg.*
+     ➔ Сегодня мы концентрируемся на теме: документ поставки.
+  5. *Der Lieferbeleg spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Документ поставки играет решающую роль в успехе.
+
+### 1828. die Auslieferung, die Auslieferungen [🎥 YouGlish](https://de.youglish.com/pronounce/Auslieferung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** исходящая поставка
+- **Translation (EN):** outbound delivery
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Auslieferung.*
+     ➔ Вот исходящая поставка.
+  2. *Wir müssen die Auslieferung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: исходящая поставка.
+  3. *Sind Sie mit der Auslieferung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: исходящая поставка?
+  4. *Wir konzentrieren uns heute auf die Auslieferung.*
+     ➔ Сегодня мы концентрируемся на теме: исходящая поставка.
+  5. *Die Auslieferung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Исходящая поставка играет решающую роль в успехе.
+
+### 1829. die Anlieferung, die Anlieferungen [🎥 YouGlish](https://de.youglish.com/pronounce/Anlieferung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** входящая поставка
+- **Translation (EN):** inbound delivery
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Anlieferung.*
+     ➔ Вот входящая поставка.
+  2. *Wir müssen die Anlieferung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: входящая поставка.
+  3. *Sind Sie mit der Anlieferung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: входящая поставка?
+  4. *Wir konzentrieren uns heute auf die Anlieferung.*
+     ➔ Сегодня мы концентрируемся на теме: входящая поставка.
+  5. *Die Anlieferung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Входящая поставка играет решающую роль в успехе.
+
+### 1830. das Angebot, die Angebote [🎥 YouGlish](https://de.youglish.com/pronounce/Angebot/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** коммерческое предложение
+- **Translation (EN):** quotation / offer
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Angebot.*
+     ➔ Вот коммерческое предложение.
+  2. *Wir müssen das Angebot genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: коммерческое предложение.
+  3. *Sind Sie mit dem Angebot einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: коммерческое предложение?
+  4. *Wir konzentrieren uns heute auf das Angebot.*
+     ➔ Сегодня мы концентрируемся на теме: коммерческое предложение.
+  5. *Das Angebot spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Коммерческое предложение играет решающую роль в успехе.
+
+### 1831. die Anfrage, die Anfragen [🎥 YouGlish](https://de.youglish.com/pronounce/Anfrage/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** запрос
+- **Translation (EN):** inquiry
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Anfrage.*
+     ➔ Вот запрос.
+  2. *Wir müssen die Anfrage genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: запрос.
+  3. *Sind Sie mit der Anfrage einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: запрос?
+  4. *Wir konzentrieren uns heute auf die Anfrage.*
+     ➔ Сегодня мы концентрируемся на теме: запрос.
+  5. *Die Anfrage spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Запрос играет решающую роль в успехе.
+
+### 1832. die Kontraktverwaltung, die Kontraktverwaltungen [🎥 YouGlish](https://de.youglish.com/pronounce/Kontraktverwaltung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** управление контрактами
+- **Translation (EN):** contract management
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Kontraktverwaltung.*
+     ➔ Вот управление контрактами.
+  2. *Wir müssen die Kontraktverwaltung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: управление контрактами.
+  3. *Sind Sie mit der Kontraktverwaltung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: управление контрактами?
+  4. *Wir konzentrieren uns heute auf die Kontraktverwaltung.*
+     ➔ Сегодня мы концентрируемся на теме: управление контрактами.
+  5. *Die Kontraktverwaltung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Управление контрактами играет решающую роль в успехе.
+
+### 1833. der Kontrakt, die Kontrakte [🎥 YouGlish](https://de.youglish.com/pronounce/Kontrakt/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** контракт / договор
+- **Translation (EN):** contract
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Kontrakt.*
+     ➔ Вот контракт / договор.
+  2. *Wir müssen den Kontrakt genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: контракт / договор.
+  3. *Sind Sie mit dem Kontrakt einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: контракт / договор?
+  4. *Wir konzentrieren uns heute auf den Kontrakt.*
+     ➔ Сегодня мы концентрируемся на теме: контракт / договор.
+  5. *Der Kontrakt spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Контракт / договор играет решающую роль в успехе.
+
+### 1834. der Mengenkontrakt, die Mengenkontrakte [🎥 YouGlish](https://de.youglish.com/pronounce/Mengenkontrakt/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** количественный контракт
+- **Translation (EN):** quantity contract
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Mengenkontrakt.*
+     ➔ Вот количественный контракт.
+  2. *Wir müssen den Mengenkontrakt genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: количественный контракт.
+  3. *Sind Sie mit dem Mengenkontrakt einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: количественный контракт?
+  4. *Wir konzentrieren uns heute auf den Mengenkontrakt.*
+     ➔ Сегодня мы концентрируемся на теме: количественный контракт.
+  5. *Der Mengenkontrakt spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Количественный контракт играет решающую роль в успехе.
+
+### 1835. der Wertkontrakt, die Wertkontrakte [🎥 YouGlish](https://de.youglish.com/pronounce/Wertkontrakt/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** стоимостный контракт
+- **Translation (EN):** value contract
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Wertkontrakt.*
+     ➔ Вот стоимостный контракт.
+  2. *Wir müssen den Wertkontrakt genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: стоимостный контракт.
+  3. *Sind Sie mit dem Wertkontrakt einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: стоимостный контракт?
+  4. *Wir konzentrieren uns heute auf den Wertkontrakt.*
+     ➔ Сегодня мы концентрируемся на теме: стоимостный контракт.
+  5. *Der Wertkontrakt spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Стоимостный контракт играет решающую роль в успехе.
+
+### 1836. der Lieferplan, die Lieferpläne [🎥 YouGlish](https://de.youglish.com/pronounce/Lieferplan/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** соглашение о поставках / график поставок
+- **Translation (EN):** scheduling agreement
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Lieferplan.*
+     ➔ Вот соглашение о поставках / график поставок.
+  2. *Wir müssen den Lieferplan genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: соглашение о поставках / график поставок.
+  3. *Sind Sie mit dem Lieferplan einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: соглашение о поставках / график поставок?
+  4. *Wir konzentrieren uns heute auf den Lieferplan.*
+     ➔ Сегодня мы концентрируемся на теме: соглашение о поставках / график поставок.
+  5. *Der Lieferplan spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Соглашение о поставках / график поставок играет решающую роль в успехе.
+
+### 1837. die Einteilung, die Einteilungen [🎥 YouGlish](https://de.youglish.com/pronounce/Einteilung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** партия поставки (строка графика)
+- **Translation (EN):** schedule line
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Einteilung.*
+     ➔ Вот партия поставки (строка графика).
+  2. *Wir müssen die Einteilung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: партия поставки (строка графика).
+  3. *Sind Sie mit der Einteilung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: партия поставки (строка графика)?
+  4. *Wir konzentrieren uns heute auf die Einteilung.*
+     ➔ Сегодня мы концентрируемся на теме: партия поставки (строка графика).
+  5. *Die Einteilung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Партия поставки (строка графика) играет решающую роль в успехе.
+
+### 1838. die Partnerrolle, die Partnerrollen [🎥 YouGlish](https://de.youglish.com/pronounce/Partnerrolle/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** роль партнера
+- **Translation (EN):** partner function
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Partnerrolle.*
+     ➔ Вот роль партнера.
+  2. *Wir müssen die Partnerrolle genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: роль партнера.
+  3. *Sind Sie mit der Partnerrolle einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: роль партнера?
+  4. *Wir konzentrieren uns heute auf die Partnerrolle.*
+     ➔ Сегодня мы концентрируемся на теме: роль партнера.
+  5. *Die Partnerrolle spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Роль партнера играет решающую роль в успехе.
+
+### 1839. der Warenempfänger, die Warenempfänger [🎥 YouGlish](https://de.youglish.com/pronounce/Warenempf%C3%A4nger/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** получатель материала
+- **Translation (EN):** ship-to party
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Warenempfänger.*
+     ➔ Вот получатель материала.
+  2. *Wir müssen den Warenempfänger genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: получатель материала.
+  3. *Sind Sie mit dem Warenempfänger einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: получатель материала?
+  4. *Wir konzentrieren uns heute auf den Warenempfänger.*
+     ➔ Сегодня мы концентрируемся на теме: получатель материала.
+  5. *Der Warenempfänger spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Получатель материала играет решающую роль в успехе.
+
+### 1840. der Rechnungsempfänger, die Rechnungsempfänger [🎥 YouGlish](https://de.youglish.com/pronounce/Rechnungsempf%C3%A4nger/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** получатель счета
+- **Translation (EN):** bill-to party
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Rechnungsempfänger.*
+     ➔ Вот получатель счета.
+  2. *Wir müssen den Rechnungsempfänger genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: получатель счета.
+  3. *Sind Sie mit dem Rechnungsempfänger einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: получатель счета?
+  4. *Wir konzentrieren uns heute auf den Rechnungsempfänger.*
+     ➔ Сегодня мы концентрируемся на теме: получатель счета.
+  5. *Der Rechnungsempfänger spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Получатель счета играет решающую роль в успехе.
+
+### 1841. der Regulierer, die Regulierer [🎥 YouGlish](https://de.youglish.com/pronounce/Regulierer/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** плательщик
+- **Translation (EN):** payer
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Regulierer.*
+     ➔ Вот плательщик.
+  2. *Wir müssen den Regulierer genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: плательщик.
+  3. *Sind Sie mit dem Regulierer einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: плательщик?
+  4. *Wir konzentrieren uns heute auf den Regulierer.*
+     ➔ Сегодня мы концентрируемся на теме: плательщик.
+  5. *Der Regulierer spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Плательщик играет решающую роль в успехе.
+
+### 1842. die Preisfindung, die Preisfindungen [🎥 YouGlish](https://de.youglish.com/pronounce/Preisfindung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** ценообразование
+- **Translation (EN):** pricing
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Preisfindung.*
+     ➔ Вот ценообразование.
+  2. *Wir müssen die Preisfindung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: ценообразование.
+  3. *Sind Sie mit der Preisfindung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: ценообразование?
+  4. *Wir konzentrieren uns heute auf die Preisfindung.*
+     ➔ Сегодня мы концентрируемся на теме: ценообразование.
+  5. *Die Preisfindung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Ценообразование играет решающую роль в успехе.
+
+### 1843. das Kalkulationsschema, die Kalkulationsschemata [🎥 YouGlish](https://de.youglish.com/pronounce/Kalkulationsschema/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** схема калькуляции
+- **Translation (EN):** pricing procedure
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Kalkulationsschema.*
+     ➔ Вот схема калькуляции.
+  2. *Wir müssen das Kalkulationsschema genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: схема калькуляции.
+  3. *Sind Sie mit dem Kalkulationsschema einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: схема калькуляции?
+  4. *Wir konzentrieren uns heute auf das Kalkulationsschema.*
+     ➔ Сегодня мы концентрируемся на теме: схема калькуляции.
+  5. *Das Kalkulationsschema spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Схема калькуляции играет решающую роль в успехе.
+
+### 1844. die Konditionsart, die Konditionsarten [🎥 YouGlish](https://de.youglish.com/pronounce/Konditionsart/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** вид условия
+- **Translation (EN):** condition type
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Konditionsart.*
+     ➔ Вот вид условия.
+  2. *Wir müssen die Konditionsart genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: вид условия.
+  3. *Sind Sie mit der Konditionsart einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: вид условия?
+  4. *Wir konzentrieren uns heute auf die Konditionsart.*
+     ➔ Сегодня мы концентрируемся на теме: вид условия.
+  5. *Die Konditionsart spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Вид условия играет решающую роль в успехе.
+
+### 1845. der Konditionssatz, die Konditionssätze [🎥 YouGlish](https://de.youglish.com/pronounce/Konditionssatz/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** запись условия
+- **Translation (EN):** condition record
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Konditionssatz.*
+     ➔ Вот запись условия.
+  2. *Wir müssen den Konditionssatz genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: запись условия.
+  3. *Sind Sie mit dem Konditionssatz einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: запись условия?
+  4. *Wir konzentrieren uns heute auf den Konditionssatz.*
+     ➔ Сегодня мы концентрируемся на теме: запись условия.
+  5. *Der Konditionssatz spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Запись условия играет решающую роль в успехе.
+
+### 1846. die Konditionstabelle, die Konditionstabellen [🎥 YouGlish](https://de.youglish.com/pronounce/Konditionstabelle/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** таблица условий
+- **Translation (EN):** condition table
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Konditionstabelle.*
+     ➔ Вот таблица условий.
+  2. *Wir müssen die Konditionstabelle genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: таблица условий.
+  3. *Sind Sie mit der Konditionstabelle einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: таблица условий?
+  4. *Wir konzentrieren uns heute auf die Konditionstabelle.*
+     ➔ Сегодня мы концентрируемся на теме: таблица условий.
+  5. *Die Konditionstabelle spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Таблица условий играет решающую роль в успехе.
+
+### 1847. die Zugriffsfolge, die Zugriffsfolgen [🎥 YouGlish](https://de.youglish.com/pronounce/Zugriffsfolge/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** последовательность доступа
+- **Translation (EN):** access sequence
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Zugriffsfolge.*
+     ➔ Вот последовательность доступа.
+  2. *Wir müssen die Zugriffsfolge genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: последовательность доступа.
+  3. *Sind Sie mit der Zugriffsfolge einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: последовательность доступа?
+  4. *Wir konzentrieren uns heute auf die Zugriffsfolge.*
+     ➔ Сегодня мы концентрируемся на теме: последовательность доступа.
+  5. *Die Zugriffsfolge spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Последовательность доступа играет решающую роль в успехе.
+
+### 1848. der Rabatt, die Rabatte [🎥 YouGlish](https://de.youglish.com/pronounce/Rabatt/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** скидка
+- **Translation (EN):** discount
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Rabatt.*
+     ➔ Вот скидка.
+  2. *Wir müssen den Rabatt genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: скидка.
+  3. *Sind Sie mit dem Rabatt einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: скидка?
+  4. *Wir konzentrieren uns heute auf den Rabatt.*
+     ➔ Сегодня мы концентрируемся на теме: скидка.
+  5. *Der Rabatt spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Скидка играет решающую роль в успехе.
+
+### 1849. der Zuschlag, die Zuschläge [🎥 YouGlish](https://de.youglish.com/pronounce/Zuschlag/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** наценка / доплата
+- **Translation (EN):** surcharge
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Zuschlag.*
+     ➔ Вот наценка / доплата.
+  2. *Wir müssen den Zuschlag genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: наценка / доплата.
+  3. *Sind Sie mit dem Zuschlag einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: наценка / доплата?
+  4. *Wir konzentrieren uns heute auf den Zuschlag.*
+     ➔ Сегодня мы концентрируемся на теме: наценка / доплата.
+  5. *Der Zuschlag spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Наценка / доплата играет решающую роль в успехе.
+
+### 1850. die Frachtkosten, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/Frachtkosten/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** расходы на транспортировку
+- **Translation (EN):** freight costs
+- **Примеры использования (Beispiele):**
+  1. *Hier sind die Frachtkosten.*
+     ➔ Вот расходы на транспортировку.
+  2. *Wir müssen die Frachtkosten genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: расходы на транспортировку.
+  3. *Sind Sie mit den Frachtkosten einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: расходы на транспортировку?
+  4. *Wir konzentrieren uns heute auf die Frachtkosten.*
+     ➔ Сегодня мы концентрируемся на теме: расходы на транспортировку.
+  5. *Die Frachtkosten spielen eine entscheidende Rolle für den Erfolg.*
+     ➔ Расходы на транспортировку играет решающую роль в успехе.
+
+### 1851. die Verfügbarkeitsprüfung, die Verfügbarkeitsprüfungen [🎥 YouGlish](https://de.youglish.com/pronounce/Verf%C3%BCgbarkeitspr%C3%BCfung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** проверка доступности (ATP)
+- **Translation (EN):** availability check (ATP)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Verfügbarkeitsprüfung.*
+     ➔ Вот проверка доступности (ATP).
+  2. *Wir müssen die Verfügbarkeitsprüfung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: проверка доступности (ATP).
+  3. *Sind Sie mit der Verfügbarkeitsprüfung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: проверка доступности (ATP)?
+  4. *Wir konzentrieren uns heute auf die Verfügbarkeitsprüfung.*
+     ➔ Сегодня мы концентрируемся на теме: проверка доступности (ATP).
+  5. *Die Verfügbarkeitsprüfung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Проверка доступности (ATP) играет решающую роль в успехе.
+
+### 1852. die Streckenabwicklung, die Streckenabwicklungen [🎥 YouGlish](https://de.youglish.com/pronounce/Streckenabwicklung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** транзитная поставка (третьим лицам)
+- **Translation (EN):** third-party order processing
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Streckenabwicklung.*
+     ➔ Вот транзитная поставка (третьим лицам).
+  2. *Wir müssen die Streckenabwicklung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: транзитная поставка (третьим лицам).
+  3. *Sind Sie mit der Streckenabwicklung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: транзитная поставка (третьим лицам)?
+  4. *Wir konzentrieren uns heute auf die Streckenabwicklung.*
+     ➔ Сегодня мы концентрируемся на теме: транзитная поставка (третьим лицам).
+  5. *Die Streckenabwicklung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Транзитная поставка (третьим лицам) играет решающую роль в успехе.
+
+### 1853. die Umlagerungsbestellung, die Umlagerungsbestellungen [🎥 YouGlish](https://de.youglish.com/pronounce/Umlagerungsbestellung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** заказ на перемещение запаса
+- **Translation (EN):** stock transport order
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Umlagerungsbestellung.*
+     ➔ Вот заказ на перемещение запаса.
+  2. *Wir müssen die Umlagerungsbestellung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: заказ на перемещение запаса.
+  3. *Sind Sie mit der Umlagerungsbestellung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: заказ на перемещение запаса?
+  4. *Wir konzentrieren uns heute auf die Umlagerungsbestellung.*
+     ➔ Сегодня мы концентрируемся на теме: заказ на перемещение запаса.
+  5. *Die Umlagerungsbestellung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Заказ на перемещение запаса играет решающую роль в успехе.
+
+### 1854. der Konsignationsbeschaffung, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Konsignationsbeschaffung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** пополнение консигнационного запаса
+- **Translation (EN):** consignment replenishment
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Konsignationsbeschaffung.*
+     ➔ Вот пополнение консигнационного запаса.
+  2. *Wir müssen den Konsignationsbeschaffung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: пополнение консигнационного запаса.
+  3. *Sind Sie mit dem Konsignationsbeschaffung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: пополнение консигнационного запаса?
+  4. *Wir konzentrieren uns heute auf den Konsignationsbeschaffung.*
+     ➔ Сегодня мы концентрируемся на теме: пополнение консигнационного запаса.
+  5. *Der Konsignationsbeschaffung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Пополнение консигнационного запаса играет решающую роль в успехе.
+
+### 1855. die Konsignationsentnahme, die Entnahmen [🎥 YouGlish](https://de.youglish.com/pronounce/Konsignationsentnahme/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** отпуск с консигнационного запаса
+- **Translation (EN):** consignment issue
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Konsignationsentnahme.*
+     ➔ Вот отпуск с консигнационного запаса.
+  2. *Wir müssen die Konsignationsentnahme genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: отпуск с консигнационного запаса.
+  3. *Sind Sie mit der Konsignationsentnahme einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: отпуск с консигнационного запаса?
+  4. *Wir konzentrieren uns heute auf die Konsignationsentnahme.*
+     ➔ Сегодня мы концентрируемся на теме: отпуск с консигнационного запаса.
+  5. *Die Konsignationsentnahme spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Отпуск с консигнационного запаса играет решающую роль в успехе.
+
+### 1856. die Konsignationsbeschickung, die Beschickungen [🎥 YouGlish](https://de.youglish.com/pronounce/Konsignationsbeschickung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** поставка на консигнацию
+- **Translation (EN):** consignment fill-up
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Konsignationsbeschickung.*
+     ➔ Вот поставка на консигнацию.
+  2. *Wir müssen die Konsignationsbeschickung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: поставка на консигнацию.
+  3. *Sind Sie mit der Konsignationsbeschickung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: поставка на консигнацию?
+  4. *Wir konzentrieren uns heute auf die Konsignationsbeschickung.*
+     ➔ Сегодня мы концентрируемся на теме: поставка на консигнацию.
+  5. *Die Konsignationsbeschickung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Поставка на консигнацию играет решающую роль в успехе.
+
+### 1857. die Konsignationsrücknahme, die Rücknahmen [🎥 YouGlish](https://de.youglish.com/pronounce/Konsignationsr%C3%BCcknahme/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** возврат с консигнации
+- **Translation (EN):** consignment pick-up
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Konsignationsrücknahme.*
+     ➔ Вот возврат с консигнации.
+  2. *Wir müssen die Konsignationsrücknahme genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: возврат с консигнации.
+  3. *Sind Sie mit der Konsignationsrücknahme einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: возврат с консигнации?
+  4. *Wir konzentrieren uns heute auf die Konsignationsrücknahme.*
+     ➔ Сегодня мы концентрируемся на теме: возврат с консигнации.
+  5. *Die Konsignationsrücknahme spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Возврат с консигнации играет решающую роль в успехе.
+
+### 1858. die Retoure, die Retouren [🎥 YouGlish](https://de.youglish.com/pronounce/Retoure/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** возврат товара
+- **Translation (EN):** return
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Retoure.*
+     ➔ Вот возврат товара.
+  2. *Wir müssen die Retoure genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: возврат товара.
+  3. *Sind Sie mit der Retoure einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: возврат товара?
+  4. *Wir konzentrieren uns heute auf die Retoure.*
+     ➔ Сегодня мы концентрируемся на теме: возврат товара.
+  5. *Die Retoure spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Возврат товара играет решающую роль в успехе.
+
+### 1859. die Retourenabwicklung, die Retourenabwicklungen [🎥 YouGlish](https://de.youglish.com/pronounce/Retourenabwicklung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** обработка возвратов
+- **Translation (EN):** returns processing
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Retourenabwicklung.*
+     ➔ Вот обработка возвратов.
+  2. *Wir müssen die Retourenabwicklung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: обработка возвратов.
+  3. *Sind Sie mit der Retourenabwicklung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: обработка возвратов?
+  4. *Wir konzentrieren uns heute auf die Retourenabwicklung.*
+     ➔ Сегодня мы концентрируемся на теме: обработка возвратов.
+  5. *Die Retourenabwicklung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Обработка возвратов играет решающую роль в успехе.
+
+### 1860. die Gutschriftenanforderung, die Gutschriftenanforderungen [🎥 YouGlish](https://de.youglish.com/pronounce/Gutschriftenanforderung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** запрос кредитового авизо
+- **Translation (EN):** credit memo request
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Gutschriftenanforderung.*
+     ➔ Вот запрос кредитового авизо.
+  2. *Wir müssen die Gutschriftenanforderung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: запрос кредитового авизо.
+  3. *Sind Sie mit der Gutschriftenanforderung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: запрос кредитового авизо?
+  4. *Wir konzentrieren uns heute auf die Gutschriftenanforderung.*
+     ➔ Сегодня мы концентрируемся на теме: запрос кредитового авизо.
+  5. *Die Gutschriftenanforderung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Запрос кредитового авизо играет решающую роль в успехе.
+
+### 1861. die Lastschriftenanforderung, die Lastschriftenanforderungen [🎥 YouGlish](https://de.youglish.com/pronounce/Lastschriftenanforderung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** запрос дебетового авизо
+- **Translation (EN):** debit memo request
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Lastschriftenanforderung.*
+     ➔ Вот запрос дебетового авизо.
+  2. *Wir müssen die Lastschriftenanforderung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: запрос дебетового авизо.
+  3. *Sind Sie mit der Lastschriftenanforderung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: запрос дебетового авизо?
+  4. *Wir konzentrieren uns heute auf die Lastschriftenanforderung.*
+     ➔ Сегодня мы концентрируемся на теме: запрос дебетового авизо.
+  5. *Die Lastschriftenanforderung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Запрос дебетового авизо играет решающую роль в успехе.
+
+### 1862. die Fakturasperre, die Fakturasperren [🎥 YouGlish](https://de.youglish.com/pronounce/Fakturasperre/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** блокировка фактурирования
+- **Translation (EN):** billing block
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Fakturasperre.*
+     ➔ Вот блокировка фактурирования.
+  2. *Wir müssen die Fakturasperre genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: блокировка фактурирования.
+  3. *Sind Sie mit der Fakturasperre einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: блокировка фактурирования?
+  4. *Wir konzentrieren uns heute auf die Fakturasperre.*
+     ➔ Сегодня мы концентрируемся на теме: блокировка фактурирования.
+  5. *Die Fakturasperre spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Блокировка фактурирования играет решающую роль в успехе.
+
+### 1863. die Liefersperre, die Liefersperren [🎥 YouGlish](https://de.youglish.com/pronounce/Liefersperre/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** блокировка поставки
+- **Translation (EN):** delivery block
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Liefersperre.*
+     ➔ Вот блокировка поставки.
+  2. *Wir müssen die Liefersperre genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: блокировка поставки.
+  3. *Sind Sie mit der Liefersperre einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: блокировка поставки?
+  4. *Wir konzentrieren uns heute auf die Liefersperre.*
+     ➔ Сегодня мы концентрируемся на теме: блокировка поставки.
+  5. *Die Liefersperre spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Блокировка поставки играет решающую роль в успехе.
+
+### 1864. die Kreditprüfung, die Kreditprüfungen [🎥 YouGlish](https://de.youglish.com/pronounce/Kreditpr%C3%BCfung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** проверка кредитного лимита
+- **Translation (EN):** credit limit check
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Kreditprüfung.*
+     ➔ Вот проверка кредитного лимита.
+  2. *Wir müssen die Kreditprüfung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: проверка кредитного лимита.
+  3. *Sind Sie mit der Kreditprüfung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: проверка кредитного лимита?
+  4. *Wir konzentrieren uns heute auf die Kreditprüfung.*
+     ➔ Сегодня мы концентрируемся на теме: проверка кредитного лимита.
+  5. *Die Kreditprüfung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Проверка кредитного лимита играет решающую роль в успехе.
+
+### 1865. die Kreditsperre, die Kreditsperren [🎥 YouGlish](https://de.youglish.com/pronounce/Kreditsperre/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** кредитная блокировка
+- **Translation (EN):** credit block
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Kreditsperre.*
+     ➔ Вот кредитная блокировка.
+  2. *Wir müssen die Kreditsperre genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: кредитная блокировка.
+  3. *Sind Sie mit der Kreditsperre einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: кредитная блокировка?
+  4. *Wir konzentrieren uns heute auf die Kreditsperre.*
+     ➔ Сегодня мы концентрируемся на теме: кредитная блокировка.
+  5. *Die Kreditsperre spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Кредитная блокировка играет решающую роль в успехе.
+
+### 1866. das Kreditmanagement, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Kreditmanagement/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** управление кредитами (FSCM)
+- **Translation (EN):** credit management
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Kreditmanagement.*
+     ➔ Вот управление кредитами (FSCM).
+  2. *Wir müssen das Kreditmanagement genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: управление кредитами (FSCM).
+  3. *Sind Sie mit dem Kreditmanagement einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: управление кредитами (FSCM)?
+  4. *Wir konzentrieren uns heute auf das Kreditmanagement.*
+     ➔ Сегодня мы концентрируемся на теме: управление кредитами (FSCM).
+  5. *Das Kreditmanagement spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Управление кредитами (FSCM) играет решающую роль в успехе.
+
+### 1867. der Bonitätsindex, die Bonitätsindizes [🎥 YouGlish](https://de.youglish.com/pronounce/Bonit%C3%A4tsindex/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** индекс платежеспособности
+- **Translation (EN):** credit rating index
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Bonitätsindex.*
+     ➔ Вот индекс платежеспособности.
+  2. *Wir müssen den Bonitätsindex genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: индекс платежеспособности.
+  3. *Sind Sie mit dem Bonitätsindex einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: индекс платежеспособности?
+  4. *Wir konzentrieren uns heute auf den Bonitätsindex.*
+     ➔ Сегодня мы концентрируемся на теме: индекс платежеспособности.
+  5. *Der Bonitätsindex spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Индекс платежеспособности играет решающую роль в успехе.
+
+### 1868. die Bonitätsprüfung, die Bonitätsprüfungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bonit%C3%A4tspr%C3%BCfung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** проверка кредитоспособности
+- **Translation (EN):** creditworthiness check
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bonitätsprüfung.*
+     ➔ Вот проверка кредитоспособности.
+  2. *Wir müssen die Bonitätsprüfung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: проверка кредитоспособности.
+  3. *Sind Sie mit der Bonitätsprüfung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: проверка кредитоспособности?
+  4. *Wir konzentrieren uns heute auf die Bonitätsprüfung.*
+     ➔ Сегодня мы концентрируемся на теме: проверка кредитоспособности.
+  5. *Die Bonitätsprüfung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Проверка кредитоспособности играет решающую роль в успехе.
+
+### 1869. der Kundenstamm, die Kundenstämme [🎥 YouGlish](https://de.youglish.com/pronounce/Kundenstamm/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** основные данные клиента
+- **Translation (EN):** customer master record
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Kundenstamm.*
+     ➔ Вот основные данные клиента.
+  2. *Wir müssen den Kundenstamm genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: основные данные клиента.
+  3. *Sind Sie mit dem Kundenstamm einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: основные данные клиента?
+  4. *Wir konzentrieren uns heute auf den Kundenstamm.*
+     ➔ Сегодня мы концентрируемся на теме: основные данные клиента.
+  5. *Der Kundenstamm spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Основные данные клиента играет решающую роль в успехе.
+
+### 1870. der Debitorenstamm, die Debitorenstämme [🎥 YouGlish](https://de.youglish.com/pronounce/Debitorenstamm/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** основная запись дебитора
+- **Translation (EN):** customer master
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Debitorenstamm.*
+     ➔ Вот основная запись дебитора.
+  2. *Wir müssen den Debitorenstamm genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: основная запись дебитора.
+  3. *Sind Sie mit dem Debitorenstamm einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: основная запись дебитора?
+  4. *Wir konzentrieren uns heute auf den Debitorenstamm.*
+     ➔ Сегодня мы концентрируемся на теме: основная запись дебитора.
+  5. *Der Debitorenstamm spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Основная запись дебитора играет решающую роль в успехе.
+
+### 1871. der Geschäftspartner, die Geschäftspartner [🎥 YouGlish](https://de.youglish.com/pronounce/Gesch%C3%A4ftspartner/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** деловой партнер (BP)
+- **Translation (EN):** business partner (BP)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Geschäftspartner.*
+     ➔ Вот деловой партнер (BP).
+  2. *Wir müssen den Geschäftspartner genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: деловой партнер (BP).
+  3. *Sind Sie mit dem Geschäftspartner einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: деловой партнер (BP)?
+  4. *Wir konzentrieren uns heute auf den Geschäftspartner.*
+     ➔ Сегодня мы концентрируемся на теме: деловой партнер (BP).
+  5. *Der Geschäftspartner spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Деловой партнер (BP) играет решающую роль в успехе.
+
+### 1872. die GP-Rolle, die GP-Rollen [🎥 YouGlish](https://de.youglish.com/pronounce/GP-Rolle/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** роль делового партнера
+- **Translation (EN):** business partner function
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die GP-Rolle.*
+     ➔ Вот роль делового партнера.
+  2. *Wir müssen die GP-Rolle genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: роль делового партнера.
+  3. *Sind Sie mit der GP-Rolle einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: роль делового партнера?
+  4. *Wir konzentrieren uns heute auf die GP-Rolle.*
+     ➔ Сегодня мы концентрируемся на теме: роль делового партнера.
+  5. *Die GP-Rolle spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Роль делового партнера играет решающую роль в успехе.
+
+### 1873. die Kontengruppe, die Kontengruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Kontengruppe/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** группа счетов
+- **Translation (EN):** account group
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Kontengruppe.*
+     ➔ Вот группа счетов.
+  2. *Wir müssen die Kontengruppe genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: группа счетов.
+  3. *Sind Sie mit der Kontengruppe einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: группа счетов?
+  4. *Wir konzentrieren uns heute auf die Kontengruppe.*
+     ➔ Сегодня мы концентрируемся на теме: группа счетов.
+  5. *Die Kontengruppe spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Группа счетов играет решающую роль в успехе.
+
+### 1874. der Nummernkreis, die Nummernkreise [🎥 YouGlish](https://de.youglish.com/pronounce/Nummernkreis/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** диапазон номеров
+- **Translation (EN):** number range
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Nummernkreis.*
+     ➔ Вот диапазон номеров.
+  2. *Wir müssen den Nummernkreis genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: диапазон номеров.
+  3. *Sind Sie mit dem Nummernkreis einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: диапазон номеров?
+  4. *Wir konzentrieren uns heute auf den Nummernkreis.*
+     ➔ Сегодня мы концентрируемся на теме: диапазон номеров.
+  5. *Der Nummernkreis spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Диапазон номеров играет решающую роль в успехе.
+
+### 1875. die Nachrichtenfindung, die Nachrichtenfindungen [🎥 YouGlish](https://de.youglish.com/pronounce/Nachrichtenfindung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** определение выходных документов
+- **Translation (EN):** output determination
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Nachrichtenfindung.*
+     ➔ Вот определение выходных документов.
+  2. *Wir müssen die Nachrichtenfindung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: определение выходных документов.
+  3. *Sind Sie mit der Nachrichtenfindung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: определение выходных документов?
+  4. *Wir konzentrieren uns heute auf die Nachrichtenfindung.*
+     ➔ Сегодня мы концентрируемся на теме: определение выходных документов.
+  5. *Die Nachrichtenfindung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Определение выходных документов играет решающую роль в успехе.
+
+### 1876. die Nachricht, die Nachrichten [🎥 YouGlish](https://de.youglish.com/pronounce/Nachricht/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** сообщение / выходной документ
+- **Translation (EN):** output / message
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Nachricht.*
+     ➔ Вот сообщение / выходной документ.
+  2. *Wir müssen die Nachricht genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сообщение / выходной документ.
+  3. *Sind Sie mit der Nachricht einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сообщение / выходной документ?
+  4. *Wir konzentrieren uns heute auf die Nachricht.*
+     ➔ Сегодня мы концентрируемся на теме: сообщение / выходной документ.
+  5. *Die Nachricht spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сообщение / выходной документ играет решающую роль в успехе.
+
+### 1877. das Sendemedium, die Sendemedien [🎥 YouGlish](https://de.youglish.com/pronounce/Sendemedium/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** средство отправки
+- **Translation (EN):** transmission medium
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Sendemedium.*
+     ➔ Вот средство отправки.
+  2. *Wir müssen das Sendemedium genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: средство отправки.
+  3. *Sind Sie mit dem Sendemedium einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: средство отправки?
+  4. *Wir konzentrieren uns heute auf das Sendemedium.*
+     ➔ Сегодня мы концентрируемся на теме: средство отправки.
+  5. *Das Sendemedium spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Средство отправки играет решающую роль в успехе.
+
+### 1878. der Drucker, die Drucker [🎥 YouGlish](https://de.youglish.com/pronounce/Drucker/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** принтер
+- **Translation (EN):** printer
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Drucker.*
+     ➔ Вот принтер.
+  2. *Wir müssen den Drucker genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: принтер.
+  3. *Sind Sie mit dem Drucker einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: принтер?
+  4. *Wir konzentrieren uns heute auf den Drucker.*
+     ➔ Сегодня мы концентрируемся на теме: принтер.
+  5. *Der Drucker spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Принтер играет решающую роль в успехе.
+
+### 1879. der Spool-Auftrag, die Spool-Aufträge [🎥 YouGlish](https://de.youglish.com/pronounce/Spool-Auftrag/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** запрос на печать (спул)
+- **Translation (EN):** spool request
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Spool-Auftrag.*
+     ➔ Вот запрос на печать (спул).
+  2. *Wir müssen den Spool-Auftrag genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: запрос на печать (спул).
+  3. *Sind Sie mit dem Spool-Auftrag einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: запрос на печать (спул)?
+  4. *Wir konzentrieren uns heute auf den Spool-Auftrag.*
+     ➔ Сегодня мы концентрируемся на теме: запрос на печать (спул).
+  5. *Der Spool-Auftrag spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Запрос на печать (спул) играет решающую роль в успехе.
+
+### 1880. das Versanddokument, die Versanddokumente [🎥 YouGlish](https://de.youglish.com/pronounce/Versanddokument/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** отгрузочный документ
+- **Translation (EN):** shipping document
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Versanddokument.*
+     ➔ Вот отгрузочный документ.
+  2. *Wir müssen das Versanddokument genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: отгрузочный документ.
+  3. *Sind Sie mit dem Versanddokument einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: отгрузочный документ?
+  4. *Wir konzentrieren uns heute auf das Versanddokument.*
+     ➔ Сегодня мы концентрируемся на теме: отгрузочный документ.
+  5. *Das Versanddokument spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Отгрузочный документ играет решающую роль в успехе.
+
+### 1881. der Lieferschein, die Lieferscheine [🎥 YouGlish](https://de.youglish.com/pronounce/Lieferschein/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** накладная на поставку
+- **Translation (EN):** delivery note
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Lieferschein.*
+     ➔ Вот накладная на поставку.
+  2. *Wir müssen den Lieferschein genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: накладная на поставку.
+  3. *Sind Sie mit dem Lieferschein einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: накладная на поставку?
+  4. *Wir konzentrieren uns heute auf den Lieferschein.*
+     ➔ Сегодня мы концентрируемся на теме: накладная на поставку.
+  5. *Der Lieferschein spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Накладная на поставку играет решающую роль в успехе.
+
+### 1882. die Frachtbrief, die Frachtbriefe [🎥 YouGlish](https://de.youglish.com/pronounce/Frachtbrief/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** транспортная накладная
+- **Translation (EN):** consignment note / waybill
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Frachtbrief.*
+     ➔ Вот транспортная накладная.
+  2. *Wir müssen die Frachtbrief genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: транспортная накладная.
+  3. *Sind Sie mit der Frachtbrief einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: транспортная накладная?
+  4. *Wir konzentrieren uns heute auf die Frachtbrief.*
+     ➔ Сегодня мы концентрируемся на теме: транспортная накладная.
+  5. *Die Frachtbrief spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Транспортная накладная играет решающую роль в успехе.
+
+### 1883. die Packliste, die Packlisten [🎥 YouGlish](https://de.youglish.com/pronounce/Packliste/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** упаковочный лист
+- **Translation (EN):** packing list
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Packliste.*
+     ➔ Вот упаковочный лист.
+  2. *Wir müssen die Packliste genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: упаковочный лист.
+  3. *Sind Sie mit der Packliste einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: упаковочный лист?
+  4. *Wir konzentrieren uns heute auf die Packliste.*
+     ➔ Сегодня мы концентрируемся на теме: упаковочный лист.
+  5. *Die Packliste spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Упаковочный лист играет решающую роль в успехе.
+
+### 1884. das Transportmittel, die Transportmittel [🎥 YouGlish](https://de.youglish.com/pronounce/Transportmittel/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** транспортное средство
+- **Translation (EN):** means of transport
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Transportmittel.*
+     ➔ Вот транспортное средство.
+  2. *Wir müssen das Transportmittel genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: транспортное средство.
+  3. *Sind Sie mit dem Transportmittel einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: транспортное средство?
+  4. *Wir konzentrieren uns heute auf das Transportmittel.*
+     ➔ Сегодня мы концентрируемся на теме: транспортное средство.
+  5. *Das Transportmittel spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Транспортное средство играет решающую роль в успехе.
+
+### 1885. die Route, die Routen [🎥 YouGlish](https://de.youglish.com/pronounce/Route/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** маршрут
+- **Translation (EN):** route
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Route.*
+     ➔ Вот маршрут.
+  2. *Wir müssen die Route genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: маршрут.
+  3. *Sind Sie mit der Route einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: маршрут?
+  4. *Wir konzentrieren uns heute auf die Route.*
+     ➔ Сегодня мы концентрируемся на теме: маршрут.
+  5. *Die Route spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Маршрут играет решающую роль в успехе.
+
+### 1886. die Routenfindung, die Routenfindungen [🎥 YouGlish](https://de.youglish.com/pronounce/Routenfindung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** определение маршрута
+- **Translation (EN):** route determination
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Routenfindung.*
+     ➔ Вот определение маршрута.
+  2. *Wir müssen die Routenfindung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: определение маршрута.
+  3. *Sind Sie mit der Routenfindung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: определение маршрута?
+  4. *Wir konzentrieren uns heute auf die Routenfindung.*
+     ➔ Сегодня мы концентрируемся на теме: определение маршрута.
+  5. *Die Routenfindung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Определение маршрута играет решающую роль в успехе.
+
+### 1887. die Versandbedingung, die Versandbedingungen [🎥 YouGlish](https://de.youglish.com/pronounce/Versandbedingung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** условие отгрузки
+- **Translation (EN):** shipping condition
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Versandbedingung.*
+     ➔ Вот условие отгрузки.
+  2. *Wir müssen die Versandbedingung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: условие отгрузки.
+  3. *Sind Sie mit der Versandbedingung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: условие отгрузки?
+  4. *Wir konzentrieren uns heute auf die Versandbedingung.*
+     ➔ Сегодня мы концентрируемся на теме: условие отгрузки.
+  5. *Die Versandbedingung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Условие отгрузки играет решающую роль в успехе.
+
+### 1888. die Ladegruppe, die Ladegruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Ladegruppe/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** группа погрузки
+- **Translation (EN):** loading group
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Ladegruppe.*
+     ➔ Вот группа погрузки.
+  2. *Wir müssen die Ladegruppe genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: группа погрузки.
+  3. *Sind Sie mit der Ladegruppe einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: группа погрузки?
+  4. *Wir konzentrieren uns heute auf die Ladegruppe.*
+     ➔ Сегодня мы концентрируемся на теме: группа погрузки.
+  5. *Die Ladegruppe spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Группа погрузки играет решающую роль в успехе.
+
+### 1889. die Transportgruppe, die Transportgruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Transportgruppe/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** транспортная группа
+- **Translation (EN):** transportation group
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Transportgruppe.*
+     ➔ Вот транспортная группа.
+  2. *Wir müssen die Transportgruppe genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: транспортная группа.
+  3. *Sind Sie mit der Transportgruppe einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: транспортная группа?
+  4. *Wir konzentrieren uns heute auf die Transportgruppe.*
+     ➔ Сегодня мы концентрируемся на теме: транспортная группа.
+  5. *Die Transportgruppe spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Транспортная группа играет решающую роль в успехе.
+
+### 1890. das Belegflussschema, die Belegflussschemata [🎥 YouGlish](https://de.youglish.com/pronounce/Belegflussschema/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** структура потока документов
+- **Translation (EN):** document flow diagram
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Belegflussschema.*
+     ➔ Вот структура потока документов.
+  2. *Wir müssen das Belegflussschema genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: структура потока документов.
+  3. *Sind Sie mit dem Belegflussschema einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: структура потока документов?
+  4. *Wir konzentrieren uns heute auf das Belegflussschema.*
+     ➔ Сегодня мы концентрируемся на теме: структура потока документов.
+  5. *Das Belegflussschema spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Структура потока документов играет решающую роль в успехе.
+
+### 1891. der Belegfluss, die Belegflüsse [🎥 YouGlish](https://de.youglish.com/pronounce/Belegfluss/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** поток документов
+- **Translation (EN):** document flow
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Belegfluss.*
+     ➔ Вот поток документов.
+  2. *Wir müssen den Belegfluss genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: поток документов.
+  3. *Sind Sie mit dem Belegfluss einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: поток документов?
+  4. *Wir konzentrieren uns heute auf den Belegfluss.*
+     ➔ Сегодня мы концентрируемся на теме: поток документов.
+  5. *Der Belegfluss spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Поток документов играет решающую роль в успехе.
+
+### 1892. der Status, die Status [🎥 YouGlish](https://de.youglish.com/pronounce/Status/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** статус
+- **Translation (EN):** status
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Status.*
+     ➔ Вот статус.
+  2. *Wir müssen den Status genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: статус.
+  3. *Sind Sie mit dem Status einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: статус?
+  4. *Wir konzentrieren uns heute auf den Status.*
+     ➔ Сегодня мы концентрируемся на теме: статус.
+  5. *Der Status spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Статус играет решающую роль в успехе.
+
+### 1893. in Bearbeitung [🎥 YouGlish](https://de.youglish.com/pronounce/in%20Bearbeitung/german)
+- **Часть речи (Part of Speech):** Phrase
+- **Уровень (Level):** B1
+- **Перевод (RU):** в процессе обработки
+- **Translation (EN):** in process
+- **Примеры использования (Beispiele):**
+  1. *Dieses Verfahren ist wirklich in Bearbeitung.*
+     ➔ Этот процесс действительно в процессе обработки.
+  2. *Es ist sehr wichtig, dass alles in Bearbeitung bleibt.*
+     ➔ Очень важно, чтобы всё оставалось в процессе обработки.
+  3. *Wir arbeiten heute besonders in Bearbeitung.*
+     ➔ Сегодня мы работаем особенно в процессе обработки.
+  4. *Das erzielte Ergebnis ist sehr in Bearbeitung.*
+     ➔ Полученный результат очень в процессе обработки.
+  5. *Ich finde diese Arbeitsweise persönlich in Bearbeitung.*
+     ➔ Я лично нахожу этот стиль работы в процессе обработки.
+
+### 1894. das Retouren-Material, die Materialien [🎥 YouGlish](https://de.youglish.com/pronounce/Retouren-Material/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** возвращаемый материал
+- **Translation (EN):** returned material
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Retouren-Material.*
+     ➔ Вот возвращаемый материал.
+  2. *Wir müssen das Retouren-Material genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: возвращаемый материал.
+  3. *Sind Sie mit dem Retouren-Material einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: возвращаемый материал?
+  4. *Wir konzentrieren uns heute auf das Retouren-Material.*
+     ➔ Сегодня мы концентрируемся на теме: возвращаемый материал.
+  5. *Das Retouren-Material spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Возвращаемый материал играет решающую роль в успехе.
+
+### 1895. die Gutschriftsanforderung, die Gutschriftsanforderungen [🎥 YouGlish](https://de.youglish.com/pronounce/Gutschriftsanforderung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** запрос кредитового авизо
+- **Translation (EN):** credit memo request
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Gutschriftsanforderung.*
+     ➔ Вот запрос кредитового авизо.
+  2. *Wir müssen die Gutschriftsanforderung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: запрос кредитового авизо.
+  3. *Sind Sie mit der Gutschriftsanforderung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: запрос кредитового авизо?
+  4. *Wir konzentrieren uns heute auf die Gutschriftsanforderung.*
+     ➔ Сегодня мы концентрируемся на теме: запрос кредитового авизо.
+  5. *Die Gutschriftsanforderung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Запрос кредитового авизо играет решающую роль в успехе.
+
+### 1896. die Preiskondition, die Preiskonditionen [🎥 YouGlish](https://de.youglish.com/pronounce/Preiskondition/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** ценовое условие
+- **Translation (EN):** price condition
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Preiskondition.*
+     ➔ Вот ценовое условие.
+  2. *Wir müssen die Preiskondition genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: ценовое условие.
+  3. *Sind Sie mit der Preiskondition einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: ценовое условие?
+  4. *Wir konzentrieren uns heute auf die Preiskondition.*
+     ➔ Сегодня мы концентрируемся на теме: ценовое условие.
+  5. *Die Preiskondition spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Ценовое условие играет решающую роль в успехе.
+
+### 1897. der Nettowert, die Nettowerte [🎥 YouGlish](https://de.youglish.com/pronounce/Nettowert/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** чистая стоимость
+- **Translation (EN):** net value
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Nettowert.*
+     ➔ Вот чистая стоимость.
+  2. *Wir müssen den Nettowert genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: чистая стоимость.
+  3. *Sind Sie mit dem Nettowert einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: чистая стоимость?
+  4. *Wir konzentrieren uns heute auf den Nettowert.*
+     ➔ Сегодня мы концентрируемся на теме: чистая стоимость.
+  5. *Der Nettowert spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Чистая стоимость играет решающую роль в успехе.
+
+### 1898. der Bruttowert, die Bruttowerte [🎥 YouGlish](https://de.youglish.com/pronounce/Bruttowert/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** стоимость брутто
+- **Translation (EN):** gross value
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Bruttowert.*
+     ➔ Вот стоимость брутто.
+  2. *Wir müssen den Bruttowert genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: стоимость брутто.
+  3. *Sind Sie mit dem Bruttowert einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: стоимость брутто?
+  4. *Wir konzentrieren uns heute auf den Bruttowert.*
+     ➔ Сегодня мы концентрируемся на теме: стоимость брутто.
+  5. *Der Bruttowert spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Стоимость брутто играет решающую роль в успехе.
+
+### 1899. die Währungsdifferenz, die Währungsdifferenzen [🎥 YouGlish](https://de.youglish.com/pronounce/W%C3%A4hrungsdifferenz/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** валютная разница
+- **Translation (EN):** currency difference
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Währungsdifferenz.*
+     ➔ Вот валютная разница.
+  2. *Wir müssen die Währungsdifferenz genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: валютная разница.
+  3. *Sind Sie mit der Währungsdifferenz einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: валютная разница?
+  4. *Wir konzentrieren uns heute auf die Währungsdifferenz.*
+     ➔ Сегодня мы концентрируемся на теме: валютная разница.
+  5. *Die Währungsdifferenz spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Валютная разница играет решающую роль в успехе.
+
+### 1900. die Vertriebsbelege, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/Vertriebsbelege/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сбытовые документы
+- **Translation (EN):** sales documents
+- **Примеры использования (Beispiele):**
+  1. *Hier sind die Vertriebsbelege.*
+     ➔ Вот сбытовые документы.
+  2. *Wir müssen die Vertriebsbelege genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сбытовые документы.
+  3. *Sind Sie mit den Vertriebsbelege einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сбытовые документы?
+  4. *Wir konzentrieren uns heute auf die Vertriebsbelege.*
+     ➔ Сегодня мы концентрируемся на теме: сбытовые документы.
+  5. *Die Vertriebsbelege spielen eine entscheidende Rolle für den Erfolg.*
+     ➔ Сбытовые документы играет решающую роль в успехе.
+
+### 1901. die Liefertreue, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Liefertreue/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** надежность поставок / соблюдение сроков поставки
+- **Translation (EN):** delivery reliability
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Liefertreue.*
+     ➔ Вот надежность поставок / соблюдение сроков поставки.
+  2. *Wir müssen die Liefertreue genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: надежность поставок / соблюдение сроков поставки.
+  3. *Sind Sie mit der Liefertreue einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: надежность поставок / соблюдение сроков поставки?
+  4. *Wir konzentrieren uns heute auf die Liefertreue.*
+     ➔ Сегодня мы концентрируемся на теме: надежность поставок / соблюдение сроков поставки.
+  5. *Die Liefertreue spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Надежность поставок / соблюдение сроков поставки играет решающую роль в успехе.
+
+
+---
+
+## <a name="s4-hana--fiori-benutzeroberflaeche"></a>S4 HANA & Fiori Benutzeroberfläche
+
+### 1902. die Fiori-App, die Fiori-Apps [🎥 YouGlish](https://de.youglish.com/pronounce/Fiori-App/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** приложение Fiori
+- **Translation (EN):** Fiori app
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Fiori-App.*
+     ➔ Вот приложение Fiori.
+  2. *Wir müssen die Fiori-App genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: приложение Fiori.
+  3. *Sind Sie mit der Fiori-App einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: приложение Fiori?
+  4. *Wir konzentrieren uns heute auf die Fiori-App.*
+     ➔ Сегодня мы концентрируемся на теме: приложение Fiori.
+  5. *Die Fiori-App spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Приложение Fiori играет решающую роль в успехе.
+
+### 1903. die Launchpad-Kachel, die Launchpad-Kacheln [🎥 YouGlish](https://de.youglish.com/pronounce/Launchpad-Kachel/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** плитка Launchpad (панели запуска)
+- **Translation (EN):** launchpad tile
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Launchpad-Kachel.*
+     ➔ Вот плитка Launchpad (панели запуска).
+  2. *Wir müssen die Launchpad-Kachel genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: плитка Launchpad (панели запуска).
+  3. *Sind Sie mit der Launchpad-Kachel einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: плитка Launchpad (панели запуска)?
+  4. *Wir konzentrieren uns heute auf die Launchpad-Kachel.*
+     ➔ Сегодня мы концентрируемся на теме: плитка Launchpad (панели запуска).
+  5. *Die Launchpad-Kachel spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Плитка Launchpad (панели запуска) играет решающую роль в успехе.
+
+### 1904. die Benutzeroberfläche, die Benutzeroberflächen [🎥 YouGlish](https://de.youglish.com/pronounce/Benutzeroberfl%C3%A4che/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** интерфейс пользователя
+- **Translation (EN):** user interface (UI)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Benutzeroberfläche.*
+     ➔ Вот интерфейс пользователя.
+  2. *Wir müssen die Benutzeroberfläche genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: интерфейс пользователя.
+  3. *Sind Sie mit der Benutzeroberfläche einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: интерфейс пользователя?
+  4. *Wir konzentrieren uns heute auf die Benutzeroberfläche.*
+     ➔ Сегодня мы концентрируемся на теме: интерфейс пользователя.
+  5. *Die Benutzeroberfläche spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Интерфейс пользователя играет решающую роль в успехе.
+
+### 1905. das Universal-Journal, die Universal-Journale [🎥 YouGlish](https://de.youglish.com/pronounce/Universal-Journal/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** единый журнал проводок (ACDOCA)
+- **Translation (EN):** universal journal
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Universal-Journal.*
+     ➔ Вот единый журнал проводок (ACDOCA).
+  2. *Wir müssen das Universal-Journal genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: единый журнал проводок (ACDOCA).
+  3. *Sind Sie mit dem Universal-Journal einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: единый журнал проводок (ACDOCA)?
+  4. *Wir konzentrieren uns heute auf das Universal-Journal.*
+     ➔ Сегодня мы концентрируемся на теме: единый журнал проводок (ACDOCA).
+  5. *Das Universal-Journal spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Единый журнал проводок (ACDOCA) играет решающую роль в успехе.
+
+### 1906. die In-Memory-Datenbank, die Datenbanken [🎥 YouGlish](https://de.youglish.com/pronounce/In-Memory-Datenbank/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** база данных в оперативной памяти
+- **Translation (EN):** in-memory database
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die In-Memory-Datenbank.*
+     ➔ Вот база данных в оперативной памяти.
+  2. *Wir müssen die In-Memory-Datenbank genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: база данных в оперативной памяти.
+  3. *Sind Sie mit der In-Memory-Datenbank einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: база данных в оперативной памяти?
+  4. *Wir konzentrieren uns heute auf die In-Memory-Datenbank.*
+     ➔ Сегодня мы концентрируемся на теме: база данных в оперативной памяти.
+  5. *Die In-Memory-Datenbank spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ База данных в оперативной памяти играет решающую роль в успехе.
+
+### 1907. die Echtzeit-Datenverarbeitung, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Echtzeit-Datenverarbeitung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** обработка данных в реальном времени
+- **Translation (EN):** real-time data processing
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Echtzeit-Datenverarbeitung.*
+     ➔ Вот обработка данных в реальном времени.
+  2. *Wir müssen die Echtzeit-Datenverarbeitung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: обработка данных в реальном времени.
+  3. *Sind Sie mit der Echtzeit-Datenverarbeitung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: обработка данных в реальном времени?
+  4. *Wir konzentrieren uns heute auf die Echtzeit-Datenverarbeitung.*
+     ➔ Сегодня мы концентрируемся на теме: обработка данных в реальном времени.
+  5. *Die Echtzeit-Datenverarbeitung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Обработка данных в реальном времени играет решающую роль в успехе.
+
+### 1908. die Spaltenorientierung, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Spaltenorientierung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** колоночное / поколоночное хранение данных
+- **Translation (EN):** column orientation
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Spaltenorientierung.*
+     ➔ Вот колоночное / поколоночное хранение данных.
+  2. *Wir müssen die Spaltenorientierung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: колоночное / поколоночное хранение данных.
+  3. *Sind Sie mit der Spaltenorientierung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: колоночное / поколоночное хранение данных?
+  4. *Wir konzentrieren uns heute auf die Spaltenorientierung.*
+     ➔ Сегодня мы концентрируемся на теме: колоночное / поколоночное хранение данных.
+  5. *Die Spaltenorientierung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Колоночное / поколоночное хранение данных играет решающую роль в успехе.
+
+### 1909. die Zeilenorientierung, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Zeilenorientierung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** построчное хранение данных
+- **Translation (EN):** row orientation
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Zeilenorientierung.*
+     ➔ Вот построчное хранение данных.
+  2. *Wir müssen die Zeilenorientierung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: построчное хранение данных.
+  3. *Sind Sie mit der Zeilenorientierung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: построчное хранение данных?
+  4. *Wir konzentrieren uns heute auf die Zeilenorientierung.*
+     ➔ Сегодня мы концентрируемся на теме: построчное хранение данных.
+  5. *Die Zeilenorientierung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Построчное хранение данных играет решающую роль в успехе.
+
+### 1910. die Tabelle, die Tabellen [🎥 YouGlish](https://de.youglish.com/pronounce/Tabelle/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** таблица
+- **Translation (EN):** table
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Tabelle.*
+     ➔ Вот таблица.
+  2. *Wir müssen die Tabelle genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: таблица.
+  3. *Sind Sie mit der Tabelle einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: таблица?
+  4. *Wir konzentrieren uns heute auf die Tabelle.*
+     ➔ Сегодня мы концентрируемся на теме: таблица.
+  5. *Die Tabelle spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Таблица играет решающую роль в успехе.
+
+### 1911. das Datenmodell, die Datenmodelle [🎥 YouGlish](https://de.youglish.com/pronounce/Datenmodell/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** модель данных
+- **Translation (EN):** data model
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Datenmodell.*
+     ➔ Вот модель данных.
+  2. *Wir müssen das Datenmodell genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: модель данных.
+  3. *Sind Sie mit dem Datenmodell einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: модель данных?
+  4. *Wir konzentrieren uns heute auf das Datenmodell.*
+     ➔ Сегодня мы концентрируемся на теме: модель данных.
+  5. *Das Datenmodell spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Модель данных играет решающую роль в успехе.
+
+### 1912. die Redundanz, die Redundanzen [🎥 YouGlish](https://de.youglish.com/pronounce/Redundanz/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** избыточность (данных)
+- **Translation (EN):** redundancy
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Redundanz.*
+     ➔ Вот избыточность (данных).
+  2. *Wir müssen die Redundanz genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: избыточность (данных).
+  3. *Sind Sie mit der Redundanz einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: избыточность (данных)?
+  4. *Wir konzentrieren uns heute auf die Redundanz.*
+     ➔ Сегодня мы концентрируемся на теме: избыточность (данных).
+  5. *Die Redundanz spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Избыточность (данных) играет решающую роль в успехе.
+
+### 1913. redundanzfrei [🎥 YouGlish](https://de.youglish.com/pronounce/redundanzfrei/german)
+- **Часть речи (Part of Speech):** Adjective
+- **Уровень (Level):** B2
+- **Перевод (RU):** без избыточности
+- **Translation (EN):** redundancy-free
+- **Примеры использования (Beispiele):**
+  1. *Dieses Verfahren ist wirklich redundanzfrei.*
+     ➔ Этот процесс действительно без избыточности.
+  2. *Es ist sehr wichtig, dass alles redundanzfrei bleibt.*
+     ➔ Очень важно, чтобы всё оставалось без избыточности.
+  3. *Wir arbeiten heute besonders redundanzfrei.*
+     ➔ Сегодня мы работаем особенно без избыточности.
+  4. *Das erzielte Ergebnis ist sehr redundanzfrei.*
+     ➔ Полученный результат очень без избыточности.
+  5. *Ich finde diese Arbeitsweise persönlich redundanzfrei.*
+     ➔ Я лично нахожу этот стиль работы без избыточности.
+
+### 1914. das Hauptbuch-Journal, die Journale [🎥 YouGlish](https://de.youglish.com/pronounce/Hauptbuch-Journal/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** журнал главной книги
+- **Translation (EN):** general ledger journal
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Hauptbuch-Journal.*
+     ➔ Вот журнал главной книги.
+  2. *Wir müssen das Hauptbuch-Journal genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: журнал главной книги.
+  3. *Sind Sie mit dem Hauptbuch-Journal einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: журнал главной книги?
+  4. *Wir konzentrieren uns heute auf das Hauptbuch-Journal.*
+     ➔ Сегодня мы концентрируемся на теме: журнал главной книги.
+  5. *Das Hauptbuch-Journal spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Журнал главной книги играет решающую роль в успехе.
+
+### 1915. die Einzelposten-Tabelle, die Tabellen [🎥 YouGlish](https://de.youglish.com/pronounce/Einzelposten-Tabelle/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** таблица позиций документа (ACDOCA)
+- **Translation (EN):** line item table
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Einzelposten-Tabelle.*
+     ➔ Вот таблица позиций документа (ACDOCA).
+  2. *Wir müssen die Einzelposten-Tabelle genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: таблица позиций документа (ACDOCA).
+  3. *Sind Sie mit der Einzelposten-Tabelle einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: таблица позиций документа (ACDOCA)?
+  4. *Wir konzentrieren uns heute auf die Einzelposten-Tabelle.*
+     ➔ Сегодня мы концентрируемся на теме: таблица позиций документа (ACDOCA).
+  5. *Die Einzelposten-Tabelle spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Таблица позиций документа (ACDOCA) играет решающую роль в успехе.
+
+### 1916. die Aggregation, die Aggregationen [🎥 YouGlish](https://de.youglish.com/pronounce/Aggregation/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** агрегация / суммирование
+- **Translation (EN):** aggregation
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Aggregation.*
+     ➔ Вот агрегация / суммирование.
+  2. *Wir müssen die Aggregation genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: агрегация / суммирование.
+  3. *Sind Sie mit der Aggregation einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: агрегация / суммирование?
+  4. *Wir konzentrieren uns heute auf die Aggregation.*
+     ➔ Сегодня мы концентрируемся на теме: агрегация / суммирование.
+  5. *Die Aggregation spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Агрегация / суммирование играет решающую роль в успехе.
+
+### 1917. aggregieren [🎥 YouGlish](https://de.youglish.com/pronounce/aggregieren/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B2
+- **Перевод (RU):** агрегировать / суммировать
+- **Translation (EN):** to aggregate
+- **Partizip II:** aggregiert
+- **Императив (Imperativ):** aggregiere! / aggregiert! / aggregieren Sie!
+- **Спряжение (Konjugation - Präsens):** ich *aggregiere*, du *aggregierst*, er/sie/es *aggregiert*, wir *aggregieren*, ihr *aggregiert*, sie/Sie *aggregieren*
+- **Примеры использования (Beispiele):**
+  1. *Wir aggregieren diese Angelegenheit direkt im Team.*
+     ➔ Мы агрегировать / суммировать этот вопрос непосредственно в команде.
+  2. *Ich aggregiere die notwendigen Unterlagen sofort.*
+     ➔ Я агрегировать / суммировать необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege aggregiert das Ganze sehr professionell.*
+     ➔ Ответственный коллега агрегировать / суммировать всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich aggregiert.*
+     ➔ Мы успешно агрегировать / суммировать (в прошедшем времени) эту тему.
+  5. *aggregieren Sie bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: агрегировать / суммировать вовремя!
+
+### 1918. der Index, die Indizes [🎥 YouGlish](https://de.youglish.com/pronounce/Index/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** индекс
+- **Translation (EN):** index
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Index.*
+     ➔ Вот индекс.
+  2. *Wir müssen den Index genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: индекс.
+  3. *Sind Sie mit dem Index einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: индекс?
+  4. *Wir konzentrieren uns heute auf den Index.*
+     ➔ Сегодня мы концентрируемся на теме: индекс.
+  5. *Der Index spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Индекс играет решающую роль в успехе.
+
+### 1919. der Performance-Gewinn, die Performance-Gewinne [🎥 YouGlish](https://de.youglish.com/pronounce/Performance-Gewinn/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** прирост производительности
+- **Translation (EN):** performance gain
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Performance-Gewinn.*
+     ➔ Вот прирост производительности.
+  2. *Wir müssen den Performance-Gewinn genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: прирост производительности.
+  3. *Sind Sie mit dem Performance-Gewinn einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: прирост производительности?
+  4. *Wir konzentrieren uns heute auf den Performance-Gewinn.*
+     ➔ Сегодня мы концентрируемся на теме: прирост производительности.
+  5. *Der Performance-Gewinn spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Прирост производительности играет решающую роль в успехе.
+
+### 1920. die Ladezeit, die Ladezeiten [🎥 YouGlish](https://de.youglish.com/pronounce/Ladezeit/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** время загрузки
+- **Translation (EN):** loading time
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Ladezeit.*
+     ➔ Вот время загрузки.
+  2. *Wir müssen die Ladezeit genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: время загрузки.
+  3. *Sind Sie mit der Ladezeit einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: время загрузки?
+  4. *Wir konzentrieren uns heute auf die Ladezeit.*
+     ➔ Сегодня мы концентрируемся на теме: время загрузки.
+  5. *Die Ladezeit spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Время загрузки играет решающую роль в успехе.
+
+### 1921. die Cloud-Variante, die Cloud-Varianten [🎥 YouGlish](https://de.youglish.com/pronounce/Cloud-Variante/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** облачная версия
+- **Translation (EN):** cloud variant
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Cloud-Variante.*
+     ➔ Вот облачная версия.
+  2. *Wir müssen die Cloud-Variante genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: облачная версия.
+  3. *Sind Sie mit der Cloud-Variante einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: облачная версия?
+  4. *Wir konzentrieren uns heute auf die Cloud-Variante.*
+     ➔ Сегодня мы концентрируемся на теме: облачная версия.
+  5. *Die Cloud-Variante spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Облачная версия играет решающую роль в успехе.
+
+### 1922. die On-Premise-Variante, die On-Premise-Varianten [🎥 YouGlish](https://de.youglish.com/pronounce/On-Premise-Variante/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** локальная версия (на собственных серверах)
+- **Translation (EN):** on-premise variant
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die On-Premise-Variante.*
+     ➔ Вот локальная версия (на собственных серверах).
+  2. *Wir müssen die On-Premise-Variante genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: локальная версия (на собственных серверах).
+  3. *Sind Sie mit der On-Premise-Variante einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: локальная версия (на собственных серверах)?
+  4. *Wir konzentrieren uns heute auf die On-Premise-Variante.*
+     ➔ Сегодня мы концентрируемся на теме: локальная версия (на собственных серверах).
+  5. *Die On-Premise-Variante spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Локальная версия (на собственных серверах) играет решающую роль в успехе.
+
+### 1923. die Hybrid-Lösung, die Hybrid-Lösungen [🎥 YouGlish](https://de.youglish.com/pronounce/Hybrid-L%C3%B6sung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** гибридное решение
+- **Translation (EN):** hybrid solution
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Hybrid-Lösung.*
+     ➔ Вот гибридное решение.
+  2. *Wir müssen die Hybrid-Lösung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: гибридное решение.
+  3. *Sind Sie mit der Hybrid-Lösung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: гибридное решение?
+  4. *Wir konzentrieren uns heute auf die Hybrid-Lösung.*
+     ➔ Сегодня мы концентрируемся на теме: гибридное решение.
+  5. *Die Hybrid-Lösung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Гибридное решение играет решающую роль в успехе.
+
+### 1924. die Fiori-Kachel, die Fiori-Kacheln [🎥 YouGlish](https://de.youglish.com/pronounce/Fiori-Kachel/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** плитка Fiori
+- **Translation (EN):** Fiori tile
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Fiori-Kachel.*
+     ➔ Вот плитка Fiori.
+  2. *Wir müssen die Fiori-Kachel genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: плитка Fiori.
+  3. *Sind Sie mit der Fiori-Kachel einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: плитка Fiori?
+  4. *Wir konzentrieren uns heute auf die Fiori-Kachel.*
+     ➔ Сегодня мы концентрируемся на теме: плитка Fiori.
+  5. *Die Fiori-Kachel spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Плитка Fiori играет решающую роль в успехе.
+
+### 1925. das Launchpad, die Launchpads [🎥 YouGlish](https://de.youglish.com/pronounce/Launchpad/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** панель запуска Fiori
+- **Translation (EN):** launchpad
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Launchpad.*
+     ➔ Вот панель запуска Fiori.
+  2. *Wir müssen das Launchpad genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: панель запуска Fiori.
+  3. *Sind Sie mit dem Launchpad einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: панель запуска Fiori?
+  4. *Wir konzentrieren uns heute auf das Launchpad.*
+     ➔ Сегодня мы концентрируемся на теме: панель запуска Fiori.
+  5. *Das Launchpad spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Панель запуска Fiori играет решающую роль в успехе.
+
+### 1926. die App-Gruppe, die App-Gruppen [🎥 YouGlish](https://de.youglish.com/pronounce/App-Gruppe/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** группа приложений
+- **Translation (EN):** app group
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die App-Gruppe.*
+     ➔ Вот группа приложений.
+  2. *Wir müssen die App-Gruppe genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: группа приложений.
+  3. *Sind Sie mit der App-Gruppe einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: группа приложений?
+  4. *Wir konzentrieren uns heute auf die App-Gruppe.*
+     ➔ Сегодня мы концентрируемся на теме: группа приложений.
+  5. *Die App-Gruppe spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Группа приложений играет решающую роль в успехе.
+
+### 1927. der App-Store, die App-Stores [🎥 YouGlish](https://de.youglish.com/pronounce/App-Store/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** библиотека приложений Fiori
+- **Translation (EN):** app library / store
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der App-Store.*
+     ➔ Вот библиотека приложений Fiori.
+  2. *Wir müssen den App-Store genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: библиотека приложений Fiori.
+  3. *Sind Sie mit dem App-Store einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: библиотека приложений Fiori?
+  4. *Wir konzentrieren uns heute auf den App-Store.*
+     ➔ Сегодня мы концентрируемся на теме: библиотека приложений Fiori.
+  5. *Der App-Store spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Библиотека приложений Fiori играет решающую роль в успехе.
+
+### 1928. die Personalisierung, die Personalisierungen [🎥 YouGlish](https://de.youglish.com/pronounce/Personalisierung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** персонализация / настройка под себя
+- **Translation (EN):** personalization
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Personalisierung.*
+     ➔ Вот персонализация / настройка под себя.
+  2. *Wir müssen die Personalisierung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: персонализация / настройка под себя.
+  3. *Sind Sie mit der Personalisierung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: персонализация / настройка под себя?
+  4. *Wir konzentrieren uns heute auf die Personalisierung.*
+     ➔ Сегодня мы концентрируемся на теме: персонализация / настройка под себя.
+  5. *Die Personalisierung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Персонализация / настройка под себя играет решающую роль в успехе.
+
+### 1929. personalisieren [🎥 YouGlish](https://de.youglish.com/pronounce/personalisieren/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B2
+- **Перевод (RU):** настраивать под себя / персонализировать
+- **Translation (EN):** to personalize
+- **Partizip II:** personalisiert
+- **Императив (Imperativ):** personalisiere! / personalisiert! / personalisieren Sie!
+- **Спряжение (Konjugation - Präsens):** ich *personalisiere*, du *personalisierst*, er/sie/es *personalisiert*, wir *personalisieren*, ihr *personalisiert*, sie/Sie *personalisieren*
+- **Примеры использования (Beispiele):**
+  1. *Wir personalisieren diese Angelegenheit direkt im Team.*
+     ➔ Мы настраивать под себя / персонализировать этот вопрос непосредственно в команде.
+  2. *Ich personalisiere die notwendigen Unterlagen sofort.*
+     ➔ Я настраивать под себя / персонализировать необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege personalisiert das Ganze sehr professionell.*
+     ➔ Ответственный коллега настраивать под себя / персонализировать всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich personalisiert.*
+     ➔ Мы успешно настраивать под себя / персонализировать (в прошедшем времени) эту тему.
+  5. *personalisieren Sie bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: настраивать под себя / персонализировать вовремя!
+
+### 1930. das Dashboard, die Dashboards [🎥 YouGlish](https://de.youglish.com/pronounce/Dashboard/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** информационная панель
+- **Translation (EN):** dashboard
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Dashboard.*
+     ➔ Вот информационная панель.
+  2. *Wir müssen das Dashboard genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: информационная панель.
+  3. *Sind Sie mit dem Dashboard einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: информационная панель?
+  4. *Wir konzentrieren uns heute auf das Dashboard.*
+     ➔ Сегодня мы концентрируемся на теме: информационная панель.
+  5. *Das Dashboard spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Информационная панель играет решающую роль в успехе.
+
+### 1931. die Kennzahl, die Kennzahlen [🎥 YouGlish](https://de.youglish.com/pronounce/Kennzahl/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** ключевой показатель (KPI)
+- **Translation (EN):** key performance indicator (KPI)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Kennzahl.*
+     ➔ Вот ключевой показатель (KPI).
+  2. *Wir müssen die Kennzahl genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: ключевой показатель (KPI).
+  3. *Sind Sie mit der Kennzahl einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: ключевой показатель (KPI)?
+  4. *Wir konzentrieren uns heute auf die Kennzahl.*
+     ➔ Сегодня мы концентрируемся на теме: ключевой показатель (KPI).
+  5. *Die Kennzahl spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Ключевой показатель (KPI) играет решающую роль в успехе.
+
+### 1932. die Echtzeit-Analyse, die Echtzeit-Analysen [🎥 YouGlish](https://de.youglish.com/pronounce/Echtzeit-Analyse/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** аналитика в реальном времени
+- **Translation (EN):** real-time analytics
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Echtzeit-Analyse.*
+     ➔ Вот аналитика в реальном времени.
+  2. *Wir müssen die Echtzeit-Analyse genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: аналитика в реальном времени.
+  3. *Sind Sie mit der Echtzeit-Analyse einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: аналитика в реальном времени?
+  4. *Wir konzentrieren uns heute auf die Echtzeit-Analyse.*
+     ➔ Сегодня мы концентрируемся на теме: аналитика в реальном времени.
+  5. *Die Echtzeit-Analyse spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Аналитика в реальном времени играет решающую роль в успехе.
+
+### 1933. die Suchfunktion, die Suchfunktionen [🎥 YouGlish](https://de.youglish.com/pronounce/Suchfunktion/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** функция поиска
+- **Translation (EN):** search function
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Suchfunktion.*
+     ➔ Вот функция поиска.
+  2. *Wir müssen die Suchfunktion genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: функция поиска.
+  3. *Sind Sie mit der Suchfunktion einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: функция поиска?
+  4. *Wir konzentrieren uns heute auf die Suchfunktion.*
+     ➔ Сегодня мы концентрируемся на теме: функция поиска.
+  5. *Die Suchfunktion spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Функция поиска играет решающую роль в успехе.
+
+### 1934. die Enterprise-Search, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Enterprise-Search/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** глобальный поиск по всей системе
+- **Translation (EN):** enterprise search
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Enterprise-Search.*
+     ➔ Вот глобальный поиск по всей системе.
+  2. *Wir müssen die Enterprise-Search genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: глобальный поиск по всей системе.
+  3. *Sind Sie mit der Enterprise-Search einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: глобальный поиск по всей системе?
+  4. *Wir konzentrieren uns heute auf die Enterprise-Search.*
+     ➔ Сегодня мы концентрируемся на теме: глобальный поиск по всей системе.
+  5. *Die Enterprise-Search spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Глобальный поиск по всей системе играет решающую роль в успехе.
+
+### 1935. der Filter, die Filter [🎥 YouGlish](https://de.youglish.com/pronounce/Filter/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** фильтр
+- **Translation (EN):** filter
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Filter.*
+     ➔ Вот фильтр.
+  2. *Wir müssen den Filter genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: фильтр.
+  3. *Sind Sie mit dem Filter einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: фильтр?
+  4. *Wir konzentrieren uns heute auf den Filter.*
+     ➔ Сегодня мы концентрируемся на теме: фильтр.
+  5. *Der Filter spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Фильтр играет решающую роль в успехе.
+
+### 1936. filtern [🎥 YouGlish](https://de.youglish.com/pronounce/filtern/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B1
+- **Перевод (RU):** фильтровать
+- **Translation (EN):** to filter
+- **Partizip II:** gefiltert
+- **Императив (Imperativ):** filtere! / filtert! / filtern Sie!
+- **Спряжение (Konjugation - Präsens):** ich *filtere*, du *filterst*, er/sie/es *filtert*, wir *filtern*, ihr *filtert*, sie/Sie *filtern*
+- **Примеры использования (Beispiele):**
+  1. *Wir filtern diese Angelegenheit direkt im Team.*
+     ➔ Мы фильтровать этот вопрос непосредственно в команде.
+  2. *Ich filtere die notwendigen Unterlagen sofort.*
+     ➔ Я фильтровать необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege filtert das Ganze sehr professionell.*
+     ➔ Ответственный коллега фильтровать всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich gefiltert.*
+     ➔ Мы успешно фильтровать (в прошедшем времени) эту тему.
+  5. *filtern Sie bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: фильтровать вовремя!
+
+### 1937. die Variante, die Varianten [🎥 YouGlish](https://de.youglish.com/pronounce/Variante/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** вариант выбора (маска фильтра)
+- **Translation (EN):** variant
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Variante.*
+     ➔ Вот вариант выбора (маска фильтра).
+  2. *Wir müssen die Variante genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: вариант выбора (маска фильтра).
+  3. *Sind Sie mit der Variante einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: вариант выбора (маска фильтра)?
+  4. *Wir konzentrieren uns heute auf die Variante.*
+     ➔ Сегодня мы концентрируемся на теме: вариант выбора (маска фильтра).
+  5. *Die Variante spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Вариант выбора (маска фильтра) играет решающую роль в успехе.
+
+### 1938. die Ansicht, die Ansichten [🎥 YouGlish](https://de.youglish.com/pronounce/Ansicht/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** ракурс / представление данных / вид
+- **Translation (EN):** view / layout
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Ansicht.*
+     ➔ Вот ракурс / представление данных / вид.
+  2. *Wir müssen die Ansicht genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: ракурс / представление данных / вид.
+  3. *Sind Sie mit der Ansicht einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: ракурс / представление данных / вид?
+  4. *Wir konzentrieren uns heute auf die Ansicht.*
+     ➔ Сегодня мы концентрируемся на теме: ракурс / представление данных / вид.
+  5. *Die Ansicht spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Ракурс / представление данных / вид играет решающую роль в успехе.
+
+### 1939. das Layout, die Layouts [🎥 YouGlish](https://de.youglish.com/pronounce/Layout/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** формат отображения / макет
+- **Translation (EN):** layout
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Layout.*
+     ➔ Вот формат отображения / макет.
+  2. *Wir müssen das Layout genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: формат отображения / макет.
+  3. *Sind Sie mit dem Layout einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: формат отображения / макет?
+  4. *Wir konzentrieren uns heute auf das Layout.*
+     ➔ Сегодня мы концентрируемся на теме: формат отображения / макет.
+  5. *Das Layout spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Формат отображения / макет играет решающую роль в успехе.
+
+### 1940. die Spalte, die Spalten [🎥 YouGlish](https://de.youglish.com/pronounce/Spalte/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** колонка / столбец
+- **Translation (EN):** column
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Spalte.*
+     ➔ Вот колонка / столбец.
+  2. *Wir müssen die Spalte genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: колонка / столбец.
+  3. *Sind Sie mit der Spalte einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: колонка / столбец?
+  4. *Wir konzentrieren uns heute auf die Spalte.*
+     ➔ Сегодня мы концентрируемся на теме: колонка / столбец.
+  5. *Die Spalte spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Колонка / столбец играет решающую роль в успехе.
+
+### 1941. die Zeile, die Zeilen [🎥 YouGlish](https://de.youglish.com/pronounce/Zeile/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** строка
+- **Translation (EN):** row
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Zeile.*
+     ➔ Вот строка.
+  2. *Wir müssen die Zeile genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: строка.
+  3. *Sind Sie mit der Zeile einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: строка?
+  4. *Wir konzentrieren uns heute auf die Zeile.*
+     ➔ Сегодня мы концентрируемся на теме: строка.
+  5. *Die Zeile spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Строка играет решающую роль в успехе.
+
+### 1942. sortieren [🎥 YouGlish](https://de.youglish.com/pronounce/sortieren/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B1
+- **Перевод (RU):** сортировать
+- **Translation (EN):** to sort
+- **Partizip II:** sortiert
+- **Императив (Imperativ):** sortiere! / sortiert! / sortieren Sie!
+- **Спряжение (Konjugation - Präsens):** ich *sortiere*, du *sortierst*, er/sie/es *sortiert*, wir *sortieren*, ihr *sortiert*, sie/Sie *sortieren*
+- **Примеры использования (Beispiele):**
+  1. *Wir sortieren diese Angelegenheit direkt im Team.*
+     ➔ Мы сортировать этот вопрос непосредственно в команде.
+  2. *Ich sortiere die notwendigen Unterlagen sofort.*
+     ➔ Я сортировать необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege sortiert das Ganze sehr professionell.*
+     ➔ Ответственный коллега сортировать всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich sortiert.*
+     ➔ Мы успешно сортировать (в прошедшем времени) эту тему.
+  5. *sortieren Sie bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: сортировать вовремя!
+
+### 1943. die Sortierung, die Sortierungen [🎥 YouGlish](https://de.youglish.com/pronounce/Sortierung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сортировка
+- **Translation (EN):** sorting
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Sortierung.*
+     ➔ Вот сортировка.
+  2. *Wir müssen die Sortierung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сортировка.
+  3. *Sind Sie mit der Sortierung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сортировка?
+  4. *Wir konzentrieren uns heute auf die Sortierung.*
+     ➔ Сегодня мы концентрируемся на теме: сортировка.
+  5. *Die Sortierung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сортировка играет решающую роль в успехе.
+
+### 1944. gruppieren [🎥 YouGlish](https://de.youglish.com/pronounce/gruppieren/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B2
+- **Перевод (RU):** группировать
+- **Translation (EN):** to group
+- **Partizip II:** gruppiert
+- **Императив (Imperativ):** gruppiere! / gruppiert! / gruppieren Sie!
+- **Спряжение (Konjugation - Präsens):** ich *gruppiere*, du *gruppierst*, er/sie/es *gruppiert*, wir *gruppieren*, ihr *gruppiert*, sie/Sie *gruppieren*
+- **Примеры использования (Beispiele):**
+  1. *Wir gruppieren diese Angelegenheit direkt im Team.*
+     ➔ Мы группировать этот вопрос непосредственно в команде.
+  2. *Ich gruppiere die notwendigen Unterlagen sofort.*
+     ➔ Я группировать необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege gruppiert das Ganze sehr professionell.*
+     ➔ Ответственный коллега группировать всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich gruppiert.*
+     ➔ Мы успешно группировать (в прошедшем времени) эту тему.
+  5. *gruppieren Sie bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: группировать вовремя!
+
+### 1945. die Gruppierung, die Gruppierungen [🎥 YouGlish](https://de.youglish.com/pronounce/Gruppierung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** группировка
+- **Translation (EN):** grouping
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Gruppierung.*
+     ➔ Вот группировка.
+  2. *Wir müssen die Gruppierung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: группировка.
+  3. *Sind Sie mit der Gruppierung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: группировка?
+  4. *Wir konzentrieren uns heute auf die Gruppierung.*
+     ➔ Сегодня мы концентрируемся на теме: группировка.
+  5. *Die Gruppierung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Группировка играет решающую роль в успехе.
+
+### 1946. der Export, die Exporte [🎥 YouGlish](https://de.youglish.com/pronounce/Export/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** экспорт (выгрузка)
+- **Translation (EN):** export
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Export.*
+     ➔ Вот экспорт (выгрузка).
+  2. *Wir müssen den Export genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: экспорт (выгрузка).
+  3. *Sind Sie mit dem Export einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: экспорт (выгрузка)?
+  4. *Wir konzentrieren uns heute auf den Export.*
+     ➔ Сегодня мы концентрируемся на теме: экспорт (выгрузка).
+  5. *Der Export spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Экспорт (выгрузка) играет решающую роль в успехе.
+
+### 1947. exportieren [🎥 YouGlish](https://de.youglish.com/pronounce/exportieren/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B2
+- **Перевод (RU):** экспортировать (выгружать в файл)
+- **Translation (EN):** to export
+- **Partizip II:** exportiert
+- **Императив (Imperativ):** exportiere! / exportiert! / exportieren Sie!
+- **Спряжение (Konjugation - Präsens):** ich *exportiere*, du *exportierst*, er/sie/es *exportiert*, wir *exportieren*, ihr *exportiert*, sie/Sie *exportieren*
+- **Примеры использования (Beispiele):**
+  1. *Wir exportieren diese Angelegenheit direkt im Team.*
+     ➔ Мы экспортировать (выгружать в файл) этот вопрос непосредственно в команде.
+  2. *Ich exportiere die notwendigen Unterlagen sofort.*
+     ➔ Я экспортировать (выгружать в файл) необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege exportiert das Ganze sehr professionell.*
+     ➔ Ответственный коллега экспортировать (выгружать в файл) всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich exportiert.*
+     ➔ Мы успешно экспортировать (выгружать в файл) (в прошедшем времени) эту тему.
+  5. *exportieren Sie bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: экспортировать (выгружать в файл) вовремя!
+
+### 1948. die Excel-Tabelle, die Excel-Tabellen [🎥 YouGlish](https://de.youglish.com/pronounce/Excel-Tabelle/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** таблица Excel
+- **Translation (EN):** Excel sheet
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Excel-Tabelle.*
+     ➔ Вот таблица Excel.
+  2. *Wir müssen die Excel-Tabelle genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: таблица Excel.
+  3. *Sind Sie mit der Excel-Tabelle einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: таблица Excel?
+  4. *Wir konzentrieren uns heute auf die Excel-Tabelle.*
+     ➔ Сегодня мы концентрируемся на теме: таблица Excel.
+  5. *Die Excel-Tabelle spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Таблица Excel играет решающую роль в успехе.
+
+### 1949. das SAP GUI, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/SAP%20GUI/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** классический интерфейс SAP GUI
+- **Translation (EN):** SAP GUI
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das SAP GUI.*
+     ➔ Вот классический интерфейс SAP GUI.
+  2. *Wir müssen das SAP GUI genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: классический интерфейс SAP GUI.
+  3. *Sind Sie mit dem SAP GUI einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: классический интерфейс SAP GUI?
+  4. *Wir konzentrieren uns heute auf das SAP GUI.*
+     ➔ Сегодня мы концентрируемся на теме: классический интерфейс SAP GUI.
+  5. *Das SAP GUI spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Классический интерфейс SAP GUI играет решающую роль в успехе.
+
+### 1950. die Transaktion, die Transaktionen [🎥 YouGlish](https://de.youglish.com/pronounce/Transaktion/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** транзакция / код транзакции
+- **Translation (EN):** transaction
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Transaktion.*
+     ➔ Вот транзакция / код транзакции.
+  2. *Wir müssen die Transaktion genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: транзакция / код транзакции.
+  3. *Sind Sie mit der Transaktion einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: транзакция / код транзакции?
+  4. *Wir konzentrieren uns heute auf die Transaktion.*
+     ➔ Сегодня мы концентрируемся на теме: транзакция / код транзакции.
+  5. *Die Transaktion spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Транзакция / код транзакции играет решающую роль в успехе.
+
+### 1951. der Transaktionscode, die Transaktionscodes [🎥 YouGlish](https://de.youglish.com/pronounce/Transaktionscode/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** код транзакции (T-code)
+- **Translation (EN):** transaction code (T-code)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Transaktionscode.*
+     ➔ Вот код транзакции (T-code).
+  2. *Wir müssen den Transaktionscode genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: код транзакции (T-code).
+  3. *Sind Sie mit dem Transaktionscode einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: код транзакции (T-code)?
+  4. *Wir konzentrieren uns heute auf den Transaktionscode.*
+     ➔ Сегодня мы концентрируемся на теме: код транзакции (T-code).
+  5. *Der Transaktionscode spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Код транзакции (T-code) играет решающую роль в успехе.
+
+### 1952. das Befehlsfeld, die Befehlsfelder [🎥 YouGlish](https://de.youglish.com/pronounce/Befehlsfeld/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** поле ввода команд
+- **Translation (EN):** command field
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Befehlsfeld.*
+     ➔ Вот поле ввода команд.
+  2. *Wir müssen das Befehlsfeld genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: поле ввода команд.
+  3. *Sind Sie mit dem Befehlsfeld einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: поле ввода команд?
+  4. *Wir konzentrieren uns heute auf das Befehlsfeld.*
+     ➔ Сегодня мы концентрируемся на теме: поле ввода команд.
+  5. *Das Befehlsfeld spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Поле ввода команд играет решающую роль в успехе.
+
+### 1953. der Report, die Reports [🎥 YouGlish](https://de.youglish.com/pronounce/Report/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** отчет / программа отчета
+- **Translation (EN):** report
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Report.*
+     ➔ Вот отчет / программа отчета.
+  2. *Wir müssen den Report genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: отчет / программа отчета.
+  3. *Sind Sie mit dem Report einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: отчет / программа отчета?
+  4. *Wir konzentrieren uns heute auf den Report.*
+     ➔ Сегодня мы концентрируемся на теме: отчет / программа отчета.
+  5. *Der Report spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Отчет / программа отчета играет решающую роль в успехе.
+
+### 1954. die Selektionsmaske, die Selektionsmasken [🎥 YouGlish](https://de.youglish.com/pronounce/Selektionsmaske/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** экран выбора параметров
+- **Translation (EN):** selection screen
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Selektionsmaske.*
+     ➔ Вот экран выбора параметров.
+  2. *Wir müssen die Selektionsmaske genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: экран выбора параметров.
+  3. *Sind Sie mit der Selektionsmaske einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: экран выбора параметров?
+  4. *Wir konzentrieren uns heute auf die Selektionsmaske.*
+     ➔ Сегодня мы концентрируемся на теме: экран выбора параметров.
+  5. *Die Selektionsmaske spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Экран выбора параметров играет решающую роль в успехе.
+
+### 1955. das Pflichtfeld, die Pflichtfelder [🎥 YouGlish](https://de.youglish.com/pronounce/Pflichtfeld/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** обязательное для заполнения поле
+- **Translation (EN):** mandatory field
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Pflichtfeld.*
+     ➔ Вот обязательное для заполнения поле.
+  2. *Wir müssen das Pflichtfeld genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: обязательное для заполнения поле.
+  3. *Sind Sie mit dem Pflichtfeld einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: обязательное для заполнения поле?
+  4. *Wir konzentrieren uns heute auf das Pflichtfeld.*
+     ➔ Сегодня мы концентрируемся на теме: обязательное для заполнения поле.
+  5. *Das Pflichtfeld spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Обязательное для заполнения поле играет решающую роль в успехе.
+
+### 1956. das Optionsfeld, die Optionsfelder [🎥 YouGlish](https://de.youglish.com/pronounce/Optionsfeld/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** радиокнопка
+- **Translation (EN):** radio button
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Optionsfeld.*
+     ➔ Вот радиокнопка.
+  2. *Wir müssen das Optionsfeld genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: радиокнопка.
+  3. *Sind Sie mit dem Optionsfeld einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: радиокнопка?
+  4. *Wir konzentrieren uns heute auf das Optionsfeld.*
+     ➔ Сегодня мы концентрируемся на теме: радиокнопка.
+  5. *Das Optionsfeld spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Радиокнопка играет решающую роль в успехе.
+
+### 1957. das Kontrollkästchen, die Kontrollkästchen [🎥 YouGlish](https://de.youglish.com/pronounce/Kontrollk%C3%A4stchen/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** флажок / чекбокс
+- **Translation (EN):** checkbox
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Kontrollkästchen.*
+     ➔ Вот флажок / чекбокс.
+  2. *Wir müssen das Kontrollkästchen genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: флажок / чекбокс.
+  3. *Sind Sie mit dem Kontrollkästchen einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: флажок / чекбокс?
+  4. *Wir konzentrieren uns heute auf das Kontrollkästchen.*
+     ➔ Сегодня мы концентрируемся на теме: флажок / чекбокс.
+  5. *Das Kontrollkästchen spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Флажок / чекбокс играет решающую роль в успехе.
+
+### 1958. die Dropdown-Liste, die Dropdown-Listen [🎥 YouGlish](https://de.youglish.com/pronounce/Dropdown-Liste/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** выпадающий список
+- **Translation (EN):** dropdown list
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Dropdown-Liste.*
+     ➔ Вот выпадающий список.
+  2. *Wir müssen die Dropdown-Liste genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: выпадающий список.
+  3. *Sind Sie mit der Dropdown-Liste einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: выпадающий список?
+  4. *Wir konzentrieren uns heute auf die Dropdown-Liste.*
+     ➔ Сегодня мы концентрируемся на теме: выпадающий список.
+  5. *Die Dropdown-Liste spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Выпадающий список играет решающую роль в успехе.
+
+### 1959. die Wertehilfe, die Wertehilfen [🎥 YouGlish](https://de.youglish.com/pronounce/Wertehilfe/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** справка по допустимым значениям (F4)
+- **Translation (EN):** search help (F4)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Wertehilfe.*
+     ➔ Вот справка по допустимым значениям (F4).
+  2. *Wir müssen die Wertehilfe genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: справка по допустимым значениям (F4).
+  3. *Sind Sie mit der Wertehilfe einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: справка по допустимым значениям (F4)?
+  4. *Wir konzentrieren uns heute auf die Wertehilfe.*
+     ➔ Сегодня мы концентрируемся на теме: справка по допустимым значениям (F4).
+  5. *Die Wertehilfe spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Справка по допустимым значениям (F4) играет решающую роль в успехе.
+
+### 1960. die Schnellsuche, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Schnellsuche/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** быстрый поиск
+- **Translation (EN):** quick search
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Schnellsuche.*
+     ➔ Вот быстрый поиск.
+  2. *Wir müssen die Schnellsuche genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: быстрый поиск.
+  3. *Sind Sie mit der Schnellsuche einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: быстрый поиск?
+  4. *Wir konzentrieren uns heute auf die Schnellsuche.*
+     ➔ Сегодня мы концентрируемся на теме: быстрый поиск.
+  5. *Die Schnellsuche spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Быстрый поиск играет решающую роль в успехе.
+
+### 1961. der Favorit, die Favoriten [🎥 YouGlish](https://de.youglish.com/pronounce/Favorit/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** избранное
+- **Translation (EN):** favorite
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Favorit.*
+     ➔ Вот избранное.
+  2. *Wir müssen den Favorit genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: избранное.
+  3. *Sind Sie mit dem Favorit einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: избранное?
+  4. *Wir konzentrieren uns heute auf den Favorit.*
+     ➔ Сегодня мы концентрируемся на теме: избранное.
+  5. *Der Favorit spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Избранное играет решающую роль в успехе.
+
+### 1962. hinzufügen [🎥 YouGlish](https://de.youglish.com/pronounce/hinzuf%C3%BCgen/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B1
+- **Перевод (RU):** добавлять
+- **Translation (EN):** to add
+- **Partizip II:** gehinzufügt
+- **Императив (Imperativ):** hinzufüge! / hinzufügt! / hinzufügen Sie!
+- **Спряжение (Konjugation - Präsens):** ich *hinzufüge*, du *hinzufügst*, er/sie/es *hinzufügt*, wir *hinzufügen*, ihr *hinzufügt*, sie/Sie *hinzufügen*
+- **Примеры использования (Beispiele):**
+  1. *Wir hinzufügen diese Angelegenheit direkt im Team.*
+     ➔ Мы добавлять этот вопрос непосредственно в команде.
+  2. *Ich hinzufüge die notwendigen Unterlagen sofort.*
+     ➔ Я добавлять необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege hinzufügt das Ganze sehr professionell.*
+     ➔ Ответственный коллега добавлять всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich gehinzufügt.*
+     ➔ Мы успешно добавлять (в прошедшем времени) эту тему.
+  5. *hinzufügen Sie bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: добавлять вовремя!
+
+### 1963. die Benutzerdaten, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/Benutzerdaten/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** данные пользователя
+- **Translation (EN):** user master data
+- **Примеры использования (Beispiele):**
+  1. *Hier sind die Benutzerdaten.*
+     ➔ Вот данные пользователя.
+  2. *Wir müssen die Benutzerdaten genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: данные пользователя.
+  3. *Sind Sie mit den Benutzerdaten einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: данные пользователя?
+  4. *Wir konzentrieren uns heute auf die Benutzerdaten.*
+     ➔ Сегодня мы концентрируемся на теме: данные пользователя.
+  5. *Die Benutzerdaten spielen eine entscheidende Rolle für den Erfolg.*
+     ➔ Данные пользователя играет решающую роль в успехе.
+
+### 1964. das Benutzerprofil, die Benutzerprofile [🎥 YouGlish](https://de.youglish.com/pronounce/Benutzerprofil/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** профиль пользователя
+- **Translation (EN):** user profile
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Benutzerprofil.*
+     ➔ Вот профиль пользователя.
+  2. *Wir müssen das Benutzerprofil genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: профиль пользователя.
+  3. *Sind Sie mit dem Benutzerprofil einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: профиль пользователя?
+  4. *Wir konzentrieren uns heute auf das Benutzerprofil.*
+     ➔ Сегодня мы концентрируемся на теме: профиль пользователя.
+  5. *Das Benutzerprofil spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Профиль пользователя играет решающую роль в успехе.
+
+### 1965. das Berechtigungsobjekt, die Berechtigungsobjekte [🎥 YouGlish](https://de.youglish.com/pronounce/Berechtigungsobjekt/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** объект полномочий
+- **Translation (EN):** authorization object
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Berechtigungsobjekt.*
+     ➔ Вот объект полномочий.
+  2. *Wir müssen das Berechtigungsobjekt genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: объект полномочий.
+  3. *Sind Sie mit dem Berechtigungsobjekt einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: объект полномочий?
+  4. *Wir konzentrieren uns heute auf das Berechtigungsobjekt.*
+     ➔ Сегодня мы концентрируемся на теме: объект полномочий.
+  5. *Das Berechtigungsobjekt spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Объект полномочий играет решающую роль в успехе.
+
+### 1966. die Berechtigungsprüfung, die Berechtigungsprüfungen [🎥 YouGlish](https://de.youglish.com/pronounce/Berechtigungspr%C3%BCfung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** проверка полномочий
+- **Translation (EN):** authorization check
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Berechtigungsprüfung.*
+     ➔ Вот проверка полномочий.
+  2. *Wir müssen die Berechtigungsprüfung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: проверка полномочий.
+  3. *Sind Sie mit der Berechtigungsprüfung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: проверка полномочий?
+  4. *Wir konzentrieren uns heute auf die Berechtigungsprüfung.*
+     ➔ Сегодня мы концентрируемся на теме: проверка полномочий.
+  5. *Die Berechtigungsprüfung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Проверка полномочий играет решающую роль в успехе.
+
+### 1967. der Berechtigungsfehler, die Berechtigungsfehler [🎥 YouGlish](https://de.youglish.com/pronounce/Berechtigungsfehler/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** ошибка полномочий / прав доступа
+- **Translation (EN):** authorization error
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Berechtigungsfehler.*
+     ➔ Вот ошибка полномочий / прав доступа.
+  2. *Wir müssen den Berechtigungsfehler genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: ошибка полномочий / прав доступа.
+  3. *Sind Sie mit dem Berechtigungsfehler einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: ошибка полномочий / прав доступа?
+  4. *Wir konzentrieren uns heute auf den Berechtigungsfehler.*
+     ➔ Сегодня мы концентрируемся на теме: ошибка полномочий / прав доступа.
+  5. *Der Berechtigungsfehler spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Ошибка полномочий / прав доступа играет решающую роль в успехе.
+
+### 1968. fehlen [🎥 YouGlish](https://de.youglish.com/pronounce/fehlen/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B1
+- **Перевод (RU):** не хватать / отсутствовать
+- **Translation (EN):** to lack / be missing
+- **Partizip II:** gefehlt
+- **Императив (Imperativ):** fehle! / fehlt! / fehlen Sie!
+- **Спряжение (Konjugation - Präsens):** ich *fehle*, du *fehlst*, er/sie/es *fehlt*, wir *fehlen*, ihr *fehlt*, sie/Sie *fehlen*
+- **Примеры использования (Beispiele):**
+  1. *Wir fehlen diese Angelegenheit direkt im Team.*
+     ➔ Мы не хватать / отсутствовать этот вопрос непосредственно в команде.
+  2. *Ich fehle die notwendigen Unterlagen sofort.*
+     ➔ Я не хватать / отсутствовать необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege fehlt das Ganze sehr professionell.*
+     ➔ Ответственный коллега не хватать / отсутствовать всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich gefehlt.*
+     ➔ Мы успешно не хватать / отсутствовать (в прошедшем времени) эту тему.
+  5. *fehlen Sie bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: не хватать / отсутствовать вовремя!
+
+### 1969. die Fehlermeldung, die Fehlermeldungen [🎥 YouGlish](https://de.youglish.com/pronounce/Fehlermeldung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сообщение об ошибке
+- **Translation (EN):** error message
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Fehlermeldung.*
+     ➔ Вот сообщение об ошибке.
+  2. *Wir müssen die Fehlermeldung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сообщение об ошибке.
+  3. *Sind Sie mit der Fehlermeldung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сообщение об ошибке?
+  4. *Wir konzentrieren uns heute auf die Fehlermeldung.*
+     ➔ Сегодня мы концентрируемся на теме: сообщение об ошибке.
+  5. *Die Fehlermeldung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сообщение об ошибке играет решающую роль в успехе.
+
+### 1970. die Warnung, die Warnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Warnung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** предупреждение
+- **Translation (EN):** warning
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Warnung.*
+     ➔ Вот предупреждение.
+  2. *Wir müssen die Warnung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: предупреждение.
+  3. *Sind Sie mit der Warnung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: предупреждение?
+  4. *Wir konzentrieren uns heute auf die Warnung.*
+     ➔ Сегодня мы концентрируемся на теме: предупреждение.
+  5. *Die Warnung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Предупреждение играет решающую роль в успехе.
+
+### 1971. die Erfolgsmeldung, die Erfolgsmeldungen [🎥 YouGlish](https://de.youglish.com/pronounce/Erfolgsmeldung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сообщение об успешном выполнении
+- **Translation (EN):** success message
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Erfolgsmeldung.*
+     ➔ Вот сообщение об успешном выполнении.
+  2. *Wir müssen die Erfolgsmeldung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сообщение об успешном выполнении.
+  3. *Sind Sie mit der Erfolgsmeldung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сообщение об успешном выполнении?
+  4. *Wir konzentrieren uns heute auf die Erfolgsmeldung.*
+     ➔ Сегодня мы концентрируемся на теме: сообщение об успешном выполнении.
+  5. *Die Erfolgsmeldung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сообщение об успешном выполнении играет решающую роль в успехе.
+
+### 1972. die Statusleiste, die Statusleisten [🎥 YouGlish](https://de.youglish.com/pronounce/Statusleiste/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** строка состояния
+- **Translation (EN):** status bar
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Statusleiste.*
+     ➔ Вот строка состояния.
+  2. *Wir müssen die Statusleiste genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: строка состояния.
+  3. *Sind Sie mit der Statusleiste einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: строка состояния?
+  4. *Wir konzentrieren uns heute auf die Statusleiste.*
+     ➔ Сегодня мы концентрируемся на теме: строка состояния.
+  5. *Die Statusleiste spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Строка состояния играет решающую роль в успехе.
+
+### 1973. das Dialogfenster, die Dialogfenster [🎥 YouGlish](https://de.youglish.com/pronounce/Dialogfenster/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** диалоговое окно
+- **Translation (EN):** dialog box / pop-up
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Dialogfenster.*
+     ➔ Вот диалоговое окно.
+  2. *Wir müssen das Dialogfenster genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: диалоговое окно.
+  3. *Sind Sie mit dem Dialogfenster einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: диалоговое окно?
+  4. *Wir konzentrieren uns heute auf das Dialogfenster.*
+     ➔ Сегодня мы концентрируемся на теме: диалоговое окно.
+  5. *Das Dialogfenster spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Диалоговое окно играет решающую роль в успехе.
+
+### 1974. bestätigen [🎥 YouGlish](https://de.youglish.com/pronounce/best%C3%A4tigen/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B1
+- **Перевод (RU):** подтверждать
+- **Translation (EN):** to confirm
+- **Partizip II:** bestätigt
+- **Императив (Imperativ):** bestätige! / bestätigt! / bestätigen Sie!
+- **Спряжение (Konjugation - Präsens):** ich *bestätige*, du *bestätigst*, er/sie/es *bestätigt*, wir *bestätigen*, ihr *bestätigt*, sie/Sie *bestätigen*
+- **Примеры использования (Beispiele):**
+  1. *Wir bestätigen diese Angelegenheit direkt im Team.*
+     ➔ Мы подтверждать этот вопрос непосредственно в команде.
+  2. *Ich bestätige die notwendigen Unterlagen sofort.*
+     ➔ Я подтверждать необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege bestätigt das Ganze sehr professionell.*
+     ➔ Ответственный коллега подтверждать всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich bestätigt.*
+     ➔ Мы успешно подтверждать (в прошедшем времени) эту тему.
+  5. *bestätigen Sie bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: подтверждать вовремя!
+
+### 1975. abbrechen [🎥 YouGlish](https://de.youglish.com/pronounce/abbrechen/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B1
+- **Перевод (RU):** прерывать / отменять
+- **Translation (EN):** to cancel
+- **Partizip II:** abgebrecht
+- **Императив (Imperativ):** breche ab! / brecht ab! / brechen Sie ab!
+- **Спряжение (Konjugation - Präsens):** ich *breche ab*, du *brechst ab*, er/sie/es *brecht ab*, wir *brechen ab*, ihr *brecht ab*, sie/Sie *brechen ab*
+- **Примеры использования (Beispiele):**
+  1. *Wir brechen ab diese Angelegenheit direkt im Team.*
+     ➔ Мы прерывать / отменять этот вопрос непосредственно в команде.
+  2. *Ich breche ab die notwendigen Unterlagen sofort.*
+     ➔ Я прерывать / отменять необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege brecht ab das Ganze sehr professionell.*
+     ➔ Ответственный коллега прерывать / отменять всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich abgebrecht.*
+     ➔ Мы успешно прерывать / отменять (в прошедшем времени) эту тему.
+  5. *brechen Sie ab bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: прерывать / отменять вовремя!
+
+### 1976. das Customizing-Menü, die Menüs [🎥 YouGlish](https://de.youglish.com/pronounce/Customizing-Men%C3%BC/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** меню настройки системы
+- **Translation (EN):** customizing menu
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Customizing-Menü.*
+     ➔ Вот меню настройки системы.
+  2. *Wir müssen das Customizing-Menü genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: меню настройки системы.
+  3. *Sind Sie mit dem Customizing-Menü einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: меню настройки системы?
+  4. *Wir konzentrieren uns heute auf das Customizing-Menü.*
+     ➔ Сегодня мы концентрируемся на теме: меню настройки системы.
+  5. *Das Customizing-Menü spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Меню настройки системы играет решающую роль в успехе.
+
+### 1977. das Launchpad-Design, die Designs [🎥 YouGlish](https://de.youglish.com/pronounce/Launchpad-Design/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** тема оформления Launchpad
+- **Translation (EN):** launchpad theme
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Launchpad-Design.*
+     ➔ Вот тема оформления Launchpad.
+  2. *Wir müssen das Launchpad-Design genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: тема оформления Launchpad.
+  3. *Sind Sie mit dem Launchpad-Design einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: тема оформления Launchpad?
+  4. *Wir konzentrieren uns heute auf das Launchpad-Design.*
+     ➔ Сегодня мы концентрируемся на теме: тема оформления Launchpad.
+  5. *Das Launchpad-Design spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Тема оформления Launchpad играет решающую роль в успехе.
+
+### 1978. die Barrierefreiheit, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Barrierefreiheit/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** доступность для инвалидов
+- **Translation (EN):** accessibility
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Barrierefreiheit.*
+     ➔ Вот доступность для инвалидов.
+  2. *Wir müssen die Barrierefreiheit genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: доступность для инвалидов.
+  3. *Sind Sie mit der Barrierefreiheit einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: доступность для инвалидов?
+  4. *Wir konzentrieren uns heute auf die Barrierefreiheit.*
+     ➔ Сегодня мы концентрируемся на теме: доступность для инвалидов.
+  5. *Die Barrierefreiheit spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Доступность для инвалидов играет решающую роль в успехе.
+
+### 1979. die Web-Dynpro-App, die Web-Dynpro-Apps [🎥 YouGlish](https://de.youglish.com/pronounce/Web-Dynpro-App/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** приложение Web Dynpro
+- **Translation (EN):** Web Dynpro app
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Web-Dynpro-App.*
+     ➔ Вот приложение Web Dynpro.
+  2. *Wir müssen die Web-Dynpro-App genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: приложение Web Dynpro.
+  3. *Sind Sie mit der Web-Dynpro-App einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: приложение Web Dynpro?
+  4. *Wir konzentrieren uns heute auf die Web-Dynpro-App.*
+     ➔ Сегодня мы концентрируемся на теме: приложение Web Dynpro.
+  5. *Die Web-Dynpro-App spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Приложение Web Dynpro играет решающую роль в успехе.
+
+### 1980. der App-Inhalt, die App-Inhalte [🎥 YouGlish](https://de.youglish.com/pronounce/App-Inhalt/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** контент / содержимое приложения
+- **Translation (EN):** app content
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der App-Inhalt.*
+     ➔ Вот контент / содержимое приложения.
+  2. *Wir müssen den App-Inhalt genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: контент / содержимое приложения.
+  3. *Sind Sie mit dem App-Inhalt einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: контент / содержимое приложения?
+  4. *Wir konzentrieren uns heute auf den App-Inhalt.*
+     ➔ Сегодня мы концентрируемся на теме: контент / содержимое приложения.
+  5. *Der App-Inhalt spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Контент / содержимое приложения играет решающую роль в успехе.
+
+### 1981. die Kachel-Bibliothek, die Bibliotheken [🎥 YouGlish](https://de.youglish.com/pronounce/Kachel-Bibliothek/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** каталог плиток
+- **Translation (EN):** tile catalog
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Kachel-Bibliothek.*
+     ➔ Вот каталог плиток.
+  2. *Wir müssen die Kachel-Bibliothek genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: каталог плиток.
+  3. *Sind Sie mit der Kachel-Bibliothek einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: каталог плиток?
+  4. *Wir konzentrieren uns heute auf die Kachel-Bibliothek.*
+     ➔ Сегодня мы концентрируемся на теме: каталог плиток.
+  5. *Die Kachel-Bibliothek spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Каталог плиток играет решающую роль в успехе.
+
+### 1982. die Kachel-Gruppe, die Kachel-Gruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Kachel-Gruppe/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** группа плиток
+- **Translation (EN):** tile group
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Kachel-Gruppe.*
+     ➔ Вот группа плиток.
+  2. *Wir müssen die Kachel-Gruppe genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: группа плиток.
+  3. *Sind Sie mit der Kachel-Gruppe einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: группа плиток?
+  4. *Wir konzentrieren uns heute auf die Kachel-Gruppe.*
+     ➔ Сегодня мы концентрируемся на теме: группа плиток.
+  5. *Die Kachel-Gruppe spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Группа плиток играет решающую роль в успехе.
+
+### 1983. die Zielzuordnung, die Zielzuordnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Zielzuordnung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сопоставление целей (target mapping)
+- **Translation (EN):** target mapping
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Zielzuordnung.*
+     ➔ Вот сопоставление целей (target mapping).
+  2. *Wir müssen die Zielzuordnung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сопоставление целей (target mapping).
+  3. *Sind Sie mit der Zielzuordnung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сопоставление целей (target mapping)?
+  4. *Wir konzentrieren uns heute auf die Zielzuordnung.*
+     ➔ Сегодня мы концентрируемся на теме: сопоставление целей (target mapping).
+  5. *Die Zielzuordnung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сопоставление целей (target mapping) играет решающую роль в успехе.
+
+### 1984. die semantische Objekt, die Objekte [🎥 YouGlish](https://de.youglish.com/pronounce/semantische%20Objekt/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** семантический объект
+- **Translation (EN):** semantic object
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die semantische Objekt.*
+     ➔ Вот семантический объект.
+  2. *Wir müssen die semantische Objekt genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: семантический объект.
+  3. *Sind Sie mit der semantische Objekt einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: семантический объект?
+  4. *Wir konzentrieren uns heute auf die semantische Objekt.*
+     ➔ Сегодня мы концентрируемся на теме: семантический объект.
+  5. *Die semantische Objekt spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Семантический объект играет решающую роль в успехе.
+
+### 1985. die Aktion, die Aktionen [🎥 YouGlish](https://de.youglish.com/pronounce/Aktion/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** действие
+- **Translation (EN):** action
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Aktion.*
+     ➔ Вот действие.
+  2. *Wir müssen die Aktion genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: действие.
+  3. *Sind Sie mit der Aktion einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: действие?
+  4. *Wir konzentrieren uns heute auf die Aktion.*
+     ➔ Сегодня мы концентрируемся на теме: действие.
+  5. *Die Aktion spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Действие играет решающую роль в успехе.
+
+### 1986. der Parameter, die Parameter [🎥 YouGlish](https://de.youglish.com/pronounce/Parameter/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** параметр
+- **Translation (EN):** parameter
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Parameter.*
+     ➔ Вот параметр.
+  2. *Wir müssen den Parameter genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: параметр.
+  3. *Sind Sie mit dem Parameter einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: параметр?
+  4. *Wir konzentrieren uns heute auf den Parameter.*
+     ➔ Сегодня мы концентрируемся на теме: параметр.
+  5. *Der Parameter spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Параметр играет решающую роль в успехе.
+
+### 1987. die URL-Adresse, die URL-Adressen [🎥 YouGlish](https://de.youglish.com/pronounce/URL-Adresse/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** URL-адрес
+- **Translation (EN):** URL address
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die URL-Adresse.*
+     ➔ Вот URL-адрес.
+  2. *Wir müssen die URL-Adresse genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: URL-адрес.
+  3. *Sind Sie mit der URL-Adresse einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: URL-адрес?
+  4. *Wir konzentrieren uns heute auf die URL-Adresse.*
+     ➔ Сегодня мы концентрируемся на теме: URL-адрес.
+  5. *Die URL-Adresse spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ URL-адрес играет решающую роль в успехе.
+
+### 1988. das Browser-Fenster, die Browser-Fenster [🎥 YouGlish](https://de.youglish.com/pronounce/Browser-Fenster/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** окно браузера
+- **Translation (EN):** browser window
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Browser-Fenster.*
+     ➔ Вот окно браузера.
+  2. *Wir müssen das Browser-Fenster genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: окно браузера.
+  3. *Sind Sie mit dem Browser-Fenster einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: окно браузера?
+  4. *Wir konzentrieren uns heute auf das Browser-Fenster.*
+     ➔ Сегодня мы концентрируемся на теме: окно браузера.
+  5. *Das Browser-Fenster spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Окно браузера играет решающую роль в успехе.
+
+### 1989. die Cloud-Platform, die Cloud-Platformen [🎥 YouGlish](https://de.youglish.com/pronounce/Cloud-Platform/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** облачная платформа SAP BTP
+- **Translation (EN):** SAP Business Technology Platform (BTP)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Cloud-Platform.*
+     ➔ Вот облачная платформа SAP BTP.
+  2. *Wir müssen die Cloud-Platform genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: облачная платформа SAP BTP.
+  3. *Sind Sie mit der Cloud-Platform einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: облачная платформа SAP BTP?
+  4. *Wir konzentrieren uns heute auf die Cloud-Platform.*
+     ➔ Сегодня мы концентрируемся на теме: облачная платформа SAP BTP.
+  5. *Die Cloud-Platform spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Облачная платформа SAP BTP играет решающую роль в успехе.
+
+### 1990. der Service, die Services [🎥 YouGlish](https://de.youglish.com/pronounce/Service/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сервис / служба
+- **Translation (EN):** service
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Service.*
+     ➔ Вот сервис / служба.
+  2. *Wir müssen den Service genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сервис / служба.
+  3. *Sind Sie mit dem Service einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сервис / служба?
+  4. *Wir konzentrieren uns heute auf den Service.*
+     ➔ Сегодня мы концентрируемся на теме: сервис / служба.
+  5. *Der Service spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сервис / служба играет решающую роль в успехе.
+
+### 1991. die OData-Schnittstelle, die Schnittstellen [🎥 YouGlish](https://de.youglish.com/pronounce/OData-Schnittstelle/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** протокол OData (для связи с UI)
+- **Translation (EN):** OData service
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die OData-Schnittstelle.*
+     ➔ Вот протокол OData (для связи с UI).
+  2. *Wir müssen die OData-Schnittstelle genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: протокол OData (для связи с UI).
+  3. *Sind Sie mit der OData-Schnittstelle einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: протокол OData (для связи с UI)?
+  4. *Wir konzentrieren uns heute auf die OData-Schnittstelle.*
+     ➔ Сегодня мы концентрируемся на теме: протокол OData (для связи с UI).
+  5. *Die OData-Schnittstelle spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Протокол OData (для связи с UI) играет решающую роль в успехе.
+
+### 1992. der Gateway-Server, die Gateway-Server [🎥 YouGlish](https://de.youglish.com/pronounce/Gateway-Server/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сервер SAP Gateway
+- **Translation (EN):** SAP Gateway server
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Gateway-Server.*
+     ➔ Вот сервер SAP Gateway.
+  2. *Wir müssen den Gateway-Server genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сервер SAP Gateway.
+  3. *Sind Sie mit dem Gateway-Server einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сервер SAP Gateway?
+  4. *Wir konzentrieren uns heute auf den Gateway-Server.*
+     ➔ Сегодня мы концентрируемся на теме: сервер SAP Gateway.
+  5. *Der Gateway-Server spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сервер SAP Gateway играет решающую роль в успехе.
+
+### 1993. das Backend-System, die Backend-Systeme [🎥 YouGlish](https://de.youglish.com/pronounce/Backend-System/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** бэкэнд-система
+- **Translation (EN):** backend system
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Backend-System.*
+     ➔ Вот бэкэнд-система.
+  2. *Wir müssen das Backend-System genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: бэкэнд-система.
+  3. *Sind Sie mit dem Backend-System einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: бэкэнд-система?
+  4. *Wir konzentrieren uns heute auf das Backend-System.*
+     ➔ Сегодня мы концентрируемся на теме: бэкэнд-система.
+  5. *Das Backend-System spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Бэкэнд-система играет решающую роль в успехе.
+
+### 1994. das Frontend-System, die Frontend-Systeme [🎥 YouGlish](https://de.youglish.com/pronounce/Frontend-System/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** фронтэнд-система
+- **Translation (EN):** frontend system
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Frontend-System.*
+     ➔ Вот фронтэнд-система.
+  2. *Wir müssen das Frontend-System genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: фронтэнд-система.
+  3. *Sind Sie mit dem Frontend-System einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: фронтэнд-система?
+  4. *Wir konzentrieren uns heute auf das Frontend-System.*
+     ➔ Сегодня мы концентрируемся на теме: фронтэнд-система.
+  5. *Das Frontend-System spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Фронтэнд-система играет решающую роль в успехе.
+
+### 1995. die Replikation, die Replikationen [🎥 YouGlish](https://de.youglish.com/pronounce/Replikation/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** репликация данных
+- **Translation (EN):** data replication
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Replikation.*
+     ➔ Вот репликация данных.
+  2. *Wir müssen die Replikation genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: репликация данных.
+  3. *Sind Sie mit der Replikation einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: репликация данных?
+  4. *Wir konzentrieren uns heute auf die Replikation.*
+     ➔ Сегодня мы концентрируемся на теме: репликация данных.
+  5. *Die Replikation spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Репликация данных играет решающую роль в успехе.
+
+### 1996. synchronisieren [🎥 YouGlish](https://de.youglish.com/pronounce/synchronisieren/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B2
+- **Перевод (RU):** синхронизировать
+- **Translation (EN):** to synchronize
+- **Partizip II:** synchronisiert
+- **Императив (Imperativ):** synchronisiere! / synchronisiert! / synchronisieren Sie!
+- **Спряжение (Konjugation - Präsens):** ich *synchronisiere*, du *synchronisierst*, er/sie/es *synchronisiert*, wir *synchronisieren*, ihr *synchronisiert*, sie/Sie *synchronisieren*
+- **Примеры использования (Beispiele):**
+  1. *Wir synchronisieren diese Angelegenheit direkt im Team.*
+     ➔ Мы синхронизировать этот вопрос непосредственно в команде.
+  2. *Ich synchronisiere die notwendigen Unterlagen sofort.*
+     ➔ Я синхронизировать необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege synchronisiert das Ganze sehr professionell.*
+     ➔ Ответственный коллега синхронизировать всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich synchronisiert.*
+     ➔ Мы успешно синхронизировать (в прошедшем времени) эту тему.
+  5. *synchronisieren Sie bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: синхронизировать вовремя!
+
+### 1997. die Synchronisation, die Synchronisationen [🎥 YouGlish](https://de.youglish.com/pronounce/Synchronisation/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** синхронизация
+- **Translation (EN):** synchronization
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Synchronisation.*
+     ➔ Вот синхронизация.
+  2. *Wir müssen die Synchronisation genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: синхронизация.
+  3. *Sind Sie mit der Synchronisation einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: синхронизация?
+  4. *Wir konzentrieren uns heute auf die Synchronisation.*
+     ➔ Сегодня мы концентрируемся на теме: синхронизация.
+  5. *Die Synchronisation spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Синхронизация играет решающую роль в успехе.
+
+
+---
+
+## <a name="sap-einfuehrung--customizing"></a>SAP-Einführung & Customizing
+
+### 1998. das Customizing, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Customizing/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** кастомизация / настройка системы под клиента
+- **Translation (EN):** customizing / configuration
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Customizing.*
+     ➔ Вот кастомизация / настройка системы под клиента.
+  2. *Wir müssen das Customizing genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: кастомизация / настройка системы под клиента.
+  3. *Sind Sie mit dem Customizing einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: кастомизация / настройка системы под клиента?
+  4. *Wir konzentrieren uns heute auf das Customizing.*
+     ➔ Сегодня мы концентрируемся на теме: кастомизация / настройка системы под клиента.
+  5. *Das Customizing spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Кастомизация / настройка системы под клиента играет решающую роль в успехе.
+
+### 1999. der Einführungsleitfaden, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Einf%C3%BChrungsleitfaden/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** руководство по внедрению (IMG)
+- **Translation (EN):** Implementation Guide (IMG)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Einführungsleitfaden.*
+     ➔ Вот руководство по внедрению (IMG).
+  2. *Wir müssen den Einführungsleitfaden genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: руководство по внедрению (IMG).
+  3. *Sind Sie mit dem Einführungsleitfaden einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: руководство по внедрению (IMG)?
+  4. *Wir konzentrieren uns heute auf den Einführungsleitfaden.*
+     ➔ Сегодня мы концентрируемся на теме: руководство по внедрению (IMG).
+  5. *Der Einführungsleitfaden spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Руководство по внедрению (IMG) играет решающую роль в успехе.
+
+### 2000. die Customizing-Tabelle, die Customizing-Tabellen [🎥 YouGlish](https://de.youglish.com/pronounce/Customizing-Tabelle/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** таблица настроек
+- **Translation (EN):** customizing table
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Customizing-Tabelle.*
+     ➔ Вот таблица настроек.
+  2. *Wir müssen die Customizing-Tabelle genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: таблица настроек.
+  3. *Sind Sie mit der Customizing-Tabelle einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: таблица настроек?
+  4. *Wir konzentrieren uns heute auf die Customizing-Tabelle.*
+     ➔ Сегодня мы концентрируемся на теме: таблица настроек.
+  5. *Die Customizing-Tabelle spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Таблица настроек играет решающую роль в успехе.
+
+### 2001. die Systemlandschaft, die Systemlandschaften [🎥 YouGlish](https://de.youglish.com/pronounce/Systemlandschaft/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** системный ландшафт
+- **Translation (EN):** system landscape
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Systemlandschaft.*
+     ➔ Вот системный ландшафт.
+  2. *Wir müssen die Systemlandschaft genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: системный ландшафт.
+  3. *Sind Sie mit der Systemlandschaft einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: системный ландшафт?
+  4. *Wir konzentrieren uns heute auf die Systemlandschaft.*
+     ➔ Сегодня мы концентрируемся на теме: системный ландшафт.
+  5. *Die Systemlandschaft spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Системный ландшафт играет решающую роль в успехе.
+
+### 2002. das Entwicklungssystem, die Entwicklungssysteme [🎥 YouGlish](https://de.youglish.com/pronounce/Entwicklungssystem/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** система разработки (DEV)
+- **Translation (EN):** development system
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Entwicklungssystem.*
+     ➔ Вот система разработки (DEV).
+  2. *Wir müssen das Entwicklungssystem genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: система разработки (DEV).
+  3. *Sind Sie mit dem Entwicklungssystem einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: система разработки (DEV)?
+  4. *Wir konzentrieren uns heute auf das Entwicklungssystem.*
+     ➔ Сегодня мы концентрируемся на теме: система разработки (DEV).
+  5. *Das Entwicklungssystem spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Система разработки (DEV) играет решающую роль в успехе.
+
+### 2003. das Qualitätssicherungssystem, die Systeme [🎥 YouGlish](https://de.youglish.com/pronounce/Qualit%C3%A4tssicherungssystem/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** тестовая система / система качества (QA)
+- **Translation (EN):** quality assurance system
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Qualitätssicherungssystem.*
+     ➔ Вот тестовая система / система качества (QA).
+  2. *Wir müssen das Qualitätssicherungssystem genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: тестовая система / система качества (QA).
+  3. *Sind Sie mit dem Qualitätssicherungssystem einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: тестовая система / система качества (QA)?
+  4. *Wir konzentrieren uns heute auf das Qualitätssicherungssystem.*
+     ➔ Сегодня мы концентрируемся на теме: тестовая система / система качества (QA).
+  5. *Das Qualitätssicherungssystem spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Тестовая система / система качества (QA) играет решающую роль в успехе.
+
+### 2004. das Produktivsystem, die Produktivsysteme [🎥 YouGlish](https://de.youglish.com/pronounce/Produktivsystem/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** продуктивная / рабочая система (PRD)
+- **Translation (EN):** production system
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Produktivsystem.*
+     ➔ Вот продуктивная / рабочая система (PRD).
+  2. *Wir müssen das Produktivsystem genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: продуктивная / рабочая система (PRD).
+  3. *Sind Sie mit dem Produktivsystem einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: продуктивная / рабочая система (PRD)?
+  4. *Wir konzentrieren uns heute auf das Produktivsystem.*
+     ➔ Сегодня мы концентрируемся на теме: продуктивная / рабочая система (PRD).
+  5. *Das Produktivsystem spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Продуктивная / рабочая система (PRD) играет решающую роль в успехе.
+
+### 2005. der Mandant, die Mandanten [🎥 YouGlish](https://de.youglish.com/pronounce/Mandant/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** мандант (клиент в базе данных)
+- **Translation (EN):** client
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Mandant.*
+     ➔ Вот мандант (клиент в базе данных).
+  2. *Wir müssen den Mandant genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: мандант (клиент в базе данных).
+  3. *Sind Sie mit dem Mandant einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: мандант (клиент в базе данных)?
+  4. *Wir konzentrieren uns heute auf den Mandant.*
+     ➔ Сегодня мы концентрируемся на теме: мандант (клиент в базе данных).
+  5. *Der Mandant spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Мандант (клиент в базе данных) играет решающую роль в успехе.
+
+### 2006. die Datenübernahme, die Datenübernahmen [🎥 YouGlish](https://de.youglish.com/pronounce/Daten%C3%BCbernahme/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** миграция / перенос данных
+- **Translation (EN):** data migration
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Datenübernahme.*
+     ➔ Вот миграция / перенос данных.
+  2. *Wir müssen die Datenübernahme genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: миграция / перенос данных.
+  3. *Sind Sie mit der Datenübernahme einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: миграция / перенос данных?
+  4. *Wir konzentrieren uns heute auf die Datenübernahme.*
+     ➔ Сегодня мы концентрируемся на теме: миграция / перенос данных.
+  5. *Die Datenübernahme spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Миграция / перенос данных играет решающую роль в успехе.
+
+### 2007. die Altdatenübernahme, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Altdaten%C3%BCbernahme/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** миграция исторических данных
+- **Translation (EN):** legacy data transfer
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Altdatenübernahme.*
+     ➔ Вот миграция исторических данных.
+  2. *Wir müssen die Altdatenübernahme genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: миграция исторических данных.
+  3. *Sind Sie mit der Altdatenübernahme einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: миграция исторических данных?
+  4. *Wir konzentrieren uns heute auf die Altdatenübernahme.*
+     ➔ Сегодня мы концентрируемся на теме: миграция исторических данных.
+  5. *Die Altdatenübernahme spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Миграция исторических данных играет решающую роль в успехе.
+
+### 2008. die Lückenanalyse, die Lückenanalysen [🎥 YouGlish](https://de.youglish.com/pronounce/L%C3%BCckenanalyse/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** анализ разрывов (Fit-Gap)
+- **Translation (EN):** fit-gap analysis
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Lückenanalyse.*
+     ➔ Вот анализ разрывов (Fit-Gap).
+  2. *Wir müssen die Lückenanalyse genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: анализ разрывов (Fit-Gap).
+  3. *Sind Sie mit der Lückenanalyse einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: анализ разрывов (Fit-Gap)?
+  4. *Wir konzentrieren uns heute auf die Lückenanalyse.*
+     ➔ Сегодня мы концентрируемся на теме: анализ разрывов (Fit-Gap).
+  5. *Die Lückenanalyse spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Анализ разрывов (Fit-Gap) играет решающую роль в успехе.
+
+### 2009. der Go-Live, die Go-Lives [🎥 YouGlish](https://de.youglish.com/pronounce/Go-Live/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** запуск системы / промышленный старт
+- **Translation (EN):** Go-Live
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Go-Live.*
+     ➔ Вот запуск системы / промышленный старт.
+  2. *Wir müssen den Go-Live genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: запуск системы / промышленный старт.
+  3. *Sind Sie mit dem Go-Live einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: запуск системы / промышленный старт?
+  4. *Wir konzentrieren uns heute auf den Go-Live.*
+     ➔ Сегодня мы концентрируемся на теме: запуск системы / промышленный старт.
+  5. *Der Go-Live spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Запуск системы / промышленный старт играет решающую роль в успехе.
+
+### 2010. der Support, die Supports [🎥 YouGlish](https://de.youglish.com/pronounce/Support/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** поддержка / сопровождение
+- **Translation (EN):** support
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Support.*
+     ➔ Вот поддержка / сопровождение.
+  2. *Wir müssen den Support genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: поддержка / сопровождение.
+  3. *Sind Sie mit dem Support einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: поддержка / сопровождение?
+  4. *Wir konzentrieren uns heute auf den Support.*
+     ➔ Сегодня мы концентрируемся на теме: поддержка / сопровождение.
+  5. *Der Support spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Поддержка / сопровождение играет решающую роль в успехе.
+
+### 2011. das SAP-Einführungsprojekt, die Projekte [🎥 YouGlish](https://de.youglish.com/pronounce/SAP-Einf%C3%BChrungsprojekt/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** проект внедрения SAP
+- **Translation (EN):** SAP implementation project
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das SAP-Einführungsprojekt.*
+     ➔ Вот проект внедрения SAP.
+  2. *Wir müssen das SAP-Einführungsprojekt genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: проект внедрения SAP.
+  3. *Sind Sie mit dem SAP-Einführungsprojekt einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: проект внедрения SAP?
+  4. *Wir konzentrieren uns heute auf das SAP-Einführungsprojekt.*
+     ➔ Сегодня мы концентрируемся на теме: проект внедрения SAP.
+  5. *Das SAP-Einführungsprojekt spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Проект внедрения SAP играет решающую роль в успехе.
+
+### 2012. der Funktionstest, die Funktionstests [🎥 YouGlish](https://de.youglish.com/pronounce/Funktionstest/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** функциональное тестирование
+- **Translation (EN):** functional test
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Funktionstest.*
+     ➔ Вот функциональное тестирование.
+  2. *Wir müssen den Funktionstest genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: функциональное тестирование.
+  3. *Sind Sie mit dem Funktionstest einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: функциональное тестирование?
+  4. *Wir konzentrieren uns heute auf den Funktionstest.*
+     ➔ Сегодня мы концентрируемся на теме: функциональное тестирование.
+  5. *Der Funktionstest spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Функциональное тестирование играет решающую роль в успехе.
+
+### 2013. der Integrationstest, die Integrationstests [🎥 YouGlish](https://de.youglish.com/pronounce/Integrationstest/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** интеграционное тестирование
+- **Translation (EN):** integration test
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Integrationstest.*
+     ➔ Вот интеграционное тестирование.
+  2. *Wir müssen den Integrationstest genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: интеграционное тестирование.
+  3. *Sind Sie mit dem Integrationstest einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: интеграционное тестирование?
+  4. *Wir konzentrieren uns heute auf den Integrationstest.*
+     ➔ Сегодня мы концентрируемся на теме: интеграционное тестирование.
+  5. *Der Integrationstest spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Интеграционное тестирование играет решающую роль в успехе.
+
+### 2014. der Benutzertest, die Benutzertests [🎥 YouGlish](https://de.youglish.com/pronounce/Benutzertest/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** пользовательское тестирование (UAT)
+- **Translation (EN):** user acceptance test (UAT)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Benutzertest.*
+     ➔ Вот пользовательское тестирование (UAT).
+  2. *Wir müssen den Benutzertest genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: пользовательское тестирование (UAT).
+  3. *Sind Sie mit dem Benutzertest einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: пользовательское тестирование (UAT)?
+  4. *Wir konzentrieren uns heute auf den Benutzertest.*
+     ➔ Сегодня мы концентрируемся на теме: пользовательское тестирование (UAT).
+  5. *Der Benutzertest spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Пользовательское тестирование (UAT) играет решающую роль в успехе.
+
+### 2015. der Endanwender, die Endanwender [🎥 YouGlish](https://de.youglish.com/pronounce/Endanwender/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** конечный пользователь
+- **Translation (EN):** end user
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Endanwender.*
+     ➔ Вот конечный пользователь.
+  2. *Wir müssen den Endanwender genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: конечный пользователь.
+  3. *Sind Sie mit dem Endanwender einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: конечный пользователь?
+  4. *Wir konzentrieren uns heute auf den Endanwender.*
+     ➔ Сегодня мы концентрируемся на теме: конечный пользователь.
+  5. *Der Endanwender spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Конечный пользователь играет решающую роль в успехе.
+
+### 2016. das Ticket-System, die Ticket-Systeme [🎥 YouGlish](https://de.youglish.com/pronounce/Ticket-System/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** система тикетов (поддержки)
+- **Translation (EN):** ticketing system
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Ticket-System.*
+     ➔ Вот система тикетов (поддержки).
+  2. *Wir müssen das Ticket-System genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: система тикетов (поддержки).
+  3. *Sind Sie mit dem Ticket-System einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: система тикетов (поддержки)?
+  4. *Wir konzentrieren uns heute auf das Ticket-System.*
+     ➔ Сегодня мы концентрируемся на теме: система тикетов (поддержки).
+  5. *Das Ticket-System spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Система тикетов (поддержки) играет решающую роль в успехе.
+
+### 2017. der Incident, die Incidents [🎥 YouGlish](https://de.youglish.com/pronounce/Incident/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** инцидент / сбой / запрос на поддержку
+- **Translation (EN):** incident
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Incident.*
+     ➔ Вот инцидент / сбой / запрос на поддержку.
+  2. *Wir müssen den Incident genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: инцидент / сбой / запрос на поддержку.
+  3. *Sind Sie mit dem Incident einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: инцидент / сбой / запрос на поддержку?
+  4. *Wir konzentrieren uns heute auf den Incident.*
+     ➔ Сегодня мы концентрируемся на теме: инцидент / сбой / запрос на поддержку.
+  5. *Der Incident spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Инцидент / сбой / запрос на поддержку играет решающую роль в успехе.
+
+### 2018. der Änderungsantrag, die Änderungsanträge [🎥 YouGlish](https://de.youglish.com/pronounce/%C3%84nderungsantrag/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** запрос на изменение (CR)
+- **Translation (EN):** change request
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Änderungsantrag.*
+     ➔ Вот запрос на изменение (CR).
+  2. *Wir müssen den Änderungsantrag genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: запрос на изменение (CR).
+  3. *Sind Sie mit dem Änderungsantrag einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: запрос на изменение (CR)?
+  4. *Wir konzentrieren uns heute auf den Änderungsantrag.*
+     ➔ Сегодня мы концентрируемся на теме: запрос на изменение (CR).
+  5. *Der Änderungsantrag spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Запрос на изменение (CR) играет решающую роль в успехе.
+
+### 2019. importieren [🎥 YouGlish](https://de.youglish.com/pronounce/importieren/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B2
+- **Перевод (RU):** импортировать
+- **Translation (EN):** to import
+- **Partizip II:** importiert
+- **Императив (Imperativ):** importiere! / importiert! / importieren Sie!
+- **Спряжение (Konjugation - Präsens):** ich *importiere*, du *importierst*, er/sie/es *importiert*, wir *importieren*, ihr *importiert*, sie/Sie *importieren*
+- **Примеры использования (Beispiele):**
+  1. *Wir importieren diese Angelegenheit direkt im Team.*
+     ➔ Мы импортировать этот вопрос непосредственно в команде.
+  2. *Ich importiere die notwendigen Unterlagen sofort.*
+     ➔ Я импортировать необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege importiert das Ganze sehr professionell.*
+     ➔ Ответственный коллега импортировать всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich importiert.*
+     ➔ Мы успешно импортировать (в прошедшем времени) эту тему.
+  5. *importieren Sie bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: импортировать вовремя!
+
+### 2020. die Workbench, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Workbench/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** рабочая среда разработчика (Workbench)
+- **Translation (EN):** workbench
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Workbench.*
+     ➔ Вот рабочая среда разработчика (Workbench).
+  2. *Wir müssen die Workbench genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: рабочая среда разработчика (Workbench).
+  3. *Sind Sie mit der Workbench einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: рабочая среда разработчика (Workbench)?
+  4. *Wir konzentrieren uns heute auf die Workbench.*
+     ➔ Сегодня мы концентрируемся на теме: рабочая среда разработчика (Workbench).
+  5. *Die Workbench spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Рабочая среда разработчика (Workbench) играет решающую роль в успехе.
+
+### 2021. das Workbench-Objekt, die Workbench-Objekte [🎥 YouGlish](https://de.youglish.com/pronounce/Workbench-Objekt/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** объект среды разработки
+- **Translation (EN):** workbench object
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Workbench-Objekt.*
+     ➔ Вот объект среды разработки.
+  2. *Wir müssen das Workbench-Objekt genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: объект среды разработки.
+  3. *Sind Sie mit dem Workbench-Objekt einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: объект среды разработки?
+  4. *Wir konzentrieren uns heute auf das Workbench-Objekt.*
+     ➔ Сегодня мы концентрируемся на теме: объект среды разработки.
+  5. *Das Workbench-Objekt spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Объект среды разработки играет решающую роль в успехе.
+
+### 2022. die Tabellenpflege, die Tabellenpflegen [🎥 YouGlish](https://de.youglish.com/pronounce/Tabellenpflege/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** ведение таблицы (настройка)
+- **Translation (EN):** table maintenance
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Tabellenpflege.*
+     ➔ Вот ведение таблицы (настройка).
+  2. *Wir müssen die Tabellenpflege genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: ведение таблицы (настройка).
+  3. *Sind Sie mit der Tabellenpflege einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: ведение таблицы (настройка)?
+  4. *Wir konzentrieren uns heute auf die Tabellenpflege.*
+     ➔ Сегодня мы концентрируемся на теме: ведение таблицы (настройка).
+  5. *Die Tabellenpflege spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Ведение таблицы (настройка) играет решающую роль в успехе.
+
+### 2023. die Pflegesicht, die Pflegesichten [🎥 YouGlish](https://de.youglish.com/pronounce/Pflegesicht/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** ракурс ведения (таблицы)
+- **Translation (EN):** maintenance view
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Pflegesicht.*
+     ➔ Вот ракурс ведения (таблицы).
+  2. *Wir müssen die Pflegesicht genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: ракурс ведения (таблицы).
+  3. *Sind Sie mit der Pflegesicht einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: ракурс ведения (таблицы)?
+  4. *Wir konzentrieren uns heute auf die Pflegesicht.*
+     ➔ Сегодня мы концентрируемся на теме: ракурс ведения (таблицы).
+  5. *Die Pflegesicht spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Ракурс ведения (таблицы) играет решающую роль в успехе.
+
+### 2024. das SAP-Standard-Verhalten, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/SAP-Standard-Verhalten/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** стандартное поведение системы SAP
+- **Translation (EN):** SAP standard behavior
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das SAP-Standard-Verhalten.*
+     ➔ Вот стандартное поведение системы SAP.
+  2. *Wir müssen das SAP-Standard-Verhalten genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: стандартное поведение системы SAP.
+  3. *Sind Sie mit dem SAP-Standard-Verhalten einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: стандартное поведение системы SAP?
+  4. *Wir konzentrieren uns heute auf das SAP-Standard-Verhalten.*
+     ➔ Сегодня мы концентрируемся на теме: стандартное поведение системы SAP.
+  5. *Das SAP-Standard-Verhalten spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Стандартное поведение системы SAP играет решающую роль в успехе.
+
+### 2025. die Modifikation, die Modifikationen [🎥 YouGlish](https://de.youglish.com/pronounce/Modifikation/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** модификация стандарта (изменение кода)
+- **Translation (EN):** modification
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Modifikation.*
+     ➔ Вот модификация стандарта (изменение кода).
+  2. *Wir müssen die Modifikation genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: модификация стандарта (изменение кода).
+  3. *Sind Sie mit der Modifikation einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: модификация стандарта (изменение кода)?
+  4. *Wir konzentrieren uns heute auf die Modifikation.*
+     ➔ Сегодня мы концентрируемся на теме: модификация стандарта (изменение кода).
+  5. *Die Modifikation spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Модификация стандарта (изменение кода) играет решающую роль в успехе.
+
+### 2026. das BAdI, die BAdIs [🎥 YouGlish](https://de.youglish.com/pronounce/BAdI/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** технология расширения BAdI
+- **Translation (EN):** Business Add-In (BAdI)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das BAdI.*
+     ➔ Вот технология расширения BAdI.
+  2. *Wir müssen das BAdI genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: технология расширения BAdI.
+  3. *Sind Sie mit dem BAdI einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: технология расширения BAdI?
+  4. *Wir konzentrieren uns heute auf das BAdI.*
+     ➔ Сегодня мы концентрируемся на теме: технология расширения BAdI.
+  5. *Das BAdI spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Технология расширения BAdI играет решающую роль в успехе.
+
+### 2027. der User-Exit, die User-Exits [🎥 YouGlish](https://de.youglish.com/pronounce/User-Exit/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** пользовательский выход (точка расширения)
+- **Translation (EN):** user exit
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der User-Exit.*
+     ➔ Вот пользовательский выход (точка расширения).
+  2. *Wir müssen den User-Exit genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: пользовательский выход (точка расширения).
+  3. *Sind Sie mit dem User-Exit einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: пользовательский выход (точка расширения)?
+  4. *Wir konzentrieren uns heute auf den User-Exit.*
+     ➔ Сегодня мы концентрируемся на теме: пользовательский выход (точка расширения).
+  5. *Der User-Exit spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Пользовательский выход (точка расширения) играет решающую роль в успехе.
+
+### 2028. die Eigenentwicklung, die Eigenentwicklungen [🎥 YouGlish](https://de.youglish.com/pronounce/Eigenentwicklung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** собственная разработка / Z-объекты
+- **Translation (EN):** custom development
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Eigenentwicklung.*
+     ➔ Вот собственная разработка / Z-объекты.
+  2. *Wir müssen die Eigenentwicklung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: собственная разработка / Z-объекты.
+  3. *Sind Sie mit der Eigenentwicklung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: собственная разработка / Z-объекты?
+  4. *Wir konzentrieren uns heute auf die Eigenentwicklung.*
+     ➔ Сегодня мы концентрируемся на теме: собственная разработка / Z-объекты.
+  5. *Die Eigenentwicklung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Собственная разработка / Z-объекты играет решающую роль в успехе.
+
+### 2029. das Z-Programm, die Z-Programme [🎥 YouGlish](https://de.youglish.com/pronounce/Z-Programm/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** программа Z-класса (кастомная)
+- **Translation (EN):** Z-program
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Z-Programm.*
+     ➔ Вот программа Z-класса (кастомная).
+  2. *Wir müssen das Z-Programm genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: программа Z-класса (кастомная).
+  3. *Sind Sie mit dem Z-Programm einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: программа Z-класса (кастомная)?
+  4. *Wir konzentrieren uns heute auf das Z-Programm.*
+     ➔ Сегодня мы концентрируемся на теме: программа Z-класса (кастомная).
+  5. *Das Z-Programm spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Программа Z-класса (кастомная) играет решающую роль в успехе.
+
+### 2030. die Z-Tabelle, die Z-Tabellen [🎥 YouGlish](https://de.youglish.com/pronounce/Z-Tabelle/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** кастомная таблица (Z-таблица)
+- **Translation (EN):** Z-table
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Z-Tabelle.*
+     ➔ Вот кастомная таблица (Z-таблица).
+  2. *Wir müssen die Z-Tabelle genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: кастомная таблица (Z-таблица).
+  3. *Sind Sie mit der Z-Tabelle einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: кастомная таблица (Z-таблица)?
+  4. *Wir konzentrieren uns heute auf die Z-Tabelle.*
+     ➔ Сегодня мы концентрируемся на теме: кастомная таблица (Z-таблица).
+  5. *Die Z-Tabelle spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Кастомная таблица (Z-таблица) играет решающую роль в успехе.
+
+### 2031. das ABAP, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/ABAP/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** язык программирования ABAP
+- **Translation (EN):** ABAP programming language
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das ABAP.*
+     ➔ Вот язык программирования ABAP.
+  2. *Wir müssen das ABAP genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: язык программирования ABAP.
+  3. *Sind Sie mit dem ABAP einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: язык программирования ABAP?
+  4. *Wir konzentrieren uns heute auf das ABAP.*
+     ➔ Сегодня мы концентрируемся на теме: язык программирования ABAP.
+  5. *Das ABAP spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Язык программирования ABAP играет решающую роль в успехе.
+
+### 2032. der ABAP-Entwickler, die ABAP-Entwickler [🎥 YouGlish](https://de.youglish.com/pronounce/ABAP-Entwickler/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** разработчик ABAP
+- **Translation (EN):** ABAP developer
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der ABAP-Entwickler.*
+     ➔ Вот разработчик ABAP.
+  2. *Wir müssen den ABAP-Entwickler genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: разработчик ABAP.
+  3. *Sind Sie mit dem ABAP-Entwickler einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: разработчик ABAP?
+  4. *Wir konzentrieren uns heute auf den ABAP-Entwickler.*
+     ➔ Сегодня мы концентрируемся на теме: разработчик ABAP.
+  5. *Der ABAP-Entwickler spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Разработчик ABAP играет решающую роль в успехе.
+
+### 2033. die Funktionsbeschreibung, die Funktionsbeschreibungen [🎥 YouGlish](https://de.youglish.com/pronounce/Funktionsbeschreibung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** функциональная спецификация
+- **Translation (EN):** functional specification
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Funktionsbeschreibung.*
+     ➔ Вот функциональная спецификация.
+  2. *Wir müssen die Funktionsbeschreibung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: функциональная спецификация.
+  3. *Sind Sie mit der Funktionsbeschreibung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: функциональная спецификация?
+  4. *Wir konzentrieren uns heute auf die Funktionsbeschreibung.*
+     ➔ Сегодня мы концентрируемся на теме: функциональная спецификация.
+  5. *Die Funktionsbeschreibung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Функциональная спецификация играет решающую роль в успехе.
+
+### 2034. das Konzept, die Konzepte [🎥 YouGlish](https://de.youglish.com/pronounce/Konzept/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** концепция / проектное решение
+- **Translation (EN):** blueprint / concept
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Konzept.*
+     ➔ Вот концепция / проектное решение.
+  2. *Wir müssen das Konzept genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: концепция / проектное решение.
+  3. *Sind Sie mit dem Konzept einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: концепция / проектное решение?
+  4. *Wir konzentrieren uns heute auf das Konzept.*
+     ➔ Сегодня мы концентрируемся на теме: концепция / проектное решение.
+  5. *Das Konzept spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Концепция / проектное решение играет решающую роль в успехе.
+
+### 2035. das Fachkonzept, die Fachkonzepte [🎥 YouGlish](https://de.youglish.com/pronounce/Fachkonzept/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** бизнес-концепция / ТЗ
+- **Translation (EN):** business blueprint (BBP)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Fachkonzept.*
+     ➔ Вот бизнес-концепция / ТЗ.
+  2. *Wir müssen das Fachkonzept genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: бизнес-концепция / ТЗ.
+  3. *Sind Sie mit dem Fachkonzept einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: бизнес-концепция / ТЗ?
+  4. *Wir konzentrieren uns heute auf das Fachkonzept.*
+     ➔ Сегодня мы концентрируемся на теме: бизнес-концепция / ТЗ.
+  5. *Das Fachkonzept spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Бизнес-концепция / ТЗ играет решающую роль в успехе.
+
+### 2036. der Projektschritt, die Projektschritte [🎥 YouGlish](https://de.youglish.com/pronounce/Projektschritt/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** этап проекта
+- **Translation (EN):** project step / phase
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Projektschritt.*
+     ➔ Вот этап проекта.
+  2. *Wir müssen den Projektschritt genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: этап проекта.
+  3. *Sind Sie mit dem Projektschritt einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: этап проекта?
+  4. *Wir konzentrieren uns heute auf den Projektschritt.*
+     ➔ Сегодня мы концентрируемся на теме: этап проекта.
+  5. *Der Projektschritt spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Этап проекта играет решающую роль в успехе.
+
+### 2037. die Projektphase, die Projektphasen [🎥 YouGlish](https://de.youglish.com/pronounce/Projektphase/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** фаза проекта
+- **Translation (EN):** project phase
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Projektphase.*
+     ➔ Вот фаза проекта.
+  2. *Wir müssen die Projektphase genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: фаза проекта.
+  3. *Sind Sie mit der Projektphase einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: фаза проекта?
+  4. *Wir konzentrieren uns heute auf die Projektphase.*
+     ➔ Сегодня мы концентрируемся на теме: фаза проекта.
+  5. *Die Projektphase spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Фаза проекта играет решающую роль в успехе.
+
+### 2038. die Anforderungserhebung, die Anforderungserhebungen [🎥 YouGlish](https://de.youglish.com/pronounce/Anforderungserhebung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сбор требований
+- **Translation (EN):** requirements gathering
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Anforderungserhebung.*
+     ➔ Вот сбор требований.
+  2. *Wir müssen die Anforderungserhebung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сбор требований.
+  3. *Sind Sie mit der Anforderungserhebung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сбор требований?
+  4. *Wir konzentrieren uns heute auf die Anforderungserhebung.*
+     ➔ Сегодня мы концентрируемся на теме: сбор требований.
+  5. *Die Anforderungserhebung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сбор требований играет решающую роль в успехе.
+
+### 2039. der Key-User, die Key-User [🎥 YouGlish](https://de.youglish.com/pronounce/Key-User/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** ключевой пользователь
+- **Translation (EN):** key user
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Key-User.*
+     ➔ Вот ключевой пользователь.
+  2. *Wir müssen den Key-User genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: ключевой пользователь.
+  3. *Sind Sie mit dem Key-User einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: ключевой пользователь?
+  4. *Wir konzentrieren uns heute auf den Key-User.*
+     ➔ Сегодня мы концентрируемся на теме: ключевой пользователь.
+  5. *Der Key-User spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Ключевой пользователь играет решающую роль в успехе.
+
+### 2040. das Testdrehbuch, die Testdrehbücher [🎥 YouGlish](https://de.youglish.com/pronounce/Testdrehbuch/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сценарий тестирования
+- **Translation (EN):** test script / scenario
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Testdrehbuch.*
+     ➔ Вот сценарий тестирования.
+  2. *Wir müssen das Testdrehbuch genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сценарий тестирования.
+  3. *Sind Sie mit dem Testdrehbuch einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сценарий тестирования?
+  4. *Wir konzentrieren uns heute auf das Testdrehbuch.*
+     ➔ Сегодня мы концентрируемся на теме: сценарий тестирования.
+  5. *Das Testdrehbuch spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сценарий тестирования играет решающую роль в успехе.
+
+### 2041. der Testfall, die Testfälle [🎥 YouGlish](https://de.youglish.com/pronounce/Testfall/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** тест-кейс / тестовый случай
+- **Translation (EN):** test case
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Testfall.*
+     ➔ Вот тест-кейс / тестовый случай.
+  2. *Wir müssen den Testfall genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: тест-кейс / тестовый случай.
+  3. *Sind Sie mit dem Testfall einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: тест-кейс / тестовый случай?
+  4. *Wir konzentrieren uns heute auf den Testfall.*
+     ➔ Сегодня мы концентрируемся на теме: тест-кейс / тестовый случай.
+  5. *Der Testfall spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Тест-кейс / тестовый случай играет решающую роль в успехе.
+
+### 2042. der Fehler, die Fehler [🎥 YouGlish](https://de.youglish.com/pronounce/Fehler/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B1
+- **Перевод (RU):** ошибка / дефект
+- **Translation (EN):** error / bug
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Fehler.*
+     ➔ Вот ошибка / дефект.
+  2. *Wir müssen den Fehler genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: ошибка / дефект.
+  3. *Sind Sie mit dem Fehler einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: ошибка / дефект?
+  4. *Wir konzentrieren uns heute auf den Fehler.*
+     ➔ Сегодня мы концентрируемся на теме: ошибка / дефект.
+  5. *Der Fehler spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Ошибка / дефект играет решающую роль в успехе.
+
+### 2043. beheben [🎥 YouGlish](https://de.youglish.com/pronounce/beheben/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B2
+- **Перевод (RU):** исправлять (ошибку)
+- **Translation (EN):** to resolve / fix (bug)
+- **Partizip II:** behebt
+- **Императив (Imperativ):** behebe! / behebt! / beheben Sie!
+- **Спряжение (Konjugation - Präsens):** ich *behebe*, du *behebst*, er/sie/es *behebt*, wir *beheben*, ihr *behebt*, sie/Sie *beheben*
+- **Примеры использования (Beispiele):**
+  1. *Wir beheben diese Angelegenheit direkt im Team.*
+     ➔ Мы исправлять (ошибку) этот вопрос непосредственно в команде.
+  2. *Ich behebe die notwendigen Unterlagen sofort.*
+     ➔ Я исправлять (ошибку) необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege behebt das Ganze sehr professionell.*
+     ➔ Ответственный коллега исправлять (ошибку) всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich behebt.*
+     ➔ Мы успешно исправлять (ошибку) (в прошедшем времени) эту тему.
+  5. *beheben Sie bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: исправлять (ошибку) вовремя!
+
+### 2044. das Testprotokoll, die Testprotokolle [🎥 YouGlish](https://de.youglish.com/pronounce/Testprotokoll/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** протокол тестирования
+- **Translation (EN):** test log / report
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Testprotokoll.*
+     ➔ Вот протокол тестирования.
+  2. *Wir müssen das Testprotokoll genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: протокол тестирования.
+  3. *Sind Sie mit dem Testprotokoll einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: протокол тестирования?
+  4. *Wir konzentrieren uns heute auf das Testprotokoll.*
+     ➔ Сегодня мы концентрируемся на теме: протокол тестирования.
+  5. *Das Testprotokoll spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Протокол тестирования играет решающую роль в успехе.
+
+### 2045. der Produktivstart, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Produktivstart/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** продуктивный старт
+- **Translation (EN):** Go-Live
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Produktivstart.*
+     ➔ Вот продуктивный старт.
+  2. *Wir müssen den Produktivstart genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: продуктивный старт.
+  3. *Sind Sie mit dem Produktivstart einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: продуктивный старт?
+  4. *Wir konzentrieren uns heute auf den Produktivstart.*
+     ➔ Сегодня мы концентрируемся на теме: продуктивный старт.
+  5. *Der Produktivstart spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Продуктивный старт играет решающую роль в успехе.
+
+### 2046. die Hypercare-Phase, die Hypercare-Phasen [🎥 YouGlish](https://de.youglish.com/pronounce/Hypercare-Phase/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** период усиленной поддержки после старта
+- **Translation (EN):** hypercare phase
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Hypercare-Phase.*
+     ➔ Вот период усиленной поддержки после старта.
+  2. *Wir müssen die Hypercare-Phase genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: период усиленной поддержки после старта.
+  3. *Sind Sie mit der Hypercare-Phase einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: период усиленной поддержки после старта?
+  4. *Wir konzentrieren uns heute auf die Hypercare-Phase.*
+     ➔ Сегодня мы концентрируемся на теме: период усиленной поддержки после старта.
+  5. *Die Hypercare-Phase spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Период усиленной поддержки после старта играет решающую роль в успехе.
+
+### 2047. der Regelbetrieb, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Regelbetrieb/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** регулярная эксплуатация системы
+- **Translation (EN):** normal operations / run
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Regelbetrieb.*
+     ➔ Вот регулярная эксплуатация системы.
+  2. *Wir müssen den Regelbetrieb genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: регулярная эксплуатация системы.
+  3. *Sind Sie mit dem Regelbetrieb einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: регулярная эксплуатация системы?
+  4. *Wir konzentrieren uns heute auf den Regelbetrieb.*
+     ➔ Сегодня мы концентрируемся на теме: регулярная эксплуатация системы.
+  5. *Der Regelbetrieb spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Регулярная эксплуатация системы играет решающую роль в успехе.
+
+### 2048. das Ticket-Volumen, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Ticket-Volumen/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** объем поступающих заявок
+- **Translation (EN):** ticket volume
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Ticket-Volumen.*
+     ➔ Вот объем поступающих заявок.
+  2. *Wir müssen das Ticket-Volumen genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: объем поступающих заявок.
+  3. *Sind Sie mit dem Ticket-Volumen einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: объем поступающих заявок?
+  4. *Wir konzentrieren uns heute auf das Ticket-Volumen.*
+     ➔ Сегодня мы концентрируемся на теме: объем поступающих заявок.
+  5. *Das Ticket-Volumen spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Объем поступающих заявок играет решающую роль в успехе.
+
+### 2049. die Bearbeitungszeit, die Bearbeitungszeiten [🎥 YouGlish](https://de.youglish.com/pronounce/Bearbeitungszeit/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** время обработки (тикета)
+- **Translation (EN):** processing time
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bearbeitungszeit.*
+     ➔ Вот время обработки (тикета).
+  2. *Wir müssen die Bearbeitungszeit genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: время обработки (тикета).
+  3. *Sind Sie mit der Bearbeitungszeit einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: время обработки (тикета)?
+  4. *Wir konzentrieren uns heute auf die Bearbeitungszeit.*
+     ➔ Сегодня мы концентрируемся на теме: время обработки (тикета).
+  5. *Die Bearbeitungszeit spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Время обработки (тикета) играет решающую роль в успехе.
+
+### 2050. das Service Level Agreement (SLA), (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Service%20Level%20Agreement%20%28SLA%29/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** соглашение об уровне услуг (SLA)
+- **Translation (EN):** Service Level Agreement (SLA)
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Service Level Agreement (SLA).*
+     ➔ Вот соглашение об уровне услуг (SLA).
+  2. *Wir müssen das Service Level Agreement (SLA) genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: соглашение об уровне услуг (SLA).
+  3. *Sind Sie mit dem Service Level Agreement (SLA) einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: соглашение об уровне услуг (SLA)?
+  4. *Wir konzentrieren uns heute auf das Service Level Agreement (SLA).*
+     ➔ Сегодня мы концентрируемся на теме: соглашение об уровне услуг (SLA).
+  5. *Das Service Level Agreement (SLA) spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Соглашение об уровне услуг (SLA) играет решающую роль в успехе.
+
+### 2051. die Bereinigung, die Bereinigungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bereinigung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** очистка / выверка (данных)
+- **Translation (EN):** cleansing / cleanup
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Bereinigung.*
+     ➔ Вот очистка / выверка (данных).
+  2. *Wir müssen die Bereinigung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: очистка / выверка (данных).
+  3. *Sind Sie mit der Bereinigung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: очистка / выверка (данных)?
+  4. *Wir konzentrieren uns heute auf die Bereinigung.*
+     ➔ Сегодня мы концентрируемся на теме: очистка / выверка (данных).
+  5. *Die Bereinigung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Очистка / выверка (данных) играет решающую роль в успехе.
+
+### 2052. die Datenbereinigung, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Datenbereinigung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** очистка данных
+- **Translation (EN):** data cleansing
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Datenbereinigung.*
+     ➔ Вот очистка данных.
+  2. *Wir müssen die Datenbereinigung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: очистка данных.
+  3. *Sind Sie mit der Datenbereinigung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: очистка данных?
+  4. *Wir konzentrieren uns heute auf die Datenbereinigung.*
+     ➔ Сегодня мы концентрируемся на теме: очистка данных.
+  5. *Die Datenbereinigung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Очистка данных играет решающую роль в успехе.
+
+### 2053. die Schnittstellenabstimmung, die Abstimmungen [🎥 YouGlish](https://de.youglish.com/pronounce/Schnittstellenabstimmung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** согласование интерфейсов
+- **Translation (EN):** interface reconciliation
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Schnittstellenabstimmung.*
+     ➔ Вот согласование интерфейсов.
+  2. *Wir müssen die Schnittstellenabstimmung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: согласование интерфейсов.
+  3. *Sind Sie mit der Schnittstellenabstimmung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: согласование интерфейсов?
+  4. *Wir konzentrieren uns heute auf die Schnittstellenabstimmung.*
+     ➔ Сегодня мы концентрируемся на теме: согласование интерфейсов.
+  5. *Die Schnittstellenabstimmung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Согласование интерфейсов играет решающую роль в успехе.
+
+### 2054. das Migrationswerkzeug, die Migrationswerkzeuge [🎥 YouGlish](https://de.youglish.com/pronounce/Migrationswerkzeug/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** инструмент миграции (например, LSMW, LTMC)
+- **Translation (EN):** migration tool
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Migrationswerkzeug.*
+     ➔ Вот инструмент миграции (например, LSMW, LTMC).
+  2. *Wir müssen das Migrationswerkzeug genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: инструмент миграции (например, LSMW, LTMC).
+  3. *Sind Sie mit dem Migrationswerkzeug einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: инструмент миграции (например, LSMW, LTMC)?
+  4. *Wir konzentrieren uns heute auf das Migrationswerkzeug.*
+     ➔ Сегодня мы концентрируемся на теме: инструмент миграции (например, LSMW, LTMC).
+  5. *Das Migrationswerkzeug spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Инструмент миграции (например, LSMW, LTMC) играет решающую роль в успехе.
+
+### 2055. das LTMC (Legacy Transfer Migration Cockpit), (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/LTMC%20%28Legacy%20Transfer%20Migration%20Cockpit%29/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** миграционный кокпит (LTMC)
+- **Translation (EN):** Migration Cockpit
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das LTMC (Legacy Transfer Migration Cockpit).*
+     ➔ Вот миграционный кокпит (LTMC).
+  2. *Wir müssen das LTMC (Legacy Transfer Migration Cockpit) genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: миграционный кокпит (LTMC).
+  3. *Sind Sie mit dem LTMC (Legacy Transfer Migration Cockpit) einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: миграционный кокпит (LTMC)?
+  4. *Wir konzentrieren uns heute auf das LTMC (Legacy Transfer Migration Cockpit).*
+     ➔ Сегодня мы концентрируемся на теме: миграционный кокпит (LTMC).
+  5. *Das LTMC (Legacy Transfer Migration Cockpit) spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Миграционный кокпит (LTMC) играет решающую роль в успехе.
+
+### 2056. die Datenstruktur, die Datenstrukturen [🎥 YouGlish](https://de.youglish.com/pronounce/Datenstruktur/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** структура данных
+- **Translation (EN):** data structure
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Datenstruktur.*
+     ➔ Вот структура данных.
+  2. *Wir müssen die Datenstruktur genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: структура данных.
+  3. *Sind Sie mit der Datenstruktur einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: структура данных?
+  4. *Wir konzentrieren uns heute auf die Datenstruktur.*
+     ➔ Сегодня мы концентрируемся на теме: структура данных.
+  5. *Die Datenstruktur spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Структура данных играет решающую роль в успехе.
+
+### 2057. die Mapping-Regel, die Mapping-Regeln [🎥 YouGlish](https://de.youglish.com/pronounce/Mapping-Regel/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** правило сопоставления данных
+- **Translation (EN):** mapping rule
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Mapping-Regel.*
+     ➔ Вот правило сопоставления данных.
+  2. *Wir müssen die Mapping-Regel genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: правило сопоставления данных.
+  3. *Sind Sie mit der Mapping-Regel einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: правило сопоставления данных?
+  4. *Wir konzentrieren uns heute auf die Mapping-Regel.*
+     ➔ Сегодня мы концентрируемся на теме: правило сопоставления данных.
+  5. *Die Mapping-Regel spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Правило сопоставления данных играет решающую роль в успехе.
+
+### 2058. das Quellfeld, die Quellfelder [🎥 YouGlish](https://de.youglish.com/pronounce/Quellfeld/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** исходное поле
+- **Translation (EN):** source field
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Quellfeld.*
+     ➔ Вот исходное поле.
+  2. *Wir müssen das Quellfeld genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: исходное поле.
+  3. *Sind Sie mit dem Quellfeld einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: исходное поле?
+  4. *Wir konzentrieren uns heute auf das Quellfeld.*
+     ➔ Сегодня мы концентрируемся на теме: исходное поле.
+  5. *Das Quellfeld spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Исходное поле играет решающую роль в успехе.
+
+### 2059. das Zielfeld, die Zielfelder [🎥 YouGlish](https://de.youglish.com/pronounce/Zielfeld/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** целевое поле
+- **Translation (EN):** target field
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Zielfeld.*
+     ➔ Вот целевое поле.
+  2. *Wir müssen das Zielfeld genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: целевое поле.
+  3. *Sind Sie mit dem Zielfeld einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: целевое поле?
+  4. *Wir konzentrieren uns heute auf das Zielfeld.*
+     ➔ Сегодня мы концентрируемся на теме: целевое поле.
+  5. *Das Zielfeld spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Целевое поле играет решающую роль в успехе.
+
+### 2060. die Konvertierungsregel, die Konvertierungsregeln [🎥 YouGlish](https://de.youglish.com/pronounce/Konvertierungsregel/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** правило конвертации
+- **Translation (EN):** conversion rule
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Konvertierungsregel.*
+     ➔ Вот правило конвертации.
+  2. *Wir müssen die Konvertierungsregel genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: правило конвертации.
+  3. *Sind Sie mit der Konvertierungsregel einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: правило конвертации?
+  4. *Wir konzentrieren uns heute auf die Konvertierungsregel.*
+     ➔ Сегодня мы концентрируемся на теме: правило конвертации.
+  5. *Die Konvertierungsregel spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Правило конвертации играет решающую роль в успехе.
+
+### 2061. das Testsystem, die Testsysteme [🎥 YouGlish](https://de.youglish.com/pronounce/Testsystem/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** тестовая система
+- **Translation (EN):** test system
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Testsystem.*
+     ➔ Вот тестовая система.
+  2. *Wir müssen das Testsystem genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: тестовая система.
+  3. *Sind Sie mit dem Testsystem einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: тестовая система?
+  4. *Wir konzentrieren uns heute auf das Testsystem.*
+     ➔ Сегодня мы концентрируемся на теме: тестовая система.
+  5. *Das Testsystem spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Тестовая система играет решающую роль в успехе.
+
+### 2062. das Sandbox-System, die Sandbox-Systeme [🎥 YouGlish](https://de.youglish.com/pronounce/Sandbox-System/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** песочница (изолированная тестовая система)
+- **Translation (EN):** sandbox system
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Sandbox-System.*
+     ➔ Вот песочница (изолированная тестовая система).
+  2. *Wir müssen das Sandbox-System genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: песочница (изолированная тестовая система).
+  3. *Sind Sie mit dem Sandbox-System einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: песочница (изолированная тестовая система)?
+  4. *Wir konzentrieren uns heute auf das Sandbox-System.*
+     ➔ Сегодня мы концентрируемся на теме: песочница (изолированная тестовая система).
+  5. *Das Sandbox-System spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Песочница (изолированная тестовая система) играет решающую роль в успехе.
+
+### 2063. das Release-Upgrade, die Release-Upgrades [🎥 YouGlish](https://de.youglish.com/pronounce/Release-Upgrade/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** обновление версии системы
+- **Translation (EN):** release upgrade
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Release-Upgrade.*
+     ➔ Вот обновление версии системы.
+  2. *Wir müssen das Release-Upgrade genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: обновление версии системы.
+  3. *Sind Sie mit dem Release-Upgrade einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: обновление версии системы?
+  4. *Wir konzentrieren uns heute auf das Release-Upgrade.*
+     ➔ Сегодня мы концентрируемся на теме: обновление версии системы.
+  5. *Das Release-Upgrade spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Обновление версии системы играет решающую роль в успехе.
+
+### 2064. das Support Package, die Support Packages [🎥 YouGlish](https://de.youglish.com/pronounce/Support%20Package/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** пакет поддержки (обновлений)
+- **Translation (EN):** Support Package
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Support Package.*
+     ➔ Вот пакет поддержки (обновлений).
+  2. *Wir müssen das Support Package genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: пакет поддержки (обновлений).
+  3. *Sind Sie mit dem Support Package einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: пакет поддержки (обновлений)?
+  4. *Wir konzentrieren uns heute auf das Support Package.*
+     ➔ Сегодня мы концентрируемся на теме: пакет поддержки (обновлений).
+  5. *Das Support Package spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Пакет поддержки (обновлений) играет решающую роль в успехе.
+
+### 2065. der SAP-Hinweis, die SAP-Hinweise [🎥 YouGlish](https://de.youglish.com/pronounce/SAP-Hinweis/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** нота SAP (исправление бага)
+- **Translation (EN):** SAP Note
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der SAP-Hinweis.*
+     ➔ Вот нота SAP (исправление бага).
+  2. *Wir müssen den SAP-Hinweis genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: нота SAP (исправление бага).
+  3. *Sind Sie mit dem SAP-Hinweis einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: нота SAP (исправление бага)?
+  4. *Wir konzentrieren uns heute auf den SAP-Hinweis.*
+     ➔ Сегодня мы концентрируемся на теме: нота SAP (исправление бага).
+  5. *Der SAP-Hinweis spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Нота SAP (исправление бага) играет решающую роль в успехе.
+
+### 2066. einspielen [🎥 YouGlish](https://de.youglish.com/pronounce/einspielen/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B2
+- **Перевод (RU):** устанавливать / применять (ноту/патч)
+- **Translation (EN):** to apply / implement (note/patch)
+- **Partizip II:** eingespielt
+- **Императив (Imperativ):** spiele ein! / spielt ein! / spielen Sie ein!
+- **Спряжение (Konjugation - Präsens):** ich *spiele ein*, du *spielst ein*, er/sie/es *spielt ein*, wir *spielen ein*, ihr *spielt ein*, sie/Sie *spielen ein*
+- **Примеры использования (Beispiele):**
+  1. *Wir spielen ein diese Angelegenheit direkt im Team.*
+     ➔ Мы устанавливать / применять (ноту/патч) этот вопрос непосредственно в команде.
+  2. *Ich spiele ein die notwendigen Unterlagen sofort.*
+     ➔ Я устанавливать / применять (ноту/патч) необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege spielt ein das Ganze sehr professionell.*
+     ➔ Ответственный коллега устанавливать / применять (ноту/патч) всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich eingespielt.*
+     ➔ Мы успешно устанавливать / применять (ноту/патч) (в прошедшем времени) эту тему.
+  5. *spielen Sie ein bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: устанавливать / применять (ноту/патч) вовремя!
+
+### 2067. der Hotfix, die Hotfixes [🎥 YouGlish](https://de.youglish.com/pronounce/Hotfix/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** срочное исправление
+- **Translation (EN):** hotfix
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Hotfix.*
+     ➔ Вот срочное исправление.
+  2. *Wir müssen den Hotfix genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: срочное исправление.
+  3. *Sind Sie mit dem Hotfix einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: срочное исправление?
+  4. *Wir konzentrieren uns heute auf den Hotfix.*
+     ➔ Сегодня мы концентрируемся на теме: срочное исправление.
+  5. *Der Hotfix spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Срочное исправление играет решающую роль в успехе.
+
+### 2068. die Systemaktualisierung, die Systemaktualisierungen [🎥 YouGlish](https://de.youglish.com/pronounce/Systemaktualisierung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** обновление системы
+- **Translation (EN):** system update
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Systemaktualisierung.*
+     ➔ Вот обновление системы.
+  2. *Wir müssen die Systemaktualisierung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: обновление системы.
+  3. *Sind Sie mit der Systemaktualisierung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: обновление системы?
+  4. *Wir konzentrieren uns heute auf die Systemaktualisierung.*
+     ➔ Сегодня мы концентрируемся на теме: обновление системы.
+  5. *Die Systemaktualisierung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Обновление системы играет решающую роль в успехе.
+
+### 2069. die Datensicherung, die Datensicherungen [🎥 YouGlish](https://de.youglish.com/pronounce/Datensicherung/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** резервное копирование данных
+- **Translation (EN):** data backup
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Datensicherung.*
+     ➔ Вот резервное копирование данных.
+  2. *Wir müssen die Datensicherung genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: резервное копирование данных.
+  3. *Sind Sie mit der Datensicherung einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: резервное копирование данных?
+  4. *Wir konzentrieren uns heute auf die Datensicherung.*
+     ➔ Сегодня мы концентрируемся на теме: резервное копирование данных.
+  5. *Die Datensicherung spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Резервное копирование данных играет решающую роль в успехе.
+
+### 2070. das Backup, die Backups [🎥 YouGlish](https://de.youglish.com/pronounce/Backup/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** резервная копия
+- **Translation (EN):** backup
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Backup.*
+     ➔ Вот резервная копия.
+  2. *Wir müssen das Backup genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: резервная копия.
+  3. *Sind Sie mit dem Backup einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: резервная копия?
+  4. *Wir konzentrieren uns heute auf das Backup.*
+     ➔ Сегодня мы концентрируемся на теме: резервная копия.
+  5. *Das Backup spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Резервная копия играет решающую роль в успехе.
+
+### 2071. wiederherstellen [🎥 YouGlish](https://de.youglish.com/pronounce/wiederherstellen/german)
+- **Часть речи (Part of Speech):** Verb
+- **Уровень (Level):** B2
+- **Перевод (RU):** восстанавливать (из бэкапа)
+- **Translation (EN):** to restore
+- **Partizip II:** gewiederherstellt
+- **Императив (Imperativ):** wiederherstelle! / wiederherstellt! / wiederherstellen Sie!
+- **Спряжение (Konjugation - Präsens):** ich *wiederherstelle*, du *wiederherstellst*, er/sie/es *wiederherstellt*, wir *wiederherstellen*, ihr *wiederherstellt*, sie/Sie *wiederherstellen*
+- **Примеры использования (Beispiele):**
+  1. *Wir wiederherstellen diese Angelegenheit direkt im Team.*
+     ➔ Мы восстанавливать (из бэкапа) этот вопрос непосредственно в команде.
+  2. *Ich wiederherstelle die notwendigen Unterlagen sofort.*
+     ➔ Я восстанавливать (из бэкапа) необходимые документы незамедлительно.
+  3. *Der verantwortliche Kollege wiederherstellt das Ganze sehr professionell.*
+     ➔ Ответственный коллега восстанавливать (из бэкапа) всё это очень профессионально.
+  4. *Wir haben das Thema erfolgreich gewiederherstellt.*
+     ➔ Мы успешно восстанавливать (из бэкапа) (в прошедшем времени) эту тему.
+  5. *wiederherstellen Sie bitte rechtzeitig!*
+     ➔ Пожалуйста, выполните действие: восстанавливать (из бэкапа) вовремя!
+
+### 2072. der Systemausfall, die Systemausfälle [🎥 YouGlish](https://de.youglish.com/pronounce/Systemausfall/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** сбой / простой системы
+- **Translation (EN):** system outage / downtime
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Systemausfall.*
+     ➔ Вот сбой / простой системы.
+  2. *Wir müssen den Systemausfall genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: сбой / простой системы.
+  3. *Sind Sie mit dem Systemausfall einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: сбой / простой системы?
+  4. *Wir konzentrieren uns heute auf den Systemausfall.*
+     ➔ Сегодня мы концентрируемся на теме: сбой / простой системы.
+  5. *Der Systemausfall spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Сбой / простой системы играет решающую роль в успехе.
+
+### 2073. die Ausfallzeit, die Ausfallzeiten [🎥 YouGlish](https://de.youglish.com/pronounce/Ausfallzeit/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** время простоя
+- **Translation (EN):** downtime
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Ausfallzeit.*
+     ➔ Вот время простоя.
+  2. *Wir müssen die Ausfallzeit genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: время простоя.
+  3. *Sind Sie mit der Ausfallzeit einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: время простоя?
+  4. *Wir konzentrieren uns heute auf die Ausfallzeit.*
+     ➔ Сегодня мы концентрируемся на теме: время простоя.
+  5. *Die Ausfallzeit spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Время простоя играет решающую роль в успехе.
+
+### 2074. die Wiederherstellungszeit, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Wiederherstellungszeit/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** время восстановления (RTO)
+- **Translation (EN):** recovery time
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Wiederherstellungszeit.*
+     ➔ Вот время восстановления (RTO).
+  2. *Wir müssen die Wiederherstellungszeit genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: время восстановления (RTO).
+  3. *Sind Sie mit der Wiederherstellungszeit einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: время восстановления (RTO)?
+  4. *Wir konzentrieren uns heute auf die Wiederherstellungszeit.*
+     ➔ Сегодня мы концентрируемся на теме: время восстановления (RTO).
+  5. *Die Wiederherstellungszeit spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Время восстановления (RTO) играет решающую роль в успехе.
+
+### 2075. die Katastrophenfall-Vorsorge, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Katastrophenfall-Vorsorge/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** планирование аварийного восстановления
+- **Translation (EN):** disaster recovery planning
+- **Примеры использования (Beispiele):**
+  1. *Hier ist die Katastrophenfall-Vorsorge.*
+     ➔ Вот планирование аварийного восстановления.
+  2. *Wir müssen die Katastrophenfall-Vorsorge genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: планирование аварийного восстановления.
+  3. *Sind Sie mit der Katastrophenfall-Vorsorge einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: планирование аварийного восстановления?
+  4. *Wir konzentrieren uns heute auf die Katastrophenfall-Vorsorge.*
+     ➔ Сегодня мы концентрируемся на теме: планирование аварийного восстановления.
+  5. *Die Katastrophenfall-Vorsorge spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Планирование аварийного восстановления играет решающую роль в успехе.
+
+### 2076. der Datenverlust, die Datenverluste [🎥 YouGlish](https://de.youglish.com/pronounce/Datenverlust/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** потеря данных
+- **Translation (EN):** data loss
+- **Примеры использования (Beispiele):**
+  1. *Hier ist der Datenverlust.*
+     ➔ Вот потеря данных.
+  2. *Wir müssen den Datenverlust genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: потеря данных.
+  3. *Sind Sie mit dem Datenverlust einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: потеря данных?
+  4. *Wir konzentrieren uns heute auf den Datenverlust.*
+     ➔ Сегодня мы концентрируемся на теме: потеря данных.
+  5. *Der Datenverlust spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Потеря данных играет решающую роль в успехе.
+
+### 2077. das Berechtigungskonzept, die Berechtigungskonzepte [🎥 YouGlish](https://de.youglish.com/pronounce/Berechtigungskonzept/german)
+- **Часть речи (Part of Speech):** Noun
+- **Уровень (Level):** B2
+- **Перевод (RU):** концепция полномочий (прав доступа)
+- **Translation (EN):** authorization concept
+- **Примеры использования (Beispiele):**
+  1. *Hier ist das Berechtigungskonzept.*
+     ➔ Вот концепция полномочий (прав доступа).
+  2. *Wir müssen das Berechtigungskonzept genau analysieren.*
+     ➔ Мы должны точно проанализировать следующий объект: концепция полномочий (прав доступа).
+  3. *Sind Sie mit dem Berechtigungskonzept einverstanden?*
+     ➔ Вы согласны с тем, что касается понятия: концепция полномочий (прав доступа)?
+  4. *Wir konzentrieren uns heute auf das Berechtigungskonzept.*
+     ➔ Сегодня мы концентрируемся на теме: концепция полномочий (прав доступа).
+  5. *Das Berechtigungskonzept spielt eine entscheidende Rolle für den Erfolg.*
+     ➔ Концепция полномочий (прав доступа) играет решающую роль в успехе.
 
 
 ---

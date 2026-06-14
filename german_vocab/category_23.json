@@ -1,0 +1,3055 @@
+{
+  "category": "SAP FI/CO (Finanzwesen & Controlling)",
+  "words": [
+    {
+      "word": "das Hauptbuch, die Hauptbücher",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "главная книга",
+      "translation_en": "general ledger",
+      "examples": [
+        {
+          "de": "Hier ist das Hauptbuch.",
+          "ru": "Вот главная книга."
+        },
+        {
+          "de": "Wir müssen das Hauptbuch genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: главная книга."
+        },
+        {
+          "de": "Sind Sie mit dem Hauptbuch einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: главная книга?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Hauptbuch.",
+          "ru": "Сегодня мы концентрируемся на теме: главная книга."
+        },
+        {
+          "de": "Das Hauptbuch spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Главная книга играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kostenstelle, die Kostenstellen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "место возникновения затрат (МВЗ)",
+      "translation_en": "cost center",
+      "examples": [
+        {
+          "de": "Hier ist die Kostenstelle.",
+          "ru": "Вот место возникновения затрат (МВЗ)."
+        },
+        {
+          "de": "Wir müssen die Kostenstelle genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: место возникновения затрат (МВЗ)."
+        },
+        {
+          "de": "Sind Sie mit der Kostenstelle einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: место возникновения затрат (МВЗ)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kostenstelle.",
+          "ru": "Сегодня мы концентрируемся на теме: место возникновения затрат (МВЗ)."
+        },
+        {
+          "de": "Die Kostenstelle spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Место возникновения затрат (МВЗ) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Profit-Center, die Profit-Center",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "центр прибыли",
+      "translation_en": "profit center",
+      "examples": [
+        {
+          "de": "Hier ist das Profit-Center.",
+          "ru": "Вот центр прибыли."
+        },
+        {
+          "de": "Wir müssen das Profit-Center genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: центр прибыли."
+        },
+        {
+          "de": "Sind Sie mit dem Profit-Center einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: центр прибыли?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Profit-Center.",
+          "ru": "Сегодня мы концентрируемся на теме: центр прибыли."
+        },
+        {
+          "de": "Das Profit-Center spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Центр прибыли играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Anlagenbuchhaltung, die Anlagenbuchhaltungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "учет основных средств",
+      "translation_en": "asset accounting",
+      "examples": [
+        {
+          "de": "Hier ist die Anlagenbuchhaltung.",
+          "ru": "Вот учет основных средств."
+        },
+        {
+          "de": "Wir müssen die Anlagenbuchhaltung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: учет основных средств."
+        },
+        {
+          "de": "Sind Sie mit der Anlagenbuchhaltung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: учет основных средств?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Anlagenbuchhaltung.",
+          "ru": "Сегодня мы концентрируемся на теме: учет основных средств."
+        },
+        {
+          "de": "Die Anlagenbuchhaltung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Учет основных средств играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kreditorenbuchhaltung, die Kreditorenbuchhaltungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "бухгалтерия кредиторов (AP)",
+      "translation_en": "accounts payable",
+      "examples": [
+        {
+          "de": "Hier ist die Kreditorenbuchhaltung.",
+          "ru": "Вот бухгалтерия кредиторов (AP)."
+        },
+        {
+          "de": "Wir müssen die Kreditorenbuchhaltung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: бухгалтерия кредиторов (AP)."
+        },
+        {
+          "de": "Sind Sie mit der Kreditorenbuchhaltung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: бухгалтерия кредиторов (AP)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kreditorenbuchhaltung.",
+          "ru": "Сегодня мы концентрируемся на теме: бухгалтерия кредиторов (AP)."
+        },
+        {
+          "de": "Die Kreditorenbuchhaltung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Бухгалтерия кредиторов (AP) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Debitorenbuchhaltung, die Debitorenbuchhaltungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "бухгалтерия дебиторов (AR)",
+      "translation_en": "accounts receivable",
+      "examples": [
+        {
+          "de": "Hier ist die Debitorenbuchhaltung.",
+          "ru": "Вот бухгалтерия дебиторов (AR)."
+        },
+        {
+          "de": "Wir müssen die Debitorenbuchhaltung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: бухгалтерия дебиторов (AR)."
+        },
+        {
+          "de": "Sind Sie mit der Debitorenbuchhaltung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: бухгалтерия дебиторов (AR)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Debitorenbuchhaltung.",
+          "ru": "Сегодня мы концентрируемся на теме: бухгалтерия дебиторов (AR)."
+        },
+        {
+          "de": "Die Debitorenbuchhaltung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Бухгалтерия дебиторов (AR) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Buchungskreis, die Buchungskreise",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "балансовая единица (БЕ)",
+      "translation_en": "company code",
+      "examples": [
+        {
+          "de": "Hier ist der Buchungskreis.",
+          "ru": "Вот балансовая единица (БЕ)."
+        },
+        {
+          "de": "Wir müssen den Buchungskreis genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: балансовая единица (БЕ)."
+        },
+        {
+          "de": "Sind Sie mit dem Buchungskreis einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: балансовая единица (БЕ)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Buchungskreis.",
+          "ru": "Сегодня мы концентрируемся на теме: балансовая единица (БЕ)."
+        },
+        {
+          "de": "Der Buchungskreis spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Балансовая единица (БЕ) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "buchen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "проводить (документ) / бронировать",
+      "translation_en": "to post / book",
+      "examples": [
+        {
+          "de": "Wir buchen diese Angelegenheit direkt im Team.",
+          "ru": "Мы проводить (документ) / бронировать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich buche die notwendigen Unterlagen sofort.",
+          "ru": "Я проводить (документ) / бронировать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege bucht das Ganze sehr professionell.",
+          "ru": "Ответственный коллега проводить (документ) / бронировать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich gebucht.",
+          "ru": "Мы успешно проводить (документ) / бронировать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "buchen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: проводить (документ) / бронировать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gebucht",
+      "imperative": "buche! / bucht! / buchen Sie!",
+      "conjugations": {
+        "ich": "buche",
+        "du": "buchst",
+        "er/sie/es": "bucht",
+        "wir": "buchen",
+        "ihr": "bucht",
+        "sie/Sie": "buchen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "ausgleichen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "выравнивать (открытые позиции)",
+      "translation_en": "to clear / reconcile",
+      "examples": [
+        {
+          "de": "Wir gleichen aus diese Angelegenheit direkt im Team.",
+          "ru": "Мы выравнивать (открытые позиции) этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich gleiche aus die notwendigen Unterlagen sofort.",
+          "ru": "Я выравнивать (открытые позиции) необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege gleicht aus das Ganze sehr professionell.",
+          "ru": "Ответственный коллега выравнивать (открытые позиции) всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich ausgegleicht.",
+          "ru": "Мы успешно выравнивать (открытые позиции) (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "gleichen Sie aus bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: выравнивать (открытые позиции) вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "ausgegleicht",
+      "imperative": "gleiche aus! / gleicht aus! / gleichen Sie aus!",
+      "conjugations": {
+        "ich": "gleiche aus",
+        "du": "gleichst aus",
+        "er/sie/es": "gleicht aus",
+        "wir": "gleichen aus",
+        "ihr": "gleicht aus",
+        "sie/Sie": "gleichen aus"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "der Beleg, die Belege",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "документ / проводка",
+      "translation_en": "document / voucher",
+      "examples": [
+        {
+          "de": "Hier ist der Beleg.",
+          "ru": "Вот документ / проводка."
+        },
+        {
+          "de": "Wir müssen den Beleg genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: документ / проводка."
+        },
+        {
+          "de": "Sind Sie mit dem Beleg einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: документ / проводка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Beleg.",
+          "ru": "Сегодня мы концентрируемся на теме: документ / проводка."
+        },
+        {
+          "de": "Der Beleg spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Документ / проводка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Belegart, die Belegarten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "вид документа",
+      "translation_en": "document type",
+      "examples": [
+        {
+          "de": "Hier ist die Belegart.",
+          "ru": "Вот вид документа."
+        },
+        {
+          "de": "Wir müssen die Belegart genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: вид документа."
+        },
+        {
+          "de": "Sind Sie mit der Belegart einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: вид документа?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Belegart.",
+          "ru": "Сегодня мы концентрируемся на теме: вид документа."
+        },
+        {
+          "de": "Die Belegart spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Вид документа играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Buchungsperiode, die Buchungsperioden",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "период проведения",
+      "translation_en": "posting period",
+      "examples": [
+        {
+          "de": "Hier ist die Buchungsperiode.",
+          "ru": "Вот период проведения."
+        },
+        {
+          "de": "Wir müssen die Buchungsperiode genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: период проведения."
+        },
+        {
+          "de": "Sind Sie mit der Buchungsperiode einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: период проведения?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Buchungsperiode.",
+          "ru": "Сегодня мы концентрируемся на теме: период проведения."
+        },
+        {
+          "de": "Die Buchungsperiode spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Период проведения играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Geschäftsjahr, die Geschäftsjahre",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "финансовый / отчетный год",
+      "translation_en": "fiscal year",
+      "examples": [
+        {
+          "de": "Hier ist das Geschäftsjahr.",
+          "ru": "Вот финансовый / отчетный год."
+        },
+        {
+          "de": "Wir müssen das Geschäftsjahr genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: финансовый / отчетный год."
+        },
+        {
+          "de": "Sind Sie mit dem Geschäftsjahr einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: финансовый / отчетный год?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Geschäftsjahr.",
+          "ru": "Сегодня мы концентрируемся на теме: финансовый / отчетный год."
+        },
+        {
+          "de": "Das Geschäftsjahr spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Финансовый / отчетный год играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Bilanz, die Bilanzen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "баланс",
+      "translation_en": "balance sheet",
+      "examples": [
+        {
+          "de": "Hier ist die Bilanz.",
+          "ru": "Вот баланс."
+        },
+        {
+          "de": "Wir müssen die Bilanz genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: баланс."
+        },
+        {
+          "de": "Sind Sie mit der Bilanz einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: баланс?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Bilanz.",
+          "ru": "Сегодня мы концентрируемся на теме: баланс."
+        },
+        {
+          "de": "Die Bilanz spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Баланс играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Jahresabschluss",
+        "Statusberichterstattung",
+        "Kassensturz"
+      ]
+    },
+    {
+      "word": "die Gewinn- und Verlustrechnung, die Rechnungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "отчет о прибылях и убытках (ПиУ)",
+      "translation_en": "profit and loss statement (P&L)",
+      "examples": [
+        {
+          "de": "Hier ist die Gewinn- und Verlustrechnung.",
+          "ru": "Вот отчет о прибылях и убытках (ПиУ)."
+        },
+        {
+          "de": "Wir müssen die Gewinn- und Verlustrechnung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: отчет о прибылях и убытках (ПиУ)."
+        },
+        {
+          "de": "Sind Sie mit der Gewinn- und Verlustrechnung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: отчет о прибылях и убытках (ПиУ)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Gewinn- und Verlustrechnung.",
+          "ru": "Сегодня мы концентрируемся на теме: отчет о прибылях и убытках (ПиУ)."
+        },
+        {
+          "de": "Die Gewinn- und Verlustrechnung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Отчет о прибылях и убытках (ПиУ) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Sachkonto, die Sachkonten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "счет главной книги",
+      "translation_en": "G/L account",
+      "examples": [
+        {
+          "de": "Hier ist das Sachkonto.",
+          "ru": "Вот счет главной книги."
+        },
+        {
+          "de": "Wir müssen das Sachkonto genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: счет главной книги."
+        },
+        {
+          "de": "Sind Sie mit dem Sachkonto einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: счет главной книги?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Sachkonto.",
+          "ru": "Сегодня мы концентрируемся на теме: счет главной книги."
+        },
+        {
+          "de": "Das Sachkonto spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Счет главной книги играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kostenstellenrechnung, die Rechnungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "учет затрат по МВЗ",
+      "translation_en": "cost center accounting",
+      "examples": [
+        {
+          "de": "Hier ist die Kostenstellenrechnung.",
+          "ru": "Вот учет затрат по МВЗ."
+        },
+        {
+          "de": "Wir müssen die Kostenstellenrechnung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: учет затрат по МВЗ."
+        },
+        {
+          "de": "Sind Sie mit der Kostenstellenrechnung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: учет затрат по МВЗ?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kostenstellenrechnung.",
+          "ru": "Сегодня мы концентрируемся на теме: учет затрат по МВЗ."
+        },
+        {
+          "de": "Die Kostenstellenrechnung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Учет затрат по МВЗ играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Gemeinkosten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "косвенные / накладные расходы",
+      "translation_en": "overhead costs",
+      "examples": [
+        {
+          "de": "Hier sind die Gemeinkosten.",
+          "ru": "Вот косвенные / накладные расходы."
+        },
+        {
+          "de": "Wir müssen die Gemeinkosten genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: косвенные / накладные расходы."
+        },
+        {
+          "de": "Sind Sie mit den Gemeinkosten einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: косвенные / накладные расходы?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Gemeinkosten.",
+          "ru": "Сегодня мы концентрируемся на теме: косвенные / накладные расходы."
+        },
+        {
+          "de": "Die Gemeinkosten spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Косвенные / накладные расходы играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Einzelkosten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "прямые затраты",
+      "translation_en": "direct costs",
+      "examples": [
+        {
+          "de": "Hier sind die Einzelkosten.",
+          "ru": "Вот прямые затраты."
+        },
+        {
+          "de": "Wir müssen die Einzelkosten genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: прямые затраты."
+        },
+        {
+          "de": "Sind Sie mit den Einzelkosten einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: прямые затраты?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Einzelkosten.",
+          "ru": "Сегодня мы концентрируемся на теме: прямые затраты."
+        },
+        {
+          "de": "Die Einzelkosten spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Прямые затраты играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Leistungsart, die Leistungsarten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "вид работ",
+      "translation_en": "activity type",
+      "examples": [
+        {
+          "de": "Hier ist die Leistungsart.",
+          "ru": "Вот вид работ."
+        },
+        {
+          "de": "Wir müssen die Leistungsart genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: вид работ."
+        },
+        {
+          "de": "Sind Sie mit der Leistungsart einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: вид работ?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Leistungsart.",
+          "ru": "Сегодня мы концентрируемся на теме: вид работ."
+        },
+        {
+          "de": "Die Leistungsart spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Вид работ играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Tarif, die Tarife",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "тариф / ставка",
+      "translation_en": "activity rate / tariff",
+      "examples": [
+        {
+          "de": "Hier ist der Tarif.",
+          "ru": "Вот тариф / ставка."
+        },
+        {
+          "de": "Wir müssen den Tarif genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: тариф / ставка."
+        },
+        {
+          "de": "Sind Sie mit dem Tarif einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: тариф / ставка?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Tarif.",
+          "ru": "Сегодня мы концентрируемся на теме: тариф / ставка."
+        },
+        {
+          "de": "Der Tarif spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Тариф / ставка играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kostenart, die Kostenarten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "вид затрат",
+      "translation_en": "cost element",
+      "examples": [
+        {
+          "de": "Hier ist die Kostenart.",
+          "ru": "Вот вид затрат."
+        },
+        {
+          "de": "Wir müssen die Kostenart genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: вид затрат."
+        },
+        {
+          "de": "Sind Sie mit der Kostenart einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: вид затрат?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kostenart.",
+          "ru": "Сегодня мы концентрируемся на теме: вид затрат."
+        },
+        {
+          "de": "Die Kostenart spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Вид затрат играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die primäre Kostenart, die Kostenarten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "первичный вид затрат",
+      "translation_en": "primary cost element",
+      "examples": [
+        {
+          "de": "Hier ist die primäre Kostenart.",
+          "ru": "Вот первичный вид затрат."
+        },
+        {
+          "de": "Wir müssen die primäre Kostenart genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: первичный вид затрат."
+        },
+        {
+          "de": "Sind Sie mit der primäre Kostenart einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: первичный вид затрат?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die primäre Kostenart.",
+          "ru": "Сегодня мы концентрируемся на теме: первичный вид затрат."
+        },
+        {
+          "de": "Die primäre Kostenart spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Первичный вид затрат играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die sekundäre Kostenart, die Kostenarten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "вторичный вид затрат",
+      "translation_en": "secondary cost element",
+      "examples": [
+        {
+          "de": "Hier ist die sekundäre Kostenart.",
+          "ru": "Вот вторичный вид затрат."
+        },
+        {
+          "de": "Wir müssen die sekundäre Kostenart genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: вторичный вид затрат."
+        },
+        {
+          "de": "Sind Sie mit der sekundäre Kostenart einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: вторичный вид затрат?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die sekundäre Kostenart.",
+          "ru": "Сегодня мы концентрируемся на теме: вторичный вид затрат."
+        },
+        {
+          "de": "Die sekundäre Kostenart spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Вторичный вид затрат играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Umlage, die Umlagen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "раскладка (затрат)",
+      "translation_en": "assessment",
+      "examples": [
+        {
+          "de": "Hier ist die Umlage.",
+          "ru": "Вот раскладка (затрат)."
+        },
+        {
+          "de": "Wir müssen die Umlage genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: раскладка (затрат)."
+        },
+        {
+          "de": "Sind Sie mit der Umlage einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: раскладка (затрат)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Umlage.",
+          "ru": "Сегодня мы концентрируемся на теме: раскладка (затрат)."
+        },
+        {
+          "de": "Die Umlage spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Раскладка (затрат) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Verteilung, die Verteilungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "распределение (затрат)",
+      "translation_en": "distribution",
+      "examples": [
+        {
+          "de": "Hier ist die Verteilung.",
+          "ru": "Вот распределение (затрат)."
+        },
+        {
+          "de": "Wir müssen die Verteilung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: распределение (затрат)."
+        },
+        {
+          "de": "Sind Sie mit der Verteilung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: распределение (затрат)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Verteilung.",
+          "ru": "Сегодня мы концентрируемся на теме: распределение (затрат)."
+        },
+        {
+          "de": "Die Verteilung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Распределение (затрат) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der statistische Kennzahl, die Kennzahlen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "статистический показатель",
+      "translation_en": "statistical key figure",
+      "examples": [
+        {
+          "de": "Hier ist der statistische Kennzahl.",
+          "ru": "Вот статистический показатель."
+        },
+        {
+          "de": "Wir müssen den statistische Kennzahl genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: статистический показатель."
+        },
+        {
+          "de": "Sind Sie mit dem statistische Kennzahl einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: статистический показатель?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den statistische Kennzahl.",
+          "ru": "Сегодня мы концентрируемся на теме: статистический показатель."
+        },
+        {
+          "de": "Der statistische Kennzahl spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Статистический показатель играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Innenauftrag, die Innenaufträge",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "внутренний заказ",
+      "translation_en": "internal order",
+      "examples": [
+        {
+          "de": "Hier ist der Innenauftrag.",
+          "ru": "Вот внутренний заказ."
+        },
+        {
+          "de": "Wir müssen den Innenauftrag genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: внутренний заказ."
+        },
+        {
+          "de": "Sind Sie mit dem Innenauftrag einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: внутренний заказ?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Innenauftrag.",
+          "ru": "Сегодня мы концентрируемся на теме: внутренний заказ."
+        },
+        {
+          "de": "Der Innenauftrag spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Внутренний заказ играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Abrechnung, die Abrechnungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "расчет / калькуляция / расчет заказа",
+      "translation_en": "settlement / billing",
+      "examples": [
+        {
+          "de": "Hier ist die Abrechnung.",
+          "ru": "Вот расчет / калькуляция / расчет заказа."
+        },
+        {
+          "de": "Wir müssen die Abrechnung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: расчет / калькуляция / расчет заказа."
+        },
+        {
+          "de": "Sind Sie mit der Abrechnung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: расчет / калькуляция / расчет заказа?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Abrechnung.",
+          "ru": "Сегодня мы концентрируемся на теме: расчет / калькуляция / расчет заказа."
+        },
+        {
+          "de": "Die Abrechnung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Расчет / калькуляция / расчет заказа играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Ergebnisrechnung, die Rechnungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "учет результатов (CO-PA)",
+      "translation_en": "profitability analysis (CO-PA)",
+      "examples": [
+        {
+          "de": "Hier ist die Ergebnisrechnung.",
+          "ru": "Вот учет результатов (CO-PA)."
+        },
+        {
+          "de": "Wir müssen die Ergebnisrechnung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: учет результатов (CO-PA)."
+        },
+        {
+          "de": "Sind Sie mit der Ergebnisrechnung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: учет результатов (CO-PA)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Ergebnisrechnung.",
+          "ru": "Сегодня мы концентрируемся на теме: учет результатов (CO-PA)."
+        },
+        {
+          "de": "Die Ergebnisrechnung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Учет результатов (CO-PA) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Profit-Center-Accounting, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "учет по центрам прибыли (EC-PCA)",
+      "translation_en": "profit center accounting",
+      "examples": [
+        {
+          "de": "Hier ist das Profit-Center-Accounting.",
+          "ru": "Вот учет по центрам прибыли (EC-PCA)."
+        },
+        {
+          "de": "Wir müssen das Profit-Center-Accounting genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: учет по центрам прибыли (EC-PCA)."
+        },
+        {
+          "de": "Sind Sie mit dem Profit-Center-Accounting einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: учет по центрам прибыли (EC-PCA)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Profit-Center-Accounting.",
+          "ru": "Сегодня мы концентрируемся на теме: учет по центрам прибыли (EC-PCA)."
+        },
+        {
+          "de": "Das Profit-Center-Accounting spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Учет по центрам прибыли (EC-PCA) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Konsolidierung, die Konsolidierungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "консолидация",
+      "translation_en": "consolidation",
+      "examples": [
+        {
+          "de": "Hier ist die Konsolidierung.",
+          "ru": "Вот консолидация."
+        },
+        {
+          "de": "Wir müssen die Konsolidierung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: консолидация."
+        },
+        {
+          "de": "Sind Sie mit der Konsolidierung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: консолидация?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Konsolidierung.",
+          "ru": "Сегодня мы концентрируемся на теме: консолидация."
+        },
+        {
+          "de": "Die Konsolidierung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Консолидация играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Abschreibung, die Abschreibungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "амортизация",
+      "translation_en": "depreciation",
+      "examples": [
+        {
+          "de": "Hier ist die Abschreibung.",
+          "ru": "Вот амортизация."
+        },
+        {
+          "de": "Wir müssen die Abschreibung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: амортизация."
+        },
+        {
+          "de": "Sind Sie mit der Abschreibung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: амортизация?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Abschreibung.",
+          "ru": "Сегодня мы концентрируемся на теме: амортизация."
+        },
+        {
+          "de": "Die Abschreibung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Амортизация играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Anlagenspiegel, die Anlagenspiegel",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "ведомость движения основных средств",
+      "translation_en": "asset history sheet",
+      "examples": [
+        {
+          "de": "Hier ist der Anlagenspiegel.",
+          "ru": "Вот ведомость движения основных средств."
+        },
+        {
+          "de": "Wir müssen den Anlagenspiegel genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: ведомость движения основных средств."
+        },
+        {
+          "de": "Sind Sie mit dem Anlagenspiegel einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: ведомость движения основных средств?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Anlagenspiegel.",
+          "ru": "Сегодня мы концентрируемся на теме: ведомость движения основных средств."
+        },
+        {
+          "de": "Der Anlagenspiegel spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Ведомость движения основных средств играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Anschaffungskosten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "первоначальная стоимость (ОС)",
+      "translation_en": "acquisition costs",
+      "examples": [
+        {
+          "de": "Hier sind die Anschaffungskosten.",
+          "ru": "Вот первоначальная стоимость (ОС)."
+        },
+        {
+          "de": "Wir müssen die Anschaffungskosten genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: первоначальная стоимость (ОС)."
+        },
+        {
+          "de": "Sind Sie mit den Anschaffungskosten einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: первоначальная стоимость (ОС)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Anschaffungskosten.",
+          "ru": "Сегодня мы концентрируемся на теме: первоначальная стоимость (ОС)."
+        },
+        {
+          "de": "Die Anschaffungskosten spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Первоначальная стоимость (ОС) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Buchwert, die Buchwerte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "балансовая стоимость",
+      "translation_en": "book value",
+      "examples": [
+        {
+          "de": "Hier ist der Buchwert.",
+          "ru": "Вот балансовая стоимость."
+        },
+        {
+          "de": "Wir müssen den Buchwert genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: балансовая стоимость."
+        },
+        {
+          "de": "Sind Sie mit dem Buchwert einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: балансовая стоимость?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Buchwert.",
+          "ru": "Сегодня мы концентрируемся на теме: балансовая стоимость."
+        },
+        {
+          "de": "Der Buchwert spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Балансовая стоимость играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Anzahlung, die Anzahlungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "авансовый платеж / предоплата",
+      "translation_en": "down payment",
+      "examples": [
+        {
+          "de": "Hier ist die Anzahlung.",
+          "ru": "Вот авансовый платеж / предоплата."
+        },
+        {
+          "de": "Wir müssen die Anzahlung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: авансовый платеж / предоплата."
+        },
+        {
+          "de": "Sind Sie mit der Anzahlung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: авансовый платеж / предоплата?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Anzahlung.",
+          "ru": "Сегодня мы концентрируемся на теме: авансовый платеж / предоплата."
+        },
+        {
+          "de": "Die Anzahlung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Авансовый платеж / предоплата играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Schlussrechnung, die Schlussrechnungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "финальный счет",
+      "translation_en": "final invoice",
+      "examples": [
+        {
+          "de": "Hier ist die Schlussrechnung.",
+          "ru": "Вот финальный счет."
+        },
+        {
+          "de": "Wir müssen die Schlussrechnung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: финальный счет."
+        },
+        {
+          "de": "Sind Sie mit der Schlussrechnung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: финальный счет?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Schlussrechnung.",
+          "ru": "Сегодня мы концентрируемся на теме: финальный счет."
+        },
+        {
+          "de": "Die Schlussrechnung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Финальный счет играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die offene Posten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "открытые позиции",
+      "translation_en": "open items",
+      "examples": [
+        {
+          "de": "Hier sind die offene Posten.",
+          "ru": "Вот открытые позиции."
+        },
+        {
+          "de": "Wir müssen die offene Posten genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: открытые позиции."
+        },
+        {
+          "de": "Sind Sie mit den offene Posten einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: открытые позиции?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die offene Posten.",
+          "ru": "Сегодня мы концентрируемся на теме: открытые позиции."
+        },
+        {
+          "de": "Die offene Posten spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Открытые позиции играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "mahnen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "напоминать о платеже / слать претензии",
+      "translation_en": "to dun / send reminder",
+      "examples": [
+        {
+          "de": "Wir mahnen diese Angelegenheit direkt im Team.",
+          "ru": "Мы напоминать о платеже / слать претензии этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich mahne die notwendigen Unterlagen sofort.",
+          "ru": "Я напоминать о платеже / слать претензии необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege mahnet das Ganze sehr professionell.",
+          "ru": "Ответственный коллега напоминать о платеже / слать претензии всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich gemahnet.",
+          "ru": "Мы успешно напоминать о платеже / слать претензии (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "mahnen Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: напоминать о платеже / слать претензии вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "gemahnet",
+      "imperative": "mahne! / mahnet! / mahnen Sie!",
+      "conjugations": {
+        "ich": "mahne",
+        "du": "mahnest",
+        "er/sie/es": "mahnet",
+        "wir": "mahnen",
+        "ihr": "mahnet",
+        "sie/Sie": "mahnen"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "das Mahnverfahren, die Mahnverfahren",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "процедура напоминания платежей",
+      "translation_en": "dunning procedure",
+      "examples": [
+        {
+          "de": "Hier ist das Mahnverfahren.",
+          "ru": "Вот процедура напоминания платежей."
+        },
+        {
+          "de": "Wir müssen das Mahnverfahren genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: процедура напоминания платежей."
+        },
+        {
+          "de": "Sind Sie mit dem Mahnverfahren einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: процедура напоминания платежей?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Mahnverfahren.",
+          "ru": "Сегодня мы концентрируемся на теме: процедура напоминания платежей."
+        },
+        {
+          "de": "Das Mahnverfahren spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Процедура напоминания платежей играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Mahnlauf, die Mahnläufe",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "прогон программы напоминаний",
+      "translation_en": "dunning run",
+      "examples": [
+        {
+          "de": "Hier ist der Mahnlauf.",
+          "ru": "Вот прогон программы напоминаний."
+        },
+        {
+          "de": "Wir müssen den Mahnlauf genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: прогон программы напоминаний."
+        },
+        {
+          "de": "Sind Sie mit dem Mahnlauf einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: прогон программы напоминаний?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Mahnlauf.",
+          "ru": "Сегодня мы концентрируемся на теме: прогон программы напоминаний."
+        },
+        {
+          "de": "Der Mahnlauf spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Прогон программы напоминаний играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Zahllauf, die Zahlläufe",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "прогон программы платежей",
+      "translation_en": "payment run",
+      "examples": [
+        {
+          "de": "Hier ist der Zahllauf.",
+          "ru": "Вот прогон программы платежей."
+        },
+        {
+          "de": "Wir müssen den Zahllauf genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: прогон программы платежей."
+        },
+        {
+          "de": "Sind Sie mit dem Zahllauf einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: прогон программы платежей?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Zahllauf.",
+          "ru": "Сегодня мы концентрируемся на теме: прогон программы платежей."
+        },
+        {
+          "de": "Der Zahllauf spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Прогон программы платежей играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Bankverbindung, die Bankverbindungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "банковские реквизиты",
+      "translation_en": "bank details",
+      "examples": [
+        {
+          "de": "Hier ist die Bankverbindung.",
+          "ru": "Вот банковские реквизиты."
+        },
+        {
+          "de": "Wir müssen die Bankverbindung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: банковские реквизиты."
+        },
+        {
+          "de": "Sind Sie mit der Bankverbindung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: банковские реквизиты?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Bankverbindung.",
+          "ru": "Сегодня мы концентрируемся на теме: банковские реквизиты."
+        },
+        {
+          "de": "Die Bankverbindung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Банковские реквизиты играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Kontoauszug, die Kontoauszüge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "выписка по счету",
+      "translation_en": "bank statement",
+      "examples": [
+        {
+          "de": "Hier ist der Kontoauszug.",
+          "ru": "Вот выписка по счету."
+        },
+        {
+          "de": "Wir müssen den Kontoauszug genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: выписка по счету."
+        },
+        {
+          "de": "Sind Sie mit dem Kontoauszug einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: выписка по счету?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Kontoauszug.",
+          "ru": "Сегодня мы концентрируемся на теме: выписка по счету."
+        },
+        {
+          "de": "Der Kontoauszug spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Выписка по счету играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Übergangskonto, die Übergangskonten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "транзитный счет",
+      "translation_en": "clearing account",
+      "examples": [
+        {
+          "de": "Hier ist das Übergangskonto.",
+          "ru": "Вот транзитный счет."
+        },
+        {
+          "de": "Wir müssen das Übergangskonto genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: транзитный счет."
+        },
+        {
+          "de": "Sind Sie mit dem Übergangskonto einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: транзитный счет?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Übergangskonto.",
+          "ru": "Сегодня мы концентрируемся на теме: транзитный счет."
+        },
+        {
+          "de": "Das Übergangskonto spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Транзитный счет играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Abstimmvereinbarung, die Abstimmvereinbarungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "соглашение о выравнивании",
+      "translation_en": "reconciliation agreement",
+      "examples": [
+        {
+          "de": "Hier ist die Abstimmvereinbarung.",
+          "ru": "Вот соглашение о выравнивании."
+        },
+        {
+          "de": "Wir müssen die Abstimmvereinbarung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: соглашение о выравнивании."
+        },
+        {
+          "de": "Sind Sie mit der Abstimmvereinbarung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: соглашение о выравнивании?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Abstimmvereinbarung.",
+          "ru": "Сегодня мы концентрируемся на теме: соглашение о выравнивании."
+        },
+        {
+          "de": "Die Abstimmvereinbarung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Соглашение о выравнивании играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Abstimmkonto, die Abstimmkonten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "контрольный счет",
+      "translation_en": "reconciliation account",
+      "examples": [
+        {
+          "de": "Hier ist das Abstimmkonto.",
+          "ru": "Вот контрольный счет."
+        },
+        {
+          "de": "Wir müssen das Abstimmkonto genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: контрольный счет."
+        },
+        {
+          "de": "Sind Sie mit dem Abstimmkonto einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: контрольный счет?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Abstimmkonto.",
+          "ru": "Сегодня мы концентрируемся на теме: контрольный счет."
+        },
+        {
+          "de": "Das Abstimmkonto spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Контрольный счет играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Kontenplan, die Kontenpläne",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "план счетов",
+      "translation_en": "chart of accounts",
+      "examples": [
+        {
+          "de": "Hier ist der Kontenplan.",
+          "ru": "Вот план счетов."
+        },
+        {
+          "de": "Wir müssen den Kontenplan genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: план счетов."
+        },
+        {
+          "de": "Sind Sie mit dem Kontenplan einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: план счетов?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Kontenplan.",
+          "ru": "Сегодня мы концентрируемся на теме: план счетов."
+        },
+        {
+          "de": "Der Kontenplan spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "План счетов играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Saldovortrag, die Saldovorträge",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "перенос сальдо",
+      "translation_en": "balance carryforward",
+      "examples": [
+        {
+          "de": "Hier ist die Saldovortrag.",
+          "ru": "Вот перенос сальдо."
+        },
+        {
+          "de": "Wir müssen die Saldovortrag genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: перенос сальдо."
+        },
+        {
+          "de": "Sind Sie mit der Saldovortrag einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: перенос сальдо?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Saldovortrag.",
+          "ru": "Сегодня мы концентрируемся на теме: перенос сальдо."
+        },
+        {
+          "de": "Die Saldovortrag spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Перенос сальдо играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Umsatzsteuer, die Umsatzsteuern",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "налог с оборота / НДС",
+      "translation_en": "sales tax / VAT",
+      "examples": [
+        {
+          "de": "Hier ist die Umsatzsteuer.",
+          "ru": "Вот налог с оборота / НДС."
+        },
+        {
+          "de": "Wir müssen die Umsatzsteuer genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: налог с оборота / НДС."
+        },
+        {
+          "de": "Sind Sie mit der Umsatzsteuer einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: налог с оборота / НДС?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Umsatzsteuer.",
+          "ru": "Сегодня мы концентрируемся на теме: налог с оборота / НДС."
+        },
+        {
+          "de": "Die Umsatzsteuer spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Налог с оборота / НДС играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Vorsteuer, die Vorsteuern",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "входящий НДС",
+      "translation_en": "input tax",
+      "examples": [
+        {
+          "de": "Hier ist die Vorsteuer.",
+          "ru": "Вот входящий НДС."
+        },
+        {
+          "de": "Wir müssen die Vorsteuer genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: входящий НДС."
+        },
+        {
+          "de": "Sind Sie mit der Vorsteuer einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: входящий НДС?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Vorsteuer.",
+          "ru": "Сегодня мы концентрируемся на теме: входящий НДС."
+        },
+        {
+          "de": "Die Vorsteuer spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Входящий НДС играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Zahllast, die Zahllasten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "сумма налога к уплате",
+      "translation_en": "tax liability",
+      "examples": [
+        {
+          "de": "Hier ist die Zahllast.",
+          "ru": "Вот сумма налога к уплате."
+        },
+        {
+          "de": "Wir müssen die Zahllast genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: сумма налога к уплате."
+        },
+        {
+          "de": "Sind Sie mit der Zahllast einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: сумма налога к уплате?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Zahllast.",
+          "ru": "Сегодня мы концентрируемся на теме: сумма налога к уплате."
+        },
+        {
+          "de": "Die Zahllast spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Сумма налога к уплате играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "stornieren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "стонировать / аннулировать",
+      "translation_en": "to reverse / cancel",
+      "examples": [
+        {
+          "de": "Wir stornieren diese Angelegenheit direkt im Team.",
+          "ru": "Мы стонировать / аннулировать этот вопрос непосредственно в команде."
+        },
+        {
+          "de": "Ich storniere die notwendigen Unterlagen sofort.",
+          "ru": "Я стонировать / аннулировать необходимые документы незамедлительно."
+        },
+        {
+          "de": "Der verantwortliche Kollege storniert das Ganze sehr professionell.",
+          "ru": "Ответственный коллега стонировать / аннулировать всё это очень профессионально."
+        },
+        {
+          "de": "Wir haben das Thema erfolgreich storniert.",
+          "ru": "Мы успешно стонировать / аннулировать (в прошедшем времени) эту тему."
+        },
+        {
+          "de": "stornieren Sie bitte rechtzeitig!",
+          "ru": "Пожалуйста, выполните действие: стонировать / аннулировать вовремя!"
+        }
+      ],
+      "synonyms": [],
+      "partizip_2": "storniert",
+      "imperative": "storniere! / storniert! / stornieren Sie!",
+      "conjugations": {
+        "ich": "storniere",
+        "du": "stornierst",
+        "er/sie/es": "storniert",
+        "wir": "stornieren",
+        "ihr": "storniert",
+        "sie/Sie": "stornieren"
+      },
+      "prepositions": []
+    },
+    {
+      "word": "die Stornierung, die Stornierungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "сторнирование / красное сторно",
+      "translation_en": "reversal / cancellation",
+      "examples": [
+        {
+          "de": "Hier ist die Stornierung.",
+          "ru": "Вот сторнирование / красное сторно."
+        },
+        {
+          "de": "Wir müssen die Stornierung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: сторнирование / красное сторно."
+        },
+        {
+          "de": "Sind Sie mit der Stornierung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: сторнирование / красное сторно?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Stornierung.",
+          "ru": "Сегодня мы концентрируемся на теме: сторнирование / красное сторно."
+        },
+        {
+          "de": "Die Stornierung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Сторнирование / красное сторно играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Buchungsbeleg, die Buchungsbelege",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "бухгалтерский документ",
+      "translation_en": "accounting document",
+      "examples": [
+        {
+          "de": "Hier ist der Buchungsbeleg.",
+          "ru": "Вот бухгалтерский документ."
+        },
+        {
+          "de": "Wir müssen den Buchungsbeleg genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: бухгалтерский документ."
+        },
+        {
+          "de": "Sind Sie mit dem Buchungsbeleg einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: бухгалтерский документ?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Buchungsbeleg.",
+          "ru": "Сегодня мы концентрируемся на теме: бухгалтерский документ."
+        },
+        {
+          "de": "Der Buchungsbeleg spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Бухгалтерский документ играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Sachkontenbuch, die Sachkontenbücher",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "регистр счетов главной книги",
+      "translation_en": "G/L ledger",
+      "examples": [
+        {
+          "de": "Hier ist das Sachkontenbuch.",
+          "ru": "Вот регистр счетов главной книги."
+        },
+        {
+          "de": "Wir müssen das Sachkontenbuch genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: регистр счетов главной книги."
+        },
+        {
+          "de": "Sind Sie mit dem Sachkontenbuch einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: регистр счетов главной книги?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Sachkontenbuch.",
+          "ru": "Сегодня мы концентрируемся на теме: регистр счетов главной книги."
+        },
+        {
+          "de": "Das Sachkontenbuch spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Регистр счетов главной книги играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Belegaufteilung, die Belegaufteilungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "разделение документа (document splitting)",
+      "translation_en": "document splitting",
+      "examples": [
+        {
+          "de": "Hier ist die Belegaufteilung.",
+          "ru": "Вот разделение документа (document splitting)."
+        },
+        {
+          "de": "Wir müssen die Belegaufteilung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: разделение документа (document splitting)."
+        },
+        {
+          "de": "Sind Sie mit der Belegaufteilung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: разделение документа (document splitting)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Belegaufteilung.",
+          "ru": "Сегодня мы концентрируемся на теме: разделение документа (document splitting)."
+        },
+        {
+          "de": "Die Belegaufteilung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Разделение документа (document splitting) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Segment, die Segmente",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "сегмент",
+      "translation_en": "segment",
+      "examples": [
+        {
+          "de": "Hier ist das Segment.",
+          "ru": "Вот сегмент."
+        },
+        {
+          "de": "Wir müssen das Segment genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: сегмент."
+        },
+        {
+          "de": "Sind Sie mit dem Segment einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: сегмент?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Segment.",
+          "ru": "Сегодня мы концентрируемся на теме: сегмент."
+        },
+        {
+          "de": "Das Segment spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Сегмент играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Funktionsbereich, die Funktionsbereiche",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "функциональная сфера",
+      "translation_en": "functional area",
+      "examples": [
+        {
+          "de": "Hier ist der Funktionsbereich.",
+          "ru": "Вот функциональная сфера."
+        },
+        {
+          "de": "Wir müssen den Funktionsbereich genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: функциональная сфера."
+        },
+        {
+          "de": "Sind Sie mit dem Funktionsbereich einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: функциональная сфера?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Funktionsbereich.",
+          "ru": "Сегодня мы концентрируемся на теме: функциональная сфера."
+        },
+        {
+          "de": "Der Funktionsbereich spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Функциональная сфера играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Konzernwährung, die Konzernwährungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "концерновая валюта",
+      "translation_en": "group currency",
+      "examples": [
+        {
+          "de": "Hier ist die Konzernwährung.",
+          "ru": "Вот концерновая валюта."
+        },
+        {
+          "de": "Wir müssen die Konzernwährung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: концерновая валюта."
+        },
+        {
+          "de": "Sind Sie mit der Konzernwährung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: концерновая валюта?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Konzernwährung.",
+          "ru": "Сегодня мы концентрируемся на теме: концерновая валюта."
+        },
+        {
+          "de": "Die Konzernwährung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Концерновая валюта играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kreiswährung, die Kreiswährungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "местная валюта",
+      "translation_en": "local currency",
+      "examples": [
+        {
+          "de": "Hier ist die Kreiswährung.",
+          "ru": "Вот местная валюта."
+        },
+        {
+          "de": "Wir müssen die Kreiswährung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: местная валюта."
+        },
+        {
+          "de": "Sind Sie mit der Kreiswährung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: местная валюта?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kreiswährung.",
+          "ru": "Сегодня мы концентрируемся на теме: местная валюта."
+        },
+        {
+          "de": "Die Kreiswährung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Местная валюта играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Fremdwährung, die Fremdwährungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "иностранная валюта",
+      "translation_en": "foreign currency",
+      "examples": [
+        {
+          "de": "Hier ist die Fremdwährung.",
+          "ru": "Вот иностранная валюта."
+        },
+        {
+          "de": "Wir müssen die Fremdwährung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: иностранная валюта."
+        },
+        {
+          "de": "Sind Sie mit der Fremdwährung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: иностранная валюта?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Fremdwährung.",
+          "ru": "Сегодня мы концентрируемся на теме: иностранная валюта."
+        },
+        {
+          "de": "Die Fremdwährung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Иностранная валюта играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Fremdwährungsbewertung, die Bewertungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "оценка в иностранной валюте",
+      "translation_en": "foreign currency valuation",
+      "examples": [
+        {
+          "de": "Hier ist die Fremdwährungsbewertung.",
+          "ru": "Вот оценка в иностранной валюте."
+        },
+        {
+          "de": "Wir müssen die Fremdwährungsbewertung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: оценка в иностранной валюте."
+        },
+        {
+          "de": "Sind Sie mit der Fremdwährungsbewertung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: оценка в иностранной валюте?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Fremdwährungsbewertung.",
+          "ru": "Сегодня мы концентрируемся на теме: оценка в иностранной валюте."
+        },
+        {
+          "de": "Die Fremdwährungsbewertung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Оценка в иностранной валюте играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Kursdifferenzkonto, die Kursdifferenzkonten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "счет курсовых разниц",
+      "translation_en": "exchange rate difference account",
+      "examples": [
+        {
+          "de": "Hier ist das Kursdifferenzkonto.",
+          "ru": "Вот счет курсовых разниц."
+        },
+        {
+          "de": "Wir müssen das Kursdifferenzkonto genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: счет курсовых разниц."
+        },
+        {
+          "de": "Sind Sie mit dem Kursdifferenzkonto einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: счет курсовых разниц?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Kursdifferenzkonto.",
+          "ru": "Сегодня мы концентрируемся на теме: счет курсовых разниц."
+        },
+        {
+          "de": "Das Kursdifferenzkonto spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Счет курсовых разниц играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Intercompany-Geschäft, die Geschäfte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "межфилиальные / межкомпанейские сделки",
+      "translation_en": "intercompany transaction",
+      "examples": [
+        {
+          "de": "Hier ist das Intercompany-Geschäft.",
+          "ru": "Вот межфилиальные / межкомпанейские сделки."
+        },
+        {
+          "de": "Wir müssen das Intercompany-Geschäft genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: межфилиальные / межкомпанейские сделки."
+        },
+        {
+          "de": "Sind Sie mit dem Intercompany-Geschäft einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: межфилиальные / межкомпанейские сделки?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Intercompany-Geschäft.",
+          "ru": "Сегодня мы концентрируемся на теме: межфилиальные / межкомпанейские сделки."
+        },
+        {
+          "de": "Das Intercompany-Geschäft spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Межфилиальные / межкомпанейские сделки играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Verrechnung, die Verrechnungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "взаимозачет / аллокация / распределение",
+      "translation_en": "allocation / clearing",
+      "examples": [
+        {
+          "de": "Hier ist die Verrechnung.",
+          "ru": "Вот взаимозачет / аллокация / распределение."
+        },
+        {
+          "de": "Wir müssen die Verrechnung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: взаимозачет / аллокация / распределение."
+        },
+        {
+          "de": "Sind Sie mit der Verrechnung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: взаимозачет / аллокация / распределение?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Verrechnung.",
+          "ru": "Сегодня мы концентрируемся на теме: взаимозачет / аллокация / распределение."
+        },
+        {
+          "de": "Die Verrechnung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Взаимозачет / аллокация / распределение играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kostenstellen-Gruppe, die Gruppen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "группа мест возникновения затрат",
+      "translation_en": "cost center group",
+      "examples": [
+        {
+          "de": "Hier ist die Kostenstellen-Gruppe.",
+          "ru": "Вот группа мест возникновения затрат."
+        },
+        {
+          "de": "Wir müssen die Kostenstellen-Gruppe genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: группа мест возникновения затрат."
+        },
+        {
+          "de": "Sind Sie mit der Kostenstellen-Gruppe einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: группа мест возникновения затрат?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kostenstellen-Gruppe.",
+          "ru": "Сегодня мы концентрируемся на теме: группа мест возникновения затрат."
+        },
+        {
+          "de": "Die Kostenstellen-Gruppe spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Группа мест возникновения затрат играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Profit-Center-Gruppe, die Gruppen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "группа центров прибыли",
+      "translation_en": "profit center group",
+      "examples": [
+        {
+          "de": "Hier ist die Profit-Center-Gruppe.",
+          "ru": "Вот группа центров прибыли."
+        },
+        {
+          "de": "Wir müssen die Profit-Center-Gruppe genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: группа центров прибыли."
+        },
+        {
+          "de": "Sind Sie mit der Profit-Center-Gruppe einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: группа центров прибыли?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Profit-Center-Gruppe.",
+          "ru": "Сегодня мы концентрируемся на теме: группа центров прибыли."
+        },
+        {
+          "de": "Die Profit-Center-Gruppe spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Группа центров прибыли играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Standardhierarchie, die Standardhierarchien",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "стандартная иерархия",
+      "translation_en": "standard hierarchy",
+      "examples": [
+        {
+          "de": "Hier ist die Standardhierarchie.",
+          "ru": "Вот стандартная иерархия."
+        },
+        {
+          "de": "Wir müssen die Standardhierarchie genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: стандартная иерархия."
+        },
+        {
+          "de": "Sind Sie mit der Standardhierarchie einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: стандартная иерархия?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Standardhierarchie.",
+          "ru": "Сегодня мы концентрируемся на теме: стандартная иерархия."
+        },
+        {
+          "de": "Die Standardhierarchie spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Стандартная иерархия играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Plankalkulation, die Plankalkulationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "плановая калькуляция",
+      "translation_en": "planned costing",
+      "examples": [
+        {
+          "de": "Hier ist die Plankalkulation.",
+          "ru": "Вот плановая калькуляция."
+        },
+        {
+          "de": "Wir müssen die Plankalkulation genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: плановая калькуляция."
+        },
+        {
+          "de": "Sind Sie mit der Plankalkulation einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: плановая калькуляция?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Plankalkulation.",
+          "ru": "Сегодня мы концентрируемся на теме: плановая калькуляция."
+        },
+        {
+          "de": "Die Plankalkulation spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Плановая калькуляция играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Istkalkulation, die Istkalkulationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "фактическая калькуляция",
+      "translation_en": "actual costing",
+      "examples": [
+        {
+          "de": "Hier ist die Istkalkulation.",
+          "ru": "Вот фактическая калькуляция."
+        },
+        {
+          "de": "Wir müssen die Istkalkulation genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: фактическая калькуляция."
+        },
+        {
+          "de": "Sind Sie mit der Istkalkulation einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: фактическая калькуляция?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Istkalkulation.",
+          "ru": "Сегодня мы концентрируемся на теме: фактическая калькуляция."
+        },
+        {
+          "de": "Die Istkalkulation spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Фактическая калькуляция играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Tarifermittlung, die Tarifermittlungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "расчет тарифа",
+      "translation_en": "activity price calculation",
+      "examples": [
+        {
+          "de": "Hier ist die Tarifermittlung.",
+          "ru": "Вот расчет тарифа."
+        },
+        {
+          "de": "Wir müssen die Tarifermittlung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: расчет тарифа."
+        },
+        {
+          "de": "Sind Sie mit der Tarifermittlung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: расчет тарифа?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Tarifermittlung.",
+          "ru": "Сегодня мы концентрируемся на теме: расчет тарифа."
+        },
+        {
+          "de": "Die Tarifermittlung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Расчет тарифа играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Abweichungsanalyse, die Abweichungsanalysen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "анализ отклонений",
+      "translation_en": "variance analysis",
+      "examples": [
+        {
+          "de": "Hier ist die Abweichungsanalyse.",
+          "ru": "Вот анализ отклонений."
+        },
+        {
+          "de": "Wir müssen die Abweichungsanalyse genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: анализ отклонений."
+        },
+        {
+          "de": "Sind Sie mit der Abweichungsanalyse einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: анализ отклонений?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Abweichungsanalyse.",
+          "ru": "Сегодня мы концентрируемся на теме: анализ отклонений."
+        },
+        {
+          "de": "Die Abweichungsanalyse spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Анализ отклонений играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Deckungsbeitragsrechnung, die Rechnungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "учет сумм покрытия (маржинальный доход)",
+      "translation_en": "contribution margin accounting",
+      "examples": [
+        {
+          "de": "Hier ist die Deckungsbeitragsrechnung.",
+          "ru": "Вот учет сумм покрытия (маржинальный доход)."
+        },
+        {
+          "de": "Wir müssen die Deckungsbeitragsrechnung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: учет сумм покрытия (маржинальный доход)."
+        },
+        {
+          "de": "Sind Sie mit der Deckungsbeitragsrechnung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: учет сумм покрытия (маржинальный доход)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Deckungsbeitragsrechnung.",
+          "ru": "Сегодня мы концентрируемся на теме: учет сумм покрытия (маржинальный доход)."
+        },
+        {
+          "de": "Die Deckungsbeitragsrechnung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Учет сумм покрытия (маржинальный доход) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Buchungsschlüssel, die Buchungsschlüssel",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "ключ проводки",
+      "translation_en": "posting key",
+      "examples": [
+        {
+          "de": "Hier ist der Buchungsschlüssel.",
+          "ru": "Вот ключ проводки."
+        },
+        {
+          "de": "Wir müssen den Buchungsschlüssel genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: ключ проводки."
+        },
+        {
+          "de": "Sind Sie mit dem Buchungsschlüssel einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: ключ проводки?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Buchungsschlüssel.",
+          "ru": "Сегодня мы концентрируемся на теме: ключ проводки."
+        },
+        {
+          "de": "Der Buchungsschlüssel spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Ключ проводки играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Soll, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "дебет",
+      "translation_en": "debit",
+      "examples": [
+        {
+          "de": "Hier ist das Soll.",
+          "ru": "Вот дебет."
+        },
+        {
+          "de": "Wir müssen das Soll genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: дебет."
+        },
+        {
+          "de": "Sind Sie mit dem Soll einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: дебет?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Soll.",
+          "ru": "Сегодня мы концентрируемся на теме: дебет."
+        },
+        {
+          "de": "Das Soll spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Дебет играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Haben, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "кредит (бухгалтерский)",
+      "translation_en": "credit",
+      "examples": [
+        {
+          "de": "Hier ist das Haben.",
+          "ru": "Вот кредит (бухгалтерский)."
+        },
+        {
+          "de": "Wir müssen das Haben genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: кредит (бухгалтерский)."
+        },
+        {
+          "de": "Sind Sie mit dem Haben einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: кредит (бухгалтерский)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Haben.",
+          "ru": "Сегодня мы концентрируемся на теме: кредит (бухгалтерский)."
+        },
+        {
+          "de": "Das Haben spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Кредит (бухгалтерский) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Saldo, die Salden",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "сальдо",
+      "translation_en": "balance",
+      "examples": [
+        {
+          "de": "Hier ist der Saldo.",
+          "ru": "Вот сальдо."
+        },
+        {
+          "de": "Wir müssen den Saldo genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: сальдо."
+        },
+        {
+          "de": "Sind Sie mit dem Saldo einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: сальдо?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Saldo.",
+          "ru": "Сегодня мы концентрируемся на теме: сальдо."
+        },
+        {
+          "de": "Der Saldo spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Сальдо играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Abstimmungsarbeit, die Abstimmungsarbeiten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "работа по согласованию / сверке",
+      "translation_en": "reconciliation work",
+      "examples": [
+        {
+          "de": "Hier ist die Abstimmungsarbeit.",
+          "ru": "Вот работа по согласованию / сверке."
+        },
+        {
+          "de": "Wir müssen die Abstimmungsarbeit genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: работа по согласованию / сверке."
+        },
+        {
+          "de": "Sind Sie mit der Abstimmungsarbeit einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: работа по согласованию / сверке?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Abstimmungsarbeit.",
+          "ru": "Сегодня мы концентрируемся на теме: работа по согласованию / сверке."
+        },
+        {
+          "de": "Die Abstimmungsarbeit spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Работа по согласованию / сверке играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Abschlussarbeiten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "операции закрытия периода",
+      "translation_en": "closing operations",
+      "examples": [
+        {
+          "de": "Hier sind die Abschlussarbeiten.",
+          "ru": "Вот операции закрытия периода."
+        },
+        {
+          "de": "Wir müssen die Abschlussarbeiten genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: операции закрытия периода."
+        },
+        {
+          "de": "Sind Sie mit den Abschlussarbeiten einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: операции закрытия периода?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Abschlussarbeiten.",
+          "ru": "Сегодня мы концентрируемся на теме: операции закрытия периода."
+        },
+        {
+          "de": "Die Abschlussarbeiten spielen eine entscheidende Rolle für den Erfolg.",
+          "ru": "Операции закрытия периода играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Monatsabschluss, die Monatsabschlüsse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "закрытие месяца",
+      "translation_en": "month-end closing",
+      "examples": [
+        {
+          "de": "Hier ist der Monatsabschluss.",
+          "ru": "Вот закрытие месяца."
+        },
+        {
+          "de": "Wir müssen den Monatsabschluss genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: закрытие месяца."
+        },
+        {
+          "de": "Sind Sie mit dem Monatsabschluss einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: закрытие месяца?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Monatsabschluss.",
+          "ru": "Сегодня мы концентрируемся на теме: закрытие месяца."
+        },
+        {
+          "de": "Der Monatsabschluss spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Закрытие месяца играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Jahresabschluss, die Jahresabschlüsse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "закрытие года",
+      "translation_en": "year-end closing",
+      "examples": [
+        {
+          "de": "Hier ist der Jahresabschluss.",
+          "ru": "Вот закрытие года."
+        },
+        {
+          "de": "Wir müssen den Jahresabschluss genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: закрытие года."
+        },
+        {
+          "de": "Sind Sie mit dem Jahresabschluss einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: закрытие года?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Jahresabschluss.",
+          "ru": "Сегодня мы концентрируемся на теме: закрытие года."
+        },
+        {
+          "de": "Der Jahresabschluss spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Закрытие года играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Kreditlimit, die Kreditlimits",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "кредитный лимит",
+      "translation_en": "credit limit",
+      "examples": [
+        {
+          "de": "Hier ist das Kreditlimit.",
+          "ru": "Вот кредитный лимит."
+        },
+        {
+          "de": "Wir müssen das Kreditlimit genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: кредитный лимит."
+        },
+        {
+          "de": "Sind Sie mit dem Kreditlimit einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: кредитный лимит?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Kreditlimit.",
+          "ru": "Сегодня мы концентрируемся на теме: кредитный лимит."
+        },
+        {
+          "de": "Das Kreditlimit spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Кредитный лимит играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Kreditkontrolle, die Kreditkontrollen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "кредитный контроль",
+      "translation_en": "credit control",
+      "examples": [
+        {
+          "de": "Hier ist die Kreditkontrolle.",
+          "ru": "Вот кредитный контроль."
+        },
+        {
+          "de": "Wir müssen die Kreditkontrolle genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: кредитный контроль."
+        },
+        {
+          "de": "Sind Sie mit der Kreditkontrolle einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: кредитный контроль?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Kreditkontrolle.",
+          "ru": "Сегодня мы концентрируемся на теме: кредитный контроль."
+        },
+        {
+          "de": "Die Kreditkontrolle spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Кредитный контроль играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Zahlungsbeleg, die Zahlungsbelege",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "платежный документ",
+      "translation_en": "payment document",
+      "examples": [
+        {
+          "de": "Hier ist der Zahlungsbeleg.",
+          "ru": "Вот платежный документ."
+        },
+        {
+          "de": "Wir müssen den Zahlungsbeleg genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: платежный документ."
+        },
+        {
+          "de": "Sind Sie mit dem Zahlungsbeleg einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: платежный документ?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Zahlungsbeleg.",
+          "ru": "Сегодня мы концентрируемся на теме: платежный документ."
+        },
+        {
+          "de": "Der Zahlungsbeleg spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Платежный документ играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Zahlungsbedingung, die Zahlungsbedingungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "условие платежа",
+      "translation_en": "terms of payment",
+      "examples": [
+        {
+          "de": "Hier ist die Zahlungsbedingung.",
+          "ru": "Вот условие платежа."
+        },
+        {
+          "de": "Wir müssen die Zahlungsbedingung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: условие платежа."
+        },
+        {
+          "de": "Sind Sie mit der Zahlungsbedingung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: условие платежа?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Zahlungsbedingung.",
+          "ru": "Сегодня мы концентрируемся на теме: условие платежа."
+        },
+        {
+          "de": "Die Zahlungsbedingung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Условие платежа играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Skonto, die Skontos",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "скидка за быструю оплату",
+      "translation_en": "cash discount",
+      "examples": [
+        {
+          "de": "Hier ist das Skonto.",
+          "ru": "Вот скидка за быструю оплату."
+        },
+        {
+          "de": "Wir müssen das Skonto genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: скидка за быструю оплату."
+        },
+        {
+          "de": "Sind Sie mit dem Skonto einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: скидка за быструю оплату?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Skonto.",
+          "ru": "Сегодня мы концентрируемся на теме: скидка за быструю оплату."
+        },
+        {
+          "de": "Das Skonto spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Скидка за быструю оплату играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Verzugszins, die Verzugszinsen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "процент за просрочку платежа",
+      "translation_en": "interest on arrears",
+      "examples": [
+        {
+          "de": "Hier ist der Verzugszins.",
+          "ru": "Вот процент за просрочку платежа."
+        },
+        {
+          "de": "Wir müssen den Verzugszins genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: процент за просрочку платежа."
+        },
+        {
+          "de": "Sind Sie mit dem Verzugszins einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: процент за просрочку платежа?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Verzugszins.",
+          "ru": "Сегодня мы концентрируемся на теме: процент за просрочку платежа."
+        },
+        {
+          "de": "Der Verzugszins spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Процент за просрочку платежа играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Wertberichtigung, die Wertberichtigungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "корректировка стоимости",
+      "translation_en": "value adjustment",
+      "examples": [
+        {
+          "de": "Hier ist die Wertberichtigung.",
+          "ru": "Вот корректировка стоимости."
+        },
+        {
+          "de": "Wir müssen die Wertberichtigung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: корректировка стоимости."
+        },
+        {
+          "de": "Sind Sie mit der Wertberichtigung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: корректировка стоимости?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Wertberichtigung.",
+          "ru": "Сегодня мы концентрируемся на теме: корректировка стоимости."
+        },
+        {
+          "de": "Die Wertberichtigung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Корректировка стоимости играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Rückstellung, die Rückstellungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "резерв (на будущие обязательства)",
+      "translation_en": "accrual / provision",
+      "examples": [
+        {
+          "de": "Hier ist die Rückstellung.",
+          "ru": "Вот резерв (на будущие обязательства)."
+        },
+        {
+          "de": "Wir müssen die Rückstellung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: резерв (на будущие обязательства)."
+        },
+        {
+          "de": "Sind Sie mit der Rückstellung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: резерв (на будущие обязательства)?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Rückstellung.",
+          "ru": "Сегодня мы концентрируемся на теме: резерв (на будущие обязательства)."
+        },
+        {
+          "de": "Die Rückstellung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Резерв (на будущие обязательства) играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Rechnungsabgrenzung, die Rechnungsabgrenzungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "разграничение доходов и расходов",
+      "translation_en": "accruals and deferrals",
+      "examples": [
+        {
+          "de": "Hier ist die Rechnungsabgrenzung.",
+          "ru": "Вот разграничение доходов и расходов."
+        },
+        {
+          "de": "Wir müssen die Rechnungsabgrenzung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: разграничение доходов и расходов."
+        },
+        {
+          "de": "Sind Sie mit der Rechnungsabgrenzung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: разграничение доходов и расходов?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Rechnungsabgrenzung.",
+          "ru": "Сегодня мы концентрируемся на теме: разграничение доходов и расходов."
+        },
+        {
+          "de": "Die Rechnungsabgrenzung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Разграничение доходов и расходов играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Anzahlungsanforderung, die Anzahlungsanforderungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "запрос авансового платежа",
+      "translation_en": "down payment request",
+      "examples": [
+        {
+          "de": "Hier ist die Anzahlungsanforderung.",
+          "ru": "Вот запрос авансового платежа."
+        },
+        {
+          "de": "Wir müssen die Anzahlungsanforderung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: запрос авансового платежа."
+        },
+        {
+          "de": "Sind Sie mit der Anzahlungsanforderung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: запрос авансового платежа?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Anzahlungsanforderung.",
+          "ru": "Сегодня мы концентрируемся на теме: запрос авансового платежа."
+        },
+        {
+          "de": "Die Anzahlungsanforderung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Запрос авансового платежа играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Steuererklärung, die Steuererklärungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "налоговая декларация",
+      "translation_en": "tax return",
+      "examples": [
+        {
+          "de": "Hier ist die Steuererklärung.",
+          "ru": "Вот налоговая декларация."
+        },
+        {
+          "de": "Wir müssen die Steuererklärung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: налоговая декларация."
+        },
+        {
+          "de": "Sind Sie mit der Steuererklärung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: налоговая декларация?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Steuererklärung.",
+          "ru": "Сегодня мы концентрируемся на теме: налоговая декларация."
+        },
+        {
+          "de": "Die Steuererklärung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Налоговая декларация играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": [
+        "Steuerveranlagung"
+      ]
+    },
+    {
+      "word": "die Umsatzsteuer-Voranmeldung, die Voranmeldungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "предварительная декларация по НДС",
+      "translation_en": "advance return for tax on sales/purchases",
+      "examples": [
+        {
+          "de": "Hier ist die Umsatzsteuer-Voranmeldung.",
+          "ru": "Вот предварительная декларация по НДС."
+        },
+        {
+          "de": "Wir müssen die Umsatzsteuer-Voranmeldung genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: предварительная декларация по НДС."
+        },
+        {
+          "de": "Sind Sie mit der Umsatzsteuer-Voranmeldung einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: предварительная декларация по НДС?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Umsatzsteuer-Voranmeldung.",
+          "ru": "Сегодня мы концентрируемся на теме: предварительная декларация по НДС."
+        },
+        {
+          "de": "Die Umsatzsteuer-Voranmeldung spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Предварительная декларация по НДС играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "das Steuerkennzeichen, die Steuerkennzeichen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "код налога",
+      "translation_en": "tax code",
+      "examples": [
+        {
+          "de": "Hier ist das Steuerkennzeichen.",
+          "ru": "Вот код налога."
+        },
+        {
+          "de": "Wir müssen das Steuerkennzeichen genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: код налога."
+        },
+        {
+          "de": "Sind Sie mit dem Steuerkennzeichen einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: код налога?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf das Steuerkennzeichen.",
+          "ru": "Сегодня мы концентрируемся на теме: код налога."
+        },
+        {
+          "de": "Das Steuerkennzeichen spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Код налога играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Anlagenklasse, die Anlagenklassen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "класс основных средств",
+      "translation_en": "asset class",
+      "examples": [
+        {
+          "de": "Hier ist die Anlagenklasse.",
+          "ru": "Вот класс основных средств."
+        },
+        {
+          "de": "Wir müssen die Anlagenklasse genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: класс основных средств."
+        },
+        {
+          "de": "Sind Sie mit der Anlagenklasse einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: класс основных средств?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Anlagenklasse.",
+          "ru": "Сегодня мы концентрируемся на теме: класс основных средств."
+        },
+        {
+          "de": "Die Anlagenklasse spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Класс основных средств играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "die Nutzungsdauer, die Nutzungsdauern",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "срок полезного использования",
+      "translation_en": "useful life",
+      "examples": [
+        {
+          "de": "Hier ist die Nutzungsdauer.",
+          "ru": "Вот срок полезного использования."
+        },
+        {
+          "de": "Wir müssen die Nutzungsdauer genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: срок полезного использования."
+        },
+        {
+          "de": "Sind Sie mit der Nutzungsdauer einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: срок полезного использования?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf die Nutzungsdauer.",
+          "ru": "Сегодня мы концентрируемся на теме: срок полезного использования."
+        },
+        {
+          "de": "Die Nutzungsdauer spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Срок полезного использования играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Abschreibungsbereich, die Abschreibungsbereiche",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "область амортизации",
+      "translation_en": "depreciation area",
+      "examples": [
+        {
+          "de": "Hier ist der Abschreibungsbereich.",
+          "ru": "Вот область амортизации."
+        },
+        {
+          "de": "Wir müssen den Abschreibungsbereich genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: область амортизации."
+        },
+        {
+          "de": "Sind Sie mit dem Abschreibungsbereich einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: область амортизации?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Abschreibungsbereich.",
+          "ru": "Сегодня мы концентрируемся на теме: область амортизации."
+        },
+        {
+          "de": "Der Abschreibungsbereich spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Область амортизации играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    },
+    {
+      "word": "der Abschreibungsschlüssel, die Abschreibungsschlüssel",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "код амортизации",
+      "translation_en": "depreciation key",
+      "examples": [
+        {
+          "de": "Hier ist der Abschreibungsschlüssel.",
+          "ru": "Вот код амортизации."
+        },
+        {
+          "de": "Wir müssen den Abschreibungsschlüssel genau analysieren.",
+          "ru": "Мы должны точно проанализировать следующий объект: код амортизации."
+        },
+        {
+          "de": "Sind Sie mit dem Abschreibungsschlüssel einverstanden?",
+          "ru": "Вы согласны с тем, что касается понятия: код амортизации?"
+        },
+        {
+          "de": "Wir konzentrieren uns heute auf den Abschreibungsschlüssel.",
+          "ru": "Сегодня мы концентрируемся на теме: код амортизации."
+        },
+        {
+          "de": "Der Abschreibungsschlüssel spielt eine entscheidende Rolle für den Erfolg.",
+          "ru": "Код амортизации играет решающую роль в успехе."
+        }
+      ],
+      "synonyms": []
+    }
+  ]
+}

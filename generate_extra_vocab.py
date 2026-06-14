@@ -518,7 +518,13 @@ category_mapping = {
     "Wohnung & Anmeldung": 19,
     "Gesundheit & Kassen": 20,
     "ÖPNV & Reisen": 21,
-    "Alltag & Dienste": 22
+    "Alltag & Dienste": 22,
+    # SAP Consulting
+    "SAP FI/CO (Finanzwesen & Controlling)": 23,
+    "Materialwirtschaft & Bestandsbewertung (MM/ML)": 24,
+    "Vertrieb & Kundenmanagement (SD)": 25,
+    "S4 HANA & Fiori Benutzeroberfläche": 26,
+    "SAP-Einführung & Customizing": 27
 }
 
 category_names = {
@@ -536,10 +542,21 @@ category_names = {
     19: "Wohnung & Anmeldung",
     20: "Gesundheit & Kassen",
     21: "ÖPNV & Reisen",
-    22: "Alltag & Dienste"
+    22: "Alltag & Dienste",
+    23: "SAP FI/CO (Finanzwesen & Controlling)",
+    24: "Materialwirtschaft & Bestandsbewertung (MM/ML)",
+    25: "Vertrieb & Kundenmanagement (SD)",
+    26: "S4 HANA & Fiori Benutzeroberfläche",
+    27: "SAP-Einführung & Customizing"
 }
 
 def main():
+    if sys.platform == 'win32':
+        try:
+            sys.stdout.reconfigure(encoding='utf-8')
+            sys.stderr.reconfigure(encoding='utf-8')
+        except AttributeError:
+            pass
     base_dir = r"c:\Users\MMonakhov\Documents\ChatAI\Deutch"
     vocab_dir = os.path.join(base_dir, "german_vocab")
     
@@ -550,11 +567,13 @@ def main():
     import finance_data
     import interview_data
     import official_data
+    import sap_data
     
     all_source_words = []
     all_source_words.extend(finance_data.words)
     all_source_words.extend(interview_data.words)
     all_source_words.extend(official_data.words)
+    all_source_words.extend(sap_data.words)
     
     print(f"Total source words to process: {len(all_source_words)}")
     
