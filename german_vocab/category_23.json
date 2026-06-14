@@ -27,6 +27,11 @@
         {
           "de": "Ich fand das zweite Hauptbuch vom Red Pony.",
           "ru": "Я нашёл второй гроссбух \"Ред Пони\"."
+        },
+        {
+          "de": "Im Hauptbuch werden alle geschäftsrelevanten Buchungen erfasst, um eine vollständige Finanzberichterstattung zu gewährleisten.",
+          "ru": "В главной книге регистрируются все хозяйственные операции, чтобы обеспечить полноту финансовой отчетности.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -57,6 +62,11 @@
         {
           "de": "Diese Tatsache liegt darin begründet, daß beim Aufbau einer Plankostenrechnung für jeden betrieblichen Teilbereich (Kostenstelle) eine gesonderte flexible Sollkostenstaffel ermittelt werden muß, die angibt, wie sich bei Beschäftigungsschwankungen die Gesamtkosten des betreffenden Bereiches verändern.",
           "ru": "Этот факт связан с тем, что при постановке планового учета затрат для каждого оперативного подучастка (МВЗ) должна определяться отдельная, гибкая целевая шкала затрат, которая указывает, как изменяются общие затраты рассматриваемого участка в случае колебаний занятости."
+        },
+        {
+          "de": "Kostenstellen dienen der Erfassung und Zuordnung von Gemeinkosten innerhalb eines bestimmten Verantwortungsbereichs.",
+          "ru": "Места возникновения затрат служат для сбора и распределения косвенных расходов в рамках определенной сферы ответственности.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -87,6 +97,11 @@
         {
           "de": "Der sagt, Scientology sei keine Religion, sondern eine Art Profit-Center; ergo könne von religiöser Verfolgung nicht die Rede sein.",
           "ru": "Он говорит, что Саентология — это не религия, а своего рода центр прибыли; Следовательно, о религиозных преследованиях не может быть и речи."
+        },
+        {
+          "de": "Das Profit-Center spiegelt die interne Strukturierung des Unternehmens zur Ermittlung des Betriebsergebnisses wider.",
+          "ru": "Центр прибыли отражает внутреннюю структуру предприятия для определения производственного результата.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -109,6 +124,11 @@
         {
           "de": "Neben der Vertragskalkulation gehören hierzu auch aussagefähige Kunden- und Managementsinformationssysteme und eine leistungsstarke Finanz- und Anlagenbuchhaltung.",
           "ru": "Помимо расчета контрактов, это также включает в себя содержательные информационные системы для клиентов и управления, а также мощный финансовый учет и учет активов."
+        },
+        {
+          "de": "Die Anlagenbuchhaltung dient der Verwaltung und Überwachung des Anlagevermögens im SAP-System.",
+          "ru": "Учет основных средств служит для управления и контроля основных средств в системе SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -127,6 +147,11 @@
         {
           "de": "Er arbeitet als Buchhalter in der Kreditorenbuchhaltung.",
           "ru": "Он работает бухгалтером в бухгалтерии кредиторов."
+        },
+        {
+          "de": "In der Kreditorenbuchhaltung werden alle Verbindlichkeiten gegenüber Lieferanten verwaltet und ausgeglichen.",
+          "ru": "В бухгалтерии кредиторов осуществляется управление всеми обязательствами перед поставщиками и их выравнивание.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -153,6 +178,11 @@
         {
           "de": "Auch der Expansionsdrang in unbekannte Märkte deutet die Notwendigkeit einer Warenkreditversicherung und die Übernahme der Debitorenbuchhaltung an.",
           "ru": "Стремление выйти на неизвестные рынки также указывает на необходимость страхования торговых кредитов и принятия на себя учета дебиторской задолженности."
+        },
+        {
+          "de": "Die Debitorenbuchhaltung überwacht die ausstehenden Forderungen und steuert den Mahnprozess für Kunden.",
+          "ru": "Бухгалтерия дебиторов отслеживает дебиторскую задолженность и управляет процессом напоминания платежей клиентам.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -171,6 +201,11 @@
         {
           "de": "Wir müssen Berichte auf Ebene des Buchungskreises erstellen.",
           "ru": "Мы должны формировать отчеты на уровне балансовой единицы."
+        },
+        {
+          "de": "Der Buchungskreis ist die kleinste organisatorische Einheit des externen Rechnungswesens, für die eine vollständige Bilanz erstellt werden kann.",
+          "ru": "Балансовая единица является минимальной организационной единицей внешнего учета, для которой может быть составлен полный баланс.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -201,6 +236,11 @@
         {
           "de": "Ich kann Hotels für dich buchen, deine Verträge aushandeln.",
           "ru": "Я могу бронировать гостиницы для тебя, заключать твои договора."
+        },
+        {
+          "de": "Sie können den Beleg erst buchen, wenn alle Mussfelder ausgefüllt und die Salden ausgeglichen sind.",
+          "ru": "Вы можете провести документ только после того, как будут заполнены все обязательные поля и выровнено сальдо.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -242,6 +282,11 @@
         {
           "de": "Jemand muss den Druck ausgleichen.",
           "ru": "Кто-то должен выровнять давление."
+        },
+        {
+          "de": "Offene Posten lassen sich manuell über die Transaktion F-03 oder automatisch über das Zahlungsprogramm ausgleichen.",
+          "ru": "Открытые позиции можно выровнять вручную с помощью транзакции F-03 или автоматически с помощью программы платежей.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -283,6 +328,11 @@
         {
           "de": "Hier ist 'n Beleg für ihre Autoversicherung:",
           "ru": "Это чек на оплату страховки автомобиля."
+        },
+        {
+          "de": "Jeder gebuchte Beleg erhält eine eindeutige Belegnummer, die vom Nummernkreis des Buchungskreises vergeben wird.",
+          "ru": "Каждому проведенному документу присваивается уникальный номер, который задается диапазоном номеров балансовой единицы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -313,6 +363,11 @@
         {
           "de": "Ich weiß, Süße, aber, äh, - die Parkplätze sind alle belegt.",
           "ru": "Я знаю, милая, но все те места были заняты."
+        },
+        {
+          "de": "Die Belegart klassifiziert Buchungsbelege und steuert, welche Kontoarten bebucht werden dürfen.",
+          "ru": "Вид документа классифицирует бухгалтерские документы и определяет, какие типы счетов могут быть проведены.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -331,6 +386,11 @@
         {
           "de": "Wir können Buchungen nur in einer geöffneten Buchungsperiode erfassen.",
           "ru": "Мы можем вводить проводки только в открытом периоде проводки."
+        },
+        {
+          "de": "Nach dem Periodenabschluss muss die aktuelle Buchungsperiode geschlossen werden, um weitere Buchungen zu verhindern.",
+          "ru": "После закрытия периода текущий период проведения должен быть закрыт во избежание дальнейших проводок.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -361,6 +421,11 @@
         {
           "de": "Hübsche Marker für das letzte und aktuelle Geschäftsjahr zeigen",
           "ru": "Показывать маркеры предыдущего и текущего финансового года"
+        },
+        {
+          "de": "Das Geschäftsjahr kann im SAP-System als Kalenderjahr oder als verschobenes Geschäftsjahr definiert werden.",
+          "ru": "Финансовый год может быть определен в системе SAP как календарный год или как смещенный финансовый год.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -391,6 +456,11 @@
         {
           "de": "Die Bilanz verbessert sich dadurch um 500 Millionen $.",
           "ru": "Бухгалтерский баланс, таким образом, улучшается на 500 миллионов долларов."
+        },
+        {
+          "de": "Die Bilanz und die Gewinn- und Verlustrechnung werden auf Basis des zugrunde liegenden Kontenplans erstellt.",
+          "ru": "Баланс и отчет о прибылях и убытках формируются на основе базового плана счетов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [
@@ -425,6 +495,11 @@
         {
           "de": "Nicht immer gibt es eine günstige Straßen- oder Busverbindungen. Der Betrieb soll Gewinn- und Verlustrechnungen in Betracht gezogen und die beste Lösung gefunden werden.",
           "ru": "Оформление происходит при наличии у иностранца заграничного паспорта, а если покупателем выступает компания, то необходимо собрать полный пакет документов."
+        },
+        {
+          "de": "Die Gewinn- und Verlustrechnung weist die Erträge und Aufwendungen einer Buchungsperiode aus.",
+          "ru": "Отчет о прибылях и убытках отражает доходы и расходы за период проведения.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -443,6 +518,11 @@
         {
           "de": "Der Steuerberater legte ein neues Sachkonto für Reisekosten an.",
           "ru": "Налоговый консультант создал новый счет главной книги для командировочных расходов."
+        },
+        {
+          "de": "Für jedes Sachkonto muss im Kontenplan ein Stammsatz angelegt werden, bevor darauf Buchungen vorgenommen werden können.",
+          "ru": "Для каждого счета главной книги в плане счетов должна быть создана основная запись, прежде чем по нему могут быть выполнены проводки.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -461,6 +541,11 @@
         {
           "de": "Im SAP-System ist die Kostenstellenrechnung ein Teil des CO-Moduls.",
           "ru": "В системе SAP учет затрат по МВЗ является частью модуля CO."
+        },
+        {
+          "de": "Die Kostenstellenrechnung ermöglicht eine detaillierte Analyse der im Unternehmen anfallenden Gemeinkosten.",
+          "ru": "Учет затрат по МВЗ позволяет проводить детальный анализ косвенных расходов, возникающих на предприятии.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -491,6 +576,11 @@
         {
           "de": "Von einem Tag auf den anderen verloren 350 hervorragende Mitarbeiter ihre Arbeit, weil sie als zu hohe Gemeinkosten bezeichnet wurden.",
           "ru": "Так что за один день все 350 наших замечательных сотрудников потеряли работу, потому что их окрестили накладными расходами."
+        },
+        {
+          "de": "Gemeinkosten werden im Controlling über Umlagen oder Verteilungen auf die empfangenden Objekte verrechnet.",
+          "ru": "Накладные расходы в контроллинге перерассчитываются на объекты-получатели посредством раскладки или распределения.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -521,6 +611,11 @@
         {
           "de": "In Hessen bekommen die Abgeordneten nur eine Aufwandspauschale von 850 Mark, rechnen jedoch ihre Einzelkosten zusätzlich ab.",
           "ru": "В Гессене депутаты получают только фиксированную надбавку в размере 850 марок, но они также выставляют счета за свои индивидуальные расходы."
+        },
+        {
+          "de": "Einzelkosten können einem Kostenträger direkt und ohne Umlageschlüssel zugewiesen werden.",
+          "ru": "Прямые затраты могут быть отнесены на носитель затрат непосредственно и без использования ключа раскладки.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -551,6 +646,11 @@
         {
           "de": "Was Davids Solarmodul-Deal angeht hat unser Fachmann Bedenken wegen der angegebenen Leistungswerte.",
           "ru": "По поводу солнечных панелей, предложенных Дэвидом, наши техники сомневаются из-за эффективности проекта."
+        },
+        {
+          "de": "Die Leistungsart beschreibt die von einer Kostenstelle erbrachte und intern verrechnete Aktivität.",
+          "ru": "Вид работ описывает вид деятельности, выполненный местом возникновения затрат и перераспределенный внутри компании.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -581,6 +681,11 @@
         {
           "de": "Horen Sie, Madame, der Tarif liegt bei 100 Euro die Nacht.",
           "ru": "Послушайте, нормальный тариф - 100 евро за ночь."
+        },
+        {
+          "de": "Der Tarif für eine Leistungsart bestimmt den Preis pro Leistungseinheit bei der internen Leistungsverrechnung.",
+          "ru": "Тариф для вида работ определяет цену за единицу работы при внутрипроизводственном перерасчете работ.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -611,6 +716,11 @@
         {
           "de": "Neben den Risikokosten fließen […] noch andere Kostenarten in den Kreditzins ein.",
           "ru": "Помимо затрат на риск, в процентную ставку по кредиту входят и другие виды затрат."
+        },
+        {
+          "de": "Die Kostenart klassifiziert den bewerteten Verbrauch von Produktionsfaktoren innerhalb eines Kostenrechnungskreises.",
+          "ru": "Вид затрат классифицирует оцененное потребление факторов производства в рамках контроллингового поля.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -641,6 +751,11 @@
         {
           "de": "Ich wusste gar nicht, dass er eine primäre Kanzlei hat.",
           "ru": "Не знала, что у него есть основная фирма."
+        },
+        {
+          "de": "Eine primäre Kostenart stellt die Verbindung zwischen dem externen Rechnungswesen und der Kostenrechnung her.",
+          "ru": "Первичный вид затрат устанавливает связь между внешним финансовым учетом и учетом затрат.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -671,6 +786,11 @@
         {
           "de": "Einmal das sekundäre Böse, das Menschen tun.",
           "ru": "Вторичное зло, его творят люди."
+        },
+        {
+          "de": "Eine sekundäre Kostenart dient ausschließlich der internen Kostenverrechnung innerhalb des Controllings.",
+          "ru": "Вторичный вид затрат служит исключительно для внутреннего перерасчета затрат в рамках контроллинга.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -697,6 +817,11 @@
         {
           "de": "Die Patientin umlagern. McRoberts-Position.",
           "ru": "Э... Положи её как МакРобертс."
+        },
+        {
+          "de": "Bei der Umlage werden die Kosten unter einer sekundären Kostenart gebündelt und verrechnet.",
+          "ru": "При раскладке затраты объединяются под вторичным видом затрат и перерассчитываются.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -727,6 +852,11 @@
         {
           "de": "Band 1. Anzahl und Verteilung der Bevölkerung).",
           "ru": "Том 1 - «Численность и размещение населения»."
+        },
+        {
+          "de": "Die Verteilung eignet sich für die Weiterleitung von primären Kostenarten auf andere Controlling-Objekte.",
+          "ru": "Распределение подходит для перенаправления первичных видов затрат на другие объекты контроллинга.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -757,6 +887,11 @@
         {
           "de": "Wir könnten also sagen: Eine neue Kennzahl erscheint. Lassen Sie uns Afrikas Schulden betrachten.",
           "ru": "Скажем, у нас появилось новое число - долг Африки, например."
+        },
+        {
+          "de": "Eine statistische Kennzahl dient als Bezugsgröße für Umlagen und Verteilungen im Controlling.",
+          "ru": "Статистический показатель служит базой распределения для раскладки и распределения затрат в контроллинге.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -775,6 +910,11 @@
         {
           "de": "Die Kosten auf dem Innenauftrag müssen am Periodenende abgerechnet werden.",
           "ru": "Затраты по внутреннему заказу должны быть рассчитаны в конце периода."
+        },
+        {
+          "de": "Innenaufträge werden zur Überwachung und Abrechnung von Kosten für zeitlich begrenzte Maßnahmen verwendet.",
+          "ru": "Внутренние заказы используются для контроля и расчета затрат на мероприятия, ограниченные во времени.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -805,6 +945,11 @@
         {
           "de": "Wenn ich herausgefunden habe, was du getan hast, und das werde ich herausfinden... wird es zur Abrechnung kommen.",
           "ru": "Когда я выясню что ты сделал, а я выясню, придет расплата."
+        },
+        {
+          "de": "Die Abrechnung von Innenaufträgen leitet die gesammelten Kosten an die definierten Empfängerobjekte weiter.",
+          "ru": "Расчет внутренних заказов перенаправляет собранные затраты на определенные объекты-получатели.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -835,6 +980,11 @@
         {
           "de": "Allerdings wird auch das jetzt verkündete Sanierungsprogramm die Ergebnisrechnung der Bank belasten.",
           "ru": "Однако объявленная сейчас программа реструктуризации также окажет негативное влияние на отчет о прибылях и убытках банка."
+        },
+        {
+          "de": "Die Ergebnisrechnung (CO-PA) unterstützt die Analyse des Markterfolgs nach Marktsegmenten oder Produktgruppen.",
+          "ru": "Учет результатов (CO-PA) поддерживает анализ рыночного успеха по сегментам рынка или группам продуктов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -853,6 +1003,11 @@
         {
           "de": "Wir werten die Erlöse im Profit-Center-Accounting aus.",
           "ru": "Мы анализируем выручку в учете по центрам прибыли."
+        },
+        {
+          "de": "Das Profit-Center-Accounting ermöglicht die Ermittlung des internen Betriebsergebnisses für eigenständige Unternehmensbereiche.",
+          "ru": "Учет по центрам прибыли позволяет определять внутренний производственный результат для независимых подразделений компании.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -883,6 +1038,11 @@
         {
           "de": "Als kurzfristige Maßnahme zur Bewältigung des Problems ausstehender Berichte sollten die Vertragsorgane die Konsolidierung überfälliger Berichte gestatten.",
           "ru": "В качестве краткосрочной меры, призванной решить проблему просроченных докладов, договорные органы должны сделать возможным объединение просроченных докладов."
+        },
+        {
+          "de": "Die Konsolidierung führt die Einzelabschlüsse der Buchungskreise zu einem Konzernabschluss zusammen.",
+          "ru": "Консолидация объединяет отдельные отчеты балансовых единиц в единую консолидированную отчетность концерна.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -913,6 +1073,11 @@
         {
           "de": "Typ = 1 bedeutet Umstellung auf lineare Abschreibung.",
           "ru": "Тип: если этот параметр имеет значение 1, выполняется переключение на прямую амортизацию."
+        },
+        {
+          "de": "Die planmäßige Abschreibung mindert den Buchwert einer Anlage über deren voraussichtliche Nutzungsdauer.",
+          "ru": "Плановая амортизация уменьшает балансовую стоимость основного средства в течение срока его полезного использования.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -931,6 +1096,11 @@
         {
           "de": "Der Anlagenspiegel ist ein Pflichtbestandteil des Jahresabschlusses.",
           "ru": "Ведомость движения основных средств является обязательной частью годовой отчетности."
+        },
+        {
+          "de": "Der Anlagenspiegel stellt die Entwicklung des Anlagevermögens von der Anschaffung bis zum Abgang dar.",
+          "ru": "Ведомость движения основных средств отражает изменение стоимости основных средств от их приобретения до выбытия.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -961,6 +1131,11 @@
         {
           "de": "Für den Kauf von Arbeitskraft und Produktionsmitteln werden die Kosten, die bei ihrer Anschaffung anfielen, die Anschaffungskosten in Rechnung gestellt.",
           "ru": "При покупке рабочей силы и средств производства принимается в расчет стоимость их создания."
+        },
+        {
+          "de": "Die Anschaffungskosten bilden die Grundlage für die Berechnung der jährlichen Abschreibungen.",
+          "ru": "Первоначальная стоимость формирует основу для расчета ежегодной амортизации.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -991,6 +1166,11 @@
         {
           "de": "Das sind Buchworte. Ich weiß nicht, was sie bedeuten.",
           "ru": "Я не понимаю половину из того, что ты говоришь."
+        },
+        {
+          "de": "Der aktuelle Buchwert einer Anlage ergibt sich aus den Anschaffungskosten abzüglich der kumulierten Abschreibungen.",
+          "ru": "Текущая балансовая стоимость основного средства определяется как первоначальная стоимость за вычетом накопленной амортизации.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1021,6 +1201,11 @@
         {
           "de": "Ich habe einfach nicht das Geld für die Anzahlung.",
           "ru": "У меня просто нет денег на первоначальный взнос."
+        },
+        {
+          "de": "Eine erhaltene Anzahlung muss im System auf einem Sonderhauptbuchkonto gebucht werden.",
+          "ru": "Полученный авансовый платеж должен быть проведен в системе на специальном счете главной книги.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1051,6 +1236,11 @@
         {
           "de": "Der Verwalter hat bei der Beendigung seines Amts einer Gläubigerversammlung Schlußrechnung zu legen.",
           "ru": "Администратор должен представить окончательный отчет собранию кредиторов после прекращения своих полномочий."
+        },
+        {
+          "de": "Bei der Erstellung der Schlussrechnung werden die bereits geleisteten Anzahlungen automatisch verrechnet.",
+          "ru": "При создании финального счета ранее произведенные авансовые платежи зачитываются автоматически.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1081,6 +1271,11 @@
         {
           "de": "Durch die offene Tür kann der Betrachter zudem in den Nebenraum schauen.",
           "ru": "Зритель также может заглянуть в соседнюю комнату через открытую дверь."
+        },
+        {
+          "de": "Offene Posten repräsentieren noch nicht ausgeglichene Forderungen oder Verbindlichkeiten im Nebenbuch.",
+          "ru": "Открытые позиции представляют собой еще не выровненную дебиторскую или кредиторскую задолженность во вспомогательной книге.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1111,6 +1306,11 @@
         {
           "de": "Am Vorabend des Jahrestags möchte die Partei alle Bürger mahnen: Bleiben Sie aufmerksam, und melden Sie jede staatsgefährdende Aktivität.",
           "ru": "Накануне дня памяти Партия напоминает всем гражданам:будьте бдительны и сообщайте нам о любой подозрительной активности."
+        },
+        {
+          "de": "Sie können Kunden mahnen, deren offene Posten das Fälligkeitsdatum überschritten haben.",
+          "ru": "Вы можете напоминать о платежах клиентам, чьи открытые позиции превысили дату оплаты.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -1152,6 +1352,11 @@
         {
           "de": "Ein »echtes Mahnverfahren« habe es bislang nicht gegeben, sagte der Ministeriumssprecher.",
           "ru": "«Настоящей процедуры напоминания» еще не было», заявил представитель министерства."
+        },
+        {
+          "de": "Das Mahnverfahren steuert die Intervalle und die Formulierung der Mahnschreiben an säumige Debitoren.",
+          "ru": "Процедура напоминания платежей определяет интервалы и формулировки писем-напоминаний просрочившим дебиторам.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1170,6 +1375,11 @@
         {
           "de": "Die Mahnungen werden nach dem Mahnlauf gedruckt und versendet.",
           "ru": "Напоминания распечатываются и отправляются после прогона программы напоминаний."
+        },
+        {
+          "de": "Der Mahnlauf selektiert fällige Posten und erstellt die entsprechenden Mahnungen automatisch.",
+          "ru": "Прогон программы напоминаний выбирает просроченные позиции и автоматически создает соответствующие напоминания.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1188,6 +1398,11 @@
         {
           "de": "Der Abteilungsleiter muss die Zahlungsliste nach dem Zahllauf freigeben.",
           "ru": "Руководитель отдела должен утвердить платежный реестр после прогона программы платежей."
+        },
+        {
+          "de": "Der automatische Zahllauf reguliert fällige Verbindlichkeiten und generiert die Zahlungsmedien für die Bank.",
+          "ru": "Автоматический прогон программы платежей регулирует просроченные обязательства и генерирует платежные средства для банка.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1218,6 +1433,11 @@
         {
           "de": "Geben Sie mir Ihre Bankverbindung.",
           "ru": "Давай счёт в банке."
+        },
+        {
+          "de": "Die Bankverbindung des Lieferanten muss im Geschäftspartnerstammsatz korrekt hinterlegt sein.",
+          "ru": "Банковские реквизиты поставщика должны быть корректно указаны в основной записи делового партнера.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1248,6 +1468,11 @@
         {
           "de": "Die Gutschrift wird nach etwa einem bis zwei Fakturierzyklen auf Ihrem Kontoauszug erscheinen.",
           "ru": "Вы получите выписку, подтверждающую зачисление средств на ваш счет, по прошествии 1-2 циклов выставления счетов."
+        },
+        {
+          "de": "Der elektronische Kontoauszug wird eingelesen, um Banktransaktionen automatisch mit den Hauptbuchkonten abzugleichen.",
+          "ru": "Электронная выписка по счету считывается для автоматической сверки банковских операций со счетами главной книги.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1266,6 +1491,11 @@
         {
           "de": "Wir buchen den Geldeingang zunächst auf ein Übergangskonto.",
           "ru": "Мы временно проводим поступление денежных средств на транзитный счет."
+        },
+        {
+          "de": "Zahlungen im Transit werden zunächst auf einem Übergangskonto gebucht, bis die Bankbestätigung vorliegt.",
+          "ru": "Платежи в пути сначала проводятся на транзитном счете до получения подтверждения от банка.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1284,6 +1514,11 @@
         {
           "de": "Die Abstimmvereinbarung regelt die Details der Intercompany-Abstimmung.",
           "ru": "Соглашение о выравнивании регулирует детали сверки межфилиальных расчетов."
+        },
+        {
+          "de": "Die Abstimmvereinbarung regelt den periodischen Abgleich von Intercompany-Salden.",
+          "ru": "Соглашение о выравнивании регулирует периодическую сверку межфилиальных сальдо.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1302,6 +1537,11 @@
         {
           "de": "Direkte Buchungen auf ein Abstimmkonto sind im SAP-System gesperrt.",
           "ru": "Прямые проводки на контрольный счет заблокированы в системе SAP."
+        },
+        {
+          "de": "Das Abstimmkonto im Hauptbuch kann nicht direkt bebucht werden, sondern wird über das Nebenbuch fortgeschrieben.",
+          "ru": "Консолидированный контрольный счет в главной книге не может быть проведен напрямую, а обновляется через вспомогательную книгу.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1320,6 +1560,11 @@
         {
           "de": "Wir nutzen einen einheitlichen Kontenplan für alle Gesellschaften.",
           "ru": "Мы используем единый план счетов для всех юридических лиц."
+        },
+        {
+          "de": "Der Kontenplan enthält die Definitionen aller Sachkonten, die in einem oder mehreren Buchungskreisen verwendet werden.",
+          "ru": "План счетов содержит определения всех счетов главной книги, используемых в одной или нескольких балансовых единицах.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1338,6 +1583,11 @@
         {
           "de": "Die Saldovorträge zum 1. Januar 1993 sollen durch die noch laufende Untersuchung der Jahre 1989 bis 1992 so weit wie möglich aufgeklärt werden.",
           "ru": "Перенесенный баланс по состоянию на 1 января 1993 года должен быть выяснен, насколько это возможно, посредством продолжающегося расследования за 1989-1992 годы."
+        },
+        {
+          "de": "Der Saldovortrag überträgt die Abschlussbestände der Sachkonten in das neue Geschäftsjahr.",
+          "ru": "Перенос сальдо переносит конечные остатки по счетам главной книги на новый финансовый год.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1368,6 +1618,11 @@
         {
           "de": "Vermögensteuer, Verbrauchsteuer, Einfuhrzölle und Umsatzsteuer - die allesamt direkt oder indirekt von Unternehmen bezahlt werden - können in erweitertem Maß auf Unternehmensgewinne und somit den Aktienmarkt wirken.",
           "ru": "Налоги на доходы с недвижимого имущества, акцизные налоги, налоги на импорт и налоги с оборота, которые прямо или косвенно платят корпорации, могут иметь сильное воздействие на корпоративные прибыли, а, следовательно, и на фондовый рынок."
+        },
+        {
+          "de": "Die Umsatzsteuer wird auf Basis des im Beleg angegebenen Steuerkennzeichens berechnet.",
+          "ru": "НДС рассчитывается на основе налогового кода, указанного в документе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1398,6 +1653,11 @@
         {
           "de": "Ferner war er Mitglied und Vorsteher des Gemeinderates, Landtagsmitglied und wurde zum Ehrenbürger von Greiz ernannt.",
           "ru": "Также он был членом и председателем городского совета, членом местного парламента и получил звание почётного гражданина Грайца."
+        },
+        {
+          "de": "Gezahlte Vorsteuer kann im Rahmen der Umsatzsteuer-Voranmeldung vom Finanzamt zurückgefordert werden.",
+          "ru": "Выплаченный входящий НДС может быть истребован к возврату из налогового органа в рамках предварительной декларации по НДС.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1416,6 +1676,11 @@
         {
           "de": "Die Zahllast berechnet sich aus Umsatzsteuer minus Vorsteuer.",
           "ru": "Сумма налога к уплате рассчитывается как исходящий НДС минус входящий НДС."
+        },
+        {
+          "de": "Die Zahllast ergibt sich aus der Differenz zwischen der eingenommenen Umsatzsteuer und der gezahlten Vorsteuer.",
+          "ru": "Сумма налога к уплате определяется как разница между полученным НДС и выплаченным входящим НДС.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1446,6 +1711,11 @@
         {
           "de": "Bitte stornieren Sie meine Bestellung und schicken Sie mir darüber eine Bestätigung.",
           "ru": "Пожалуйста, отмените мой заказ и пришлите подтверждение, что это было сделано."
+        },
+        {
+          "de": "Um einen fehlerhaften Beleg zu korrigieren, müssen Sie ihn stornieren und neu erfassen.",
+          "ru": "Чтобы исправить ошибочный документ, необходимо его сторнировать и ввести заново.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -1487,6 +1757,11 @@
         {
           "de": "Dabei lässt eine frühzeitige Stornierung den Zahlungsanspruch des jeweiligen Leistungsträgers regelmäßig entfallen, während bei unterlassenen Stornierungen üblicherweise eine sogenannte no show Gebühr bis zur Höhe des Gesamtpreises der gebuchten Übernachtung vom Leistungsträger erhoben werden kann.",
           "ru": "При этом раннее сторнирование в большинстве случаев не несет требования платежа соответствующего производственного носителя, во то время, как при упущенных сторнированиях, как правило, требуют оплаты так называемой пошлины no show вплоть до высоты общей цены забронированного ночлега."
+        },
+        {
+          "de": "Die Stornierung erzeugt einen Gegenbeleg, der die ursprünglichen Buchungswerte neutralisiert.",
+          "ru": "Сторнирование создает сторнирующий документ, который нейтрализует исходные значения проводки.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1517,6 +1792,11 @@
         {
           "de": "Hier reicht als Nachweis für alle Beträge ausnahmsweise der Buchungsbeleg.",
           "ru": "В этом случае квитанции о бронировании достаточно для подтверждения всех сумм."
+        },
+        {
+          "de": "Der Buchungsbeleg dient als Nachweis für eine finanzielle Transaktion im System.",
+          "ru": "Бухгалтерский документ служит подтверждением финансовой операции в системе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1535,6 +1815,11 @@
         {
           "de": "Das Sachkontenbuch liefert den Nachweis über alle Finanztransaktionen.",
           "ru": "Регистр счетов Главной книги служит подтверждением всех финансовых операций."
+        },
+        {
+          "de": "Das Sachkontenbuch listet alle Buchungen auf Sachkonten detailliert auf.",
+          "ru": "Регистр счетов главной книги подробно перечисляет все проводки по счетам главной книги.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1553,6 +1838,11 @@
         {
           "de": "Die Regeln für die Belegaufteilung müssen im Customizing genau definiert sein.",
           "ru": "Правила разделения документа должны быть точно определены в настройках."
+        },
+        {
+          "de": "Die Belegaufteilung sorgt für eine ausgewogene Bilanzierung auf Segment- oder Profit-Center-Ebene.",
+          "ru": "Разделение документа обеспечивает сбалансированное составление баланса на уровне сегмента или центра прибыли.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1583,6 +1873,11 @@
         {
           "de": "Oder wir werden im fraglichen Segment aus dem Markt gedrängt.",
           "ru": "Иначе нас вытеснят с рынка в спорном сегменте."
+        },
+        {
+          "de": "Das Segment ist eine organisatorische Einheit, die für die Finanzberichterstattung nach IFRS genutzt wird.",
+          "ru": "Сегмент является организационной единицей, используемой для финансовой отчетности в соответствии с МСФО.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1613,6 +1908,11 @@
         {
           "de": "Es dient vorrangig der Unterbringung von Funktionsbereichen, die für den reibungslosen Parlamentsbetrieb die Nähe zum Reichstagsgebäude erfordern.",
           "ru": "Оно предназначено для размещения функциональных подразделений германского парламента, которым для поддержания эффективности деятельности парламента необходимо находиться в непосредственной близости от Рейхстага."
+        },
+        {
+          "de": "Der Funktionsbereich ermöglicht eine Darstellung der Gewinn- und Verlustrechnung nach dem Umsatzkostenverfahren.",
+          "ru": "Функциональная сфера позволяет представить отчет о прибылях и убытках по методу затрат на продажу.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1631,6 +1931,11 @@
         {
           "de": "Alle lokalen Abschlüsse werden in die Konzernwährung umgerechnet.",
           "ru": "Все локальные отчеты переводятся в концерновую валюту."
+        },
+        {
+          "de": "Die Konzernwährung ist die Währung, in der der konsolidierte Abschluss des Gesamtkonzerns erstellt wird.",
+          "ru": "Концерновая валюта — это валюта, в которой составляется консолидированная отчетность всего концерна.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1649,6 +1954,11 @@
         {
           "de": "Der Buchungskreis führt seine Bücher in der Kreiswährung Euro.",
           "ru": "Балансовая единица ведет свои книги в местной валюте евро."
+        },
+        {
+          "de": "Die Kreiswährung wird für die lokale Rechnungslegung innerhalb eines bestimmten Buchungskreises verwendet.",
+          "ru": "Местная валюта используется для локального бухгалтерского учета в рамках конкретной балансовой единицы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1679,6 +1989,11 @@
         {
           "de": "Innerhalb weniger Tage mussten 6 Milliarden US-Dollar in Fremdwährung aufgrund eines Versuchs zur Stärkung der Lira verloren gegeben werden.",
           "ru": "За нескольких дней на защиту турецкой лиры было истрачено 6 миллиардов долларов валютных резервов."
+        },
+        {
+          "de": "Buchungen in einer Fremdwährung werden vom System automatisch in die Hauswährung umgerechnet.",
+          "ru": "Проводки в иностранной валюте автоматически пересчитываются системой в национальную валюту.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1697,6 +2012,11 @@
         {
           "de": "Bei der Fremdwährungsbewertung werden offene Posten zum aktuellen Stichtagskurs bewertet.",
           "ru": "При оценке в иностранной валюте открытые позиции оцениваются по текущему курсу на отчетную дату."
+        },
+        {
+          "de": "Die Fremdwährungsbewertung führt am Periodenende eine Neubewertung der offenen Posten in Fremdwährung durch.",
+          "ru": "Оценка в иностранной валюте в конце периода выполняет переоценку открытых позиций в иностранной валюте.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1715,6 +2035,11 @@
         {
           "de": "Das Kursdifferenzkonto muss im Customizing hinterlegt sein.",
           "ru": "Счет курсовых разниц должен быть прописан в настройках."
+        },
+        {
+          "de": "Realisierte und nicht realisierte Kursgewinne oder -verluste werden auf dem Kursdifferenzkonto erfasst.",
+          "ru": "Реализованные и нереализованные курсовые доходы или убытки регистрируются на счете курсовых разниц.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1733,6 +2058,11 @@
         {
           "de": "Die Konsolidierung eliminiert die Umsätze aus dem Intercompany-Geschäft.",
           "ru": "Консолидация исключает выручку от межфилиальных сделок."
+        },
+        {
+          "de": "Das Intercompany-Geschäft erfordert eine automatische Abstimmung der Forderungen und Verbindlichkeiten zwischen verbundenen Unternehmen.",
+          "ru": "Межкомпанейские сделки требуют автоматической сверки дебиторской и кредиторской задолженности между связанными компаниями.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1763,6 +2093,11 @@
         {
           "de": "Beispielsweise setzen multinationale Konzerne Methoden wie Verrechnungspreise ein (Verrechnung von Waren, Dienstleistungen und Ressourcen, die zwischen den Filialen oder Bereichen eines Unternehmens transferiert werden), um die anfallenden Steuern für ihre Umsätze aus internationalen Geschäften zu verringern.",
           "ru": "Например, многонациональные корпорации используют такие методы, как трансфертное ценообразование (бухгалтерский учет товаров, услуг и ресурсов, передаваемых между филиалами одной компании или между ее дочерними компаниями), которое направлено на минимизацию налоговых обязательств на прибыли от международных операций."
+        },
+        {
+          "de": "Die Verrechnung von Leistungen erfolgt auf Basis des im System hinterlegten Tarifs.",
+          "ru": "Перерасчет работ производится на основе тарифа, сохраненного в системе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1781,6 +2116,11 @@
         {
           "de": "Die Kostenstellen-Gruppe vereinfacht das Berichtswesen im Controlling.",
           "ru": "Группа МВЗ упрощает отчетность в контроллинге."
+        },
+        {
+          "de": "Eine Kostenstellen-Gruppe fasst mehrere Kostenstellen für Reporting-Zwecke zusammen.",
+          "ru": "Группа мест возникновения затрат объединяет несколько МВЗ для целей отчетности.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1799,6 +2139,11 @@
         {
           "de": "Wir können Berichte für eine gesamte Profit-Center-Gruppe erstellen.",
           "ru": "Мы можем формировать отчеты по всей группе центров прибыли."
+        },
+        {
+          "de": "Die Profit-Center-Gruppe dient der Strukturierung der Profit-Center in einer hierarchischen Form.",
+          "ru": "Группа центров прибыли служит для структурирования центров прибыли в иерархическом виде.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1817,6 +2162,11 @@
         {
           "de": "Jede neu angelegte Kostenstelle muss der Standardhierarchie zugeordnet werden.",
           "ru": "Каждое вновь созданное МВЗ должно быть отнесено к стандартной иерархии."
+        },
+        {
+          "de": "Jeder Kostenrechnungskreis muss über eine Standardhierarchie zur Strukturierung der Kostenstellen verfügen.",
+          "ru": "Каждое контроллинговое поле должно иметь стандартную иерархию для структурирования мест возникновения затрат.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1835,6 +2185,11 @@
         {
           "de": "Die Plankalkulation muss vor Beginn des neuen Geschäftsjahres freigegeben werden.",
           "ru": "Плановая калькуляция должна быть утверждена до начала нового финансового года."
+        },
+        {
+          "de": "Die Plankalkulation ermittelt die Standardherstellkosten für ein Material vor Beginn des Geschäftsjahres.",
+          "ru": "Плановая калькуляция определяет стандартную себестоимость производства материала до начала финансового года.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1853,6 +2208,11 @@
         {
           "de": "Das Material-Ledger nutzt die Istkalkulation zur Bestandsbewertung.",
           "ru": "Регистр материалов использует фактическую калькуляцию для оценки запасов."
+        },
+        {
+          "de": "Die Istkalkulation ermittelt die tatsächlichen Herstellkosten eines Materials unter Berücksichtigung aller Abweichungen.",
+          "ru": "Фактическая калькуляция определяет фактическую производственную себестоимость материала с учетом всех отклонений.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1871,6 +2231,11 @@
         {
           "de": "Auch eine automatische Tarifermittlung sei möglich, der Reiseweg wird elektronisch erfaßt, berechnet und am Ende vom gespeicherten Kartenbetrag abgezogen.",
           "ru": "Также возможно автоматическое определение тарифа; маршрут записывается в электронном виде, рассчитывается и затем списывается с суммы, сохраненной на карте."
+        },
+        {
+          "de": "Die iterative Tarifermittlung berechnet die Tarife für Leistungsarten auf Basis des Budgets und der Planleistung.",
+          "ru": "Итеративный расчет тарифов вычисляет тарифы для видов работ на основе бюджета и запланированного объема работ.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1901,6 +2266,11 @@
         {
           "de": "In vielen Geschäftsberichten vermisse man eine exakte Abweichungsanalyse der erreichten Ist‑Zustände von den erwarteten Soll‑Werten.",
           "ru": "Во многих бизнес-отчетах отсутствует точный анализ отклонений фактических достигнутых состояний от ожидаемых целевых значений."
+        },
+        {
+          "de": "Die Abweichungsanalyse im Controlling vergleicht die Sollkosten mit den tatsächlichen Istkosten.",
+          "ru": "Анализ отклонений в контроллинге сравнивает нормативные затраты с фактическими затратами.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1931,6 +2301,11 @@
         {
           "de": "Das Unternehmen sei 1946 vom inzwischen verstorbenen Hans‑Georg Plaut gegründet worden, der richtungweisende Methoden zur Kosten‑ und Deckungsbeitragsrechnung entwickelt habe, hieß es.",
           "ru": "Сообщалось, что компания была основана в 1946 году покойным Хансом-Георгом Плаутом, который разработал новаторские методы учета затрат и маржинальной прибыли."
+        },
+        {
+          "de": "Die Deckungsbeitragsrechnung liefert wichtige Daten für die Vertriebssteuerung und Produktkalkulation.",
+          "ru": "Учет сумм покрытия предоставляет важные данные для управления сбытом и калькуляции себестоимости продукции.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1949,6 +2324,11 @@
         {
           "de": "Der Buchungsschlüssel 40 steht für eine Soll-Buchung auf einem Sachkonto.",
           "ru": "Ключ проводки 40 означает дебетовую проводку по счету Главной книги."
+        },
+        {
+          "de": "Der Buchungsschlüssel bestimmt die Kontoart und die Buchungsrichtung (Soll oder Haben) einer Belegzeile.",
+          "ru": "Ключ проводки определяет тип счета и направление проводки (дебет или кредит) для строки документа.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1979,6 +2359,11 @@
         {
           "de": "Soll eine schöne Stadt sein, so viel zu sehen.",
           "ru": "Говорят, что это красивый город, там есть на что посмотреть."
+        },
+        {
+          "de": "Eine Buchung im Soll erhöht den Bestand auf einem Aktivkonto oder den Aufwand auf einem Aufwandskonto.",
+          "ru": "Проводка по дебету увеличивает баланс на активном счете или расходы на счете расходов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2009,6 +2394,11 @@
         {
           "de": "Haben genug Strom für 'nen Systemcheck, aber wir brauchen mehr Batterien.",
           "ru": "У нас хватит мощности, чтобы включить систему, но нужны еще элементы."
+        },
+        {
+          "de": "Eine Buchung im Haben mindert den Bestand auf einem Aktivkonto oder erhöht das Guthaben auf einem Passivkonto.",
+          "ru": "Проводка по кредиту уменьшает баланс на активном счете или увеличивает остаток на пассивном счете.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2039,6 +2429,11 @@
         {
           "de": "Bankauszug enthält keine Angabe zum Saldo.",
           "ru": "Выписка не содержит остатка."
+        },
+        {
+          "de": "Der Saldo eines Kontos ergibt sich aus der Differenz zwischen der Soll- und der Habenseite.",
+          "ru": "Сальдо счета определяется как разница между дебетовой и кредитовой сторонами.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2069,6 +2464,11 @@
         {
           "de": "Die Abstimmungsarbeiten am Silberpfeil für den Einsatz jedoch nahm bereits Testfahrer Alexander Wurz in der vergangenen Woche in Silverstone vor.",
           "ru": "Однако тест-пилот Александр Вурц уже провел работу по настройке Silver Arrow для использования в Сильверстоуне на прошлой неделе."
+        },
+        {
+          "de": "Durch automatisierte Prozesse lässt sich der Aufwand für die manuelle Abstimmungsarbeit erheblich reduzieren.",
+          "ru": "Благодаря автоматизации процессов можно значительно сократить затраты на ручную работу по сверке.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2099,6 +2499,11 @@
         {
           "de": "Bitte bringen Sie Ihre Abschlussarbeiten nach hinten.",
           "ru": "Сложитё работы в заднёй части класса."
+        },
+        {
+          "de": "Zu den Abschlussarbeiten gehören das Buchen von Rückstellungen und die Durchführung des Saldovortrags.",
+          "ru": "К операциям закрытия периода относятся проведение резервов и выполнение переноса сальдо.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2121,6 +2526,11 @@
         {
           "de": "Leider hat der Monatsabschluß in der aktuellen Version einen Bug: er läßt das Kontofenster von der WPS verschwinden, so daß man es schließen muß.",
           "ru": "К сожалению, в текущей версии закрытия месяца есть ошибка: из-за нее окно аккаунта исчезает из WPS, поэтому приходится его закрывать."
+        },
+        {
+          "de": "Der Monatsabschluss dient der Ermittlung des Periodenergebnisses und der Vorbereitung externer Berichte.",
+          "ru": "Закрытие месяца служит для определения финансового результата за период и подготовки внешней отчетности.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2151,6 +2561,11 @@
         {
           "de": "2006 fiel der Aktienkurs auf ein Rekordtief; Zum Jahresabschluss 2006 wies das Unternehmen einen Verlust von mehr als 8,2 Millionen Euro aus.",
           "ru": "В 2006 году цена акции упала до рекордно низкого уровня: финансовый отсчёт за февраль 2006 год сообщил об убытке в размере 8.2 млн евро."
+        },
+        {
+          "de": "Der Jahresabschluss erfordert eine physische Inventur und den formellen Abschluss aller Hilfsbücher.",
+          "ru": "Закрытие года требует проведения физической инвентаризации и формального закрытия всех вспомогательных книг.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2181,6 +2596,11 @@
         {
           "de": "Was soll das heißen? Sie hat ein Kreditlimit von 15.000 Dollar.",
           "ru": "Что ты хочешь сказать Там был кредит примерно на 1 5 тысяч."
+        },
+        {
+          "de": "Das Kreditlimit eines Kunden wird bei der Auftragserfassung automatisch überprüft.",
+          "ru": "Кредитный лимит клиента проверяется автоматически при вводе заказа.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2203,6 +2623,11 @@
         {
           "de": "Der jüngste Investitionsboom erzeugte eine Explosion an Spekulationskrediten in den Jahren 2003 und 2004, da das Bankensystem noch staatlich war und auf politischen Druck reagierte - bis die Regierung selbst im April 2004 Kreditkontrollen einführte, um eine rasante Zunahme Not leidender Kredite zu verhindern.",
           "ru": "Недавний бум капиталовложения произвел взрыв спекулятивного предоставления займов в 2003 и 2004 годах, потому что банковская система все еще принадлежала государству и реагировала на политическое давление - пока само правительство не ввело кредитный контроль в апреле 2004 года, чтобы предотвратить резкое увеличение объема неработающих ссуд."
+        },
+        {
+          "de": "Die Kreditkontrolle verhindert die Auslieferung von Waren an Kunden mit überzogenem Kreditlimit.",
+          "ru": "Кредитный контроль предотвращает отгрузку товаров клиентам с превышенным кредитным лимитом.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2233,6 +2658,11 @@
         {
           "de": "Der Steuererklärung müssten dazu die Handwerkerrechnung und ein Zahlungsbeleg beigefügt werden.",
           "ru": "К налоговой декларации необходимо приложить счет торговца и квитанцию ​​об оплате."
+        },
+        {
+          "de": "Der Zahlungsbeleg wird nach erfolgreichem Geldeingang im System erzeugt und gleicht die offene Forderung aus.",
+          "ru": "Платежный документ создается в системе после успешного поступления денежных средств и выравнивает открытую дебиторскую задолженность.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2263,6 +2693,11 @@
         {
           "de": "Sofern in diesem Übereinkommen nichts anderes vorgesehen ist, berührt eine Abtretung ohne vorherige Zustimmung des Schuldners nicht dessen Rechte und Pflichten, einschließlich der im Ursprungsvertrag enthaltenen Zahlungsbedingungen.",
           "ru": "Если в настоящей Конвенции не предусмотрено иное, уступка, совершенная без согласия должника, не затрагивает прав и обязательств должника, включая условия платежа, содержащиеся в первоначальном договоре."
+        },
+        {
+          "de": "Die Zahlungsbedingung legt fest, bis wann eine Rechnung fällig ist und ob Skonto gewährt wird.",
+          "ru": "Условие платежа определяет срок оплаты счета и предоставление скидки за быструю оплату.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2293,6 +2728,11 @@
         {
           "de": "Wir haben gehört, Ihr Neffe Dimitri Skontos arbeitet hier.",
           "ru": "Мы слышали, что ваш племянник, Димитрий Сконтос, работает здесь."
+        },
+        {
+          "de": "Zahlt der Kunde innerhalb der Skontofrist, kann er einen definierten Prozentsatz Skonto abziehen.",
+          "ru": "Если клиент оплачивает счет в течение периода скидки, он может вычесть определенный процент скидки за быструю оплату.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2315,6 +2755,11 @@
         {
           "de": "Nach Ablauf von 30 Kalendertagen ab dem Zugang der Rechnung tritt Verzug ein und der Kunde schuldet Verzugszinsen auf die Forderungen von Münch in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz.",
           "ru": "По истечении 30 календарных дней с момента поступления счёта начинается отсчёт задержки, и заказчик обязан уплачивать штраф в отношении задержанной суммы в размере 5% пунктов сверх базовой процентной ставки."
+        },
+        {
+          "de": "Bei Überschreiten des Zahlungsziels können Verzugszinsen auf Basis des Zinsschlüssels berechnet werden.",
+          "ru": "При превышении срока оплаты могут быть начислены проценты за просрочку платежа на основе кода процентной ставки.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2345,6 +2790,11 @@
         {
           "de": "etw. [der Gewinn] wird durch Wertberichtigungen belastet",
           "ru": "что-л. [прибыль] обременена корректировками стоимости"
+        },
+        {
+          "de": "Die Wertberichtigung für zweifelhafte Forderungen erfolgt zum Bilanzstichtag im Hauptbuch.",
+          "ru": "Корректировка стоимости сомнительной дебиторской задолженности выполняется на отчетную дату баланса в главной книге.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2375,6 +2825,11 @@
         {
           "de": "Dieser Code Erlaubt Ihnen, Ihren Rückstellung Cursor Zu Irgendwelchen Von Den Zu ändern, die Wir Anbieten.",
           "ru": "Это Кодий Позволяет Вас Изменить Вашу Стрелку Невыполнения оБязательства К ЛюБому Из Одних, котор Мы Предлагаем."
+        },
+        {
+          "de": "Für drohende Verluste aus schwebenden Geschäften muss eine entsprechende Rückstellung gebildet werden.",
+          "ru": "Под возможные убытки по незавершенным сделкам должен быть сформирован соответствующий резерв.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2393,6 +2848,11 @@
         {
           "de": "Die Miete für Januar müssen wir im Dezember als Rechnungsabgrenzung buchen.",
           "ru": "Аренду за январь мы должны провести в декабре как расходы будущих периодов."
+        },
+        {
+          "de": "Die Rechnungsabgrenzung ordnet Aufwendungen und Erträge dem korrekten Geschäftsjahr zu.",
+          "ru": "Разграничение доходов и расходов относит расходы и доходы к соответствующему финансовому году.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2411,6 +2871,11 @@
         {
           "de": "Die Anzahlungsanforderung ist eine statistische Buchung ohne Erfolgswirkung.",
           "ru": "Запрос авансового платежа — это статистическая проводка, не влияющая на прибыль."
+        },
+        {
+          "de": "Eine Anzahlungsanforderung ist ein statistischer Beleg, der keine Sachkontenbuchung auslöst.",
+          "ru": "Запрос авансового платежа является статистическим документом, который не вызывает проводок по счетам главной книги.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2441,6 +2906,11 @@
         {
           "de": "Im nächsten Jahr verschob man den Beginn der Baseball-Saison, da er mit der Zeit der Steuererklärung zusammenfiel.",
           "ru": "А еще через год, они перепланировали расписание игр... чтобы оно совпадало с налоговым."
+        },
+        {
+          "de": "Die Umsatzsteuer-Voranmeldung dient dem Finanzamt als vorläufige Steuererklärung.",
+          "ru": "Предварительная декларация по НДС служит налоговому органу в качестве временной налоговой декларации.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [
@@ -2473,6 +2943,11 @@
         {
           "de": "Der Mann wird verdächtigt, als Geschäftsführer einer Exportfirma dem Finanzamt Bad Segeberg fingierte Umsatzsteuer-Voranmeldungen vorgelegt und dadurch einen zweistelligen Millionenbetrag erschlichen zu haben.",
           "ru": "Мужчина подозревается в том, что в качестве управляющего директора экспортной компании подал фиктивные налоговые декларации в налоговую инспекцию Бад-Зегеберга и тем самым обманул сумму, исчисляемую двузначными миллионами."
+        },
+        {
+          "de": "Das System erstellt die Umsatzsteuer-Voranmeldung automatisch auf Basis aller steuerrelevanten Buchungen.",
+          "ru": "Система автоматически формирует предварительную декларацию по НДС на основе всех налогооблагаемых проводок.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2491,6 +2966,11 @@
         {
           "de": "Verwenden Sie das Steuerkennzeichen V1 für inländische Vorsteuer.",
           "ru": "Используйте налоговый код V1 для расчета входящего НДС внутри страны."
+        },
+        {
+          "de": "Das Steuerkennzeichen ermittelt den Steuersatz und das zu buchende Steuerkonto im Hauptbuch.",
+          "ru": "Код налога определяет налоговую ставку и соответствующий налоговый счет для проводки в главной книге.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2521,6 +3001,11 @@
         {
           "de": "Doch im Vergleich zu anderen Anlageklassen ist der Markt für derartige Anleihen eher eng.",
           "ru": "Но, по сравнению с другими классами активов, рынок нефинансовых облигаций является относительно тонким."
+        },
+        {
+          "de": "Die Anlagenklasse bestimmt die Standardnutzungsdauer und den Abschreibungsschlüssel für eine Anlage.",
+          "ru": "Класс основных средств определяет стандартный срок полезного использования и код амортизации для основного средства.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2551,6 +3036,11 @@
         {
           "de": "Die Feuerverzinkung garantiert langjährige Nutzungsdauer und zugleich die Versicherung für lange Jahre.",
           "ru": "Оцинковка гарантирует многолетнюю эксплуатацию и способствует безопасности."
+        },
+        {
+          "de": "Die Nutzungsdauer einer Anlage kann im Anlagenstammsatz individuell angepasst werden.",
+          "ru": "Срок полезного использования основного средства может быть скорректирован индивидуально в его основной записи.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2569,6 +3059,11 @@
         {
           "de": "Der Abschreibungsbereich definiert die Nutzungsdauer der Anlage.",
           "ru": "Область амортизации определяет срок полезного использования основного средства."
+        },
+        {
+          "de": "Jede Anlage kann in verschiedenen Abschreibungsbereichen für Handels- und Steuerrecht bewertet werden.",
+          "ru": "Каждое основное средство может оцениваться в различных областях амортизации для коммерческого и налогового права.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2587,6 +3082,11 @@
         {
           "de": "Für Gebäude nutzen wir einen linearen Abschreibungsschlüssel.",
           "ru": "Для зданий мы используем код линейной амортизации."
+        },
+        {
+          "de": "Der Abschreibungsschlüssel steuert die mathematische Methode der Abschreibungsberechnung.",
+          "ru": "Код амортизации управляет математическим методом расчета амортизации.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []

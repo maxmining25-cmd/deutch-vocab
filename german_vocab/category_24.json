@@ -19,6 +19,11 @@
         {
           "de": "Zum Periodenabschluss müssen alle Transaktionen im Material-Ledger vollständig gebucht sein.",
           "ru": "К закрытию периода все операции в регистре материалов должны быть полностью проведены."
+        },
+        {
+          "de": "Das Material-Ledger ermöglicht die Führung von Materialbeständen in mehreren Währungen und Bewertungssichten.",
+          "ru": "Регистр материалов позволяет вести запасы материалов в нескольких валютах и ракурсах оценки.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -41,6 +46,11 @@
         {
           "de": "Im SAP-Materialstamm wird festgelegt, welche Methode für die Materialbewertung angewendet wird.",
           "ru": "В основной записи материала SAP определяется, какой метод применяется для оценки материала."
+        },
+        {
+          "de": "Die Materialbewertung legt fest, wie der Bestandswert eines Materials im System bilanziert wird.",
+          "ru": "Оценка материала определяет, как балансовая стоимость запаса материала отражается в системе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -71,6 +81,11 @@
         {
           "de": "(Auf die letzten fünf Jahre bezogen ergibt sich ein Durchschnittspreis von 22 Dollar pro Barrel.)",
           "ru": "(В течение последних 5 лет средняя цена составляла $22 за баррель)."
+        },
+        {
+          "de": "Der gleitende Durchschnittspreis ändert sich automatisch nach jedem Wareneingang oder Rechnungseingang.",
+          "ru": "Среднескользящая цена изменяется автоматически после каждого поступления материала или поступления счета.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -101,6 +116,11 @@
         {
           "de": "Das Material Isobent wird in Blättern mit Standardbreite 1,15m und länge 5,0m, eingewickelt in Rollen, hergestellt.",
           "ru": "Материал Изобент производится в виде листов стандартной ширины 1,15 m и длины 5,0 m, скрученных в рулон."
+        },
+        {
+          "de": "Beim Standardpreis werden alle Bestandszu- und -abgänge mit einem festen Preis bewertet.",
+          "ru": "При использовании стандартной цены все поступления и отпуски запасов оцениваются по фиксированной цене.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -131,6 +151,11 @@
         {
           "de": "Die Käufer waren von starken Erwartungen über zukünftige Preissteigerungen beseelt und das Risiko erschien ihnen gering.",
           "ru": "Покупатели находились под влиянием распространенных ожиданий относительно роста цен и предвидели некоторый риск."
+        },
+        {
+          "de": "Die Preissteuerung im Materialstamm bestimmt, ob das Material zum Standardpreis oder zum gleitenden Durchschnittspreis bewertet wird.",
+          "ru": "Управление ценой в основной записи материала определяет, оценивается ли материал по стандартной цене или по среднескользящей цене.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -161,6 +186,11 @@
         {
           "de": "Aber in Wirklichkeit ist es eine Bewertung für uns alle.",
           "ru": "Технически, да, но на деле это оценивание каждого из нас."
+        },
+        {
+          "de": "Eine Umbewertung von Materialbeständen kann manuell oder durch gesetzliche Vorgaben ausgelöst werden.",
+          "ru": "Переоценка запасов материалов может быть вызвана вручную или в соответствии с законодательными требованиями.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -191,6 +221,11 @@
         {
           "de": "Das ist meine Kalkulation!",
           "ru": "Почему? - Ускорение."
+        },
+        {
+          "de": "Die Ist-Kalkulation im Material-Ledger ermittelt die tatsächlichen Herstellkosten am Periodenende.",
+          "ru": "Фактическая калькуляция в регистре материалов определяет фактическую производственную себестоимость в конце периода.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -213,6 +248,11 @@
         {
           "de": "Der Materialbeleg dient als Nachweis für die ordnungsgemäße Einlagerung der Rohstoffe.",
           "ru": "Документ материала служит подтверждением надлежащего оприходования сырья на склад."
+        },
+        {
+          "de": "Ein Materialbeleg wird als Nachweis für jede physische Warenbewegung im Lager erzeugt.",
+          "ru": "Документ материала создается в качестве подтверждения каждого физического движения товаров на складе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -243,6 +283,11 @@
         {
           "de": "Du möchtest ihn in einen widerlichen Materialisten verwandeln,... obwohl er in der spirituellen Welt lebt.",
           "ru": "Ты хочешь погрузить его в грубый материализм, в то время, как он живет в духовном мире."
+        },
+        {
+          "de": "Die Materialart steuert die Nummernvergabe und die zulässigen Fachbereichssichten im Materialstamm.",
+          "ru": "Вид материала управляет присвоением номеров и допустимыми ракурсами отделов в основной записи материала.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -273,6 +318,11 @@
         {
           "de": "Die »Dürerbund‑Werkbund‑Genossenschaft« umfaßt bis jetzt 160 der besten Fachgeschäfte unserer Warengruppen.",
           "ru": "В настоящее время в объединение «Dürerbund-Werkbund-Genossenschaft» входят 160 лучших специализированных магазинов наших товарных групп."
+        },
+        {
+          "de": "Die Warengruppe fasst Materialien mit gleichen Eigenschaften zur Analyse und Strukturierung zusammen.",
+          "ru": "Товарная группа объединяет материалы с одинаковыми свойствами для анализа и структурирования.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -295,6 +345,11 @@
         {
           "de": "Im Standard-SAP ist das Werk als empfohlene Bewertungsebene voreingestellt.",
           "ru": "В стандартной системе SAP завод предварительно настроен как рекомендуемый уровень оценки."
+        },
+        {
+          "de": "Die Bewertungsebene legt fest, ob Materialien auf Werksebene oder Buchungskreisebene bewertet werden.",
+          "ru": "Уровень оценки определяет, оцениваются ли материалы на уровне завода или на уровне балансовой единицы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -317,6 +372,11 @@
         {
           "de": "Die Bestände werden auf der Ebene des Bewertungskreises wertmäßig geführt.",
           "ru": "Запасы ведутся в стоимостном выражении на уровне области оценки."
+        },
+        {
+          "de": "In der Regel entspricht der Bewertungskreis dem jeweiligen Werk im SAP-System.",
+          "ru": "Как правило, область оценки соответствует соответствующему заводу в системе SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -339,6 +399,11 @@
         {
           "de": "Wenn Sie eine falsche Bewertungsklasse wählen, werden die Bestandsveränderungen auf das verkehrte Sachkonto gebucht.",
           "ru": "Если вы выберете неправильный класс оценки, изменения запасов будут проведены на неверный счет главной книги."
+        },
+        {
+          "de": "Die Bewertungsklasse steuert in Kombination mit der Bewegungsart die automatische Kontenfindung.",
+          "ru": "Класс оценки в сочетании с видом движения управляет автоматическим определением счетов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -369,6 +434,11 @@
         {
           "de": "Der \"Preis\" einer europäischen Mitgliedschaft hat innerhalb der Bewerberländer die politische Konsensfindung unterstützt und das wäre auch bei der Türkei der Fall.",
           "ru": "«Награда» в виде членства в Евросоюзе помогала достижению политического согласия в странах - кандидатах, и то же самое произойдет и с Турцией."
+        },
+        {
+          "de": "Die Kontenfindung verknüpft Materialbewegungen automatisch mit den entsprechenden Sachkonten der Finanzbuchhaltung.",
+          "ru": "Определение счетов автоматически связывает движения материалов с соответствующими счетами главной книги в финансовой бухгалтерии.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -399,6 +469,11 @@
         {
           "de": "Zu viele falsch geschriebene Wörter. Automatische Rechtschreibprüfung deaktiviert.",
           "ru": "Слишком много ошибочных слов. Проверка орфографии на лету выключена."
+        },
+        {
+          "de": "Die automatische Kontenfindung sorgt dafür, dass bei Warenbewegungen keine manuellen Sachkontenbuchungen erforderlich sind.",
+          "ru": "Автоматический выбор счетов гарантирует, что при движениях материалов ручные проводки по счетам главной книги не требуются.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -421,6 +496,11 @@
         {
           "de": "befindet sich in den westlichen Teil von Slovenija mit sehr gutem logistischen Lageort.",
           "ru": "расположен в Западной части Словении, с хорошим расположением относительно транспортных магистралей."
+        },
+        {
+          "de": "Ein Lagerort ist eine organisatorische Einheit, die eine physische Unterteilung eines Werks darstellt.",
+          "ru": "Склад является организационной единицей, представляющей собой физическое подразделение завода.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -451,6 +531,11 @@
         {
           "de": "Es ist kein guter Deal, aber dadurch bleibt das Werk geöffnet.",
           "ru": "Это не много, но сохранит завод открытым."
+        },
+        {
+          "de": "Das Werk ist eine zentrale Betriebsstätte innerhalb eines Buchungskreises, in der Materialien produziert oder gelagert werden.",
+          "ru": "Завод — это центральная производственная площадка в рамках балансовой единицы, где производятся или хранятся материалы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -481,6 +566,11 @@
         {
           "de": "Ich will unseren Bestand erweitern und ihm außerdem Gannicus anbieten.",
           "ru": "Я бы хотел пополнить наши запасы, и предложить также Ганника."
+        },
+        {
+          "de": "Der verfügbare Bestand eines Materials wird im Lagerort und auf Werksebene verwaltet.",
+          "ru": "Доступный запас материала управляется на складе и на уровне завода.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -511,6 +601,11 @@
         {
           "de": "Sie enthalten den Erzeugungswert aus der Futtermitteleinfuhr sowie Bestandsveränderungen bei der Nutzviehhaltung.",
           "ru": "Они содержат стоимость производства от импорта кормов, а также изменения в поголовье скота."
+        },
+        {
+          "de": "Bestandsveränderungen werden durch Wareneingänge, Warenausgänge oder Umlagerungen im System erfasst.",
+          "ru": "Изменения запасов регистрируются в системе посредством поступлений, отпусков или перемещений материалов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -533,6 +628,11 @@
         {
           "de": "Der Buchhalter korrigierte den Fehler durch eine manuelle Bestandsbuchung am Monatsende.",
           "ru": "Бухгалтер исправил ошибку с помощью ручной проводки запаса в конце месяца."
+        },
+        {
+          "de": "Die Bestandsbuchung schreibt die Mengen und Werte des Materials im Nebenbuch fort.",
+          "ru": "Проводка запасов обновляет количества и стоимость материала во вспомогательной книге.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -563,6 +663,11 @@
         {
           "de": "Wir haben früh zugemacht, wegen der Inventur.",
           "ru": "Мы закрылись пораньше на учет."
+        },
+        {
+          "de": "Die jährliche Inventur ist gesetzlich vorgeschrieben, um den tatsächlichen Lagerbestand abzugleichen.",
+          "ru": "Ежегодная инвентаризация требуется по закону для сверки фактических складских запасов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -593,6 +698,11 @@
         {
           "de": "Inventurdifferenz heißt der Fachbegriff, und der zeigt, wie viele Teile seit der letzten Bestandsaufnahme verschwunden sind.",
           "ru": "Разница в запасах — это технический термин, показывающий, сколько деталей исчезло с момента последней инвентаризации."
+        },
+        {
+          "de": "Gefundene Inventurdifferenzen müssen auf ein entsprechendes Differenzenkonto ausgebucht werden.",
+          "ru": "Обнаруженные инвентаризационные разницы должны быть списаны на соответствующий счет разниц.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -623,6 +733,11 @@
         {
           "de": "Unser Ladeneingang ist um die Ecke.",
           "ru": "Вход в магазин находится за углом."
+        },
+        {
+          "de": "Der Wareneingang wird mit Bezug auf eine Bestellung oder einen Fertigungsauftrag gebucht.",
+          "ru": "Поступление материала проводится со ссылкой на заказ на поставку или производственный заказ.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -649,6 +764,11 @@
         {
           "de": "Der Warenausgang stieg im Wert gegenüber dem Vorjahre um über 30 v. H.",
           "ru": "Стоимость исходящих товаров увеличилась более чем на 30% по сравнению с предыдущим годом. ЧАС"
+        },
+        {
+          "de": "Ein Warenausgang mindert den physischen Bestand und bucht den Materialverbrauch als Aufwand.",
+          "ru": "Отпуск материала уменьшает физический запас и списывает расход материала на расходы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -679,6 +799,11 @@
         {
           "de": "Eine recht kurze Belagerung, die ich nicht erwartete zu überleben.",
           "ru": "Очень короткую осаду, которую я не рассчитывала пережить."
+        },
+        {
+          "de": "Die Umlagerung verschiebt Materialien von einem Lagerort oder Werk in ein anderes.",
+          "ru": "Перемещение запасов перемещает материалы с одного склада или завода на другой.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -709,6 +834,11 @@
         {
           "de": "In der Taverne im zypriotischen Stil genießen Sie köstliche lokale und internationale Gerichte. Das Personal ist Ihnen gern bei der Planung und Organisation von Ausflügen oder bei der Umbuchung Ihres Fluges behilflich.",
           "ru": "Это семейный отель, разместившийся в 120 метрах от пляжа в центре наиболее оживленного района Ларнаки, где гостей ждёт прекрасный отдых и всевозможные развлечения."
+        },
+        {
+          "de": "Im Gegensatz zur Umlagerung ändert eine Umbuchung meist nur den Bestandsstatus des Materials.",
+          "ru": "В отличие от перемещения, перенос проводки обычно изменяет только статус запаса материала.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -731,6 +861,11 @@
         {
           "de": "Die Materialbuchung führte zu einer automatischen Aktualisierung des Finanzbuchhaltungsbelegs.",
           "ru": "Проводка по материалу привело к автоматическому обновлению документа финансовой бухгалтерии."
+        },
+        {
+          "de": "Jede Materialbuchung erzeugt mindestens einen Materialbeleg und einen Buchungsbeleg.",
+          "ru": "Каждая проводка материала создает как минимум один документ материала и один бухгалтерский документ.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -753,6 +888,11 @@
         {
           "de": "Fehler bei der WE/RE-Abstimmung können zu falschen Abgrenzungen in der Bilanz führen.",
           "ru": "Ошибки при выверке ПМ/ПС могут привести к неверным разграничениям в балансе."
+        },
+        {
+          "de": "Die periodische WE/RE-Abstimmung dient der Klärung von Mengen- und Preisabweichungen zwischen Wareneingang und Rechnungseingang.",
+          "ru": "Периодическая сверка ПМ/Счет служит для выяснения количественных и ценовых отклонений между поступлением материала и поступлением счета.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -775,6 +915,11 @@
         {
           "de": "Wir analysieren die offenen Posten auf dem WE/RE-Verrechnungskonto, um überfällige Rechnungen zu identifizieren.",
           "ru": "Мы анализируем открытые позиции на перерасчетном счете ПМ/ПС, чтобы выявить просроченные счета."
+        },
+        {
+          "de": "Das WE/RE-Verrechnungskonto wird beim Wareneingang im Soll und beim Rechnungseingang im Haben bebucht.",
+          "ru": "Счет перерасчета ПМ/Счет дебетуется при поступлении материала и кредитуется при поступлении счета.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -797,6 +942,11 @@
         {
           "de": "Ein Umlagerungsauftrag kann auch für Sonderbestände im SAP-System angelegt werden.",
           "ru": "Заказ на перемещение запаса может быть создан в системе SAP и для особых запасов."
+        },
+        {
+          "de": "Sonderbestände sind Materialien, die rechtlich oder physisch einer bestimmten Verwendung zugeordnet sind.",
+          "ru": "Особые запасы — это материалы, которые юридически или физически закреплены за определенным использованием.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -819,6 +969,11 @@
         {
           "de": "Die Verwaltung des Konsignationsbestands im SAP reduziert unsere eigenen Lagerhaltungskosten.",
           "ru": "Управление консигнационным запасом в SAP снижает наши собственные затраты на содержание склада."
+        },
+        {
+          "de": "Der Konsignationsbestand des Lieferanten verbleibt im Eigentum des Lieferanten, bis er entnommen wird.",
+          "ru": "Консигнационный запас поставщика остается в собственности поставщика до тех пор, пока он не будет изъят.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -841,6 +996,11 @@
         {
           "de": "Wir müssen den Kundenauftragsbestand reduzieren, indem wir die Lieferzeiten in der Montage verkürzen.",
           "ru": "Мы должны сократить портфель невыполненных заказов клиентов, уменьшив сроки поставки на сборочном производстве."
+        },
+        {
+          "de": "Der Kundenauftragsbestand ist fest für einen bestimmten Kundenauftrag reserviert und kann nicht anderweitig verwendet werden.",
+          "ru": "Запас для заказа клиента жестко зарезервирован под конкретный заказ клиента и не может быть использован для других целей.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -863,6 +1023,11 @@
         {
           "de": "Erst nach Freigabe des Projekts können Entnahmen aus dem Projektbestand vorgenommen werden.",
           "ru": "Списание из проектного запаса может быть выполнено только после деблокирования проекта."
+        },
+        {
+          "de": "Materialien im Projektbestand werden speziell für die Durchführung eines PSP-Elements beschafft.",
+          "ru": "Материалы в запасе проекта приобретаются специально для выполнения СПП-элемента.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -885,6 +1050,11 @@
         {
           "de": "Im SAP-System erfordert die Chargenverwaltung eine eindeutige Kennzeichnung jeder Produktionscharge.",
           "ru": "В системе SAP управление партиями требует однозначной маркировки каждой производственной партии."
+        },
+        {
+          "de": "Die Chargenverwaltung ermöglicht die Rückverfolgbarkeit von Materialgruppen mit identischen Eigenschaften.",
+          "ru": "Управление партиями позволяет отслеживать группы материалов с идентичными свойствами.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -915,6 +1085,11 @@
         {
           "de": "Ich habe nur bei der ersten Charge geholfen, dann platzte ein Rohr.",
           "ru": "Я только помог с первой партией, но прорвало трубу."
+        },
+        {
+          "de": "Eine Charge repräsentiert eine nicht reproduzierbare Teilmenge eines Materials aus einem Produktionslauf.",
+          "ru": "Партия представляет собой невоспроизводимую часть материала из одного производственного цикла.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -945,6 +1120,11 @@
         {
           "de": "Ohne Seriennummern, so nett ist mein Kontaktmann.",
           "ru": "Никаких серийных номеров. потому что мой контакт серьезный человек."
+        },
+        {
+          "de": "Die Serialnummer ermöglicht die eindeutige Identifizierung eines einzelnen physischen Materialstücks.",
+          "ru": "Серийный номер позволяет однозначно идентифицировать единичный физический экземпляр материала.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -975,6 +1155,11 @@
         {
           "de": "Falls Sie keine genaue Bezeichnung wissen, erweisen Sie bitte ihre Verwendbarkeit.",
           "ru": "По Вашей просьбе с первой отправкой товара в Ваш адрес будет отослан каталог запасных частей трактора МТЗ соответствующей модификации и запасных частей его двигателя."
+        },
+        {
+          "de": "Die Verwendbarkeit einer Charge kann über den Chargenstatus gesteuert werden.",
+          "ru": "Применимость партии может управляться через статус партии.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1005,6 +1190,11 @@
         {
           "de": "Seitdem kauf ich jeden Tag eine Dose Ananas mit dem Verfallsdatum 1. Mai.",
           "ru": "Каждый день я покупаю банку ананасов со сроком годности 1 мая."
+        },
+        {
+          "de": "Das System prüft beim Wareneingang, ob das Verfallsdatum des Materials überschritten ist.",
+          "ru": "При поступлении материала система проверяет, не превышен ли срок годности материала.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1035,6 +1225,11 @@
         {
           "de": "[…] rausgeworfen aus den Verkaufsräumen werden Milchprodukte wie Butter oder etwa Quark, die ihr Mindesthaltbarkeitsdatum erreicht haben.",
           "ru": "[…] молочные продукты, такие как масло или творог, срок годности которых истек, выбрасываются из торговых залов."
+        },
+        {
+          "de": "Im Materialstamm kann die Restlaufzeit bezüglich des Mindesthaltbarkeitsdatums gepflegt werden.",
+          "ru": "В основной записи материала можно настроить минимальный оставшийся срок годности.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1061,6 +1256,11 @@
         {
           "de": "Zusätzlich werden auch in unserem Betrieb eigene Qualitätsprüfungen des Gewebes durchgeführt.",
           "ru": "Кроме этого, на территории нашего предприятия мы проводим самостоятельные исследования качества ткани."
+        },
+        {
+          "de": "Materialien können nach dem Wareneingang automatisch in den Bestand für Qualitätsprüfung gebucht werden.",
+          "ru": "После поступления материалы могут автоматически проводиться в запас на контроле качества.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1091,6 +1291,11 @@
         {
           "de": "In Serbien stehen alle diese Punkte auf dem Prüfstand.",
           "ru": "Сербия - это показательный случай для ответов на все эти вопросы."
+        },
+        {
+          "de": "Der Prüfbestand steht für die normale Lagerdisposition und den Verkauf vorübergehend nicht zur Verfügung.",
+          "ru": "Запас на контроле качества временно недоступен для обычного планирования запасов и продажи.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1121,6 +1326,11 @@
         {
           "de": "Ich will unseren Bestand erweitern und ihm außerdem Gannicus anbieten.",
           "ru": "Я бы хотел пополнить наши запасы, и предложить также Ганника."
+        },
+        {
+          "de": "Der gesperrte Bestand wird für beschädigte oder nicht verwendbare Materialien genutzt.",
+          "ru": "Блокированный запас используется для поврежденных или непригодных к использованию материалов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1151,6 +1361,11 @@
         {
           "de": "Eine bedeutende von der NATO im ersten Jahrzehnt nach dem Kalten Krieg erfüllte Aufgabe bestand darin, die nun freien Länder Mitteleuropas an sich zu binden, wobei die Aussicht auf Mitgliedschaft an die Einhaltung demokratischer Mindeststandards gekoppelt war.",
           "ru": "Одной из крупных задач, которую выполняла НАТО в течение первого десятилетия после холодной войны, было привлечение вновь освободившихся стран на сторону Запада, требуя от них соответствия демократическим стандартам в обмен на обещание членства в организации."
+        },
+        {
+          "de": "Nur der frei verwendbare Bestand kann ohne Einschränkungen für die Produktion oder den Vertrieb entnommen werden.",
+          "ru": "Только свободно используемый запас может без ограничений отпускаться для производства или сбыта.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1173,6 +1388,11 @@
         {
           "de": "Die jeweilige Bestandsart bestimmt, ob das Material für den Verkauf oder die Produktion verfügbar ist.",
           "ru": "Соответствующий вид запаса определяет, доступен ли материал для продажи или производства."
+        },
+        {
+          "de": "Die Einteilung des Bestands in verschiedene Bestandsarten ermöglicht eine genaue Bestandsführung im System.",
+          "ru": "Разделение запаса на различные виды запаса обеспечивает точный учет запасов в системе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1203,6 +1423,11 @@
         {
           "de": "Argentina's Heart Foundation, die Gemeinschaft Arm der Sociedad Argentina de Cardiología, warnte über die Bedeutung der Bekämpfung der Bewegungsarmut, ein großes Herz-Kreislauf-Risikofaktoren.",
           "ru": "Аргентина's Heart Foundation, сообщество рука Сосьедад де Cardiología Аргентине, предупредили о важности борьбы с сидячим образом жизни, основные сердечно-сосудистые факторы риска."
+        },
+        {
+          "de": "Die Bewegungsart ist ein dreistelliger Schlüssel, der jede Warenbewegung im SAP-System klassifiziert.",
+          "ru": "Вид движения — это трехзначный код, который классифицирует любое движение материала в системе SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1225,6 +1450,11 @@
         {
           "de": "Das System meldet eine Bestandsunterdeckung für Rohstoffe, weshalb wir sofort eine Nachbestellung auslösen müssen.",
           "ru": "Система сообщает о дефиците запасов сырья, поэтому нам необходимо немедленно оформить дозаказ."
+        },
+        {
+          "de": "Eine Bestandsunterdeckung löst bei der Bedarfsplanung automatisch eine Bestellanforderung aus.",
+          "ru": "Дефицит запасов автоматически вызывает заявку на закупку при планировании потребностей.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1255,6 +1485,11 @@
         {
           "de": "Knifflig wird es beispielsweise beim Brandschutz. Dort laufen die Bedarfsplanungen. Es wird sich zeigen, ob Pritzier ganz alleine einen sicheren Brandschutz auf die Beine stellen kann.",
           "ru": "Например, все становится сложнее, когда дело доходит до противопожарной защиты. Там идет планирование потребностей. Еще неизвестно, сможет ли Притциер самостоятельно организовать надежную противопожарную защиту."
+        },
+        {
+          "de": "Die Bedarfsplanung (MRP) sichert die Verfügbarkeit von Materialien für Fertigung und Vertrieb.",
+          "ru": "Планирование потребностей (MRP) обеспечивает доступность материалов для производства и сбыта.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1285,6 +1520,11 @@
         {
           "de": "Weitere Änderungen der Disposition gab es 1952 und 1965.",
           "ru": "Последующие изменения в неё были внесены в 1952 и 1965 годах."
+        },
+        {
+          "de": "Die Disposition ermittelt den Nettobedarf an Materialien unter Berücksichtigung von Beständen und Zugängen.",
+          "ru": "Планирование запасов определяет чистую потребность в материалах с учетом запасов и поступлений.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1315,6 +1555,11 @@
         {
           "de": "Ich habe eine Kontonummer und den Namen eines Disponenten.",
           "ru": "У меня есть номер счета и имя управляющего."
+        },
+        {
+          "de": "Der Disponent überwacht die Bedarfs- und Bestandssituation für die ihm zugeordneten Materialien.",
+          "ru": "Планировщик контролирует ситуацию с потребностями и запасами для закрепленных за ним материалов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1345,6 +1590,11 @@
         {
           "de": "Ich wäre für jeden Zeitpunkt dankbar, an dem ihr euren Sicherheitsabstand aufgebt.",
           "ru": "В любой момент, когда вы, ребята, захотите сократить то безопасное расстояние, которое поддерживаете, я буду благодарен за это."
+        },
+        {
+          "de": "Der Sicherheitsbestand dient dem Ausgleich von unerwarteten Bedarfsspitzen oder Lieferverzögerungen.",
+          "ru": "Страховой запас служит для компенсации непредвиденных пиков спроса или задержек поставок.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1375,6 +1625,11 @@
         {
           "de": "Anstatt den Geldbestand zu erhöhen, um sich von dem ökonomischen Einsturz zu erholen hat FED ihn stattdessen verringert, wodurch eine der größten Depressionen der Geschichte ausgelöst wurde.",
           "ru": "Или мы никогда не будем свободны и технологии так и останутся замороженными. У нас есть машины, которые чистят канализации, освобождая человека от этой работы."
+        },
+        {
+          "de": "Wenn der verfügbare Bestand den Meldebestand unterschreitet, wird die Beschaffung eingeleitet.",
+          "ru": "Если доступный запас становится ниже точки заказа, инициируется закупка.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1405,6 +1660,11 @@
         {
           "de": "Für kleine Losgrößen, manchmal nur alle drei Jahre bestellt, arbeiten einige Maschinen nur wenige Tage oder Wochen im Jahr.",
           "ru": "При небольших размерах партий, иногда заказываемых только раз в три года, некоторые машины работают всего несколько дней или недель в году."
+        },
+        {
+          "de": "Die Losgröße bestimmt die zu beschaffende menge bei der Generierung von Deckungselementen.",
+          "ru": "Размер партии определяет количество, подлежащее закупке при генерации элементов покрытия.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1427,6 +1687,11 @@
         {
           "de": "Bitte prüfen Sie im Einkaufsinfosatz, ob für dieses Material eine Mindestbestellmenge hinterlegt ist.",
           "ru": "Пожалуйста, проверьте в инфо-записи закупки, указан ли для этого материала минимальный объем заказа."
+        },
+        {
+          "de": "Im Einkaufsinfosatz kann eine Mindestbestellmenge für den Lieferanten definiert werden.",
+          "ru": "В инфо-записи закупок для поставщика может быть определен минимальный объем заказа.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1449,6 +1714,11 @@
         {
           "de": "Änderungen im Materialstammblatt, wie zum Beispiel der Preis, bedürfen der Freigabe durch den Abteilungsleiter.",
           "ru": "Изменения в основной записи материала, например цена, требуют утверждения руководителем отдела."
+        },
+        {
+          "de": "Das Materialstammblatt enthält alle für die Verwaltung eines Materials notwendigen Stammdaten.",
+          "ru": "Основная запись материала содержит все основные данные, необходимые для управления материалом.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1475,6 +1745,11 @@
         {
           "de": "Dementgegen ist eine nicht-sprechende Materialnummer eine (z.",
           "ru": "С другой стороны, неговорящее материальное число равно единице (напр."
+        },
+        {
+          "de": "Jedes Material wird im SAP-System über eine eindeutige Materialnummer identifiziert.",
+          "ru": "Каждый материал идентифицируется в системе SAP с помощью уникального номера материала.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1501,6 +1776,11 @@
         {
           "de": "Zur Herstellung einer Mengeneinheit (ME) Brot benötigt A 1 Stunde, zur Herstellung einer Mengeneinheit Wein ½ Stunde.",
           "ru": "Для производства одной единицы хлеба требуется 1 час, а для производства одной единицы вина — ½ часа."
+        },
+        {
+          "de": "Für jede Materialbuchung muss eine gültige Mengeneinheit im Beleg angegeben werden.",
+          "ru": "Для каждой проводки материала в документе должна быть указана допустимая единица измерения.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1523,6 +1803,11 @@
         {
           "de": "Bei der Umrechnung von der Alternativmengeneinheit in die Basismengeneinheit darf es keine Rundungsfehler geben.",
           "ru": "При пересчете из альтернативной единицы измерения в базовую не должно быть ошибок огругления."
+        },
+        {
+          "de": "In der Basismengeneinheit werden alle Bestände des Materials im System geführt.",
+          "ru": "В базовой единице измерения ведутся все запасы материала в системе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1545,6 +1830,11 @@
         {
           "de": "Der Wareneingang kann wahlweise in der Basismengeneinheit oder in einer Alternativmengeneinheit gebucht werden.",
           "ru": "Поступление материала может быть проведено по выбору либо в базовой единице измерения, либо в альтернативной."
+        },
+        {
+          "de": "Eine Alternativmengeneinheit kann für Einkauf, Verkauf oder Lagerung definiert werden.",
+          "ru": "Альтернативная единица измерения может быть определена для закупок, продажи или складирования.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1575,6 +1865,11 @@
         {
           "de": "Es gilt bei den in Byzanz verwendeten Ären die Umrechnung: Jahr 1 n. Chr. = Jahr 754 ab urbe condita = 195.",
           "ru": "Нулевой год в христианском календаре отсутствует: 1 ab urbe condita = 753 до н. э."
+        },
+        {
+          "de": "Die Umrechnung zwischen der Alternativ- und der Basismengeneinheit erfolgt anhand von festen Faktoren im Materialstamm.",
+          "ru": "Пересчет между альтернативной и базовой единицами измерения выполняется на основе фиксированных коэффициентов в основной записи материала.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1605,6 +1900,11 @@
         {
           "de": "Dafür findet sich im Handbuch aber ein Schaltbild des Geräts und die zugehörige Stückliste.",
           "ru": "Однако в руководстве содержится принципиальная схема устройства и соответствующий перечень деталей."
+        },
+        {
+          "de": "Die Stückliste beschreibt die Struktur eines Erzeugnisses durch Auflistung seiner Komponenten.",
+          "ru": "Спецификация описывает структуру изделия путем перечисления его компонентов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1635,6 +1935,11 @@
         {
           "de": "Die Liste umfasst nicht alle Baugruppen oder Systeme, die wir in vergangenen Jahren produziert haben.",
           "ru": "Перечень не включает в себя все модули или системы, которые мы изготовили за прошедшие годы."
+        },
+        {
+          "de": "Eine Baugruppe kann als Komponente in übergeordneten Stücklisten verwendet werden.",
+          "ru": "Узел может использоваться в качестве компонента в вышестоящих спецификациях.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1665,6 +1970,11 @@
         {
           "de": "Verpackung (von Warm- und Kaltprodukten) für Betriebe der Schnellgastronomie , Verpackung für Halbfabrikate, Brotverpackung , Lebensmittelverpackungen, Verpackungen für Süßwaren, spezielle Verpackung, Verpackung für kosmetische und pharmazeutische Mittel.",
           "ru": "Упаковка для предприятий быстрого питания (горячих и холодных продуктов), Упаковка для полуфабрикатов, Упаковка для хлеба, Упаковка для продуктов, Упаковка для кондитерских изделий, Упаковка специальная, Упаковка для косметических и фармацевтических средств."
+        },
+        {
+          "de": "Halbfabrikate werden im Werk gefertigt und gehen als Komponente in andere Fertigerzeugnisse ein.",
+          "ru": "Полуфабрикаты производятся на заводе и входят в качестве компонента в другие готовые изделия.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1695,6 +2005,11 @@
         {
           "de": "Obwohl Rohstoffpreise immer größeren Schwankungen unterliegen als die Preise von Fertigerzeugnissen und Dienstleistungen, waren die Rohstoffmärkte in den letzten fünf Jahren mit einer außergewöhnlichen, beinahe beispiellosen Volatilität konfrontiert.",
           "ru": "Хотя цены на сырьевые товары всегда более изменчивы, чем цены на готовые товары и услуги, на рынке сырьевых товаров в течение последних пяти лет наблюдается исключительная, практически беспрецедентная изменчивость."
+        },
+        {
+          "de": "Das Fertigerzeugnis wird auf Basis von Fertigungsaufträgen hergestellt und an Kunden verkauft.",
+          "ru": "Готовое изделие производится на основе производственных заказов и продается клиентам.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1725,6 +2040,11 @@
         {
           "de": "Knuspriger und leckerer Rostzwiebel, hergestellt aus dem Rohstoff von bester Qualität.",
           "ru": "Хрупкий и вкусный жареный лук, мы делаем из сырья лучшего качества."
+        },
+        {
+          "de": "Rohstoffe werden ausschließlich extern beschafft und direkt in die Produktion eingebracht.",
+          "ru": "Сырье приобретается исключительно из внешних источников и направляется непосредственно в производство.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1755,6 +2075,11 @@
         {
           "de": "Vasenmaler waren ebenso wie Töpfer Handwerker, ihre Produkte Handelsgut.",
           "ru": "Вазописцы как и гончары были ремесленниками, а результаты их труда - товаром."
+        },
+        {
+          "de": "Handelsgüter werden eingekauft und ohne weitere Verarbeitung direkt wieder vertrieben.",
+          "ru": "Товары для перепродажи закупаются и перепродаются напрямую без дальнейшей обработки.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1785,6 +2110,11 @@
         {
           "de": "Du bist genauso wie ich, nur in einer viel hübscheren Verpackung.",
           "ru": "Ты такой же, как и я, просто в намного красивей упаковке."
+        },
+        {
+          "de": "Die Verpackung schützt das Material während des Transports und der Lagerung.",
+          "ru": "Упаковка защищает материал во время транспортировки и хранения.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1815,6 +2145,11 @@
         {
           "de": "Insgesamt werden 71 Prozent des Papiers zu Packmitteln verarbeitet, 5,1 Prozent entfallen auf Schreib- und Bürobedarf.",
           "ru": "Всего 71 процент бумаги перерабатывается в упаковочные материалы, 5,1 процента используется для изготовления письменных и офисных товаров."
+        },
+        {
+          "de": "Als Packmittel werden Ladungsträger wie Paletten oder Gitterboxen im System gepflegt.",
+          "ru": "В качестве упаковочных материалов в системе ведутся такие носители груза, как поддоны или ящичные поддоны.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1837,6 +2172,11 @@
         {
           "de": "Jedes Material mit Chargenpflicht muss einer bestimmten Chargenklasse zugeordnet werden.",
           "ru": "Каждый материал, подлежащий ведению партиями, должен быть присвоен определенному классу партий."
+        },
+        {
+          "de": "In der Chargenklasse werden die Merkmale definiert, die für die Klassifizierung von Chargen relevant sind.",
+          "ru": "В классе партий определяются признаки, релевантные для классификации партий.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1867,6 +2207,11 @@
         {
           "de": "Strittige Bewertung: Die Bewertungen für diese Website widersprechen einander.",
           "ru": "Противоречивый рейтинг: оценки этого сайта противоречат друг другу."
+        },
+        {
+          "de": "Die Bewertung für geteilte Bestände ermöglicht die getrennte Bewertung von Teilbeständen eines Materials.",
+          "ru": "Раздельная оценка запасов позволяет оценивать частичные запасы одного материала раздельно.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1927,6 +2272,11 @@
         {
           "de": "Ihre Untertanen wollen einen Erben von ihrer königlichen Herkunft.",
           "ru": "Её поданные ждут приемника их королевской родословной."
+        },
+        {
+          "de": "Die Herkunft des Materials kann bei der Chargenklassifizierung als Merkmal hinterlegt werden.",
+          "ru": "Происхождение материала может быть указано в качестве признака при классификации партии.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1957,6 +2307,11 @@
         {
           "de": "Das Carnet TIR (Transport International de Marchandises par la Route) vereinfacht das Zollverfahren für den Straßengüterverkehr.",
           "ru": "Книжка МДП (Transport International de Marchandises par la Route) упрощает таможенную процедуру для грузовых автомобильных перевозок."
+        },
+        {
+          "de": "Das Zollverfahren regelt die steuerliche und zollrechtliche Abwicklung von Import- und Exportwaren.",
+          "ru": "Таможенная процедура регулирует налоговое и таможенное оформление импортных и экспортных товаров.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1983,6 +2338,11 @@
         {
           "de": "Seit Ende 2004 kann auch das »New Computerised Transit System« (NCTS), die europäische Zollanmeldung, über »ATLAS« durchgeführt werden.",
           "ru": "С конца 2004 года «Новая компьютеризированная транзитная система» (NCTS), европейская таможенная декларация, также может осуществляться через «ATLAS»."
+        },
+        {
+          "de": "Die Zollanmeldung muss für grenzüberschreitende Lieferungen elektronisch an die Behörden übermittelt werden.",
+          "ru": "Таможенная декларация для трансграничных поставок должна передаваться в органы власти в электронном виде.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2013,6 +2373,11 @@
         {
           "de": "Die Standorte der Lagerverwaltungen mit Lagernummern sind in tabellarischer Form geordnet und mit Links zu heutigen Städten versehen.",
           "ru": "Местонахождения лагерных управлений с соответствующими номерами упорядочены в виде таблицы и снабжены ссылками на современные населённые пункты."
+        },
+        {
+          "de": "Die Lagerverwaltung steuert den Materialfluss innerhalb des gesamten Lagerkomplexes.",
+          "ru": "Управление складом контролирует поток материалов в пределах всего складского комплекса.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2043,6 +2408,11 @@
         {
           "de": "Wenn ihr es nicht tut, wird sie alle in diesem Lager töten.",
           "ru": "Если вы не сделаете этого, она убьет каждого в этом лагере."
+        },
+        {
+          "de": "Das Lager besteht aus verschiedenen Lagertypen und wird über eine eindeutige Lagernummer identifiziert.",
+          "ru": "Склад состоит из различных типов складов и идентифицируется с помощью уникального номера склада.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2073,6 +2443,11 @@
         {
           "de": "Bei der Neunummerierung im Jahr 1970 erhielten alle damals vorhandenen LM-49 Wagennummern von 3701 bis 3761 und die LP-49 von 3801 bis 3846.",
           "ru": "После проведённой в 1970 году перенумерации подвижного состава все существовавшие на тот момент ЛМ-49 получили номера от 3701 до 3761, а ЛП-49 - от 3801 до 3846."
+        },
+        {
+          "de": "Die Lagernummer ist die oberste Organisationseinheit in der Lagerverwaltung.",
+          "ru": "Номер склада является высшей организационной единицей в управлении складом.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2095,6 +2470,11 @@
         {
           "de": "Für Gefahrstoffe haben wir einen separaten Lagertyp mit speziellen Sicherheitsvorkehrungen eingerichtet.",
           "ru": "Для опасных веществ мы организовали отдельный тип склада со специальными мерами безопасности."
+        },
+        {
+          "de": "Ein Lagertyp unterteilt ein Lager nach physischen oder organisatorischen Kriterien.",
+          "ru": "Тип склада разделяет склад по физическим или организационным критериям.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2125,6 +2505,11 @@
         {
           "de": "Da dieses Gerät in einem Lagerbereich meiner Realität sein sollte,... drehen Sie anders herum.",
           "ru": "Поскольку в моей реальности оно должно храниться в кладовке... нужно сделать другой выбор."
+        },
+        {
+          "de": "Der Lagerbereich fasst Lagerplätze mit ähnlichen Eigenschaften innerhalb eines Lagertyps zusammen.",
+          "ru": "Складская секция объединяет складские ячейки с похожими свойствами в рамках одного типа склада.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2155,6 +2540,11 @@
         {
           "de": "Wie vorzüglich ist der Lohn und wie schön der Lagerplatz!",
           "ru": "Прекрасна награда, и хорошо убежище!"
+        },
+        {
+          "de": "Der Lagerplatz ist die kleinste adressierbare Einheit in einem Lager.",
+          "ru": "Складская ячейка — это минимальная адресуемая единица на складе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2177,6 +2567,11 @@
         {
           "de": "In dieser Abteilung sind Sie für das weltweite Transport-Management unserer Exportgüter zuständig.",
           "ru": "В этом отделе вы отвечаете за международное управление транспортировками наших экспортных товаров."
+        },
+        {
+          "de": "Das Transport-Management plant und optimiert den physischen Versand von Waren zum Kunden.",
+          "ru": "Управление транспортировками планирует и оптимизирует физическую отгрузку товаров клиенту.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2203,6 +2598,11 @@
         {
           "de": "Seit kurzem werden Anstrengungen unternommen, die zunehmende Verkehrsnachfrage einzudämmen, eine verstärkte Nutzung öffentlicher Verkehrsmittel zu fördern und neue Siedlungs- und Produktionsmodelle zu unterstützen, die zu einer Verringerung des Transportbedarfs fuhren.",
           "ru": "Делались попытки сдерживания потребностей в транспорте, стимулирования большего использования общественного транспорта, а также поощрения новых моделей жилых и производственных зон, которые могли бы снизить потребность в транспорте."
+        },
+        {
+          "de": "Ein Transportbedarf dient als Anforderung für eine zukünftige Warenbewegung im Lager.",
+          "ru": "Потребность в переносе служит запросом на будущее движение материалов на складе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2229,6 +2629,11 @@
         {
           "de": "Wir führen Transportaufträge sowohl im In- als auch im Ausland aus.",
           "ru": "Реализуем транспортные поручения в масштабе страны и международном масштабе."
+        },
+        {
+          "de": "Nach der Änderung einer Tabelle fordert das System Sie auf, einen Transportauftrag anzugeben.",
+          "ru": "После изменения таблицы система просит вас указать запрос на перенос.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2259,6 +2664,11 @@
         {
           "de": "Ich möchte den Dienst quittieren.",
           "ru": "Я подаю в отставку."
+        },
+        {
+          "de": "Die Quittierung bestätigt, dass die Warenbewegung laut Transportauftrag physisch abgeschlossen wurde.",
+          "ru": "Подтверждение подтверждает, что движение материалов согласно заказу на перенос завершено физически.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2289,6 +2699,11 @@
         {
           "de": "Ich möchte den Dienst quittieren.",
           "ru": "Я подаю в отставку."
+        },
+        {
+          "de": "Nachdem die Palette eingelagert wurde, müssen Sie den Transportauftrag quittieren.",
+          "ru": "После того как поддон был размещен на складе, вы должны подтвердить заказ на перенос.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -2318,6 +2733,11 @@
         {
           "de": "Der Ärger hatte bereits Ende April begonnen, als bei der Inventur in den USA Bestandsdifferenzen von zwei Mio. Euro entdeckt wurden.",
           "ru": "Проблемы начались уже в конце апреля, когда во время инвентаризации в США были обнаружены товарные разницы в два миллиона евро."
+        },
+        {
+          "de": "Differenzen im Lager müssen erfasst und über das Schnittstellenkonto ausgebucht werden.",
+          "ru": "Разницы на складе должны быть зарегистрированы и списаны через промежуточный счет.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2340,6 +2760,11 @@
         {
           "de": "Der IT-Support prüft die Fehlermeldung bei der Abstimmung des Schnittstellenkontos.",
           "ru": "ИТ-поддержка проверяет сообщение об ошибке при выверке промежуточного счета."
+        },
+        {
+          "de": "Das Schnittstellenkonto dient der temporären Buchung bei Differenzen zwischen WM und IM.",
+          "ru": "Промежуточный счет служит для временной проводки при расхождениях между WM и IM.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2370,6 +2795,11 @@
         {
           "de": "Ich will unseren Bestand erweitern und ihm außerdem Gannicus anbieten.",
           "ru": "Я бы хотел пополнить наши запасы, и предложить также Ганника."
+        },
+        {
+          "de": "Der physische Bestand beschreibt die tatsächlich im Lager vorhandene Menge eines Materials.",
+          "ru": "Фактический запас описывает количество материала, реально находящееся на складе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2400,6 +2830,11 @@
         {
           "de": "Er lebte ursprünglich in buschbestandenen Ödländern oder in lichten Wäldern, heute bewohnt er als Kulturfolger des Menschen Obstplantagen, Parks oder Gärten.",
           "ru": "Первоначально обитала в поросших кустарником пустошах или в светлых лесах, сегодня как гемерофил населяет фруктовые плантации, парки или сады."
+        },
+        {
+          "de": "Der Buchbestand im System wird bei jeder Warenbewegung in Echtzeit aktualisiert.",
+          "ru": "Книжный запас в системе обновляется в режиме реального времени при каждом движении материалов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2430,6 +2865,11 @@
         {
           "de": "Die Kundgebungen, die von der Geistlichkeit veranstaltet wurden, um die Inventaraufnahme der Kircheneinrichtung zu verhindern, werden von den verständigen Klerikalen mißbilligt.",
           "ru": "Демонстрации, организуемые духовенством с целью воспрепятствовать инвентаризации церковного убранства, вызывают недовольство здравомыслящего духовенства."
+        },
+        {
+          "de": "Während der Inventuraufnahme werden die gezählten Mengen direkt im System erfasst.",
+          "ru": "Во время инвентаризационной описи подсчитанные количества регистрируются непосредственно в системе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2460,6 +2900,11 @@
         {
           "de": "Jetz' wollen die auf einmal Nachzahlungen.",
           "ru": "А теперь с меня требуют заплатить налог и штраф."
+        },
+        {
+          "de": "Bei großen Differenzen kann eine Nachzählung des Lagerplatzes veranlasst werden.",
+          "ru": "При больших расхождениях может быть инициирован повторный подсчет складской ячейки.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2490,6 +2935,11 @@
         {
           "de": "Wir müssen unsere Geschichten abgleichen.",
           "ru": "Нужно сверить нашу легенду."
+        },
+        {
+          "de": "Sie müssen den Buchbestand regelmäßig mit dem physischen Bestand abgleichen.",
+          "ru": "Вы должны регулярно сверять книжный запас с фактическим запасом.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -2531,6 +2981,11 @@
         {
           "de": "Für den automatischen Abgleich der Bestellungen verfügt Yatego über Schnittstellen zu Anbietern wie Afterbuy, AuktionMaster, OXID eSales, plentyMarkets und DreamRobot.",
           "ru": "Экспорт заказов: Для автоматического сравнения данных о поступивших заказах Yatego использует специальные интерфейсы, такие как Afterbuy и AuktionMaster, OXID eSales, plentyMarkets и DreamRobot."
+        },
+        {
+          "de": "Der Abgleich der Bestände wird nach Abschluss der Inventur durchgeführt.",
+          "ru": "Сверка запасов выполняется после завершения инвентаризации.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2561,6 +3016,11 @@
         {
           "de": "Schreiben Sie uns jetzt gleich, damit wir jetzt Ihr Projekt sorgfältig bewerten könnten.",
           "ru": "Напишите нам прямо сейчас, чтобы подробно оценить ваш проект."
+        },
+        {
+          "de": "Das System kann Bestände automatisch nach dem gleitenden Durchschnittspreis bewerten.",
+          "ru": "Система может автоматически оценивать запасы по среднескользящей цене.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -2594,6 +3054,11 @@
         {
           "de": "Im SAP-System bestimmt der Bewertungspreis den Wert des Bestands in der Bilanz.",
           "ru": "В системе SAP оценочная стоимость определяет стоимость запаса в балансе."
+        },
+        {
+          "de": "Der Bewertungspreis eines Materials wird im Materialstamm gepflegt.",
+          "ru": "Цена оценки материала ведется в основной записи материала.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2624,6 +3089,11 @@
         {
           "de": "Sie werden gemeinsam mit uns Möglichkeiten erörtern, das Bewertungsverfahren zusätzlich abzusichern.",
           "ru": "Вместе с нами вы обсудите варианты дальнейшего обеспечения безопасности процесса оценки."
+        },
+        {
+          "de": "Das Bewertungsverfahren bestimmt, wie Bestandsveränderungen finanziell verbucht werden.",
+          "ru": "Метод оценки определяет, как финансово отражаются изменения запасов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2646,6 +3116,11 @@
         {
           "de": "In Zeiten steigender Preise führt die FIFO-Methode in der Regel zu einem höheren ausgewiesenen Gewinn im Jahresabschluss.",
           "ru": "В периоды роста цен метод ФИФО обычно приводит к более высокой отражаемой прибыли в годовой финансовой отчетности."
+        },
+        {
+          "de": "Die FIFO-Methode bewertet den Endbestand unter der Annahme, dass die ältesten Bestände zuerst verbraucht wurden.",
+          "ru": "Метод ФИФО оценивает конечный запас в предположении, что старейшие запасы расходуются в первую очередь.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2668,6 +3143,11 @@
         {
           "de": "Für bestimmte Schüttgüter wie Kohle oder Kies kann die LIFO-Methode die tatsächliche physische Lagerbewegung gut abbilden.",
           "ru": "Для определенных сыпучих грузов, таких как уголь или гравий, метод ЛИФО может хорошо отражать фактическое физическое движение запасов."
+        },
+        {
+          "de": "Die LIFO-Methode geht davon aus, dass die zuletzt eingegangenen Bestände zuerst verbraucht werden.",
+          "ru": "Метод ЛИФО предполагает, что поступившие последними запасы расходуются в первую очередь.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2698,6 +3178,11 @@
         {
           "de": "Für den Kauf von Arbeitskraft und Produktionsmitteln werden die Kosten, die bei ihrer Anschaffung anfielen, die Anschaffungskosten in Rechnung gestellt.",
           "ru": "При покупке рабочей силы и средств производства принимается в расчет стоимость их создания."
+        },
+        {
+          "de": "Die Anschaffungskosten bilden die Grundlage für die Berechnung der jährlichen Abschreibungen.",
+          "ru": "Первоначальная стоимость формирует основу для расчета ежегодной амортизации.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2728,6 +3213,11 @@
         {
           "de": "Bei den Herstellungskosten und der Produktionsweise von Medikamenten hat sich eigentlich nichts verändert.",
           "ru": "Если посмотреть на стоимость создания лекарств, на то, как это происходит, - ничего не сдвинулось с места."
+        },
+        {
+          "de": "Die Herstellungskosten umfassen Materialeinzelkosten sowie Fertigungsgemeinkosten.",
+          "ru": "Производственная себестоимость включает в себя прямые затраты на материалы, а также косвенные производственные расходы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2750,6 +3240,11 @@
         {
           "de": "Der Controller analysiert nach dem Periodenende die Abweichungen zwischen den geplanten und den tatsächlichen Kosten.",
           "ru": "После окончания периода контролер анализирует отклонения между запланированными и фактическими затратами."
+        },
+        {
+          "de": "Am Periodenende müssen alle Materialbewegungen für den aktuellen Monat abgeschlossen sein.",
+          "ru": "В конце периода все движения материалов за текущий месяц должны быть завершены.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []

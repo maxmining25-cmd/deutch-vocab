@@ -23,6 +23,11 @@
         {
           "de": "Außerdem bietet WinGen keine Unterstützung bei der Wiederverwendung von Layout‑Teilen oder beim Customizing von Oberflächen‑Controls.",
           "ru": "Кроме того, WinGen не поддерживает повторное использование частей макета или настройку элементов управления интерфейса."
+        },
+        {
+          "de": "Das Customizing des SAP-Systems erfolgt im Einführungsleitfaden (IMG).",
+          "ru": "Настройка (кастомизация) системы SAP выполняется в руководстве по внедрению (IMG).",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -41,6 +46,11 @@
         {
           "de": "Wir folgen dem Einführungsleitfaden, um die neuen Steuersätze einzurichten.",
           "ru": "Мы следуем руководству по внедрению, чтобы настроить новые налоговые ставки."
+        },
+        {
+          "de": "Der Einführungsleitfaden führt Sie Schritt für Schritt durch alle notwendigen Systemeinstellungen.",
+          "ru": "Руководство по внедрению шаг за шагом проводит вас по всем необходимым системным настройкам.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -67,6 +77,11 @@
         {
           "de": "Wir führen Transportaufträge sowohl im In- als auch im Ausland aus.",
           "ru": "Реализуем транспортные поручения в масштабе страны и международном масштабе."
+        },
+        {
+          "de": "Nach der Änderung einer Tabelle fordert das System Sie auf, einen Transportauftrag anzugeben.",
+          "ru": "После изменения таблицы система просит вас указать запрос на перенос.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -85,6 +100,11 @@
         {
           "de": "Direkte Änderungen an einer Customizing-Tabelle im Produktivsystem sind untersagt.",
           "ru": "Прямые изменения в таблице настроек в продуктивной системе запрещены."
+        },
+        {
+          "de": "Eine Änderung in einer Customizing-Tabelle muss immer in einem Transportauftrag erfasst werden.",
+          "ru": "Изменение в настроечной таблице всегда должно фиксироваться в запросе на перенос.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -111,6 +131,11 @@
         {
           "de": "Mit den neuen Funktionen der Industrielösung SAP-Banking werde die bisherige Systemlandschaft der Postbank in den Kernbereichen Sparund Girokonten sowie Darlehen abgelöst.",
           "ru": "Новые функции банковского промышленного решения SAP заменят предыдущую системную среду Postbank в основных областях сбережений и текущих счетов, а также кредитов."
+        },
+        {
+          "de": "Eine typische Systemlandschaft besteht aus einem Entwicklungs-, Qualitäts- und Produktivsystem.",
+          "ru": "Типичный системный ландшафт состоит из системы разработки, системы качества и продуктивной системы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -141,6 +166,11 @@
         {
           "de": "Die Build-Server für die S/390-Architektur werden von Millenux betrieben, dem Distributor der Think-Blue-Distribution für S/390 , und dem Entwicklungssystem der Linux-Gemeinschaft (Linux Community Development System - LCDS).",
           "ru": "Серверы сборки для архитектуры S/390 расположены на сервере Millenux, разработчика дистрибутива Think Blue для S/390, и Linux Community Development System (LCDS)."
+        },
+        {
+          "de": "Im Entwicklungssystem werden neue Funktionen programmiert und Customizing-Einstellungen vorgenommen.",
+          "ru": "В системе разработки программируются новые функции и выполняются настройки Customizing.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -171,6 +201,11 @@
         {
           "de": "Unter anderem könnten die folgenden Themen bearbeitet werden: Hochschulleitung ('university governance') und Finanzwesen, die Internationalisierungsstrategie der Hochschule oder die Verbesserung von Qualitätssicherungssystemen;",
           "ru": "Эти вопросы включают, помимо прочих, руководство и финансовую деятельность университетов, стратегию интернационализации или укрепление механизмов обеспечения качества;"
+        },
+        {
+          "de": "Im Qualitätssicherungssystem werden umfassende Integrationstests durchgeführt.",
+          "ru": "В системе качества (QA) проводятся комплексные интеграционные тесты.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -189,6 +224,11 @@
         {
           "de": "Im Produktivsystem arbeiten die Mitarbeiter des Kunden mit realen Geschäftsdaten.",
           "ru": "В продуктивной системе сотрудники клиента работают с реальными бизнес-данными."
+        },
+        {
+          "de": "Buchungen dürfen nur im Produktivsystem vorgenommen werden.",
+          "ru": "Проводки могут выполняться только в продуктивной (рабочей) системе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -219,6 +259,11 @@
         {
           "de": "Wir hätten gerne, dass Ihr Mandant diese Frage beantwortet.",
           "ru": "Мы бы хотели, чтобы на этот вопрос ответил ваш клиент."
+        },
+        {
+          "de": "Ein Mandant ist eine datentechnisch abgeschlossene Einheit innerhalb eines SAP-Systems.",
+          "ru": "Мандант является изолированной с точки зрения данных единицей внутри системы SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -249,6 +294,11 @@
         {
           "de": "Beim Umstieg zeigte sich allerdings eine besondere Problematik bei der Datenübernahme vom zählerorientierten EAS ins IS-U.",
           "ru": "Однако при переходе возникла особая проблема при передаче данных из EAS, ориентированного на счетчик, в IS-U."
+        },
+        {
+          "de": "Die Datenübernahme der Altdaten wird vor dem Produktivstart sorgfältig vorbereitet.",
+          "ru": "Миграция (перенос) исторических данных тщательно подготавливается перед продуктивным стартом.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -267,6 +317,11 @@
         {
           "de": "Vor der Altdatenübernahme müssen wir alle Daten gründlich bereinigen.",
           "ru": "Перед переносом исторических данных нам необходимо тщательно очистить все данные."
+        },
+        {
+          "de": "Die Altdatenübernahme erfolgt in der Regel mit speziellen Migrationsprogrammen.",
+          "ru": "Миграция исторических данных, как правило, выполняется с помощью специальных программ переноса.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -285,6 +340,11 @@
         {
           "de": "Auf Basis der Lückenanalyse entscheiden wir, ob wir eine Eigenentwicklung benötigen.",
           "ru": "На основе анализа расхождений мы решаем, требуется ли нам собственная разработка."
+        },
+        {
+          "de": "Im Rahmen der Lückenanalyse werden die Abweichungen zwischen Standardsoftware und Geschäftsprozess ermittelt.",
+          "ru": "В рамках анализа разрывов (Fit-Gap) определяются отклонения между стандартным ПО и бизнес-процессом.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -315,6 +375,11 @@
         {
           "de": "Eine Verwundbarkeit in BIND (einem Domain-Name-Server) wurde entdeckt, wodurch ein böswilliger Nameserver eine autoritative negative Antwort mit einem großen TTL-Wert (Time To Live) zurückliefern kann und dadurch einen Domainnamen unerreichbar macht.",
           "ru": "Обнаружена уязвимость в BIND, сервере имён доменов. Злонамеренный сервер имён мог возвратить пользующийся доверием отрицательный ответ с большим временем жизни (time-to-live, TTL), тем самым делая домен недоступным по имени."
+        },
+        {
+          "de": "Der Go-Live des Systems ist für das erste Quartal des nächsten Jahres geplant.",
+          "ru": "Запуск системы (Go-Live) запланирован на первый квартал следующего года.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -345,6 +410,11 @@
         {
           "de": "Kostenloser Support und Installation auf Ihrem Server!",
           "ru": "Бесплатная поддержка и установка на ваш сервер!"
+        },
+        {
+          "de": "Der First-Level-Support hilft Anwendern bei der Behebung einfacher Bedienfehler.",
+          "ru": "Первая линия поддержки помогает пользователям в устранении простых ошибок при работе с системой.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -363,6 +433,11 @@
         {
           "de": "Unser SAP-Einführungsprojekt befindet sich derzeit in der Realisierungsphase.",
           "ru": "Наш проект внедрения SAP в настоящее время находится на этапе реализации."
+        },
+        {
+          "de": "Ein SAP-Einführungsprojekt erfordert eine enge Zusammenarbeit zwischen IT und Fachbereich.",
+          "ru": "Проект внедрения SAP требует тесного сотрудничества между ИТ и бизнес-подразделениями.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -393,6 +468,11 @@
         {
           "de": "Funktionstasten ermÃglichen eine schnelle Ausführung von Datei-Operationen.",
           "ru": "Функциональные клавиши позволяют выполнять быстрые операции с файлами."
+        },
+        {
+          "de": "Der Funktionstest prüft die korrekte Arbeitsweise einer einzelnen Funktion im System.",
+          "ru": "Функциональный тест проверяет корректность работы отдельной функции в системе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -411,6 +491,11 @@
         {
           "de": "Der Integrationstest muss vollständig dokumentiert werden.",
           "ru": "Интеграционный тест должен быть полностью задокументирован."
+        },
+        {
+          "de": "Der Integrationstest stellt sicher, dass der gesamte Prozess über mehrere Module hinweg reibungslos läuft.",
+          "ru": "Интеграционный тест гарантирует, что весь процесс во многих модулях проходит без сбоев.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -441,6 +526,11 @@
         {
           "de": "Wenn diese Einstellung aktiv ist, wird KDM eine Benutzerliste mit Bildern anzeigen, so dass Benutzer auf ihren Namen/Bild klicken können, statt ihren Benutzernamen über die Tastatur einzugeben.user...",
           "ru": "Если установлен этот параметр, KDM будет показывать список всех пользователей, так что пользователи смогут выбрать своё имя из списка вместо того, чтобы набирать его на клавиатуре. user..."
+        },
+        {
+          "de": "Der Benutzertest (UAT) wird von den Key-Usern vor dem Go-Live durchgeführt.",
+          "ru": "Пользовательское тестирование (UAT) проводится ключевыми пользователями перед запуском системы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -471,6 +561,11 @@
         {
           "de": "Alles konzentriert sich auf Verbesserung und Schulung und Entwicklung und Entwicklung.",
           "ru": "Все сфокусировано на улучшении, обучении, развитии и движении вперед."
+        },
+        {
+          "de": "Vor dem Produktivstart müssen alle Endanwender eine Schulung durchlaufen.",
+          "ru": "Перед продуктивным стартом все конечные пользователи должны пройти обучение.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -501,6 +596,11 @@
         {
           "de": "Weiterhin hebt Capobianco den gemeinschaftlichen Ansatz hervor: Die Erfahrung unserer bestehenden Partner hat gezeigt, dass die Nachfrage an qualitativ hochwertigen Produkten mit einem gesteigerten Mehrwert für den Endanwender deutlich wächst.",
           "ru": "Далее Энзо Капобьянко подчеркивает взаимные преимущества, предоставляемые этой программой: «Опыт наших партнеров свидетельствует о возросшем спросе на продукцию высокого качества, которая способствует значительному повышению добавленной стоимости и для конечных пользователей."
+        },
+        {
+          "de": "Der Endanwender arbeitet täglich mit den Fiori-Apps, um Geschäftsvorfälle zu erfassen.",
+          "ru": "Конечный пользователь ежедневно работает с приложениями Fiori для ввода хозяйственных операций.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -531,6 +631,11 @@
         {
           "de": "Dieses revolutionäre Ticket-System kündigte Fifa-Generaldirektor Michel Zen Ruffinen in einem Gespräch mit dem Sport-Informationsdienst (sid) an.",
           "ru": "Генеральный директор ФИФА Мишель Зен Руффинен объявил об этой революционной билетной системе в интервью Службе спортивной информации (sid)."
+        },
+        {
+          "de": "Alle Systemfehler müssen im Ticket-System registriert werden.",
+          "ru": "Все системные ошибки должны регистрироваться в системе тикетов (заявок).",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -561,6 +666,11 @@
         {
           "de": "Die Untersuchung des Unglücks wurde durch die spanische Unfalluntersuchungskommission Comisión de Investigación de Accidentes e Incidentes de Aviación Civil (CIAIAC) in Zusammenarbeit mit dem National Transportation Safety Board (NTSB) durchgeführt.",
           "ru": "Расследованием катастрофы занимался Тайский комитет по расследованию авиационных происшествий (AAIC) совместно с американским Национальным советом по безопасности на транспорте (NTSB)."
+        },
+        {
+          "de": "Ein Incident wird angelegt, um einen Systemausfall oder eine Störung zu melden.",
+          "ru": "Инцидент создается для сообщения о сбое или неполадке в системе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -591,6 +701,11 @@
         {
           "de": "Ein Antrag gilt als Änderungsantrag zu einem Vorschlag, wenn er lediglich die Ergänzung, Streichung oder Änderung eines Teiles davon vorsieht.",
           "ru": "Она приняла участие в рабочем заседании членов Национального конгресса Чили, посвященном вопросу об осуществлении Конвенции и возможности ратификации Чили Факультативного протокола."
+        },
+        {
+          "de": "Für neue funktionale Anforderungen muss ein formaler Änderungsantrag eingereicht werden.",
+          "ru": "Для новых функциональных требований должен быть подан формальный запрос на изменение (CR).",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -621,6 +736,11 @@
         {
           "de": "Ich weiß, das ist schwer zu verstehen, aber du hast nicht die Freigabe.",
           "ru": "Знаю, тяжело такое слышать, но у тебя нет доступа."
+        },
+        {
+          "de": "Ohne die Freigabe des Vorgesetzten kann die Bestellung nicht an den Lieferanten übermittelt werden.",
+          "ru": "Без утверждения (деблокирования) руководителем заказ на поставку не может быть отправлен поставщику.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -651,6 +771,11 @@
         {
           "de": "Sie müssten die Daten freigeben.",
           "ru": "Им придется рассекретить файлы."
+        },
+        {
+          "de": "Sie müssen den blockierten Beleg freigeben, um die Lieferung zu ermöglichen.",
+          "ru": "Вам необходимо деблокировать (утвердить) заблокированный документ, чтобы сделать возможной поставку.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -692,6 +817,11 @@
         {
           "de": "Kalender zusammenführen und importieren.",
           "ru": "Объединение и импорт календарей."
+        },
+        {
+          "de": "Wir müssen die Stammdaten aus einer CSV-Datei importieren.",
+          "ru": "Нам необходимо импортировать основные данные из файла CSV.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -733,6 +863,11 @@
         {
           "de": "Die Peripherie kann erst wieder wachsen, wenn es ihr gelingt, mehr zu exportieren.",
           "ru": "Периферия может снова вырасти, только если ей удастся больше экспортировать."
+        },
+        {
+          "de": "Sie können die berechneten Daten direkt in eine Excel-Tabelle exportieren.",
+          "ru": "Вы можете экспортировать рассчитанные данные напрямую в таблицу Excel.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -766,6 +901,11 @@
         {
           "de": "Die Workbench bietet eine integrierte Entwicklungsumgebung direkt innerhalb der SAP-GUI-Oberfläche.",
           "ru": "Workbench предоставляет интегрированную среду разработки непосредственно в интерфейсе SAP GUI."
+        },
+        {
+          "de": "In der ABAP Workbench werden alle Repository-Objekte der Entwicklung verwaltet.",
+          "ru": "В инструментальной среде ABAP Workbench управляются все репозитарные объекты разработки.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -784,6 +924,11 @@
         {
           "de": "Jedes neue Workbench-Objekt muss einem Paket zugeordnet werden.",
           "ru": "Каждый новый объект Workbench должен быть назначен пакету."
+        },
+        {
+          "de": "Ein Workbench-Objekt ist mandantenübergreifend wirksam und betrifft die gesamte Systemlandschaft.",
+          "ru": "Объект среды разработки (Workbench-объект) действует во всех мандантах и затрагивает весь системный ландшафт.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -802,6 +947,11 @@
         {
           "de": "Über die Tabellenpflege können Anwender Daten direkt erfassen und ändern.",
           "ru": "Через ведение таблицы пользователи могут напрямую вводить и изменять данные."
+        },
+        {
+          "de": "Die Tabellenpflege erlaubt es berechtigten Anwendern, Einträge direkt zu bearbeiten.",
+          "ru": "Ведение таблицы позволяет уполномоченным пользователям редактировать записи напрямую.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -832,6 +982,11 @@
         {
           "de": "Ich komme nur auf die Bitte meiner Pflegetochter.",
           "ru": "Я пришел сюда только по просьбе Ровены."
+        },
+        {
+          "de": "Eine Pflegesicht wird über den Table Maintenance Generator erstellt.",
+          "ru": "Ракурс ведения создается с помощью генератора ведения таблиц.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -850,6 +1005,11 @@
         {
           "de": "Das SAP-Standard-Verhalten deckt die meisten Geschäftsprozesse bereits ab.",
           "ru": "Стандартное поведение SAP уже покрывает большинство бизнес-процессов."
+        },
+        {
+          "de": "Jede Abweichung vom SAP-Standard-Verhalten muss gut begründet sein.",
+          "ru": "Любое отклонение от стандартного поведения системы SAP должно быть хорошо обосновано.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -880,6 +1040,11 @@
         {
           "de": "Für diese Modifikation interessierte sich vor allem die British Army, die anfangs etwa 2500 Fahrzeuge orderte.",
           "ru": "Для этой модификации, особенно британской армии, которая первоначально заказала около 2500 автомобилей."
+        },
+        {
+          "de": "Eine Modifikation des SAP-Quellcodes sollte vermieden werden, um spätere Upgrades nicht zu erschweren.",
+          "ru": "Модификации исходного кода SAP следует избегать, чтобы не усложнять последующие обновления системы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -910,6 +1075,11 @@
         {
           "de": "Und noch eine Erweiterung für unseren neuen Stützpunkt.",
           "ru": "А теперь еще одно дополнение для нашего лагеря..."
+        },
+        {
+          "de": "Mit einer Erweiterung können kundenspezifische Logiken in den Standardprozess integriert werden.",
+          "ru": "С помощью расширения в стандартный процесс может быть интегрирована логика заказчика.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -940,6 +1110,11 @@
         {
           "de": "Am Tag der afghanischen Parlamentswahlen, auf die Glen so geduldig gewartet hatte, stieß Badi Basim zu seinem Team.",
           "ru": "В день всеобщих выборов в Афганистане, которого Глен так сильно ждал, к его команде присоединился Бади Бассим."
+        },
+        {
+          "de": "Ein BAdI stellt eine moderne, objektorientierte Erweiterungsmethode im SAP-system dar.",
+          "ru": "BAdI представляет собой современный объектно-ориентированный метод расширения в системе SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -958,6 +1133,11 @@
         {
           "de": "Der User-Exit ermöglicht kundenspezifische Erweiterungen im SAP-Standard.",
           "ru": "User-Exit позволяет выполнять специфические для клиента расширения в стандарте SAP."
+        },
+        {
+          "de": "Der User-Exit ermöglicht das Einfügen von ABAP-Code an vordefinierten Stellen im Vertriebsbeleg.",
+          "ru": "User-Exit позволяет вставлять ABAP-код в предопределенные точки сбытового документа.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -988,6 +1168,11 @@
         {
           "de": "Nach Angaben Katsmans in einem Interview 2011 strebt das Unternehmen keine Eigenentwicklungen an, da Katsman keine Leidenschaft für das Game Design hegt und seinen Schwerpunkt in der technischen Dienstleistung sieht.",
           "ru": "По словам Катсмана в интервью в 2011 году, компания не стремится к саморазвитию, потому что у Катсмана нет страсти к дизайну игр и он сосредоточен на техническом обслуживании."
+        },
+        {
+          "de": "Eine Eigenentwicklung muss den Programmierrichtlinien des Unternehmens entsprechen.",
+          "ru": "Собственная разработка должна соответствовать правилам программирования компании.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1010,6 +1195,11 @@
         {
           "de": "Hier können Sie eine kurze Beschreibung für Dateien des gewählten Typs eingeben (z. B.„ HTML-Seite\"). Einige Programme wie z. B. Konqueror benutzen sie, um den Inhalt von Ordnern anzuzeigen.",
           "ru": "Вы можете ввести краткое описание для файлов данного типа (например, 'HTML Page'). Это описание может быть использовано программами, такими как Konqueror, для отображения содержимого каталога."
+        },
+        {
+          "de": "Das Z-Programm wurde entwickelt, um einen speziellen Bericht für das Management zu erstellen.",
+          "ru": "Z-программа была разработана для создания специального отчета для руководства.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1040,6 +1230,11 @@
         {
           "de": "Zeigt alle Felder an, die in die neue Tabelle aufgenommen werden.",
           "ru": "Отображает все поля, которые будут включены в новую таблицу."
+        },
+        {
+          "de": "Die Z-Tabelle speichert zusätzliche kundenspezifische Daten, die der Standard nicht abdeckt.",
+          "ru": "Z-таблица сохраняет дополнительные данные клиента, которые не охвачены стандартом.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1058,6 +1253,11 @@
         {
           "de": "Erfahrene Entwickler können komplexe Berichte in ABAP erstellen.",
           "ru": "Опытные разработчики могут создавать сложные отчеты на ABAP."
+        },
+        {
+          "de": "ABAP ist die proprietäre Programmiersprache, auf der SAP-Anwendungen basieren.",
+          "ru": "ABAP — это проприетарный язык программирования, на котором базируются приложения SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1076,6 +1276,11 @@
         {
           "de": "Der ABAP-Entwickler implementiert die Anforderungen aus dem Fachkonzept.",
           "ru": "Разработчик ABAP реализует требования из функционального проекта."
+        },
+        {
+          "de": "Der ABAP-Entwickler erstellt Schnittstellen und erweitert die Standardfunktionen.",
+          "ru": "Разработчик ABAP создает интерфейсы и расширяет стандартные функции.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1106,6 +1311,11 @@
         {
           "de": "Die Daten in der folgenden Tabelle dienen als Grundlage für einige der Beispiele in den Funktionsbeschreibungen:",
           "ru": "В приведенной ниже таблице содержатся сведения о некоторых функциях и примеры."
+        },
+        {
+          "de": "Die Funktionsbeschreibung dient als Vorlage für den Entwickler zur Realisierung des Programms.",
+          "ru": "Функциональное описание (спецификация) служит шаблоном для разработчика при реализации программы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1136,6 +1346,11 @@
         {
           "de": "Ich habe nie in dieses Konzept gepasst.",
           "ru": "Я никогда не вписывался в это понятие."
+        },
+        {
+          "de": "Das technische Konzept beschreibt die Architektur und Datenflüsse der geplanten Lösung.",
+          "ru": "Техническая концепция описывает архитектуру и потоки данных планируемого решения.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1166,6 +1381,11 @@
         {
           "de": "Die in einer Projektphase erstellte Dokumentation ist essenziell in einer späteren Phase. Wenn wir uns beispielsweise die Spezifikation (auch Fachkonzept oder Pflichtenheft genannt) ansehen, so geht sie in das Design, die Entwicklung und schließlich in den Test und die Abnahme der Software ein.",
           "ru": "Документация, созданная на одном этапе проекта, необходима на более позднем этапе. Например, если мы посмотрим на спецификацию (также называемую технической концепцией или функциональной спецификацией), она включает в себя проектирование, разработку и, наконец, тестирование и приемку программного обеспечения."
+        },
+        {
+          "de": "Das Fachkonzept beschreibt die Anforderungen aus Sicht der Fachabteilung.",
+          "ru": "Бизнес-концепция (ТЗ) описывает требования с точки зрения профильного подразделения.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1196,6 +1416,11 @@
         {
           "de": "Die Initiative Idee-IT Westsachsen engagiert sich daher für diese Klientel und hat mit einer Homepage für Mädchen (www. idee-it. de) einen ersten Projektschritt gestartet.",
           "ru": "Поэтому инициатива Idea-IT Западная Саксония ориентирована на эту клиентуру и начала первый этап проекта с домашней страницы для девочек (www.idee-it.de)."
+        },
+        {
+          "de": "Jeder Projektschritt muss vom Projektleiter abgenommen und dokumentiert werden.",
+          "ru": "Каждый этап проекта должен быть принят руководителем проекта и задокументирован.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1222,6 +1447,11 @@
         {
           "de": "Die zweite Projektphase ist mehr oder weniger abgeschlossen.",
           "ru": "Подобно жизни и черепахе."
+        },
+        {
+          "de": "In dieser Projektphase konzentrieren wir uns auf die Datenbereinigung.",
+          "ru": "На этой фазе проекта мы концентрируемся на очистке данных.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1252,6 +1482,11 @@
         {
           "de": "Es ist kein Meilenstein, es ist ein Grabstein.",
           "ru": "Это не рубеж - это могильная плита."
+        },
+        {
+          "de": "Das erfolgreiche Bestehen des Integrationstests ist ein wichtiger Meilenstein im Projekt.",
+          "ru": "Успешное прохождение интеграционного тестирования — важная контрольная точка (веха) в проекте.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1282,6 +1517,11 @@
         {
           "de": "Die INTERREG-Lenkungsausschüsse könnten vor Ablauf der Antragsfristen für Tacis-Kleinprojekte tagen und dabei Projekte vorläufig genehmigen, die auf eine Tacis-Aufforderung hin vorgeschlagen werden.",
           "ru": "Соответствующие директораты внесут свой вклад в межведомственные консультации и заседания оценочных комитетов."
+        },
+        {
+          "de": "Der Lenkungsausschuss trifft strategische Entscheidungen und überwacht das Budget.",
+          "ru": "Руководящий комитет принимает стратегические решения и контролирует бюджет.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1312,6 +1552,11 @@
         {
           "de": "Eingang des Dokuments und Anforderung einer Übersetzung per E-Mail oder über einen dedizierten FTP-Server.",
           "ru": "Принятие документа и запроса на перевод по электронной почте или через соответствующий сервер-ftp."
+        },
+        {
+          "de": "Wir müssen prüfen, ob diese Anforderung im SAP-Standard abgedeckt werden kann.",
+          "ru": "Нам необходимо проверить, может ли это требование быть покрыто стандартом SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1330,6 +1575,11 @@
         {
           "de": "Eine präzise Anforderungserhebung verhindert spätere Verzögerungen im Projekt.",
           "ru": "Точный сбор требований предотвращает последующие задержки в проекте."
+        },
+        {
+          "de": "Die Anforderungserhebung erfolgt in Workshops mit Vertretern der Fachabteilungen.",
+          "ru": "Сбор требований осуществляется на воркшопах с представителями бизнес-подразделений.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1360,6 +1610,11 @@
         {
           "de": "Du solltest nicht in einem Workshop schaffen.",
           "ru": "Ты не должен был творить на семинаре."
+        },
+        {
+          "de": "Im Workshop wurden die Kernprozesse für das neue Logistikmodul definiert.",
+          "ru": "На семинаре (воркшопе) были определены основные процессы для нового модуля логистики.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1390,6 +1645,11 @@
         {
           "de": "Darum haben wir das Protokoll Ihrer Einrichtung für Proben geprüft.",
           "ru": "И поэтому мы проверили рабочий журнал вашей лаборатории."
+        },
+        {
+          "de": "Das Protokoll der Sitzung wird im Projektordner abgelegt.",
+          "ru": "Протокол встречи сохраняется в папке проекта.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1420,6 +1680,11 @@
         {
           "de": "Sie wollen wissen, wer diese sehr gefährliche Aufgabe übernehmen soll.",
           "ru": "Они хотят знать, кто возьмется за это очень опасное задание."
+        },
+        {
+          "de": "Die Aufgabe des Consultants ist es, das System entsprechend den Vorgaben zu konfigurieren.",
+          "ru": "Задача консультанта состоит в том, чтобы настроить систему в соответствии с требованиями.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1450,6 +1715,11 @@
         {
           "de": "Auch wenn wir es wollten, es ist nicht unsere Zuständigkeit.",
           "ru": "Даже если бы охотились, это не в нашей юрисдикции."
+        },
+        {
+          "de": "Die Zuständigkeit für die Datenfreigabe liegt beim jeweiligen Fachbereichsleiter.",
+          "ru": "Ответственность за утверждение данных лежит на руководителе соответствующего бизнес-подразделения.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1480,6 +1750,11 @@
         {
           "de": "Wer auch ihr Partner ist, er ist wohl für das Ende zuständig.",
           "ru": "Кто бы ни был её напарник, они, явно спешат к развязке."
+        },
+        {
+          "de": "Wer ist für die Behebung dieses Berechtigungsfehlers zuständig?",
+          "ru": "Кто отвечает за устранение этой ошибки полномочий?",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1498,6 +1773,11 @@
         {
           "de": "Die Key-User aus der Buchhaltung gaben grünes Licht für den Produktivstart.",
           "ru": "Ключевые пользователи из бухгалтерии дали зеленый свет на запуск в промышленную эксплуатацию."
+        },
+        {
+          "de": "Der Key-User unterstützt die Kollegen bei täglichen Fragen im Umgang mit SAP.",
+          "ru": "Ключевой пользователь поддерживает коллег при ежедневных вопросах по работе с SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1516,6 +1796,11 @@
         {
           "de": "Jeder Schritt im Testdrehbuch muss vom Tester abgezeichnet werden.",
           "ru": "Каждый шаг в сценарии тестирования должен быть подписан тестером."
+        },
+        {
+          "de": "Das Testdrehbuch enthält detaillierte Anweisungen für den Testablauf.",
+          "ru": "Сценарий тестирования содержит подробные инструкции для выполнения тестов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1546,6 +1831,11 @@
         {
           "de": "Voq war der Testfall.",
           "ru": "Вок был пробным вариантом."
+        },
+        {
+          "de": "Jeder Testfall muss im Testprotokoll mit 'Erfolgreich' oder 'Fehlerhaft' bewertet werden.",
+          "ru": "Каждый тест-кейс должен быть оценен в протоколе тестирования как 'Успешно' или 'Ошибка'.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1576,6 +1866,11 @@
         {
           "de": "Wie ich mich erinnere, hatte Ihr Vater denselben Fehler.",
           "ru": "Насколько я помню, у твоего отца был такой же недостаток."
+        },
+        {
+          "de": "Der Fehler im Abrechnungsprogramm wurde durch ein fehlerhaftes Customizing verursacht.",
+          "ru": "Ошибка в программе расчета была вызвана некорректной настройкой параметров (кастомизацией).",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1606,6 +1901,11 @@
         {
           "de": "Ich kann jeweils nur einen Ihrer Fehler beheben.",
           "ru": "Я могу исправлять только по одной вашей ошибке за раз."
+        },
+        {
+          "de": "Wir müssen diesen Fehler beheben, bevor das System in Betrieb geht.",
+          "ru": "Мы должны исправить эту ошибку до того, как система будет введена в эксплуатацию.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -1647,6 +1947,11 @@
         {
           "de": "Wie auch immer, das Entwicklerteam arbeitete gleichzeitig an neuen Eigenschaften wie auch an der Fehlerbehebung und ein paar Neuerungen fanden den Weg in diese Version.",
           "ru": "Тем не менее, команда разработчиков помимо улучшения существующего кода работала и над новой функциональностью, часть которой вошла в этот релиз."
+        },
+        {
+          "de": "Die Fehlerbehebung erfolgt im Entwicklungssystem und wird anschließend transportiert.",
+          "ru": "Исправление ошибок выполняется в системе разработки и затем переносится.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1673,6 +1978,11 @@
         {
           "de": "Auch der von Milan behauptete zeitliche Ablauf sei aufgrund der vorgelegten Testprotokolle nicht nachvollziebar.",
           "ru": "Сроки, заявленные «Миланом», также непонятны на основании представленных протоколов испытаний."
+        },
+        {
+          "de": "Nach dem Testlauf muss das ausgefüllte Testprotokoll unterschrieben werden.",
+          "ru": "После выполнения теста заполненный протокол тестирования должен быть подписан.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1703,6 +2013,11 @@
         {
           "de": "Die selbe Wachstumsrate kann von einer bescheidenen Abnahme der Armut bis hin zu einem signifikanten Verfall vielerlei Folgen haben.",
           "ru": "Одни и те же темпы экономического роста могут принести с собой как скромное сокращение нищеты, так и ее значительное падение."
+        },
+        {
+          "de": "Die formale Abnahme der Software ist die Voraussetzung für die Produktivsetzung.",
+          "ru": "Формальная приемка программного обеспечения является обязательным условием для запуска в продуктивную эксплуатацию.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1733,6 +2048,11 @@
         {
           "de": "Wenn ich aufhörte damit zu arbeiten, musste ich ihn abnehmen.",
           "ru": "Если рука отключалась, то приходилось её снимать."
+        },
+        {
+          "de": "Der Kunde muss die entwickelte Lösung offiziell abnehmen.",
+          "ru": "Клиент должен официально принять разработанное решение.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -1774,6 +2094,11 @@
         {
           "de": "Ihr Name stand auf dem Aufnahmeprotokoll.",
           "ru": "Ваше имя было в карте."
+        },
+        {
+          "de": "Das Abnahmeprotokoll dokumentiert den erfolgreichen Abschluss aller Tests.",
+          "ru": "Акт приемки-передачи (протокол приемки) документирует успешное завершение всех тестов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1804,6 +2129,11 @@
         {
           "de": "Und all dies hat einen sehr gleichmäßigen und vorhersehbaren Anstieg an Produktivität vorangetrieben.",
           "ru": "И всё это является двигателем очень гладкого и предсказуемого прироста продуктивности."
+        },
+        {
+          "de": "Beim Produktivstart wird das alte System abgeschaltet und Daten nur noch im SAP erfasst.",
+          "ru": "При продуктивном старте старая система отключается, а данные регистрируются только в SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1822,6 +2152,11 @@
         {
           "de": "Die Hypercare-Phase dauert in der Regel vier Wochen.",
           "ru": "Этап усиленной поддержки обычно длится четыре недели."
+        },
+        {
+          "de": "Während der Hypercare-Phase steht das Projektteam für dringende Supportanfragen bereit.",
+          "ru": "В период усиленной поддержки после старта (Hypercare) проектная команда готова для решения срочных запросов поддержки.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1848,6 +2183,11 @@
         {
           "de": "Der Regiebetrieb bildet auch in Österreich lediglich eine Abteilung der allgemeinen Verwaltung.",
           "ru": "Таким образом округ в Австрии является основной единицей общего управления."
+        },
+        {
+          "de": "Nach vier Wochen Hypercare geht das System in den Regelbetrieb über.",
+          "ru": "После четырех недель усиленной поддержки система переходит в регулярную эксплуатацию.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1866,6 +2206,11 @@
         {
           "de": "Durch Schulungen konnten wir das Ticket-Volumen im Support reduzieren.",
           "ru": "Благодаря обучению мы смогли сократить объем тикетов в поддержке."
+        },
+        {
+          "de": "Das Ticket-Volumen sinkt in der Regel einige Wochen nach dem Go-Live.",
+          "ru": "Объем поступающих заявок (тикетов), как правило, снижается через несколько недель после запуска системы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1896,6 +2241,11 @@
         {
           "de": "Texturgenerierung nimmt den grossten Anteil der Bearbeitungszeit.",
           "ru": "На первый этап тратится основное время обработки."
+        },
+        {
+          "de": "Die Bearbeitungszeit für kritische Fehler beträgt laut SLA maximal vier Stunden.",
+          "ru": "Время обработки критических ошибок согласно SLA составляет максимум четыре часа.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1956,6 +2306,11 @@
         {
           "de": "Drittens: Eskalation der Erwartungen.",
           "ru": "Третье: рост ожиданий."
+        },
+        {
+          "de": "Eine Eskalation wird eingeleitet, wenn die vertraglich vereinbarte Lösungszeit überschritten wird.",
+          "ru": "Эскалация инициируется в том случае, если превышено согласованное в договоре время решения проблемы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1986,6 +2341,11 @@
         {
           "de": "Wenn es für China und Taiwan je eine Gelegenheit gegeben haben sollte eine Möglichkeit zu finden dafür zu sorgen, dass zukünftige Konfrontationen nicht eskalieren und die USA in einen Konflikt hineingezogen werden, dann jetzt.",
           "ru": "Если бы у Китая и Тайваня и появилась бы возможность найти способ гарантировать, что будущая конфронтация не будет обостряться и что США не будут в нее вовлечены, то это сейчас."
+        },
+        {
+          "de": "Sie können das Ticket an die nächste Supportstufe eskalieren, wenn keine schnelle Lösung in Sicht ist.",
+          "ru": "Вы можете эскалировать тикет на следующий уровень поддержки, если быстрое решение не предвидится.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -2027,6 +2387,11 @@
         {
           "de": "Ja, ich meine, du musst noch ein paar Korrekturen vornehmen, ein bisschen Bearbeitung und Bereinigung.",
           "ru": "Да, но тебе нужно немного поработать над ним, - немного отредактировать и подчистить."
+        },
+        {
+          "de": "Die Bereinigung von doppelten Stammsätzen verbessert die Qualität der Berichte.",
+          "ru": "Очистка дублирующихся основных записей повышает качество отчетов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2045,6 +2410,11 @@
         {
           "de": "Für die Datenbereinigung sind die Fachabteilungen verantwortlich.",
           "ru": "За очистку данных несут ответственность бизнес-подразделения."
+        },
+        {
+          "de": "Die Datenbereinigung ist ein kritischer Erfolgsfaktor für jede Datenmigration.",
+          "ru": "Очистка данных является критическим фактором успеха для любой миграции данных.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2063,6 +2433,11 @@
         {
           "de": "Wir müssen die Schnittstellenabstimmung vor dem Integrationstest abschließen.",
           "ru": "Нам необходимо завершить согласование интерфейсов перед интеграционным тестом."
+        },
+        {
+          "de": "Die Schnittstellenabstimmung mit dem Logistikpartner findet wöchentlich statt.",
+          "ru": "Согласование интерфейсов с партнером по логистике проводится еженедельно.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2081,6 +2456,11 @@
         {
           "de": "Das Migrationswerkzeug importiert die Daten automatisch aus Excel-Vorlagen.",
           "ru": "Инструмент миграции автоматически импортирует данные из шаблонов Excel."
+        },
+        {
+          "de": "Das optimale Migrationswerkzeug für SAP S/4HANA ist das Migration Cockpit.",
+          "ru": "Оптимальным инструментом миграции для SAP S/4HANA является Migration Cockpit.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2141,6 +2521,11 @@
         {
           "de": "Plattformunabhängige Skalierbarkeit der Performanz wird durch rekursive Datenstrukturen und Algorithmen erreicht.",
           "ru": "Независимая от платформы масштабируемость производительности достигнута рекурсивной структурой данных и рекурсивными алгоритмами."
+        },
+        {
+          "de": "Die Datenstruktur der Quelltabelle muss exakt auf die SAP-Zielstruktur abgebildet werden.",
+          "ru": "Структура данных исходной таблицы должна быть точно сопоставлена с целевой структурой SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2159,6 +2544,11 @@
         {
           "de": "Wir müssen jede Mapping-Regel im Migrationswerkzeug definieren.",
           "ru": "Мы должны определить каждое правило сопоставления в инструменте миграции."
+        },
+        {
+          "de": "In der Mapping-Regel legen Sie fest, wie Quellfelder in Zielfelder umgewandelt werden.",
+          "ru": "В правиле сопоставления данных вы определяете, как исходные поля преобразуются в целевые.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2177,6 +2567,11 @@
         {
           "de": "Das Quellfeld in der Alttabelle hat eine Länge von zehn Zeichen.",
           "ru": "Исходное поле в старой таблице имеет длину десять символов."
+        },
+        {
+          "de": "Das Quellfeld enthält das Format des Altsystems.",
+          "ru": "Исходное поле содержит формат исторической системы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2207,6 +2602,11 @@
         {
           "de": "Lucy Danziger, eine Tänzerin im Ziegfeld Follies.",
           "ru": "Люси Данцигер, танцовщица в шоу \"Шалуньи Зигфелда\"."
+        },
+        {
+          "de": "Das Zielfeld in der SAP-Tabelle nimmt den konvertierten Wert auf.",
+          "ru": "Целевое поле в таблице SAP принимает сконвертированное значение.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2225,6 +2625,11 @@
         {
           "de": "Wir haben eine kundenspezifische Konvertierungsregel für die Kundennummern implementiert.",
           "ru": "Мы внедрили специфическое для клиента правило преобразования для номеров клиентов."
+        },
+        {
+          "de": "Eine Konvertierungsregel wandelt beispielsweise alte Ländercodes in ISO-Codes um.",
+          "ru": "Правило конвертации преобразует, например, старые коды стран в коды ISO.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2255,6 +2660,11 @@
         {
           "de": "[…] es ist nach wie vor so, dass die Arzneiprüfung an Mäusen vorgenommen wird, jedoch dank neuerer Testsysteme in geringerem Ausmass als früher.",
           "ru": "[…] тестирование на наркотики по-прежнему проводится на мышах, но благодаря новым системам тестирования в меньшей степени, чем раньше."
+        },
+        {
+          "de": "Auf dem Testsystem können Sie neue Geschäftsszenarien gefahrlos erproben.",
+          "ru": "В тестовой системе вы можете безопасно опробовать новые бизнес-сценарии.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2273,6 +2683,11 @@
         {
           "de": "Das Sandbox-System wurde gestern mit aktuellen Daten aktualisiert.",
           "ru": "Система песочницы была обновлена вчера актуальными данными."
+        },
+        {
+          "de": "Das Sandbox-System dient als freie Testumgebung ohne Auswirkung auf andere Projekte.",
+          "ru": "Песочница (sandbox) служит свободной тестовой средой без влияния на другие проекты.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2291,6 +2706,11 @@
         {
           "de": "Ein Release-Upgrade bringt neue Funktionen und Sicherheitsupdates.",
           "ru": "Обновление релиза приносит новые функции и обновления безопасности."
+        },
+        {
+          "de": "Ein Release-Upgrade bringt das System auf den neuesten Softwarestand.",
+          "ru": "Обновление версии (Release-Upgrade) переводит систему на последнюю версию ПО.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2321,6 +2741,11 @@
         {
           "de": "Hast Du Fragen oder Probleme, wende Dich bitte an unseren Support.",
           "ru": "Хочешь задать вопросы или поделиться проблемами? Тогда обращайся в нашу службу поддержки."
+        },
+        {
+          "de": "Das Einspielen eines Support Packages behebt bekannte Fehler im Standard.",
+          "ru": "Установка пакета поддержки (Support Package) устраняет известные ошибки в стандарте.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2339,6 +2764,11 @@
         {
           "de": "Der Berater suchte im SAP-Support-Portal nach einem passenden SAP-Hinweis.",
           "ru": "Консультант искал подходящую ноту SAP на портале поддержки SAP."
+        },
+        {
+          "de": "Im SAP-Hinweis finden Sie Anweisungen zur Korrektur eines Programmfehlers.",
+          "ru": "В ноте SAP вы найдете инструкции по исправлению программной ошибки.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2369,6 +2799,11 @@
         {
           "de": "Könnten wir bitte das Video einspielen?",
           "ru": "Мы можем включить запись."
+        },
+        {
+          "de": "Sie müssen den SAP-Hinweis einspielen, um das Problem in der Buchhaltung zu beheben.",
+          "ru": "Вам необходимо применить ноту SAP, чтобы устранить проблему в бухгалтерии.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -2406,6 +2841,11 @@
         {
           "de": "Wenn Sie bereits einen Visual Studio 2008-Hotfix oder die Vorabversion von Visual Studio 2008 SP1 installiert haben, müssen Sie vor der Installation von Visual Studio 2008 SP1 das Service Pack-Vorbereitungstool ausführen.",
           "ru": "Если ранее были установлены исправление Visual Studio 2008 Hotfix или предварительная версия пакета обновления Visual Studio 2008 SP1, перед установкой Visual Studio 2008 SP1 необходимо запустить инструмент подготовки к установке пакета обновления."
+        },
+        {
+          "de": "Der Hotfix wurde direkt vom SAP-Support zur Verfügung gestellt.",
+          "ru": "Срочное исправление (хотфикс) было предоставлено непосредственно службой поддержки SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2424,6 +2864,11 @@
         {
           "de": "Während der Systemaktualisierung ist das SAP-System nicht erreichbar.",
           "ru": "Во время обновления системы система SAP недоступна."
+        },
+        {
+          "de": "Die Systemaktualisierung wird am Wochenende durchgeführt, um den Betrieb nicht zu stören.",
+          "ru": "Обновление системы выполняется в выходные дни, чтобы не мешать текущей работе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2454,6 +2899,11 @@
         {
           "de": "Was ist mit Datensicherung?",
           "ru": "А что на счёт запасного устройства?"
+        },
+        {
+          "de": "Die Datensicherung muss täglich durchgeführt und an einem sicheren Ort aufbewahrt werden.",
+          "ru": "Резервное копирование данных должно выполняться ежедневно, а копии должны храниться в безопасном месте.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2484,6 +2934,11 @@
         {
           "de": "Ich prüfe das Backup.",
           "ru": "Я проверю резервные копии."
+        },
+        {
+          "de": "Im Falle eines Systemabsturzes kann das letzte Backup eingespielt werden.",
+          "ru": "В случае сбоя системы может быть установлена последняя резервная копия (бэкап).",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2514,6 +2969,11 @@
         {
           "de": "Denkst du, dass du ihre Erinnerung wiederherstellen kannst?",
           "ru": "Думаете, вы сможете вернуть ей память?"
+        },
+        {
+          "de": "Wir mussten das System aus dem gestrigen Backup wiederherstellen.",
+          "ru": "Нам пришлось восстановить систему из вчерашней резервной копии.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -2555,6 +3015,11 @@
         {
           "de": "Könnte am Systemausfall liegen.",
           "ru": "Я думаю, из-за поломки."
+        },
+        {
+          "de": "Ein Systemausfall im Produktivsystem verursacht hohe finanzielle Schäden.",
+          "ru": "Сбой в работе продуктивной системы наносит большой финансовый ущерб.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2585,6 +3050,11 @@
         {
           "de": "Eine Benachrichtigung enthält den Namen der Website oder des Servers, den aktuellen Status, die Ausfallzeit in Ihrer lokalen Zeit und relevante Fehlerangaben.",
           "ru": "Уведомление содержит название сайта или сервера, текущий статус, время возникновения неполадки (ваше местное) и описание ошибки."
+        },
+        {
+          "de": "Die geplante Ausfallzeit für die Systemwartung beträgt zwei Stunden.",
+          "ru": "Запланированное время простоя для технического обслуживания системы составляет два часа.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2603,6 +3073,11 @@
         {
           "de": "Wir testen die Wiederherstellungszeit bei unserer jährlichen Notfallübung.",
           "ru": "Мы тестируем время восстановления во время ежегодных учений по чрезвычайным ситуациям."
+        },
+        {
+          "de": "Die Wiederherstellungszeit nach dem Datenbankfehler betrug weniger als eine Stunde.",
+          "ru": "Время восстановления после ошибки базы данных составило менее одного часа.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2621,6 +3096,11 @@
         {
           "de": "Ein wichtiger Teil der Katastrophenfall-Vorsorge ist der Disaster-Recovery-Plan.",
           "ru": "Важной частью планирования действий на случай чрезвычайных ситуаций является план аварийного восстановления."
+        },
+        {
+          "de": "Die Katastrophenfall-Vorsorge stellt sicher, dass bei einem Brand ein redundantes Rechenzentrum übernimmt.",
+          "ru": "Планирование аварийного восстановления гарантирует, что в случае пожара управление возьмет на себя резервный дата-центр.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2651,6 +3131,11 @@
         {
           "de": "Geben Sie eine kleinere Anzahl von Zeilen an, als im benutzten Vokabeldokument vorhanden sind, so kann das zum Datenverlust führen.",
           "ru": "Если вы по ошибке недовведёте цифру и количество рядов окажется меньше текущего, возможна потеря данных."
+        },
+        {
+          "de": "Ohne regelmäßige Backups riskieren Sie bei einem Hardwarefehler einen massiven Datenverlust.",
+          "ru": "Без регулярного резервного копирования вы рискуете получить масштабную потерю данных в случае сбоя оборудования.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2669,6 +3154,11 @@
         {
           "de": "Der Sicherheitsbeauftragte muss das Berechtigungskonzept genehmigen.",
           "ru": "Сотрудник по безопасности должен утвердить концепцию полномочий."
+        },
+        {
+          "de": "Das Berechtigungskonzept regelt den Zugriff der Mitarbeiter auf vertrauliche Finanzdaten.",
+          "ru": "Концепция полномочий регулирует доступ сотрудников к конфиденциальным финансовым данным.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []

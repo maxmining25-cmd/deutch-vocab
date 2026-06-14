@@ -19,6 +19,11 @@
         {
           "de": "Der Berater konfigurierte die Fiori-App gemäß den Anforderungen des Kunden.",
           "ru": "Консультант настроил приложение Fiori в соответствии с требованиями клиента."
+        },
+        {
+          "de": "Mit der Fiori-App können Benutzer Buchungsbelege direkt auf mobilen Endgeräten freigeben.",
+          "ru": "С помощью приложения Fiori пользователи могут утверждать бухгалтерские документы прямо на мобильных устройствах.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -41,6 +46,11 @@
         {
           "de": "Die Launchpad-Kachel zeigt dynamische Daten wie die Anzahl der offenen Aufgaben an.",
           "ru": "Плитка Launchpad отображает динамические данные, такие как количество открытых задач."
+        },
+        {
+          "de": "Durch Klicken auf die Launchpad-Kachel öffnet sich die entsprechende SAP-Anwendung im Webbrowser.",
+          "ru": "При нажатии на плитку Launchpad в веб-браузере открывается соответствующее приложение SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -71,6 +81,11 @@
         {
           "de": "Es ist nicht zu sagen, einfache Benutzeroberfläche, funktionalen Prozess extrem schnell und einfach zu konfigurieren, erstaunliche Ergebnis der qualitativen Gesichtspunkten.",
           "ru": "Существует не сказать, простой интерфейс, функциональные процесс очень быстро и легко настроить, удивительный результат с качественной точки зрения."
+        },
+        {
+          "de": "Die moderne Fiori-Benutzeroberfläche zeichnet sich durch ein rollenbasiertes und responsives Design aus.",
+          "ru": "Современный пользовательский интерфейс Fiori отличается ролевым и адаптивным дизайном.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -93,6 +108,11 @@
         {
           "de": "Jede Buchung erzeugt im Universal-Journal einen Beleg mit detaillierten Kontierungsattributen.",
           "ru": "Каждая проводка создает в универсальном журнале документ с подробными атрибутами контировки."
+        },
+        {
+          "de": "Das Universal-Journal in SAP S/4HANA führt Finanzbuchhaltung und Controlling in einer Tabelle zusammen.",
+          "ru": "Единый журнал проводок в SAP S/4HANA объединяет финансовую бухгалтерию и контроллинг в одной таблице.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -119,6 +139,11 @@
         {
           "de": "Redis ist eine In-Memory-Datenbank mit einer einfachen Schlüssel-Werte-Datenstruktur (englisch key value store) und gehört zur Familie der NoSQL-Datenbanken (ist also nicht relational).",
           "ru": "Redis — это база данных в памяти с простой структурой данных «ключ-значение», принадлежащая к семейству баз данных NoSQL (т. е. она не является реляционной)."
+        },
+        {
+          "de": "Die SAP-HANA-Plattform basiert auf einer In-Memory-Datenbank, die extrem schnelle Datenanalysen ermöglicht.",
+          "ru": "Платформа SAP HANA основана на базе данных в оперативной памяти, что обеспечивает экстремально быстрый анализ данных.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -141,6 +166,11 @@
         {
           "de": "Bei der Überwachung von Produktionsprozessen ist die Echtzeit-Datenverarbeitung für die Sicherheit unverzichtbar.",
           "ru": "При мониторинге производственных процессов обработка данных в реальном времени незаменима для обеспечения безопасности."
+        },
+        {
+          "de": "Die Echtzeit-Datenverarbeitung eliminiert zeitaufwändige Abstimmungsarbeiten am Periodenende.",
+          "ru": "Обработка данных в реальном времени исключает трудоемкие работы по выверке в конце периода.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -163,6 +193,11 @@
         {
           "de": "Entwickler müssen verstehen, wie die Spaltenorientierung die Indexierung und Suche im System beeinflusst.",
           "ru": "Разработчики должны понимать, как ориентирование по столбцам влияет на индексацию и поиск в системе."
+        },
+        {
+          "de": "Dank der Spaltenorientierung in SAP HANA können relationale Tabellen stark komprimiert werden.",
+          "ru": "Благодаря колоночному хранению данных в SAP HANA реляционные таблицы могут быть сильно сжаты.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -185,6 +220,11 @@
         {
           "de": "Im Vergleich zur Spaltenorientierung verbraucht die Zeilenorientierung bei Abfragen über wenige Spalten hinweg mehr Rechenleistung.",
           "ru": "По сравнению с ориентированием по столбцам, ориентирование по строкам при запросах к немногим столбцам расходует больше вычислительной мощности."
+        },
+        {
+          "de": "Die Zeilenorientierung wird im System vor allem für Tabellen verwendet, bei denen häufig einzelne Datensätze geändert werden.",
+          "ru": "Построчное хранение данных используется в системе прежде всего для таблиц, в которых часто изменяются отдельные записи данных.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -215,6 +255,11 @@
         {
           "de": "Zeigt alle Felder an, die in die neue Tabelle aufgenommen werden.",
           "ru": "Отображает все поля, которые будут включены в новую таблицу."
+        },
+        {
+          "de": "Die Tabelle ACDOCA enthält alle Buchungszeilen des Universal-Journals.",
+          "ru": "Таблица ACDOCA содержит все строки проводок единого журнала.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -241,6 +286,11 @@
         {
           "de": "Das Utility hilft Ihnen, den verlorenen Quellcode sowie alle Formulare und Datenmodule mit allen zugeordneten Eigenschaften und Ereignisse wiederherzustellen.",
           "ru": "Восстановите утерянный исходный код из исполняемых файлов. Source Rescuer поможет вам восстановить все формы проекта и модули данных со всеми присвоенными свойствами и событиями."
+        },
+        {
+          "de": "Das neue Datenmodell reduziert die Anzahl der Tabellen durch den Wegfall von Aggregaten drastisch.",
+          "ru": "Новая модель данных кардинально сокращает количество таблиц за счет исключения агрегированных данных.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -271,6 +321,11 @@
         {
           "de": "Wozu brauche ich eine solche Redundanz?",
           "ru": "Зачем нужно такое дублирование? Это же ваши файлы."
+        },
+        {
+          "de": "Durch die Beseitigung von Redundanz im Datenmodell wird der Speicherplatzbedarf im System verringert.",
+          "ru": "За счет устранения избыточности в модели данных снижается необходимость системы в дисковой памяти.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -293,6 +348,11 @@
         {
           "de": "Durch die Konsolidierung der Vorsysteme konnten wir unsere Berichterstattung weitgehend redundanzfrei gestalten.",
           "ru": "Благодаря консолидации исходных систем мы смогли сделать нашу отчетность в значительной степени свободной от избыточности."
+        },
+        {
+          "de": "Die Architektur von SAP S/4HANA erlaubt eine weitgehend redundanzfreie Speicherung von Finanzdaten.",
+          "ru": "Архитектура SAP S/4HANA позволяет хранить финансовые данные практически без избыточности.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -315,6 +375,11 @@
         {
           "de": "Jede Buchung im Hauptbuch-Journal muss durch einen entsprechenden Beleg nachgewiesen werden.",
           "ru": "Каждая проводка in журнале Главной книги должна быть подтверждена соответствующим первичным документом."
+        },
+        {
+          "de": "Jede Buchung im Hauptbuch-Journal erzeugt sofort einen Eintrag in den betroffenen Ledger-Tabellen.",
+          "ru": "Каждая проводка в журнале главной книги немедленно создает запись в соответствующих таблицах регистров.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -337,6 +402,11 @@
         {
           "de": "Eine Abfrage auf die Einzelposten-Tabelle kann bei sehr großen Datenmengen einige Minuten in Anspruch nehmen.",
           "ru": "Запрос к таблице отдельных позиций при очень больших объемах данных может занять несколько минут."
+        },
+        {
+          "de": "Die Einzelposten-Tabelle speichert alle granularen Informationen zu jeder Buchungstransaktion.",
+          "ru": "Таблица позиций документа сохраняет всю детализированную информацию по каждой транзакции проводки.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -367,6 +437,11 @@
         {
           "de": "Happy, ein Aggregation Router der 2000er Serie wird über Nacht aus Berlin geschickt.",
           "ru": "Аггрегационный машрутизатор серии 2000 будет доставлен завтра из Берлина."
+        },
+        {
+          "de": "Die Aggregationslogik wird on-the-fly ausgeführt, wodurch vordefinierte Summentabellen überflüssig werden.",
+          "ru": "Логика агрегации выполняется 'на лету', благодаря чему предопределенные суммарные таблицы становятся ненужными.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -397,6 +472,11 @@
         {
           "de": "Die aggregierte Nachfragekurve zeigt die Kombination des Preisniveaus und der Menge, bei der sich Güter- und Geldmarkt im Gleichgewicht befinden.",
           "ru": "Кривая совокупного спроса AD показывает комбинации уровня цен и уровня выпуска, при которых рынки товаров и рынки активов находятся в равновесии."
+        },
+        {
+          "de": "Das System kann Daten über verschiedene Dimensionen hinweg in Echtzeit aggregieren.",
+          "ru": "Система может агрегировать данные по различным измерениям в режиме реального времени.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -438,6 +518,11 @@
         {
           "de": "Wenn Sie mich brauchen, sagen Sie \"Index\".",
           "ru": "Если я вам понадоблюсь, скажите «Указатель»."
+        },
+        {
+          "de": "Ein sekundärer Index wird im Datenbanksystem angelegt, um Suchanfragen zu beschleunigen.",
+          "ru": "В системе баз данных создается вторичный индекс для ускорения поисковых запросов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -468,6 +553,11 @@
         {
           "de": "Da die reale Anwendungswelt nicht nur aus linearen Speicherzugriffen besteht, blieb der Performance-Gewinn eher bescheiden.",
           "ru": "Поскольку реальный мир приложений состоит не только из линейного доступа к памяти, прирост производительности остался довольно скромным."
+        },
+        {
+          "de": "Der Performance-Gewinn nach der Migration auf SAP S/4HANA zeigt sich besonders bei komplexen Berichten.",
+          "ru": "Прирост производительности после миграции на SAP S/4HANA особенно заметен на сложных отчетах.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -498,6 +588,11 @@
         {
           "de": "Die Defragmentierung, würde in der Theorie, den Inhalt (Datenfelder machen) der einzelnen Datei gespeichert werden am nächsten Ladezeiten und Suche zu reduzieren.",
           "ru": "Defrag, в теории, сделает содержимое (поле данных) для каждого файла хранятся ближайших сократить время загрузки и поиска."
+        },
+        {
+          "de": "Die Ladezeit von Dashboards im Launchpad hängt von der Anzahl der aktiven dynamischen Kacheln ab.",
+          "ru": "Время загрузки панелей в Launchpad зависит от количества активных динамических плиток.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -520,6 +615,11 @@
         {
           "de": "Für kleinere Niederlassungen ist die Cloud-Variante oft die flexibelste und kostengünstigste Lösung.",
           "ru": "Для небольших филиалов облачный вариант часто является самым гибким и экономически выгодным решением."
+        },
+        {
+          "de": "Die Cloud-Variante von SAP S/4HANA wird vierteljährlich mit neuen Updates und Innovationen versorgt.",
+          "ru": "Облачная версия SAP S/4HANA ежеквартально снабжается новыми обновлениями и инновациями.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -542,6 +642,11 @@
         {
           "de": "Die Anpassungsmöglichkeiten im Quellcode sind bei der On-Premise-Variante in der Regel weitaus umfangreicher.",
           "ru": "Возможности адаптации исходного кода в локальном варианте, как правило, гораздо шире."
+        },
+        {
+          "de": "Die On-Premise-Variante bietet Kunden maximale Flexibilität bei der Modifikation des Quellcodes.",
+          "ru": "Локальная версия (On-Premise) предоставляет клиентам максимальную гибкость при модификации исходного кода.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -572,6 +677,11 @@
         {
           "de": "Wer sich nicht zwischen einem Laptop und einem Tablet-PC entscheiden kann, dem will Asus mit dem EeePad Slider eine neue Hybrid-Lösung anbieten.",
           "ru": "Тем, кто не может выбрать между ноутбуком и планшетом, Asus хочет предложить новое гибридное решение — EeePad Slider."
+        },
+        {
+          "de": "Eine Hybrid-Lösung kombiniert die Vorteile von On-Premise-Systemen mit agilen Cloud-Anwendungen.",
+          "ru": "Гибридное решение объединяет преимущества локальных систем с гибкими облачными приложениями.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -594,6 +704,11 @@
         {
           "de": "Die dynamische Fiori-Kachel zeigt direkt auf der Oberfläche die Anzahl der aktuell offenen Aufgaben an.",
           "ru": "Динамическая плитка Fiori показывает количество текущих открытых задач прямо на своем интерфейсе."
+        },
+        {
+          "de": "Jede Fiori-Kachel repräsentiert eine bestimmte Transaktion oder einen KPI im Fiori Launchpad.",
+          "ru": "Каждая плитка Fiori представляет собой определенную транзакцию или ключевой показатель эффективности на панели запуска Fiori.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -620,6 +735,11 @@
         {
           "de": "Während der Show verwendet er neben seinen Launchpads auch Novation's SL MKII, FL Studio und Ableton Live.",
           "ru": "Во время живых выступлений, помимо лаунчпада, он так же использует Zero SL MKII, FL Studio, и Ableton Live."
+        },
+        {
+          "de": "Das Fiori Launchpad dient als zentraler Einstiegspunkt für alle SAP-Benutzer im Unternehmen.",
+          "ru": "Fiori Launchpad служит единой точкой входа для всех пользователей SAP на предприятии.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -642,6 +762,11 @@
         {
           "de": "Sie können eine App-Gruppe in den Launchpad-Einstellungen ausblenden, wenn Sie diese nicht täglich benötigen.",
           "ru": "Вы можете скрыть группу приложений в настройках панели запуска, если она не нужна вам каждый день."
+        },
+        {
+          "de": "Der Administrator kann eine App-Gruppe erstellen, um verwandte Apps für bestimmte Benutzerrollen zusammenzufassen.",
+          "ru": "Администратор может создать группу приложений для объединения связанных приложений для определенных ролей пользователей.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -672,6 +797,11 @@
         {
           "de": "Und jetzt Conrad wird die Welt verändern als er auf dem App-Store geht live in drei, zwei...",
           "ru": "Приготовьтесь, Ваша жизнь изменится со стартом продаж Конрада в эппстор через три, две..."
+        },
+        {
+          "de": "In der App-Bibliothek oder im App-Store können zusätzliche SAP-Standard-Apps gesucht werden.",
+          "ru": "В библиотеке или магазине приложений можно найти дополнительные стандартные приложения SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -702,6 +832,11 @@
         {
           "de": "Und ich glaube totale Personalisierung in dieser neuen Welt bedarf totaler Transparenz.",
           "ru": "И я думаю, что полная персонализация в этом новом мире потребует полной прозрачности."
+        },
+        {
+          "de": "Über die Personalisierung kann der Anwender sein Launchpad individuell anpassen und Favoriten anlegen.",
+          "ru": "С помощью персонализации пользователь может индивидуально настроить панель запуска и создать избранное.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -732,6 +867,11 @@
         {
           "de": "Und ich wollte das einfach nur personalisieren.",
           "ru": "И я просто хотела персонифицировать это."
+        },
+        {
+          "de": "Benutzer können das Erscheinungsbild der Oberfläche nach eigenen Vorlieben personalisieren.",
+          "ru": "Пользователи могут персонализировать внешний вид интерфейса в соответствии со своими предпочтениями.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -773,6 +913,11 @@
         {
           "de": "Verwalten und veröffentlichen alle nachfolgenden Inserate von Ihrem benutzerdefinierten Dashboard.",
           "ru": "Управление и опубликовать все последующие списки настраиваемые панели."
+        },
+        {
+          "de": "Das Dashboard zeigt dem Vertriebsleiter eine Übersicht über die aktuellen Umsatzzahlen und Lieferrückstände.",
+          "ru": "Информационная панель показывает руководителю отдела сбыта обзор текущих показателей выручки и отставаний по поставкам.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -803,6 +948,11 @@
         {
           "de": "So machen in Mexiko Hypothekenschulden weniger als 10% des BIP aus, verglichen mit ca. 50% in Europa und 82% in den USA - eine Kennzahl, die sich in den letzten zwei Jahrzehnten mehr als vervierfacht hat.",
           "ru": "Например, в Мексике долг по ипотекам составляет менее 10% ВВП, около 50% ВВП он составляет в Европе и 82% в США - соотношение, которое увеличилось более чем в четыре раза за последние двадцать лет."
+        },
+        {
+          "de": "Die Kennzahl 'Tage des ausstehenden Umsatzes' (DSO) wird im Finanz-Dashboard in Echtzeit berechnet.",
+          "ru": "Ключевой показатель 'период оборачиваемости дебиторской задолженности' (DSO) рассчитывается на финансовой панели в реальном времени.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -825,6 +975,11 @@
         {
           "de": "Das neue Dashboard bietet eine visuelle Echtzeit-Analyse aller laufenden Kundenprojekte.",
           "ru": "Новая панель управления предлагает визуальный анализ в реальном времени всех текущих проектов клиентов."
+        },
+        {
+          "de": "Eine Echtzeit-Analyse ermöglicht es, finanzielle Engpässe sofort bei ihrem Entstehen zu erkennen.",
+          "ru": "Аналитика в реальном времени позволяет выявлять финансовые трудности непосредственно в момент их возникновения.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -855,6 +1010,11 @@
         {
           "de": "Es gibt auch eine Suchfunktion, falls man an einer bestimmten Bevölkerung interessiert ist.",
           "ru": "Здесь также имеется возможность поиска, если вам интересно узнать об определенных группах людей."
+        },
+        {
+          "de": "Die integrierte Suchfunktion im Launchpad durchsucht sowohl Belege als auch Stammdaten.",
+          "ru": "Встроенная функция поиска на панели запуска ищет как документы, так и основные данные.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -877,6 +1037,11 @@
         {
           "de": "Dank der Enterprise-Search sparen unsere Sachbearbeiter täglich viel Zeit bei der Recherche von Vorgängen.",
           "ru": "Благодаря корпоративному поиску наши специалисты ежедневно экономят много времени при поиске информации о процессах."
+        },
+        {
+          "de": "Mit der Enterprise-Search können Sie systemübergreifend nach Stichworten wie Materialnummern oder Kundennamen suchen.",
+          "ru": "С помощью глобального поиска Enterprise Search вы можете выполнять поиск по всей системе по ключевым словам, таким как номера материалов или имена клиентов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -907,6 +1072,11 @@
         {
           "de": "Filter werden nur innerhalb eines Dokuments an ein Bild angewandt.",
           "ru": "Фильтры применяются к изображению только внутри документа."
+        },
+        {
+          "de": "Sie können einen Filter setzen, um die Belegliste auf eine bestimmte Verkaufsorganisation einzuschränken.",
+          "ru": "Вы можете применить фильтр, чтобы ограничить список документов определенной сбытовой организацией.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -937,6 +1107,11 @@
         {
           "de": "Eurer Kreislaufsystem hat die Fähigkeit entwickelt, die Strahlung zu filtern.",
           "ru": "Ваша кровеносная система выработала возможность фильтрации радиации."
+        },
+        {
+          "de": "In dieser App können Sie die offenen Posten nach Fälligkeitsdatum filtern.",
+          "ru": "В этом приложении вы можете отфильтровать открытые позиции по сроку оплаты.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -978,6 +1153,11 @@
         {
           "de": "Eine Variante dieses Gens gibt es auch bei normalen Menschen.",
           "ru": "И разновидность этого гена есть и у нормальных людей."
+        },
+        {
+          "de": "Sie können die Filtereinstellungen als Variante speichern, um sie beim nächsten App-Start wiederzuverwenden.",
+          "ru": "Вы можете сохранить настройки фильтра в качестве варианта выбора, чтобы использовать их снова при следующем запуске приложения.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1008,6 +1188,11 @@
         {
           "de": "Dann schützen Sie die gesamte Tabelle und speichern das Dokument.",
           "ru": "После этого следует защитить всю таблицу и сохранить документ."
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Änderungen zu speichern, bevor Sie die Transaktion verlassen.",
+          "ru": "Не забудьте сохранить изменения перед выходом из транзакции.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -1049,6 +1234,11 @@
         {
           "de": "Meiner Ansicht nach sind diese Zinssätze zu niedrig.",
           "ru": "На мой взгляд, такие процентные ставки были бы слишком низки."
+        },
+        {
+          "de": "Die Ansicht der Tabelle kann durch das Hinzufügen oder Ausblenden von Spalten angepasst werden.",
+          "ru": "Представление таблицы можно настроить, добавив или скрыв столбцы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1079,6 +1269,11 @@
         {
           "de": "Außerdem ist das Layout schon fertig.",
           "ru": "К тому же, газета уже вышла."
+        },
+        {
+          "de": "Das benutzerdefinierte Layout kann als Standard für alle zukünftigen Berichtsaufrufe definiert werden.",
+          "ru": "Пользовательский формат отображения (макет) может быть задан по умолчанию для всех последующих вызовов отчетов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1109,6 +1304,11 @@
         {
           "de": "Entfernt diese Spalte und alle ihre Einträge.",
           "ru": "Удалить этот столбец и все его содержимое."
+        },
+        {
+          "de": "Die Spalte 'Buchungskreis' ist ein obligatorischer Bestandteil dieses Finanzberichts.",
+          "ru": "Столбец 'Балансовая единица' является обязательным компонентом этого финансового отчета.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1139,6 +1339,11 @@
         {
           "de": "Plötzlich schrieb er wieder, eine erste Zeile auf der letzten Seite.",
           "ru": "Внезапно он снова написал, первую строку на последней странице."
+        },
+        {
+          "de": "Jede Zeile in dieser Tabelle entspricht einer Buchungszeile im Beleg.",
+          "ru": "Каждая строка в этой таблице соответствует строке проводки в документе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1169,6 +1374,11 @@
         {
           "de": "Ich muss allein sein, um all die Informationen zu sortieren.",
           "ru": "Я хочу побыть один, чтобы во всем разобраться."
+        },
+        {
+          "de": "Sie können die Debitorenliste nach dem ausstehenden Saldo sortieren.",
+          "ru": "Вы можете отсортировать список дебиторов по сумме непогашенного сальдо.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -1210,6 +1420,11 @@
         {
           "de": "Weitere ausgewählte auf der Grundlage unserer Mango, nicht die Verpackung und Sortierung nur die übergeordneten Mango.",
           "ru": "Дальнейшее выбраны на основе наших манго, делать по упаковке и сортировке только высшего уровня, манго."
+        },
+        {
+          "de": "Die Sortierung der Belege erfolgt standardmäßig in absteigender Reihenfolge nach dem Buchungsdatum.",
+          "ru": "Сортировка документов по умолчанию выполняется по убыванию даты проводки.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1240,6 +1455,11 @@
         {
           "de": "In diesem Fall könnte die FARC die Friedensverhandlungen dazu benutzen - wie sie das in der Vergangenheit mehrmals getan hat -, Zeit zu gewinnen, sich wieder zu bewaffnen und neu zu gruppieren.",
           "ru": "В этом случае, FARC может использовать мирные переговоры - как уже неоднократно случалось - чтобы выгадать время, перевооружиться и перегруппироваться."
+        },
+        {
+          "de": "Sie können die Ergebnisse nach Produktkategorie gruppieren, um eine bessere Übersicht zu erhalten.",
+          "ru": "Вы можете сгруппировать результаты по категориям продуктов для получения более удобного обзора.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -1281,6 +1501,11 @@
         {
           "de": "Jene sind die Gruppierung des Satans.",
           "ru": "Они - партия сатаны."
+        },
+        {
+          "de": "Die Gruppierung von Posten erleichtert die Durchführung von Massenänderungen im System.",
+          "ru": "Группировка позиций облегчает выполнение массовых изменений в системе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1311,6 +1536,11 @@
         {
           "de": "Die hergestellten Milchprodukte gehen zum Teil in den Export.",
           "ru": "Большая часть производимых лесоматериалов идёт на экспорт."
+        },
+        {
+          "de": "Der Export von Berichtsdaten wird über eine Standard-Schaltfläche in der Symbolleiste gestartet.",
+          "ru": "Экспорт данных отчета запускается с помощью стандартной кнопки на панели инструментов.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1341,6 +1571,11 @@
         {
           "de": "Die Peripherie kann erst wieder wachsen, wenn es ihr gelingt, mehr zu exportieren.",
           "ru": "Периферия может снова вырасти, только если ей удастся больше экспортировать."
+        },
+        {
+          "de": "Sie können die berechneten Daten direkt in eine Excel-Tabelle exportieren.",
+          "ru": "Вы можете экспортировать рассчитанные данные напрямую в таблицу Excel.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -1382,6 +1617,11 @@
         {
           "de": "Wenn Sie eine Excel Tabelle öffnen, welche indirekte Adressen aus Zeichenkettenfunktionen enthält, werden die Tabellenblatt-Adressen nicht automatisch übersetzt.",
           "ru": "При открытии электронной таблицы Excel, в которой используются косвенные адреса, рассчитанные с помощью строковых функций, автоматическое преобразование адресов листа не выполняется."
+        },
+        {
+          "de": "Nach dem Download wird die Liste als formatierte Excel-Tabelle auf Ihrem lokalen Rechner gespeichert.",
+          "ru": "После загрузки список сохраняется на вашем локальном компьютере в виде отформатированной таблицы Excel.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1412,6 +1652,11 @@
         {
           "de": "SAP will Zahl der Mitarbeiter in China verdoppeln",
           "ru": "SAP планирует удвоить количество работников в Китае"
+        },
+        {
+          "de": "Das klassische SAP GUI wird weiterhin für administrative Aufgaben im Backend-System verwendet.",
+          "ru": "Классический интерфейс SAP GUI по-прежнему используется для административных задач в бэкэнд-системе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1442,6 +1687,11 @@
         {
           "de": "Tom, eine Transaktion in dieser Größe in bar ist höchst vorschriftswidrig.",
           "ru": "Том, операция с наличными в таком объеме, - это неправильно."
+        },
+        {
+          "de": "Jede Transaktion im System ist über einen eindeutigen vierstelligen Code aufrufbar.",
+          "ru": "Каждая транзакция в системе может быть вызвана с помощью уникального четырехзначного кода.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1464,6 +1714,11 @@
         {
           "de": "Der Administrator hat den Transaktionscode für die Systemeinstellungen für normale Benutzer gesperrt.",
           "ru": "Администратор заблокировал код транзакции системных настроек для обычных пользователей."
+        },
+        {
+          "de": "Geben Sie den Transaktionscode SPRO in das Befehlsfeld ein, um in das Customizing-Menü zu gelangen.",
+          "ru": "Введите код транзакции SPRO в поле ввода команд, чтобы перейти в меню настройки.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1486,6 +1741,11 @@
         {
           "de": "Nach der Auswahl rufen wir Decorator aus dem Menü des Programms mit der Befehlsfolge Filter > AKVIS > Decorator auf.",
           "ru": "Вызовем плагин Decorator из меню фоторедактора. Filter > AKVIS > Decorator."
+        },
+        {
+          "de": "Im Befehlsfeld von SAP GUI können Sie mit dem Präfix '/n' eine neue Transaktion starten.",
+          "ru": "В поле ввода команд SAP GUI вы можете запустить новую транзакцию с помощью префикса '/n'.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1516,6 +1776,11 @@
         {
           "de": "So hat der ermordete Mann den Zwischenfall aber nicht in seinem Report beschrieben.",
           "ru": "Этот убитый парень не так описал происшествие в своем отчете."
+        },
+        {
+          "de": "Der Report listet alle überfälligen Rechnungen des aktuellen Geschäftsjahres auf.",
+          "ru": "Отчет выводит список всех просроченных счетов за текущий финансовый год.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1538,6 +1803,11 @@
         {
           "de": "Wir haben die Selektionsmaske personalisiert, sodass unsere bevorzugten Werke immer vorausgewählt sind.",
           "ru": "Мы настроили селекционный экран под себя, так что наши предпочтительные заводы всегда выбраны заранее."
+        },
+        {
+          "de": "Geben Sie auf der Selektionsmaske den Buchungskreis ein, um die Datenmenge einzuschränken.",
+          "ru": "Введите балансовую единицу на экране выбора параметров, чтобы ограничить объем данных.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1568,6 +1838,11 @@
         {
           "de": "Füllen Sie bitte die Pflichtfelder () des nachfolgenden Formulars aus. Sie werden so schnell wie möglich auf Ihre Anfrage eine Rückantwort per E-Mail von unserem Personal erhalten.",
           "ru": "Заполните необходимые поля () бланка онлайн и вы получите ответ на Ваш e-mail по возможности немедленно."
+        },
+        {
+          "de": "Das Feld 'Geschäftspartner-ID' ist ein Pflichtfeld und darf nicht leer gelassen werden.",
+          "ru": "Поле 'ID делового партнера' является обязательным для заполнения и не может быть оставлено пустым.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1598,6 +1873,11 @@
         {
           "de": "Klicken Sie auf ein anderes Optionsfeld der gleichen Gruppe.",
           "ru": "Нажатие другого переключателя в этой же группе."
+        },
+        {
+          "de": "Wählen Sie das entsprechende Optionsfeld aus, um die Verarbeitung im Hintergrund zu aktivieren.",
+          "ru": "Выберите соответствующую радиокнопку, чтобы активировать фоновую обработку.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1628,6 +1908,11 @@
         {
           "de": "Aktivieren Sie dieses Kontrollkästchen und doppelklicken Sie auf eine Elementbezeichnung in der Tabelle, um Details für das Element ein- oder auszublenden.",
           "ru": "Установите этот флажок и дважды щелкните на подписи элемента в таблице, чтобы показать или скрыть подробные сведения о нем."
+        },
+        {
+          "de": "Aktivieren Sie das Kontrollkästchen, wenn Sie den Beleg direkt buchen möchten.",
+          "ru": "Установите флажок, если вы хотите провести документ напрямую.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1658,6 +1943,11 @@
         {
           "de": "Wählen Sie \"Ja\" , um die Dropdown-Option für Listen- und Kombinationsfelder zu aktivieren.",
           "ru": "Выберите значение \"Да\", чтобы включить параметр \"Раскрывающийся\" для элементов управления списка или поля со списком."
+        },
+        {
+          "de": "Wählen Sie die gewünschte Währung aus der Dropdown-Liste aus.",
+          "ru": "Выберите желаемую валюту из выпадающего списка.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1680,6 +1970,11 @@
         {
           "de": "Die Wertehilfe schlägt nur Einträge vor, die im Customizing bereits hinterlegt wurden.",
           "ru": "Справка по значениям предлагает только те записи, которые уже сохранены в настройках системы."
+        },
+        {
+          "de": "Über die Wertehilfe (F4) können Sie nach gültigen Werten für dieses Feld suchen.",
+          "ru": "Через справку по допустимым значениям (F4) вы можете выполнить поиск допустимых значений для этого поля.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1710,6 +2005,11 @@
         {
           "de": "Schnellsuche zurücksetzen beim Wechsel der Nachrichtenquelle",
           "ru": "Сбросить условия фильтра при переходе на другую ленту"
+        },
+        {
+          "de": "Die Schnellsuche filtert die Kundenliste bereits während der Eingabe der ersten Buchstaben.",
+          "ru": "Быстрый поиск фильтрует список клиентов уже во время ввода первых букв.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1740,6 +2040,11 @@
         {
           "de": "Sie fragen sich, warum Ross ist ihr Favorit?",
           "ru": "И ты ещё удивляешься, почему Росс - их любимчик?"
+        },
+        {
+          "de": "Sie können diese Transaktion als Favorit hinzufügen, um schneller darauf zuzugreifen.",
+          "ru": "Вы можете добавить эту транзакцию в избранное для более быстрого доступа к ней.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1770,6 +2075,11 @@
         {
           "de": "Du kannst Attachments hinzufügen, wenn du eine neue Nachricht schreibst.",
           "ru": "Вы можете добавить вложение, когда вы отправляете новое сообщение."
+        },
+        {
+          "de": "Sie können neue Spalten zum Bericht hinzufügen, indem Sie die Layouteinstellungen anpassen.",
+          "ru": "Вы можете добавить новые столбцы в отчет, настроив параметры макета.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -1811,6 +2121,11 @@
         {
           "de": "Benutzerdaten müssen als Zeichenketten eingegeben werden.",
           "ru": "Данные пользователя должны быть введены в форме строк."
+        },
+        {
+          "de": "In den Benutzerdaten können persönliche Einstellungen wie das Datumsformat gepflegt werden.",
+          "ru": "В данных пользователя можно вести персональные настройки, такие как формат даты.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1841,6 +2156,11 @@
         {
           "de": "Auf Facebook ist es unmöglich zu wissen, wie viele der Angaben in einem Nutzerprofil und in Beiträgen wahr sind.",
           "ru": "На Фейсбуке невозможно узнать, какое количество информации в профиле и на странице пользователя истинно."
+        },
+        {
+          "de": "Das Benutzerprofil steuert benutzerspezifische Parameter wie den Standard-Drucker.",
+          "ru": "Профиль пользователя управляет специфичными для пользователя параметрами, такими как принтер по умолчанию.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1871,6 +2191,11 @@
         {
           "de": "Er wählte mich für diese Rolle, da ich wie sie aussah.",
           "ru": "Я похожа на нее, и он выбрал меня на эту роль."
+        },
+        {
+          "de": "Dem Mitarbeiter muss die entsprechende Rolle zugewiesen werden, um Zugriff auf die App zu erhalten.",
+          "ru": "Сотруднику должна быть присвоена соответствующая роль для получения доступа к приложению.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1893,6 +2218,11 @@
         {
           "de": "Jeder Zugriff auf sensible Personaldaten wird durch ein spezielles Berechtigungsobjekt geschützt.",
           "ru": "Любой доступ к конфиденциальным персональным данным защищен специальным объектом полномочий."
+        },
+        {
+          "de": "Das Berechtigungsobjekt prüft, ob der Benutzer berechtigt ist, Buchungen in einem bestimmten Werk durchzuführen.",
+          "ru": "Объект полномочий проверяет, имеет ли право пользователь выполнять проводки на определенном заводе.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1911,6 +2241,11 @@
         {
           "de": "Für alle Verbindungen, die aus diesem Teil des Netzes kommen bzw. dorthin gehen, übernimmt das MSC die komplette Anrufverwaltung, Ortsüberwachung und auch die Berechtigungsprüfung (Authentisierung) der Mobilstation.",
           "ru": "Для всех соединений, которые приходят из этой части сети или идут в нее, MSC берет на себя полное управление вызовами, мониторинг местоположения, а также проверку авторизации (аутентификацию) мобильной станции."
+        },
+        {
+          "de": "Die Berechtigungsprüfung schlägt fehl, wenn dem Benutzer die erforderlichen Rechte fehlen.",
+          "ru": "Проверка полномочий завершается ошибкой, если у пользователя отсутствуют требуемые права.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1933,6 +2268,11 @@
         {
           "de": "Mit der Transaktion SU53 können wir den letzten Berechtigungsfehler im Detail analysieren und beheben.",
           "ru": "С помощью транзакции SU53 мы можем детально проанализировать и устранить последнюю ошибку полномочий."
+        },
+        {
+          "de": "Bei einem Berechtigungsfehler wenden Sie sich bitte an den Systemadministrator.",
+          "ru": "При возникновении ошибки полномочий (прав доступа) обратитесь к системному администратору.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -1963,6 +2303,11 @@
         {
           "de": "Wir haben das Werkzeug, aber es fehlen kollektiver Wille und Treibkraft.",
           "ru": "У нас есть инструменты, однако отсутствует коллективная воля и движущая сила."
+        },
+        {
+          "de": "Einigen Benutzern fehlen die Berechtigungen für den Datenexport.",
+          "ru": "У некоторых пользователей отсутствуют полномочия для экспорта данных.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -2004,6 +2349,11 @@
         {
           "de": "Das Spiel \"friert ein\" oder bringt eine Fehlermeldung.",
           "ru": "Игра \"зависает\" или появляется сообщение об ошибке."
+        },
+        {
+          "de": "Das System gibt eine Fehlermeldung aus, wenn der Buchungszeitraum bereits geschlossen ist.",
+          "ru": "Система выдает сообщение об ошибке, если период проводки уже закрыт.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2034,6 +2384,11 @@
         {
           "de": "Wir erhielten einen neuen Pachtvertrag und eine Warnung vom Besitzer.",
           "ru": "Нам дана новая аренда и предостережение от хозяина."
+        },
+        {
+          "de": "Eine Warnung weist auf mögliche Inkonsistenzen hin, verhindert aber nicht das Sichern des Belegs.",
+          "ru": "Предупреждение указывает на возможные противоречия, но не препятствует сохранению документа.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2064,6 +2419,11 @@
         {
           "de": "Und wenn wir Einigkeit erzielen über sowohl den Wert als auch die Art der Erfolgsmessung, ob wir die Rückfälligkeit erfolgreich reduziert haben, dann können wir etwas erreichen, etwas wirklich Interessantes, in unseren Augen.",
           "ru": "И пока Эрик наблюдал за тем, как его дети играют в игрушки из костей буйвола, которые называются «далас», ему в голову пришла идея этого изобретения."
+        },
+        {
+          "de": "Nach dem erfolgreichen Sichern des Belegs wird eine Erfolgsmeldung in der Statusleiste angezeigt.",
+          "ru": "После успешного сохранения документа в строке состояния отображается сообщение об успешном выполнении.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2094,6 +2454,11 @@
         {
           "de": "In diesem Feld in der Statusleiste wird die aktuelle Seitennummer angezeigt.",
           "ru": "В этом поле строки состояния отображается номер текущей страницы."
+        },
+        {
+          "de": "Die Statusleiste am unteren Bildschirmrand zeigt Systemmeldungen und den aktuellen Mandanten an.",
+          "ru": "Строка состояния в нижней части экрана показывает системные сообщения и текущего манданта.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2124,6 +2489,11 @@
         {
           "de": "Im Dialogfenster gebt ihr den Titel für eure Präsentation ein.",
           "ru": "В диалоговом окне введите название своей презентации."
+        },
+        {
+          "de": "Ein Dialogfenster fordert Sie auf, die eingegebenen Daten zu bestätigen oder zu verwerfen.",
+          "ru": "Диалоговое окно запрашивает подтверждение введенных данных или их отмену.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2154,6 +2524,11 @@
         {
           "de": "Momentan können wir nicht bestätigen, dass sie all ihre Zahlungen geleistet haben.",
           "ru": "Сейчас мы не можем проверить что мы оплатили всю задолженность."
+        },
+        {
+          "de": "Bitte bestätigen Sie die Buchung durch Klicken auf die Schaltfläche 'Ja'.",
+          "ru": "Пожалуйста, подтвердите проводку, нажав на кнопку 'Да'.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -2195,6 +2570,11 @@
         {
           "de": "Da dachte ich, dass ich meinen Urlaub auch abbrechen kann...",
           "ru": "Вот я и решила прервать поездку, чтобы..."
+        },
+        {
+          "de": "Sie können den aktuellen Vorgang jederzeit abbrechen, ohne dass Daten gespeichert werden.",
+          "ru": "Вы можете прервать текущую операцию в любое время без сохранения данных.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -2236,6 +2616,11 @@
         {
           "de": "Dann schützen Sie die gesamte Tabelle und speichern das Dokument.",
           "ru": "После этого следует защитить всю таблицу и сохранить документ."
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Änderungen zu speichern, bevor Sie die Transaktion verlassen.",
+          "ru": "Не забудьте сохранить изменения перед выходом из транзакции.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -2265,6 +2650,11 @@
         {
           "de": "Dieser Parameter lässt sich direkt im Customizing-Menü über die Transaktion SPRO ändern.",
           "ru": "Этот параметр можно изменить непосредственно в меню настроек с помощью транзакции SPRO."
+        },
+        {
+          "de": "Im Customizing-Menü werden alle globalen Einstellungen der SAP-Module konfiguriert.",
+          "ru": "В меню настройки системы конфигурируются все глобальные параметры модулей SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2283,6 +2673,11 @@
         {
           "de": "Ein benutzerfreundliches Launchpad-Design erhöht die Akzeptanz des SAP-Systems.",
           "ru": "Удобный дизайн Launchpad повышает готовность пользователей работать с системой SAP."
+        },
+        {
+          "de": "Das Launchpad-Design kann an das Corporate Design des Unternehmens angepasst werden.",
+          "ru": "Тема оформления Launchpad может быть настроена в соответствии с фирменным стилем предприятия.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2313,6 +2708,11 @@
         {
           "de": "Tools zur Barrierefreiheit können diesen Text lesen.",
           "ru": "Этот текст распознается средствами специальных возможностей."
+        },
+        {
+          "de": "SAP unterstützt Barrierefreiheit durch Screenreader-Kompatibilität und Tastaturbedienung.",
+          "ru": "SAP поддерживает доступность для людей с ограниченными возможностями за счет совместимости с программами экранного доступа и управления с клавиатуры.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2331,6 +2731,11 @@
         {
           "de": "Wir müssen die Web-Dynpro-App im Backend-System registrieren und testen.",
           "ru": "Нам нужно зарегистрировать и протестировать приложение Web-Dynpro в бэкэнд-системе."
+        },
+        {
+          "de": "Eine Web-Dynpro-App kann direkt in das SAP Fiori Launchpad integriert werden.",
+          "ru": "Приложение Web Dynpro может быть интегрировано непосредственно в SAP Fiori Launchpad.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2349,6 +2754,11 @@
         {
           "de": "Der Administrator pflegt den App-Inhalt in der Fiori-Datenbank.",
           "ru": "Администратор ведет содержимое приложения в базе данных Fiori."
+        },
+        {
+          "de": "Der App-Inhalt wird dynamisch basierend auf den Berechtigungen des angemeldeten Benutzers geladen.",
+          "ru": "Содержимое приложения загружается динамически на основе полномочий вошедшего в систему пользователя.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2367,6 +2777,11 @@
         {
           "de": "Wir können neue Kacheln aus der Kachel-Bibliothek auf unserer Startseite platzieren.",
           "ru": "Мы можем размещать новые плитки из библиотеки плиток на нашей домашней странице."
+        },
+        {
+          "de": "In der Kachel-Bibliothek sind alle für den Benutzer verfügbaten Kacheln aufgelistet.",
+          "ru": "В каталоге плиток перечислены все плитки, доступные пользователю.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2385,6 +2800,11 @@
         {
           "de": "Die Kachel-Gruppe strukturiert die Anwendungen übersichtlich auf dem Bildschirm.",
           "ru": "Группа плиток структурирует приложения на экране для наглядности."
+        },
+        {
+          "de": "Eine Kachel-Gruppe strukturiert das Fiori Launchpad in verschiedene Themenbereiche.",
+          "ru": "Группа плиток структурирует Fiori Launchpad по различным тематическим областям.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2403,6 +2823,11 @@
         {
           "de": "Überprüfen Sie die Zielzuordnung, wenn die Kachel beim Anklicken einen Fehler anzeigt.",
           "ru": "Проверьте целевое назначение, если плитка выдает ошибку при нажатии."
+        },
+        {
+          "de": "Die Zielzuordnung verknüpft eine semantische Aktion mit der tatsächlichen Anwendungs-URL.",
+          "ru": "Сопоставление целей (target mapping) связывает семантическое действие с фактическим URL-адресом приложения.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2433,6 +2858,11 @@
         {
           "de": "Und ich machte das Objekt links für meine Ausstellung im Walker.",
           "ru": "И сделал вот этот предмет слева для выставки в музее Уокера."
+        },
+        {
+          "de": "Das semantische Objekt beschreibt eine betriebswirtschaftliche Entität im Fiori-Navigationskonzept.",
+          "ru": "Семантический объект описывает бизнес-сущность в концепции навигации Fiori.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2463,6 +2893,11 @@
         {
           "de": "Brigitte, du bleibst aus der Aktion raus.",
           "ru": "Бригитта, ты не должна участвовать в акции."
+        },
+        {
+          "de": "Die Aktion bestimmt, welcher Vorgang (z. B. 'anzeigen' oder 'anlegen') für das Objekt ausgeführt wird.",
+          "ru": "Действие определяет, какая операция (например, 'просмотр' или 'создание') выполняется для объекта.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2493,6 +2928,11 @@
         {
           "de": "Bitte beladen Sie neu Update und prüfen die Parameter von den Abfragen zu.",
           "ru": "Пожалуйста, скачайте обновление и проверьте параметры запросов к."
+        },
+        {
+          "de": "Über Parameter können beim App-Aufruf bestimmte Filterwerte übergeben werden.",
+          "ru": "Через параметры при вызове приложения могут быть переданы определенные значения фильтра.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2523,6 +2963,11 @@
         {
           "de": "Erkennen, wenn eine Internet-Adresse (URL) eingegeben wurde und sie so formatieren, wie Internet-Browser sie anzeigen würden.",
           "ru": "Определяет, что введённое слов является Интернет- адресом (URL), и форматирует её так, как эту ссылку показал бы браузер."
+        },
+        {
+          "de": "Das System ermittelt die URL-Adresse des Services automatisch über den Gateway-Server.",
+          "ru": "Система автоматически определяет URL-адрес сервиса через сервер Gateway.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2553,6 +2998,11 @@
         {
           "de": "Die Applets werden wie gewohnt im Browser-Fenster angezeigt, es ist jetzt jedoch möglich, verschiedene Java-Versionen, Befehlszeilenargumente und Konfigurationen zum Ausführen unterschiedlicher Applets zu verwenden.",
           "ru": "Апплеты по-прежнему отображаются в окне веб-обозревателя, но теперь для выполнения различных апплетов можно использовать разные версии, аргументы командной строки и конфигурации Java."
+        },
+        {
+          "de": "Die externe Anwendung wird in einem neuen Browser-Fenster geöffnet.",
+          "ru": "Внешнее приложение открывается в новом окне браузера.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2571,6 +3021,11 @@
         {
           "de": "Die Cloud-Platform ermöglicht eine schnelle Integration verschiedener Systeme.",
           "ru": "Облачная платформа обеспечивает быструю интеграцию различных систем."
+        },
+        {
+          "de": "Die SAP Cloud Platform (jetzt SAP BTP) bietet Services für die Erweiterung und Integration von Systemen.",
+          "ru": "Облачная платформа SAP Cloud Platform (сейчас SAP BTP) предлагает сервисы для расширения и интеграции систем.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2601,6 +3056,11 @@
         {
           "de": "Es ist keine digitale Schnittstelle, sondern eine physische: Ein Hotel.",
           "ru": "Интерфейс получился не цифровой, а физический: им стала гостиница."
+        },
+        {
+          "de": "Die Schnittstelle zwischen SAP und dem externen System muss im produktiven Betrieb überwacht werden.",
+          "ru": "Интерфейс между SAP и внешней системой должен отслеживаться в продуктивной эксплуатации.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2631,6 +3091,11 @@
         {
           "de": "Wir bieten einen Service, den man im Internet nicht bekommen kann.",
           "ru": "Мы предлагаем сервис, который не найти в интернете."
+        },
+        {
+          "de": "Der OData-Service stellt die Daten für die Anzeige in der Fiori-App bereit.",
+          "ru": "Сервис OData предоставляет данные для отображения в приложении Fiori.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2649,6 +3114,11 @@
         {
           "de": "Wir müssen die OData-Schnittstelle im SAP Gateway aktivieren.",
           "ru": "Нам необходимо активировать интерфейс OData в SAP Gateway."
+        },
+        {
+          "de": "Die OData-Schnittstelle ermöglicht eine standardisierte Kommunikation zwischen Frontend und Backend.",
+          "ru": "Интерфейс OData обеспечивает стандартизированную коммуникацию между фронтэндом и бэкэндом.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2667,6 +3137,11 @@
         {
           "de": "Der Gateway-Server steuert die Authentifizierung der Benutzer.",
           "ru": "Сервер Gateway управляет аутентификацией пользователей."
+        },
+        {
+          "de": "Der Gateway-Server wandelt RFC-Aufrufe des Backends in webfähige OData-Services um.",
+          "ru": "Сервер Gateway преобразует вызовы RFC бэкэнда в веб-совместимые OData-сервисы.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2685,6 +3160,11 @@
         {
           "de": "Die OData-Services müssen im Backend-System registriert werden.",
           "ru": "Сервисы OData должны быть зарегистрированы в бэкэнд-системе."
+        },
+        {
+          "de": "Im Backend-System befinden sich die eigentliche Datenbank und die Geschäftslogik der SAP.",
+          "ru": "В бэкэнд-системе находятся сама база данных и бизнес-логика SAP.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2703,6 +3183,11 @@
         {
           "de": "Alle Fiori-Kacheln und Launchpads werden im Frontend-System verwaltet.",
           "ru": "Все плитки Fiori и панели запуска управляются во фронтэнд-системе."
+        },
+        {
+          "de": "Das Frontend-System verwaltet die Benutzeroberflächen und das Fiori Launchpad.",
+          "ru": "Фронтэнд-система управляет пользовательскими интерфейсами и Fiori Launchpad.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2733,6 +3218,11 @@
         {
           "de": "Im Gegensatz zur Antigenshift passiert die Antigendrift zufällig und in kleinerem Rahmen durch Kopierfehler (Punktmutationen) während der Vermehrung (Replikation) von Viren.",
           "ru": "В отличие от антигенной изменчивости, дрейф антигенов происходит случайно и имеет меньший охват, происходя путём копирования ошибок (мутаций) в ходе размножения (репликации) вирусов."
+        },
+        {
+          "de": "Die Replikation von Stammdaten erfolgt asynchron über IDocs.",
+          "ru": "Репликация основных данных выполняется асинхронно через IDoc.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []
@@ -2763,6 +3253,11 @@
         {
           "de": "Was soll überhaupt das Gerede, mich neu zu synchronisieren?",
           "ru": "Зачем вообще понадобилось меня дублировать?"
+        },
+        {
+          "de": "Sie müssen die lokalen Einstellungen mit den Tabellen auf dem Server synchronisieren.",
+          "ru": "Вам необходимо синхронизировать локальные настройки с таблицами на сервере.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": [],
@@ -2804,6 +3299,11 @@
         {
           "de": "Diese zusätzliche Kernel-API-Erweiterung beseitigt die unnötige Synchronisation zwischen einzelne Operationen zur Entfernung von Überprüfungsprozessen.",
           "ru": "Добавленное расширение исключает необходимость синхронизации операций удаления отдельных зондов."
+        },
+        {
+          "de": "Die Synchronisation der Daten zwischen den beiden Systemen wird jede Nacht automatisch gestartet.",
+          "ru": "Синхронизация данных между обеими системами запускается автоматически каждую ночь.",
+          "source": "help.sap.com"
         }
       ],
       "synonyms": []

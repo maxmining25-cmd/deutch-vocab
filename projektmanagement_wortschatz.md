@@ -53,6 +53,8 @@
      ➔ Кто утвердил техническое задание на разработку нового программного обеспечения?
   5. *Der Projektauftrag legt das Budget und den zeitlichen Rahmen fest.*
      ➔ Устав проекта определяет бюджет и временные рамки.
+  6. *der konkrete Projektauftrag war die Erstellung eines lastnefts für die Neuentwicklung des versuchsmanagers der*
+     ➔ Конкретным заданием проекта было создание «ластнефти» для новой разработки тест-менеджера.
 
 ### 2. das Projektziel, die Projektziele [🎥 YouGlish](https://de.youglish.com/pronounce/Projektziel/german)
 - **Часть речи (Part of Speech):** Noun
@@ -71,6 +73,8 @@
      ➔ Обсудили ли мы все цели проекта на стартовой встрече?
   5. *Wenn wir das Projektziel nicht erreichen, drohen finanzielle Verluste.*
      ➔ Если мы не достигнем цели проекта, грозят финансовые потери.
+  6. *Das zweite Projektziel hängt mit meinen Tätigkeiten im Unternehmen*
+     ➔ Вторая цель проекта связана с моей деятельностью в компании.
 
 ### 3. der Stakeholder, die Stakeholder [🎥 YouGlish](https://de.youglish.com/pronounce/Stakeholder/german)
 - **Часть речи (Part of Speech):** Noun
@@ -89,6 +93,8 @@
      ➔ Руководитель проекта завтра проведет презентацию для ключевых стейкхолдеров.
   5. *Wer sind die einflussreichsten Stakeholder in diesem IT-Projekt?*
      ➔ Кто является наиболее влиятельными стейкхолдерами в этом IT-проекте?
+  6. *und diese Nutzer und Stakeholder von Anfang an einzubinden,*
+     ➔ и привлечь этих пользователей и заинтересованные стороны с самого начала,
 
 ### 4. die Anforderung, die Anforderungen [🎥 YouGlish](https://de.youglish.com/pronounce/Anforderung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -107,6 +113,8 @@
      ➔ Разработчики успешно реализовали функциональные требования.
   5. *Wer ist für das Management der Anforderungen in diesem Sprint verantwortlich?*
      ➔ Кто отвечает за управление требованиями в этом спринте?
+  6. *und entsprechend der neuen Anforderung weiterzuentwickeln.*
+     ➔ и в дальнейшем развивать его в соответствии с новыми требованиями.
 
 ### 5. die Planungsphase, die Planungsphasen [🎥 YouGlish](https://de.youglish.com/pronounce/Planungsphase/german)
 - **Часть речи (Part of Speech):** Noun
@@ -125,6 +133,8 @@
      ➔ Этап планирования должен быть завершен к концу месяца.
   5. *Während der Planungsphase müssen wir die Risiken genau analysieren.*
      ➔ Во время фазы планирования мы должны точно проанализировать риски.
+  6. *werden die ersten Vorarbeiten beginnen. Jetzt ist noch die Planungsphase.*
+     ➔ начнутся первые подготовительные работы. Сейчас все еще этап планирования.
 
 ### 6. der Meilenstein, die Meilensteine [🎥 YouGlish](https://de.youglish.com/pronounce/Meilenstein/german)
 - **Часть речи (Part of Speech):** Noun
@@ -143,6 +153,8 @@
      ➔ Эта веха знаменует окончание этапа разработки концепции.
   5. *Können wir den nächsten Meilenstein trotz der Verzögerung einhalten?*
      ➔ Сможем ли wir уложиться в следующую контрольную точку, несмотря на задержку?
+  6. *Und ja, das war einfach ein großer Meilenstein auf dem Weg der Heilung.*
+     ➔ И да, это была просто большая веха на пути к исцелению.
 
 ### 7. der Projektplan, die Projektpläne [🎥 YouGlish](https://de.youglish.com/pronounce/Projektplan/german)
 - **Часть речи (Part of Speech):** Noun
@@ -161,6 +173,8 @@
      ➔ Кто утвердил новый план проекта для команды?
   5. *Laut Projektplan sollten wir diese Woche mit dem Design beginnen.*
      ➔ Согласно плану проекта, на этой неделе мы должны начать проектирование.
+  6. *neuen Projektplan.\" Die Mitarbeiter hatten also schon früher Vorschläge geäußert und*
+     ➔ новый план проекта». Работники уже внесли предложения ранее и
 
 ### 8. die Zielsetzung, die Zielsetzungen [🎥 YouGlish](https://de.youglish.com/pronounce/Zielsetzung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -179,6 +193,8 @@
      ➔ Перед началом проекта цели должны быть зафиксированы in письменном виде.
   5. *Die Zielsetzung des Projekts entspricht nicht den Unternehmenszielen.*
      ➔ Целеполагание проекта не соответствует целям компании.
+  6. *ausgebildet wurden und warum sie eigentlich in diesen Beruf gegangen sind. Das ist glaube ich eine Zielsetzung.*
+     ➔ прошли обучение и почему они на самом деле пошли в эту профессию. Я думаю, это цель.
 
 ### 9. der Projektstart, die Projektstarts [🎥 YouGlish](https://de.youglish.com/pronounce/Projektstart/german)
 - **Часть речи (Part of Speech):** Noun
@@ -197,6 +213,8 @@
      ➔ При запуске проекта возникли некоторые технические трудности.
   5. *Wir feiern den Projektstart mit einem gemeinsamen Abendessen.*
      ➔ Мы отмечаем запуск проекта совместным ужином.
+  6. *Betrachten Sie es eher als eine notwendige Phase bei Projektstart, denn*
+     ➔ Думайте об этом как о необходимом этапе в начале проекта, а не как о
 
 ### 10. die Durchführbarkeit (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Durchf%C3%BChrbarkeit%20%28nur%20Sg.%29/german)
 - **Часть речи (Part of Speech):** Noun
@@ -215,6 +233,8 @@
      ➔ Экспертное заключение подтверждает экономическую целесообразность объекта.
   5. *Bei mangelnder Durchführbarkeit müssen wir das Projekt abbrechen.*
      ➔ В случае невыполнимости мы вынуждены будем прекратить проект.
+  6. *die die Durchführbarkeit des Vorhabens bestätigten.*
+     ➔ что подтвердило осуществимость проекта.
 
 ### 11. die Machbarkeitsstudie, die Machbarkeitsstudien [🎥 YouGlish](https://de.youglish.com/pronounce/Machbarkeitsstudie/german)
 - **Часть речи (Part of Speech):** Noun
@@ -233,6 +253,8 @@
      ➔ Перед крупными инвестициями проведение ТЭО является обязательным.
   5. *Wer hat die Machbarkeitsstudie für das Bauprojekt durchgeführt?*
      ➔ Кто проводил исследование осуществимости для строительного проекта?
+  6. *wie die ADAC Luftrettung in einer Machbarkeitsstudie gezeigt hat.*
+     ➔ как показало ADAC Luftrettung в технико-экономическом обосновании.
 
 ### 12. definieren [🎥 YouGlish](https://de.youglish.com/pronounce/definieren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -254,6 +276,8 @@
      ➔ Объем проекта должен быть определен до подписания контракта.
   5. *Wir definieren die Kriterien für den Projekterfolg gemeinsam mit dem Kunden.*
      ➔ Мы определяем критерии успеха проекта совместно с клиентом.
+  6. *Und wenn wir definieren oder sagen, dass Diversität,*
+     ➔ И когда мы определяем или говорим это разнообразие,
 
 ### 13. planen [🎥 YouGlish](https://de.youglish.com/pronounce/planen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -276,6 +300,8 @@
      ➔ Мы должны спланировать стартовую встречу на следующую неделю.
   5. *Sie planen die Termine für die kommenden Sprints im Voraus.*
      ➔ Они планируют даты для предстоящих спринтов заранее.
+  6. *womit. Ich muss das erst überlegen und planen.*
+     ➔ с чем. Мне нужно сначала подумать и спланировать это.
 
 ### 14. festlegen [🎥 YouGlish](https://de.youglish.com/pronounce/festlegen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -298,6 +324,8 @@
      ➔ Нам следует установить четкие правила коммуникации в команде.
   5. *Legen Sie bitte fest, wer die Aufgaben dokumentiert.*
      ➔ Определите, пожалуйста, кто будет документировать задачи.
+  6. *deutlich beschleunigen. Sie muss ein Enddatum festlegen*
+     ➔ значительно ускориться. Ей нужно установить дату окончания
 
 ### 15. der Projektumfang, die Projektumfänge [🎥 YouGlish](https://de.youglish.com/pronounce/Projektumfang/german)
 - **Часть речи (Part of Speech):** Noun
@@ -338,6 +366,8 @@
      ➔ Пожалуйста, согласуйте дату проведения стартовой встречи.
   5. *Die Anforderungen wurden erfolgreich mit den Stakeholdern abgestimmt.*
      ➔ Требования были успешно согласованы со стейкхолдерами.
+  6. *Anbietern abstimmen müsste?*
+     ➔ поставщикам придется координировать свои действия?
 
 ### 17. die Absprache, die Absprachen [🎥 YouGlish](https://de.youglish.com/pronounce/Absprache/german)
 - **Часть речи (Part of Speech):** Noun
@@ -356,6 +386,8 @@
      ➔ Мы строго придерживаемся достигнутых договоренностей.
   5. *In Absprache mit dem Entwicklerteam haben wir den Release-Termin verschoben.*
      ➔ По согласованию с командой разработчиков мы перенесли дату релиза.
+  6. *Dann greifen wir da relativ stark gestalterisch ein, natürlich immer in Absprache mit den Autoren.*
+     ➔ Затем мы довольно серьезно вмешиваемся в дизайн, конечно, всегда по согласованию с авторами.
 
 ### 18. das Kick-off-Meeting, die Kick-off-Meetings [🎥 YouGlish](https://de.youglish.com/pronounce/Kick-off-Meeting/german)
 - **Часть речи (Part of Speech):** Noun
@@ -392,6 +424,8 @@
      ➔ Кто следит за соблюдением календарного плана?
   5. *Der Zeitplan wurde dem Kunden gestern zur Freigabe geschickt.*
      ➔ График был отправлен клиенту вчера на согласование.
+  6. *Wochen bis drei Monate, meine Damen und Herren. Wir liegen im Zeitplan und das*
+     ➔ От недели до трех месяцев, дамы и господа. Мы идем по графику и это
 
 ### 20. die Ressource, die Ressourcen [🎥 YouGlish](https://de.youglish.com/pronounce/Ressource/german)
 - **Часть речи (Part of Speech):** Noun
@@ -410,6 +444,8 @@
      ➔ Кто планирует ресурсы на следующий спринт?
   5. *Ein Mangel an Ressourcen verzögert die Entwicklung der Software.*
      ➔ Нехватка ресурсов задерживает разработку программного обеспечения.
+  6. *und verbessert. Sie kann auch eine digitale Ressource im Berufsleben bleiben. Sie kann*
+     ➔ и улучшено. Он также может оставаться цифровым ресурсом в профессиональной жизни. она может
 
 ### 21. die Budgetplanung, die Budgetplanungen [🎥 YouGlish](https://de.youglish.com/pronounce/Budgetplanung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -428,6 +464,8 @@
      ➔ Мы должны скорректировать планирование бюджета с учетом инфляции.
   5. *Die Budgetplanung sieht eine Reserve für unvorhergeseene Kosten vor.*
      ➔ Планирование бюджета предусматривает резерв на непредвиденные расходы.
+  6. *zur Marketing Budgetplanung an. Du bist immer noch überfordert*
+     ➔ для планирования маркетингового бюджета. Ты все еще ошеломлен
 
 ### 22. die Risikoanalyse, die Risikoanalysen [🎥 YouGlish](https://de.youglish.com/pronounce/Risikoanalyse/german)
 - **Часть речи (Part of Speech):** Noun
@@ -446,6 +484,8 @@
      ➔ Анализ рисков помогает нам спланировать соответствующие контрмеры.
   5. *Nach der Risikoanalyse haben wir den Projektplan angepasst.*
      ➔ После анализа рисков мы скорректировали план проекта.
+  6. *genauere Risikoanalyse einzelner Substanzen denn stimmt die*
+     ➔ более точный анализ риска отдельных веществ, если это верно
 
 ### 23. die Priorität, die Prioritäten [🎥 YouGlish](https://de.youglish.com/pronounce/Priorit%C3%A4t/german)
 - **Часть речи (Part of Speech):** Noun
@@ -464,6 +504,8 @@
      ➔ Какой приоритет имеет новая функция для релиза?
   5. *Wir haben die Prioritäten nach dem Gespräch mit dem Chef geändert.*
      ➔ Мы изменили приоритеты после разговора с начальником.
+  6. *wird dieser Gruppe auch Priorität zukommen.*
+     ➔ Этой группе также будет отдан приоритет.
 
 ### 24. priorisieren [🎥 YouGlish](https://de.youglish.com/pronounce/priorisieren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -485,6 +527,8 @@
      ➔ На встрече мы приоритезировали важнейшие веhi.
   5. *Die Aufgaben wurden falsch priorisiert, was zu Verzögerungen führte.*
      ➔ Задачи были расставлены по приоритетам неправильно, что привело к задержкам.
+  6. *immer wieder zu priorisieren und die ganzen Themen schrittweise anzugehen.*
+     ➔ снова и снова расставлять приоритеты и решать все проблемы шаг за шагом.
 
 ### 25. die Vorgabe, die Vorgaben [🎥 YouGlish](https://de.youglish.com/pronounce/Vorgabe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -503,6 +547,8 @@
      ➔ Существуют строгие требования к дизайну пользовательского интерфейса.
   5. *Welche Vorgaben haben wir für den Testprozess erhalten?*
      ➔ Какие требования мы получили для процесса тестирования?
+  6. *... weil es keine feste gesetzliche Vorgabe dazu gibt.*
+     ➔ ... потому что для этого не существует фиксированного юридического требования.
 
 ### 26. der Entwurf, die Entwürfe [🎥 YouGlish](https://de.youglish.com/pronounce/Entwurf/german)
 - **Часть речи (Part of Speech):** Noun
@@ -521,6 +567,8 @@
      ➔ Нам нужно еще раз полностью переработать черновик.
   5. *Der finale Entwurf wurde gestern vom Designer freigegeben.*
      ➔ Финальный макет был утвержден дизайнером вчера.
+  6. *Was war so Ihr Entwurf für solche Fragen?*
+     ➔ Каков был ваш план таких вопросов?
 
 ### 27. entwerfen [🎥 YouGlish](https://de.youglish.com/pronounce/entwerfen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -542,6 +590,8 @@
      ➔ Команда разработала концепцию рекламной кампании.
   5. *Wir müssen einen Notfallplan für Systemausfälle entwerfen.*
      ➔ Мы должны разработать аварийный план на случай сбоев системы.
+  6. *„Nein, wir müssen das Recht eigentlich wie am Reißbrett rational entwerfen\".*
+     ➔ «Нет, на самом деле нам нужно разработать закон рационально, как на чертежной доске».
 
 ### 28. einteilen [🎥 YouGlish](https://de.youglish.com/pronounce/einteilen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -564,6 +614,8 @@
      ➔ Как мы хотим распределить разработчиков по командам?
   5. *Die Ressourcen wurden ungleichmäßig eingeteilt.*
      ➔ Ресурсы были распределены неравномерно.
+  6. *Ihr solltet mit den passenden Indikatoren Länder nach ihrem Entwicklungsstand einteilen*
+     ➔ Вам следует использовать соответствующие показатели для классификации стран по уровню их развития.
 
 ### 29. der Ist-Zustand, die Ist-Zustände [🎥 YouGlish](https://de.youglish.com/pronounce/Ist-Zustand/german)
 - **Часть речи (Part of Speech):** Noun
@@ -582,6 +634,8 @@
      ➔ Мы регулярно сравниваем фактическое состояние с целевым.
   5. *Der Ist-Zustand der IT-Infrastruktur ist unzureichend.*
      ➔ Текущее состояние ИТ-инфраструктуры является неудовлетворительным.
+  6. *umfangreiches Werk von über 300 Seiten. Da ist ein baulicher Ist-Zustand*
+     ➔ обширная работа объемом более 300 страниц. Существует фактическое структурное состояние
 
 ### 30. der Soll-Zustand, die Soll-Zustände [🎥 YouGlish](https://de.youglish.com/pronounce/Soll-Zustand/german)
 - **Часть речи (Part of Speech):** Noun
@@ -600,6 +654,8 @@
      ➔ Чтобы достичь целевого состояния, нам необходимо обновить систему.
   5. *Der Soll-Zustand wurde im Pflichtenheft detailliert festgehalten.*
      ➔ Целевое состояние было подробно зафиксировано в техническом задании.
+  6. *Das Wort Standard bedeutet so viel wie Norm- oder Soll-Zustand*
+     ➔ Слово «стандарт» означает что-то вроде нормы или целевого состояния.
 
 ### 31. die Erwartung, die Erwartungen [🎥 YouGlish](https://de.youglish.com/pronounce/Erwartung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -618,6 +674,8 @@
      ➔ Соответствуют ли результаты тестирования ожиданиям команды?
   5. *Wir klären die gegenseitigen Erwartungen im Kick-off-Meeting.*
      ➔ Мы проясняем взаимные ожидания на стартовой встрече.
+  6. *in der einen oder anderen Funktion und Rolle, Erwartung und Hoffnung.*
+     ➔ в той или иной функции ожидание и надежда.
 
 ### 32. die Stakeholder-Analyse, die Stakeholder-Analysen [🎥 YouGlish](https://de.youglish.com/pronounce/Stakeholder-Analyse/german)
 - **Часть речи (Part of Speech):** Noun
@@ -654,6 +712,8 @@
      ➔ Содержит ли спецификация требований всю необходимую информацию?
   5. *Das Lastenheft bildet die Grundlage für das Pflichtenheft.*
      ➔ Требования заказчика служат основой для технического задания исполнителя.
+  6. *Erstellt VOR dem Relaunch ein „SEO-Lastenheft".*
+     ➔ Создайте «SEO-спецификации» ПЕРЕД перезапуском.
 
 ### 34. das Pflichtenheft, die Pflichtenhefte [🎥 YouGlish](https://de.youglish.com/pronounce/Pflichtenheft/german)
 - **Часть речи (Part of Speech):** Noun
@@ -672,6 +732,8 @@
      ➔ Техническое задание является частью договора с поставщиком услуг.
   5. *Der Kunde muss das Pflichtenheft vor dem Projektstart abzeichnen.*
      ➔ Клиент должен подписать техническое задание перед стартом проекта.
+  6. *Die werden nach dem Pflichtenheft Vorgaben von Mercedes oder von Audi*
+     ➔ Они изготавливаются по спецификациям Mercedes или Audi.
 
 ### 35. die Zielgruppe, die Zielgruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Zielgruppe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -690,6 +752,8 @@
      ➔ Соответствует ли эта функция пожеланиям целевой группы?
   5. *Die Zielgruppe reagiert sehr positiv auf die neue Benutzeroberfläche.*
      ➔ Целевая аудитория очень позитивно реагирует на новый пользовательский интерфейс.
+  6. *oder um die Kaufbereitschaft einer Zielgruppe*
+     ➔ или о готовности целевой группы покупать
 
 ### 36. initiieren [🎥 YouGlish](https://de.youglish.com/pronounce/initiieren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -711,6 +775,8 @@
      ➔ Кто инициировал проект по экономии затрат?
   5. *Neue Richtlinien wurden initiiert, um die Sicherheit zu erhöhen.*
      ➔ Были инициированы новые директивы для повышения безопасности.
+  6. *Wir wollen insbesondere generationsübergreifende Dialoge initiieren.*
+     ➔ Мы особенно хотим инициировать диалог между поколениями.
 
 ### 37. genehmigen [🎥 YouGlish](https://de.youglish.com/pronounce/genehmigen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -732,6 +798,8 @@
      ➔ Был ли измененный график уже утвержден клиентом?
   5. *Wir dürfen keine Arbeiten beginnen, bevor das Projekt genehmigt ist.*
      ➔ Мы не имеем права начинать какие-либо работы до того, как проект будет утвержден.
+  6. *würde das nicht genehmigen.*
+     ➔ не одобрил бы.
 
 ### 38. die Genehmigung, die Genehmigungen [🎥 YouGlish](https://de.youglish.com/pronounce/Genehmigung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -750,6 +818,8 @@
      ➔ Кто выдает разрешение на сверхурочную работу в команде?
   5. *Nach Erhalt der Genehmigung haben wir mit dem Bau begonnen.*
      ➔ После получения разрешения мы начали строительство.
+  6. *sogar die Genehmigung bekommen, als Neunjähriger aufs Gymnasium zu gehen zwei Jahre später.*
+     ➔ Два года спустя, будучи девятилетним, даже получил разрешение пойти в среднюю школу.
 
 ### 39. das Mandat, die Mandate [🎥 YouGlish](https://de.youglish.com/pronounce/Mandat/german)
 - **Часть речи (Part of Speech):** Noun
@@ -768,6 +838,8 @@
      ➔ Мандат на консультирование был продлен на шесть месяцев.
   5. *Das Team arbeitet im Rahmen des erteilten Mandats.*
      ➔ Команда работает в рамках предоставленных полномочий.
+  6. *und Arbeitsabläufe da drin mal abbilden können. Und ich muss das Mandat haben meiner Betriebsführung,*
+     ➔ и иметь возможность отображать там рабочие процессы. И я должен иметь мандат моего руководства,
 
 ### 40. der Projektleiter, die Projektleiter [🎥 YouGlish](https://de.youglish.com/pronounce/Projektleiter/german)
 - **Часть речи (Part of Speech):** Noun
@@ -786,6 +858,8 @@
      ➔ Руководитель проекта еженедельно представляет отчет о статусе.
   5. *Wer wird der neue Projektleiter für das IT-Migrationsprojekt?*
      ➔ Кто станет новым руководителем проекта по миграции ИТ-систем?
+  6. *einen, der für das Testen zuständig ist, dann gibt es einen Projektleiter und dann gibt es Unterprojektleiter,*
+     ➔ тот, кто отвечает за тестирование, затем есть менеджер проекта, а затем есть менеджеры подпроектов,
 
 ### 41. die Meilensteinplanung, die Meilensteinplanungen [🎥 YouGlish](https://de.youglish.com/pronounce/Meilensteinplanung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -822,6 +896,8 @@
      ➔ Стратегия была принята правлением.
   5. *Mit dieser Strategie können wir die Risiken erheblich reduzieren.*
      ➔ С помощью этой стратегии мы можем значительно снизить риски.
+  6. *im Rahmen ihrer Strategie Wachstumschancen wahrnimmt.*
+     ➔ использует возможности роста как часть своей стратегии.
 
 ### 43. strategisch [🎥 YouGlish](https://de.youglish.com/pronounce/strategisch/german)
 - **Часть речи (Part of Speech):** Adjective
@@ -840,6 +916,8 @@
      ➔ Стратегические цели проекта были разъяснены на стартовой встрече.
   5. *Das Unternehmen investiert in strategische IT-Projekte.*
      ➔ Компания инвестирует в стратегические ИТ-проекты.
+  6. *was bedeutet, dass Venedig seine strategisch günstige Stellung verloren hat.*
+     ➔ а это значит, что Венеция потеряла свое стратегическое положение.
 
 ### 44. messbar [🎥 YouGlish](https://de.youglish.com/pronounce/messbar/german)
 - **Часть речи (Part of Speech):** Adjective
@@ -858,6 +936,8 @@
      ➔ Измеримый успех невероятно мотивирует команду проекта.
   5. *Wir wollen den Nutzen des neuen Tools messbar machen.*
      ➔ Мы хотим сделать пользу от нового инструмента измеримой.
+  6. *Aktivität stark steigern, messbar steigern gegenüber einer Kontrollgruppe,*
+     ➔ Значительно повысить активность, заметно повысить по сравнению с контрольной группой,
 
 ### 45. realistisch [🎥 YouGlish](https://de.youglish.com/pronounce/realistisch/german)
 - **Часть речи (Part of Speech):** Adjective
@@ -876,6 +956,8 @@
      ➔ В текущих условиях эта цель не является реалистичной.
   5. *Die Budgetplanung sieht realistisch aus und deckt alle Kosten ab.*
      ➔ Планирование бюджета выглядит реалистичным и покрывает все расходы.
+  6. *die Nase schattieren könnt, damit sie so realistisch wie möglich aussieht.*
+     ➔ Вы можете заштриховать нос, чтобы он выглядел максимально реалистично.
 
 ### 46. die Strukturierung, die Strukturierungen [🎥 YouGlish](https://de.youglish.com/pronounce/Strukturierung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -894,6 +976,8 @@
      ➔ Структурирование тест-кейсов экономит нам много времени при контроле качества.
   5. *Wir arbeiten noch an der Strukturierung des Projektteams.*
      ➔ Мы все еще работаем над структурированием проектной команды.
+  6. *beziehungsweise für die Strukturierung und Organisationen der Einheit, bedeutet,*
+     ➔ или для структурирования и организации подразделения средства
 
 ### 47. gliedern [🎥 YouGlish](https://de.youglish.com/pronounce/gliedern/german)
 - **Часть речи (Part of Speech):** Verb
@@ -916,6 +1000,8 @@
      ➔ Пожалуйста, подразделите свое выступление на три логические части.
   5. *Das Team gliederte die Daten nach Priorität und Relevanz.*
      ➔ Команда структурировала данные по приоритету и релевантности.
+  6. *Und in dieser merkwürdigen Szene, da fiebern die Menschen, mit vor Kälte zitternden Gliedern,*
+     ➔ И в этой странной сцене людей лихорадит, их конечности дрожат от холода,
 
 ### 48. die Zielvereinbarung, die Zielvereinbarungen [🎥 YouGlish](https://de.youglish.com/pronounce/Zielvereinbarung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -934,6 +1020,8 @@
      ➔ В соглашение о целях также включены личные цели развития.
   5. *Vor Projektstart müssen wir die Zielvereinbarung finalisieren.*
      ➔ Перед стартом проекта мы должны доработать соглашение о целях.
+  6. *Zielvereinbarung. Es gibt Bewertungsschemata. Interessanterweise sind die sehr alt.*
+     ➔ Целевое соглашение. Есть схемы оценки. Интересно, что они очень старые.
 
 ### 49. der Projektsteckbrief, die Projektsteckbriefe [🎥 YouGlish](https://de.youglish.com/pronounce/Projektsteckbrief/german)
 - **Часть речи (Part of Speech):** Noun
@@ -969,6 +1057,8 @@
      ➔ Команда работает в координации с внешними консультантами.
   5. *In Abstimmung mit dem Teamleiter wurden neue Aufgaben verteilt.*
      ➔ По согласованию с руководителем команды были распределены новые задачи.
+  6. *in Abstimmung mit den Fachbereichen begrenzt.*
+     ➔ ограничено по согласованию с ведомствами.
 
 
 ---
@@ -992,6 +1082,8 @@
      ➔ Мы должны более четко распределить задачи между членами команды.
   5. *Diese Aufgabe hat eine hohe Priorität für das Projekt.*
      ➔ Эта задача имеет высокий приоритет для проекта.
+  6. *Das war so meine Aufgabe halt, mich um die Tiere kümmern.*
+     ➔ Это была моя работа – присматривать за животными.
 
 ### 52. die Zuständigkeit, die Zuständigkeiten [🎥 YouGlish](https://de.youglish.com/pronounce/Zust%C3%A4ndigkeit/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1010,6 +1102,8 @@
      ➔ При вопросах по IT сфера ответственности лежит на господине Мюллере.
   5. *Eine unklare Zuständigkeit führt oft zu Verzögerungen.*
      ➔ Нечеткая сфера ответственности часто ведет к задержкам.
+  6. *Auch hierbei geht es darum: Wenn jeder seine nationale Zuständigkeit behalten will und*
+     ➔ Речь также идет о следующем: Если каждый хочет сохранить свою национальную юрисдикцию и
 
 ### 53. die Rolle, die Rollen [🎥 YouGlish](https://de.youglish.com/pronounce/Rolle/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1028,6 +1122,8 @@
      ➔ На этой встрече вы возьмете на себя роль модератора.
   5. *Rollenkonflikte müssen sofort besprochen werden.*
      ➔ Ролевые конфликты должны обсуждаться незамедлительно.
+  6. *Also der hat keine Rolle in deinem Leben gespielt*
+     ➔ Значит, он не играл никакой роли в твоей жизни
 
 ### 54. die Verantwortung, die Verantwortungen [🎥 YouGlish](https://de.youglish.com/pronounce/Verantwortung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1046,6 +1142,8 @@
      ➔ Мы должны распределить ответственность на несколько человек.
   5. *Seine Verantwortung umfasst die gesamte Softwarearchitektur.*
      ➔ Его сфера ответственности охватывает всю архитектуру программного обеспечения.
+  6. *verantwortung im sinne von kindern häusern*
+     ➔ ответственность в смысле детских домов
 
 ### 55. das Teammitglied, die Teammitglieder [🎥 YouGlish](https://de.youglish.com/pronounce/Teammitglied/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1064,6 +1162,8 @@
      ➔ Все члены команды приняли участие в ежедневном стендапе.
   5. *Ein motiviertes Teammitglied leistet bessere Arbeit.*
      ➔ Мотивированный член команды выполняет работу лучше.
+  6. *Von Anfang an bist du ein festes Teammitglied.*
+     ➔ Вы являетесь постоянным членом команды с самого начала.
 
 ### 56. der Auftraggeber, die Auftraggeber [🎥 YouGlish](https://de.youglish.com/pronounce/Auftraggeber/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1082,6 +1182,8 @@
      ➔ Заказчик желает получать еженедельную отчетность.
   5. *Wer ist der interne Auftraggeber für dieses IT-Projekt?*
      ➔ Кто является внутренним заказчиком этого ИТ-проекта?
+  6. *tätige Auftraggeber ist der Ort der Leistung dort,*
+     ➔ активный клиент, место исполнения есть,
 
 ### 57. der Auftragnehmer, die Auftragnehmer [🎥 YouGlish](https://de.youglish.com/pronounce/Auftragnehmer/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1100,6 +1202,8 @@
      ➔ Возникли разногласия между заказчиком и подрядчиком.
   5. *Der Auftragnehmer muss wöchentliche Statusberichte senden.*
      ➔ Подрядчик должен отправлять еженедельные отчеты о статусе.
+  6. *Wenn sich Auftraggeber und Auftragnehmer nicht sicher sind,*
+     ➔ Если клиент и подрядчик не уверены,
 
 ### 58. der Ansprechpartner, die Ansprechpartner [🎥 YouGlish](https://de.youglish.com/pronounce/Ansprechpartner/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1118,6 +1222,8 @@
      ➔ Пожалуйста, назовите мне ответственное контактное лицо.
   5. *Der Ansprechpartner der Marketingabteilung ist heute im Urlaub.*
      ➔ Контактное лицо из отдела маркетинга сегодня в отпуске.
+  6. *attraktiver und offener Ansprechpartner zu dienen und damit auch neue*
+     ➔ служить привлекательным и открытым контактным лицом и, следовательно, новыми
 
 ### 59. die Zuteilung, die Zuteilungen [🎥 YouGlish](https://de.youglish.com/pronounce/Zuteilung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1136,6 +1242,8 @@
      ➔ Автоматическое назначение в тикет-системе экономит много времени.
   5. *Nach der Zuteilung des Budgets können wir starten.*
      ➔ После распределения бюджета мы можем начинать.
+  6. *selbstständig. Das hilft bei der Zuteilung eines Pflegegrades wirklich nicht.*
+     ➔ частный предприниматель. Это действительно не помогает при назначении уровня ухода.
 
 ### 60. die Delegation, die Delegationen [🎥 YouGlish](https://de.youglish.com/pronounce/Delegation/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1154,6 +1262,8 @@
      ➔ Недостаточное делегирование часто ведет к микроменеджменту.
   5. *Wir haben Richtlinien für die Delegation von Entscheidungen festgelegt.*
      ➔ Мы установили руководящие принципы для делегирования решений.
+  6. *eine Schnittstelle zwischen Ärzten und Pflege fungiert. Auf ärztliche Delegation*
+     ➔ действует как связующее звено между врачами и медсестрами. О медицинской делегации
 
 ### 61. die Abstimmung, die Abstimmungen [🎥 YouGlish](https://de.youglish.com/pronounce/Abstimmung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1172,6 +1282,8 @@
      ➔ Еженедельное согласование помогает нам избегать ошибок.
   5. *Zur Abstimmung des Designs nutzen wir Figma.*
      ➔ Для согласования дизайна мы используем Figma.
+  6. *Das eine ist: Es hat eine Abstimmung gegeben, initiiert von den*
+     ➔ Одно дело: было голосование, инициированное ими
 
 ### 62. der Aufgabenbereich, die Aufgabenbereiche [🎥 YouGlish](https://de.youglish.com/pronounce/Aufgabenbereich/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1190,6 +1302,8 @@
      ➔ Какая сфера задач относится к вашей должности?
   5. *Wir müssen die Aufgabenbereiche im Team klarer abgrenzen.*
      ➔ Мы должны более четко разграничить сферы задач в команде.
+  6. *die je nach Aufgabenbereich dann auch eingesetzt werden.*
+     ➔ которые затем используются в зависимости от зоны ответственности.
 
 ### 63. die Aufgabenteilung, die Aufgabenteilungen [🎥 YouGlish](https://de.youglish.com/pronounce/Aufgabenteilung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1208,6 +1322,8 @@
      ➔ Наше распределение задач ориентируется на сильные стороны членов команды.
   5. *Gibt es Verbesserungsvorschläge zur aktuellen Aufgabenteilung?*
      ➔ Есть ли предложения по улучшению текущего распределения задач?
+  6. *herrscht noch die klassische Rollen- und Aufgabenteilung.*
+     ➔ Классическое разделение ролей и задач по-прежнему преобладает.
 
 ### 64. der Stellvertreter, die Stellvertreter [🎥 YouGlish](https://de.youglish.com/pronounce/Stellvertreter/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1226,6 +1342,8 @@
      ➔ Пожалуйста, укажите заместителя в автоответчике об отсутствии.
   5. *Er arbeitet eng mit seinem Stellvertreter zusammen.*
      ➔ Он тесно сотрудничает со своим заместителем.
+  6. *ist oder dessen Stellvertreter, sondern dass grundsätzlich eben hier die Betriebsratsmitglieder*
+     ➔ или его заместитель, но это в основном члены производственного совета
 
 ### 65. der Fachexperte, die Fachexperten [🎥 YouGlish](https://de.youglish.com/pronounce/Fachexperte/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1244,6 +1362,8 @@
      ➔ Отзыв эксперта был очень полезен для нас.
   5. *Sie gilt im Unternehmen als führende Fachexpertin für Cloud-Technologien.*
      ➔ Оna считается в компании ведущим профильным экспертом по облачным технологиям.
+  6. *ich unterschiedliche meinungen und ich weiß es nicht, weil ich vielleicht kein fachexperte in*
+     ➔ У меня разные мнения, и я не знаю, потому что, возможно, я не являюсь экспертом в данной области.
 
 ### 66. die Koordination, die Koordinationen [🎥 YouGlish](https://de.youglish.com/pronounce/Koordination/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1262,6 +1382,8 @@
      ➔ Господин Вагнер берет на себя координацию между командами.
   5. *Eine mangelhafte Koordination gefährdet den Projekterfolg.*
      ➔ Недостаточная координация ставит под угрозу успех проекта.
+  6. *die Koordination dieser Aufgabe übernommen hat und*
+     ➔ взял на себя координацию этой задачи и
 
 ### 67. die Zusammenarbeit (Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Zusammenarbeit%20%28Sg.%29/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1280,6 +1402,8 @@
      ➔ Инструмент Slack облегчает совместную работу на удаленке.
   5. *Wir müssen die Zusammenarbeit zwischen Vertrieb und IT verbessern.*
      ➔ Мы должны улучшить сотрудничество между отделом продаж и ИТ.
+  6. *Und eine so enge Zusammenarbeit wie jetzt habe ich noch nicht erlebt.*
+     ➔ И такого тесного сотрудничества, как сейчас, я еще не встречал.
 
 ### 68. der Verantwortungsbereich, die Verantwortungsbereiche [🎥 YouGlish](https://de.youglish.com/pronounce/Verantwortungsbereich/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1298,6 +1422,8 @@
      ➔ Зона ответственности руководства была структурирована заново.
   5. *Wer übernimmt diesen Verantwortungsbereich nach ihrer Kündigung?*
      ➔ Кто возьмет на себя эту зону ответственности после ее увольнения?
+  6. *in deren Verantwortungsbereich es Missbrauchsfälle gab,*
+     ➔ в чьей зоне ответственности были случаи злоупотреблений,
 
 ### 69. die Übergabe, die Übergaben [🎥 YouGlish](https://de.youglish.com/pronounce/%C3%9Cbergabe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1316,6 +1442,8 @@
      ➔ Пожалуйста, задокументируйте всё важное для передачи дел.
   5. *Das Protokoll der Übergabe muss von beiden Seiten unterschrieben werden.*
      ➔ Протокол сдачи проекта должен быть подписан обеими сторонами.
+  6. *Wow, das hab ich noch nie gehört. Was ist ein Übergabe-Gebet?*
+     ➔ Ух ты, я никогда такого раньше не слышал. Что такое молитва о капитуляции?
 
 ### 70. die Ausführung, die Ausführungen [🎥 YouGlish](https://de.youglish.com/pronounce/Ausf%C3%BChrung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1334,6 +1462,8 @@
      ➔ Руководитель проекта контролирует выполнение задач.
   5. *Eine sorgfältige Planung erleichtert die spätere Ausführung.*
      ➔ Тщательное планирование облегчает последующее выполнение.
+  6. *mit der Ausführung von Reparaturarbeiten an seinem Wohnhaus beauftragt hatte.*
+     ➔ провести ремонтные работы в своем доме.
 
 ### 71. die Entlastung, die Entlastungen [🎥 YouGlish](https://de.youglish.com/pronounce/Entlastung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1352,6 +1482,8 @@
      ➔ Для снижения нагрузки мы делегировали некоторые задачи внешней команде.
   5. *Das neue Zeiterfassungssystem führte nicht zur erhofften Entlastung.*
      ➔ Новая система учета рабочего времени не привела к ожидаемой разгрузке.
+  6. *Verkehrsprojekt zur Entlastung des Hamburger Hauptbahnhofes, das wird*
+     ➔ Транспортный проект по снижению нагрузки на центральный вокзал Гамбурга
 
 ### 72. die Pflicht, die Pflichten [🎥 YouGlish](https://de.youglish.com/pronounce/Pflicht/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1370,6 +1502,8 @@
      ➔ У каждого члена команды есть права и обязанности.
   5. *Wer hat seine Pflichten vernachlässigt?*
      ➔ Кто пренебрег своими обязанностями?
+  6. *die Mittlere Reife Pflicht, um eben in das Auswahlverfahren mit*
+     ➔ аттестат об окончании средней школы является обязательным для включения в процесс отбора
 
 ### 73. die Zuweisung, die Zuweisungen [🎥 YouGlish](https://de.youglish.com/pronounce/Zuweisung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1388,6 +1522,8 @@
      ➔ Распределение ролей должно оставаться гибким.
   5. *Wer kontrolliert die Zuweisung der Benutzerrechte?*
      ➔ Кто контролирует назначение прав пользователей?
+  6. *Er macht die Zuweisung in die zwei Administrationszimmer.*
+     ➔ Он дает задание двум административным помещениям.
 
 ### 74. die Vertretung, die Vertretungen [🎥 YouGlish](https://de.youglish.com/pronounce/Vertretung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1406,6 +1542,8 @@
      ➔ Для экстренных случаев организовано замещение.
   5. *Die Vertretung des Abteilungsleiters ist heute nicht im Haus.*
      ➔ Заместителя начальника отдела сегодня нет в офисе.
+  6. *Respekt und Unterstützung für andere und die Vertretung eigener Interessen sind kein*
+     ➔ Уважение и поддержка других, а также представление собственных интересов не являются
 
 ### 75. der Mitarbeiter, die Mitarbeiter [🎥 YouGlish](https://de.youglish.com/pronounce/Mitarbeiter/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1424,6 +1562,8 @@
      ➔ Все сотрудники приглашены на командное мероприятие.
   5. *Die Schulung der Mitarbeiter beginnt nächste Woche.*
      ➔ Обучение сотрудников начинается на следующей неделе.
+  6. *Die Mitarbeiterinnen und Mitarbeiter des Kanzleramtes*
+     ➔ Сотрудники Канцелярии
 
 ### 76. delegieren [🎥 YouGlish](https://de.youglish.com/pronounce/delegieren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1446,6 +1586,8 @@
      ➔ Она делегировала ответственность за мероприятие команде.
   5. *Man kann Aufgaben delegieren, aber nicht die endgültige Verantwortung.*
      ➔ Можно делегировать задачи, но не конечную ответственность.
+  6. *entsprechenden einen Status wo stehen sie. Das als die sechs tipps zum effektiven delegieren dann wird ihnen das auch entsprechend gelingen*
+     ➔ соответствующий статусу, в котором они находятся. Это шесть советов по эффективному делегированию, и вы соответственно добьетесь успеха.
 
 ### 77. übernehmen [🎥 YouGlish](https://de.youglish.com/pronounce/%C3%BCbernehmen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1467,6 +1609,8 @@
      ➔ Он выразил готовность взять на себя замещение.
   5. *Übernehmen Sie sich nicht mit zu vielen Aufgaben gleichzeitig.*
      ➔ Не перегружайте себя слишком большим количеством задач одновременно.
+  6. *Sondern selbst wieder Verantwortung für dein Leben zu übernehmen.*
+     ➔ Но снова взять на себя ответственность за свою жизнь.
 
 ### 78. zuweisen [🎥 YouGlish](https://de.youglish.com/pronounce/zuweisen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1489,6 +1633,8 @@
      ➔ Кто назначает роли в системе?
   5. *Die Aufgaben wurden den Teammitgliedern gleichmäßig zugewiesen.*
      ➔ Задачи were равномерно распределены между членами команды.
+  6. *Gemeinwesen zuweisen. Drittens das Phänomen der sogenannten*
+     ➔ Назначить сообщество. В-третьих, явление так называемого
 
 ### 79. koordinieren [🎥 YouGlish](https://de.youglish.com/pronounce/koordinieren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1511,6 +1657,8 @@
      ➔ Руководитель проекта координирует совместную работу всех участников.
   5. *Es ist schwer, ein internationales Projekt über Zeitzonen hinweg zu koordinieren.*
      ➔ Сложно координировать международный проект в разных часовых поясах.
+  6. *koordinieren - wird das auch gewertschätzt von der Community?*
+     ➔ координировать - это тоже ценится сообществом?
 
 ### 80. ausführen [🎥 YouGlish](https://de.youglish.com/pronounce/ausf%C3%BChren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1532,6 +1680,8 @@
      ➔ Кто будет выполнять эти работы на месте?
   5. *Eine schlecht ausgeführte Aufgabe führt zu Qualitätsmängeln.*
      ➔ Плохо выполненная задача ведет к дефектам качества.
+  6. *Also Inhalte besser verstehen oder eine Tätigkeit kompetenter ausführen können.*
+     ➔ Другими словами, лучше понимать контент или уметь более компетентно осуществлять деятельность.
 
 ### 81. verteilen [🎥 YouGlish](https://de.youglish.com/pronounce/verteilen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1554,6 +1704,8 @@
      ➔ Кто распределяет бюджет по отдельным этапам?
   5. *Aufgaben sollten nach den Fähigkeiten der Mitarbeiter verteilt werden.*
      ➔ Задачи должны распределяться в соответствии со способностями сотрудников.
+  6. *verhältnismäßig auf sämtliche Geschäftsanteile zu verteilen.*
+     ➔ распределяться пропорционально между всеми акциями компании.
 
 ### 82. verantworten [🎥 YouGlish](https://de.youglish.com/pronounce/verantworten/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1575,6 +1727,8 @@
      ➔ За этот риск вам придется отвечать перед правлением.
   5. *Sie verantwortet die Freigabe des neuen Produkts.*
      ➔ Она отвечает за выпуск нового продукта.
+  6. *Können wir das verantworten im Vergleich zu anderen Strecken,*
+     ➔ Можем ли мы нести ответственность за это по сравнению с другими маршрутами?
 
 ### 83. leiten [🎥 YouGlish](https://de.youglish.com/pronounce/leiten/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1596,6 +1750,8 @@
      ➔ Трудно руководить проектом без четких полномочий.
   5. *Er leitet die Abteilung übergangsweise bis zur Neubesetzung.*
      ➔ Он временно руководит отделом до назначения нового человека.
+  6. *und wie ein Pastor Gemeinde zu leiten hat, auseinander ging.*
+     ➔ и как пастор должен руководить церковью.
 
 ### 84. unterstützen [🎥 YouGlish](https://de.youglish.com/pronounce/unterst%C3%BCtzen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1618,6 +1774,8 @@
      ➔ Новый инструмент очень поможет нам в работе.
   5. *Ein externer Berater wird das Team in der Testphase unterstützen.*
      ➔ Внешний консультант поддержит команду на этапе тестирования.
+  6. *wissen zu schaffen und führungskräfte zu unterstützen*
+     ➔ создать менеджеров по знаниям и поддержке
 
 ### 85. beitragen [🎥 YouGlish](https://de.youglish.com/pronounce/beitragen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1640,6 +1798,8 @@
      ➔ Это решение будет способствовать снижению затрат.
   5. *Gute Kommunikation trägt zur Zufriedenheit der Kunden bei.*
      ➔ Хорошая коммуникация способствует удовлетворенности клиентов.
+  6. *beitragen, die Zukunft lebenswert zu gestalten.*
+     ➔ внести свой вклад в то, чтобы сделать будущее достойным жизни.
 
 ### 86. zusammenarbeiten [🎥 YouGlish](https://de.youglish.com/pronounce/zusammenarbeiten/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1662,6 +1822,8 @@
      ➔ В прошлом мы уже успешно сотрудничали.
   5. *Um dieses Ziel zu erreichen, müssen alle Abteilungen zusammenarbeiten.*
      ➔ Чтобы достичь этой цели, все отделы должны работать вместе.
+  6. *und untersuchst z. B. wie Teams erfolgreicher zusammenarbeiten können.*
+     ➔ и проверить, например. Б. как команды могут более успешно работать вместе.
 
 ### 87. vereinbaren [🎥 YouGlish](https://de.youglish.com/pronounce/vereinbaren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1684,6 +1846,8 @@
      ➔ Пожалуйста, договоритесь о личной встрече с клиентом.
   5. *Wir haben vereinbart, uns jeden Montag abzustimmen.*
      ➔ Мы договорились согласовывать действия каждый понедельник.
+  6. *Vorstellungsgespräch vereinbaren, wenn natürlich das Interesse von der anderen*
+     ➔ Организуйте собеседование, если, конечно, другой человек заинтересован
 
 ### 88. regeln [🎥 YouGlish](https://de.youglish.com/pronounce/regeln/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1705,6 +1869,8 @@
      ➔ Детали сотрудничества прописаны в договоре.
   5. *Bitte regeln Sie das Problem so schnell wie möglich.*
      ➔ Пожалуйста, уладьте эту проблему как можно быстрее.
+  6. *Wenn du helfen möchtest, diese Regeln umzusetzen,*
+     ➔ Если вы хотите помочь реализовать эти правила,
 
 ### 89. erledigen [🎥 YouGlish](https://de.youglish.com/pronounce/erledigen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1726,6 +1892,8 @@
      ➔ Мы должны сначала сделать срочные задачи.
   5. *Wer erledigt die Ablage der Projektdokumente?*
      ➔ Кто занимается архивированием проектных документов?
+  6. *Also entweder musst du da was machen oder irgendetwas erledigen*
+     ➔ Так что вам либо нужно что-то сделать, либо сделать что-то
 
 ### 90. bewältigen [🎥 YouGlish](https://de.youglish.com/pronounce/bew%C3%A4ltigen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1747,6 +1915,8 @@
      ➔ С правильными инструментами с проектом можно легко справиться.
   5. *Er hat alle Hindernisse auf dem Weg zum Ziel bewältigt.*
      ➔ Он преодолел все препятствия на пути к цели.
+  6. *ökologischer oder demokratischer Natur bewältigen*
+     ➔ экологический или демократический характер
 
 ### 91. übertragen [🎥 YouGlish](https://de.youglish.com/pronounce/%C3%BCbertragen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1769,6 +1939,8 @@
      ➔ Мы успешно перенесли данные в новую систему.
   5. *Bitte übertragen Sie diese Termine in Ihren Kalender.*
      ➔ Пожалуйста, перенесите эти встречи в свой календарь.
+  6. *die durch Mücken oder Zecken übertragen werden.*
+     ➔ которые передаются комарами или клещами.
 
 ### 92. zuständig [🎥 YouGlish](https://de.youglish.com/pronounce/zust%C3%A4ndig/german)
 - **Часть речи (Part of Speech):** Adjective
@@ -1786,6 +1958,8 @@
      ➔ Пожалуйста, обратитесь к ответственному лицу.
   5. *Wir müssen klären, wer für die Kundenkommunikation zuständig ist.*
      ➔ Мы должны прояснить, кто отвечает за коммуникацию с клиентами.
+  6. *die Kommission, die in Deutschland für die Impfungen zuständig ist:*
+     ➔ комиссия, ответственная за вакцинацию в Германии:
 
 ### 93. verantwortlich [🎥 YouGlish](https://de.youglish.com/pronounce/verantwortlich/german)
 - **Часть речи (Part of Speech):** Adjective
@@ -1804,6 +1978,8 @@
      ➔ Мы чувствуем себя ответственными за удовлетворенность наших клиентов.
   5. *Ein verantwortliches Handeln ist in diesem Projekt entscheidend.*
      ➔ Ответственные действия имеют решающее значение в этом проекте.
+  6. *Ich bin nicht verantwortlich für meine schlechte Laune.*
+     ➔ Я не несу ответственности за свое плохое настроение.
 
 ### 94. weisungsbefugt [🎥 YouGlish](https://de.youglish.com/pronounce/weisungsbefugt/german)
 - **Часть речи (Part of Speech):** Adjective
@@ -1821,6 +1997,8 @@
      ➔ Начальница отдела уполномочена давать указания всем сотрудникам.
   5. *Klare Linien helfen zu wissen, wer wem gegenüber weisungsbefugt ist.*
      ➔ Четкие линии помогают знать, кто перед кем имеет право давать указания.
+  6. *weisungsbefugt bin als headoff von der ganzen Situation*
+     ➔ Я уполномочен давать указания как руководитель всей ситуации.
 
 ### 95. überlastet [🎥 YouGlish](https://de.youglish.com/pronounce/%C3%BCberlastet/german)
 - **Часть речи (Part of Speech):** Adjective
@@ -1838,6 +2016,8 @@
      ➔ Сервер перегружен из-за большого количества запросов.
   5. *Um nicht überlastet zu werden, müssen wir 'Nein' sagen lernen.*
      ➔ Чтобы не перегружаться, мы должны научиться говорить 'нет'.
+  6. *„Durch die vielen Impfungen und Mehrfachimpfstoffe wird das Immunsystem des kleinen Kindes überlastet."*
+     ➔ «Из-за множества прививок и множества вакцин иммунная система маленького ребенка перегружена».
 
 ### 96. eigenverantwortlich [🎥 YouGlish](https://de.youglish.com/pronounce/eigenverantwortlich/german)
 - **Часть речи (Part of Speech):** Adjective
@@ -1856,6 +2036,8 @@
      ➔ Мы стимулируем самостоятельный стиль работы.
   5. *Jeder Mitarbeiter übernimmt eigenverantwortlich seine Aufgaben.*
      ➔ Каждый сотрудник самостоятельно выполняет свои задачи.
+  6. *Schule eigenverantwortlich machen, hintenraus das Ergebnis dann aber auch kontrollieren,*
+     ➔ Сделать школу ответственной за себя, но потом еще и следить за результатом,
 
 
 ---
@@ -1879,6 +2061,8 @@
      ➔ Пожалуйста, внесите все встречи в общий календарь.
   5. *Wir haben heute mehrere wichtige Termine mit den Stakeholdern.*
      ➔ Сегодня у нас несколько важных встреч со стейкхолдерами.
+  6. *einen Termin bei deinem Hausarzt oder deiner Hausärztin machen.*
+     ➔ Запишитесь на прием к своему семейному врачу.
 
 ### 98. die Frist, die Fristen [🎥 YouGlish](https://de.youglish.com/pronounce/Frist/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1897,6 +2081,8 @@
      ➔ Установленный законом срок оказывает на нас сильное давление.
   5. *Nach Ablauf der Frist können keine Änderungen mehr vorgenommen werden.*
      ➔ После истечения срока никакие изменения больше не могут быть внесены.
+  6. *Die Frist der Abgabe wurde auf den 31.10. dieses Jahres gelegt*
+     ➔ Крайний срок подачи был 31 октября. заложили в этом году
 
 ### 99. die Verzögerung, die Verzögerungen [🎥 YouGlish](https://de.youglish.com/pronounce/Verz%C3%B6gerung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1915,6 +2101,8 @@
      ➔ Произошла задержка в поставке оборудования.
   5. *Trotz der Verzögerung können wir das Enddatum halten.*
      ➔ Несмотря на задержку, мы можем уложиться в конечную дату.
+  6. *mich für die Verzögerung.*
+     ➔ меня за задержку.
 
 ### 100. die Zeiterfassung, die Zeiterfassungen [🎥 YouGlish](https://de.youglish.com/pronounce/Zeiterfassung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1933,6 +2121,8 @@
      ➔ Учет рабочего времени показывает, что мы тратим слишком много времени на встречи.
   5. *Der Projektleiter kontrolliert die Zeiterfassung der Mitarbeiter.*
      ➔ Руководитель проекта контролирует учет рабочего времени сотрудников.
+  6. *Aber wir Lebewesen, wir haben eine qualitative Zeiterfassung.*
+     ➔ Но мы, живые существа, имеем качественную запись времени.
 
 ### 101. die Schätzung, die Schätzungen [🎥 YouGlish](https://de.youglish.com/pronounce/Sch%C3%A4tzung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -1951,6 +2141,8 @@
      ➔ Оценка общих затрат составляет 50 000 евро.
   5. *In agilen Projekten nutzen wir Planning Poker für Schätzungen.*
      ➔ В гибких проектах мы используем Planning Poker для оценок.
+  6. *nahm, stellte er fest, dass die Schätzung des Median gerade mal ein Pfund vom tatsächlichen*
+     ➔ он обнаружил, что средняя оценка была всего на один фунт ниже фактической
 
 ### 102. einhalten [🎥 YouGlish](https://de.youglish.com/pronounce/einhalten/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1972,6 +2164,8 @@
      ➔ Если мы будем соблюдать стандарты качества, клиент останется доволен.
   5. *Es ist wichtig, die Pausenzeiten einzuhalten.*
      ➔ Важно соблюдать время перерывов.
+  6. *Also man sagt Dinge zu, die man nicht einhalten kann.*
+     ➔ Итак, вы обещаете то, что не можете сдержать.
 
 ### 103. verschieben [🎥 YouGlish](https://de.youglish.com/pronounce/verschieben/german)
 - **Часть речи (Part of Speech):** Verb
@@ -1994,6 +2188,8 @@
      ➔ Лучше перенести релиз, чем выпускать продукт с ошибками.
   5. *Wir sollten diese Aufgabe auf die nächste Phase verschieben.*
      ➔ Нам следует перенести эту задачу на следующий этап.
+  6. *Stadtratssitzung verschieben und 46 Terminkalender durcheinander bringen,*
+     ➔ Отложить заседание городского совета и испортить 46 календарей,
 
 ### 104. absagen [🎥 YouGlish](https://de.youglish.com/pronounce/absagen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -2016,6 +2212,8 @@
      ➔ Клиент отменил воркшоп по телефону.
   5. *Wenn Sie nicht teilnehmen können, sagen Sie bitte rechtzeitig ab.*
      ➔ Если вы не можете принять участие, пожалуйста, отмените встречу заранее.
+  6. *haben mich nie wirklich von meinem Lebensstil absagen lassen. Und so war das für mich immer:*
+     ➔ никогда не позволяй мне отказываться от своего образа жизни. И у меня всегда так было:
 
 ### 105. der Verzug, die Verzüge [🎥 YouGlish](https://de.youglish.com/pronounce/Verzug/german)
 - **Часть речи (Part of Speech):** Noun
@@ -2034,6 +2232,8 @@
      ➔ Просрочка была вызвана выходом из строя субподрядчика.
   5. *Wie können wir den aktuellen Verzug wieder aufholen?*
      ➔ Как мы можем компенсировать текущее отставание?
+  6. *Aber, wenn Gefahr im Verzug ist, kann sie nicht ins Lenkrad greifen.*
+     ➔ Но когда опасность неминуема, она не может сесть за руль.
 
 ### 106. rechtzeitig [🎥 YouGlish](https://de.youglish.com/pronounce/rechtzeitig/german)
 - **Часть речи (Part of Speech):** Adjective
@@ -2052,6 +2252,8 @@
      ➔ Если мы выявим риски своевременно, мы сможем принять контрмеры.
   5. *Der Prototyp wurde rechtzeitig vor der Messe fertiggestellt.*
      ➔ Прототип был завершен вовремя перед выставкой.
+  6. *Und das Wichtigste ist, dass sie rechtzeitig behandelt wird.*
+     ➔ И самое главное, чтобы ее лечили своевременно.
 
 ### 107. verspätet [🎥 YouGlish](https://de.youglish.com/pronounce/versp%C3%A4tet/german)
 - **Часть речи (Part of Speech):** Adjective
@@ -2070,6 +2272,8 @@
      ➔ Руководитель проекта извинился за запоздалый старт.
   5. *Verspätete Zahlungen können zu Liquiditätsproblemen führen.*
      ➔ Запоздалые платежи могут привести к проблемам с ликвидностью.
+  6. *wenn der Arbeitnehmer den Lohn mehrfach verspätet erhalten hat, obwohl ein*
+     ➔ если работник несколько раз задерживал заработную плату, даже если
 
 ### 108. die Deadline, die Deadlines [🎥 YouGlish](https://de.youglish.com/pronounce/Deadline/german)
 - **Часть речи (Part of Speech):** Noun
@@ -2088,6 +2292,8 @@
      ➔ Соблюсти этот дедлайн невозможно.
   5. *Können wir über eine Verlängerung der Deadline verhandeln?*
      ➔ Можем ли мы договориться о продлении дедлайна?
+  6. *dass ich es machen muss, also dass das Leiden vor der Deadline stärker ist als das Leiden,*
+     ➔ что я должен это сделать, чтобы страдания до срока были сильнее страданий,
 
 ### 109. schätzen [🎥 YouGlish](https://de.youglish.com/pronounce/sch%C3%A4tzen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -2110,6 +2316,8 @@
      ➔ Команда оценивает Story Points на планировании.
   5. *Erfahrene Entwickler können Risiken besser schätzen.*
      ➔ Опытные разработчики могут лучше оценивать риски.
+  6. *Wusstest du das dann wieder zu schätzen, wie es ist wenn man seine Freunde in Rufweite hat?*
+     ➔ Оценили ли вы тогда, каково это, когда ваши друзья находятся на расстоянии звонка?
 
 ### 110. der Puffer, die Puffer [🎥 YouGlish](https://de.youglish.com/pronounce/Puffer/german)
 - **Часть речи (Part of Speech):** Noun
@@ -2128,6 +2336,8 @@
      ➔ Достаточно ли у нас буфера в бюджете для дополнительных требований?
   5. *Ein großzügiger Puffer reduziert das Risiko von Verzögerungen.*
      ➔ Щедрый буфер снижает риск задержек.
+  6. *entsprechende Prioritäten. Puffer Budget einplanen.*
+     ➔ соответствующие приоритеты. Запланируйте буферный бюджет.
 
 ### 111. die Phase, die Phasen [🎥 YouGlish](https://de.youglish.com/pronounce/Phase/german)
 - **Часть речи (Part of Speech):** Noun
@@ -2146,6 +2356,8 @@
      ➔ Этап разработки концепции занял больше времени, чем планировалось.
   5. *Wir müssen die Phasen des Projekts klar voneinander abgrenzen.*
      ➔ Мы должны четко разграничить этапы проекта друг от друга.
+  6. *Und in der Ideation-Phase, das ist eine ganz wichtige Phase, da*
+     ➔ И на этапе формирования идей это очень важный этап.
 
 ### 112. die Dauer [🎥 YouGlish](https://de.youglish.com/pronounce/Dauer/german)
 - **Часть речи (Part of Speech):** Noun
@@ -2164,6 +2376,8 @@
      ➔ Непредвиденные ошибки увеличивают продолжительность разработки.
   5. *Wie schätzen Sie die Dauer für das Design-Review ein?*
      ➔ Как вы оцениваете продолжительность обзора дизайна?
+  6. *Und wir konnten jetzt über die Dauer der Pandemie,*
+     ➔ И теперь, во время пандемии, мы смогли
 
 ### 113. zeitlich [🎥 YouGlish](https://de.youglish.com/pronounce/zeitlich/german)
 - **Часть речи (Part of Speech):** Adjective
@@ -2182,6 +2396,8 @@
      ➔ Ограничение по времени вынуждает нас быть эффективными.
   5. *Dieses Problem hat keinen zeitlichen Einfluss auf den Release.*
      ➔ Эта проблема не имеет временного влияния на релиз.
+  6. *manches muss aber eben noch entwickelt werden. Also es ist zeitlich auf*
+     ➔ Но некоторые вещи еще предстоит разработать. Так что это своевременно
 
 ### 114. erarbeiten [🎥 YouGlish](https://de.youglish.com/pronounce/erarbeiten/german)
 - **Часть речи (Part of Speech):** Verb
@@ -2204,6 +2420,8 @@
      ➔ Концепции должны быстро разрабатываться и тестироваться.
   5. *Die Marketingstrategie wurde in enger Zusammenarbeit erarbeitet.*
      ➔ Маркетинговая стратегия была разработана в тесном сотрудничестве.
+  6. *weitere Maßnahmen erarbeiten und quantifizierbare Ziele setzen.*
+     ➔ разработать дальнейшие меры и установить количественные цели.
 
 ### 115. der Zwischenbericht, die Zwischenberichte [🎥 YouGlish](https://de.youglish.com/pronounce/Zwischenbericht/german)
 - **Часть речи (Part of Speech):** Noun
@@ -2221,6 +2439,8 @@
      ➔ В промежуточном отчете задокументированы все достигнутые к настоящему моменту вехи.
   5. *Der Lenkungsausschuss fordert einen schriftlichen Zwischenbericht.*
      ➔ Руководящий комитет требует письменный промежуточный отчет.
+  6. *Die Bundesgesellschaft für Endlagerung von Atommüll hat einen Zwischenbericht abgeliefert*
+     ➔ Федеральное агентство по окончательному хранению ядерных отходов представило промежуточный отчет
 
 ### 116. die Abgabe, die Abgaben [🎥 YouGlish](https://de.youglish.com/pronounce/Abgabe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -2239,6 +2459,8 @@
      ➔ После сдачи начинается этап оценки.
   5. *Wir müssen vor der Abgabe eine Qualitätskontrolle durchführen.*
      ➔ Перед сдачей мы должны провести контроль качества.
+  6. *Also die Abgabe von Energie war auf einmal nicht mehr in Wellenform,*
+     ➔ Итак, высвобождение энергии внезапно перестало быть волновым.
 
 ### 117. der Ablauf, die Abläufe [🎥 YouGlish](https://de.youglish.com/pronounce/Ablauf/german)
 - **Часть речи (Part of Speech):** Noun
@@ -2256,6 +2478,8 @@
      ➔ Произошли сбои в привычном рабочем процессе.
   5. *Der Ablauf der Testphase ist genau geregelt.*
      ➔ Порядок проведения этапа тестирования строго регламентирован.
+  6. *Der Ablauf ist immer der selbe: Kopieren, was der andere tut. Pacing.*
+     ➔ Процесс всегда один и тот же: копируйте то, что делает другой человек. Темп.
 
 ### 118. die Auswirkung, die Auswirkungen [🎥 YouGlish](https://de.youglish.com/pronounce/Auswirkung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -2273,6 +2497,8 @@
      ➔ Этот риск не имеет прямых последствий для клиента.
   5. *Geringe Verzögerungen können große Auswirkungen auf das Projekt haben.*
      ➔ Небольшие задержки могут иметь серьезные последствия для проекта.
+  6. *die spürbarste Auswirkung des Klimawandels.*
+     ➔ наиболее заметное влияние изменения климата.
 
 ### 119. beschleunigen [🎥 YouGlish](https://de.youglish.com/pronounce/beschleunigen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -20729,6 +20955,8 @@
      ➔ Он... хотел дать мне больше обязанностей в гостинице.
   5. *Mein Ehemann lief davon... vor mir und seiner Verantwortung.*
      ➔ Мой муж сбежал от меня, от своих обязательств.
+  6. *verantwortung im sinne von kindern häusern*
+     ➔ ответственность в смысле детских домов
 
 ### 1175. Verantwortung übernehmen [🎥 YouGlish](https://de.youglish.com/pronounce/Verantwortung%20%C3%BCbernehmen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -28835,6 +29063,8 @@
      ➔ Все пятое поколение теперь работает вместе в гармонии, хотя Фридерике управляет «Садом чести», который является ее собственным центром прибыли.
   5. *Der sagt, Scientology sei keine Religion, sondern eine Art Profit-Center; ergo könne von religiöser Verfolgung nicht die Rede sein.*
      ➔ Он говорит, что Саентология — это не религия, а своего рода центр прибыли; Следовательно, о религиозных преследованиях не может быть и речи.
+  6. *Das Profit-Center spiegelt die interne Strukturierung des Unternehmens zur Ermittlung des Betriebsergebnisses wider.*
+     ➔ Центр прибыли отражает внутреннюю структуру предприятия для определения производственного результата.
 
 ### 1646. die Anlagenbuchhaltung, die Anlagenbuchhaltungen [🎥 YouGlish](https://de.youglish.com/pronounce/Anlagenbuchhaltung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -28848,6 +29078,8 @@
      ➔ При замене устройств обычно существует разница между выручкой от ремаркетинга или даже расходами на утилизацию и остаточной балансовой стоимостью учета основных средств.
   3. *Neben der Vertragskalkulation gehören hierzu auch aussagefähige Kunden- und Managementsinformationssysteme und eine leistungsstarke Finanz- und Anlagenbuchhaltung.*
      ➔ Помимо расчета контрактов, это также включает в себя содержательные информационные системы для клиентов и управления, а также мощный финансовый учет и учет активов.
+  4. *Die Anlagenbuchhaltung dient der Verwaltung und Überwachung des Anlagevermögens im SAP-System.*
+     ➔ Учет основных средств служит для управления и контроля основных средств в системе SAP.
 
 ### 1647. die Kreditorenbuchhaltung, die Kreditorenbuchhaltungen [🎥 YouGlish](https://de.youglish.com/pronounce/Kreditorenbuchhaltung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -28859,6 +29091,8 @@
      ➔ Бухгалтерия кредиторов обрабатывает входящие счета поставщиков.
   2. *Er arbeitet als Buchhalter in der Kreditorenbuchhaltung.*
      ➔ Он работает бухгалтером в бухгалтерии кредиторов.
+  3. *In der Kreditorenbuchhaltung werden alle Verbindlichkeiten gegenüber Lieferanten verwaltet und ausgeglichen.*
+     ➔ В бухгалтерии кредиторов осуществляется управление всеми обязательствами перед поставщиками и их выравнивание.
 
 ### 1648. die Debitorenbuchhaltung, die Debitorenbuchhaltungen [🎥 YouGlish](https://de.youglish.com/pronounce/Debitorenbuchhaltung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -28874,6 +29108,8 @@
      ➔ Отмечается, что аутсорсинг учета дебиторской задолженности приведет к организационному облегчению малых и средних компаний.
   4. *Auch der Expansionsdrang in unbekannte Märkte deutet die Notwendigkeit einer Warenkreditversicherung und die Übernahme der Debitorenbuchhaltung an.*
      ➔ Стремление выйти на неизвестные рынки также указывает на необходимость страхования торговых кредитов и принятия на себя учета дебиторской задолженности.
+  5. *Die Debitorenbuchhaltung überwacht die ausstehenden Forderungen und steuert den Mahnprozess für Kunden.*
+     ➔ Бухгалтерия дебиторов отслеживает дебиторскую задолженность и управляет процессом напоминания платежей клиентам.
 
 ### 1649. der Buchungskreis, die Buchungskreise [🎥 YouGlish](https://de.youglish.com/pronounce/Buchungskreis/german)
 - **Часть речи (Part of Speech):** Noun
@@ -28885,6 +29121,8 @@
      ➔ Балансовая единица представляет собой независимую единицу бухгалтерского учета.
   2. *Wir müssen Berichte auf Ebene des Buchungskreises erstellen.*
      ➔ Мы должны формировать отчеты на уровне балансовой единицы.
+  3. *Der Buchungskreis ist die kleinste organisatorische Einheit des externen Rechnungswesens, für die eine vollständige Bilanz erstellt werden kann.*
+     ➔ Балансовая единица является минимальной организационной единицей внешнего учета, для которой может быть составлен полный баланс.
 
 ### 1650. die Belegart, die Belegarten [🎥 YouGlish](https://de.youglish.com/pronounce/Belegart/german)
 - **Часть речи (Part of Speech):** Noun
@@ -28902,6 +29140,8 @@
      ➔ Приносим свои извинения, все линии временно заняты.
   5. *Ich weiß, Süße, aber, äh, - die Parkplätze sind alle belegt.*
      ➔ Я знаю, милая, но все те места были заняты.
+  6. *Die Belegart klassifiziert Buchungsbelege und steuert, welche Kontoarten bebucht werden dürfen.*
+     ➔ Вид документа классифицирует бухгалтерские документы и определяет, какие типы счетов могут быть проведены.
 
 ### 1651. die Buchungsperiode, die Buchungsperioden [🎥 YouGlish](https://de.youglish.com/pronounce/Buchungsperiode/german)
 - **Часть речи (Part of Speech):** Noun
@@ -28913,6 +29153,8 @@
      ➔ Период проводки для предыдущего месяца должен быть закрыт.
   2. *Wir können Buchungen nur in einer geöffneten Buchungsperiode erfassen.*
      ➔ Мы можем вводить проводки только в открытом периоде проводки.
+  3. *Nach dem Periodenabschluss muss die aktuelle Buchungsperiode geschlossen werden, um weitere Buchungen zu verhindern.*
+     ➔ После закрытия периода текущий период проведения должен быть закрыт во избежание дальнейших проводок.
 
 ### 1652. die Gewinn- und Verlustrechnung, die Rechnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Gewinn-%20und%20Verlustrechnung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -28930,6 +29172,8 @@
      ➔ Не было рыночных цен, публикуемых отчетов о прибылях и убытках, а также независимых анализов.
   5. *Nicht immer gibt es eine günstige Straßen- oder Busverbindungen. Der Betrieb soll Gewinn- und Verlustrechnungen in Betracht gezogen und die beste Lösung gefunden werden.*
      ➔ Оформление происходит при наличии у иностранца заграничного паспорта, а если покупателем выступает компания, то необходимо собрать полный пакет документов.
+  6. *Die Gewinn- und Verlustrechnung weist die Erträge und Aufwendungen einer Buchungsperiode aus.*
+     ➔ Отчет о прибылях и убытках отражает доходы и расходы за период проведения.
 
 ### 1653. das Sachkonto, die Sachkonten [🎥 YouGlish](https://de.youglish.com/pronounce/Sachkonto/german)
 - **Часть речи (Part of Speech):** Noun
@@ -28941,6 +29185,8 @@
      ➔ Каждая проводка в Главной книге выполняется на определенный счет главной книги.
   2. *Der Steuerberater legte ein neues Sachkonto für Reisekosten an.*
      ➔ Налоговый консультант создал новый счет главной книги для командировочных расходов.
+  3. *Für jedes Sachkonto muss im Kontenplan ein Stammsatz angelegt werden, bevor darauf Buchungen vorgenommen werden können.*
+     ➔ Для каждого счета главной книги в плане счетов должна быть создана основная запись, прежде чем по нему могут быть выполнены проводки.
 
 ### 1654. die Kostenstellenrechnung, die Rechnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Kostenstellenrechnung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -28952,6 +29198,8 @@
      ➔ Учет затрат по МВЗ помогает в анализе накладных расходов.
   2. *Im SAP-System ist die Kostenstellenrechnung ein Teil des CO-Moduls.*
      ➔ В системе SAP учет затрат по МВЗ является частью модуля CO.
+  3. *Die Kostenstellenrechnung ermöglicht eine detaillierte Analyse der im Unternehmen anfallenden Gemeinkosten.*
+     ➔ Учет затрат по МВЗ позволяет проводить детальный анализ косвенных расходов, возникающих на предприятии.
 
 ### 1655. die Gemeinkosten, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/Gemeinkosten/german)
 - **Часть речи (Part of Speech):** Noun
@@ -28969,6 +29217,8 @@
      ➔ Кого волнует низкий уровень накладных, если сама акция - крошечных масштабов?
   5. *Von einem Tag auf den anderen verloren 350 hervorragende Mitarbeiter ihre Arbeit, weil sie als zu hohe Gemeinkosten bezeichnet wurden.*
      ➔ Так что за один день все 350 наших замечательных сотрудников потеряли работу, потому что их окрестили накладными расходами.
+  6. *Gemeinkosten werden im Controlling über Umlagen oder Verteilungen auf die empfangenden Objekte verrechnet.*
+     ➔ Накладные расходы в контроллинге перерассчитываются на объекты-получатели посредством раскладки или распределения.
 
 ### 1656. die Einzelkosten, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/Einzelkosten/german)
 - **Часть речи (Part of Speech):** Noun
@@ -28986,6 +29236,8 @@
      ➔ Например, резко возрастут индивидуальные затраты на муниципальную инфраструктуру, такую ​​как дренаж.
   5. *In Hessen bekommen die Abgeordneten nur eine Aufwandspauschale von 850 Mark, rechnen jedoch ihre Einzelkosten zusätzlich ab.*
      ➔ В Гессене депутаты получают только фиксированную надбавку в размере 850 марок, но они также выставляют счета за свои индивидуальные расходы.
+  6. *Einzelkosten können einem Kostenträger direkt und ohne Umlageschlüssel zugewiesen werden.*
+     ➔ Прямые затраты могут быть отнесены на носитель затрат непосредственно и без использования ключа раскладки.
 
 ### 1657. die Leistungsart, die Leistungsarten [🎥 YouGlish](https://de.youglish.com/pronounce/Leistungsart/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29003,6 +29255,8 @@
      ➔ Можно ли создавать отчеты и просматривать данные об эффективности расширений объявлений?
   5. *Was Davids Solarmodul-Deal angeht hat unser Fachmann Bedenken wegen der angegebenen Leistungswerte.*
      ➔ По поводу солнечных панелей, предложенных Дэвидом, наши техники сомневаются из-за эффективности проекта.
+  6. *Die Leistungsart beschreibt die von einer Kostenstelle erbrachte und intern verrechnete Aktivität.*
+     ➔ Вид работ описывает вид деятельности, выполненный местом возникновения затрат и перераспределенный внутри компании.
 
 ### 1658. die Kostenart, die Kostenarten [🎥 YouGlish](https://de.youglish.com/pronounce/Kostenart/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29020,6 +29274,8 @@
      ➔ Счет за отопление является неэффективным, если «все затраты указаны в общей сумме без разбивки их по видам», постановил Берлинский окружной суд […].
   5. *Neben den Risikokosten fließen […] noch andere Kostenarten in den Kreditzins ein.*
      ➔ Помимо затрат на риск, в процентную ставку по кредиту входят и другие виды затрат.
+  6. *Die Kostenart klassifiziert den bewerteten Verbrauch von Produktionsfaktoren innerhalb eines Kostenrechnungskreises.*
+     ➔ Вид затрат классифицирует оцененное потребление факторов производства в рамках контроллингового поля.
 
 ### 1659. die primäre Kostenart, die Kostenarten [🎥 YouGlish](https://de.youglish.com/pronounce/prim%C3%A4re%20Kostenart/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29037,6 +29293,8 @@
      ➔ Келли, я чувствую, что нужно сделать первичное восстановление.
   5. *Ich wusste gar nicht, dass er eine primäre Kanzlei hat.*
      ➔ Не знала, что у него есть основная фирма.
+  6. *Eine primäre Kostenart stellt die Verbindung zwischen dem externen Rechnungswesen und der Kostenrechnung her.*
+     ➔ Первичный вид затрат устанавливает связь между внешним финансовым учетом и учетом затрат.
 
 ### 1660. die sekundäre Kostenart, die Kostenarten [🎥 YouGlish](https://de.youglish.com/pronounce/sekund%C3%A4re%20Kostenart/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29054,6 +29312,8 @@
      ➔ Мы заложили заряды так, что они должны вызвать вторичные взрывы.
   5. *Einmal das sekundäre Böse, das Menschen tun.*
      ➔ Вторичное зло, его творят люди.
+  6. *Eine sekundäre Kostenart dient ausschließlich der internen Kostenverrechnung innerhalb des Controllings.*
+     ➔ Вторичный вид затрат служит исключительно для внутреннего перерасчета затрат в рамках контроллинга.
 
 ### 1661. die Umlage, die Umlagen [🎥 YouGlish](https://de.youglish.com/pronounce/Umlage/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29069,6 +29329,8 @@
      ➔ Мы можем его перепрятать.
   4. *Die Patientin umlagern. McRoberts-Position.*
      ➔ Э... Положи её как МакРобертс.
+  5. *Bei der Umlage werden die Kosten unter einer sekundären Kostenart gebündelt und verrechnet.*
+     ➔ При раскладке затраты объединяются под вторичным видом затрат и перерассчитываются.
 
 ### 1662. die Verteilung, die Verteilungen [🎥 YouGlish](https://de.youglish.com/pronounce/Verteilung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29086,6 +29348,8 @@
      ➔ Воплощение идеи, несмотря на широкое географическое распространение, существует в своём первозданном виде без сколь либо значимых вариаций.
   5. *Band 1. Anzahl und Verteilung der Bevölkerung).*
      ➔ Том 1 - «Численность и размещение населения».
+  6. *Die Verteilung eignet sich für die Weiterleitung von primären Kostenarten auf andere Controlling-Objekte.*
+     ➔ Распределение подходит для перенаправления первичных видов затрат на другие объекты контроллинга.
 
 ### 1663. der statistische Kennzahl, die Kennzahlen [🎥 YouGlish](https://de.youglish.com/pronounce/statistische%20Kennzahl/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29103,6 +29367,8 @@
      ➔ До популяризации транспортных средств, использующих альтернативные возобновляемые источники энергии, мы должны продолжать ископаемого топлива.
   5. *Wir könnten also sagen: Eine neue Kennzahl erscheint. Lassen Sie uns Afrikas Schulden betrachten.*
      ➔ Скажем, у нас появилось новое число - долг Африки, например.
+  6. *Eine statistische Kennzahl dient als Bezugsgröße für Umlagen und Verteilungen im Controlling.*
+     ➔ Статистический показатель служит базой распределения для раскладки и распределения затрат в контроллинге.
 
 ### 1664. der Innenauftrag, die Innenaufträge [🎥 YouGlish](https://de.youglish.com/pronounce/Innenauftrag/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29114,6 +29380,8 @@
      ➔ Внутренний заказ служит для мониторинга затрат на внутреннее мероприятие.
   2. *Die Kosten auf dem Innenauftrag müssen am Periodenende abgerechnet werden.*
      ➔ Затраты по внутреннему заказу должны быть рассчитаны в конце периода.
+  3. *Innenaufträge werden zur Überwachung und Abrechnung von Kosten für zeitlich begrenzte Maßnahmen verwendet.*
+     ➔ Внутренние заказы используются для контроля и расчета затрат на мероприятия, ограниченные во времени.
 
 ### 1665. die Ergebnisrechnung, die Rechnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Ergebnisrechnung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29131,6 +29399,8 @@
      ➔ Повышение курса японской иены за последние шесть месяцев могло бы оказать негативное влияние на отчет о прибылях и убытках.
   5. *Allerdings wird auch das jetzt verkündete Sanierungsprogramm die Ergebnisrechnung der Bank belasten.*
      ➔ Однако объявленная сейчас программа реструктуризации также окажет негативное влияние на отчет о прибылях и убытках банка.
+  6. *Die Ergebnisrechnung (CO-PA) unterstützt die Analyse des Markterfolgs nach Marktsegmenten oder Produktgruppen.*
+     ➔ Учет результатов (CO-PA) поддерживает анализ рыночного успеха по сегментам рынка или группам продуктов.
 
 ### 1666. das Profit-Center-Accounting, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Profit-Center-Accounting/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29142,6 +29412,8 @@
      ➔ Учет по центрам прибыли служит для целей внутреннего управления компанией.
   2. *Wir werten die Erlöse im Profit-Center-Accounting aus.*
      ➔ Мы анализируем выручку в учете по центрам прибыли.
+  3. *Das Profit-Center-Accounting ermöglicht die Ermittlung des internen Betriebsergebnisses für eigenständige Unternehmensbereiche.*
+     ➔ Учет по центрам прибыли позволяет определять внутренний производственный результат для независимых подразделений компании.
 
 ### 1667. der Anlagenspiegel, die Anlagenspiegel [🎥 YouGlish](https://de.youglish.com/pronounce/Anlagenspiegel/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29153,6 +29425,8 @@
      ➔ Ведомость движения основных средств показывает изменение основных средств за отчетный год.
   2. *Der Anlagenspiegel ist ein Pflichtbestandteil des Jahresabschlusses.*
      ➔ Ведомость движения основных средств является обязательной частью годовой отчетности.
+  3. *Der Anlagenspiegel stellt die Entwicklung des Anlagevermögens von der Anschaffung bis zum Abgang dar.*
+     ➔ Ведомость движения основных средств отражает изменение стоимости основных средств от их приобретения до выбытия.
 
 ### 1668. die Anzahlung, die Anzahlungen [🎥 YouGlish](https://de.youglish.com/pronounce/Anzahlung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29170,6 +29444,8 @@
      ➔ Дай ей аванс, дай ей кольцо.
   5. *Ich habe einfach nicht das Geld für die Anzahlung.*
      ➔ У меня просто нет денег на первоначальный взнос.
+  6. *Eine erhaltene Anzahlung muss im System auf einem Sonderhauptbuchkonto gebucht werden.*
+     ➔ Полученный авансовый платеж должен быть проведен в системе на специальном счете главной книги.
 
 ### 1669. die Schlussrechnung, die Schlussrechnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Schlussrechnung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29187,6 +29463,8 @@
      ➔ Я дую ему на колени, когда он получает травму, и помогаю ему сделать окончательный расчет.
   5. *Der Verwalter hat bei der Beendigung seines Amts einer Gläubigerversammlung Schlußrechnung zu legen.*
      ➔ Администратор должен представить окончательный отчет собранию кредиторов после прекращения своих полномочий.
+  6. *Bei der Erstellung der Schlussrechnung werden die bereits geleisteten Anzahlungen automatisch verrechnet.*
+     ➔ При создании финального счета ранее произведенные авансовые платежи зачитываются автоматически.
 
 ### 1670. die offene Posten, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/offene%20Posten/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29204,6 +29482,8 @@
      ➔ Сейчас нам нужны открытые торговые маршруты, чтобы облегчить поставки.
   5. *Durch die offene Tür kann der Betrachter zudem in den Nebenraum schauen.*
      ➔ Зритель также может заглянуть в соседнюю комнату через открытую дверь.
+  6. *Offene Posten repräsentieren noch nicht ausgeglichene Forderungen oder Verbindlichkeiten im Nebenbuch.*
+     ➔ Открытые позиции представляют собой еще не выровненную дебиторскую или кредиторскую задолженность во вспомогательной книге.
 
 ### 1671. das Mahnverfahren, die Mahnverfahren [🎥 YouGlish](https://de.youglish.com/pronounce/Mahnverfahren/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29221,6 +29501,8 @@
      ➔ С другой стороны, неуделение должного внимания процедуре напоминания может привести к весьма значительным потерям.
   5. *Ein »echtes Mahnverfahren« habe es bislang nicht gegeben, sagte der Ministeriumssprecher.*
      ➔ «Настоящей процедуры напоминания» еще не было», заявил представитель министерства.
+  6. *Das Mahnverfahren steuert die Intervalle und die Formulierung der Mahnschreiben an säumige Debitoren.*
+     ➔ Процедура напоминания платежей определяет интервалы и формулировки писем-напоминаний просрочившим дебиторам.
 
 ### 1672. der Mahnlauf, die Mahnläufe [🎥 YouGlish](https://de.youglish.com/pronounce/Mahnlauf/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29232,6 +29514,8 @@
      ➔ Еженедельный прогон программы напоминаний выбирает все просроченные счета.
   2. *Die Mahnungen werden nach dem Mahnlauf gedruckt und versendet.*
      ➔ Напоминания распечатываются и отправляются после прогона программы напоминаний.
+  3. *Der Mahnlauf selektiert fällige Posten und erstellt die entsprechenden Mahnungen automatisch.*
+     ➔ Прогон программы напоминаний выбирает просроченные позиции и автоматически создает соответствующие напоминания.
 
 ### 1673. der Zahllauf, die Zahlläufe [🎥 YouGlish](https://de.youglish.com/pronounce/Zahllauf/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29243,6 +29527,8 @@
      ➔ Прогон программы платежей запускается автоматически каждый четверг.
   2. *Der Abteilungsleiter muss die Zahlungsliste nach dem Zahllauf freigeben.*
      ➔ Руководитель отдела должен утвердить платежный реестр после прогона программы платежей.
+  3. *Der automatische Zahllauf reguliert fällige Verbindlichkeiten und generiert die Zahlungsmedien für die Bank.*
+     ➔ Автоматический прогон программы платежей регулирует просроченные обязательства и генерирует платежные средства для банка.
 
 ### 1674. die Bankverbindung, die Bankverbindungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bankverbindung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29260,6 +29546,8 @@
      ➔ Дай мне номер своего счёта.
   5. *Geben Sie mir Ihre Bankverbindung.*
      ➔ Давай счёт в банке.
+  6. *Die Bankverbindung des Lieferanten muss im Geschäftspartnerstammsatz korrekt hinterlegt sein.*
+     ➔ Банковские реквизиты поставщика должны быть корректно указаны в основной записи делового партнера.
 
 ### 1675. das Übergangskonto, die Übergangskonten [🎥 YouGlish](https://de.youglish.com/pronounce/%C3%9Cbergangskonto/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29271,6 +29559,8 @@
      ➔ Платежи на транзитном счете должны выравниваться ежедневно.
   2. *Wir buchen den Geldeingang zunächst auf ein Übergangskonto.*
      ➔ Мы временно проводим поступление денежных средств на транзитный счет.
+  3. *Zahlungen im Transit werden zunächst auf einem Übergangskonto gebucht, bis die Bankbestätigung vorliegt.*
+     ➔ Платежи в пути сначала проводятся на транзитном счете до получения подтверждения от банка.
 
 ### 1676. die Abstimmvereinbarung, die Abstimmvereinbarungen [🎥 YouGlish](https://de.youglish.com/pronounce/Abstimmvereinbarung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29282,6 +29572,8 @@
      ➔ Мы заключили соглашение о выравнивании с дочерней компанией.
   2. *Die Abstimmvereinbarung regelt die Details der Intercompany-Abstimmung.*
      ➔ Соглашение о выравнивании регулирует детали сверки межфилиальных расчетов.
+  3. *Die Abstimmvereinbarung regelt den periodischen Abgleich von Intercompany-Salden.*
+     ➔ Соглашение о выравнивании регулирует периодическую сверку межфилиальных сальдо.
 
 ### 1677. das Abstimmkonto, die Abstimmkonten [🎥 YouGlish](https://de.youglish.com/pronounce/Abstimmkonto/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29293,6 +29585,8 @@
      ➔ Контрольный счет связывает вспомогательную книгу с Главной книгой.
   2. *Direkte Buchungen auf ein Abstimmkonto sind im SAP-System gesperrt.*
      ➔ Прямые проводки на контрольный счет заблокированы в системе SAP.
+  3. *Das Abstimmkonto im Hauptbuch kann nicht direkt bebucht werden, sondern wird über das Nebenbuch fortgeschrieben.*
+     ➔ Консолидированный контрольный счет в главной книге не может быть проведен напрямую, а обновляется через вспомогательную книгу.
 
 ### 1678. der Kontenplan, die Kontenpläne [🎥 YouGlish](https://de.youglish.com/pronounce/Kontenplan/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29304,6 +29598,8 @@
      ➔ План счетов определяет структуру и диапазоны номеров счетов.
   2. *Wir nutzen einen einheitlichen Kontenplan für alle Gesellschaften.*
      ➔ Мы используем единый план счетов для всех юридических лиц.
+  3. *Der Kontenplan enthält die Definitionen aller Sachkonten, die in einem oder mehreren Buchungskreisen verwendet werden.*
+     ➔ План счетов содержит определения всех счетов главной книги, используемых в одной или нескольких балансовых единицах.
 
 ### 1679. die Saldovortrag, die Saldovorträge [🎥 YouGlish](https://de.youglish.com/pronounce/Saldovortrag/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29315,6 +29611,8 @@
      ➔ Кроме того, по состоянию на 1 января 1993 г. на счетах имелся необъяснимый перенесенный остаток на общую сумму 844 тыс. немецких марок.
   2. *Die Saldovorträge zum 1. Januar 1993 sollen durch die noch laufende Untersuchung der Jahre 1989 bis 1992 so weit wie möglich aufgeklärt werden.*
      ➔ Перенесенный баланс по состоянию на 1 января 1993 года должен быть выяснен, насколько это возможно, посредством продолжающегося расследования за 1989-1992 годы.
+  3. *Der Saldovortrag überträgt die Abschlussbestände der Sachkonten in das neue Geschäftsjahr.*
+     ➔ Перенос сальдо переносит конечные остатки по счетам главной книги на новый финансовый год.
 
 ### 1680. die Umsatzsteuer, die Umsatzsteuern [🎥 YouGlish](https://de.youglish.com/pronounce/Umsatzsteuer/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29332,6 +29630,8 @@
      ➔ Есть бизнес-лицензия, я плачу налоги...
   5. *Vermögensteuer, Verbrauchsteuer, Einfuhrzölle und Umsatzsteuer - die allesamt direkt oder indirekt von Unternehmen bezahlt werden - können in erweitertem Maß auf Unternehmensgewinne und somit den Aktienmarkt wirken.*
      ➔ Налоги на доходы с недвижимого имущества, акцизные налоги, налоги на импорт и налоги с оборота, которые прямо или косвенно платят корпорации, могут иметь сильное воздействие на корпоративные прибыли, а, следовательно, и на фондовый рынок.
+  6. *Die Umsatzsteuer wird auf Basis des im Beleg angegebenen Steuerkennzeichens berechnet.*
+     ➔ НДС рассчитывается на основе налогового кода, указанного в документе.
 
 ### 1681. die Vorsteuer, die Vorsteuern [🎥 YouGlish](https://de.youglish.com/pronounce/Vorsteuer/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29349,6 +29649,8 @@
      ➔ Управляющий встретил Торвальда, когда тот возвращался.
   5. *Ferner war er Mitglied und Vorsteher des Gemeinderates, Landtagsmitglied und wurde zum Ehrenbürger von Greiz ernannt.*
      ➔ Также он был членом и председателем городского совета, членом местного парламента и получил звание почётного гражданина Грайца.
+  6. *Gezahlte Vorsteuer kann im Rahmen der Umsatzsteuer-Voranmeldung vom Finanzamt zurückgefordert werden.*
+     ➔ Выплаченный входящий НДС может быть истребован к возврату из налогового органа в рамках предварительной декларации по НДС.
 
 ### 1682. die Zahllast, die Zahllasten [🎥 YouGlish](https://de.youglish.com/pronounce/Zahllast/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29360,6 +29662,8 @@
      ➔ Сумма налога к уплате должна быть перечислена в налоговую службу до десятого числа следующего месяца.
   2. *Die Zahllast berechnet sich aus Umsatzsteuer minus Vorsteuer.*
      ➔ Сумма налога к уплате рассчитывается как исходящий НДС минус входящий НДС.
+  3. *Die Zahllast ergibt sich aus der Differenz zwischen der eingenommenen Umsatzsteuer und der gezahlten Vorsteuer.*
+     ➔ Сумма налога к уплате определяется как разница между полученным НДС и выплаченным входящим НДС.
 
 ### 1683. der Buchungsbeleg, die Buchungsbelege [🎥 YouGlish](https://de.youglish.com/pronounce/Buchungsbeleg/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29377,6 +29681,8 @@
      ➔ Утверждается, что ПДС просто уничтожил бухгалтерские документы.
   5. *Hier reicht als Nachweis für alle Beträge ausnahmsweise der Buchungsbeleg.*
      ➔ В этом случае квитанции о бронировании достаточно для подтверждения всех сумм.
+  6. *Der Buchungsbeleg dient als Nachweis für eine finanzielle Transaktion im System.*
+     ➔ Бухгалтерский документ служит подтверждением финансовой операции в системе.
 
 ### 1684. das Sachkontenbuch, die Sachkontenbücher [🎥 YouGlish](https://de.youglish.com/pronounce/Sachkontenbuch/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29388,6 +29694,8 @@
      ➔ Все бухгалтерские документы хронологически регистрируются в книге счетов Главной книги.
   2. *Das Sachkontenbuch liefert den Nachweis über alle Finanztransaktionen.*
      ➔ Регистр счетов Главной книги служит подтверждением всех финансовых операций.
+  3. *Das Sachkontenbuch listet alle Buchungen auf Sachkonten detailliert auf.*
+     ➔ Регистр счетов главной книги подробно перечисляет все проводки по счетам главной книги.
 
 ### 1685. die Belegaufteilung, die Belegaufteilungen [🎥 YouGlish](https://de.youglish.com/pronounce/Belegaufteilung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29399,6 +29707,8 @@
      ➔ Разделение документа (document splitting) позволяет формировать баланс на уровне сегментов.
   2. *Die Regeln für die Belegaufteilung müssen im Customizing genau definiert sein.*
      ➔ Правила разделения документа должны быть точно определены в настройках.
+  3. *Die Belegaufteilung sorgt für eine ausgewogene Bilanzierung auf Segment- oder Profit-Center-Ebene.*
+     ➔ Разделение документа обеспечивает сбалансированное составление баланса на уровне сегмента или центра прибыли.
 
 ### 1686. das Segment, die Segmente [🎥 YouGlish](https://de.youglish.com/pronounce/Segment/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29416,6 +29726,8 @@
      ➔ Здесь можно выбрать один из трёх вариантов: Сектор, Дуга и Сегмент.
   5. *Oder wir werden im fraglichen Segment aus dem Markt gedrängt.*
      ➔ Иначе нас вытеснят с рынка в спорном сегменте.
+  6. *Das Segment ist eine organisatorische Einheit, die für die Finanzberichterstattung nach IFRS genutzt wird.*
+     ➔ Сегмент является организационной единицей, используемой для финансовой отчетности в соответствии с МСФО.
 
 ### 1687. der Funktionsbereich, die Funktionsbereiche [🎥 YouGlish](https://de.youglish.com/pronounce/Funktionsbereich/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29433,6 +29745,8 @@
      ➔ Для осуществления поставленных целей Вам будут необходимы высококвалифицированные и мотивированные сотрудники на самых разных направлениях деятельности компании.
   5. *Es dient vorrangig der Unterbringung von Funktionsbereichen, die für den reibungslosen Parlamentsbetrieb die Nähe zum Reichstagsgebäude erfordern.*
      ➔ Оно предназначено для размещения функциональных подразделений германского парламента, которым для поддержания эффективности деятельности парламента необходимо находиться в непосредственной близости от Рейхстага.
+  6. *Der Funktionsbereich ermöglicht eine Darstellung der Gewinn- und Verlustrechnung nach dem Umsatzkostenverfahren.*
+     ➔ Функциональная сфера позволяет представить отчет о прибылях и убытках по методу затрат на продажу.
 
 ### 1688. die Konzernwährung, die Konzernwährungen [🎥 YouGlish](https://de.youglish.com/pronounce/Konzernw%C3%A4hrung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29444,6 +29758,8 @@
      ➔ Концерновой валютой нашей материнской компании является доллар США.
   2. *Alle lokalen Abschlüsse werden in die Konzernwährung umgerechnet.*
      ➔ Все локальные отчеты переводятся в концерновую валюту.
+  3. *Die Konzernwährung ist die Währung, in der der konsolidierte Abschluss des Gesamtkonzerns erstellt wird.*
+     ➔ Концерновая валюта — это валюта, в которой составляется консолидированная отчетность всего концерна.
 
 ### 1689. die Kreiswährung, die Kreiswährungen [🎥 YouGlish](https://de.youglish.com/pronounce/Kreisw%C3%A4hrung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29455,6 +29771,8 @@
      ➔ Местная валюта соответствует законной валюте страны.
   2. *Der Buchungskreis führt seine Bücher in der Kreiswährung Euro.*
      ➔ Балансовая единица ведет свои книги в местной валюте евро.
+  3. *Die Kreiswährung wird für die lokale Rechnungslegung innerhalb eines bestimmten Buchungskreises verwendet.*
+     ➔ Местная валюта используется для локального бухгалтерского учета в рамках конкретной балансовой единицы.
 
 ### 1690. die Fremdwährung, die Fremdwährungen [🎥 YouGlish](https://de.youglish.com/pronounce/Fremdw%C3%A4hrung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29472,6 +29790,8 @@
      ➔ Китай получит возможность диверсифицировать риски, уменьшит ценовое давление, которое держало доходы в иностранных валютных резервах на низком уровне и сможет избежать политических неприятностей.
   5. *Innerhalb weniger Tage mussten 6 Milliarden US-Dollar in Fremdwährung aufgrund eines Versuchs zur Stärkung der Lira verloren gegeben werden.*
      ➔ За нескольких дней на защиту турецкой лиры было истрачено 6 миллиардов долларов валютных резервов.
+  6. *Buchungen in einer Fremdwährung werden vom System automatisch in die Hauswährung umgerechnet.*
+     ➔ Проводки в иностранной валюте автоматически пересчитываются системой в национальную валюту.
 
 ### 1691. die Fremdwährungsbewertung, die Bewertungen [🎥 YouGlish](https://de.youglish.com/pronounce/Fremdw%C3%A4hrungsbewertung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29483,6 +29803,8 @@
      ➔ Оценка в иностранной валюте выполняется в рамках закрытия месяца.
   2. *Bei der Fremdwährungsbewertung werden offene Posten zum aktuellen Stichtagskurs bewertet.*
      ➔ При оценке в иностранной валюте открытые позиции оцениваются по текущему курсу на отчетную дату.
+  3. *Die Fremdwährungsbewertung führt am Periodenende eine Neubewertung der offenen Posten in Fremdwährung durch.*
+     ➔ Оценка в иностранной валюте в конце периода выполняет переоценку открытых позиций в иностранной валюте.
 
 ### 1692. das Kursdifferenzkonto, die Kursdifferenzkonten [🎥 YouGlish](https://de.youglish.com/pronounce/Kursdifferenzkonto/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29494,6 +29816,8 @@
      ➔ Прибыли и убытки от колебаний курсов проводятся на счет курсовых разниц.
   2. *Das Kursdifferenzkonto muss im Customizing hinterlegt sein.*
      ➔ Счет курсовых разниц должен быть прописан в настройках.
+  3. *Realisierte und nicht realisierte Kursgewinne oder -verluste werden auf dem Kursdifferenzkonto erfasst.*
+     ➔ Реализованные и нереализованные курсовые доходы или убытки регистрируются на счете курсовых разниц.
 
 ### 1693. das Intercompany-Geschäft, die Geschäfte [🎥 YouGlish](https://de.youglish.com/pronounce/Intercompany-Gesch%C3%A4ft/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29505,6 +29829,8 @@
      ➔ Для межфилиальных сделок мы должны использовать специальные счета выравнивания.
   2. *Die Konsolidierung eliminiert die Umsätze aus dem Intercompany-Geschäft.*
      ➔ Консолидация исключает выручку от межфилиальных сделок.
+  3. *Das Intercompany-Geschäft erfordert eine automatische Abstimmung der Forderungen und Verbindlichkeiten zwischen verbundenen Unternehmen.*
+     ➔ Межкомпанейские сделки требуют автоматической сверки дебиторской и кредиторской задолженности между связанными компаниями.
 
 ### 1694. die Verrechnung, die Verrechnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Verrechnung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29522,6 +29848,8 @@
      ➔ Карен, мы готовы к штрафам, общественным работам, возмещению ущерба, приговору к сроку, который он уже отсидел.
   5. *Beispielsweise setzen multinationale Konzerne Methoden wie Verrechnungspreise ein (Verrechnung von Waren, Dienstleistungen und Ressourcen, die zwischen den Filialen oder Bereichen eines Unternehmens transferiert werden), um die anfallenden Steuern für ihre Umsätze aus internationalen Geschäften zu verringern.*
      ➔ Например, многонациональные корпорации используют такие методы, как трансфертное ценообразование (бухгалтерский учет товаров, услуг и ресурсов, передаваемых между филиалами одной компании или между ее дочерними компаниями), которое направлено на минимизацию налоговых обязательств на прибыли от международных операций.
+  6. *Die Verrechnung von Leistungen erfolgt auf Basis des im System hinterlegten Tarifs.*
+     ➔ Перерасчет работ производится на основе тарифа, сохраненного в системе.
 
 ### 1695. die Kostenstellen-Gruppe, die Gruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Kostenstellen-Gruppe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29533,6 +29861,8 @@
      ➔ Мы создали новую группу МВЗ для всех производственных отделов.
   2. *Die Kostenstellen-Gruppe vereinfacht das Berichtswesen im Controlling.*
      ➔ Группа МВЗ упрощает отчетность в контроллинге.
+  3. *Eine Kostenstellen-Gruppe fasst mehrere Kostenstellen für Reporting-Zwecke zusammen.*
+     ➔ Группа мест возникновения затрат объединяет несколько МВЗ для целей отчетности.
 
 ### 1696. die Profit-Center-Gruppe, die Gruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Profit-Center-Gruppe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29544,6 +29874,8 @@
      ➔ Сбытовой регион Запад назначен определенной группе центров прибыли.
   2. *Wir können Berichte für eine gesamte Profit-Center-Gruppe erstellen.*
      ➔ Мы можем формировать отчеты по всей группе центров прибыли.
+  3. *Die Profit-Center-Gruppe dient der Strukturierung der Profit-Center in einer hierarchischen Form.*
+     ➔ Группа центров прибыли служит для структурирования центров прибыли в иерархическом виде.
 
 ### 1697. die Standardhierarchie, die Standardhierarchien [🎥 YouGlish](https://de.youglish.com/pronounce/Standardhierarchie/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29555,6 +29887,8 @@
      ➔ Стандартная иерархия включает в себя все МВЗ балансовой единицы.
   2. *Jede neu angelegte Kostenstelle muss der Standardhierarchie zugeordnet werden.*
      ➔ Каждое вновь созданное МВЗ должно быть отнесено к стандартной иерархии.
+  3. *Jeder Kostenrechnungskreis muss über eine Standardhierarchie zur Strukturierung der Kostenstellen verfügen.*
+     ➔ Каждое контроллинговое поле должно иметь стандартную иерархию для структурирования мест возникновения затрат.
 
 ### 1698. die Plankalkulation, die Plankalkulationen [🎥 YouGlish](https://de.youglish.com/pronounce/Plankalkulation/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29566,6 +29900,8 @@
      ➔ Плановая калькуляция определяет стандартную себестоимость на предстоящий год.
   2. *Die Plankalkulation muss vor Beginn des neuen Geschäftsjahres freigegeben werden.*
      ➔ Плановая калькуляция должна быть утверждена до начала нового финансового года.
+  3. *Die Plankalkulation ermittelt die Standardherstellkosten für ein Material vor Beginn des Geschäftsjahres.*
+     ➔ Плановая калькуляция определяет стандартную себестоимость производства материала до начала финансового года.
 
 ### 1699. die Istkalkulation, die Istkalkulationen [🎥 YouGlish](https://de.youglish.com/pronounce/Istkalkulation/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29577,6 +29913,8 @@
      ➔ Фактическая калькуляция определяет фактические производственные затраты в конце периода.
   2. *Das Material-Ledger nutzt die Istkalkulation zur Bestandsbewertung.*
      ➔ Регистр материалов использует фактическую калькуляцию для оценки запасов.
+  3. *Die Istkalkulation ermittelt die tatsächlichen Herstellkosten eines Materials unter Berücksichtigung aller Abweichungen.*
+     ➔ Фактическая калькуляция определяет фактическую производственную себестоимость материала с учетом всех отклонений.
 
 ### 1700. die Tarifermittlung, die Tarifermittlungen [🎥 YouGlish](https://de.youglish.com/pronounce/Tarifermittlung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29588,6 +29926,8 @@
      ➔ Мы также требуем, чтобы при определении тарифов учитывались требования законодательства.
   2. *Auch eine automatische Tarifermittlung sei möglich, der Reiseweg wird elektronisch erfaßt, berechnet und am Ende vom gespeicherten Kartenbetrag abgezogen.*
      ➔ Также возможно автоматическое определение тарифа; маршрут записывается в электронном виде, рассчитывается и затем списывается с суммы, сохраненной на карте.
+  3. *Die iterative Tarifermittlung berechnet die Tarife für Leistungsarten auf Basis des Budgets und der Planleistung.*
+     ➔ Итеративный расчет тарифов вычисляет тарифы для видов работ на основе бюджета и запланированного объема работ.
 
 ### 1701. die Abweichungsanalyse, die Abweichungsanalysen [🎥 YouGlish](https://de.youglish.com/pronounce/Abweichungsanalyse/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29605,6 +29945,8 @@
      ➔ Должна возникнуть тенденция к скепсису, если вопрос повестки дня собрания проходит наблюдательный совет без каких-либо проблем, т.е. если планы, прогнозы, анализы отклонений, предварительные просмотры, проекты и другие отчеты совета директоров принимаются - без вопросов, обсуждений и суждений.
   5. *In vielen Geschäftsberichten vermisse man eine exakte Abweichungsanalyse der erreichten Ist‑Zustände von den erwarteten Soll‑Werten.*
      ➔ Во многих бизнес-отчетах отсутствует точный анализ отклонений фактических достигнутых состояний от ожидаемых целевых значений.
+  6. *Die Abweichungsanalyse im Controlling vergleicht die Sollkosten mit den tatsächlichen Istkosten.*
+     ➔ Анализ отклонений в контроллинге сравнивает нормативные затраты с фактическими затратами.
 
 ### 1702. die Deckungsbeitragsrechnung, die Rechnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Deckungsbeitragsrechnung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29622,6 +29964,8 @@
      ➔ Страна-ответчик производит собственные расчеты на основе данных истца, на основании которых он рассчитал свою упущенную выгоду, чтобы поставить под сомнение оценку ущерба, сделанную экспертом. С одной стороны, он не признает, что истец методически неправильно действовал в своем расчете ущерба, поскольку он не учел принципы разностной гипотезы и, следовательно, не провел никаких расчетов маржи вклада.
   5. *Das Unternehmen sei 1946 vom inzwischen verstorbenen Hans‑Georg Plaut gegründet worden, der richtungweisende Methoden zur Kosten‑ und Deckungsbeitragsrechnung entwickelt habe, hieß es.*
      ➔ Сообщалось, что компания была основана в 1946 году покойным Хансом-Георгом Плаутом, который разработал новаторские методы учета затрат и маржинальной прибыли.
+  6. *Die Deckungsbeitragsrechnung liefert wichtige Daten für die Vertriebssteuerung und Produktkalkulation.*
+     ➔ Учет сумм покрытия предоставляет важные данные для управления сбытом и калькуляции себестоимости продукции.
 
 ### 1703. der Buchungsschlüssel, die Buchungsschlüssel [🎥 YouGlish](https://de.youglish.com/pronounce/Buchungsschl%C3%BCssel/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29633,6 +29977,8 @@
      ➔ Ключ проводки управляет дебетованием/кредитованием и видом счета.
   2. *Der Buchungsschlüssel 40 steht für eine Soll-Buchung auf einem Sachkonto.*
      ➔ Ключ проводки 40 означает дебетовую проводку по счету Главной книги.
+  3. *Der Buchungsschlüssel bestimmt die Kontoart und die Buchungsrichtung (Soll oder Haben) einer Belegzeile.*
+     ➔ Ключ проводки определяет тип счета и направление проводки (дебет или кредит) для строки документа.
 
 ### 1704. die Abstimmungsarbeit, die Abstimmungsarbeiten [🎥 YouGlish](https://de.youglish.com/pronounce/Abstimmungsarbeit/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29650,6 +29996,8 @@
      ➔ McLaren-Mercedes, в частности, известна внутренней прозрачностью и тем, что водители совместно выполняют координационную работу и обмениваются данными.
   5. *Die Abstimmungsarbeiten am Silberpfeil für den Einsatz jedoch nahm bereits Testfahrer Alexander Wurz in der vergangenen Woche in Silverstone vor.*
      ➔ Однако тест-пилот Александр Вурц уже провел работу по настройке Silver Arrow для использования в Сильверстоуне на прошлой неделе.
+  6. *Durch automatisierte Prozesse lässt sich der Aufwand für die manuelle Abstimmungsarbeit erheblich reduzieren.*
+     ➔ Благодаря автоматизации процессов можно значительно сократить затраты на ручную работу по сверке.
 
 ### 1705. die Abschlussarbeiten, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/Abschlussarbeiten/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29667,6 +30015,8 @@
      ➔ Скоро даже долгие часы обеда станут респектабельными.
   5. *Bitte bringen Sie Ihre Abschlussarbeiten nach hinten.*
      ➔ Сложитё работы в заднёй части класса.
+  6. *Zu den Abschlussarbeiten gehören das Buchen von Rückstellungen und die Durchführung des Saldovortrags.*
+     ➔ К операциям закрытия периода относятся проведение резервов и выполнение переноса сальдо.
 
 ### 1706. der Monatsabschluss, die Monatsabschlüsse [🎥 YouGlish](https://de.youglish.com/pronounce/Monatsabschluss/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29680,6 +30030,8 @@
      ➔ Adlatus заботится о текущем бухгалтерском учете, напоминании, платежных операциях и готовит ежемесячные финансовые отчеты.
   3. *Leider hat der Monatsabschluß in der aktuellen Version einen Bug: er läßt das Kontofenster von der WPS verschwinden, so daß man es schließen muß.*
      ➔ К сожалению, в текущей версии закрытия месяца есть ошибка: из-за нее окно аккаунта исчезает из WPS, поэтому приходится его закрывать.
+  4. *Der Monatsabschluss dient der Ermittlung des Periodenergebnisses und der Vorbereitung externer Berichte.*
+     ➔ Закрытие месяца служит для определения финансового результата за период и подготовки внешней отчетности.
 
 ### 1707. der Jahresabschluss, die Jahresabschlüsse [🎥 YouGlish](https://de.youglish.com/pronounce/Jahresabschluss/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29697,6 +30049,8 @@
      ➔ Как твои "итоги года"?
   5. *2006 fiel der Aktienkurs auf ein Rekordtief; Zum Jahresabschluss 2006 wies das Unternehmen einen Verlust von mehr als 8,2 Millionen Euro aus.*
      ➔ В 2006 году цена акции упала до рекордно низкого уровня: финансовый отсчёт за февраль 2006 год сообщил об убытке в размере 8.2 млн евро.
+  6. *Der Jahresabschluss erfordert eine physische Inventur und den formellen Abschluss aller Hilfsbücher.*
+     ➔ Закрытие года требует проведения физической инвентаризации и формального закрытия всех вспомогательных книг.
 
 ### 1708. das Kreditlimit, die Kreditlimits [🎥 YouGlish](https://de.youglish.com/pronounce/Kreditlimit/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29714,6 +30068,8 @@
      ➔ У меня сейчас спор по поводу моего кредитного лимита
   5. *Was soll das heißen? Sie hat ein Kreditlimit von 15.000 Dollar.*
      ➔ Что ты хочешь сказать Там был кредит примерно на 1 5 тысяч.
+  6. *Das Kreditlimit eines Kunden wird bei der Auftragserfassung automatisch überprüft.*
+     ➔ Кредитный лимит клиента проверяется автоматически при вводе заказа.
 
 ### 1709. die Kreditkontrolle, die Kreditkontrollen [🎥 YouGlish](https://de.youglish.com/pronounce/Kreditkontrolle/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29727,6 +30083,8 @@
      ➔ У банков были свои собственные стимулы выдавать кредиты разумно, а ограничение кредитования неизбежно оказывалось неэффективным.
   3. *Der jüngste Investitionsboom erzeugte eine Explosion an Spekulationskrediten in den Jahren 2003 und 2004, da das Bankensystem noch staatlich war und auf politischen Druck reagierte - bis die Regierung selbst im April 2004 Kreditkontrollen einführte, um eine rasante Zunahme Not leidender Kredite zu verhindern.*
      ➔ Недавний бум капиталовложения произвел взрыв спекулятивного предоставления займов в 2003 и 2004 годах, потому что банковская система все еще принадлежала государству и реагировала на политическое давление - пока само правительство не ввело кредитный контроль в апреле 2004 года, чтобы предотвратить резкое увеличение объема неработающих ссуд.
+  4. *Die Kreditkontrolle verhindert die Auslieferung von Waren an Kunden mit überzogenem Kreditlimit.*
+     ➔ Кредитный контроль предотвращает отгрузку товаров клиентам с превышенным кредитным лимитом.
 
 ### 1710. der Zahlungsbeleg, die Zahlungsbelege [🎥 YouGlish](https://de.youglish.com/pronounce/Zahlungsbeleg/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29744,6 +30102,8 @@
      ➔ Об этом свидетельствуют счета-фактуры и квитанции об оплате, которые были представлены прокурору.
   5. *Der Steuererklärung müssten dazu die Handwerkerrechnung und ein Zahlungsbeleg beigefügt werden.*
      ➔ К налоговой декларации необходимо приложить счет торговца и квитанцию ​​об оплате.
+  6. *Der Zahlungsbeleg wird nach erfolgreichem Geldeingang im System erzeugt und gleicht die offene Forderung aus.*
+     ➔ Платежный документ создается в системе после успешного поступления денежных средств и выравнивает открытую дебиторскую задолженность.
 
 ### 1711. die Zahlungsbedingung, die Zahlungsbedingungen [🎥 YouGlish](https://de.youglish.com/pronounce/Zahlungsbedingung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29761,6 +30121,8 @@
      ➔ Условия платежи: платеж наличными или перечислением на счёт.
   5. *Sofern in diesem Übereinkommen nichts anderes vorgesehen ist, berührt eine Abtretung ohne vorherige Zustimmung des Schuldners nicht dessen Rechte und Pflichten, einschließlich der im Ursprungsvertrag enthaltenen Zahlungsbedingungen.*
      ➔ Если в настоящей Конвенции не предусмотрено иное, уступка, совершенная без согласия должника, не затрагивает прав и обязательств должника, включая условия платежа, содержащиеся в первоначальном договоре.
+  6. *Die Zahlungsbedingung legt fest, bis wann eine Rechnung fällig ist und ob Skonto gewährt wird.*
+     ➔ Условие платежа определяет срок оплаты счета и предоставление скидки за быструю оплату.
 
 ### 1712. das Skonto, die Skontos [🎥 YouGlish](https://de.youglish.com/pronounce/Skonto/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29778,6 +30140,8 @@
      ➔ Самым успешным футбольным клубом в стране является «Сконто-Рига», обладающий 14 чемпионскими титулами, который был открыт в 2000 г. вместе с футбольным стадионом «Сконто» (латыш.
   5. *Wir haben gehört, Ihr Neffe Dimitri Skontos arbeitet hier.*
      ➔ Мы слышали, что ваш племянник, Димитрий Сконтос, работает здесь.
+  6. *Zahlt der Kunde innerhalb der Skontofrist, kann er einen definierten Prozentsatz Skonto abziehen.*
+     ➔ Если клиент оплачивает счет в течение периода скидки, он может вычесть определенный процент скидки за быструю оплату.
 
 ### 1713. der Verzugszins, die Verzugszinsen [🎥 YouGlish](https://de.youglish.com/pronounce/Verzugszins/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29791,6 +30155,8 @@
      ➔ Многие другие центральные банки нервно наблюдают за ситуацией, хорошо осознавая, что вскоре они могут оказаться в таком же положении, поскольку мировая экономика продолжает идти на спад, а штрафные процентные ставки по всем долгам продолжают расти.
   3. *Nach Ablauf von 30 Kalendertagen ab dem Zugang der Rechnung tritt Verzug ein und der Kunde schuldet Verzugszinsen auf die Forderungen von Münch in Höhe von 5 %-Punkten über dem jeweiligen Basiszinssatz.*
      ➔ По истечении 30 календарных дней с момента поступления счёта начинается отсчёт задержки, и заказчик обязан уплачивать штраф в отношении задержанной суммы в размере 5% пунктов сверх базовой процентной ставки.
+  4. *Bei Überschreiten des Zahlungsziels können Verzugszinsen auf Basis des Zinsschlüssels berechnet werden.*
+     ➔ При превышении срока оплаты могут быть начислены проценты за просрочку платежа на основе кода процентной ставки.
 
 ### 1714. die Wertberichtigung, die Wertberichtigungen [🎥 YouGlish](https://de.youglish.com/pronounce/Wertberichtigung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29808,6 +30174,8 @@
      ➔ [существует] высокая потребность в корректировке стоимости [из-за снижения цен на недвижимость]
   5. *etw. [der Gewinn] wird durch Wertberichtigungen belastet*
      ➔ что-л. [прибыль] обременена корректировками стоимости
+  6. *Die Wertberichtigung für zweifelhafte Forderungen erfolgt zum Bilanzstichtag im Hauptbuch.*
+     ➔ Корректировка стоимости сомнительной дебиторской задолженности выполняется на отчетную дату баланса в главной книге.
 
 ### 1715. die Rechnungsabgrenzung, die Rechnungsabgrenzungen [🎥 YouGlish](https://de.youglish.com/pronounce/Rechnungsabgrenzung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29819,6 +30187,8 @@
      ➔ Разграничение доходов и расходов обеспечивает определение прибыли по периодам.
   2. *Die Miete für Januar müssen wir im Dezember als Rechnungsabgrenzung buchen.*
      ➔ Аренду за январь мы должны провести в декабре как расходы будущих периодов.
+  3. *Die Rechnungsabgrenzung ordnet Aufwendungen und Erträge dem korrekten Geschäftsjahr zu.*
+     ➔ Разграничение доходов и расходов относит расходы и доходы к соответствующему финансовому году.
 
 ### 1716. die Anzahlungsanforderung, die Anzahlungsanforderungen [🎥 YouGlish](https://de.youglish.com/pronounce/Anzahlungsanforderung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29830,6 +30200,8 @@
      ➔ Мы отправили клиенту запрос авансового платежа в размере тридцати процентов.
   2. *Die Anzahlungsanforderung ist eine statistische Buchung ohne Erfolgswirkung.*
      ➔ Запрос авансового платежа — это статистическая проводка, не влияющая на прибыль.
+  3. *Eine Anzahlungsanforderung ist ein statistischer Beleg, der keine Sachkontenbuchung auslöst.*
+     ➔ Запрос авансового платежа является статистическим документом, который не вызывает проводок по счетам главной книги.
 
 ### 1717. die Umsatzsteuer-Voranmeldung, die Voranmeldungen [🎥 YouGlish](https://de.youglish.com/pronounce/Umsatzsteuer-Voranmeldung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29847,6 +30219,8 @@
      ➔ В Германии работодатели и предприниматели, облагаемые налогом, с 2005 года по закону обязаны обрабатывать декларации по налогу на заработную плату и авансовые декларации по НДС в цифровом виде через «Elster».
   5. *Der Mann wird verdächtigt, als Geschäftsführer einer Exportfirma dem Finanzamt Bad Segeberg fingierte Umsatzsteuer-Voranmeldungen vorgelegt und dadurch einen zweistelligen Millionenbetrag erschlichen zu haben.*
      ➔ Мужчина подозревается в том, что в качестве управляющего директора экспортной компании подал фиктивные налоговые декларации в налоговую инспекцию Бад-Зегеберга и тем самым обманул сумму, исчисляемую двузначными миллионами.
+  6. *Das System erstellt die Umsatzsteuer-Voranmeldung automatisch auf Basis aller steuerrelevanten Buchungen.*
+     ➔ Система автоматически формирует предварительную декларацию по НДС на основе всех налогооблагаемых проводок.
 
 ### 1718. das Steuerkennzeichen, die Steuerkennzeichen [🎥 YouGlish](https://de.youglish.com/pronounce/Steuerkennzeichen/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29858,6 +30232,8 @@
      ➔ Налоговый код автоматически определяет правильную ставку налога.
   2. *Verwenden Sie das Steuerkennzeichen V1 für inländische Vorsteuer.*
      ➔ Используйте налоговый код V1 для расчета входящего НДС внутри страны.
+  3. *Das Steuerkennzeichen ermittelt den Steuersatz und das zu buchende Steuerkonto im Hauptbuch.*
+     ➔ Код налога определяет налоговую ставку и соответствующий налоговый счет для проводки в главной книге.
 
 ### 1719. die Anlagenklasse, die Anlagenklassen [🎥 YouGlish](https://de.youglish.com/pronounce/Anlagenklasse/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29875,6 +30251,8 @@
      ➔ Должны ли они в открытую гарантировать обязательства крупных финансовых институтов и/или классы активов?
   5. *Doch im Vergleich zu anderen Anlageklassen ist der Markt für derartige Anleihen eher eng.*
      ➔ Но, по сравнению с другими классами активов, рынок нефинансовых облигаций является относительно тонким.
+  6. *Die Anlagenklasse bestimmt die Standardnutzungsdauer und den Abschreibungsschlüssel für eine Anlage.*
+     ➔ Класс основных средств определяет стандартный срок полезного использования и код амортизации для основного средства.
 
 ### 1720. die Nutzungsdauer, die Nutzungsdauern [🎥 YouGlish](https://de.youglish.com/pronounce/Nutzungsdauer/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29892,6 +30270,8 @@
      ➔ Для производства используются высококачественные материалы, винтовые гвозди, а для того чтобы обеспечить максимальный срок эксплуатации, ящики-паллеты также склеиваются.
   5. *Die Feuerverzinkung garantiert langjährige Nutzungsdauer und zugleich die Versicherung für lange Jahre.*
      ➔ Оцинковка гарантирует многолетнюю эксплуатацию и способствует безопасности.
+  6. *Die Nutzungsdauer einer Anlage kann im Anlagenstammsatz individuell angepasst werden.*
+     ➔ Срок полезного использования основного средства может быть скорректирован индивидуально в его основной записи.
 
 ### 1721. der Abschreibungsbereich, die Abschreibungsbereiche [🎥 YouGlish](https://de.youglish.com/pronounce/Abschreibungsbereich/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29903,6 +30283,8 @@
      ➔ Мы используем одну область амортизации для торгового баланса и другую — для налогового баланса.
   2. *Der Abschreibungsbereich definiert die Nutzungsdauer der Anlage.*
      ➔ Область амортизации определяет срок полезного использования основного средства.
+  3. *Jede Anlage kann in verschiedenen Abschreibungsbereichen für Handels- und Steuerrecht bewertet werden.*
+     ➔ Каждое основное средство может оцениваться в различных областях амортизации для коммерческого и налогового права.
 
 ### 1722. der Abschreibungsschlüssel, die Abschreibungsschlüssel [🎥 YouGlish](https://de.youglish.com/pronounce/Abschreibungsschl%C3%BCssel/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29914,6 +30296,8 @@
      ➔ Код амортизации управляет методом и процентной ставкой амортизации.
   2. *Für Gebäude nutzen wir einen linearen Abschreibungsschlüssel.*
      ➔ Для зданий мы используем код линейной амортизации.
+  3. *Der Abschreibungsschlüssel steuert die mathematische Methode der Abschreibungsberechnung.*
+     ➔ Код амортизации управляет математическим методом расчета амортизации.
 
 
 ---
@@ -29932,6 +30316,8 @@
      ➔ Регистр материалов позволяет выполнять параллельную оценку запасов в различных валютах.
   3. *Zum Periodenabschluss müssen alle Transaktionen im Material-Ledger vollständig gebucht sein.*
      ➔ К закрытию периода все операции в регистре материалов должны быть полностью проведены.
+  4. *Das Material-Ledger ermöglicht die Führung von Materialbeständen in mehreren Währungen und Bewertungssichten.*
+     ➔ Регистр материалов позволяет вести запасы материалов в нескольких валютах и ракурсах оценки.
 
 ### 1724. die Materialbewertung, die Materialbewertungen [🎥 YouGlish](https://de.youglish.com/pronounce/Materialbewertung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29945,6 +30331,8 @@
      ➔ Изменения в оценке материалов могут оказать существенное влияние на баланс.
   3. *Im SAP-Materialstamm wird festgelegt, welche Methode für die Materialbewertung angewendet wird.*
      ➔ В основной записи материала SAP определяется, какой метод применяется для оценки материала.
+  4. *Die Materialbewertung legt fest, wie der Bestandswert eines Materials im System bilanziert wird.*
+     ➔ Оценка материала определяет, как балансовая стоимость запаса материала отражается в системе.
 
 ### 1725. der gleitende Durchschnittspreis, die Durchschnittspreise [🎥 YouGlish](https://de.youglish.com/pronounce/gleitende%20Durchschnittspreis/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29962,6 +30350,8 @@
      ➔ Десять лет назад оно продавалось по цене, значительно более низкой, чем его долгосрочная, скорректированная на инфляцию средняя стоимость, а интеграция развивающихся стран, с трехмиллиардным населением, в мировую экономику могла означать только огромный долгосрочный скачок спроса.
   5. *(Auf die letzten fünf Jahre bezogen ergibt sich ein Durchschnittspreis von 22 Dollar pro Barrel.)*
      ➔ (В течение последних 5 лет средняя цена составляла $22 за баррель).
+  6. *Der gleitende Durchschnittspreis ändert sich automatisch nach jedem Wareneingang oder Rechnungseingang.*
+     ➔ Среднескользящая цена изменяется автоматически после каждого поступления материала или поступления счета.
 
 ### 1726. der Standardpreis, die Standardpreise [🎥 YouGlish](https://de.youglish.com/pronounce/Standardpreis/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29979,6 +30369,8 @@
      ➔ Если неизвестна, то можно ввести ширину по умолчанию, 256 точек.
   5. *Das Material Isobent wird in Blättern mit Standardbreite 1,15m und länge 5,0m, eingewickelt in Rollen, hergestellt.*
      ➔ Материал Изобент производится в виде листов стандартной ширины 1,15 m и длины 5,0 m, скрученных в рулон.
+  6. *Beim Standardpreis werden alle Bestandszu- und -abgänge mit einem festen Preis bewertet.*
+     ➔ При использовании стандартной цены все поступления и отпуски запасов оцениваются по фиксированной цене.
 
 ### 1727. die Preissteuerung, die Preissteuerungen [🎥 YouGlish](https://de.youglish.com/pronounce/Preissteuerung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -29996,6 +30388,8 @@
      ➔ Такой рост цен может оказаться особенно способствующим инфляции в странах, которые импортируют сырьевые товары.
   5. *Die Käufer waren von starken Erwartungen über zukünftige Preissteigerungen beseelt und das Risiko erschien ihnen gering.*
      ➔ Покупатели находились под влиянием распространенных ожиданий относительно роста цен и предвидели некоторый риск.
+  6. *Die Preissteuerung im Materialstamm bestimmt, ob das Material zum Standardpreis oder zum gleitenden Durchschnittspreis bewertet wird.*
+     ➔ Управление ценой в основной записи материала определяет, оценивается ли материал по стандартной цене или по среднескользящей цене.
 
 ### 1728. die Umbewertung, die Umbewertungen [🎥 YouGlish](https://de.youglish.com/pronounce/Umbewertung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30013,6 +30407,8 @@
      ➔ Если все дадут мне плохие оценки, я никогда не стану менеджером.
   5. *Aber in Wirklichkeit ist es eine Bewertung für uns alle.*
      ➔ Технически, да, но на деле это оценивание каждого из нас.
+  6. *Eine Umbewertung von Materialbeständen kann manuell oder durch gesetzliche Vorgaben ausgelöst werden.*
+     ➔ Переоценка запасов материалов может быть вызвана вручную или в соответствии с законодательными требованиями.
 
 ### 1729. die Ist-Kalkulation, die Ist-Kalkulationen [🎥 YouGlish](https://de.youglish.com/pronounce/Ist-Kalkulation/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30030,6 +30426,8 @@
      ➔ И это правильный расчет.
   5. *Das ist meine Kalkulation!*
      ➔ Почему? - Ускорение.
+  6. *Die Ist-Kalkulation im Material-Ledger ermittelt die tatsächlichen Herstellkosten am Periodenende.*
+     ➔ Фактическая калькуляция в регистре материалов определяет фактическую производственную себестоимость в конце периода.
 
 ### 1730. der Materialbeleg, die Materialbelege [🎥 YouGlish](https://de.youglish.com/pronounce/Materialbeleg/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30043,6 +30441,8 @@
      ➔ Пожалуйста, проверьте документ материала, чтобы определить, кто выполнил проводку.
   3. *Der Materialbeleg dient als Nachweis für die ordnungsgemäße Einlagerung der Rohstoffe.*
      ➔ Документ материала служит подтверждением надлежащего оприходования сырья на склад.
+  4. *Ein Materialbeleg wird als Nachweis für jede physische Warenbewegung im Lager erzeugt.*
+     ➔ Документ материала создается в качестве подтверждения каждого физического движения товаров на складе.
 
 ### 1731. die Materialart, die Materialarten [🎥 YouGlish](https://de.youglish.com/pronounce/Materialart/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30060,6 +30460,8 @@
      ➔ Серьезно, по закону я обязан сообщить обо всех существенных фактах и недостатках.
   5. *Du möchtest ihn in einen widerlichen Materialisten verwandeln,... obwohl er in der spirituellen Welt lebt.*
      ➔ Ты хочешь погрузить его в грубый материализм, в то время, как он живет в духовном мире.
+  6. *Die Materialart steuert die Nummernvergabe und die zulässigen Fachbereichssichten im Materialstamm.*
+     ➔ Вид материала управляет присвоением номеров и допустимыми ракурсами отделов в основной записи материала.
 
 ### 1732. die Warengruppe, die Warengruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Warengruppe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30077,6 +30479,8 @@
      ➔ После этого в четвертый раз за время своего существования они снизили цены на отдельные группы товаров.
   5. *Die »Dürerbund‑Werkbund‑Genossenschaft« umfaßt bis jetzt 160 der besten Fachgeschäfte unserer Warengruppen.*
      ➔ В настоящее время в объединение «Dürerbund-Werkbund-Genossenschaft» входят 160 лучших специализированных магазинов наших товарных групп.
+  6. *Die Warengruppe fasst Materialien mit gleichen Eigenschaften zur Analyse und Strukturierung zusammen.*
+     ➔ Товарная группа объединяет материалы с одинаковыми свойствами для анализа и структурирования.
 
 ### 1733. die Bewertungsebene, die Bewertungsebenen [🎥 YouGlish](https://de.youglish.com/pronounce/Bewertungsebene/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30090,6 +30494,8 @@
      ➔ Выбор уровня оценки влияет на то, насколько гибко мы можем управлять ценами в системе SAP.
   3. *Im Standard-SAP ist das Werk als empfohlene Bewertungsebene voreingestellt.*
      ➔ В стандартной системе SAP завод предварительно настроен как рекомендуемый уровень оценки.
+  4. *Die Bewertungsebene legt fest, ob Materialien auf Werksebene oder Buchungskreisebene bewertet werden.*
+     ➔ Уровень оценки определяет, оцениваются ли материалы на уровне завода или на уровне балансовой единицы.
 
 ### 1734. der Bewertungskreis, die Bewertungskreise [🎥 YouGlish](https://de.youglish.com/pronounce/Bewertungskreis/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30103,6 +30509,8 @@
      ➔ Для новой площадки нам необходимо создать отдельную область оценки в системе.
   3. *Die Bestände werden auf der Ebene des Bewertungskreises wertmäßig geführt.*
      ➔ Запасы ведутся в стоимостном выражении на уровне области оценки.
+  4. *In der Regel entspricht der Bewertungskreis dem jeweiligen Werk im SAP-System.*
+     ➔ Как правило, область оценки соответствует соответствующему заводу в системе SAP.
 
 ### 1735. die Bewertungsklasse, die Bewertungsklassen [🎥 YouGlish](https://de.youglish.com/pronounce/Bewertungsklasse/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30116,6 +30524,8 @@
      ➔ Сырье и готовая продукция должны быть присвоены разным классам оценки.
   3. *Wenn Sie eine falsche Bewertungsklasse wählen, werden die Bestandsveränderungen auf das verkehrte Sachkonto gebucht.*
      ➔ Если вы выберете неправильный класс оценки, изменения запасов будут проведены на неверный счет главной книги.
+  4. *Die Bewertungsklasse steuert in Kombination mit der Bewegungsart die automatische Kontenfindung.*
+     ➔ Класс оценки в сочетании с видом движения управляет автоматическим определением счетов.
 
 ### 1736. die Kontenfindung, die Kontenfindungen [🎥 YouGlish](https://de.youglish.com/pronounce/Kontenfindung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30133,6 +30543,8 @@
      ➔ Согласно г-ну Дуйзенбергу, не было ни одного случая, чтобы принятие важного решения из области кредитно-денежной политики затягивалось по причине отсутствия консенсуса.
   5. *Der "Preis" einer europäischen Mitgliedschaft hat innerhalb der Bewerberländer die politische Konsensfindung unterstützt und das wäre auch bei der Türkei der Fall.*
      ➔ «Награда» в виде членства в Евросоюзе помогала достижению политического согласия в странах - кандидатах, и то же самое произойдет и с Турцией.
+  6. *Die Kontenfindung verknüpft Materialbewegungen automatisch mit den entsprechenden Sachkonten der Finanzbuchhaltung.*
+     ➔ Определение счетов автоматически связывает движения материалов с соответствующими счетами главной книги в финансовой бухгалтерии.
 
 ### 1737. die automatische Kontenfindung, die Kontenfindungen [🎥 YouGlish](https://de.youglish.com/pronounce/automatische%20Kontenfindung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30150,6 +30562,8 @@
      ➔ Он готов, но не настроен на автоматическое переключение.
   5. *Zu viele falsch geschriebene Wörter. Automatische Rechtschreibprüfung deaktiviert.*
      ➔ Слишком много ошибочных слов. Проверка орфографии на лету выключена.
+  6. *Die automatische Kontenfindung sorgt dafür, dass bei Warenbewegungen keine manuellen Sachkontenbuchungen erforderlich sind.*
+     ➔ Автоматический выбор счетов гарантирует, что при движениях материалов ручные проводки по счетам главной книги не требуются.
 
 ### 1738. der Lagerort, die Lagerorte [🎥 YouGlish](https://de.youglish.com/pronounce/Lagerort/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30163,6 +30577,8 @@
      ➔ Задержанный углерод затем закачивают в подземные хранилища, такие как пустые нефтяные месторождения и другие подходящие места.
   3. *befindet sich in den westlichen Teil von Slovenija mit sehr gutem logistischen Lageort.*
      ➔ расположен в Западной части Словении, с хорошим расположением относительно транспортных магистралей.
+  4. *Ein Lagerort ist eine organisatorische Einheit, die eine physische Unterteilung eines Werks darstellt.*
+     ➔ Склад является организационной единицей, представляющей собой физическое подразделение завода.
 
 ### 1739. das Werk, die Werke [🎥 YouGlish](https://de.youglish.com/pronounce/Werk/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30180,6 +30596,8 @@
      ➔ Произведение глубокой идеи, простой и единой формы.
   5. *Es ist kein guter Deal, aber dadurch bleibt das Werk geöffnet.*
      ➔ Это не много, но сохранит завод открытым.
+  6. *Das Werk ist eine zentrale Betriebsstätte innerhalb eines Buchungskreises, in der Materialien produziert oder gelagert werden.*
+     ➔ Завод — это центральная производственная площадка в рамках балансовой единицы, где производятся или хранятся материалы.
 
 ### 1740. die Bestandsveränderung, die Bestandsveränderungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bestandsver%C3%A4nderung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30197,6 +30615,8 @@
      ➔ Изменения запасов между странами являются следствием того, что требования отдельных стран продолжают компенсироваться монетарным золотом.
   5. *Sie enthalten den Erzeugungswert aus der Futtermitteleinfuhr sowie Bestandsveränderungen bei der Nutzviehhaltung.*
      ➔ Они содержат стоимость производства от импорта кормов, а также изменения в поголовье скота.
+  6. *Bestandsveränderungen werden durch Wareneingänge, Warenausgänge oder Umlagerungen im System erfasst.*
+     ➔ Изменения запасов регистрируются в системе посредством поступлений, отпусков или перемещений материалов.
 
 ### 1741. die Bestandsbuchung, die Bestandsbuchungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bestandsbuchung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30210,6 +30630,8 @@
      ➔ Автоматическая проводка запаса запускается поступлением материала в системе.
   3. *Der Buchhalter korrigierte den Fehler durch eine manuelle Bestandsbuchung am Monatsende.*
      ➔ Бухгалтер исправил ошибку с помощью ручной проводки запаса в конце месяца.
+  4. *Die Bestandsbuchung schreibt die Mengen und Werte des Materials im Nebenbuch fort.*
+     ➔ Проводка запасов обновляет количества и стоимость материала во вспомогательной книге.
 
 ### 1742. die Inventurdifferenz, die Inventurdifferenzen [🎥 YouGlish](https://de.youglish.com/pronounce/Inventurdifferenz/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30227,6 +30649,8 @@
      ➔ В целом дилеры составили разницу в запасах примерно на четыре миллиарда евро.
   5. *Inventurdifferenz heißt der Fachbegriff, und der zeigt, wie viele Teile seit der letzten Bestandsaufnahme verschwunden sind.*
      ➔ Разница в запасах — это технический термин, показывающий, сколько деталей исчезло с момента последней инвентаризации.
+  6. *Gefundene Inventurdifferenzen müssen auf ein entsprechendes Differenzenkonto ausgebucht werden.*
+     ➔ Обнаруженные инвентаризационные разницы должны быть списаны на соответствующий счет разниц.
 
 ### 1743. der Wareneingang, die Wareneingänge [🎥 YouGlish](https://de.youglish.com/pronounce/Wareneingang/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30244,6 +30668,8 @@
      ➔ Вот. Взгляните на размер кардии желудка, где еда...
   5. *Unser Ladeneingang ist um die Ecke.*
      ➔ Вход в магазин находится за углом.
+  6. *Der Wareneingang wird mit Bezug auf eine Bestellung oder einen Fertigungsauftrag gebucht.*
+     ➔ Поступление материала проводится со ссылкой на заказ на поставку или производственный заказ.
 
 ### 1744. der Warenausgang, die Warenausgänge [🎥 YouGlish](https://de.youglish.com/pronounce/Warenausgang/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30259,6 +30685,8 @@
      ➔ Помимо исходящих товаров, система НДС также должна учитывать налог на все поступающие товары.
   4. *Der Warenausgang stieg im Wert gegenüber dem Vorjahre um über 30 v. H.*
      ➔ Стоимость исходящих товаров увеличилась более чем на 30% по сравнению с предыдущим годом. ЧАС
+  5. *Ein Warenausgang mindert den physischen Bestand und bucht den Materialverbrauch als Aufwand.*
+     ➔ Отпуск материала уменьшает физический запас и списывает расход материала на расходы.
 
 ### 1745. die Umlagerung, die Umlagerungen [🎥 YouGlish](https://de.youglish.com/pronounce/Umlagerung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30276,6 +30704,8 @@
      ➔ Особенно когда я вспоминаю, как трусливо он вел себя во время осады.
   5. *Eine recht kurze Belagerung, die ich nicht erwartete zu überleben.*
      ➔ Очень короткую осаду, которую я не рассчитывала пережить.
+  6. *Die Umlagerung verschiebt Materialien von einem Lagerort oder Werk in ein anderes.*
+     ➔ Перемещение запасов перемещает материалы с одного склада или завода на другой.
 
 ### 1746. die Materialbuchung, die Materialbuchungen [🎥 YouGlish](https://de.youglish.com/pronounce/Materialbuchung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30289,6 +30719,8 @@
      ➔ Ошибочную проводку по материалу необходимо сторнировать и зарегистрировать заново.
   3. *Die Materialbuchung führte zu einer automatischen Aktualisierung des Finanzbuchhaltungsbelegs.*
      ➔ Проводка по материалу привело к автоматическому обновлению документа финансовой бухгалтерии.
+  4. *Jede Materialbuchung erzeugt mindestens einen Materialbeleg und einen Buchungsbeleg.*
+     ➔ Каждая проводка материала создает как минимум один документ материала и один бухгалтерский документ.
 
 ### 1747. die WE/RE-Abstimmung, die Abstimmungen [🎥 YouGlish](https://de.youglish.com/pronounce/WE/RE-Abstimmung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30302,6 +30734,8 @@
      ➔ Перед закрытием года необходима полная выверка ПМ/ПС по всем счетам поставщиков.
   3. *Fehler bei der WE/RE-Abstimmung können zu falschen Abgrenzungen in der Bilanz führen.*
      ➔ Ошибки при выверке ПМ/ПС могут привести к неверным разграничениям в балансе.
+  4. *Die periodische WE/RE-Abstimmung dient der Klärung von Mengen- und Preisabweichungen zwischen Wareneingang und Rechnungseingang.*
+     ➔ Периодическая сверка ПМ/Счет служит для выяснения количественных и ценовых отклонений между поступлением материала и поступлением счета.
 
 ### 1748. das WE/RE-Verrechnungskonto, die Verrechnungskonten [🎥 YouGlish](https://de.youglish.com/pronounce/WE/RE-Verrechnungskonto/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30315,6 +30749,8 @@
      ➔ Проводки на перерасчетном счете ПМ/ПС выполняются автоматически при поступлении материала и поступлении счета.
   3. *Wir analysieren die offenen Posten auf dem WE/RE-Verrechnungskonto, um überfällige Rechnungen zu identifizieren.*
      ➔ Мы анализируем открытые позиции на перерасчетном счете ПМ/ПС, чтобы выявить просроченные счета.
+  4. *Das WE/RE-Verrechnungskonto wird beim Wareneingang im Soll und beim Rechnungseingang im Haben bebucht.*
+     ➔ Счет перерасчета ПМ/Счет дебетуется при поступлении материала и кредитуется при поступлении счета.
 
 ### 1749. der Sonderbestand, die Sonderbestände [🎥 YouGlish](https://de.youglish.com/pronounce/Sonderbestand/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30328,6 +30764,8 @@
      ➔ Для особого запаса часто действуют иные правила оценки, нежели для обычного запаса на складе.
   3. *Ein Umlagerungsauftrag kann auch für Sonderbestände im SAP-System angelegt werden.*
      ➔ Заказ на перемещение запаса может быть создан в системе SAP и для особых запасов.
+  4. *Sonderbestände sind Materialien, die rechtlich oder physisch einer bestimmten Verwendung zugeordnet sind.*
+     ➔ Особые запасы — это материалы, которые юридически или физически закреплены за определенным использованием.
 
 ### 1750. der Konsignationsbestand, die Konsignationsbestände [🎥 YouGlish](https://de.youglish.com/pronounce/Konsignationsbestand/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30341,6 +30779,8 @@
      ➔ Мы должны регулярно проводить инвентаризацию консигнационного запаса и сообщать поставщику о списаниях.
   3. *Die Verwaltung des Konsignationsbestands im SAP reduziert unsere eigenen Lagerhaltungskosten.*
      ➔ Управление консигнационным запасом в SAP снижает наши собственные затраты на содержание склада.
+  4. *Der Konsignationsbestand des Lieferanten verbleibt im Eigentum des Lieferanten, bis er entnommen wird.*
+     ➔ Консигнационный запас поставщика остается в собственности поставщика до тех пор, пока он не будет изъят.
 
 ### 1751. der Kundenauftragsbestand, die Bestände [🎥 YouGlish](https://de.youglish.com/pronounce/Kundenauftragsbestand/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30354,6 +30794,8 @@
      ➔ Руководитель отдела продаж еженедельно отчитывается о текущем портфеле заказов клиентов и ожидаемой выручке.
   3. *Wir müssen den Kundenauftragsbestand reduzieren, indem wir die Lieferzeiten in der Montage verkürzen.*
      ➔ Мы должны сократить портфель невыполненных заказов клиентов, уменьшив сроки поставки на сборочном производстве.
+  4. *Der Kundenauftragsbestand ist fest für einen bestimmten Kundenauftrag reserviert und kann nicht anderweitig verwendet werden.*
+     ➔ Запас для заказа клиента жестко зарезервирован под конкретный заказ клиента и не может быть использован для других целей.
 
 ### 1752. der Projektbestand, die Projektbestände [🎥 YouGlish](https://de.youglish.com/pronounce/Projektbestand/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30367,6 +30809,8 @@
      ➔ Проектный запас позволяет точно распределять затраты на материалы по отдельным СПП-элементам.
   3. *Erst nach Freigabe des Projekts können Entnahmen aus dem Projektbestand vorgenommen werden.*
      ➔ Списание из проектного запаса может быть выполнено только после деблокирования проекта.
+  4. *Materialien im Projektbestand werden speziell für die Durchführung eines PSP-Elements beschafft.*
+     ➔ Материалы в запасе проекта приобретаются специально для выполнения СПП-элемента.
 
 ### 1753. die Chargenverwaltung, die Chargenverwaltungen [🎥 YouGlish](https://de.youglish.com/pronounce/Chargenverwaltung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30380,6 +30824,8 @@
      ➔ Активировав управление партиями, мы можем быстро отслеживать дефектную продукцию.
   3. *Im SAP-System erfordert die Chargenverwaltung eine eindeutige Kennzeichnung jeder Produktionscharge.*
      ➔ В системе SAP управление партиями требует однозначной маркировки каждой производственной партии.
+  4. *Die Chargenverwaltung ermöglicht die Rückverfolgbarkeit von Materialgruppen mit identischen Eigenschaften.*
+     ➔ Управление партиями позволяет отслеживать группы материалов с идентичными свойствами.
 
 ### 1754. die Charge, die Chargen [🎥 YouGlish](https://de.youglish.com/pronounce/Charge/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30397,6 +30843,8 @@
      ➔ Два телефона из украденной партии были активированы недалеко друг от друга.
   5. *Ich habe nur bei der ersten Charge geholfen, dann platzte ein Rohr.*
      ➔ Я только помог с первой партией, но прорвало трубу.
+  6. *Eine Charge repräsentiert eine nicht reproduzierbare Teilmenge eines Materials aus einem Produktionslauf.*
+     ➔ Партия представляет собой невоспроизводимую часть материала из одного производственного цикла.
 
 ### 1755. die Serialnummer, die Serialnummern [🎥 YouGlish](https://de.youglish.com/pronounce/Serialnummer/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30414,6 +30862,8 @@
      ➔ Посмотри на серийные номера на этих купюрах.
   5. *Ohne Seriennummern, so nett ist mein Kontaktmann.*
      ➔ Никаких серийных номеров. потому что мой контакт серьезный человек.
+  6. *Die Serialnummer ermöglicht die eindeutige Identifizierung eines einzelnen physischen Materialstücks.*
+     ➔ Серийный номер позволяет однозначно идентифицировать единичный физический экземпляр материала.
 
 ### 1756. die Verwendbarkeit, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Verwendbarkeit/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30431,6 +30881,8 @@
      ➔ И все эти испытания должны были доказать принципиальную применимость ракетных двигателей
   5. *Falls Sie keine genaue Bezeichnung wissen, erweisen Sie bitte ihre Verwendbarkeit.*
      ➔ По Вашей просьбе с первой отправкой товара в Ваш адрес будет отослан каталог запасных частей трактора МТЗ соответствующей модификации и запасных частей его двигателя.
+  6. *Die Verwendbarkeit einer Charge kann über den Chargenstatus gesteuert werden.*
+     ➔ Применимость партии может управляться через статус партии.
 
 ### 1757. das Verfallsdatum, die Verfallsdaten [🎥 YouGlish](https://de.youglish.com/pronounce/Verfallsdatum/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30448,6 +30900,8 @@
      ➔ Здесь нет срока годности.
   5. *Seitdem kauf ich jeden Tag eine Dose Ananas mit dem Verfallsdatum 1. Mai.*
      ➔ Каждый день я покупаю банку ананасов со сроком годности 1 мая.
+  6. *Das System prüft beim Wareneingang, ob das Verfallsdatum des Materials überschritten ist.*
+     ➔ При поступлении материала система проверяет, не превышен ли срок годности материала.
 
 ### 1758. das Mindesthaltbarkeitsdatum, die Daten [🎥 YouGlish](https://de.youglish.com/pronounce/Mindesthaltbarkeitsdatum/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30465,6 +30919,8 @@
      ➔ Как сообщила полиция, 59-летний оптовик […] подозревается в том, что установил новые сроки годности для 15 000 банок квашеной капусты.
   5. *[…] rausgeworfen aus den Verkaufsräumen werden Milchprodukte wie Butter oder etwa Quark, die ihr Mindesthaltbarkeitsdatum erreicht haben.*
      ➔ […] молочные продукты, такие как масло или творог, срок годности которых истек, выбрасываются из торговых залов.
+  6. *Im Materialstamm kann die Restlaufzeit bezüglich des Mindesthaltbarkeitsdatums gepflegt werden.*
+     ➔ В основной записи материала можно настроить минимальный оставшийся срок годности.
 
 ### 1759. die Qualitätsprüfung, die Qualitätsprüfungen [🎥 YouGlish](https://de.youglish.com/pronounce/Qualit%C3%A4tspr%C3%BCfung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30480,6 +30936,8 @@
      ➔ Над проектом OpenStreetMap проводили исследования на выяснение качества данных.
   4. *Zusätzlich werden auch in unserem Betrieb eigene Qualitätsprüfungen des Gewebes durchgeführt.*
      ➔ Кроме этого, на территории нашего предприятия мы проводим самостоятельные исследования качества ткани.
+  5. *Materialien können nach dem Wareneingang automatisch in den Bestand für Qualitätsprüfung gebucht werden.*
+     ➔ После поступления материалы могут автоматически проводиться в запас на контроле качества.
 
 ### 1760. der Prüfbestand, die Prüfbestände [🎥 YouGlish](https://de.youglish.com/pronounce/Pr%C3%BCfbestand/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30497,6 +30955,8 @@
      ➔ Может, вы не в курсе, но я сейчас под очень надёжной защитой.
   5. *In Serbien stehen alle diese Punkte auf dem Prüfstand.*
      ➔ Сербия - это показательный случай для ответов на все эти вопросы.
+  6. *Der Prüfbestand steht für die normale Lagerdisposition und den Verkauf vorübergehend nicht zur Verfügung.*
+     ➔ Запас на контроле качества временно недоступен для обычного планирования запасов и продажи.
 
 ### 1761. der gesperrte Bestand, die Bestände [🎥 YouGlish](https://de.youglish.com/pronounce/gesperrte%20Bestand/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30514,6 +30974,8 @@
      ➔ Известно, что его запасы довольно низкого качества, также как и сам мальчишка.
   5. *Ich will unseren Bestand erweitern und ihm außerdem Gannicus anbieten.*
      ➔ Я бы хотел пополнить наши запасы, и предложить также Ганника.
+  6. *Der gesperrte Bestand wird für beschädigte oder nicht verwendbare Materialien genutzt.*
+     ➔ Блокированный запас используется для поврежденных или непригодных к использованию материалов.
 
 ### 1762. der frei verwendbare Bestand, die Bestände [🎥 YouGlish](https://de.youglish.com/pronounce/frei%20verwendbare%20Bestand/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30531,6 +30993,8 @@
      ➔ Свободный польский университет действовал в Варшаве с 1918 по 1952 год.
   5. *Eine bedeutende von der NATO im ersten Jahrzehnt nach dem Kalten Krieg erfüllte Aufgabe bestand darin, die nun freien Länder Mitteleuropas an sich zu binden, wobei die Aussicht auf Mitgliedschaft an die Einhaltung demokratischer Mindeststandards gekoppelt war.*
      ➔ Одной из крупных задач, которую выполняла НАТО в течение первого десятилетия после холодной войны, было привлечение вновь освободившихся стран на сторону Запада, требуя от них соответствия демократическим стандартам в обмен на обещание членства в организации.
+  6. *Nur der frei verwendbare Bestand kann ohne Einschränkungen für die Produktion oder den Vertrieb entnommen werden.*
+     ➔ Только свободно используемый запас может без ограничений отпускаться для производства или сбыта.
 
 ### 1763. die Bestandsart, die Bestandsarten [🎥 YouGlish](https://de.youglish.com/pronounce/Bestandsart/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30544,6 +31008,8 @@
      ➔ Чтобы деблокировать материал, мы должны изменить вид запаса с контроля качества на свободно используемый.
   3. *Die jeweilige Bestandsart bestimmt, ob das Material für den Verkauf oder die Produktion verfügbar ist.*
      ➔ Соответствующий вид запаса определяет, доступен ли материал для продажи или производства.
+  4. *Die Einteilung des Bestands in verschiedene Bestandsarten ermöglicht eine genaue Bestandsführung im System.*
+     ➔ Разделение запаса на различные виды запаса обеспечивает точный учет запасов в системе.
 
 ### 1764. die Bewegungsart, die Bewegungsarten [🎥 YouGlish](https://de.youglish.com/pronounce/Bewegungsart/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30561,6 +31027,8 @@
      ➔ В этом вся головоломка! Короче, это ВИП-комната для двоих, включая меня, так что Эни проходи...
   5. *Argentina's Heart Foundation, die Gemeinschaft Arm der Sociedad Argentina de Cardiología, warnte über die Bedeutung der Bekämpfung der Bewegungsarmut, ein großes Herz-Kreislauf-Risikofaktoren.*
      ➔ Аргентина's Heart Foundation, сообщество рука Сосьедад де Cardiología Аргентине, предупредили о важности борьбы с сидячим образом жизни, основные сердечно-сосудистые факторы риска.
+  6. *Die Bewegungsart ist ein dreistelliger Schlüssel, der jede Warenbewegung im SAP-System klassifiziert.*
+     ➔ Вид движения — это трехзначный код, который классифицирует любое движение материала в системе SAP.
 
 ### 1765. die Bestandsunterdeckung, die Unterdeckungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bestandsunterdeckung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30574,6 +31042,8 @@
      ➔ Внеплановый дефицит запасов привел к задержке на всей производственной линии.
   3. *Das System meldet eine Bestandsunterdeckung für Rohstoffe, weshalb wir sofort eine Nachbestellung auslösen müssen.*
      ➔ Система сообщает о дефиците запасов сырья, поэтому нам необходимо немедленно оформить дозаказ.
+  4. *Eine Bestandsunterdeckung löst bei der Bedarfsplanung automatisch eine Bestellanforderung aus.*
+     ➔ Дефицит запасов автоматически вызывает заявку на закупку при планировании потребностей.
 
 ### 1766. die Bedarfsplanung, die Bedarfsplanungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bedarfsplanung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30591,6 +31061,8 @@
      ➔ Нет смысла закрывать поликлиники и сокращать коечный фонд, если не будет обеспечена повсеместная амбулаторная помощь и не будет реорганизовано планирование спроса на здравоохранение в целом.
   5. *Knifflig wird es beispielsweise beim Brandschutz. Dort laufen die Bedarfsplanungen. Es wird sich zeigen, ob Pritzier ganz alleine einen sicheren Brandschutz auf die Beine stellen kann.*
      ➔ Например, все становится сложнее, когда дело доходит до противопожарной защиты. Там идет планирование потребностей. Еще неизвестно, сможет ли Притциер самостоятельно организовать надежную противопожарную защиту.
+  6. *Die Bedarfsplanung (MRP) sichert die Verfügbarkeit von Materialien für Fertigung und Vertrieb.*
+     ➔ Планирование потребностей (MRP) обеспечивает доступность материалов для производства и сбыта.
 
 ### 1767. die Disposition, die Dispositionen [🎥 YouGlish](https://de.youglish.com/pronounce/Disposition/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30608,6 +31080,8 @@
      ➔ Распределением инженеров занимаюсь я, да?
   5. *Weitere Änderungen der Disposition gab es 1952 und 1965.*
      ➔ Последующие изменения в неё были внесены в 1952 и 1965 годах.
+  6. *Die Disposition ermittelt den Nettobedarf an Materialien unter Berücksichtigung von Beständen und Zugängen.*
+     ➔ Планирование запасов определяет чистую потребность в материалах с учетом запасов и поступлений.
 
 ### 1768. der Disponent, die Disponenten [🎥 YouGlish](https://de.youglish.com/pronounce/Disponent/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30625,6 +31099,8 @@
      ➔ Ридли был экспедитером в посольстве и молодая вице-консул по имени Вивиан Лонг
   5. *Ich habe eine Kontonummer und den Namen eines Disponenten.*
      ➔ У меня есть номер счета и имя управляющего.
+  6. *Der Disponent überwacht die Bedarfs- und Bestandssituation für die ihm zugeordneten Materialien.*
+     ➔ Планировщик контролирует ситуацию с потребностями и запасами для закрепленных за ним материалов.
 
 ### 1769. der Sicherheitsbestand, die Sicherheitsbestände [🎥 YouGlish](https://de.youglish.com/pronounce/Sicherheitsbestand/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30642,6 +31118,8 @@
      ➔ При применении необходимо отдаляться на безопасное расстояние.
   5. *Ich wäre für jeden Zeitpunkt dankbar, an dem ihr euren Sicherheitsabstand aufgebt.*
      ➔ В любой момент, когда вы, ребята, захотите сократить то безопасное расстояние, которое поддерживаете, я буду благодарен за это.
+  6. *Der Sicherheitsbestand dient dem Ausgleich von unerwarteten Bedarfsspitzen oder Lieferverzögerungen.*
+     ➔ Страховой запас служит для компенсации непредвиденных пиков спроса или задержек поставок.
 
 ### 1770. der Meldebestand, die Meldebestände [🎥 YouGlish](https://de.youglish.com/pronounce/Meldebestand/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30659,6 +31137,8 @@
      ➔ Если мы заглянем в историю, то увидим чистую модель машинной автоматизации, плавно заменяющей человеческий труд.
   5. *Anstatt den Geldbestand zu erhöhen, um sich von dem ökonomischen Einsturz zu erholen hat FED ihn stattdessen verringert, wodurch eine der größten Depressionen der Geschichte ausgelöst wurde.*
      ➔ Или мы никогда не будем свободны и технологии так и останутся замороженными. У нас есть машины, которые чистят канализации, освобождая человека от этой работы.
+  6. *Wenn der verfügbare Bestand den Meldebestand unterschreitet, wird die Beschaffung eingeleitet.*
+     ➔ Если доступный запас становится ниже точки заказа, инициируется закупка.
 
 ### 1771. die Losgröße, die Losgrößen [🎥 YouGlish](https://de.youglish.com/pronounce/Losgr%C3%B6%C3%9Fe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30676,6 +31156,8 @@
      ➔ Хотя увеличение размера партии изменит отношения с поставщиками, сделка не будет осуществляться за счет других компаний.
   5. *Für kleine Losgrößen, manchmal nur alle drei Jahre bestellt, arbeiten einige Maschinen nur wenige Tage oder Wochen im Jahr.*
      ➔ При небольших размерах партий, иногда заказываемых только раз в три года, некоторые машины работают всего несколько дней или недель в году.
+  6. *Die Losgröße bestimmt die zu beschaffende menge bei der Generierung von Deckungselementen.*
+     ➔ Размер партии определяет количество, подлежащее закупке при генерации элементов покрытия.
 
 ### 1772. die Mindestbestellmenge, die Mindestbestellmengen [🎥 YouGlish](https://de.youglish.com/pronounce/Mindestbestellmenge/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30689,6 +31171,8 @@
      ➔ Поставщик увеличил минимальный объем заказа на этот товар, чтобы снизить свои логистические расходы.
   3. *Bitte prüfen Sie im Einkaufsinfosatz, ob für dieses Material eine Mindestbestellmenge hinterlegt ist.*
      ➔ Пожалуйста, проверьте в инфо-записи закупки, указан ли для этого материала минимальный объем заказа.
+  4. *Im Einkaufsinfosatz kann eine Mindestbestellmenge für den Lieferanten definiert werden.*
+     ➔ В инфо-записи закупок для поставщика может быть определен минимальный объем заказа.
 
 ### 1773. das Materialstammblatt, die Materialstammblätter [🎥 YouGlish](https://de.youglish.com/pronounce/Materialstammblatt/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30702,6 +31186,8 @@
      ➔ Перед созданием нового товара мы должны полностью заполнить соответствующую основную запись материала.
   3. *Änderungen im Materialstammblatt, wie zum Beispiel der Preis, bedürfen der Freigabe durch den Abteilungsleiter.*
      ➔ Изменения в основной записи материала, например цена, требуют утверждения руководителем отдела.
+  4. *Das Materialstammblatt enthält alle für die Verwaltung eines Materials notwendigen Stammdaten.*
+     ➔ Основная запись материала содержит все основные данные, необходимые для управления материалом.
 
 ### 1774. die Materialnummer, die Materialnummern [🎥 YouGlish](https://de.youglish.com/pronounce/Materialnummer/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30717,6 +31203,8 @@
      ➔ Описательный номер материала позволяет классифицировать или распознавать материал на основе номера материала.
   4. *Dementgegen ist eine nicht-sprechende Materialnummer eine (z.*
      ➔ С другой стороны, неговорящее материальное число равно единице (напр.
+  5. *Jedes Material wird im SAP-System über eine eindeutige Materialnummer identifiziert.*
+     ➔ Каждый материал идентифицируется в системе SAP с помощью уникального номера материала.
 
 ### 1775. die Mengeneinheit, die Mengeneinheiten [🎥 YouGlish](https://de.youglish.com/pronounce/Mengeneinheit/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30732,6 +31220,8 @@
      ➔ С другой стороны, переменные потока всегда имеют размерность «Немецкая марка в единицу времени» или «Единица количества в единицу времени».
   4. *Zur Herstellung einer Mengeneinheit (ME) Brot benötigt A 1 Stunde, zur Herstellung einer Mengeneinheit Wein ½ Stunde.*
      ➔ Для производства одной единицы хлеба требуется 1 час, а для производства одной единицы вина — ½ часа.
+  5. *Für jede Materialbuchung muss eine gültige Mengeneinheit im Beleg angegeben werden.*
+     ➔ Для каждой проводки материала в документе должна быть указана допустимая единица измерения.
 
 ### 1776. die Basismengeneinheit, die Mengeneinheiten [🎥 YouGlish](https://de.youglish.com/pronounce/Basismengeneinheit/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30745,6 +31235,8 @@
      ➔ Базовой единицей измерения для этого жидкого материала является литр, и ее нельзя изменить впоследствии.
   3. *Bei der Umrechnung von der Alternativmengeneinheit in die Basismengeneinheit darf es keine Rundungsfehler geben.*
      ➔ При пересчете из альтернативной единицы измерения в базовую не должно быть ошибок огругления.
+  4. *In der Basismengeneinheit werden alle Bestände des Materials im System geführt.*
+     ➔ В базовой единице измерения ведутся все запасы материала в системе.
 
 ### 1777. die Alternativmengeneinheit, die Mengeneinheiten [🎥 YouGlish](https://de.youglish.com/pronounce/Alternativmengeneinheit/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30758,6 +31250,8 @@
      ➔ В основной записи материала мы должны точно определить коэффициент пересчета для каждой альтернативной единицы измерения.
   3. *Der Wareneingang kann wahlweise in der Basismengeneinheit oder in einer Alternativmengeneinheit gebucht werden.*
      ➔ Поступление материала может быть проведено по выбору либо в базовой единице измерения, либо в альтернативной.
+  4. *Eine Alternativmengeneinheit kann für Einkauf, Verkauf oder Lagerung definiert werden.*
+     ➔ Альтернативная единица измерения может быть определена для закупок, продажи или складирования.
 
 ### 1778. die Umrechnung, die Umrechnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Umrechnung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30775,6 +31269,8 @@
      ➔ Основной целью перевода CO2 в нелогичное и неэффективное выражение через лесные площади было, по-видимому, создание тревожного послания.
   5. *Es gilt bei den in Byzanz verwendeten Ären die Umrechnung: Jahr 1 n. Chr. = Jahr 754 ab urbe condita = 195.*
      ➔ Нулевой год в христианском календаре отсутствует: 1 ab urbe condita = 753 до н. э.
+  6. *Die Umrechnung zwischen der Alternativ- und der Basismengeneinheit erfolgt anhand von festen Faktoren im Materialstamm.*
+     ➔ Пересчет между альтернативной и базовой единицами измерения выполняется на основе фиксированных коэффициентов в основной записи материала.
 
 ### 1779. die Stückliste, die Stücklisten [🎥 YouGlish](https://de.youglish.com/pronounce/St%C3%BCckliste/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30792,6 +31288,8 @@
      ➔ Вы можете найти необходимые компоненты для этой схемы в списке деталей ниже.
   5. *Dafür findet sich im Handbuch aber ein Schaltbild des Geräts und die zugehörige Stückliste.*
      ➔ Однако в руководстве содержится принципиальная схема устройства и соответствующий перечень деталей.
+  6. *Die Stückliste beschreibt die Struktur eines Erzeugnisses durch Auflistung seiner Komponenten.*
+     ➔ Спецификация описывает структуру изделия путем перечисления его компонентов.
 
 ### 1780. die Baugruppe, die Baugruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Baugruppe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30809,6 +31307,8 @@
      ➔ В перечне модулей, систем и программного оснащения виден масштаб нашей деятельности.
   5. *Die Liste umfasst nicht alle Baugruppen oder Systeme, die wir in vergangenen Jahren produziert haben.*
      ➔ Перечень не включает в себя все модули или системы, которые мы изготовили за прошедшие годы.
+  6. *Eine Baugruppe kann als Komponente in übergeordneten Stücklisten verwendet werden.*
+     ➔ Узел может использоваться в качестве компонента в вышестоящих спецификациях.
 
 ### 1781. das Halbfabrikat, die Halbfabrikate [🎥 YouGlish](https://de.youglish.com/pronounce/Halbfabrikat/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30826,6 +31326,8 @@
      ➔ В этом случае, последующее непрерывное обучение должно учитывать тот факт, что страны Центральной и Восточной Европе будут, несомненно, отходить от концентрации экономики на тяжелой, опасной для окружающей среды промышленности с интенсивными формами организации труда и от производства сырья или полуфакбрикатов.
   5. *Verpackung (von Warm- und Kaltprodukten) für Betriebe der Schnellgastronomie , Verpackung für Halbfabrikate, Brotverpackung , Lebensmittelverpackungen, Verpackungen für Süßwaren, spezielle Verpackung, Verpackung für kosmetische und pharmazeutische Mittel.*
      ➔ Упаковка для предприятий быстрого питания (горячих и холодных продуктов), Упаковка для полуфабрикатов, Упаковка для хлеба, Упаковка для продуктов, Упаковка для кондитерских изделий, Упаковка специальная, Упаковка для косметических и фармацевтических средств.
+  6. *Halbfabrikate werden im Werk gefertigt und gehen als Komponente in andere Fertigerzeugnisse ein.*
+     ➔ Полуфабрикаты производятся на заводе и входят в качестве компонента в другие готовые изделия.
 
 ### 1782. das Fertigerzeugnis, die Fertigerzeugnisse [🎥 YouGlish](https://de.youglish.com/pronounce/Fertigerzeugnis/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30843,6 +31345,8 @@
      ➔ На протяжении многих десятилетий США, казалось, господствовали на рынке промышленной продукции, и американское правительство сосредоточилось на либерализации торговли промышленными товарами.
   5. *Obwohl Rohstoffpreise immer größeren Schwankungen unterliegen als die Preise von Fertigerzeugnissen und Dienstleistungen, waren die Rohstoffmärkte in den letzten fünf Jahren mit einer außergewöhnlichen, beinahe beispiellosen Volatilität konfrontiert.*
      ➔ Хотя цены на сырьевые товары всегда более изменчивы, чем цены на готовые товары и услуги, на рынке сырьевых товаров в течение последних пяти лет наблюдается исключительная, практически беспрецедентная изменчивость.
+  6. *Das Fertigerzeugnis wird auf Basis von Fertigungsaufträgen hergestellt und an Kunden verkauft.*
+     ➔ Готовое изделие производится на основе производственных заказов и продается клиентам.
 
 ### 1783. der Rohstoff, die Rohstoffe [🎥 YouGlish](https://de.youglish.com/pronounce/Rohstoff/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30860,6 +31364,8 @@
      ➔ Даже до инцидента с траулером Китай пытался регулировать экспорт редкоземельных элементов, характеризуя их как стратегический ресурс.
   5. *Knuspriger und leckerer Rostzwiebel, hergestellt aus dem Rohstoff von bester Qualität.*
      ➔ Хрупкий и вкусный жареный лук, мы делаем из сырья лучшего качества.
+  6. *Rohstoffe werden ausschließlich extern beschafft und direkt in die Produktion eingebracht.*
+     ➔ Сырье приобретается исключительно из внешних источников и направляется непосредственно в производство.
 
 ### 1784. das Handelsgut, die Handelsgüter [🎥 YouGlish](https://de.youglish.com/pronounce/Handelsgut/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30877,6 +31383,8 @@
      ➔ Корпорация Microsoft (или в зависимости от места Вашего проживания, одна из ее дочерних компаний) выдает Вам лицензию на использование данного приложения.
   5. *Vasenmaler waren ebenso wie Töpfer Handwerker, ihre Produkte Handelsgut.*
      ➔ Вазописцы как и гончары были ремесленниками, а результаты их труда - товаром.
+  6. *Handelsgüter werden eingekauft und ohne weitere Verarbeitung direkt wieder vertrieben.*
+     ➔ Товары для перепродажи закупаются и перепродаются напрямую без дальнейшей обработки.
 
 ### 1785. die Verpackung, die Verpackungen [🎥 YouGlish](https://de.youglish.com/pronounce/Verpackung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30894,6 +31402,8 @@
      ➔ Обертка такая же как и в посылке от Сантоса.
   5. *Du bist genauso wie ich, nur in einer viel hübscheren Verpackung.*
      ➔ Ты такой же, как и я, просто в намного красивей упаковке.
+  6. *Die Verpackung schützt das Material während des Transports und der Lagerung.*
+     ➔ Упаковка защищает материал во время транспортировки и хранения.
 
 ### 1786. das Packmittel, die Packmittel [🎥 YouGlish](https://de.youglish.com/pronounce/Packmittel/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30911,6 +31421,8 @@
      ➔ Международная выставка упаковочного оборудования, упаковочных материалов и кондитерского оборудования Interpack в Дюссельдорфе уже более четырех десятилетий считается Меккой упаковочной индустрии знатоков всего мира.
   5. *Insgesamt werden 71 Prozent des Papiers zu Packmitteln verarbeitet, 5,1 Prozent entfallen auf Schreib- und Bürobedarf.*
      ➔ Всего 71 процент бумаги перерабатывается в упаковочные материалы, 5,1 процента используется для изготовления письменных и офисных товаров.
+  6. *Als Packmittel werden Ladungsträger wie Paletten oder Gitterboxen im System gepflegt.*
+     ➔ В качестве упаковочных материалов в системе ведутся такие носители груза, как поддоны или ящичные поддоны.
 
 ### 1787. die Chargenklasse, die Chargenklassen [🎥 YouGlish](https://de.youglish.com/pronounce/Chargenklasse/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30924,6 +31436,8 @@
      ➔ Мы создали новый класс партий для фиксации срока годности и содержания действующего вещества.
   3. *Jedes Material mit Chargenpflicht muss einer bestimmten Chargenklasse zugeordnet werden.*
      ➔ Каждый материал, подлежащий ведению партиями, должен быть присвоен определенному классу партий.
+  4. *In der Chargenklasse werden die Merkmale definiert, die für die Klassifizierung von Chargen relevant sind.*
+     ➔ В классе партий определяются признаки, релевантные для классификации партий.
 
 ### 1788. die Bewertung für geteilte Bestände, die Bewertungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bewertung%20f%C3%BCr%20geteilte%20Best%C3%A4nde/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30941,6 +31455,8 @@
      ➔ В четверг мы вынесем решение по приему вас в штат.
   5. *Strittige Bewertung: Die Bewertungen für diese Website widersprechen einander.*
      ➔ Противоречивый рейтинг: оценки этого сайта противоречат друг другу.
+  6. *Die Bewertung für geteilte Bestände ermöglicht die getrennte Bewertung von Teilbeständen eines Materials.*
+     ➔ Раздельная оценка запасов позволяет оценивать частичные запасы одного материала раздельно.
 
 ### 1789. die Bewertungsart, die Bewertungsarten [🎥 YouGlish](https://de.youglish.com/pronounce/Bewertungsart/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30975,6 +31491,8 @@
      ➔ Ну вот, это определённо источник сигнала.
   5. *Ihre Untertanen wollen einen Erben von ihrer königlichen Herkunft.*
      ➔ Её поданные ждут приемника их королевской родословной.
+  6. *Die Herkunft des Materials kann bei der Chargenklassifizierung als Merkmal hinterlegt werden.*
+     ➔ Происхождение материала может быть указано в качестве признака при классификации партии.
 
 ### 1791. das Zollverfahren, die Zollverfahren [🎥 YouGlish](https://de.youglish.com/pronounce/Zollverfahren/german)
 - **Часть речи (Part of Speech):** Noun
@@ -30992,6 +31510,8 @@
      ➔ Только в Китае торговые барьеры и сложные таможенные процедуры обходятся ежегодно в 20 миллиардов евро.
   5. *Das Carnet TIR (Transport International de Marchandises par la Route) vereinfacht das Zollverfahren für den Straßengüterverkehr.*
      ➔ Книжка МДП (Transport International de Marchandises par la Route) упрощает таможенную процедуру для грузовых автомобильных перевозок.
+  6. *Das Zollverfahren regelt die steuerliche und zollrechtliche Abwicklung von Import- und Exportwaren.*
+     ➔ Таможенная процедура регулирует налоговое и таможенное оформление импортных и экспортных товаров.
 
 ### 1792. die Zollanmeldung, die Zollanmeldungen [🎥 YouGlish](https://de.youglish.com/pronounce/Zollanmeldung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31007,6 +31527,8 @@
      ➔ Ледебоер и его коллеги занимаются оформлением таможенной декларации для импортеров.
   4. *Seit Ende 2004 kann auch das »New Computerised Transit System« (NCTS), die europäische Zollanmeldung, über »ATLAS« durchgeführt werden.*
      ➔ С конца 2004 года «Новая компьютеризированная транзитная система» (NCTS), европейская таможенная декларация, также может осуществляться через «ATLAS».
+  5. *Die Zollanmeldung muss für grenzüberschreitende Lieferungen elektronisch an die Behörden übermittelt werden.*
+     ➔ Таможенная декларация для трансграничных поставок должна передаваться в органы власти в электронном виде.
 
 ### 1793. die Lagerverwaltung, die Lagerverwaltungen [🎥 YouGlish](https://de.youglish.com/pronounce/Lagerverwaltung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31024,6 +31546,8 @@
      ➔ Таблицы содержат названия городов и местностей, в которых находились лагерные управления.
   5. *Die Standorte der Lagerverwaltungen mit Lagernummern sind in tabellarischer Form geordnet und mit Links zu heutigen Städten versehen.*
      ➔ Местонахождения лагерных управлений с соответствующими номерами упорядочены в виде таблицы и снабжены ссылками на современные населённые пункты.
+  6. *Die Lagerverwaltung steuert den Materialfluss innerhalb des gesamten Lagerkomplexes.*
+     ➔ Управление складом контролирует поток материалов в пределах всего складского комплекса.
 
 ### 1794. das Lager, die Lager [🎥 YouGlish](https://de.youglish.com/pronounce/Lager/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31041,6 +31565,8 @@
      ➔ Этот сучий потрох Кикэсс сжёг мой склад и убил моих людей, Гиганти.
   5. *Wenn ihr es nicht tut, wird sie alle in diesem Lager töten.*
      ➔ Если вы не сделаете этого, она убьет каждого в этом лагере.
+  6. *Das Lager besteht aus verschiedenen Lagertypen und wird über eine eindeutige Lagernummer identifiziert.*
+     ➔ Склад состоит из различных типов складов и идентифицируется с помощью уникального номера склада.
 
 ### 1795. die Lagernummer, die Lagernummern [🎥 YouGlish](https://de.youglish.com/pronounce/Lagernummer/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31058,6 +31584,8 @@
      ➔ Сидений 117, в вагонах с туалетами 113.
   5. *Bei der Neunummerierung im Jahr 1970 erhielten alle damals vorhandenen LM-49 Wagennummern von 3701 bis 3761 und die LP-49 von 3801 bis 3846.*
      ➔ После проведённой в 1970 году перенумерации подвижного состава все существовавшие на тот момент ЛМ-49 получили номера от 3701 до 3761, а ЛП-49 - от 3801 до 3846.
+  6. *Die Lagernummer ist die oberste Organisationseinheit in der Lagerverwaltung.*
+     ➔ Номер склада является высшей организационной единицей в управлении складом.
 
 ### 1796. der Lagertyp, die Lagertypen [🎥 YouGlish](https://de.youglish.com/pronounce/Lagertyp/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31071,6 +31599,8 @@
      ➔ Тип склада управляет стратегиями размещения и отпуска со склада в системе управления складом (WM).
   3. *Für Gefahrstoffe haben wir einen separaten Lagertyp mit speziellen Sicherheitsvorkehrungen eingerichtet.*
      ➔ Для опасных веществ мы организовали отдельный тип склада со специальными мерами безопасности.
+  4. *Ein Lagertyp unterteilt ein Lager nach physischen oder organisatorischen Kriterien.*
+     ➔ Тип склада разделяет склад по физическим или организационным критериям.
 
 ### 1797. der Lagerbereich, die Lagerbereiche [🎥 YouGlish](https://de.youglish.com/pronounce/Lagerbereich/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31088,6 +31618,8 @@
      ➔ Дорогой Чарли, окажи мне услугу и положи это в секцию хранения Герберта Уэллса.
   5. *Da dieses Gerät in einem Lagerbereich meiner Realität sein sollte,... drehen Sie anders herum.*
      ➔ Поскольку в моей реальности оно должно храниться в кладовке... нужно сделать другой выбор.
+  6. *Der Lagerbereich fasst Lagerplätze mit ähnlichen Eigenschaften innerhalb eines Lagertyps zusammen.*
+     ➔ Складская секция объединяет складские ячейки с похожими свойствами в рамках одного типа склада.
 
 ### 1798. der Lagerplatz, die Lagerplätze [🎥 YouGlish](https://de.youglish.com/pronounce/Lagerplatz/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31105,6 +31637,8 @@
      ➔ Я устраиваю сафари, мне нужно выбрать лагерь.
   5. *Wie vorzüglich ist der Lohn und wie schön der Lagerplatz!*
      ➔ Прекрасна награда, и хорошо убежище!
+  6. *Der Lagerplatz ist die kleinste adressierbare Einheit in einem Lager.*
+     ➔ Складская ячейка — это минимальная адресуемая единица на складе.
 
 ### 1799. das Transport-Management, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Transport-Management/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31118,6 +31652,8 @@
      ➔ Внедрение нового программного обеспечения для управления транспортировками оптимизировало наши логистические процессы.
   3. *In dieser Abteilung sind Sie für das weltweite Transport-Management unserer Exportgüter zuständig.*
      ➔ В этом отделе вы отвечаете за международное управление транспортировками наших экспортных товаров.
+  4. *Das Transport-Management plant und optimiert den physischen Versand von Waren zum Kunden.*
+     ➔ Управление транспортировками планирует и оптимизирует физическую отгрузку товаров клиенту.
 
 ### 1800. der Transportbedarf, die Transportbedarfe [🎥 YouGlish](https://de.youglish.com/pronounce/Transportbedarf/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31133,6 +31669,8 @@
      ➔ Наши услуги включают в себя не только встречу и проводы в аэропорту, но и эксклюзивные программы по осмотру достопримечательностей в Австрии и соседних странах, обслуживание разного рода торжественных мероприятий с предоставлением транспортных средств.
   4. *Seit kurzem werden Anstrengungen unternommen, die zunehmende Verkehrsnachfrage einzudämmen, eine verstärkte Nutzung öffentlicher Verkehrsmittel zu fördern und neue Siedlungs- und Produktionsmodelle zu unterstützen, die zu einer Verringerung des Transportbedarfs fuhren.*
      ➔ Делались попытки сдерживания потребностей в транспорте, стимулирования большего использования общественного транспорта, а также поощрения новых моделей жилых и производственных зон, которые могли бы снизить потребность в транспорте.
+  5. *Ein Transportbedarf dient als Anforderung für eine zukünftige Warenbewegung im Lager.*
+     ➔ Потребность в переносе служит запросом на будущее движение материалов на складе.
 
 ### 1801. der Transportauftrag, die Transportaufträge [🎥 YouGlish](https://de.youglish.com/pronounce/Transportauftrag/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31148,6 +31686,8 @@
      ➔ Для определения условий конкретного транспортного поручения просим передать запрос на предложение.
   4. *Wir führen Transportaufträge sowohl im In- als auch im Ausland aus.*
      ➔ Реализуем транспортные поручения в масштабе страны и международном масштабе.
+  5. *Nach der Änderung einer Tabelle fordert das System Sie auf, einen Transportauftrag anzugeben.*
+     ➔ После изменения таблицы система просит вас указать запрос на перенос.
 
 ### 1802. die Quittierung, die Quittierungen [🎥 YouGlish](https://de.youglish.com/pronounce/Quittierung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31165,6 +31705,8 @@
      ➔ Я не тот человек.
   5. *Ich möchte den Dienst quittieren.*
      ➔ Я подаю в отставку.
+  6. *Die Quittierung bestätigt, dass die Warenbewegung laut Transportauftrag physisch abgeschlossen wurde.*
+     ➔ Подтверждение подтверждает, что движение материалов согласно заказу на перенос завершено физически.
 
 ### 1803. die Bestandsdifferenz, die Bestandsdifferenzen [🎥 YouGlish](https://de.youglish.com/pronounce/Bestandsdifferenz/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31176,6 +31718,8 @@
      ➔ При составлении годовой финансовой отчетности было обнаружено, что в течение года товарно-материальные разницы неоднократно скрывались.
   2. *Der Ärger hatte bereits Ende April begonnen, als bei der Inventur in den USA Bestandsdifferenzen von zwei Mio. Euro entdeckt wurden.*
      ➔ Проблемы начались уже в конце апреля, когда во время инвентаризации в США были обнаружены товарные разницы в два миллиона евро.
+  3. *Differenzen im Lager müssen erfasst und über das Schnittstellenkonto ausgebucht werden.*
+     ➔ Разницы на складе должны быть зарегистрированы и списаны через промежуточный счет.
 
 ### 1804. das Schnittstellenkonto, die Schnittstellenkonten [🎥 YouGlish](https://de.youglish.com/pronounce/Schnittstellenkonto/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31189,6 +31733,8 @@
      ➔ В конце дня сальдо на интерфейсном счете в идеале должно быть равно нулю.
   3. *Der IT-Support prüft die Fehlermeldung bei der Abstimmung des Schnittstellenkontos.*
      ➔ ИТ-поддержка проверяет сообщение об ошибке при выверке промежуточного счета.
+  4. *Das Schnittstellenkonto dient der temporären Buchung bei Differenzen zwischen WM und IM.*
+     ➔ Промежуточный счет служит для временной проводки при расхождениях между WM и IM.
 
 ### 1805. der physische Bestand, die Bestände [🎥 YouGlish](https://de.youglish.com/pronounce/physische%20Bestand/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31206,6 +31752,8 @@
      ➔ Известно, что его запасы довольно низкого качества, также как и сам мальчишка.
   5. *Ich will unseren Bestand erweitern und ihm außerdem Gannicus anbieten.*
      ➔ Я бы хотел пополнить наши запасы, и предложить также Ганника.
+  6. *Der physische Bestand beschreibt die tatsächlich im Lager vorhandene Menge eines Materials.*
+     ➔ Фактический запас описывает количество материала, реально находящееся на складе.
 
 ### 1806. der Buchbestand, die Buchbestände [🎥 YouGlish](https://de.youglish.com/pronounce/Buchbestand/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31223,6 +31771,8 @@
      ➔ Гнездование происходит на высоте от 1200 до 1800 м. Поиски корма проходят также в сосновых лесах, частично на горных склонах с густым кустарником, суровыми зимами также на культурных ландшафтах на высоте до 500 м вниз.
   5. *Er lebte ursprünglich in buschbestandenen Ödländern oder in lichten Wäldern, heute bewohnt er als Kulturfolger des Menschen Obstplantagen, Parks oder Gärten.*
      ➔ Первоначально обитала в поросших кустарником пустошах или в светлых лесах, сегодня как гемерофил населяет фруктовые плантации, парки или сады.
+  6. *Der Buchbestand im System wird bei jeder Warenbewegung in Echtzeit aktualisiert.*
+     ➔ Книжный запас в системе обновляется в режиме реального времени при каждом движении материалов.
 
 ### 1807. die Inventuraufnahme, die Inventuraufnahmen [🎥 YouGlish](https://de.youglish.com/pronounce/Inventuraufnahme/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31240,6 +31790,8 @@
      ➔ В Сен-Винсенте-де-Поле священнику удалось успокоить возбужденную толпу, чтобы чиновник мог провести инвентаризацию.
   5. *Die Kundgebungen, die von der Geistlichkeit veranstaltet wurden, um die Inventaraufnahme der Kircheneinrichtung zu verhindern, werden von den verständigen Klerikalen mißbilligt.*
      ➔ Демонстрации, организуемые духовенством с целью воспрепятствовать инвентаризации церковного убранства, вызывают недовольство здравомыслящего духовенства.
+  6. *Während der Inventuraufnahme werden die gezählten Mengen direkt im System erfasst.*
+     ➔ Во время инвентаризационной описи подсчитанные количества регистрируются непосредственно в системе.
 
 ### 1808. die Nachzählung, die Nachzählungen [🎥 YouGlish](https://de.youglish.com/pronounce/Nachz%C3%A4hlung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31257,6 +31809,8 @@
      ➔ Она обратилась в Вооружённые силы за компенсацией для своей дочери, Саманты Даттон.
   5. *Jetz' wollen die auf einmal Nachzahlungen.*
      ➔ А теперь с меня требуют заплатить налог и штраф.
+  6. *Bei großen Differenzen kann eine Nachzählung des Lagerplatzes veranlasst werden.*
+     ➔ При больших расхождениях может быть инициирован повторный подсчет складской ячейки.
 
 ### 1809. abgleichen [🎥 YouGlish](https://de.youglish.com/pronounce/abgleichen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -31277,6 +31831,8 @@
      ➔ Наши версии произошедшего должны совпадать на случай, если ее память вернется.
   5. *Wir müssen unsere Geschichten abgleichen.*
      ➔ Нужно сверить нашу легенду.
+  6. *Sie müssen den Buchbestand regelmäßig mit dem physischen Bestand abgleichen.*
+     ➔ Вы должны регулярно сверять книжный запас с фактическим запасом.
 
 ### 1810. der Abgleich, die Abgleiche [🎥 YouGlish](https://de.youglish.com/pronounce/Abgleich/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31294,6 +31850,8 @@
      ➔ Я собираюсь собрать образцы для генетического сравнения
   5. *Für den automatischen Abgleich der Bestellungen verfügt Yatego über Schnittstellen zu Anbietern wie Afterbuy, AuktionMaster, OXID eSales, plentyMarkets und DreamRobot.*
      ➔ Экспорт заказов: Для автоматического сравнения данных о поступивших заказах Yatego использует специальные интерфейсы, такие как Afterbuy и AuktionMaster, OXID eSales, plentyMarkets и DreamRobot.
+  6. *Der Abgleich der Bestände wird nach Abschluss der Inventur durchgeführt.*
+     ➔ Сверка запасов выполняется после завершения инвентаризации.
 
 ### 1811. der Bewertungspreis, die Bewertungspreise [🎥 YouGlish](https://de.youglish.com/pronounce/Bewertungspreis/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31307,6 +31865,8 @@
      ➔ При сильном расхождении между рыночной ценой и оценочной стоимостью мы должны произвести корректировку стоимости.
   3. *Im SAP-System bestimmt der Bewertungspreis den Wert des Bestands in der Bilanz.*
      ➔ В системе SAP оценочная стоимость определяет стоимость запаса в балансе.
+  4. *Der Bewertungspreis eines Materials wird im Materialstamm gepflegt.*
+     ➔ Цена оценки материала ведется в основной записи материала.
 
 ### 1812. das Bewertungsverfahren, die Bewertungsverfahren [🎥 YouGlish](https://de.youglish.com/pronounce/Bewertungsverfahren/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31324,6 +31884,8 @@
      ➔ Это должно быть определено в рамках требуемого законом процесса оценки.
   5. *Sie werden gemeinsam mit uns Möglichkeiten erörtern, das Bewertungsverfahren zusätzlich abzusichern.*
      ➔ Вместе с нами вы обсудите варианты дальнейшего обеспечения безопасности процесса оценки.
+  6. *Das Bewertungsverfahren bestimmt, wie Bestandsveränderungen finanziell verbucht werden.*
+     ➔ Метод оценки определяет, как финансово отражаются изменения запасов.
 
 ### 1813. die FIFO-Methode, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/FIFO-Methode/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31337,6 +31899,8 @@
      ➔ Метод ФИФО гарантирует, что более старые запасы расходуются или продаются в первую очередь, чтобы свести к минимуму потери от устаревания.
   3. *In Zeiten steigender Preise führt die FIFO-Methode in der Regel zu einem höheren ausgewiesenen Gewinn im Jahresabschluss.*
      ➔ В периоды роста цен метод ФИФО обычно приводит к более высокой отражаемой прибыли в годовой финансовой отчетности.
+  4. *Die FIFO-Methode bewertet den Endbestand unter der Annahme, dass die ältesten Bestände zuerst verbraucht wurden.*
+     ➔ Метод ФИФО оценивает конечный запас в предположении, что старейшие запасы расходуются в первую очередь.
 
 ### 1814. die LIFO-Methode, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/LIFO-Methode/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31350,6 +31914,8 @@
      ➔ Если компания применяет метод ЛИФО, то предполагается, что товары, приобретенные последними, продаются первыми.
   3. *Für bestimmte Schüttgüter wie Kohle oder Kies kann die LIFO-Methode die tatsächliche physische Lagerbewegung gut abbilden.*
      ➔ Для определенных сыпучих грузов, таких как уголь или гравий, метод ЛИФО может хорошо отражать фактическое физическое движение запасов.
+  4. *Die LIFO-Methode geht davon aus, dass die zuletzt eingegangenen Bestände zuerst verbraucht werden.*
+     ➔ Метод ЛИФО предполагает, что поступившие последними запасы расходуются в первую очередь.
 
 ### 1815. die Herstellungskosten, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/Herstellungskosten/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31367,6 +31933,8 @@
      ➔ Чтобы покрыть растущие затраты на производство лидеры планеты закрыли производство и переместили промышленность на далёкую планету Мейберри, где населения было более чем достаточно, и поэтому рабочая сила намного дешевле.
   5. *Bei den Herstellungskosten und der Produktionsweise von Medikamenten hat sich eigentlich nichts verändert.*
      ➔ Если посмотреть на стоимость создания лекарств, на то, как это происходит, - ничего не сдвинулось с места.
+  6. *Die Herstellungskosten umfassen Materialeinzelkosten sowie Fertigungsgemeinkosten.*
+     ➔ Производственная себестоимость включает в себя прямые затраты на материалы, а также косвенные производственные расходы.
 
 ### 1816. das Periodenende, die Periodenenden [🎥 YouGlish](https://de.youglish.com/pronounce/Periodenende/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31380,6 +31948,8 @@
      ➔ В конце периода мы проводим инвентаризацию, чтобы выявить возможные расхождения в складских запасах.
   3. *Der Controller analysiert nach dem Periodenende die Abweichungen zwischen den geplanten und den tatsächlichen Kosten.*
      ➔ После окончания периода контролер анализирует отклонения между запланированными и фактическими затратами.
+  4. *Am Periodenende müssen alle Materialbewegungen für den aktuellen Monat abgeschlossen sein.*
+     ➔ В конце периода все движения материалов за текущий месяц должны быть завершены.
 
 
 ---
@@ -31402,6 +31972,8 @@
      ➔ Основная область применения программы - поддержка процессов, соответствующих рекомендациям ITIL, а также управление проектами, требованиями, ошибками, клиентскими запросами, начиная с первичного учета и до их исполнения.
   5. *Laden Sie den Nero Move it DeviceCheck herunter. Auf Grundlage von Kundenanfragen wird Nero bei der nächsten Veröffentlichung die Unterstützung weiterer Geräte berücksichtigen!*
      ➔ Загрузите программу Nero Move it DeviceCheck и тогда, по запросу клиента, Nero рассмотрит возможность добавить поддержку для вашего устройства в следующем выпуске программы!
+  6. *Ein Kundenauftrag stößt den gesamten Vertriebsprozess von der Kommissionierung bis zur Fakturierung an.*
+     ➔ Заказ клиента запускает весь сбытовой процесс от комплектования до фактурирования.
 
 ### 1818. die Faktura, die Fakturen [🎥 YouGlish](https://de.youglish.com/pronounce/Faktura/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31419,6 +31991,8 @@
      ➔ Особенностью новой счетной машины (FM) от Sömmerda было то, что для счетов-фактур на товары, также известных как счета-фактуры, вводился текст и отдельные позиции цены, и машина рассчитывала окончательную сумму.
   5. *Statt daß für 5.000 Sandalen 7.000 Dollar verrechnet werden, steht das Dreifache auf der Faktura.*
      ➔ Вместо 7000 долларов за 5000 сандалий в счете указана в три раза большая сумма.
+  6. *Die Faktura dient als offizielle Rechnung für den Kunden und wird an die Finanzbuchhaltung übergeleitet.*
+     ➔ Фактура служит официальным счетом для клиента и передается в финансовую бухгалтерию.
 
 ### 1819. fakturieren [🎥 YouGlish](https://de.youglish.com/pronounce/fakturieren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -31439,6 +32013,8 @@
      ➔ Если легко можно избежать контроля капиталов - скажем, манипулируя сроками совершения сделок или через неправильное выписывание счетов внешнеторговых потоков - тогда влияние на действительный объем притоков капиталов будет незначительным.
   5. *Der hohe Qualitätsstandard der Personaldienstleistung von SCHERL & PARTNER schließt Erfolgshonorare aus. Das Honorar wird schriftlich und im voraus mit dem Klienten vereinbart, entspricht dem voraussichtlichen Aufwand und wird nach Projektfortschritt fakturiert.*
      ➔ Непременным условием для включения соискателя в процесс отбора является подробное предварительное собеседование с консультантом SCHERL & PARTNER.
+  6. *Sie können Lieferungen erst fakturieren, nachdem der Warenausgang gebucht wurde.*
+     ➔ Вы можете выставить счет-фактуру по поставкам только после того, как будет проведен отпуск материала.
 
 ### 1820. die Vertriebslinie, die Vertriebslinien [🎥 YouGlish](https://de.youglish.com/pronounce/Vertriebslinie/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31456,6 +32032,8 @@
      ➔ Линия продаж Extra охватывает супермаркеты, а линия Real — универмаги самообслуживания.
   5. *Wir haben nicht genügend in Vertriebslinien parallel zum Warenhaus investiert, das heißt einzelne Segmente aus dem Angebot rauszunehmen und daraus erfolgreich eigenständige Fachgeschäfte aufzubauen.*
      ➔ Мы недостаточно инвестировали в линии продаж, параллельные универмагу, а это означает удаление отдельных сегментов из ассортимента и успешное построение из них независимых специализированных магазинов.
+  6. *Die Vertriebslinie setzt sich aus einer Verkaufsorganisation und einem Vertriebskanal zusammen.*
+     ➔ Сбытовая линия состоит из сбытовой организации и канала сбыта.
 
 ### 1821. der Vertriebskanal, die Vertriebskanäle [🎥 YouGlish](https://de.youglish.com/pronounce/Vertriebskanal/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31473,6 +32051,8 @@
      ➔ Особенные люди, особенные места; патентуйте это, отправьте вниз по трубопроводу ожидающим пассивным потребителям.
   5. *Binnen zwei bis drei Jahren gelang es ihr, die wichtigsten Vertriebskanäle für das Produkt und den technischen Support zu organisieren und erfolgreich in das Auslandsgeschäft einzusteigen.*
      ➔ За два-три года ей удалось наладить основные каналы дистрибуции продукта, техническую поддержку, выйти на зарубежные рынки.
+  6. *Der Vertriebskanal definiert den Weg, über den Waren zum Kunden gelangen, zum Beispiel Einzelhandel oder Großhandel.*
+     ➔ Канал сбыта определяет путь, по которому товары поступают к клиенту, например, розничная или оптовая торговля.
 
 ### 1822. die Sparte, die Sparten [🎥 YouGlish](https://de.youglish.com/pronounce/Sparte/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31490,6 +32070,8 @@
      ➔ Не, они не были моей главной целью, но мне нравятся украшения.
   5. *Wir möchten, dass Sie eine Sparte von Versalife kaufen.*
      ➔ Мы хотим, чтобы вы купили его филиал.
+  6. *Die Sparte dient der Gruppierung von Materialien oder Dienstleistungen im Vertrieb.*
+     ➔ Сектор деятельности служит для группировки материалов или услуг в сбыте.
 
 ### 1823. die Verkaufsorganisation, die Verkaufsorganisationen [🎥 YouGlish](https://de.youglish.com/pronounce/Verkaufsorganisation/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31503,6 +32085,8 @@
      ➔ Акционерное общество «MIREL TRAIDING a.s.» - сбытовая организация и производитель, г. Вратимов, Чешская Республика.
   3. *Die Firma UNIONMATEX wurde am 27.10. 1918 im ehemaligen Hotel "Stadt Gotha" in Chemnitz, Sachsen als eine Interessen-gemeinschaft und Verkaufsorganisation der in Sachsen und im übrigen Deutschland ansässigen Textilmaschinen-hersteller gegründet.*
      ➔ Фирма УНИОНМАТЕКС была основана 27.10.1918г. в бывшей гостинице "Город Гота" в городе Кемниц, Саксония, в качестве сообщества и торговой организации находившихся в регионе Саксонии и в остальной Германии фирм-изготовителей текстильного оборудования.
+  4. *Die Verkaufsorganisation ist rechtlich für den Vertrieb von Produkten und Dienstleistungen verantwortlich.*
+     ➔ Сбытовая организация несет юридическую ответственность за сбыт продуктов и услуг.
 
 ### 1824. der Vertriebsbereich, die Vertriebsbereiche [🎥 YouGlish](https://de.youglish.com/pronounce/Vertriebsbereich/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31520,6 +32104,8 @@
      ➔ Компании, которые хотят выжить в международной конкуренции в будущем, нуждаются в сотрудниках соответствующей квалификации, особенно в сфере продаж.
   5. *Herr W. war nach seinem Studium in den vergangenen zwölf Jahren im Vertriebsbereich von Kreditkartenunternehmen tätig.*
      ➔ После завершения учебы г-н В. последние двенадцать лет работал в отделе продаж компаний, выпускающих кредитные карты.
+  6. *Der Vertriebsbereich ist eine Kombination aus Verkaufsorganisation, Vertriebskanal und Sparte.*
+     ➔ Сектор сбыта представляет собой комбинацию сбытовой организации, канала сбыта и сектора деятельности.
 
 ### 1825. die Vertriebsorganisation, die Vertriebsorganisationen [🎥 YouGlish](https://de.youglish.com/pronounce/Vertriebsorganisation/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31537,6 +32123,8 @@
      ➔ Действующие пять сбытовых организаций будут объединены в два подразделения.
   5. *Erst seien sie neu besohlt worden, indem die Vertriebsorganisation wiederaufgebaut worden sei.*
      ➔ Сначала они были решены путем перестройки организации продаж.
+  6. *Jeder Kundenauftrag muss einem bestimmten Vertriebsbereich und einer Vertriebsorganisation zugeordnet sein.*
+     ➔ Каждый заказ клиента должен быть отнесен к определенному сектору сбыта и сбытовой организации.
 
 ### 1826. die Versandstelle, die Versandstellen [🎥 YouGlish](https://de.youglish.com/pronounce/Versandstelle/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31550,6 +32138,8 @@
      ➔ Где находится ближайший центр UPS, в котором можно получить или отправить груз?
   3. *Die Seriennummer führt zu einem privaten Postfach bei der Versandstelle nahe Diamond Head.*
      ➔ Серийный номер ключа привел к личному почтовому ящику в Мэйлбокс Диспач близ Даймонд Хэд.
+  4. *Die Versandstelle steuert die Versandaktivitäten und die Routenermittlung für Lieferungen.*
+     ➔ Пункт отгрузки управляет операциями по отгрузке и определением маршрутов для поставок.
 
 ### 1827. der Lieferbeleg, die Lieferbelege [🎥 YouGlish](https://de.youglish.com/pronounce/Lieferbeleg/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31563,6 +32153,8 @@
      ➔ Без действующего документа поставки товар не может быть принят на нашем складе.
   3. *Der Spediteur bat den Empfänger, den Erhalt der Sendung auf dem Lieferbeleg zu quittieren.*
      ➔ Экспедитор попросил получателя подтвердить получение груза подписью на документе поставки.
+  4. *Der Lieferbeleg wird zur Steuerung und Überwachung des physischen Versandprozesses genutzt.*
+     ➔ Документ поставки используется для управления и контроля физического процесса отгрузки.
 
 ### 1828. die Auslieferung, die Auslieferungen [🎥 YouGlish](https://de.youglish.com/pronounce/Auslieferung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31580,6 +32172,8 @@
      ➔ Ашшурбанапал требует его выдачи.
   5. *Es ist wunderschön, weißer Sandstrand, Palmen, und keine Auslieferung.*
      ➔ Изумительные пляжи с белым песком, пальмовые рощи, и нет экстрадиции.
+  6. *Eine Auslieferung wird erstellt, um den Versandprozess für einen Kundenauftrag einzuleiten.*
+     ➔ Исходящая поставка создается для запуска процесса отгрузки по заказу клиента.
 
 ### 1829. die Anlieferung, die Anlieferungen [🎥 YouGlish](https://de.youglish.com/pronounce/Anlieferung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31597,6 +32191,8 @@
      ➔ Вы разрешили доставку, герр Мейербеер.
   5. *Ein unvorsichtiges entregador bildet die Anlieferung von einem Paket der reinen Droge in einer falschen Adresse.*
      ➔ Халатное entregador делает поставку пакета чисто снадобья в неправильном адресе.
+  6. *Die Anlieferung dokumentiert den erwarteten Wareneingang vom Lieferanten.*
+     ➔ Входящая поставка документирует ожидаемое поступление материала от поставщика.
 
 ### 1830. das Angebot, die Angebote [🎥 YouGlish](https://de.youglish.com/pronounce/Angebot/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31614,6 +32210,8 @@
      ➔ Итак, я предложил ей сделку и получил квартиру подешевке.
   5. *Richard glaubt nicht wirklich, dass du noch ein Angebot hast.*
      ➔ Ричард даже не верит, что у вас есть другое предложение.
+  6. *Das Angebot ist für den Verkäufer über einen definierten Zeitraum hinweg bindend.*
+     ➔ Коммерческое предложение является обязательным для продавца в течение определенного периода времени.
 
 ### 1831. die Anfrage, die Anfragen [🎥 YouGlish](https://de.youglish.com/pronounce/Anfrage/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31631,6 +32229,8 @@
      ➔ Извините, но ваша просьба отклонена.
   5. *Anfrage und das Menü, das Ihren Bedürfnissen am besten entspricht.*
      ➔ Запрос и выше меня, что наилучшим образом соответствует вашим потребностям.
+  6. *Eine Anfrage ist ein unverbindlicher Beleg, mit dem ein Kunde Preise für bestimmte Materialien anfordert.*
+     ➔ Запрос — это необязывающий документ, с помощью которого клиент запрашивает цены на определенные материалы.
 
 ### 1832. die Kontraktverwaltung, die Kontraktverwaltungen [🎥 YouGlish](https://de.youglish.com/pronounce/Kontraktverwaltung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31644,6 +32244,8 @@
      ➔ Тщательное управление контрактами помогает компании никогда больше не пропускать сроки исполнения и расторжения договоров.
   3. *Durch die automatisierte Kontraktverwaltung können wir Rahmenvereinbarungen direkt im System überwachen.*
      ➔ Благодаря автоматизированному управлению контрактами мы можем отслеживать рамочные соглашения прямо в системе.
+  4. *Die Kontraktverwaltung ermöglicht die langfristige Überwachung von Rahmenvereinbarungen mit Kunden.*
+     ➔ Управление контрактами позволяет осуществлять долгосрочный контроль рамочных соглашений с клиентами.
 
 ### 1833. der Kontrakt, die Kontrakte [🎥 YouGlish](https://de.youglish.com/pronounce/Kontrakt/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31661,6 +32263,8 @@
      ➔ 15 марта 2011 года, после того, как команда не попала в плей-офф, контракт был расторгнут преждевременно.
   5. *Dein Bruder war der Kontrakt.*
      ➔ Заказ был на твоего брата.
+  6. *Ein Kontrakt ist eine Rahmenvereinbarung über die Abnahme bestimmter Mengen oder Werte.*
+     ➔ Контракт представляет собой рамочное соглашение об отпуске определенных объемов или стоимости.
 
 ### 1834. der Mengenkontrakt, die Mengenkontrakte [🎥 YouGlish](https://de.youglish.com/pronounce/Mengenkontrakt/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31674,6 +32278,8 @@
      ➔ Как только согласованное количество по количественному контракту будет выбрано, нам придется вести переговоры о новых условиях.
   3. *Ein Mengenkontrakt legt fest, dass der Kunde innerhalb eines Jahres eine bestimmte Anzahl von Produkten abnimmt.*
      ➔ Количественный контракт предусматривает, что клиент обязуется приобрести определенное количество продукции в течение года.
+  4. *Im Mengenkontrakt vereinbaren die Vertragspartner eine bestimmte Abnahmemenge über einen festgelegten Zeitraum.*
+     ➔ В количественном контракте партнеры договариваются об определенном объеме закупок в течение установленного периода времени.
 
 ### 1835. der Wertkontrakt, die Wertkontrakte [🎥 YouGlish](https://de.youglish.com/pronounce/Wertkontrakt/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31687,6 +32293,8 @@
      ➔ Отдел закупок предпочитает стоимостной контракт, если точное распределение необходимых отдельных позиций еще не ясно.
   3. *Im System wird bei jeder Bestellung geprüft, wie viel vom vereinbarten Budget des Wertkontrakts noch übrig ist.*
      ➔ В системе при каждом заказе проверяется, сколько осталось от согласованного бюджета стоимостного контракта.
+  4. *Der Wertkontrakt legt fest, dass Waren bis zu einem bestimmten Gesamtwert abgenommen werden können.*
+     ➔ Стоимостный контракт определяет, что товары могут быть отпущены на сумму до определенной общей стоимости.
 
 ### 1836. der Lieferplan, die Lieferpläne [🎥 YouGlish](https://de.youglish.com/pronounce/Lieferplan/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31702,6 +32310,8 @@
      ➔ Глянь, каждую неделю один и тот же заказ.
   4. *Schichtpläne und Lieferpläne auswendig lernen und dann Überraschung!*
      ➔ Выучили смену охраны и доставку расписаний, а потом сюрприз!
+  5. *Der Lieferplan enthält feste Termine und Mengen für zukünftige Lieferungen.*
+     ➔ Соглашение о поставках содержит фиксированные сроки и объемы для будущих поставок.
 
 ### 1837. die Einteilung, die Einteilungen [🎥 YouGlish](https://de.youglish.com/pronounce/Einteilung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31719,6 +32329,8 @@
      ➔ Такое разделение, особенно между средне- и нижненемецким, ничего не говорит о родственных отношениях соответствующих диалектов на границах областей.
   5. *Die Einteilung ist idealtypisch.*
      ➔ Распределение окраски весьма типично.
+  6. *Die Einteilung spezifiziert das genaue Lieferdatum und die Liefermenge für eine Auftragsposition.*
+     ➔ Партия поставки указывает точную дату и объем поставки для позиции заказа.
 
 ### 1838. die Partnerrolle, die Partnerrollen [🎥 YouGlish](https://de.youglish.com/pronounce/Partnerrolle/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31736,6 +32348,8 @@
      ➔ Бывшая колониальная держава Ливии Италия играет особую роль партнера в Европе.
   5. *Auch im Wachstumssektor Internet-Handel, in dem die Post eine führende Partnerrolle als Logistikdienstleister anpeilt, ist DHL bereits gut aufgestellt.*
      ➔ DHL также уже занимает хорошие позиции в растущем секторе интернет-коммерции, в котором Swiss Post стремится играть ведущую роль в качестве партнера в качестве поставщика логистических услуг.
+  6. *Die Partnerrolle definiert die Zuständigkeit eines Geschäftspartners im Vertriebsprozess.*
+     ➔ Роль партнера определяет ответственность делового партнера в процессе сбыта.
 
 ### 1839. der Warenempfänger, die Warenempfänger [🎥 YouGlish](https://de.youglish.com/pronounce/Warenempf%C3%A4nger/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31747,6 +32361,8 @@
      ➔ Сертификат конечного пользователя (EUC) — это документ, который должен быть подписан получателем товара и который документирует использование товара для конкретной цели и, если применимо, страну-получателя.
   2. *Die Bank des Exporteurs wiederum sichert sich gleichzeitig über einen Letter of Credit der Bank des Importeurs ab oder kauft diesen Wechsel direkt im Auftrag der Bank des Warenempfängers.*
      ➔ Банк экспортера, в свою очередь, одновременно обеспечивает себя посредством аккредитива от банка импортера или покупает этот вексель непосредственно от имени банка получателя товара.
+  3. *Der Warenempfänger ist die physische Adresse, an die die bestellte Ware geliefert wird.*
+     ➔ Получатель материала — это физический адрес, по которому доставляется заказанный товар.
 
 ### 1840. der Rechnungsempfänger, die Rechnungsempfänger [🎥 YouGlish](https://de.youglish.com/pronounce/Rechnungsempf%C3%A4nger/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31760,6 +32376,8 @@
      ➔ Система интернет-платежей избавляет получателей счетов от обычной поездки в банк или почтовое отделение в Польше и снижает комиссию за перевод.
   3. *Beim Keller Verlag, seinem Mandanten, hätten sich in kurzerkurzer Zeit die Anfragen verunsicherter Rechnungsempfänger gehäuft.*
      ➔ В компании Keller Verlag, его клиенте, за короткий промежуток времени количество запросов от получателей счетов, которые не были оплачены, возросло.
+  4. *Der Rechnungsempfänger erhält die Faktura zur Begleichung der Forderung.*
+     ➔ Получатель счета получает счет-фактуру для погашения задолженности.
 
 ### 1841. der Regulierer, die Regulierer [🎥 YouGlish](https://de.youglish.com/pronounce/Regulierer/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31777,6 +32395,8 @@
      ➔ Кроме того, банки предполагают, что им придется держать больше капитала, чем регуляторы якобы требуют для того, чтобы поддерживать запас прочности.
   5. *Ein zweites Problem für Regulierer, Aufsichtsorgane und sogar Rating-Agenturen waren knappe Ressourcen.*
      ➔ Второй проблемой для регуляторов, наблюдателей и, по сути, агентств по оценке кредитоспособности были недостаточные ресурсы.
+  6. *Der Regulierer ist der Partner, der die Rechnung tatsächlich bezahlt.*
+     ➔ Плательщик — это партнер, который фактически оплачивает счет.
 
 ### 1842. die Preisfindung, die Preisfindungen [🎥 YouGlish](https://de.youglish.com/pronounce/Preisfindung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31794,6 +32414,8 @@
      ➔ Учитывая спад цен на энергоносители, никогда не существовало лучшего момента, для осуществления перехода к умному, достоверному и эффективному установлению цен на углерод.
   5. *zu kalkulieren. Unserer Meinung nach ist die fairste Preisfindung eine monatliche Nutzungsgebühr auf Basis der tatsächlichen Einheiten im System zu berechnen unabhängig von der Anzahl der Buchungen.*
      ➔ Таким образом, маленький отель на 20 комнат будет платить только за 20 комнат и не центом больше.
+  6. *Die automatische Preisfindung ermittelt den nettopreis einer Position auf Basis von Konditionssätzen.*
+     ➔ Автоматическое ценообразование определяет цену позиции нетто на основе записей условий.
 
 ### 1843. das Kalkulationsschema, die Kalkulationsschemata [🎥 YouGlish](https://de.youglish.com/pronounce/Kalkulationsschema/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31807,6 +32429,8 @@
      ➔ Наш консультант скорректировал схему калькуляции, чтобы правильно отразить новые правила импортных пошлин.
   3. *Für unterschiedliche Länder nutzen wir jeweils ein spezifisches Kalkulationsschema zur Preisfindung.*
      ➔ Для разных стран мы используем соответствующие специфические схемы калькуляции для определения цены.
+  4. *Das Kalkulationsschema bestimmt die Reihenfolge der Konditionsarten bei der Preisfindung.*
+     ➔ Схема калькуляции определяет последовательность видов условий при ценообразовании.
 
 ### 1844. die Konditionsart, die Konditionsarten [🎥 YouGlish](https://de.youglish.com/pronounce/Konditionsart/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31824,6 +32448,8 @@
      ➔ Ну и промыты же у тебя мозги, Клэр.
   5. *Er hat seinen Hund darauf konditioniert, beim Klang einer Glocke Speichel abzusondern.*
      ➔ Вызывал у собаки слюну обычным колокольчиком.
+  6. *Die Konditionsart repräsentiert ein preisrelevantes Element wie Grundpreis, Rabatt oder Steuer.*
+     ➔ Вид условия представляет собой релевантный для цены элемент, такой как базовая цена, скидка или налог.
 
 ### 1845. der Konditionssatz, die Konditionssätze [🎥 YouGlish](https://de.youglish.com/pronounce/Konditionssatz/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31837,6 +32463,8 @@
      ➔ Система автоматически выбирает подходящую запись условий, сохраненную для данного клиента.
   3. *Nach den Verhandlungen wurden die Konditionssätze für die Frachtkosten im ERP-System aktualisiert.*
      ➔ После переговоров записи условий для транспортных расходов были обновлены in ERP-системе.
+  4. *Ein Konditionssatz speichert den konkreten Betrag oder Prozentsatz für eine bestimmte Konditionsart.*
+     ➔ Запись условия хранит конкретную сумму или процент для определенного вида условия.
 
 ### 1846. die Konditionstabelle, die Konditionstabellen [🎥 YouGlish](https://de.youglish.com/pronounce/Konditionstabelle/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31850,6 +32478,8 @@
      ➔ Чтобы сделать возможными индивидуальные цены для клиентов, мы должны настроить новую таблицу условий в настройках системы.
   3. *Das System durchsucht die Konditionstabellen nacheinander, um den gültigen Rabattsatz zu ermitteln.*
      ➔ Система последовательно просматривает таблицы условий, чтобы определить действующую ставку скидки.
+  4. *Die Konditionstabelle definiert die Schlüsselfelder, unter denen ein Konditionssatz abgelegt wird.*
+     ➔ Таблица условий определяет ключевые поля, под которыми сохраняется запись условия.
 
 ### 1847. die Zugriffsfolge, die Zugriffsfolgen [🎥 YouGlish](https://de.youglish.com/pronounce/Zugriffsfolge/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31863,6 +32493,8 @@
      ➔ Если последовательность доступа настроена неправильно, при определенных обстоятельствах может не примениться самая выгодная промо-цена.
   3. *Wir haben die Zugriffsfolge so konfiguriert, dass zuerst nach kundenspezifischen Vereinbarungen gesucht wird.*
      ➔ Мы настроили последовательность доступа таким образом, чтобы сначала выполнялся поиск индивидуальных соглашений с клиентами.
+  4. *Die Zugriffsfolge bestimmt die Suchstrategie, mit der das System nach gültigen Konditionssätzen sucht.*
+     ➔ Последовательность доступа определяет стратегию поиска, с помощью которой система ищет действующие записи условий.
 
 ### 1848. der Rabatt, die Rabatte [🎥 YouGlish](https://de.youglish.com/pronounce/Rabatt/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31880,6 +32512,8 @@
      ➔ Скидка или нет, это слишком дорого.
   5. *Ich kaufte diesen Schläger mit zwanzig Prozent Rabatt.*
      ➔ Я купил эту ракетку с двадцатипроцентной скидкой.
+  6. *Ein Rabatt kann als prozentualer oder absoluter Abschlag auf den Grundpreis gewährt werden.*
+     ➔ Скидка может предоставляться в виде процентной или абсолютной скидки с базовой цены.
 
 ### 1849. der Zuschlag, die Zuschläge [🎥 YouGlish](https://de.youglish.com/pronounce/Zuschlag/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31897,6 +32531,8 @@
      ➔ Доплата за полупансион составляет 15 евро со взрослого в сутки.
   5. *China erhielt den Zuschlag, dort Gold abzubauen.*
      ➔ Китайцы получили там контракт на добычу золота.
+  6. *Für Mindermengen oder Sonderverpackungen kann ein Zuschlag berechnet werden.*
+     ➔ За недостаточный объем или специальную упаковку может взиматься наценка.
 
 ### 1850. die Frachtkosten, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/Frachtkosten/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31914,6 +32550,8 @@
      ➔ Сроки оплати за транспортировку всегда указаны на нашем счете.
   5. *Die Stadt wird die gesamten Frachtkosten decken, da ich sie hergbracht habe.*
      ➔ Город должен выплатить мне цену за его перевозку.
+  6. *Die Frachtkosten werden im Kalkulationsschema als eigene Konditionsart abgebildet.*
+     ➔ Расходы на транспортировку отражаются в схеме калькуляции как отдельный вид условия.
 
 ### 1851. die Verfügbarkeitsprüfung, die Verfügbarkeitsprüfungen [🎥 YouGlish](https://de.youglish.com/pronounce/Verf%C3%BCgbarkeitspr%C3%BCfung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31927,6 +32565,8 @@
      ➔ Если проверка доступности не удалась, система предлагает альтернативную дату поставки.
   3. *Die Verfügbarkeitsprüfung berücksichtigt sowohl den aktuellen Lagerbestand als auch die geplanten Wareneingänge.*
      ➔ Проверка доступности учитывает как текущие запасы на складе, так и запланированные поступления товаров.
+  4. *Die Verfügbarkeitsprüfung stellt sicher, dass die bestellte Menge zum Wunschtermin geliefert werden kann.*
+     ➔ Проверка доступности гарантирует, что заказанное количество может быть доставлено к желаемой дате.
 
 ### 1852. die Streckenabwicklung, die Streckenabwicklungen [🎥 YouGlish](https://de.youglish.com/pronounce/Streckenabwicklung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31940,6 +32580,8 @@
      ➔ Благодаря транзитной поставке мы экономим значительные складские и транспортные расходы на эти крупногабаритные товары.
   3. *Das System erstellt bei einer Streckenabwicklung automatisch eine Bestellanforderung an den externen Lieferanten.*
      ➔ В случае транзитной поставки система автоматически создает заявку на закупку у внешнего поставщика.
+  4. *Bei der Streckenabwicklung liefert der Lieferant die Ware direkt an den Endkunden.*
+     ➔ При транзитной поставке поставщик доставляет товар напрямую конечному клиенту.
 
 ### 1853. die Umlagerungsbestellung, die Umlagerungsbestellungen [🎥 YouGlish](https://de.youglish.com/pronounce/Umlagerungsbestellung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31953,6 +32595,8 @@
      ➔ Заказ на перемещение запаса позволяет точно отслеживать транспортировку товаров между двумя заводами в системе.
   3. *Der Disponent hat die Umlagerungsbestellung genehmigt, um den drohenden Materialengpass in Werk B zu beheben.*
      ➔ Диспетчер утвердил заказ на перемещение запаса, чтобы устранить угрозу дефицита материалов на заводе Б.
+  4. *Die Umlagerungsbestellung fordert ein anderes Werk auf, Materialien an das anfordernde Werk zu senden.*
+     ➔ Заказ на перемещение запаса запрашивает другой завод отправить материалы на запрашивающий завод.
 
 ### 1854. der Konsignationsbeschaffung, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Konsignationsbeschaffung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31966,6 +32610,8 @@
      ➔ Консигнационные закупки сокращают наш связанный капитал, так как мы оплачиваем материалы только по мере их использования.
   3. *Für diesen strategischen Rohstoff haben wir mit dem Partner ein Verfahren zur Konsignationsbeschaffung vereinbart.*
      ➔ По этому стратегическому сырью мы согласовали с партнером процедуру консигнационных закупок.
+  4. *Die Konsignationsbeschaffung ermöglicht es, Lieferantenbestände im eigenen Werk zu lagern.*
+     ➔ Пополнение консигнационного запаса позволяет хранить запасы поставщика на собственном заводе.
 
 ### 1855. die Konsignationsentnahme, die Entnahmen [🎥 YouGlish](https://de.youglish.com/pronounce/Konsignationsentnahme/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31979,6 +32625,8 @@
      ➔ Из-за неожиданно большого объема изъятий из консигнационного запаса на этой неделе нам необходимо скорректировать минимальный уровень запасов.
   3. *Nach der Konsignationsentnahme geht das Eigentum am Material offiziell auf unser Unternehmen über.*
      ➔ После изъятия из консигнационного запаса право собственности на материал официально переходит к нашей компании.
+  4. *Eine Konsignationsentnahme führt zu einer Verbindlichkeit gegenüber dem Lieferanten.*
+     ➔ Отпуск с консигнационного запаса приводит к возникновению обязательства перед поставщиком.
 
 ### 1856. die Konsignationsbeschickung, die Beschickungen [🎥 YouGlish](https://de.youglish.com/pronounce/Konsignationsbeschickung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -31992,6 +32640,8 @@
      ➔ Поставка на консигнацию увеличивает физический запас на складе, но пока не приводит к возникновению кредиторской задолженности.
   3. *Die Buchung für eine Konsignationsbeschickung erfolgt im System mit einer speziellen Bewegungsart.*
      ➔ Проводка поступления консигнационного запаса выполняется в системе с использованием специального вида движения.
+  4. *Die Konsignationsbeschickung sendet Ware in das Konsignationslager des Kunden.*
+     ➔ Поставка на консигнацию отправляет товар на консигнационный склад клиента.
 
 ### 1857. die Konsignationsrücknahme, die Rücknahmen [🎥 YouGlish](https://de.youglish.com/pronounce/Konsignationsr%C3%BCcknahme/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32005,6 +32655,8 @@
      ➔ По истечении срока действия контракта оставшийся товар был оформлен через возврат консигнационного запаса.
   3. *Die Konsignationsrücknahme reduziert den beim Kunden gelagerten Bestand des Lieferanten im System.*
      ➔ Возврат консигнационного запаса уменьшает в системе количество запаса поставщика, хранящегося у клиента.
+  4. *Mit der Konsignationsrücknahme wird unverkaufte Ware aus dem Kundenkonsignationslager zurückgeholt.*
+     ➔ С помощью возврата с консигнации нераспроданный товар возвращается с консигнационного склада клиента.
 
 ### 1858. die Retoure, die Retouren [🎥 YouGlish](https://de.youglish.com/pronounce/Retoure/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32022,6 +32674,8 @@
      ➔ Поскольку обычно заключается договор купли-продажи, при возврате необходимо соблюдать закон купли-продажи, который не всегда допускает возврат.
   5. *Um für Kunden attraktiv zu erscheinen, werden Retouren hier überwiegend kostenfrei und bei großzügigen Rückgabefristen erlaubt.*
      ➔ Чтобы выглядеть привлекательно для клиентов, возврат в большинстве случаев допускается бесплатно и с длительными сроками возврата.
+  6. *Eine Retoure wird angelegt, wenn der Kunde defekte oder falsch gelieferte Ware zurücksendet.*
+     ➔ Возврат товара создается в том случае, если клиент возвращает дефектный или неверно поставленный товар.
 
 ### 1859. die Retourenabwicklung, die Retourenabwicklungen [🎥 YouGlish](https://de.youglish.com/pronounce/Retourenabwicklung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32033,6 +32687,8 @@
      ➔ Обработка возвратов — это процесс в логистической цепочке (цепочке поставок), который особенно важен в бизнесе по доставке товаров по почте (онлайн-торговля или классический бизнес по каталогам).
   2. *Teilweise werden auch Dienstleistungen wie Warenbezahlung, After-Sales-Service und Retourenabwicklung übernommen.*
      ➔ В отдельных случаях также предоставляются такие услуги, как оплата товара, послепродажное обслуживание и обработка возвратов.
+  3. *Die Retourenabwicklung steuert den Prozess von der Retourenlieferung bis zur Gutschriftserstellung.*
+     ➔ Обработка возвратов управляет процессом от поступления возврата до создания кредитового авизо.
 
 ### 1860. die Gutschriftenanforderung, die Gutschriftenanforderungen [🎥 YouGlish](https://de.youglish.com/pronounce/Gutschriftenanforderung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32046,6 +32702,8 @@
      ➔ Запрос на кредит-ноту должен быть утвержден руководителем отдела, прежде чем будет создано само кредитование.
   3. *Bitte prüfen Sie die Gutschriftenanforderung und vergleichen Sie die Beträge mit der Originalrechnung.*
      ➔ Пожалуйста, проверьте запрос на кредит-ноту и сравните суммы с оригинальным счетом-фактурой.
+  4. *Nach der Genehmigung der Gutschriftenanforderung wird die entsprechende Gutschrift automatisch im Fakturavorrat erzeugt.*
+     ➔ После утверждения запроса кредитового авизо соответствующее кредитовое авизо автоматически создается в списке фактур к обработке.
 
 ### 1861. die Lastschriftenanforderung, die Lastschriftenanforderungen [🎥 YouGlish](https://de.youglish.com/pronounce/Lastschriftenanforderung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32059,6 +32717,8 @@
      ➔ Специалист проверяет, покрывается ли запрос на дебет-ноту договором с клиентом.
   3. *Jede Lastschriftenanforderung erfordert eine Begründung für die nachträgliche Berechnung.*
      ➔ Каждый запрос на дебет-ноту требует обоснования для последующего доначисления.
+  4. *Eine Lastschriftenanforderung muss vor der Abrechnung freigegeben werden, wenn eine Fakturasperre gesetzt ist.*
+     ➔ Запрос дебетового авизо должен быть деблокирован перед расчетом, если установлена блокировка фактурирования.
 
 ### 1862. die Fakturasperre, die Fakturasperren [🎥 YouGlish](https://de.youglish.com/pronounce/Fakturasperre/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32072,6 +32732,8 @@
      ➔ Сотрудник отдела продаж снял блокировку фактурирования после того, как было получено одобрение от клиента.
   3. *Systemseitig ist für alle Reklamationsfälle automatisch eine Fakturasperre voreingestellt.*
      ➔ На уровне системы для всех случаев рекламаций автоматически установлена блокировка фактурирования.
+  4. *Sie können im Kundenauftrag eine Fakturasperre setzen, um die automatische Abrechnung vorübergehend zu verhindern.*
+     ➔ Вы можете установить блокировку фактурирования в заказе клиента, чтобы временно предотвратить автоматический расчет.
 
 ### 1863. die Liefersperre, die Liefersperren [🎥 YouGlish](https://de.youglish.com/pronounce/Liefersperre/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32085,6 +32747,8 @@
      ➔ В конечном счете, чтобы оценить допустимость запрета на поставки, всегда необходимо соблюдать баланс интересов с учетом цели GWB – свободной конкуренции.
   3. *Der Aufruf zur Liefersperre wird von § 21 Abs. 1 GWB, dem Boykottverbot, erfasst.*
      ➔ Призыв к блокированию поставок подпадает под действие пункта 1 раздела 21 GWB, запрещающего бойкоты.
+  4. *Die Liefersperre im Kundenauftrag verhindert das Anlegen von Lieferbelegen im Versandprozess.*
+     ➔ Блокировка поставки в заказе клиента предотвращает создание документов поставки в процессе отгрузки.
 
 ### 1864. die Kreditprüfung, die Kreditprüfungen [🎥 YouGlish](https://de.youglish.com/pronounce/Kreditpr%C3%BCfung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32102,6 +32766,8 @@
      ➔ Кроме того, продавец долга освобождается от проверок кредитоспособности, кредитного мониторинга и сбора платежей.
   5. *Statt sich bei der Kreditgewährung an vergangenheitsbezogenen Jahresabschlüssen und Kapitalbilanzen zu orientieren, berücksichtigen die Institute bei der Kreditprüfung stärker die zukünftigen Ertragspotenziale der Unternehmen.*
      ➔ Вместо того, чтобы полагаться на исторические годовые финансовые отчеты и финансовые отчеты при предоставлении кредитов, учреждения при оценке кредитов больше учитывают потенциал будущих доходов компании.
+  6. *Die automatische Kreditprüfung erfolgt während der Auftragserfassung auf Basis des definierten Kreditlimits.*
+     ➔ Автоматическая проверка кредитного лимита выполняется во время ввода заказа на основе определенного кредитного лимита.
 
 ### 1865. die Kreditsperre, die Kreditsperren [🎥 YouGlish](https://de.youglish.com/pronounce/Kreditsperre/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32119,6 +32785,8 @@
      ➔ Замораживание кредитов дало быстрый эффект; С декабря оппозиционным партиям разрешено легально действовать в Кении.
   5. *Die indonesische Börse reagierte mit leichten Verlusten auf die Kreditsperren und die Wiederwahl Suhartos.*
      ➔ Индонезийский фондовый рынок отреагировал небольшими потерями на замораживание кредитов и переизбрание Сухарто.
+  6. *Wenn der Kunde sein Kreditlimit überschreitet, setzt das System eine Kreditsperre für den Auftrag.*
+     ➔ Если клиент превышает свой кредитный лимит, система устанавливает кредитную блокировку для заказа.
 
 ### 1866. das Kreditmanagement, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Kreditmanagement/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32136,6 +32804,8 @@
      ➔ Несмотря на недостаточность информации, центральное кредитное управление посоветовало совету директоров не связываться с Boxclever.
   5. *Dagegen erhoben die kasachischen Verhandlungspartner Einspruch und kündigten die Einschaltung eines eigenen Kreditmanagements an.*
      ➔ Казахские партнеры по переговорам возразили против этого и заявили, что будут использовать собственную систему кредитного менеджмента.
+  6. *Im SAP Credit Management können Sie das Zahlungsverhalten und die Bonität Ihrer Geschäftspartner zentral überwachen.*
+     ➔ В SAP Credit Management вы можете централизованно отслеживать платежную дисциплину и кредитоспособность ваших деловых партнеров.
 
 ### 1867. der Bonitätsindex, die Bonitätsindizes [🎥 YouGlish](https://de.youglish.com/pronounce/Bonit%C3%A4tsindex/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32147,6 +32817,8 @@
      ➔ Тем, кто заинтересован в строительстве, не следует просто смотреть на цифры индекса кредитоспособности и – если он все еще находится в удовлетворительном диапазоне – сидеть сложа руки и расслабляться.
   2. *Mangels Transparenz und Informationen wagt die Auskunftei nur bei 13 der 36 Klubs die Angabe eines Bonitätsindexes.*
      ➔ Из-за отсутствия прозрачности и информации кредитное агентство осмеливается предоставить индекс кредитного рейтинга только для 13 из 36 клубов.
+  3. *Der Bonitätsindex des Kunden wird aus externen Quellen importiert und beeinflusst das Risikoprofil im System.*
+     ➔ Индекс платежеспособности клиента импортируется из внешних источников и влияет на профиль риска в системе.
 
 ### 1868. die Bonitätsprüfung, die Bonitätsprüfungen [🎥 YouGlish](https://de.youglish.com/pronounce/Bonit%C3%A4tspr%C3%BCfung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32164,6 +32836,8 @@
      ➔ Отлично, но я буду вынуждена проверить твою кредитную историю.
   5. *Wir bestehen nicht mal die Bonitätsprüfung.*
      ➔ Слушай, да мы даже не пройдём проверку кредитоспособности.
+  6. *Die Bonitätsprüfung stellt sicher, dass Aufträge von Kunden mit schlechter Bonität zur Überprüfung gesperrt werden.*
+     ➔ Проверка кредитоспособности гарантирует, что заказы от клиентов с плохой платежеспособностью блокируются для проверки.
 
 ### 1869. der Kundenstamm, die Kundenstämme [🎥 YouGlish](https://de.youglish.com/pronounce/Kundenstamm/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32181,6 +32855,8 @@
      ➔ Ты хотел сказать нашей клиентской базой.
   5. *Schauen Sie sich den Kundenstamm an.*
      ➔ Рассмотрим составные части проблемы.
+  6. *Alle vertriebsrelevanten Daten eines Auftraggebers werden im Kundenstamm gepflegt.*
+     ➔ Все относящиеся к сбыту данные заказчика ведутся в основных данных клиента.
 
 ### 1870. der Debitorenstamm, die Debitorenstämme [🎥 YouGlish](https://de.youglish.com/pronounce/Debitorenstamm/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32194,6 +32870,8 @@
      ➔ Перед созданием нового клиента мы проверяем, существует ли он уже в основной записи дебиторов.
   3. *Ein unvollständiger Debitorenstamm kann zu Fehlern bei der automatischen Steuerberechnung führen.*
      ➔ Неполная основная запись дебитора может привести к ошибкам при автоматическом расчете налогов.
+  4. *Der Debitorenstamm enthält die buchhalterischen Daten, wie beispielsweise das Abstimmkonto und die Zahlungsbedingungen.*
+     ➔ Основная запись дебитора содержит бухгалтерские данные, такие как контрольный счет и условия оплаты.
 
 ### 1871. der Geschäftspartner, die Geschäftspartner [🎥 YouGlish](https://de.youglish.com/pronounce/Gesch%C3%A4ftspartner/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32211,6 +32889,8 @@
      ➔ Нет, я ее... деловой партнер.
   5. *Mahaffey hat einen neuen Geschäftspartner dich.*
      ➔ Хорошо, теперь у Махаффи новый компаньон ты.
+  6. *In SAP S/4HANA werden Kunden und Lieferanten zentral als Geschäftspartner angelegt und verwaltet.*
+     ➔ В SAP S/4HANA клиенты и поставщики создаются и управляются централизованно как деловые партнеры.
 
 ### 1872. die GP-Rolle, die GP-Rollen [🎥 YouGlish](https://de.youglish.com/pronounce/GP-Rolle/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32228,6 +32908,8 @@
      ➔ Но если он оскорбил церковь, папа не стал бы его отпевать.
   5. *Sie bringen Arbeit mit nach Hause, Ihre Frau nimmt es Ihnen übel, grollt Ihnen.*
      ➔ Вы приносите работу домой и ваша жена начинает возмущаться этим, она недовольна вами.
+  6. *Über die GP-Rolle wird gesteuert, welche Registerkarten und Felder bei der Bearbeitung des Geschäftspartners angezeigt werden.*
+     ➔ С помощью роли делового партнера определяется, какие вкладки и поля отображаются при обработке делового партнера.
 
 ### 1873. die Kontengruppe, die Kontengruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Kontengruppe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32241,6 +32923,8 @@
      ➔ Третья основная группа затрат — это размещение и уход за косоварами, бежавшими в Германию.
   3. *Inzwischen hat der Controller einen Großteil des Klinikums darauf vorbereitet, rund 35000 verschiedene Diagnosen und Behandlungsarten in Kostengruppen einzuteilen und zu verschlüsseln.*
      ➔ Контролер уже подготовил большую часть клиники для классификации и кодирования около 35 000 различных диагнозов и видов лечения по группам затрат.
+  4. *Die Kontengruppe bestimmt den Nummernkreis und die Feldauswahl beim Anlegen eines neuen Stammsatzes.*
+     ➔ Группа счетов определяет диапазон номеров и выбор полей при создании новой основной записи.
 
 ### 1874. der Nummernkreis, die Nummernkreise [🎥 YouGlish](https://de.youglish.com/pronounce/Nummernkreis/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32254,6 +32938,8 @@
      ➔ Если диапазон номеров исчерпан, в системе больше нельзя создавать новые документы этого типа.
   3. *Der Administrator prüft, ob der Nummernkreis für Kundenaufträge überschneidungsfrei definiert ist.*
      ➔ Администратор проверяет, определен ли диапазон номеров для заказов клиентов без пересечений.
+  4. *Jedem Belegtyp muss im Customizing ein eindeutiger Nummernkreis zugewiesen werden.*
+     ➔ Каждому типу документа в настройках должен быть присвоен уникальный диапазон номеров.
 
 ### 1875. die Nachrichtenfindung, die Nachrichtenfindungen [🎥 YouGlish](https://de.youglish.com/pronounce/Nachrichtenfindung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32271,6 +32957,8 @@
      ➔ В новостях сказали, что ее имя Хлоя Джеффрис.
   5. *Wissen Sie, es war ja keine Nachrichtensendung.*
      ➔ Но, знаете, это не передача новостей.
+  6. *Die Nachrichtenfindung bestimmt automatisch das passende Ausgabeformat für ein Dokument, z. B. E-Mail oder Druck.*
+     ➔ Определение выходных документов автоматически определяет подходящий формат вывода для документа, например, электронную почту или печать.
 
 ### 1876. die Nachricht, die Nachrichten [🎥 YouGlish](https://de.youglish.com/pronounce/Nachricht/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32288,6 +32976,8 @@
      ➔ Хорошая новость в том, что не обязательно его игнорировать.
   5. *Wenn du die Nachricht überbringst... und ich lebe, was ich absolutvorhabe.*
      ➔ Если ты передашь послание и я выживу, чего бы очень хотелось.
+  6. *Eine Nachricht im Vertriebsbeleg dient dazu, Informationen wie Auftragsbestätigungen an den Kunden zu senden.*
+     ➔ Выходной документ в сбытовом документе служит для отправки клиенту такой информации, как подтверждение заказа.
 
 ### 1877. das Sendemedium, die Sendemedien [🎥 YouGlish](https://de.youglish.com/pronounce/Sendemedium/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32301,6 +32991,8 @@
      ➔ Вы можете изменить средство отправки в настройках сообщений на электронную почту или вывод на печать.
   3. *Das gewählte Sendemedium bestimmt, wie schnell der Kunde seine Bestellbestätigung erhält.*
      ➔ Выбранное средство отправки определяет, насколько быстро клиент получит подтверждение заказа.
+  4. *Als Sendemedium für den Lieferschein können Sie EDI, Drucker oder E-Mail im System konfigurieren.*
+     ➔ В качестве средства отправки для накладной в системе можно настроить EDI, принтер или электронную почту.
 
 ### 1878. der Drucker, die Drucker [🎥 YouGlish](https://de.youglish.com/pronounce/Drucker/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32318,6 +33010,8 @@
      ➔ Поэтому я принесла домой шесть принтеров и печатала сутками напролёт.
   5. *Er hat versucht Geld zu Fälschen mit einem Computer und einen Tinten Drucker.*
      ➔ Он пытался подделывать банкноты с помощью компьютера и струйного принтера.
+  6. *Im Benutzerprofil kann ein Standard-Drucker für die Ausgabe von Spool-Aufträgen hinterlegt werden.*
+     ➔ В профиле пользователя можно указать принтер по умолчанию для вывода запросов на печать.
 
 ### 1879. der Spool-Auftrag, die Spool-Aufträge [🎥 YouGlish](https://de.youglish.com/pronounce/Spool-Auftrag/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32331,6 +33025,8 @@
      ➔ Пожалуйста, удалите старые спул-запросы, чтобы освободить место на сервере приложений.
   3. *Aus dem Spool-Auftrag können wir das Dokument jederzeit als PDF-Datei exportieren.*
      ➔ Из спул-запроса мы можем в любой момент экспортировать документ в виде PDF-файла.
+  4. *Ein Spool-Auftrag wird erstellt, sobald ein Beleg für den physischen Druck freigegeben wird.*
+     ➔ Запрос на печать создается, как только документ деблокируется для физической печати.
 
 ### 1880. das Versanddokument, die Versanddokumente [🎥 YouGlish](https://de.youglish.com/pronounce/Versanddokument/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32344,6 +33040,8 @@
      ➔ К типичным отгрузочным документам относятся накладная, упаковочный лист и транспортная накладная.
   3. *Unser System druckt das Versanddokument automatisch aus, sobald der Warenausgang gebucht wird.*
      ➔ Наша система автоматически распечатывает отгрузочный документ, как только проводится отпуск товара.
+  4. *Das Versanddokument enthält alle relevanten Transportdaten und dient als Begleitpapier für die Lieferung.*
+     ➔ Отгрузочный документ содержит все релевантные транспортные данные и служит сопроводительным документом для поставки.
 
 ### 1881. der Lieferschein, die Lieferscheine [🎥 YouGlish](https://de.youglish.com/pronounce/Lieferschein/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32361,6 +33059,8 @@
      ➔ На принятые деньги или имущество, ты должна подготовить счета или квитанции.
   5. *Und es stand deutlich auf Lieferschein und Kisten.*
      ➔ Это было понятно по документам о доставке и по грузу.
+  6. *Der Lieferschein wird beim Warenausgang gedruckt und der Warensendung beigelegt.*
+     ➔ Накладная на поставку распечатывается при отпуске материала и прилагается к отправлению.
 
 ### 1882. die Frachtbrief, die Frachtbriefe [🎥 YouGlish](https://de.youglish.com/pronounce/Frachtbrief/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32374,6 +33074,8 @@
      ➔ Инструкции по уходу и кормёжке здесь - в коносаменте.
   3. *Dieses Übereinkommen findet keine Anwendung auf gezogene oder eigene Wechsel, Frachtbriefe, Konnossemente, Lagerscheine oder übertragbare Urkunden und Instrumente jeder Art, die den Inhaber oder Begünstigten berechtigen, die Lieferung von Waren oder die Zahlung eines Geldbetrags zu verlangen.*
      ➔ Настоящая Конвенция не применяется к переводным и простым векселям, транспортным накладным, коносаментам, складским распискам или любым оборотным документам или инструментам, которые дают предъявителю или бенефициару право потребовать поставки товаров или платежа денежной суммы.
+  4. *Der Frachtbrief dient als rechtliches Dokument für den Transport der Waren durch einen externen Spediteur.*
+     ➔ Транспортная накладная служит юридическим документом для перевозки товаров внешним экспедитором.
 
 ### 1883. die Packliste, die Packlisten [🎥 YouGlish](https://de.youglish.com/pronounce/Packliste/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32391,6 +33093,8 @@
      ➔ Важные адреса, переводы самых важных терминов по тематическим группам, упаковочный лист, чтобы все необходимое было под рукой — такая информация является хорошей традицией в книгах Womo.
   5. *An Bord des eisgängigen Segelschiffs "Mesuf" überprüft Professor Trinks die Packlisten*
      ➔ На борту ледового парусника «Месуф» профессор Тринкс проверяет упаковочные листы.
+  6. *Auf der Packliste sind alle in einer Sendung enthaltenen Materialien und deren Verpackungseinheiten aufgeführt.*
+     ➔ В упаковочном листе перечислены все материалы, содержащиеся в отправлении, и их упаковочные единицы.
 
 ### 1884. das Transportmittel, die Transportmittel [🎥 YouGlish](https://de.youglish.com/pronounce/Transportmittel/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32408,6 +33112,8 @@
      ➔ Мое транспортное средство сквозь время и пространство.
   5. *Wie wärs es, wenn wir Euch Transportmittel geben?*
      ➔ Что, если мы дадим вам транспорт?
+  6. *Das Transportmittel, beispielsweise ein Lkw oder Zug, muss in den Transportbelegen gepflegt werden.*
+     ➔ Транспортное средство, например, грузовик или поезд, должно быть указано в транспортных документах.
 
 ### 1885. die Route, die Routen [🎥 YouGlish](https://de.youglish.com/pronounce/Route/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32425,6 +33131,8 @@
      ➔ Найдите мне безопасный путь из этой гавани.
   5. *Wir sollten eine andere Route suchen, nur um sicher zu gehen.*
      ➔ Для безопасности мы найдем другой путь.
+  6. *Die Route definiert den geografischen Weg, den eine Lieferung vom Versandort zum Kunden nimmt.*
+     ➔ Маршрут определяет географический путь, который проходит поставка от места отгрузки до клиента.
 
 ### 1886. die Routenfindung, die Routenfindungen [🎥 YouGlish](https://de.youglish.com/pronounce/Routenfindung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32438,6 +33146,8 @@
      ➔ Ошибка в определении маршрута привела к тому, что поставка клиенту пришла на два дня позже.
   3. *Wir haben im Customizing neue Zonen definiert, um die Routenfindung für den Inlandsversand zu präzisieren.*
      ➔ Мы определили новые зоны в настройках системы, чтобы уточнить определение маршрутов для внутренних поставок.
+  4. *Die Routenfindung ermittelt basierend auf dem Abgangsort und der Empfängerregion die optimale Transportstrecke.*
+     ➔ Определение маршрута рассчитывает оптимальный транспортный путь на основе места отправления и региона получателя.
 
 ### 1887. die Versandbedingung, die Versandbedingungen [🎥 YouGlish](https://de.youglish.com/pronounce/Versandbedingung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32453,6 +33163,8 @@
      ➔ Проверенные магазины четко идентифицируются, раскрывают условия заказа и доставки, а также обеспечивают безопасную передачу данных.
   4. *Vorstehende Verkaufs- und Versandbedingungen gelten durch Aufgabe der Bestellung zwischen der Löwen-Apotheke Nürnberg und dem Bestellenden stillschweigend als rechtlich bindend vereinbart.*
      ➔ Вышеуказанные условия продажи и доставки считаются юридически обязательными при размещении заказа между Löwen-Apotheke Nürnberg и лицом, размещающим заказ.
+  5. *Die Versandbedingung wird aus dem Kundenstamm ermittelt und beeinflusst die Versandstellenfindung.*
+     ➔ Условие отгрузки определяется из основных данных клиента и влияет на выбор пункта отгрузки.
 
 ### 1888. die Ladegruppe, die Ladegruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Ladegruppe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32466,6 +33178,8 @@
      ➔ В основной записи материала группа погрузки является важным полем для определения пункта отгрузки.
   3. *Durch die richtige Zuweisung der Ladegruppe können die Logistikmitarbeiter die passenden Hebewerkzeuge bereitstellen.*
      ➔ Благодаря правильному присвоению группы погрузки сотрудники службы логистики могут подготовить подходящие подъемные механизмы.
+  4. *Die Ladegruppe im Materialstamm gibt an, welche Hilfsmittel für das Verladen des Materials benötigt werden.*
+     ➔ Группа погрузки в основных данных материала указывает, какие вспомогательные средства необходимы для погрузки материала.
 
 ### 1889. die Transportgruppe, die Transportgruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Transportgruppe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32479,6 +33193,8 @@
      ➔ Транспортная группа планирует открыть базы в Азии – ожидается рост рабочей силы на десять процентов
   3. *Nach dem Verkauf seiner Transportgruppe Traco verfügt Giribaldi über sehr erhebliche flüssige Mittel.*
      ➔ После продажи транспортной группы Traco у Гирибальди появились очень значительные ликвидные активы.
+  4. *Materialien mit ähnlichen Transportanforderungen werden im Materialstamm derselben Transportgruppe zugeordnet.*
+     ➔ Материалы с аналогичными требованиями к транспортировке присваиваются одной и той же транспортной группе в основных данных материала.
 
 ### 1890. das Belegflussschema, die Belegflussschemata [🎥 YouGlish](https://de.youglish.com/pronounce/Belegflussschema/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32492,6 +33208,8 @@
      ➔ Наш консультант анализирует схему потока документов, чтобы понять, почему некоторые счета были созданы дважды.
   3. *In SAP können wir über das Belegflussschema direkt in die jeweiligen Vorgängerbelege springen.*
      ➔ В SAP мы можем через схему потока документов переходить непосредственно в соответствующие предшествующие документы.
+  4. *Das Belegflussschema steuert die Verknüpfung und Historie der aufeinanderfolgenden Vertriebsbelege.*
+     ➔ Структура потока документов управляет связью и историей последовательных сбытовых документов.
 
 ### 1891. der Belegfluss, die Belegflüsse [🎥 YouGlish](https://de.youglish.com/pronounce/Belegfluss/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32505,6 +33223,8 @@
      ➔ Если какой-то шаг в процессе продаж пропускается, поток документов может выглядеть неполным.
   3. *Bitte überprüfen Sie den Belegfluss, um zu sehen, ob für diesen Auftrag bereits eine Lieferung erstellt wurde.*
      ➔ Пожалуйста, проверьте поток документов, чтобы узнать, была ли уже создана поставка для этого заказа.
+  4. *Über den Belegfluss können Sie den Status aller Vorgänger- und Nachfolgebelege eines Auftrags einsehen.*
+     ➔ Через поток документов вы можете просмотреть статус всех предшествующих и последующих документов по заказу.
 
 ### 1892. der Status, die Status [🎥 YouGlish](https://de.youglish.com/pronounce/Status/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32522,6 +33242,8 @@
      ➔ Давайте посмотрим на это состояние с нынешней точки.
   5. *Er erklärt seinen Status während des Kriegs.*
      ➔ Он объясняет своё положение в военные годы.
+  6. *Der Status eines Belegs ändert sich automatisch von 'offen' zu 'vollständig', sobald der Prozess abgeschlossen ist.*
+     ➔ Статус документа автоматически меняется с 'открыт' на 'завершен', как только процесс завершен.
 
 ### 1893. in Bearbeitung [🎥 YouGlish](https://de.youglish.com/pronounce/in%20Bearbeitung/german)
 - **Часть речи (Part of Speech):** Phrase
@@ -32539,6 +33261,8 @@
      ➔ 228 в процессе одобрения.
   5. *Der Haftbefehl für die Adresse ist in Bearbeitung.*
      ➔ Уоррант пытается достать адрес.
+  6. *Der Beleg befindet sich in Bearbeitung, da noch Freigaben oder Prüfungen ausstehen.*
+     ➔ Документ находится в процессе обработки, так как все еще ожидаются утверждения или проверки.
 
 ### 1894. das Retouren-Material, die Materialien [🎥 YouGlish](https://de.youglish.com/pronounce/Retouren-Material/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32552,6 +33276,8 @@
      ➔ Мы храним возвращаемый материал в специальной зоне блокировки до принятия решения о его дальнейшем использовании.
   3. *Die Erfassung für das Retouren-Material erfolgt über eine Rücklieferung mit Bezug zum ursprünglichen Auftrag.*
      ➔ Регистрация возвращаемого материала осуществляется через возвратную поставку со ссылкой на исходный заказ.
+  4. *Das Retouren-Material muss nach dem Wareneingang im Qualitätsprüfbestand geprüft werden.*
+     ➔ Возвращаемый материал после поступления должен быть проверен в запасе для контроля качества.
 
 ### 1895. die Gutschriftsanforderung, die Gutschriftsanforderungen [🎥 YouGlish](https://de.youglish.com/pronounce/Gutschriftsanforderung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32565,6 +33291,8 @@
      ➔ После проверки рекламации запрос на кредит-ноту был утвержден для проведения.
   3. *Die Gutschriftsanforderung mindert den ausstehenden Saldo auf dem Kundenkonto.*
      ➔ Запрос на кредит-ноту уменьшает непогашенное сальдо на счете клиента.
+  4. *Die Gutschriftsanforderung blockiert die Fakturierung, bis sie vom zuständigen Abteilungsleiter geprüft wurde.*
+     ➔ Запрос кредитового авизо блокирует фактурирование до тех пор, пока он не будет проверен руководителем профильного отдела.
 
 ### 1896. die Preiskondition, die Preiskonditionen [🎥 YouGlish](https://de.youglish.com/pronounce/Preiskondition/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32582,6 +33310,8 @@
      ➔ Поэтому университеты, больницы и бассейны хотят лучших ценовых условий от Bewag или других поставщиков электроэнергии.
   5. *Wenn Media-Agenturen für ihre jährlich zwei Millionen ausgestrahlten Spots Werbezeiten kaufen, wählen die dafür verantwortlichen TV-Optimierer aus über 200 000 Werbeblöcken und über 5000 Preiskonditionen aus.*
      ➔ Когда медиаагентства ежегодно покупают рекламное время для своих двух миллионов роликов, транслируемых каждый год, ответственные за это ТВ-оптимизаторы выбирают из более чем 200 000 рекламных блоков и более 5000 ценовых условий.
+  6. *Die Preiskondition bestimmt den Basispreis sowie eventuelle Rabatte und Zuschläge für ein Material.*
+     ➔ Ценовое условие определяет базовую цену, а также возможные скидки и наценки на материал.
 
 ### 1897. der Nettowert, die Nettowerte [🎥 YouGlish](https://de.youglish.com/pronounce/Nettowert/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32599,6 +33329,8 @@
      ➔ Чистый капитал этого списка гостей превышает ВВП большинства небольших стран.
   5. *Natürlich haben beide Protokolleinträge zusammen einen Nettowert von Null.*
      ➔ Естественно, обе записи регистра в сумме имеют нулевую чистую стоимость.
+  6. *Der Nettowert einer Auftragsposition berechnet sich aus dem Bruttopreis abzüglich aller vereinbarten Rabatte.*
+     ➔ Чистая стоимость позиции заказа рассчитывается как цена брутто за вычетом всех согласованных скидок.
 
 ### 1898. der Bruttowert, die Bruttowerte [🎥 YouGlish](https://de.youglish.com/pronounce/Bruttowert/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32612,6 +33344,8 @@
      ➔ В счете-фактуре сначала указывается чистая стоимость, а затем рассчитывается валовая стоимость.
   3. *Bei Überschreitung eines bestimmten Bruttowerts ist eine zusätzliche Genehmigung durch den Einkaufsvorstand erforderlich.*
      ➔ При превышении определенной валовой стоимости требуется дополнительное согласование со стороны директора по закупкам.
+  4. *Der Bruttowert enthält den Nettobetrag des Belegs zuzüglich der anfallenden Steuern.*
+     ➔ Стоимость брутто содержит чистую сумму документа плюс применимые налоги.
 
 ### 1899. die Währungsdifferenz, die Währungsdifferenzen [🎥 YouGlish](https://de.youglish.com/pronounce/W%C3%A4hrungsdifferenz/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32629,6 +33363,8 @@
      ➔ Трейдеры жаловались, что значительная часть увеличения продаж обусловлена ​​курсовыми разницами.
   5. *Gründe für die roten Zahlen seien die Währungsdifferenzen sowie die Neupositionierung von Pioneer weg vom Billiganbieter.*
      ➔ Причинами красных цифр являются валютные разницы и уход Pioneer от поставщика недорогих услуг.
+  6. *Bei Zahlungen in Fremdwährung bucht das System die entstandene Währungsdifferenz auf ein separates Aufwandskonto.*
+     ➔ При платежах в иностранной валюте система проводит возникшую валютную разницу на отдельный счет расходов.
 
 ### 1900. die Vertriebsbelege, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/Vertriebsbelege/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32642,6 +33378,8 @@
      ➔ Аудитор хочет выборочно просмотреть сбытовые документы за прошлый квартал.
   3. *Das Archivierungsprogramm bereinigt alte Vertriebsbelege, die seit mehr als fünf Jahren abgeschlossen sind.*
      ➔ Программа архивации очищает старые сбытовые документы, которые были закрыты более пяти лет назад.
+  4. *Vertriebsbelege umfassen Angebote, Kundenaufträge, Lieferungen und Fakturen.*
+     ➔ Сбытовые документы включают в себя коммерческие предложения, заказы клиентов, поставки и фактуры.
 
 ### 1901. die Liefertreue, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Liefertreue/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32659,6 +33397,8 @@
      ➔ Практически все детали компрессора производятся собственными силами, что гарантирует надежность поставок, качество и срок службы.
   5. *Dabei sind die Nachbarländer, was Qualität, Formgebung und Liefertreue angeht, von deutschen Produkten fasziniert.*
      ➔ Соседние страны восхищаются немецкой продукцией, когда дело касается качества, дизайна и надежности доставки.
+  6. *Die Liefertreue wird im System als Prozentsatz der termingerecht gelieferten Aufträge ausgewertet.*
+     ➔ Соблюдение сроков поставки оценивается в системе как процент заказов, поставленных в срок.
 
 
 ---
@@ -32677,6 +33417,8 @@
      ➔ Нам нужно активировать это приложение Fiori на панели запуска Fiori Launchpad для бухгалтерии.
   3. *Der Berater konfigurierte die Fiori-App gemäß den Anforderungen des Kunden.*
      ➔ Консультант настроил приложение Fiori в соответствии с требованиями клиента.
+  4. *Mit der Fiori-App können Benutzer Buchungsbelege direkt auf mobilen Endgeräten freigeben.*
+     ➔ С помощью приложения Fiori пользователи могут утверждать бухгалтерские документы прямо на мобильных устройствах.
 
 ### 1903. die Launchpad-Kachel, die Launchpad-Kacheln [🎥 YouGlish](https://de.youglish.com/pronounce/Launchpad-Kachel/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32690,6 +33432,8 @@
      ➔ При нажатии на плитку Launchpad открывается соответствующее приложение SAP.
   3. *Die Launchpad-Kachel zeigt dynamische Daten wie die Anzahl der offenen Aufgaben an.*
      ➔ Плитка Launchpad отображает динамические данные, такие как количество открытых задач.
+  4. *Durch Klicken auf die Launchpad-Kachel öffnet sich die entsprechende SAP-Anwendung im Webbrowser.*
+     ➔ При нажатии на плитку Launchpad в веб-браузере открывается соответствующее приложение SAP.
 
 ### 1904. die Benutzeroberfläche, die Benutzeroberflächen [🎥 YouGlish](https://de.youglish.com/pronounce/Benutzeroberfl%C3%A4che/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32707,6 +33451,8 @@
      ➔ цвет элемента пользовательского интерфейса изменяется на предварительно установленный цвет из цветовой схемы.
   5. *Es ist nicht zu sagen, einfache Benutzeroberfläche, funktionalen Prozess extrem schnell und einfach zu konfigurieren, erstaunliche Ergebnis der qualitativen Gesichtspunkten.*
      ➔ Существует не сказать, простой интерфейс, функциональные процесс очень быстро и легко настроить, удивительный результат с качественной точки зрения.
+  6. *Die moderne Fiori-Benutzeroberfläche zeichnet sich durch ein rollenbasiertes und responsives Design aus.*
+     ➔ Современный пользовательский интерфейс Fiori отличается ролевым и адаптивным дизайном.
 
 ### 1905. das Universal-Journal, die Universal-Journale [🎥 YouGlish](https://de.youglish.com/pronounce/Universal-Journal/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32720,6 +33466,8 @@
      ➔ Благодаря универсальному журналу отпадает необходимость в трудоемких выверках между главной книгой и учетом затрат.
   3. *Jede Buchung erzeugt im Universal-Journal einen Beleg mit detaillierten Kontierungsattributen.*
      ➔ Каждая проводка создает в универсальном журнале документ с подробными атрибутами контировки.
+  4. *Das Universal-Journal in SAP S/4HANA führt Finanzbuchhaltung und Controlling in einer Tabelle zusammen.*
+     ➔ Единый журнал проводок в SAP S/4HANA объединяет финансовую бухгалтерию и контроллинг в одной таблице.
 
 ### 1906. die In-Memory-Datenbank, die Datenbanken [🎥 YouGlish](https://de.youglish.com/pronounce/In-Memory-Datenbank/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32735,6 +33483,8 @@
      ➔ Однако, если база данных требует большой емкости хранилища, грид-вычисления могут преодолеть этот барьер для баз данных в памяти.
   4. *Redis ist eine In-Memory-Datenbank mit einer einfachen Schlüssel-Werte-Datenstruktur (englisch key value store) und gehört zur Familie der NoSQL-Datenbanken (ist also nicht relational).*
      ➔ Redis — это база данных в памяти с простой структурой данных «ключ-значение», принадлежащая к семейству баз данных NoSQL (т. е. она не является реляционной).
+  5. *Die SAP-HANA-Plattform basiert auf einer In-Memory-Datenbank, die extrem schnelle Datenanalysen ermöglicht.*
+     ➔ Платформа SAP HANA основана на базе данных в оперативной памяти, что обеспечивает экстремально быстрый анализ данных.
 
 ### 1907. die Echtzeit-Datenverarbeitung, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Echtzeit-Datenverarbeitung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32748,6 +33498,8 @@
      ➔ Благодаря технологии In-Memory обработка данных в реальном времени стала стандартом в современных ERP-системах.
   3. *Bei der Überwachung von Produktionsprozessen ist die Echtzeit-Datenverarbeitung für die Sicherheit unverzichtbar.*
      ➔ При мониторинге производственных процессов обработка данных в реальном времени незаменима для обеспечения безопасности.
+  4. *Die Echtzeit-Datenverarbeitung eliminiert zeitaufwändige Abstimmungsarbeiten am Periodenende.*
+     ➔ Обработка данных в реальном времени исключает трудоемкие работы по выверке в конце периода.
 
 ### 1908. die Spaltenorientierung, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Spaltenorientierung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32761,6 +33513,8 @@
      ➔ При аналитических запросах столбцовое ориентирование дает значительные преимущества в скорости по сравнению с классическими строчными базами данных.
   3. *Entwickler müssen verstehen, wie die Spaltenorientierung die Indexierung und Suche im System beeinflusst.*
      ➔ Разработчики должны понимать, как ориентирование по столбцам влияет на индексацию и поиск в системе.
+  4. *Dank der Spaltenorientierung in SAP HANA können relationale Tabellen stark komprimiert werden.*
+     ➔ Благодаря колоночному хранению данных в SAP HANA реляционные таблицы могут быть сильно сжаты.
 
 ### 1909. die Zeilenorientierung, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Zeilenorientierung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32774,6 +33528,8 @@
      ➔ Традиционные реляционные базы данных используют ориентирование по строкам для быстрого вызова и изменения отдельных документов.
   3. *Im Vergleich zur Spaltenorientierung verbraucht die Zeilenorientierung bei Abfragen über wenige Spalten hinweg mehr Rechenleistung.*
      ➔ По сравнению с ориентированием по столбцам, ориентирование по строкам при запросах к немногим столбцам расходует больше вычислительной мощности.
+  4. *Die Zeilenorientierung wird im System vor allem für Tabellen verwendet, bei denen häufig einzelne Datensätze geändert werden.*
+     ➔ Построчное хранение данных используется в системе прежде всего для таблиц, в которых часто изменяются отдельные записи данных.
 
 ### 1910. die Tabelle, die Tabellen [🎥 YouGlish](https://de.youglish.com/pronounce/Tabelle/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32791,6 +33547,8 @@
      ➔ Щелкните лист, с которого нужно снять защиту.
   5. *Zeigt alle Felder an, die in die neue Tabelle aufgenommen werden.*
      ➔ Отображает все поля, которые будут включены в новую таблицу.
+  6. *Die Tabelle ACDOCA enthält alle Buchungszeilen des Universal-Journals.*
+     ➔ Таблица ACDOCA содержит все строки проводок единого журнала.
 
 ### 1911. das Datenmodell, die Datenmodelle [🎥 YouGlish](https://de.youglish.com/pronounce/Datenmodell/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32806,6 +33564,8 @@
      ➔ и поскольку я был единственным членом экипажа, который мог выжить в агрессивной атмосфере, мне было поручено забрать модуль данных и спасти положение.
   4. *Das Utility hilft Ihnen, den verlorenen Quellcode sowie alle Formulare und Datenmodule mit allen zugeordneten Eigenschaften und Ereignisse wiederherzustellen.*
      ➔ Восстановите утерянный исходный код из исполняемых файлов. Source Rescuer поможет вам восстановить все формы проекта и модули данных со всеми присвоенными свойствами и событиями.
+  5. *Das neue Datenmodell reduziert die Anzahl der Tabellen durch den Wegfall von Aggregaten drastisch.*
+     ➔ Новая модель данных кардинально сокращает количество таблиц за счет исключения агрегированных данных.
 
 ### 1912. die Redundanz, die Redundanzen [🎥 YouGlish](https://de.youglish.com/pronounce/Redundanz/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32823,6 +33583,8 @@
      ➔ Положение и направление полёта автоматически поддерживают несколько независимых и взаимно контролируемых компьютеров (резервирование), управляя индивидуальной скоростью вращения каждого двигателя.
   5. *Wozu brauche ich eine solche Redundanz?*
      ➔ Зачем нужно такое дублирование? Это же ваши файлы.
+  6. *Durch die Beseitigung von Redundanz im Datenmodell wird der Speicherplatzbedarf im System verringert.*
+     ➔ За счет устранения избыточности в модели данных снижается необходимость системы в дисковой памяти.
 
 ### 1913. redundanzfrei [🎥 YouGlish](https://de.youglish.com/pronounce/redundanzfrei/german)
 - **Часть речи (Part of Speech):** Adjective
@@ -32836,6 +33598,8 @@
      ➔ Когда данные хранятся без избыточности, риск противоречий при обновлениях значительно снижается.
   3. *Durch die Konsolidierung der Vorsysteme konnten wir unsere Berichterstattung weitgehend redundanzfrei gestalten.*
      ➔ Благодаря консолидации исходных систем мы смогли сделать нашу отчетность в значительной степени свободной от избыточности.
+  4. *Die Architektur von SAP S/4HANA erlaubt eine weitgehend redundanzfreie Speicherung von Finanzdaten.*
+     ➔ Архитектура SAP S/4HANA позволяет хранить финансовые данные практически без избыточности.
 
 ### 1914. das Hauptbuch-Journal, die Journale [🎥 YouGlish](https://de.youglish.com/pronounce/Hauptbuch-Journal/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32849,6 +33613,8 @@
      ➔ Аудитор экспортирует журнал Главной книги для проверки соблюдения правил бухгалтерского учета.
   3. *Jede Buchung im Hauptbuch-Journal muss durch einen entsprechenden Beleg nachgewiesen werden.*
      ➔ Каждая проводка in журнале Главной книги должна быть подтверждена соответствующим первичным документом.
+  4. *Jede Buchung im Hauptbuch-Journal erzeugt sofort einen Eintrag in den betroffenen Ledger-Tabellen.*
+     ➔ Каждая проводка в журнале главной книги немедленно создает запись в соответствующих таблицах регистров.
 
 ### 1915. die Einzelposten-Tabelle, die Tabellen [🎥 YouGlish](https://de.youglish.com/pronounce/Einzelposten-Tabelle/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32862,6 +33628,8 @@
      ➔ Чтобы провести глубокий анализ маркетинговых расходов, нам нужно извлечь данные напрямую из таблицы отдельных позиций.
   3. *Eine Abfrage auf die Einzelposten-Tabelle kann bei sehr großen Datenmengen einige Minuten in Anspruch nehmen.*
      ➔ Запрос к таблице отдельных позиций при очень больших объемах данных может занять несколько минут.
+  4. *Die Einzelposten-Tabelle speichert alle granularen Informationen zu jeder Buchungstransaktion.*
+     ➔ Таблица позиций документа сохраняет всю детализированную информацию по каждой транзакции проводки.
 
 ### 1916. die Aggregation, die Aggregationen [🎥 YouGlish](https://de.youglish.com/pronounce/Aggregation/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32879,6 +33647,8 @@
      ➔ Композиция - более строгий вариант агрегации.
   5. *Happy, ein Aggregation Router der 2000er Serie wird über Nacht aus Berlin geschickt.*
      ➔ Аггрегационный машрутизатор серии 2000 будет доставлен завтра из Берлина.
+  6. *Die Aggregationslogik wird on-the-fly ausgeführt, wodurch vordefinierte Summentabellen überflüssig werden.*
+     ➔ Логика агрегации выполняется 'на лету', благодаря чему предопределенные суммарные таблицы становятся ненужными.
 
 ### 1917. aggregieren [🎥 YouGlish](https://de.youglish.com/pronounce/aggregieren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -32899,6 +33669,8 @@
      ➔ Индекс отражает ИЧР среднестатистического человека в обществе, что меньше, чем совокупный ИЧР, если существует неравенство в распределении здоровья, образования и дохода.
   5. *Die aggregierte Nachfragekurve zeigt die Kombination des Preisniveaus und der Menge, bei der sich Güter- und Geldmarkt im Gleichgewicht befinden.*
      ➔ Кривая совокупного спроса AD показывает комбинации уровня цен и уровня выпуска, при которых рынки товаров и рынки активов находятся в равновесии.
+  6. *Das System kann Daten über verschiedene Dimensionen hinweg in Echtzeit aggregieren.*
+     ➔ Система может агрегировать данные по различным измерениям в режиме реального времени.
 
 ### 1918. der Index, die Indizes [🎥 YouGlish](https://de.youglish.com/pronounce/Index/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32916,6 +33688,8 @@
      ➔ Я нашла несколько случаев, схожих с нашим в медицинском каталоге.
   5. *Wenn Sie mich brauchen, sagen Sie "Index".*
      ➔ Если я вам понадоблюсь, скажите «Указатель».
+  6. *Ein sekundärer Index wird im Datenbanksystem angelegt, um Suchanfragen zu beschleunigen.*
+     ➔ В системе баз данных создается вторичный индекс для ускорения поисковых запросов.
 
 ### 1919. der Performance-Gewinn, die Performance-Gewinne [🎥 YouGlish](https://de.youglish.com/pronounce/Performance-Gewinn/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32933,6 +33707,8 @@
      ➔ Только когда приложение обращается к диску без буферизации, происходит небольшой, но все же заметный прирост производительности.
   5. *Da die reale Anwendungswelt nicht nur aus linearen Speicherzugriffen besteht, blieb der Performance-Gewinn eher bescheiden.*
      ➔ Поскольку реальный мир приложений состоит не только из линейного доступа к памяти, прирост производительности остался довольно скромным.
+  6. *Der Performance-Gewinn nach der Migration auf SAP S/4HANA zeigt sich besonders bei komplexen Berichten.*
+     ➔ Прирост производительности после миграции на SAP S/4HANA особенно заметен на сложных отчетах.
 
 ### 1920. die Ladezeit, die Ladezeiten [🎥 YouGlish](https://de.youglish.com/pronounce/Ladezeit/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32950,6 +33726,8 @@
      ➔ Что? Джеймс Мэй, на сколько тебе хватило восьмичасовой зарядки?
   5. *Die Defragmentierung, würde in der Theorie, den Inhalt (Datenfelder machen) der einzelnen Datei gespeichert werden am nächsten Ladezeiten und Suche zu reduzieren.*
      ➔ Defrag, в теории, сделает содержимое (поле данных) для каждого файла хранятся ближайших сократить время загрузки и поиска.
+  6. *Die Ladezeit von Dashboards im Launchpad hängt von der Anzahl der aktiven dynamischen Kacheln ab.*
+     ➔ Время загрузки панелей в Launchpad зависит от количества активных динамических плиток.
 
 ### 1921. die Cloud-Variante, die Cloud-Varianten [🎥 YouGlish](https://de.youglish.com/pronounce/Cloud-Variante/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32963,6 +33741,8 @@
      ➔ Облачный вариант предлагает то преимущество, что обновления устанавливаются разработчиком ПО автоматически и регулярно.
   3. *Für kleinere Niederlassungen ist die Cloud-Variante oft die flexibelste und kostengünstigste Lösung.*
      ➔ Для небольших филиалов облачный вариант часто является самым гибким и экономически выгодным решением.
+  4. *Die Cloud-Variante von SAP S/4HANA wird vierteljährlich mit neuen Updates und Innovationen versorgt.*
+     ➔ Облачная версия SAP S/4HANA ежеквартально снабжается новыми обновлениями и инновациями.
 
 ### 1922. die On-Premise-Variante, die On-Premise-Varianten [🎥 YouGlish](https://de.youglish.com/pronounce/On-Premise-Variante/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32976,6 +33756,8 @@
      ➔ При локальном варианте мы сами несем ответственность за аппаратную инфраструктуру и безопасность данных.
   3. *Die Anpassungsmöglichkeiten im Quellcode sind bei der On-Premise-Variante in der Regel weitaus umfangreicher.*
      ➔ Возможности адаптации исходного кода в локальном варианте, как правило, гораздо шире.
+  4. *Die On-Premise-Variante bietet Kunden maximale Flexibilität bei der Modifikation des Quellcodes.*
+     ➔ Локальная версия (On-Premise) предоставляет клиентам максимальную гибкость при модификации исходного кода.
 
 ### 1923. die Hybrid-Lösung, die Hybrid-Lösungen [🎥 YouGlish](https://de.youglish.com/pronounce/Hybrid-L%C3%B6sung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -32993,6 +33775,8 @@
      ➔ Telelinks Cardline Twin же представляет собой гибридное решение для слота PCMCIA.
   5. *Wer sich nicht zwischen einem Laptop und einem Tablet-PC entscheiden kann, dem will Asus mit dem EeePad Slider eine neue Hybrid-Lösung anbieten.*
      ➔ Тем, кто не может выбрать между ноутбуком и планшетом, Asus хочет предложить новое гибридное решение — EeePad Slider.
+  6. *Eine Hybrid-Lösung kombiniert die Vorteile von On-Premise-Systemen mit agilen Cloud-Anwendungen.*
+     ➔ Гибридное решение объединяет преимущества локальных систем с гибкими облачными приложениями.
 
 ### 1924. die Fiori-Kachel, die Fiori-Kacheln [🎥 YouGlish](https://de.youglish.com/pronounce/Fiori-Kachel/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33006,6 +33790,8 @@
      ➔ Вы можете располагать и группировать плитки Fiori на своей начальной странице по собственному желанию.
   3. *Die dynamische Fiori-Kachel zeigt direkt auf der Oberfläche die Anzahl der aktuell offenen Aufgaben an.*
      ➔ Динамическая плитка Fiori показывает количество текущих открытых задач прямо на своем интерфейсе.
+  4. *Jede Fiori-Kachel repräsentiert eine bestimmte Transaktion oder einen KPI im Fiori Launchpad.*
+     ➔ Каждая плитка Fiori представляет собой определенную транзакцию или ключевой показатель эффективности на панели запуска Fiori.
 
 ### 1925. das Launchpad, die Launchpads [🎥 YouGlish](https://de.youglish.com/pronounce/Launchpad/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33021,6 +33807,8 @@
      ➔ Сайты Launchpad и SourceForge предлагают свободный хостинг для проектов, которые используют Bazaar.
   4. *Während der Show verwendet er neben seinen Launchpads auch Novation's SL MKII, FL Studio und Ableton Live.*
      ➔ Во время живых выступлений, помимо лаунчпада, он так же использует Zero SL MKII, FL Studio, и Ableton Live.
+  5. *Das Fiori Launchpad dient als zentraler Einstiegspunkt für alle SAP-Benutzer im Unternehmen.*
+     ➔ Fiori Launchpad служит единой точкой входа для всех пользователей SAP на предприятии.
 
 ### 1926. die App-Gruppe, die App-Gruppen [🎥 YouGlish](https://de.youglish.com/pronounce/App-Gruppe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33034,6 +33822,8 @@
      ➔ Благодаря логической группе приложений сотрудники находят все важные для них инструменты в одном центральном месте.
   3. *Sie können eine App-Gruppe in den Launchpad-Einstellungen ausblenden, wenn Sie diese nicht täglich benötigen.*
      ➔ Вы можете скрыть группу приложений в настройках панели запуска, если она не нужна вам каждый день.
+  4. *Der Administrator kann eine App-Gruppe erstellen, um verwandte Apps für bestimmte Benutzerrollen zusammenzufassen.*
+     ➔ Администратор может создать группу приложений для объединения связанных приложений для определенных ролей пользователей.
 
 ### 1927. der App-Store, die App-Stores [🎥 YouGlish](https://de.youglish.com/pronounce/App-Store/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33051,6 +33841,8 @@
      ➔ Есть вещь, которую я не люблю в айпаде - это то, что ты не можешь легко установить приложения, которые не доступны через Аппстор.
   5. *Und jetzt Conrad wird die Welt verändern als er auf dem App-Store geht live in drei, zwei...*
      ➔ Приготовьтесь, Ваша жизнь изменится со стартом продаж Конрада в эппстор через три, две...
+  6. *In der App-Bibliothek oder im App-Store können zusätzliche SAP-Standard-Apps gesucht werden.*
+     ➔ В библиотеке или магазине приложений можно найти дополнительные стандартные приложения SAP.
 
 ### 1928. die Personalisierung, die Personalisierungen [🎥 YouGlish](https://de.youglish.com/pronounce/Personalisierung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33068,6 +33860,8 @@
      ➔ И даже персонализация - это то, начало чего мы здесь видим, будь то персонализированная подача материала или целенаправленные комментарии и сообщения об ошибках.
   5. *Und ich glaube totale Personalisierung in dieser neuen Welt bedarf totaler Transparenz.*
      ➔ И я думаю, что полная персонализация в этом новом мире потребует полной прозрачности.
+  6. *Über die Personalisierung kann der Anwender sein Launchpad individuell anpassen und Favoriten anlegen.*
+     ➔ С помощью персонализации пользователь может индивидуально настроить панель запуска и создать избранное.
 
 ### 1929. personalisieren [🎥 YouGlish](https://de.youglish.com/pronounce/personalisieren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -33088,6 +33882,8 @@
      ➔ Мы все знакомы с идеей работы под заказ или персонализации.
   5. *Und ich wollte das einfach nur personalisieren.*
      ➔ И я просто хотела персонифицировать это.
+  6. *Benutzer können das Erscheinungsbild der Oberfläche nach eigenen Vorlieben personalisieren.*
+     ➔ Пользователи могут персонализировать внешний вид интерфейса в соответствии со своими предпочтениями.
 
 ### 1930. das Dashboard, die Dashboards [🎥 YouGlish](https://de.youglish.com/pronounce/Dashboard/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33105,6 +33901,8 @@
      ➔ В случае бронирования вашего отеля на одной из платформ, наша система получит уведомление и автоматически добавит новую резервацию на Панель Резерваций, а так же синхронизует информацию о доступности отеля с другими подключенными платформами, таким образом, исключив возможности овербукинга отеля.
   5. *Verwalten und veröffentlichen alle nachfolgenden Inserate von Ihrem benutzerdefinierten Dashboard.*
      ➔ Управление и опубликовать все последующие списки настраиваемые панели.
+  6. *Das Dashboard zeigt dem Vertriebsleiter eine Übersicht über die aktuellen Umsatzzahlen und Lieferrückstände.*
+     ➔ Информационная панель показывает руководителю отдела сбыта обзор текущих показателей выручки и отставаний по поставкам.
 
 ### 1931. die Kennzahl, die Kennzahlen [🎥 YouGlish](https://de.youglish.com/pronounce/Kennzahl/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33122,6 +33920,8 @@
      ➔ Скажем, у нас появилось новое число - долг Африки, например.
   5. *So machen in Mexiko Hypothekenschulden weniger als 10% des BIP aus, verglichen mit ca. 50% in Europa und 82% in den USA - eine Kennzahl, die sich in den letzten zwei Jahrzehnten mehr als vervierfacht hat.*
      ➔ Например, в Мексике долг по ипотекам составляет менее 10% ВВП, около 50% ВВП он составляет в Европе и 82% в США - соотношение, которое увеличилось более чем в четыре раза за последние двадцать лет.
+  6. *Die Kennzahl 'Tage des ausstehenden Umsatzes' (DSO) wird im Finanz-Dashboard in Echtzeit berechnet.*
+     ➔ Ключевой показатель 'период оборачиваемости дебиторской задолженности' (DSO) рассчитывается на финансовой панели в реальном времени.
 
 ### 1932. die Echtzeit-Analyse, die Echtzeit-Analysen [🎥 YouGlish](https://de.youglish.com/pronounce/Echtzeit-Analyse/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33135,6 +33935,8 @@
      ➔ Анализ в реальном времени помогает руководству мгновенно реагировать на внезапные изменения рынка или дефицит поставок.
   3. *Das neue Dashboard bietet eine visuelle Echtzeit-Analyse aller laufenden Kundenprojekte.*
      ➔ Новая панель управления предлагает визуальный анализ в реальном времени всех текущих проектов клиентов.
+  4. *Eine Echtzeit-Analyse ermöglicht es, finanzielle Engpässe sofort bei ihrem Entstehen zu erkennen.*
+     ➔ Аналитика в реальном времени позволяет выявлять финансовые трудности непосредственно в момент их возникновения.
 
 ### 1933. die Suchfunktion, die Suchfunktionen [🎥 YouGlish](https://de.youglish.com/pronounce/Suchfunktion/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33152,6 +33954,8 @@
      ➔ Поиск это замечательно, если ты знаешь что ищешь.
   5. *Es gibt auch eine Suchfunktion, falls man an einer bestimmten Bevölkerung interessiert ist.*
      ➔ Здесь также имеется возможность поиска, если вам интересно узнать об определенных группах людей.
+  6. *Die integrierte Suchfunktion im Launchpad durchsucht sowohl Belege als auch Stammdaten.*
+     ➔ Встроенная функция поиска на панели запуска ищет как документы, так и основные данные.
 
 ### 1934. die Enterprise-Search, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Enterprise-Search/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33165,6 +33969,8 @@
      ➔ Корпоративный поиск ищет введенное имя клиента одновременно по всем таблицам и модулям.
   3. *Dank der Enterprise-Search sparen unsere Sachbearbeiter täglich viel Zeit bei der Recherche von Vorgängen.*
      ➔ Благодаря корпоративному поиску наши специалисты ежедневно экономят много времени при поиске информации о процессах.
+  4. *Mit der Enterprise-Search können Sie systemübergreifend nach Stichworten wie Materialnummern oder Kundennamen suchen.*
+     ➔ С помощью глобального поиска Enterprise Search вы можете выполнять поиск по всей системе по ключевым словам, таким как номера материалов или имена клиентов.
 
 ### 1935. der Filter, die Filter [🎥 YouGlish](https://de.youglish.com/pronounce/Filter/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33182,6 +33988,8 @@
      ➔ Фильтр также может быть адаптирована для бутылок воды нормальное.
   5. *Filter werden nur innerhalb eines Dokuments an ein Bild angewandt.*
      ➔ Фильтры применяются к изображению только внутри документа.
+  6. *Sie können einen Filter setzen, um die Belegliste auf eine bestimmte Verkaufsorganisation einzuschränken.*
+     ➔ Вы можете применить фильтр, чтобы ограничить список документов определенной сбытовой организацией.
 
 ### 1936. filtern [🎥 YouGlish](https://de.youglish.com/pronounce/filtern/german)
 - **Часть речи (Part of Speech):** Verb
@@ -33202,6 +34010,8 @@
      ➔ Выберите этот параметр, чтобы отфильтровать запрос по всем условиям с использованием логического "И".
   5. *Eurer Kreislaufsystem hat die Fähigkeit entwickelt, die Strahlung zu filtern.*
      ➔ Ваша кровеносная система выработала возможность фильтрации радиации.
+  6. *In dieser App können Sie die offenen Posten nach Fälligkeitsdatum filtern.*
+     ➔ В этом приложении вы можете отфильтровать открытые позиции по сроку оплаты.
 
 ### 1937. die Variante, die Varianten [🎥 YouGlish](https://de.youglish.com/pronounce/Variante/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33219,6 +34029,8 @@
      ➔ Последняя на сегодняшний день версия формата "American Idol", которая появилась в Афганистане совсем недавно - новая программа под названием «Кандидат».
   5. *Eine Variante dieses Gens gibt es auch bei normalen Menschen.*
      ➔ И разновидность этого гена есть и у нормальных людей.
+  6. *Sie können die Filtereinstellungen als Variante speichern, um sie beim nächsten App-Start wiederzuverwenden.*
+     ➔ Вы можете сохранить настройки фильтра в качестве варианта выбора, чтобы использовать их снова при следующем запуске приложения.
 
 ### 1938. die Ansicht, die Ansichten [🎥 YouGlish](https://de.youglish.com/pronounce/Ansicht/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33236,6 +34048,8 @@
      ➔ Но этот вид из окна, сочетание зданий должно быть уникальным.
   5. *Meiner Ansicht nach sind diese Zinssätze zu niedrig.*
      ➔ На мой взгляд, такие процентные ставки были бы слишком низки.
+  6. *Die Ansicht der Tabelle kann durch das Hinzufügen oder Ausblenden von Spalten angepasst werden.*
+     ➔ Представление таблицы можно настроить, добавив или скрыв столбцы.
 
 ### 1939. das Layout, die Layouts [🎥 YouGlish](https://de.youglish.com/pronounce/Layout/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33253,6 +34067,8 @@
      ➔ В то время, все фотографии в альбом будет включено в эту статью, макет будет автоматическим.
   5. *Außerdem ist das Layout schon fertig.*
      ➔ К тому же, газета уже вышла.
+  6. *Das benutzerdefinierte Layout kann als Standard für alle zukünftigen Berichtsaufrufe definiert werden.*
+     ➔ Пользовательский формат отображения (макет) может быть задан по умолчанию для всех последующих вызовов отчетов.
 
 ### 1940. die Spalte, die Spalten [🎥 YouGlish](https://de.youglish.com/pronounce/Spalte/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33270,6 +34086,8 @@
      ➔ Я представляю себе щель как у женщины.
   5. *Entfernt diese Spalte und alle ihre Einträge.*
      ➔ Удалить этот столбец и все его содержимое.
+  6. *Die Spalte 'Buchungskreis' ist ein obligatorischer Bestandteil dieses Finanzberichts.*
+     ➔ Столбец 'Балансовая единица' является обязательным компонентом этого финансового отчета.
 
 ### 1941. die Zeile, die Zeilen [🎥 YouGlish](https://de.youglish.com/pronounce/Zeile/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33287,6 +34105,8 @@
      ➔ И я рассчитываю просмотреть каждую строчку этой сделки...
   5. *Plötzlich schrieb er wieder, eine erste Zeile auf der letzten Seite.*
      ➔ Внезапно он снова написал, первую строку на последней странице.
+  6. *Jede Zeile in dieser Tabelle entspricht einer Buchungszeile im Beleg.*
+     ➔ Каждая строка в этой таблице соответствует строке проводки в документе.
 
 ### 1942. sortieren [🎥 YouGlish](https://de.youglish.com/pronounce/sortieren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -33307,6 +34127,8 @@
      ➔ Ну, если ты хочешь чего-нибудь поделать, ты и твоя девушка можете помочь отсортировать эти пожертвования.
   5. *Ich muss allein sein, um all die Informationen zu sortieren.*
      ➔ Я хочу побыть один, чтобы во всем разобраться.
+  6. *Sie können die Debitorenliste nach dem ausstehenden Saldo sortieren.*
+     ➔ Вы можете отсортировать список дебиторов по сумме непогашенного сальдо.
 
 ### 1943. die Sortierung, die Sortierungen [🎥 YouGlish](https://de.youglish.com/pronounce/Sortierung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33324,6 +34146,8 @@
      ➔ Затем мы используем оптическую сортировку, чтобы отобрать по цвету этот материал.
   5. *Weitere ausgewählte auf der Grundlage unserer Mango, nicht die Verpackung und Sortierung nur die übergeordneten Mango.*
      ➔ Дальнейшее выбраны на основе наших манго, делать по упаковке и сортировке только высшего уровня, манго.
+  6. *Die Sortierung der Belege erfolgt standardmäßig in absteigender Reihenfolge nach dem Buchungsdatum.*
+     ➔ Сортировка документов по умолчанию выполняется по убыванию даты проводки.
 
 ### 1944. gruppieren [🎥 YouGlish](https://de.youglish.com/pronounce/gruppieren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -33344,6 +34168,8 @@
      ➔ Ангелы всё ещё группируются.
   5. *In diesem Fall könnte die FARC die Friedensverhandlungen dazu benutzen - wie sie das in der Vergangenheit mehrmals getan hat -, Zeit zu gewinnen, sich wieder zu bewaffnen und neu zu gruppieren.*
      ➔ В этом случае, FARC может использовать мирные переговоры - как уже неоднократно случалось - чтобы выгадать время, перевооружиться и перегруппироваться.
+  6. *Sie können die Ergebnisse nach Produktkategorie gruppieren, um eine bessere Übersicht zu erhalten.*
+     ➔ Вы можете сгруппировать результаты по категориям продуктов для получения более удобного обзора.
 
 ### 1945. die Gruppierung, die Gruppierungen [🎥 YouGlish](https://de.youglish.com/pronounce/Gruppierung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33361,6 +34187,8 @@
      ➔ Вывод списка полей, которые используются для сортировки или группировки.
   5. *Jene sind die Gruppierung des Satans.*
      ➔ Они - партия сатаны.
+  6. *Die Gruppierung von Posten erleichtert die Durchführung von Massenänderungen im System.*
+     ➔ Группировка позиций облегчает выполнение массовых изменений в системе.
 
 ### 1946. der Export, die Exporte [🎥 YouGlish](https://de.youglish.com/pronounce/Export/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33378,6 +34206,8 @@
      ➔ Мы пытаемся накормить своих людей, а ты говоришь об экспорте.
   5. *Die hergestellten Milchprodukte gehen zum Teil in den Export.*
      ➔ Большая часть производимых лесоматериалов идёт на экспорт.
+  6. *Der Export von Berichtsdaten wird über eine Standard-Schaltfläche in der Symbolleiste gestartet.*
+     ➔ Экспорт данных отчета запускается с помощью стандартной кнопки на панели инструментов.
 
 ### 1947. exportieren [🎥 YouGlish](https://de.youglish.com/pronounce/exportieren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -33398,6 +34228,8 @@
      ➔ Экспорт и импорт отдельных объектов
   5. *Die Peripherie kann erst wieder wachsen, wenn es ihr gelingt, mehr zu exportieren.*
      ➔ Периферия может снова вырасти, только если ей удастся больше экспортировать.
+  6. *Sie können die berechneten Daten direkt in eine Excel-Tabelle exportieren.*
+     ➔ Вы можете экспортировать рассчитанные данные напрямую в таблицу Excel.
 
 ### 1948. die Excel-Tabelle, die Excel-Tabellen [🎥 YouGlish](https://de.youglish.com/pronounce/Excel-Tabelle/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33415,6 +34247,8 @@
      ➔ Фактически именно люди зарабатывают и теряют деньги, а не таблицы Excel.
   5. *Wenn Sie eine Excel Tabelle öffnen, welche indirekte Adressen aus Zeichenkettenfunktionen enthält, werden die Tabellenblatt-Adressen nicht automatisch übersetzt.*
      ➔ При открытии электронной таблицы Excel, в которой используются косвенные адреса, рассчитанные с помощью строковых функций, автоматическое преобразование адресов листа не выполняется.
+  6. *Nach dem Download wird die Liste als formatierte Excel-Tabelle auf Ihrem lokalen Rechner gespeichert.*
+     ➔ После загрузки список сохраняется на вашем локальном компьютере в виде отформатированной таблицы Excel.
 
 ### 1949. das SAP GUI, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/SAP%20GUI/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33432,6 +34266,8 @@
      ➔ SAP планирует удвоить количество работников в Китае
   5. *SAP will Zahl der Mitarbeiter in China verdoppeln*
      ➔ SAP планирует удвоить количество работников в Китае
+  6. *Das klassische SAP GUI wird weiterhin für administrative Aufgaben im Backend-System verwendet.*
+     ➔ Классический интерфейс SAP GUI по-прежнему используется для административных задач в бэкэнд-системе.
 
 ### 1950. die Transaktion, die Transaktionen [🎥 YouGlish](https://de.youglish.com/pronounce/Transaktion/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33449,6 +34285,8 @@
      ➔ Ключевым этапом является регистрация новой транзакции в этой книге.
   5. *Tom, eine Transaktion in dieser Größe in bar ist höchst vorschriftswidrig.*
      ➔ Том, операция с наличными в таком объеме, - это неправильно.
+  6. *Jede Transaktion im System ist über einen eindeutigen vierstelligen Code aufrufbar.*
+     ➔ Каждая транзакция в системе может быть вызвана с помощью уникального четырехзначного кода.
 
 ### 1951. der Transaktionscode, die Transaktionscodes [🎥 YouGlish](https://de.youglish.com/pronounce/Transaktionscode/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33462,6 +34300,8 @@
      ➔ Опытные пользователи SAP часто используют код транзакции вместо того, чтобы перемещаться по меню с помощью кликов.
   3. *Der Administrator hat den Transaktionscode für die Systemeinstellungen für normale Benutzer gesperrt.*
      ➔ Администратор заблокировал код транзакции системных настроек для обычных пользователей.
+  4. *Geben Sie den Transaktionscode SPRO in das Befehlsfeld ein, um in das Customizing-Menü zu gelangen.*
+     ➔ Введите код транзакции SPRO в поле ввода команд, чтобы перейти в меню настройки.
 
 ### 1952. das Befehlsfeld, die Befehlsfelder [🎥 YouGlish](https://de.youglish.com/pronounce/Befehlsfeld/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33475,6 +34315,8 @@
      ➔ Я сейчас, в комнате наблюдения.
   3. *Nach der Auswahl rufen wir Decorator aus dem Menü des Programms mit der Befehlsfolge Filter > AKVIS > Decorator auf.*
      ➔ Вызовем плагин Decorator из меню фоторедактора. Filter > AKVIS > Decorator.
+  4. *Im Befehlsfeld von SAP GUI können Sie mit dem Präfix '/n' eine neue Transaktion starten.*
+     ➔ В поле ввода команд SAP GUI вы можете запустить новую транзакцию с помощью префикса '/n'.
 
 ### 1953. der Report, die Reports [🎥 YouGlish](https://de.youglish.com/pronounce/Report/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33492,6 +34334,8 @@
      ➔ Это вы делали "Репортаж 24", верно?
   5. *So hat der ermordete Mann den Zwischenfall aber nicht in seinem Report beschrieben.*
      ➔ Этот убитый парень не так описал происшествие в своем отчете.
+  6. *Der Report listet alle überfälligen Rechnungen des aktuellen Geschäftsjahres auf.*
+     ➔ Отчет выводит список всех просроченных счетов за текущий финансовый год.
 
 ### 1954. die Selektionsmaske, die Selektionsmasken [🎥 YouGlish](https://de.youglish.com/pronounce/Selektionsmaske/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33505,6 +34349,8 @@
      ➔ Если вы не установите фильтры на селекционном экране, обработка отчета может занять очень много времени.
   3. *Wir haben die Selektionsmaske personalisiert, sodass unsere bevorzugten Werke immer vorausgewählt sind.*
      ➔ Мы настроили селекционный экран под себя, так что наши предпочтительные заводы всегда выбраны заранее.
+  4. *Geben Sie auf der Selektionsmaske den Buchungskreis ein, um die Datenmenge einzuschränken.*
+     ➔ Введите балансовую единицу на экране выбора параметров, чтобы ограничить объем данных.
 
 ### 1955. das Pflichtfeld, die Pflichtfelder [🎥 YouGlish](https://de.youglish.com/pronounce/Pflichtfeld/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33522,6 +34368,8 @@
      ➔ Заполните обязательные поля () в бланке ниже, и вскоре вы получите ответ по e-mail на ваши запросы от нашего персонала.
   5. *Füllen Sie bitte die Pflichtfelder () des nachfolgenden Formulars aus. Sie werden so schnell wie möglich auf Ihre Anfrage eine Rückantwort per E-Mail von unserem Personal erhalten.*
      ➔ Заполните необходимые поля () бланка онлайн и вы получите ответ на Ваш e-mail по возможности немедленно.
+  6. *Das Feld 'Geschäftspartner-ID' ist ein Pflichtfeld und darf nicht leer gelassen werden.*
+     ➔ Поле 'ID делового партнера' является обязательным для заполнения и не может быть оставлено пустым.
 
 ### 1956. das Optionsfeld, die Optionsfelder [🎥 YouGlish](https://de.youglish.com/pronounce/Optionsfeld/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33539,6 +34387,8 @@
      ➔ Введите подпись для каждого поля параметров группы, которую требуется создать, и скопируйте подпись в список, нажав кнопку со стрелкой.
   5. *Klicken Sie auf ein anderes Optionsfeld der gleichen Gruppe.*
      ➔ Нажатие другого переключателя в этой же группе.
+  6. *Wählen Sie das entsprechende Optionsfeld aus, um die Verarbeitung im Hintergrund zu aktivieren.*
+     ➔ Выберите соответствующую радиокнопку, чтобы активировать фоновую обработку.
 
 ### 1957. das Kontrollkästchen, die Kontrollkästchen [🎥 YouGlish](https://de.youglish.com/pronounce/Kontrollk%C3%A4stchen/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33556,6 +34406,8 @@
      ➔ Если этот флажок не установлен, вставляется символ, заданный драйвером клавиатуры.
   5. *Aktivieren Sie dieses Kontrollkästchen und doppelklicken Sie auf eine Elementbezeichnung in der Tabelle, um Details für das Element ein- oder auszublenden.*
      ➔ Установите этот флажок и дважды щелкните на подписи элемента в таблице, чтобы показать или скрыть подробные сведения о нем.
+  6. *Aktivieren Sie das Kontrollkästchen, wenn Sie den Beleg direkt buchen möchten.*
+     ➔ Установите флажок, если вы хотите провести документ напрямую.
 
 ### 1958. die Dropdown-Liste, die Dropdown-Listen [🎥 YouGlish](https://de.youglish.com/pronounce/Dropdown-Liste/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33573,6 +34425,8 @@
      ➔ Использование одного значка для всех функций. Для этого выберите параметр "Использовать один значок для всех функций" и выберите значок в раскрывающемся списке.
   5. *Wählen Sie "Ja" , um die Dropdown-Option für Listen- und Kombinationsfelder zu aktivieren.*
      ➔ Выберите значение "Да", чтобы включить параметр "Раскрывающийся" для элементов управления списка или поля со списком.
+  6. *Wählen Sie die gewünschte Währung aus der Dropdown-Liste aus.*
+     ➔ Выберите желаемую валюту из выпадающего списка.
 
 ### 1959. die Wertehilfe, die Wertehilfen [🎥 YouGlish](https://de.youglish.com/pronounce/Wertehilfe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33586,6 +34440,8 @@
      ➔ Если вы не знаете точного имени поставщика, средство поиска значений поможет вам при поиске.
   3. *Die Wertehilfe schlägt nur Einträge vor, die im Customizing bereits hinterlegt wurden.*
      ➔ Справка по значениям предлагает только те записи, которые уже сохранены в настройках системы.
+  4. *Über die Wertehilfe (F4) können Sie nach gültigen Werten für dieses Feld suchen.*
+     ➔ Через справку по допустимым значениям (F4) вы можете выполнить поиск допустимых значений для этого поля.
 
 ### 1960. die Schnellsuche, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Schnellsuche/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33603,6 +34459,8 @@
      ➔ В Thunderbird также имеется быстрый поиск, при котором результаты начинают отображаться сразу же, как только вы начинаете набирать искомое слово.
   5. *Schnellsuche zurücksetzen beim Wechsel der Nachrichtenquelle*
      ➔ Сбросить условия фильтра при переходе на другую ленту
+  6. *Die Schnellsuche filtert die Kundenliste bereits während der Eingabe der ersten Buchstaben.*
+     ➔ Быстрый поиск фильтрует список клиентов уже во время ввода первых букв.
 
 ### 1961. der Favorit, die Favoriten [🎥 YouGlish](https://de.youglish.com/pronounce/Favorit/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33620,6 +34478,8 @@
      ➔ И мое любимое: управляемые шторы.
   5. *Sie fragen sich, warum Ross ist ihr Favorit?*
      ➔ И ты ещё удивляешься, почему Росс - их любимчик?
+  6. *Sie können diese Transaktion als Favorit hinzufügen, um schneller darauf zuzugreifen.*
+     ➔ Вы можете добавить эту транзакцию в избранное для более быстрого доступа к ней.
 
 ### 1962. hinzufügen [🎥 YouGlish](https://de.youglish.com/pronounce/hinzuf%C3%BCgen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -33640,6 +34500,8 @@
      ➔ В дополнение к адресам можно также добавлять текст и ссылку модификатора.
   5. *Du kannst Attachments hinzufügen, wenn du eine neue Nachricht schreibst.*
      ➔ Вы можете добавить вложение, когда вы отправляете новое сообщение.
+  6. *Sie können neue Spalten zum Bericht hinzufügen, indem Sie die Layouteinstellungen anpassen.*
+     ➔ Вы можете добавить новые столбцы в отчет, настроив параметры макета.
 
 ### 1963. die Benutzerdaten, (nur Pl.) [🎥 YouGlish](https://de.youglish.com/pronounce/Benutzerdaten/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33657,6 +34519,8 @@
      ➔ Переменные на основе данных пользователя
   5. *Benutzerdaten müssen als Zeichenketten eingegeben werden.*
      ➔ Данные пользователя должны быть введены в форме строк.
+  6. *In den Benutzerdaten können persönliche Einstellungen wie das Datumsformat gepflegt werden.*
+     ➔ В данных пользователя можно вести персональные настройки, такие как формат даты.
 
 ### 1964. das Benutzerprofil, die Benutzerprofile [🎥 YouGlish](https://de.youglish.com/pronounce/Benutzerprofil/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33674,6 +34538,8 @@
      ➔ Разрешает пользователю просмотр профилей других пользователей.
   5. *Auf Facebook ist es unmöglich zu wissen, wie viele der Angaben in einem Nutzerprofil und in Beiträgen wahr sind.*
      ➔ На Фейсбуке невозможно узнать, какое количество информации в профиле и на странице пользователя истинно.
+  6. *Das Benutzerprofil steuert benutzerspezifische Parameter wie den Standard-Drucker.*
+     ➔ Профиль пользователя управляет специфичными для пользователя параметрами, такими как принтер по умолчанию.
 
 ### 1965. das Berechtigungsobjekt, die Berechtigungsobjekte [🎥 YouGlish](https://de.youglish.com/pronounce/Berechtigungsobjekt/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33687,6 +34553,8 @@
      ➔ Чтобы предоставить новой коллеге доступ только для чтения, мы должны скорректировать объект полномочий в ее роли.
   3. *Jeder Zugriff auf sensible Personaldaten wird durch ein spezielles Berechtigungsobjekt geschützt.*
      ➔ Любой доступ к конфиденциальным персональным данным защищен специальным объектом полномочий.
+  4. *Das Berechtigungsobjekt prüft, ob der Benutzer berechtigt ist, Buchungen in einem bestimmten Werk durchzuführen.*
+     ➔ Объект полномочий проверяет, имеет ли право пользователь выполнять проводки на определенном заводе.
 
 ### 1966. die Berechtigungsprüfung, die Berechtigungsprüfungen [🎥 YouGlish](https://de.youglish.com/pronounce/Berechtigungspr%C3%BCfung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33698,6 +34566,8 @@
      ➔ Проверка авторизации обычно осуществляется с использованием систем протоколов IETF, таких как RADIUS или Diameter.
   2. *Für alle Verbindungen, die aus diesem Teil des Netzes kommen bzw. dorthin gehen, übernimmt das MSC die komplette Anrufverwaltung, Ortsüberwachung und auch die Berechtigungsprüfung (Authentisierung) der Mobilstation.*
      ➔ Для всех соединений, которые приходят из этой части сети или идут в нее, MSC берет на себя полное управление вызовами, мониторинг местоположения, а также проверку авторизации (аутентификацию) мобильной станции.
+  3. *Die Berechtigungsprüfung schlägt fehl, wenn dem Benutzer die erforderlichen Rechte fehlen.*
+     ➔ Проверка полномочий завершается ошибкой, если у пользователя отсутствуют требуемые права.
 
 ### 1967. der Berechtigungsfehler, die Berechtigungsfehler [🎥 YouGlish](https://de.youglish.com/pronounce/Berechtigungsfehler/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33711,6 +34581,8 @@
      ➔ Пожалуйста, отправьте мне скриншот, если ошибка полномочий снова появится при сохранении документа.
   3. *Mit der Transaktion SU53 können wir den letzten Berechtigungsfehler im Detail analysieren und beheben.*
      ➔ С помощью транзакции SU53 мы можем детально проанализировать и устранить последнюю ошибку полномочий.
+  4. *Bei einem Berechtigungsfehler wenden Sie sich bitte an den Systemadministrator.*
+     ➔ При возникновении ошибки полномочий (прав доступа) обратитесь к системному администратору.
 
 ### 1968. fehlen [🎥 YouGlish](https://de.youglish.com/pronounce/fehlen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -33731,6 +34603,8 @@
      ➔ Но вам может не хватать моей... широты взглядов.
   5. *Wir haben das Werkzeug, aber es fehlen kollektiver Wille und Treibkraft.*
      ➔ У нас есть инструменты, однако отсутствует коллективная воля и движущая сила.
+  6. *Einigen Benutzern fehlen die Berechtigungen für den Datenexport.*
+     ➔ У некоторых пользователей отсутствуют полномочия для экспорта данных.
 
 ### 1969. die Fehlermeldung, die Fehlermeldungen [🎥 YouGlish](https://de.youglish.com/pronounce/Fehlermeldung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33748,6 +34622,8 @@
      ➔ Типичное сообщение об ошибке в системном журнале:
   5. *Das Spiel "friert ein" oder bringt eine Fehlermeldung.*
      ➔ Игра "зависает" или появляется сообщение об ошибке.
+  6. *Das System gibt eine Fehlermeldung aus, wenn der Buchungszeitraum bereits geschlossen ist.*
+     ➔ Система выдает сообщение об ошибке, если период проводки уже закрыт.
 
 ### 1970. die Warnung, die Warnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Warnung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33765,6 +34641,8 @@
      ➔ Запомни её предостережение, запечатай в память свою.
   5. *Wir erhielten einen neuen Pachtvertrag und eine Warnung vom Besitzer.*
      ➔ Нам дана новая аренда и предостережение от хозяина.
+  6. *Eine Warnung weist auf mögliche Inkonsistenzen hin, verhindert aber nicht das Sichern des Belegs.*
+     ➔ Предупреждение указывает на возможные противоречия, но не препятствует сохранению документа.
 
 ### 1971. die Erfolgsmeldung, die Erfolgsmeldungen [🎥 YouGlish](https://de.youglish.com/pronounce/Erfolgsmeldung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33782,6 +34660,8 @@
      ➔ Представьте себе, что бы вы думали об инвестициях, если бы каждая заметка, прочитанная вами, говорила только о неудачных примерах, но умалчивала о больших успехах.
   5. *Und wenn wir Einigkeit erzielen über sowohl den Wert als auch die Art der Erfolgsmessung, ob wir die Rückfälligkeit erfolgreich reduziert haben, dann können wir etwas erreichen, etwas wirklich Interessantes, in unseren Augen.*
      ➔ И пока Эрик наблюдал за тем, как его дети играют в игрушки из костей буйвола, которые называются «далас», ему в голову пришла идея этого изобретения.
+  6. *Nach dem erfolgreichen Sichern des Belegs wird eine Erfolgsmeldung in der Statusleiste angezeigt.*
+     ➔ После успешного сохранения документа в строке состояния отображается сообщение об успешном выполнении.
 
 ### 1972. die Statusleiste, die Statusleisten [🎥 YouGlish](https://de.youglish.com/pronounce/Statusleiste/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33799,6 +34679,8 @@
      ➔ Текущий уровень и выбранный язык отображаются в строке состояния.
   5. *In diesem Feld in der Statusleiste wird die aktuelle Seitennummer angezeigt.*
      ➔ В этом поле строки состояния отображается номер текущей страницы.
+  6. *Die Statusleiste am unteren Bildschirmrand zeigt Systemmeldungen und den aktuellen Mandanten an.*
+     ➔ Строка состояния в нижней части экрана показывает системные сообщения и текущего манданта.
 
 ### 1973. das Dialogfenster, die Dialogfenster [🎥 YouGlish](https://de.youglish.com/pronounce/Dialogfenster/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33816,6 +34698,8 @@
      ➔ Здесь вы можете назначить соответствие одному символу из заданного диапазона. Появится диалоговое окно, которое позволит определить сочетание символов.
   5. *Im Dialogfenster gebt ihr den Titel für eure Präsentation ein.*
      ➔ В диалоговом окне введите название своей презентации.
+  6. *Ein Dialogfenster fordert Sie auf, die eingegebenen Daten zu bestätigen oder zu verwerfen.*
+     ➔ Диалоговое окно запрашивает подтверждение введенных данных или их отмену.
 
 ### 1974. bestätigen [🎥 YouGlish](https://de.youglish.com/pronounce/best%C3%A4tigen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -33836,6 +34720,8 @@
      ➔ Когда видишь вещи в таком свете, что они подтверждают твои убеждения.
   5. *Momentan können wir nicht bestätigen, dass sie all ihre Zahlungen geleistet haben.*
      ➔ Сейчас мы не можем проверить что мы оплатили всю задолженность.
+  6. *Bitte bestätigen Sie die Buchung durch Klicken auf die Schaltfläche 'Ja'.*
+     ➔ Пожалуйста, подтвердите проводку, нажав на кнопку 'Да'.
 
 ### 1975. abbrechen [🎥 YouGlish](https://de.youglish.com/pronounce/abbrechen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -33856,6 +34742,8 @@
      ➔ Ты пытаешься прекратить этот разговор, вызвав у меня приступ тошноты?
   5. *Da dachte ich, dass ich meinen Urlaub auch abbrechen kann...*
      ➔ Вот я и решила прервать поездку, чтобы...
+  6. *Sie können den aktuellen Vorgang jederzeit abbrechen, ohne dass Daten gespeichert werden.*
+     ➔ Вы можете прервать текущую операцию в любое время без сохранения данных.
 
 ### 1976. das Customizing-Menü, die Menüs [🎥 YouGlish](https://de.youglish.com/pronounce/Customizing-Men%C3%BC/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33867,6 +34755,8 @@
      ➔ В меню настроек (Customizing) мы можем вести глобальные параметры балансовой единицы.
   2. *Dieser Parameter lässt sich direkt im Customizing-Menü über die Transaktion SPRO ändern.*
      ➔ Этот параметр можно изменить непосредственно в меню настроек с помощью транзакции SPRO.
+  3. *Im Customizing-Menü werden alle globalen Einstellungen der SAP-Module konfiguriert.*
+     ➔ В меню настройки системы конфигурируются все глобальные параметры модулей SAP.
 
 ### 1977. das Launchpad-Design, die Designs [🎥 YouGlish](https://de.youglish.com/pronounce/Launchpad-Design/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33878,6 +34768,8 @@
      ➔ Дизайн Launchpad был адаптирован под фирменный стиль компании.
   2. *Ein benutzerfreundliches Launchpad-Design erhöht die Akzeptanz des SAP-Systems.*
      ➔ Удобный дизайн Launchpad повышает готовность пользователей работать с системой SAP.
+  3. *Das Launchpad-Design kann an das Corporate Design des Unternehmens angepasst werden.*
+     ➔ Тема оформления Launchpad может быть настроена в соответствии с фирменным стилем предприятия.
 
 ### 1978. die Barrierefreiheit, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Barrierefreiheit/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33895,6 +34787,8 @@
      ➔ Разразилась бурная дискуссия по поводу доступности устройства, и мы на самом деле были в восторге.
   5. *Tools zur Barrierefreiheit können diesen Text lesen.*
      ➔ Этот текст распознается средствами специальных возможностей.
+  6. *SAP unterstützt Barrierefreiheit durch Screenreader-Kompatibilität und Tastaturbedienung.*
+     ➔ SAP поддерживает доступность для людей с ограниченными возможностями за счет совместимости с программами экранного доступа и управления с клавиатуры.
 
 ### 1979. die Web-Dynpro-App, die Web-Dynpro-Apps [🎥 YouGlish](https://de.youglish.com/pronounce/Web-Dynpro-App/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33906,6 +34800,8 @@
      ➔ Некоторые старые транзакции отображаются в веб-браузере как приложение Web-Dynpro.
   2. *Wir müssen die Web-Dynpro-App im Backend-System registrieren und testen.*
      ➔ Нам нужно зарегистрировать и протестировать приложение Web-Dynpro в бэкэнд-системе.
+  3. *Eine Web-Dynpro-App kann direkt in das SAP Fiori Launchpad integriert werden.*
+     ➔ Приложение Web Dynpro может быть интегрировано непосредственно в SAP Fiori Launchpad.
 
 ### 1980. der App-Inhalt, die App-Inhalte [🎥 YouGlish](https://de.youglish.com/pronounce/App-Inhalt/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33917,6 +34813,8 @@
      ➔ Содержимое приложения загружается динамически на основе полномочий пользователя.
   2. *Der Administrator pflegt den App-Inhalt in der Fiori-Datenbank.*
      ➔ Администратор ведет содержимое приложения в базе данных Fiori.
+  3. *Der App-Inhalt wird dynamisch basierend auf den Berechtigungen des angemeldeten Benutzers geladen.*
+     ➔ Содержимое приложения загружается динамически на основе полномочий вошедшего в систему пользователя.
 
 ### 1981. die Kachel-Bibliothek, die Bibliotheken [🎥 YouGlish](https://de.youglish.com/pronounce/Kachel-Bibliothek/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33928,6 +34826,8 @@
      ➔ В библиотеке плиток вы найдете все доступные стандартные приложения для вашей роли.
   2. *Wir können neue Kacheln aus der Kachel-Bibliothek auf unserer Startseite platzieren.*
      ➔ Мы можем размещать новые плитки из библиотеки плиток на нашей домашней странице.
+  3. *In der Kachel-Bibliothek sind alle für den Benutzer verfügbaten Kacheln aufgelistet.*
+     ➔ В каталоге плиток перечислены все плитки, доступные пользователю.
 
 ### 1982. die Kachel-Gruppe, die Kachel-Gruppen [🎥 YouGlish](https://de.youglish.com/pronounce/Kachel-Gruppe/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33939,6 +34839,8 @@
      ➔ Администратор создал новую группу плиток для команды контроллинга.
   2. *Die Kachel-Gruppe strukturiert die Anwendungen übersichtlich auf dem Bildschirm.*
      ➔ Группа плиток структурирует приложения на экране для наглядности.
+  3. *Eine Kachel-Gruppe strukturiert das Fiori Launchpad in verschiedene Themenbereiche.*
+     ➔ Группа плиток структурирует Fiori Launchpad по различным тематическим областям.
 
 ### 1983. die Zielzuordnung, die Zielzuordnungen [🎥 YouGlish](https://de.youglish.com/pronounce/Zielzuordnung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33950,6 +34852,8 @@
      ➔ Целевое назначение связывает плитку Launchpad с самим приложением.
   2. *Überprüfen Sie die Zielzuordnung, wenn die Kachel beim Anklicken einen Fehler anzeigt.*
      ➔ Проверьте целевое назначение, если плитка выдает ошибку при нажатии.
+  3. *Die Zielzuordnung verknüpft eine semantische Aktion mit der tatsächlichen Anwendungs-URL.*
+     ➔ Сопоставление целей (target mapping) связывает семантическое действие с фактическим URL-адресом приложения.
 
 ### 1984. die semantische Objekt, die Objekte [🎥 YouGlish](https://de.youglish.com/pronounce/semantische%20Objekt/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33967,6 +34871,8 @@
      ➔ Я подозреваю, что в сердце этого облака находится объект.
   5. *Und ich machte das Objekt links für meine Ausstellung im Walker.*
      ➔ И сделал вот этот предмет слева для выставки в музее Уокера.
+  6. *Das semantische Objekt beschreibt eine betriebswirtschaftliche Entität im Fiori-Navigationskonzept.*
+     ➔ Семантический объект описывает бизнес-сущность в концепции навигации Fiori.
 
 ### 1985. die Aktion, die Aktionen [🎥 YouGlish](https://de.youglish.com/pronounce/Aktion/german)
 - **Часть речи (Part of Speech):** Noun
@@ -33984,6 +34890,8 @@
      ➔ Операция не может быть завершена, потому что источник и приёмник являются одним и тем же файлом.
   5. *Brigitte, du bleibst aus der Aktion raus.*
      ➔ Бригитта, ты не должна участвовать в акции.
+  6. *Die Aktion bestimmt, welcher Vorgang (z. B. 'anzeigen' oder 'anlegen') für das Objekt ausgeführt wird.*
+     ➔ Действие определяет, какая операция (например, 'просмотр' или 'создание') выполняется для объекта.
 
 ### 1986. der Parameter, die Parameter [🎥 YouGlish](https://de.youglish.com/pronounce/Parameter/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34001,6 +34909,8 @@
      ➔ Тип и количество параметров зависят от вызываемой процедуры.
   5. *Bitte beladen Sie neu Update und prüfen die Parameter von den Abfragen zu.*
      ➔ Пожалуйста, скачайте обновление и проверьте параметры запросов к.
+  6. *Über Parameter können beim App-Aufruf bestimmte Filterwerte übergeben werden.*
+     ➔ Через параметры при вызове приложения могут быть переданы определенные значения фильтра.
 
 ### 1987. die URL-Adresse, die URL-Adressen [🎥 YouGlish](https://de.youglish.com/pronounce/URL-Adresse/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34018,6 +34928,8 @@
      ➔ Необходимо указать имя пользователя, пароль и URL адрес вашего блога или веб сайта.
   5. *Erkennen, wenn eine Internet-Adresse (URL) eingegeben wurde und sie so formatieren, wie Internet-Browser sie anzeigen würden.*
      ➔ Определяет, что введённое слов является Интернет- адресом (URL), и форматирует её так, как эту ссылку показал бы браузер.
+  6. *Das System ermittelt die URL-Adresse des Services automatisch über den Gateway-Server.*
+     ➔ Система автоматически определяет URL-адрес сервиса через сервер Gateway.
 
 ### 1988. das Browser-Fenster, die Browser-Fenster [🎥 YouGlish](https://de.youglish.com/pronounce/Browser-Fenster/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34035,6 +34947,8 @@
      ➔ Или же, если ваше окно браузера стало загромождённым из-за слишком большого числа вкладок, просто стащите вкладку с её места и она автоматически откроется в новом окне.
   5. *Die Applets werden wie gewohnt im Browser-Fenster angezeigt, es ist jetzt jedoch möglich, verschiedene Java-Versionen, Befehlszeilenargumente und Konfigurationen zum Ausführen unterschiedlicher Applets zu verwenden.*
      ➔ Апплеты по-прежнему отображаются в окне веб-обозревателя, но теперь для выполнения различных апплетов можно использовать разные версии, аргументы командной строки и конфигурации Java.
+  6. *Die externe Anwendung wird in einem neuen Browser-Fenster geöffnet.*
+     ➔ Внешнее приложение открывается в новом окне браузера.
 
 ### 1989. die Cloud-Platform, die Cloud-Platformen [🎥 YouGlish](https://de.youglish.com/pronounce/Cloud-Platform/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34046,6 +34960,8 @@
      ➔ Мы разрабатываем наши расширения на SAP Cloud Platform.
   2. *Die Cloud-Platform ermöglicht eine schnelle Integration verschiedener Systeme.*
      ➔ Облачная платформа обеспечивает быструю интеграцию различных систем.
+  3. *Die SAP Cloud Platform (jetzt SAP BTP) bietet Services für die Erweiterung und Integration von Systemen.*
+     ➔ Облачная платформа SAP Cloud Platform (сейчас SAP BTP) предлагает сервисы для расширения и интеграции систем.
 
 ### 1990. der Service, die Services [🎥 YouGlish](https://de.youglish.com/pronounce/Service/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34063,6 +34979,8 @@
      ➔ К услугам гостей замечательный завтрак и доброжелательное обслуживание.
   5. *Wir bieten einen Service, den man im Internet nicht bekommen kann.*
      ➔ Мы предлагаем сервис, который не найти в интернете.
+  6. *Der OData-Service stellt die Daten für die Anzeige in der Fiori-App bereit.*
+     ➔ Сервис OData предоставляет данные для отображения в приложении Fiori.
 
 ### 1991. die OData-Schnittstelle, die Schnittstellen [🎥 YouGlish](https://de.youglish.com/pronounce/OData-Schnittstelle/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34074,6 +34992,8 @@
      ➔ Приложение Fiori взаимодействует с бэкэндом SAP через безопасный интерфейс OData.
   2. *Wir müssen die OData-Schnittstelle im SAP Gateway aktivieren.*
      ➔ Нам необходимо активировать интерфейс OData в SAP Gateway.
+  3. *Die OData-Schnittstelle ermöglicht eine standardisierte Kommunikation zwischen Frontend und Backend.*
+     ➔ Интерфейс OData обеспечивает стандартизированную коммуникацию между фронтэндом и бэкэндом.
 
 ### 1992. der Gateway-Server, die Gateway-Server [🎥 YouGlish](https://de.youglish.com/pronounce/Gateway-Server/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34085,6 +35005,8 @@
      ➔ Сервер Gateway перенаправляет запросы мобильных приложений в бэкэнд-систему.
   2. *Der Gateway-Server steuert die Authentifizierung der Benutzer.*
      ➔ Сервер Gateway управляет аутентификацией пользователей.
+  3. *Der Gateway-Server wandelt RFC-Aufrufe des Backends in webfähige OData-Services um.*
+     ➔ Сервер Gateway преобразует вызовы RFC бэкэнда в веб-совместимые OData-сервисы.
 
 ### 1993. das Backend-System, die Backend-Systeme [🎥 YouGlish](https://de.youglish.com/pronounce/Backend-System/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34096,6 +35018,8 @@
      ➔ Фактические бизнес-данные находятся в бэкэнд-системе.
   2. *Die OData-Services müssen im Backend-System registriert werden.*
      ➔ Сервисы OData должны быть зарегистрированы в бэкэнд-системе.
+  3. *Im Backend-System befinden sich die eigentliche Datenbank und die Geschäftslogik der SAP.*
+     ➔ В бэкэнд-системе находятся сама база данных и бизнес-логика SAP.
 
 ### 1994. das Frontend-System, die Frontend-Systeme [🎥 YouGlish](https://de.youglish.com/pronounce/Frontend-System/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34107,6 +35031,8 @@
      ➔ Фронтэнд-система предоставляет интерфейс пользователя для конечных пользователей.
   2. *Alle Fiori-Kacheln und Launchpads werden im Frontend-System verwaltet.*
      ➔ Все плитки Fiori и панели запуска управляются во фронтэнд-системе.
+  3. *Das Frontend-System verwaltet die Benutzeroberflächen und das Fiori Launchpad.*
+     ➔ Фронтэнд-система управляет пользовательскими интерфейсами и Fiori Launchpad.
 
 ### 1995. die Replikation, die Replikationen [🎥 YouGlish](https://de.youglish.com/pronounce/Replikation/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34124,6 +35050,8 @@
      ➔ При репликации вирионы появляются из особого цитоплазматического компартмента вироплазмы, которая образуется вирусом.
   5. *Im Gegensatz zur Antigenshift passiert die Antigendrift zufällig und in kleinerem Rahmen durch Kopierfehler (Punktmutationen) während der Vermehrung (Replikation) von Viren.*
      ➔ В отличие от антигенной изменчивости, дрейф антигенов происходит случайно и имеет меньший охват, происходя путём копирования ошибок (мутаций) в ходе размножения (репликации) вирусов.
+  6. *Die Replikation von Stammdaten erfolgt asynchron über IDocs.*
+     ➔ Репликация основных данных выполняется асинхронно через IDoc.
 
 ### 1996. synchronisieren [🎥 YouGlish](https://de.youglish.com/pronounce/synchronisieren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -34144,6 +35072,8 @@
      ➔ Теперь наступает очень рискованная часть моего выступления, где мне надо продемонстрировать, что неодушевленные предметы тоже могут синхронизироваться.
   5. *Was soll überhaupt das Gerede, mich neu zu synchronisieren?*
      ➔ Зачем вообще понадобилось меня дублировать?
+  6. *Sie müssen die lokalen Einstellungen mit den Tabellen auf dem Server synchronisieren.*
+     ➔ Вам необходимо синхронизировать локальные настройки с таблицами на сервере.
 
 ### 1997. die Synchronisation, die Synchronisationen [🎥 YouGlish](https://de.youglish.com/pronounce/Synchronisation/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34161,6 +35091,8 @@
      ➔ Спросим себя, каковы минимальные требования для того, что вы только что сделали - для спонтанной синхронизации.
   5. *Diese zusätzliche Kernel-API-Erweiterung beseitigt die unnötige Synchronisation zwischen einzelne Operationen zur Entfernung von Überprüfungsprozessen.*
      ➔ Добавленное расширение исключает необходимость синхронизации операций удаления отдельных зондов.
+  6. *Die Synchronisation der Daten zwischen den beiden Systemen wird jede Nacht automatisch gestartet.*
+     ➔ Синхронизация данных между обеими системами запускается автоматически каждую ночь.
 
 
 ---
@@ -34181,6 +35113,8 @@
      ➔ Поддержка ActiveX также предлагает совершенно новые способы настройки приложений Office.
   4. *Außerdem bietet WinGen keine Unterstützung bei der Wiederverwendung von Layout‑Teilen oder beim Customizing von Oberflächen‑Controls.*
      ➔ Кроме того, WinGen не поддерживает повторное использование частей макета или настройку элементов управления интерфейса.
+  5. *Das Customizing des SAP-Systems erfolgt im Einführungsleitfaden (IMG).*
+     ➔ Настройка (кастомизация) системы SAP выполняется в руководстве по внедрению (IMG).
 
 ### 1999. der Einführungsleitfaden, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Einf%C3%BChrungsleitfaden/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34192,6 +35126,8 @@
      ➔ В руководстве по внедрению наглядно перечислены все шаги по конфигурации системы.
   2. *Wir folgen dem Einführungsleitfaden, um die neuen Steuersätze einzurichten.*
      ➔ Мы следуем руководству по внедрению, чтобы настроить новые налоговые ставки.
+  3. *Der Einführungsleitfaden führt Sie Schritt für Schritt durch alle notwendigen Systemeinstellungen.*
+     ➔ Руководство по внедрению шаг за шагом проводит вас по всем необходимым системным настройкам.
 
 ### 2000. die Customizing-Tabelle, die Customizing-Tabellen [🎥 YouGlish](https://de.youglish.com/pronounce/Customizing-Tabelle/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34203,6 +35139,8 @@
      ➔ Новые ключи проводки сохраняются в таблице настроек (Customizing-Tabelle).
   2. *Direkte Änderungen an einer Customizing-Tabelle im Produktivsystem sind untersagt.*
      ➔ Прямые изменения в таблице настроек в продуктивной системе запрещены.
+  3. *Eine Änderung in einer Customizing-Tabelle muss immer in einem Transportauftrag erfasst werden.*
+     ➔ Изменение в настроечной таблице всегда должно фиксироваться в запросе на перенос.
 
 ### 2001. die Systemlandschaft, die Systemlandschaften [🎥 YouGlish](https://de.youglish.com/pronounce/Systemlandschaft/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34218,6 +35156,8 @@
      ➔ Крайне важно то, что системы SCM могут быть построены на любом гетерогенном системном ландшафте.
   4. *Mit den neuen Funktionen der Industrielösung SAP-Banking werde die bisherige Systemlandschaft der Postbank in den Kernbereichen Sparund Girokonten sowie Darlehen abgelöst.*
      ➔ Новые функции банковского промышленного решения SAP заменят предыдущую системную среду Postbank в основных областях сбережений и текущих счетов, а также кредитов.
+  5. *Eine typische Systemlandschaft besteht aus einem Entwicklungs-, Qualitäts- und Produktivsystem.*
+     ➔ Типичный системный ландшафт состоит из системы разработки, системы качества и продуктивной системы.
 
 ### 2002. das Entwicklungssystem, die Entwicklungssysteme [🎥 YouGlish](https://de.youglish.com/pronounce/Entwicklungssystem/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34235,6 +35175,8 @@
      ➔ Мы убеждены в том, что осуществление этой смелой, но реалистичной программы будет содействовать обеспечению того, чтобы система развития Организации Объединенных Наций оставалась на уровне требований XXI века.
   5. *Die Build-Server für die S/390-Architektur werden von Millenux betrieben, dem Distributor der Think-Blue-Distribution für S/390 , und dem Entwicklungssystem der Linux-Gemeinschaft (Linux Community Development System - LCDS).*
      ➔ Серверы сборки для архитектуры S/390 расположены на сервере Millenux, разработчика дистрибутива Think Blue для S/390, и Linux Community Development System (LCDS).
+  6. *Im Entwicklungssystem werden neue Funktionen programmiert und Customizing-Einstellungen vorgenommen.*
+     ➔ В системе разработки программируются новые функции и выполняются настройки Customizing.
 
 ### 2003. das Qualitätssicherungssystem, die Systeme [🎥 YouGlish](https://de.youglish.com/pronounce/Qualit%C3%A4tssicherungssystem/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34252,6 +35194,8 @@
      ➔ Инженерные Дисциплины, в частности, передача технологий, руководство проектами, системы обеспечения качества
   5. *Unter anderem könnten die folgenden Themen bearbeitet werden: Hochschulleitung ('university governance') und Finanzwesen, die Internationalisierungsstrategie der Hochschule oder die Verbesserung von Qualitätssicherungssystemen;*
      ➔ Эти вопросы включают, помимо прочих, руководство и финансовую деятельность университетов, стратегию интернационализации или укрепление механизмов обеспечения качества;
+  6. *Im Qualitätssicherungssystem werden umfassende Integrationstests durchgeführt.*
+     ➔ В системе качества (QA) проводятся комплексные интеграционные тесты.
 
 ### 2004. das Produktivsystem, die Produktivsysteme [🎥 YouGlish](https://de.youglish.com/pronounce/Produktivsystem/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34263,6 +35207,8 @@
      ➔ После успешных тестов мы можем перенести изменения в продуктивную систему.
   2. *Im Produktivsystem arbeiten die Mitarbeiter des Kunden mit realen Geschäftsdaten.*
      ➔ В продуктивной системе сотрудники клиента работают с реальными бизнес-данными.
+  3. *Buchungen dürfen nur im Produktivsystem vorgenommen werden.*
+     ➔ Проводки могут выполняться только в продуктивной (рабочей) системе.
 
 ### 2005. der Mandant, die Mandanten [🎥 YouGlish](https://de.youglish.com/pronounce/Mandant/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34280,6 +35226,8 @@
      ➔ Он мой важнейший клиент, а я на его звонки не отвечаю.
   5. *Wir hätten gerne, dass Ihr Mandant diese Frage beantwortet.*
      ➔ Мы бы хотели, чтобы на этот вопрос ответил ваш клиент.
+  6. *Ein Mandant ist eine datentechnisch abgeschlossene Einheit innerhalb eines SAP-Systems.*
+     ➔ Мандант является изолированной с точки зрения данных единицей внутри системы SAP.
 
 ### 2006. die Datenübernahme, die Datenübernahmen [🎥 YouGlish](https://de.youglish.com/pronounce/Daten%C3%BCbernahme/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34297,6 +35245,8 @@
      ➔ Хотя коровье бешенство в кассе организатора не разразилось, компьютерная система вышла из строя, когда данные были перенесены в новую систему.
   5. *Beim Umstieg zeigte sich allerdings eine besondere Problematik bei der Datenübernahme vom zählerorientierten EAS ins IS-U.*
      ➔ Однако при переходе возникла особая проблема при передаче данных из EAS, ориентированного на счетчик, в IS-U.
+  6. *Die Datenübernahme der Altdaten wird vor dem Produktivstart sorgfältig vorbereitet.*
+     ➔ Миграция (перенос) исторических данных тщательно подготавливается перед продуктивным стартом.
 
 ### 2007. die Altdatenübernahme, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Altdaten%C3%BCbernahme/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34308,6 +35258,8 @@
      ➔ Перенос исторических данных — это критически важный шаг при запуске новой системы SAP.
   2. *Vor der Altdatenübernahme müssen wir alle Daten gründlich bereinigen.*
      ➔ Перед переносом исторических данных нам необходимо тщательно очистить все данные.
+  3. *Die Altdatenübernahme erfolgt in der Regel mit speziellen Migrationsprogrammen.*
+     ➔ Миграция исторических данных, как правило, выполняется с помощью специальных программ переноса.
 
 ### 2008. die Lückenanalyse, die Lückenanalysen [🎥 YouGlish](https://de.youglish.com/pronounce/L%C3%BCckenanalyse/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34319,6 +35271,8 @@
      ➔ Анализ расхождений (Lückenanalyse) показывает отклонения между стандартом SAP и требованиями клиента.
   2. *Auf Basis der Lückenanalyse entscheiden wir, ob wir eine Eigenentwicklung benötigen.*
      ➔ На основе анализа расхождений мы решаем, требуется ли нам собственная разработка.
+  3. *Im Rahmen der Lückenanalyse werden die Abweichungen zwischen Standardsoftware und Geschäftsprozess ermittelt.*
+     ➔ В рамках анализа разрывов (Fit-Gap) определяются отклонения между стандартным ПО и бизнес-процессом.
 
 ### 2009. der Go-Live, die Go-Lives [🎥 YouGlish](https://de.youglish.com/pronounce/Go-Live/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34336,6 +35290,8 @@
      ➔ Первой ролью для Ричарда стала роль Рика Гарднера в американской мыльной опере «Одна жизнь, чтобы жить» с 1985 по 1987 годы.
   5. *Eine Verwundbarkeit in BIND (einem Domain-Name-Server) wurde entdeckt, wodurch ein böswilliger Nameserver eine autoritative negative Antwort mit einem großen TTL-Wert (Time To Live) zurückliefern kann und dadurch einen Domainnamen unerreichbar macht.*
      ➔ Обнаружена уязвимость в BIND, сервере имён доменов. Злонамеренный сервер имён мог возвратить пользующийся доверием отрицательный ответ с большим временем жизни (time-to-live, TTL), тем самым делая домен недоступным по имени.
+  6. *Der Go-Live des Systems ist für das erste Quartal des nächsten Jahres geplant.*
+     ➔ Запуск системы (Go-Live) запланирован на первый квартал следующего года.
 
 ### 2010. der Support, die Supports [🎥 YouGlish](https://de.youglish.com/pronounce/Support/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34353,6 +35309,8 @@
      ➔ Он же из технической поддержки, да?
   5. *Kostenloser Support und Installation auf Ihrem Server!*
      ➔ Бесплатная поддержка и установка на ваш сервер!
+  6. *Der First-Level-Support hilft Anwendern bei der Behebung einfacher Bedienfehler.*
+     ➔ Первая линия поддержки помогает пользователям в устранении простых ошибок при работе с системой.
 
 ### 2011. das SAP-Einführungsprojekt, die Projekte [🎥 YouGlish](https://de.youglish.com/pronounce/SAP-Einf%C3%BChrungsprojekt/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34364,6 +35322,8 @@
      ➔ Проект внедрения SAP требует тесного взаимодействия между ИТ и бизнес-подразделениями.
   2. *Unser SAP-Einführungsprojekt befindet sich derzeit in der Realisierungsphase.*
      ➔ Наш проект внедрения SAP в настоящее время находится на этапе реализации.
+  3. *Ein SAP-Einführungsprojekt erfordert eine enge Zusammenarbeit zwischen IT und Fachbereich.*
+     ➔ Проект внедрения SAP требует тесного сотрудничества между ИТ и бизнес-подразделениями.
 
 ### 2012. der Funktionstest, die Funktionstests [🎥 YouGlish](https://de.youglish.com/pronounce/Funktionstest/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34381,6 +35341,8 @@
      ➔ Я записал тебя на анализы.
   5. *Funktionstasten ermÃglichen eine schnelle Ausführung von Datei-Operationen.*
      ➔ Функциональные клавиши позволяют выполнять быстрые операции с файлами.
+  6. *Der Funktionstest prüft die korrekte Arbeitsweise einer einzelnen Funktion im System.*
+     ➔ Функциональный тест проверяет корректность работы отдельной функции в системе.
 
 ### 2013. der Integrationstest, die Integrationstests [🎥 YouGlish](https://de.youglish.com/pronounce/Integrationstest/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34392,6 +35354,8 @@
      ➔ В ходе интеграционного теста мы проверяем взаимодействие различных модулей SAP.
   2. *Der Integrationstest muss vollständig dokumentiert werden.*
      ➔ Интеграционный тест должен быть полностью задокументирован.
+  3. *Der Integrationstest stellt sicher, dass der gesamte Prozess über mehrere Module hinweg reibungslos läuft.*
+     ➔ Интеграционный тест гарантирует, что весь процесс во многих модулях проходит без сбоев.
 
 ### 2014. der Benutzertest, die Benutzertests [🎥 YouGlish](https://de.youglish.com/pronounce/Benutzertest/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34409,6 +35373,8 @@
      ➔ В каждом вики-проекте, где глобальные администраторы используют свои инструменты, они должны иметь персональную страницу участника, содержащую контактную информацию или ссылку на их основную страницу участника (доступно автоматическое создание).
   5. *Wenn diese Einstellung aktiv ist, wird KDM eine Benutzerliste mit Bildern anzeigen, so dass Benutzer auf ihren Namen/Bild klicken können, statt ihren Benutzernamen über die Tastatur einzugeben.user...*
      ➔ Если установлен этот параметр, KDM будет показывать список всех пользователей, так что пользователи смогут выбрать своё имя из списка вместо того, чтобы набирать его на клавиатуре. user...
+  6. *Der Benutzertest (UAT) wird von den Key-Usern vor dem Go-Live durchgeführt.*
+     ➔ Пользовательское тестирование (UAT) проводится ключевыми пользователями перед запуском системы.
 
 ### 2015. der Endanwender, die Endanwender [🎥 YouGlish](https://de.youglish.com/pronounce/Endanwender/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34426,6 +35392,8 @@
      ➔ Простои в работе означают потерю дохода и эквивалентны потере доверия как конечного пользователя, так и поставщика услуг.
   5. *Weiterhin hebt Capobianco den gemeinschaftlichen Ansatz hervor: Die Erfahrung unserer bestehenden Partner hat gezeigt, dass die Nachfrage an qualitativ hochwertigen Produkten mit einem gesteigerten Mehrwert für den Endanwender deutlich wächst.*
      ➔ Далее Энзо Капобьянко подчеркивает взаимные преимущества, предоставляемые этой программой: «Опыт наших партнеров свидетельствует о возросшем спросе на продукцию высокого качества, которая способствует значительному повышению добавленной стоимости и для конечных пользователей.
+  6. *Der Endanwender arbeitet täglich mit den Fiori-Apps, um Geschäftsvorfälle zu erfassen.*
+     ➔ Конечный пользователь ежедневно работает с приложениями Fiori для ввода хозяйственных операций.
 
 ### 2016. das Ticket-System, die Ticket-Systeme [🎥 YouGlish](https://de.youglish.com/pronounce/Ticket-System/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34443,6 +35411,8 @@
      ➔ Поскольку многих людей в первую очередь интересуют звезды, кулинария и светские развлечения, Нуш подумывает о новой билетной системе.
   5. *Dieses revolutionäre Ticket-System kündigte Fifa-Generaldirektor Michel Zen Ruffinen in einem Gespräch mit dem Sport-Informationsdienst (sid) an.*
      ➔ Генеральный директор ФИФА Мишель Зен Руффинен объявил об этой революционной билетной системе в интервью Службе спортивной информации (sid).
+  6. *Alle Systemfehler müssen im Ticket-System registriert werden.*
+     ➔ Все системные ошибки должны регистрироваться в системе тикетов (заявок).
 
 ### 2017. der Incident, die Incidents [🎥 YouGlish](https://de.youglish.com/pronounce/Incident/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34460,6 +35430,8 @@
      ➔ Вторая их экспедиция направилась на Юкатан, по результатам которой Стефенс выпустил в 1843 году книгу «Incidents of Travel in Yucatan».
   5. *Die Untersuchung des Unglücks wurde durch die spanische Unfalluntersuchungskommission Comisión de Investigación de Accidentes e Incidentes de Aviación Civil (CIAIAC) in Zusammenarbeit mit dem National Transportation Safety Board (NTSB) durchgeführt.*
      ➔ Расследованием катастрофы занимался Тайский комитет по расследованию авиационных происшествий (AAIC) совместно с американским Национальным советом по безопасности на транспорте (NTSB).
+  6. *Ein Incident wird angelegt, um einen Systemausfall oder eine Störung zu melden.*
+     ➔ Инцидент создается для сообщения о сбое или неполадке в системе.
 
 ### 2018. der Änderungsantrag, die Änderungsanträge [🎥 YouGlish](https://de.youglish.com/pronounce/%C3%84nderungsantrag/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34477,6 +35449,8 @@
      ➔ Завтра Зимбабве отзовет поправку.
   5. *Ein Antrag gilt als Änderungsantrag zu einem Vorschlag, wenn er lediglich die Ergänzung, Streichung oder Änderung eines Teiles davon vorsieht.*
      ➔ Она приняла участие в рабочем заседании членов Национального конгресса Чили, посвященном вопросу об осуществлении Конвенции и возможности ратификации Чили Факультативного протокола.
+  6. *Für neue funktionale Anforderungen muss ein formaler Änderungsantrag eingereicht werden.*
+     ➔ Для новых функциональных требований должен быть подан формальный запрос на изменение (CR).
 
 ### 2019. importieren [🎥 YouGlish](https://de.youglish.com/pronounce/importieren/german)
 - **Часть речи (Part of Speech):** Verb
@@ -34497,6 +35471,8 @@
      ➔ текстовые документы; импорт в электронные таблицы
   5. *Kalender zusammenführen und importieren.*
      ➔ Объединение и импорт календарей.
+  6. *Wir müssen die Stammdaten aus einer CSV-Datei importieren.*
+     ➔ Нам необходимо импортировать основные данные из файла CSV.
 
 ### 2020. die Workbench, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Workbench/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34510,6 +35486,8 @@
      ➔ Чтобы иметь возможность вносить изменения в Workbench, вам потребуются ключ разработчика и запрос на перенос.
   3. *Die Workbench bietet eine integrierte Entwicklungsumgebung direkt innerhalb der SAP-GUI-Oberfläche.*
      ➔ Workbench предоставляет интегрированную среду разработки непосредственно в интерфейсе SAP GUI.
+  4. *In der ABAP Workbench werden alle Repository-Objekte der Entwicklung verwaltet.*
+     ➔ В инструментальной среде ABAP Workbench управляются все репозитарные объекты разработки.
 
 ### 2021. das Workbench-Objekt, die Workbench-Objekte [🎥 YouGlish](https://de.youglish.com/pronounce/Workbench-Objekt/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34521,6 +35499,8 @@
      ➔ Программа ABAP — это типичный объект Workbench, который должен быть перенесен.
   2. *Jedes neue Workbench-Objekt muss einem Paket zugeordnet werden.*
      ➔ Каждый новый объект Workbench должен быть назначен пакету.
+  3. *Ein Workbench-Objekt ist mandantenübergreifend wirksam und betrifft die gesamte Systemlandschaft.*
+     ➔ Объект среды разработки (Workbench-объект) действует во всех мандантах и затрагивает весь системный ландшафт.
 
 ### 2022. die Tabellenpflege, die Tabellenpflegen [🎥 YouGlish](https://de.youglish.com/pronounce/Tabellenpflege/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34532,6 +35512,8 @@
      ➔ Разработчик сгенерировал ведение таблицы для новой настроечной таблицы.
   2. *Über die Tabellenpflege können Anwender Daten direkt erfassen und ändern.*
      ➔ Через ведение таблицы пользователи могут напрямую вводить и изменять данные.
+  3. *Die Tabellenpflege erlaubt es berechtigten Anwendern, Einträge direkt zu bearbeiten.*
+     ➔ Ведение таблицы позволяет уполномоченным пользователям редактировать записи напрямую.
 
 ### 2023. die Pflegesicht, die Pflegesichten [🎥 YouGlish](https://de.youglish.com/pronounce/Pflegesicht/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34549,6 +35531,8 @@
      ➔ Ты же знаешь, дорогая, я не обидчива.
   5. *Ich komme nur auf die Bitte meiner Pflegetochter.*
      ➔ Я пришел сюда только по просьбе Ровены.
+  6. *Eine Pflegesicht wird über den Table Maintenance Generator erstellt.*
+     ➔ Ракурс ведения создается с помощью генератора ведения таблиц.
 
 ### 2024. das SAP-Standard-Verhalten, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/SAP-Standard-Verhalten/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34560,6 +35544,8 @@
      ➔ Нам не следует менять стандартное поведение SAP без веской причины.
   2. *Das SAP-Standard-Verhalten deckt die meisten Geschäftsprozesse bereits ab.*
      ➔ Стандартное поведение SAP уже покрывает большинство бизнес-процессов.
+  3. *Jede Abweichung vom SAP-Standard-Verhalten muss gut begründet sein.*
+     ➔ Любое отклонение от стандартного поведения системы SAP должно быть хорошо обосновано.
 
 ### 2025. die Modifikation, die Modifikationen [🎥 YouGlish](https://de.youglish.com/pronounce/Modifikation/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34577,6 +35563,8 @@
      ➔ Всего лишь небольшая доработка и дальность стрелы увеличивается вдвое.
   5. *Für diese Modifikation interessierte sich vor allem die British Army, die anfangs etwa 2500 Fahrzeuge orderte.*
      ➔ Для этой модификации, особенно британской армии, которая первоначально заказала около 2500 автомобилей.
+  6. *Eine Modifikation des SAP-Quellcodes sollte vermieden werden, um spätere Upgrades nicht zu erschweren.*
+     ➔ Модификации исходного кода SAP следует избегать, чтобы не усложнять последующие обновления системы.
 
 ### 2026. das BAdI, die BAdIs [🎥 YouGlish](https://de.youglish.com/pronounce/BAdI/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34594,6 +35582,8 @@
      ➔ Ребята, это мой новый адъютант, Бади Бассим.
   5. *Am Tag der afghanischen Parlamentswahlen, auf die Glen so geduldig gewartet hatte, stieß Badi Basim zu seinem Team.*
      ➔ В день всеобщих выборов в Афганистане, которого Глен так сильно ждал, к его команде присоединился Бади Бассим.
+  6. *Ein BAdI stellt eine moderne, objektorientierte Erweiterungsmethode im SAP-system dar.*
+     ➔ BAdI представляет собой современный объектно-ориентированный метод расширения в системе SAP.
 
 ### 2027. der User-Exit, die User-Exits [🎥 YouGlish](https://de.youglish.com/pronounce/User-Exit/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34605,6 +35595,8 @@
      ➔ Мы используем User-Exit, чтобы добавить дополнительную проверку при сохранении.
   2. *Der User-Exit ermöglicht kundenspezifische Erweiterungen im SAP-Standard.*
      ➔ User-Exit позволяет выполнять специфические для клиента расширения в стандарте SAP.
+  3. *Der User-Exit ermöglicht das Einfügen von ABAP-Code an vordefinierten Stellen im Vertriebsbeleg.*
+     ➔ User-Exit позволяет вставлять ABAP-код в предопределенные точки сбытового документа.
 
 ### 2028. die Eigenentwicklung, die Eigenentwicklungen [🎥 YouGlish](https://de.youglish.com/pronounce/Eigenentwicklung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34622,6 +35614,8 @@
      ➔ Так, например, в этом году выходит Yars' Revenge, которая стала самой популярной оригинальной игрой Atari для Atari 2600.
   5. *Nach Angaben Katsmans in einem Interview 2011 strebt das Unternehmen keine Eigenentwicklungen an, da Katsman keine Leidenschaft für das Game Design hegt und seinen Schwerpunkt in der technischen Dienstleistung sieht.*
      ➔ По словам Катсмана в интервью в 2011 году, компания не стремится к саморазвитию, потому что у Катсмана нет страсти к дизайну игр и он сосредоточен на техническом обслуживании.
+  6. *Eine Eigenentwicklung muss den Programmierrichtlinien des Unternehmens entsprechen.*
+     ➔ Собственная разработка должна соответствовать правилам программирования компании.
 
 ### 2029. das Z-Programm, die Z-Programme [🎥 YouGlish](https://de.youglish.com/pronounce/Z-Programm/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34635,6 +35629,8 @@
      ➔ Он был определен отраслевой группой, во главе с основными японскими производителями центральных процессоров (ЦП), включая NEC, Hitachi, Fujitsu и Toshiba, для устранения недостатков C++ для встроенных приложений.
   3. *Hier können Sie eine kurze Beschreibung für Dateien des gewählten Typs eingeben (z. B.„ HTML-Seite"). Einige Programme wie z. B. Konqueror benutzen sie, um den Inhalt von Ordnern anzuzeigen.*
      ➔ Вы можете ввести краткое описание для файлов данного типа (например, 'HTML Page'). Это описание может быть использовано программами, такими как Konqueror, для отображения содержимого каталога.
+  4. *Das Z-Programm wurde entwickelt, um einen speziellen Bericht für das Management zu erstellen.*
+     ➔ Z-программа была разработана для создания специального отчета для руководства.
 
 ### 2030. die Z-Tabelle, die Z-Tabellen [🎥 YouGlish](https://de.youglish.com/pronounce/Z-Tabelle/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34652,6 +35648,8 @@
      ➔ Щелкните лист, с которого нужно снять защиту.
   5. *Zeigt alle Felder an, die in die neue Tabelle aufgenommen werden.*
      ➔ Отображает все поля, которые будут включены в новую таблицу.
+  6. *Die Z-Tabelle speichert zusätzliche kundenspezifische Daten, die der Standard nicht abdeckt.*
+     ➔ Z-таблица сохраняет дополнительные данные клиента, которые не охвачены стандартом.
 
 ### 2031. das ABAP, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/ABAP/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34663,6 +35661,8 @@
      ➔ Бизнес-логика в ERP-системе полностью написана на ABAP.
   2. *Erfahrene Entwickler können komplexe Berichte in ABAP erstellen.*
      ➔ Опытные разработчики могут создавать сложные отчеты на ABAP.
+  3. *ABAP ist die proprietäre Programmiersprache, auf der SAP-Anwendungen basieren.*
+     ➔ ABAP — это проприетарный язык программирования, на котором базируются приложения SAP.
 
 ### 2032. der ABAP-Entwickler, die ABAP-Entwickler [🎥 YouGlish](https://de.youglish.com/pronounce/ABAP-Entwickler/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34674,6 +35674,8 @@
      ➔ Мы ищем опытного разработчика ABAP для поддержки нашей команды.
   2. *Der ABAP-Entwickler implementiert die Anforderungen aus dem Fachkonzept.*
      ➔ Разработчик ABAP реализует требования из функционального проекта.
+  3. *Der ABAP-Entwickler erstellt Schnittstellen und erweitert die Standardfunktionen.*
+     ➔ Разработчик ABAP создает интерфейсы и расширяет стандартные функции.
 
 ### 2033. die Funktionsbeschreibung, die Funktionsbeschreibungen [🎥 YouGlish](https://de.youglish.com/pronounce/Funktionsbeschreibung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34691,6 +35693,8 @@
      ➔ Следующие данные используются в некоторых примерах описания функций:
   5. *Die Daten in der folgenden Tabelle dienen als Grundlage für einige der Beispiele in den Funktionsbeschreibungen:*
      ➔ В приведенной ниже таблице содержатся сведения о некоторых функциях и примеры.
+  6. *Die Funktionsbeschreibung dient als Vorlage für den Entwickler zur Realisierung des Programms.*
+     ➔ Функциональное описание (спецификация) служит шаблоном для разработчика при реализации программы.
 
 ### 2034. das Konzept, die Konzepte [🎥 YouGlish](https://de.youglish.com/pronounce/Konzept/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34708,6 +35712,8 @@
      ➔ Видите, на уровне концепции, это была отличная идея.
   5. *Ich habe nie in dieses Konzept gepasst.*
      ➔ Я никогда не вписывался в это понятие.
+  6. *Das technische Konzept beschreibt die Architektur und Datenflüsse der geplanten Lösung.*
+     ➔ Техническая концепция описывает архитектуру и потоки данных планируемого решения.
 
 ### 2035. das Fachkonzept, die Fachkonzepte [🎥 YouGlish](https://de.youglish.com/pronounce/Fachkonzept/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34725,6 +35731,8 @@
      ➔ Мэр […] поручил муниципальной проектной группе разработать техническую концепцию. "Помимо повышения доступности и немедленной доступности городской администрации", - говорит L[...], - "колл-центр обслуживания граждан может избежать неприятных для обслуживания переводов. Информация обо всех часто запрашиваемых администрацией продуктах и ​​услугах может быть сгруппирована и передана туда".
   5. *Die in einer Projektphase erstellte Dokumentation ist essenziell in einer späteren Phase. Wenn wir uns beispielsweise die Spezifikation (auch Fachkonzept oder Pflichtenheft genannt) ansehen, so geht sie in das Design, die Entwicklung und schließlich in den Test und die Abnahme der Software ein.*
      ➔ Документация, созданная на одном этапе проекта, необходима на более позднем этапе. Например, если мы посмотрим на спецификацию (также называемую технической концепцией или функциональной спецификацией), она включает в себя проектирование, разработку и, наконец, тестирование и приемку программного обеспечения.
+  6. *Das Fachkonzept beschreibt die Anforderungen aus Sicht der Fachabteilung.*
+     ➔ Бизнес-концепция (ТЗ) описывает требования с точки зрения профильного подразделения.
 
 ### 2036. der Projektschritt, die Projektschritte [🎥 YouGlish](https://de.youglish.com/pronounce/Projektschritt/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34742,6 +35750,8 @@
      ➔ Поскольку на февральском заседании городского парламента некоторые представители жаловались на недостаточную прозрачность проекта, комитеты должны быть проинформированы более подробно о дальнейших шагах проекта.
   5. *Die Initiative Idee-IT Westsachsen engagiert sich daher für diese Klientel und hat mit einer Homepage für Mädchen (www. idee-it. de) einen ersten Projektschritt gestartet.*
      ➔ Поэтому инициатива Idea-IT Западная Саксония ориентирована на эту клиентуру и начала первый этап проекта с домашней страницы для девочек (www.idee-it.de).
+  6. *Jeder Projektschritt muss vom Projektleiter abgenommen und dokumentiert werden.*
+     ➔ Каждый этап проекта должен быть принят руководителем проекта и задокументирован.
 
 ### 2037. die Projektphase, die Projektphasen [🎥 YouGlish](https://de.youglish.com/pronounce/Projektphase/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34757,6 +35767,8 @@
      ➔ Второй этап реконструкции практически завершен.
   4. *Die zweite Projektphase ist mehr oder weniger abgeschlossen.*
      ➔ Подобно жизни и черепахе.
+  5. *In dieser Projektphase konzentrieren wir uns auf die Datenbereinigung.*
+     ➔ На этой фазе проекта мы концентрируемся на очистке данных.
 
 ### 2038. die Anforderungserhebung, die Anforderungserhebungen [🎥 YouGlish](https://de.youglish.com/pronounce/Anforderungserhebung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34768,6 +35780,8 @@
      ➔ Сбор требований проходит на воркшопах с ключевыми пользователями.
   2. *Eine präzise Anforderungserhebung verhindert spätere Verzögerungen im Projekt.*
      ➔ Точный сбор требований предотвращает последующие задержки в проекте.
+  3. *Die Anforderungserhebung erfolgt in Workshops mit Vertretern der Fachabteilungen.*
+     ➔ Сбор требований осуществляется на воркшопах с представителями бизнес-подразделений.
 
 ### 2039. der Key-User, die Key-User [🎥 YouGlish](https://de.youglish.com/pronounce/Key-User/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34779,6 +35793,8 @@
      ➔ Ключевой пользователь тестирует новые функции и обучает конечных пользователей.
   2. *Die Key-User aus der Buchhaltung gaben grünes Licht für den Produktivstart.*
      ➔ Ключевые пользователи из бухгалтерии дали зеленый свет на запуск в промышленную эксплуатацию.
+  3. *Der Key-User unterstützt die Kollegen bei täglichen Fragen im Umgang mit SAP.*
+     ➔ Ключевой пользователь поддерживает коллег при ежедневных вопросах по работе с SAP.
 
 ### 2040. das Testdrehbuch, die Testdrehbücher [🎥 YouGlish](https://de.youglish.com/pronounce/Testdrehbuch/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34790,6 +35806,8 @@
      ➔ Для интеграционного теста консультант создал детальный сценарий тестирования (Testdrehbuch).
   2. *Jeder Schritt im Testdrehbuch muss vom Tester abgezeichnet werden.*
      ➔ Каждый шаг в сценарии тестирования должен быть подписан тестером.
+  3. *Das Testdrehbuch enthält detaillierte Anweisungen für den Testablauf.*
+     ➔ Сценарий тестирования содержит подробные инструкции для выполнения тестов.
 
 ### 2041. der Testfall, die Testfälle [🎥 YouGlish](https://de.youglish.com/pronounce/Testfall/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34807,6 +35825,8 @@
      ➔ Тогда это наше прецедентное дело.
   5. *Voq war der Testfall.*
      ➔ Вок был пробным вариантом.
+  6. *Jeder Testfall muss im Testprotokoll mit 'Erfolgreich' oder 'Fehlerhaft' bewertet werden.*
+     ➔ Каждый тест-кейс должен быть оценен в протоколе тестирования как 'Успешно' или 'Ошибка'.
 
 ### 2042. der Fehler, die Fehler [🎥 YouGlish](https://de.youglish.com/pronounce/Fehler/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34824,6 +35844,8 @@
      ➔ А то ты любишь сесть и заявить, что это твоя вина.
   5. *Wie ich mich erinnere, hatte Ihr Vater denselben Fehler.*
      ➔ Насколько я помню, у твоего отца был такой же недостаток.
+  6. *Der Fehler im Abrechnungsprogramm wurde durch ein fehlerhaftes Customizing verursacht.*
+     ➔ Ошибка в программе расчета была вызвана некорректной настройкой параметров (кастомизацией).
 
 ### 2043. beheben [🎥 YouGlish](https://de.youglish.com/pronounce/beheben/german)
 - **Часть речи (Part of Speech):** Verb
@@ -34844,6 +35866,8 @@
      ➔ Вам понадобится операция, но я уверена что мы сможем решить проблему.
   5. *Ich kann jeweils nur einen Ihrer Fehler beheben.*
      ➔ Я могу исправлять только по одной вашей ошибке за раз.
+  6. *Wir müssen diesen Fehler beheben, bevor das System in Betrieb geht.*
+     ➔ Мы должны исправить эту ошибку до того, как система будет введена в эксплуатацию.
 
 ### 2044. das Testprotokoll, die Testprotokolle [🎥 YouGlish](https://de.youglish.com/pronounce/Testprotokoll/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34859,6 +35883,8 @@
      ➔ Однако для оценки всех протоколов испытаний потребуются месяцы.
   4. *Auch der von Milan behauptete zeitliche Ablauf sei aufgrund der vorgelegten Testprotokolle nicht nachvollziebar.*
      ➔ Сроки, заявленные «Миланом», также непонятны на основании представленных протоколов испытаний.
+  5. *Nach dem Testlauf muss das ausgefüllte Testprotokoll unterschrieben werden.*
+     ➔ После выполнения теста заполненный протокол тестирования должен быть подписан.
 
 ### 2045. der Produktivstart, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Produktivstart/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34876,6 +35902,8 @@
      ➔ Производительность падает, и отходы приходится складировать под землей.
   5. *Und all dies hat einen sehr gleichmäßigen und vorhersehbaren Anstieg an Produktivität vorangetrieben.*
      ➔ И всё это является двигателем очень гладкого и предсказуемого прироста продуктивности.
+  6. *Beim Produktivstart wird das alte System abgeschaltet und Daten nur noch im SAP erfasst.*
+     ➔ При продуктивном старте старая система отключается, а данные регистрируются только в SAP.
 
 ### 2046. die Hypercare-Phase, die Hypercare-Phasen [🎥 YouGlish](https://de.youglish.com/pronounce/Hypercare-Phase/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34887,6 +35915,8 @@
      ➔ После запуска проекта команда проекта поддерживает клиента на этапе усиленной поддержки (Hypercare).
   2. *Die Hypercare-Phase dauert in der Regel vier Wochen.*
      ➔ Этап усиленной поддержки обычно длится четыре недели.
+  3. *Während der Hypercare-Phase steht das Projektteam für dringende Supportanfragen bereit.*
+     ➔ В период усиленной поддержки после старта (Hypercare) проектная команда готова для решения срочных запросов поддержки.
 
 ### 2047. der Regelbetrieb, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Regelbetrieb/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34902,6 +35932,8 @@
      ➔ После успешных испытаний LARS-1 был принят на вооружение Бундесвера в 1969 году.
   4. *Der Regiebetrieb bildet auch in Österreich lediglich eine Abteilung der allgemeinen Verwaltung.*
      ➔ Таким образом округ в Австрии является основной единицей общего управления.
+  5. *Nach vier Wochen Hypercare geht das System in den Regelbetrieb über.*
+     ➔ После четырех недель усиленной поддержки система переходит в регулярную эксплуатацию.
 
 ### 2048. das Ticket-Volumen, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Ticket-Volumen/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34913,6 +35945,8 @@
      ➔ Объем тикетов кратковременно вырос сразу после запуска в эксплуатацию.
   2. *Durch Schulungen konnten wir das Ticket-Volumen im Support reduzieren.*
      ➔ Благодаря обучению мы смогли сократить объем тикетов в поддержке.
+  3. *Das Ticket-Volumen sinkt in der Regel einige Wochen nach dem Go-Live.*
+     ➔ Объем поступающих заявок (тикетов), как правило, снижается через несколько недель после запуска системы.
 
 ### 2049. die Bearbeitungszeit, die Bearbeitungszeiten [🎥 YouGlish](https://de.youglish.com/pronounce/Bearbeitungszeit/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34930,6 +35964,8 @@
      ➔ 7 дней на обработку.
   5. *Texturgenerierung nimmt den grossten Anteil der Bearbeitungszeit.*
      ➔ На первый этап тратится основное время обработки.
+  6. *Die Bearbeitungszeit für kritische Fehler beträgt laut SLA maximal vier Stunden.*
+     ➔ Время обработки критических ошибок согласно SLA составляет максимум четыре часа.
 
 ### 2050. das Service Level Agreement (SLA), (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Service%20Level%20Agreement%20%28SLA%29/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34964,6 +36000,8 @@
      ➔ Я знаю о "Коррекции".
   5. *Ja, ich meine, du musst noch ein paar Korrekturen vornehmen, ein bisschen Bearbeitung und Bereinigung.*
      ➔ Да, но тебе нужно немного поработать над ним, - немного отредактировать и подчистить.
+  6. *Die Bereinigung von doppelten Stammsätzen verbessert die Qualität der Berichte.*
+     ➔ Очистка дублирующихся основных записей повышает качество отчетов.
 
 ### 2052. die Datenbereinigung, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Datenbereinigung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34975,6 +36013,8 @@
      ➔ Очистка данных в старой системе экономит много времени при миграции данных.
   2. *Für die Datenbereinigung sind die Fachabteilungen verantwortlich.*
      ➔ За очистку данных несут ответственность бизнес-подразделения.
+  3. *Die Datenbereinigung ist ein kritischer Erfolgsfaktor für jede Datenmigration.*
+     ➔ Очистка данных является критическим фактором успеха для любой миграции данных.
 
 ### 2053. die Schnittstellenabstimmung, die Abstimmungen [🎥 YouGlish](https://de.youglish.com/pronounce/Schnittstellenabstimmung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34986,6 +36026,8 @@
      ➔ Согласование интерфейсов с внешними партнерами идет по плану.
   2. *Wir müssen die Schnittstellenabstimmung vor dem Integrationstest abschließen.*
      ➔ Нам необходимо завершить согласование интерфейсов перед интеграционным тестом.
+  3. *Die Schnittstellenabstimmung mit dem Logistikpartner findet wöchentlich statt.*
+     ➔ Согласование интерфейсов с партнером по логистике проводится еженедельно.
 
 ### 2054. das Migrationswerkzeug, die Migrationswerkzeuge [🎥 YouGlish](https://de.youglish.com/pronounce/Migrationswerkzeug/german)
 - **Часть речи (Part of Speech):** Noun
@@ -34997,6 +36039,8 @@
      ➔ В качестве инструмента миграции мы используем проверенный SAP S/4HANA Migration Cockpit.
   2. *Das Migrationswerkzeug importiert die Daten automatisch aus Excel-Vorlagen.*
      ➔ Инструмент миграции автоматически импортирует данные из шаблонов Excel.
+  3. *Das optimale Migrationswerkzeug für SAP S/4HANA ist das Migration Cockpit.*
+     ➔ Оптимальным инструментом миграции для SAP S/4HANA является Migration Cockpit.
 
 ### 2055. das LTMC (Legacy Transfer Migration Cockpit), (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/LTMC%20%28Legacy%20Transfer%20Migration%20Cockpit%29/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35031,6 +36075,8 @@
      ➔ Стандарт определяет структуры данных и службы обмена медицинскими изображениями и другими данными.
   5. *Plattformunabhängige Skalierbarkeit der Performanz wird durch rekursive Datenstrukturen und Algorithmen erreicht.*
      ➔ Независимая от платформы масштабируемость производительности достигнута рекурсивной структурой данных и рекурсивными алгоритмами.
+  6. *Die Datenstruktur der Quelltabelle muss exakt auf die SAP-Zielstruktur abgebildet werden.*
+     ➔ Структура данных исходной таблицы должна быть точно сопоставлена с целевой структурой SAP.
 
 ### 2057. die Mapping-Regel, die Mapping-Regeln [🎥 YouGlish](https://de.youglish.com/pronounce/Mapping-Regel/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35042,6 +36088,8 @@
      ➔ Правило сопоставления (Mapping-Regel) определяет, как старые номера счетов переводятся в новые.
   2. *Wir müssen jede Mapping-Regel im Migrationswerkzeug definieren.*
      ➔ Мы должны определить каждое правило сопоставления в инструменте миграции.
+  3. *In der Mapping-Regel legen Sie fest, wie Quellfelder in Zielfelder umgewandelt werden.*
+     ➔ В правиле сопоставления данных вы определяете, как исходные поля преобразуются в целевые.
 
 ### 2058. das Quellfeld, die Quellfelder [🎥 YouGlish](https://de.youglish.com/pronounce/Quellfeld/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35053,6 +36101,8 @@
      ➔ Значение из исходного поля переносится в соответствующее целевое поле.
   2. *Das Quellfeld in der Alttabelle hat eine Länge von zehn Zeichen.*
      ➔ Исходное поле в старой таблице имеет длину десять символов.
+  3. *Das Quellfeld enthält das Format des Altsystems.*
+     ➔ Исходное поле содержит формат исторической системы.
 
 ### 2059. das Zielfeld, die Zielfelder [🎥 YouGlish](https://de.youglish.com/pronounce/Zielfeld/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35070,6 +36120,8 @@
      ➔ Вам пришло резюме от девушки, с которой вы познакомились в театре Зигфелд.
   5. *Lucy Danziger, eine Tänzerin im Ziegfeld Follies.*
      ➔ Люси Данцигер, танцовщица в шоу "Шалуньи Зигфелда".
+  6. *Das Zielfeld in der SAP-Tabelle nimmt den konvertierten Wert auf.*
+     ➔ Целевое поле в таблице SAP принимает сконвертированное значение.
 
 ### 2060. die Konvertierungsregel, die Konvertierungsregeln [🎥 YouGlish](https://de.youglish.com/pronounce/Konvertierungsregel/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35081,6 +36133,8 @@
      ➔ Правило преобразования изменяет формат даты исторических данных.
   2. *Wir haben eine kundenspezifische Konvertierungsregel für die Kundennummern implementiert.*
      ➔ Мы внедрили специфическое для клиента правило преобразования для номеров клиентов.
+  3. *Eine Konvertierungsregel wandelt beispielsweise alte Ländercodes in ISO-Codes um.*
+     ➔ Правило конвертации преобразует, например, старые коды стран в коды ISO.
 
 ### 2061. das Testsystem, die Testsysteme [🎥 YouGlish](https://de.youglish.com/pronounce/Testsystem/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35098,6 +36152,8 @@
      ➔ С 21 марта 2010 года тест-системы, проверяющие, заражен ли человек вирусом ВИЧ, могут предоставляться только врачам, амбулаторным и стационарным медицинским учреждениям, а также органам здравоохранения Германии.
   5. *[…] es ist nach wie vor so, dass die Arzneiprüfung an Mäusen vorgenommen wird, jedoch dank neuerer Testsysteme in geringerem Ausmass als früher.*
      ➔ […] тестирование на наркотики по-прежнему проводится на мышах, но благодаря новым системам тестирования в меньшей степени, чем раньше.
+  6. *Auf dem Testsystem können Sie neue Geschäftsszenarien gefahrlos erproben.*
+     ➔ В тестовой системе вы можете безопасно опробовать новые бизнес-сценарии.
 
 ### 2062. das Sandbox-System, die Sandbox-Systeme [🎥 YouGlish](https://de.youglish.com/pronounce/Sandbox-System/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35109,6 +36165,8 @@
      ➔ В системе песочницы (Sandbox) мы можем без риска опробовать новые идеи настроек.
   2. *Das Sandbox-System wurde gestern mit aktuellen Daten aktualisiert.*
      ➔ Система песочницы была обновлена вчера актуальными данными.
+  3. *Das Sandbox-System dient als freie Testumgebung ohne Auswirkung auf andere Projekte.*
+     ➔ Песочница (sandbox) служит свободной тестовой средой без влияния на другие проекты.
 
 ### 2063. das Release-Upgrade, die Release-Upgrades [🎥 YouGlish](https://de.youglish.com/pronounce/Release-Upgrade/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35120,6 +36178,8 @@
      ➔ В выходные мы проведем обновление релиза в тестовой системе.
   2. *Ein Release-Upgrade bringt neue Funktionen und Sicherheitsupdates.*
      ➔ Обновление релиза приносит новые функции и обновления безопасности.
+  3. *Ein Release-Upgrade bringt das System auf den neuesten Softwarestand.*
+     ➔ Обновление версии (Release-Upgrade) переводит систему на последнюю версию ПО.
 
 ### 2064. das Support Package, die Support Packages [🎥 YouGlish](https://de.youglish.com/pronounce/Support%20Package/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35137,6 +36197,8 @@
      ➔ С случае проприетарного программного обеспечения, поддержка это монополия.
   5. *Hast Du Fragen oder Probleme, wende Dich bitte an unseren Support.*
      ➔ Хочешь задать вопросы или поделиться проблемами? Тогда обращайся в нашу службу поддержки.
+  6. *Das Einspielen eines Support Packages behebt bekannte Fehler im Standard.*
+     ➔ Установка пакета поддержки (Support Package) устраняет известные ошибки в стандарте.
 
 ### 2065. der SAP-Hinweis, die SAP-Hinweise [🎥 YouGlish](https://de.youglish.com/pronounce/SAP-Hinweis/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35148,6 +36210,8 @@
      ➔ Эту ошибку можно исправить, применив ноту SAP (SAP-Hinweis).
   2. *Der Berater suchte im SAP-Support-Portal nach einem passenden SAP-Hinweis.*
      ➔ Консультант искал подходящую ноту SAP на портале поддержки SAP.
+  3. *Im SAP-Hinweis finden Sie Anweisungen zur Korrektur eines Programmfehlers.*
+     ➔ В ноте SAP вы найдете инструкции по исправлению программной ошибки.
 
 ### 2066. einspielen [🎥 YouGlish](https://de.youglish.com/pronounce/einspielen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -35168,6 +36232,8 @@
      ➔ У нас все будет нормально, да?
   5. *Könnten wir bitte das Video einspielen?*
      ➔ Мы можем включить запись.
+  6. *Sie müssen den SAP-Hinweis einspielen, um das Problem in der Buchhaltung zu beheben.*
+     ➔ Вам необходимо применить ноту SAP, чтобы устранить проблему в бухгалтерии.
 
 ### 2067. der Hotfix, die Hotfixes [🎥 YouGlish](https://de.youglish.com/pronounce/Hotfix/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35183,6 +36249,8 @@
      ➔ все общедоступные обновления, обновления системы безопасности, накопительные обновления и исправления, выпущенные в феврале 2009 года.
   4. *Wenn Sie bereits einen Visual Studio 2008-Hotfix oder die Vorabversion von Visual Studio 2008 SP1 installiert haben, müssen Sie vor der Installation von Visual Studio 2008 SP1 das Service Pack-Vorbereitungstool ausführen.*
      ➔ Если ранее были установлены исправление Visual Studio 2008 Hotfix или предварительная версия пакета обновления Visual Studio 2008 SP1, перед установкой Visual Studio 2008 SP1 необходимо запустить инструмент подготовки к установке пакета обновления.
+  5. *Der Hotfix wurde direkt vom SAP-Support zur Verfügung gestellt.*
+     ➔ Срочное исправление (хотфикс) было предоставлено непосредственно службой поддержки SAP.
 
 ### 2068. die Systemaktualisierung, die Systemaktualisierungen [🎥 YouGlish](https://de.youglish.com/pronounce/Systemaktualisierung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35194,6 +36262,8 @@
      ➔ Запланированное обновление системы происходит в нерабочее время.
   2. *Während der Systemaktualisierung ist das SAP-System nicht erreichbar.*
      ➔ Во время обновления системы система SAP недоступна.
+  3. *Die Systemaktualisierung wird am Wochenende durchgeführt, um den Betrieb nicht zu stören.*
+     ➔ Обновление системы выполняется в выходные дни, чтобы не мешать текущей работе.
 
 ### 2069. die Datensicherung, die Datensicherungen [🎥 YouGlish](https://de.youglish.com/pronounce/Datensicherung/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35211,6 +36281,8 @@
      ➔ Один из них хранится для резервного копирования, а другой был использован в качестве отправной точки для работы на следующий день.
   5. *Was ist mit Datensicherung?*
      ➔ А что на счёт запасного устройства?
+  6. *Die Datensicherung muss täglich durchgeführt und an einem sicheren Ort aufbewahrt werden.*
+     ➔ Резервное копирование данных должно выполняться ежедневно, а копии должны храниться в безопасном месте.
 
 ### 2070. das Backup, die Backups [🎥 YouGlish](https://de.youglish.com/pronounce/Backup/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35228,6 +36300,8 @@
      ➔ Ладно, отменить подкрепление!
   5. *Ich prüfe das Backup.*
      ➔ Я проверю резервные копии.
+  6. *Im Falle eines Systemabsturzes kann das letzte Backup eingespielt werden.*
+     ➔ В случае сбоя системы может быть установлена последняя резервная копия (бэкап).
 
 ### 2071. wiederherstellen [🎥 YouGlish](https://de.youglish.com/pronounce/wiederherstellen/german)
 - **Часть речи (Part of Speech):** Verb
@@ -35248,6 +36322,8 @@
      ➔ К счастью, имеется много программных приложений, которые умеют восстанавливать утерянные пароли.
   5. *Denkst du, dass du ihre Erinnerung wiederherstellen kannst?*
      ➔ Думаете, вы сможете вернуть ей память?
+  6. *Wir mussten das System aus dem gestrigen Backup wiederherstellen.*
+     ➔ Нам пришлось восстановить систему из вчерашней резервной копии.
 
 ### 2072. der Systemausfall, die Systemausfälle [🎥 YouGlish](https://de.youglish.com/pronounce/Systemausfall/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35265,6 +36341,8 @@
      ➔ В тот день цифры превратились в иероглифы и когда последний из них остановился, всё начало трястись, а экран... экран заполнила надпись "отказ системы".
   5. *Könnte am Systemausfall liegen.*
      ➔ Я думаю, из-за поломки.
+  6. *Ein Systemausfall im Produktivsystem verursacht hohe finanzielle Schäden.*
+     ➔ Сбой в работе продуктивной системы наносит большой финансовый ущерб.
 
 ### 2073. die Ausfallzeit, die Ausfallzeiten [🎥 YouGlish](https://de.youglish.com/pronounce/Ausfallzeit/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35282,6 +36360,8 @@
      ➔ Я ношу эти инструменты с собой потому что на работе бывает много свободного времени.
   5. *Eine Benachrichtigung enthält den Namen der Website oder des Servers, den aktuellen Status, die Ausfallzeit in Ihrer lokalen Zeit und relevante Fehlerangaben.*
      ➔ Уведомление содержит название сайта или сервера, текущий статус, время возникновения неполадки (ваше местное) и описание ошибки.
+  6. *Die geplante Ausfallzeit für die Systemwartung beträgt zwei Stunden.*
+     ➔ Запланированное время простоя для технического обслуживания системы составляет два часа.
 
 ### 2074. die Wiederherstellungszeit, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Wiederherstellungszeit/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35293,6 +36373,8 @@
      ➔ Максимальное время восстановления в случае катастрофы составляет четыре часа.
   2. *Wir testen die Wiederherstellungszeit bei unserer jährlichen Notfallübung.*
      ➔ Мы тестируем время восстановления во время ежегодных учений по чрезвычайным ситуациям.
+  3. *Die Wiederherstellungszeit nach dem Datenbankfehler betrug weniger als eine Stunde.*
+     ➔ Время восстановления после ошибки базы данных составило менее одного часа.
 
 ### 2075. die Katastrophenfall-Vorsorge, (nur Sg.) [🎥 YouGlish](https://de.youglish.com/pronounce/Katastrophenfall-Vorsorge/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35304,6 +36386,8 @@
      ➔ Аварийное планирование предусматривает ежедневное резервное копирование в отдельном месте.
   2. *Ein wichtiger Teil der Katastrophenfall-Vorsorge ist der Disaster-Recovery-Plan.*
      ➔ Важной частью планирования действий на случай чрезвычайных ситуаций является план аварийного восстановления.
+  3. *Die Katastrophenfall-Vorsorge stellt sicher, dass bei einem Brand ein redundantes Rechenzentrum übernimmt.*
+     ➔ Планирование аварийного восстановления гарантирует, что в случае пожара управление возьмет на себя резервный дата-центр.
 
 ### 2076. der Datenverlust, die Datenverluste [🎥 YouGlish](https://de.youglish.com/pronounce/Datenverlust/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35321,6 +36405,8 @@
      ➔ Приводит к потере данных.
   5. *Geben Sie eine kleinere Anzahl von Zeilen an, als im benutzten Vokabeldokument vorhanden sind, so kann das zum Datenverlust führen.*
      ➔ Если вы по ошибке недовведёте цифру и количество рядов окажется меньше текущего, возможна потеря данных.
+  6. *Ohne regelmäßige Backups riskieren Sie bei einem Hardwarefehler einen massiven Datenverlust.*
+     ➔ Без регулярного резервного копирования вы рискуете получить масштабную потерю данных в случае сбоя оборудования.
 
 ### 2077. das Berechtigungskonzept, die Berechtigungskonzepte [🎥 YouGlish](https://de.youglish.com/pronounce/Berechtigungskonzept/german)
 - **Часть речи (Part of Speech):** Noun
@@ -35332,6 +36418,8 @@
      ➔ Новая концепция полномочий защищает конфиденциальные данные персонала от несанкционированного доступа.
   2. *Der Sicherheitsbeauftragte muss das Berechtigungskonzept genehmigen.*
      ➔ Сотрудник по безопасности должен утвердить концепцию полномочий.
+  3. *Das Berechtigungskonzept regelt den Zugriff der Mitarbeiter auf vertrauliche Finanzdaten.*
+     ➔ Концепция полномочий регулирует доступ сотрудников к конфиденциальным финансовым данным.
 
 
 ---
