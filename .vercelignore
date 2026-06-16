@@ -1,0 +1,18 @@
+.vercel/
+__pycache__/
+.git/
+.gemini/
+german_vocab/
+german_vocab_backup/
+scratch/
+*.json
+*.txt
+*.md
+*.py
+all_words.txt
+verbs_list.txt
+fallbacks.txt
+projektmanagement_anki.txt
+projektmanagement_wortschatz.md
+projektmanagement_wortschatz.html
+# Do NOT ignore index.html so Vercel can serve it

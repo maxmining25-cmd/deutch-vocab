@@ -2243,61 +2243,172 @@ def generate_html(all_words, categories, html_path):
 
             document.getElementById('stats-summary-cards').innerHTML = `
                 <div style="background: linear-gradient(135deg, rgba(99,102,241,0.15), rgba(139,92,246,0.15)); padding: 18px; border-radius: 16px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
-                    <div style="font-size: 2rem; font-weight: 800; color: #6366f1;">\${{totalReviewed}}</div>
+                    <div style="font-size: 2rem; font-weight: 800; color: #6366f1;">${{totalReviewed}}</div>
                     <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600; text-transform: uppercase; margin-top: 4px;">Всего просмотрено</div>
                 </div>
                 <div style="background: linear-gradient(135deg, rgba(16,185,129,0.15), rgba(5,150,105,0.15)); padding: 18px; border-radius: 16px; border: 1px solid rgba(16,185,129,0.2); text-align: center;">
-                    <div style="font-size: 2rem; font-weight: 800; color: #10b981;">\${{totalMemorized}}</div>
+                    <div style="font-size: 2rem; font-weight: 800; color: #10b981;">${{totalMemorized}}</div>
                     <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600; text-transform: uppercase; margin-top: 4px;">Запомнено</div>
                 </div>
                 <div style="background: linear-gradient(135deg, rgba(245,158,11,0.15), rgba(217,119,6,0.15)); padding: 18px; border-radius: 16px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
-                    <div style="font-size: 2rem; font-weight: 800; color: #f59e0b;">\${{learnedInGroup}} / \${{totalWordsInGroup}}</div>
+                    <div style="font-size: 2rem; font-weight: 800; color: #f59e0b;">${{learnedInGroup}} / ${{totalWordsInGroup}}</div>
                     <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600; text-transform: uppercase; margin-top: 4px;">Выучено (группа)</div>
                 </div>
                 <div style="background: linear-gradient(135deg, rgba(236,72,153,0.15), rgba(219,39,119,0.15)); padding: 18px; border-radius: 16px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
-                    <div style="font-size: 2rem; font-weight: 800; color: #ec4899;">\${{Object.keys(daily).length}}</div>
+                    <div style="font-size: 2rem; font-weight: 800; color: #ec4899;">${{Object.keys(daily).length}}</div>
                     <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600; text-transform: uppercase; margin-top: 4px;">Дней обучения</div>
                 </div>
             `;
 
-            // Chart: last 30 days
-            const dates = [];
-            const now = new Date();
-            for (let i = 29; i >= 0; i--) {{
-                const d = new Date(now);
-                d.setDate(d.getDate() - i);
-                dates.push(d.toISOString().split('T')[0]);
+            // Render Contribution Heatmap Grid (past 53 weeks)
+            const today = new Date();
+            const startDay = new Date(today);
+            startDay.setDate(today.getDate() - 365); // Go back ~1 year
+            const dayOfWeek = startDay.getDay();
+            const shift = dayOfWeek === 0 ? 6 : dayOfWeek - 1;
+            startDay.setDate(startDay.getDate() - shift);
+
+            const datesList = [];
+            const currDate = new Date(startDay);
+            while (currDate <= today) {{
+                datesList.push(new Date(currDate));
+                currDate.setDate(currDate.getDate() + 1);
             }}
 
-            const maxReviewed = Math.max(1, ...dates.map(d => (daily[d] || {{reviewed:0}}).reviewed));
+            const weeks = [];
+            let currentWeek = [];
+            datesList.forEach((date, index) => {{
+                currentWeek.push(date);
+                if (date.getDay() === 0 || index === datesList.length - 1) {{
+                    weeks.push(currentWeek);
+                    currentWeek = [];
+                }}
+            }});
 
-            let barsHtml = dates.map(date => {{
-                const d = daily[date] || {{ reviewed: 0, memorized: 0 }};
-                const reviewedH = Math.max(2, (d.reviewed / maxReviewed) * 120);
-                const memorizedH = Math.max(0, (d.memorized / maxReviewed) * 120);
-                const dayLabel = date.slice(5);
-                const isToday = date === now.toISOString().split('T')[0];
-                return `
-                    <div style="display: flex; flex-direction: column; align-items: center; gap: 2px; min-width: 22px;">
-                        <div style="font-size: 0.6rem; color: var(--text-muted); font-weight: 600;">\${{d.reviewed}}</div>
-                        <div style="width: 16px; height: \${{reviewedH}}px; background: linear-gradient(180deg, #6366f1, #8b5cf6); border-radius: 4px 4px 0 0; position: relative;">
-                            <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: \${{memorizedH}}px; background: linear-gradient(180deg, #10b981, #059669); border-radius: 0 0 4px 4px;"></div>
-                        </div>
-                        <div style="font-size: 0.55rem; color: \${{isToday ? '#6366f1' : 'var(--text-muted)'}}; font-weight: \${{isToday ? '700' : '400'}}; writing-mode: vertical-rl; transform: rotate(180deg); height: 35px;">\${{dayLabel}}</div>
+            const monthLabels = [];
+            let lastMonthStr = '';
+            const monthNames = ["Янв", "Фев", "Мар", "Апр", "Май", "Июн", "Июл", "Авг", "Сен", "Окт", "Ноя", "Дек"];
+
+            weeks.forEach((week, colIndex) => {{
+                const firstDayOfWeek = week[0];
+                const monthStr = monthNames[firstDayOfWeek.getMonth()];
+                if (monthStr !== lastMonthStr) {{
+                    monthLabels.push({{ name: monthStr, colIndex: colIndex }});
+                    lastMonthStr = monthStr;
+                }}
+            }});
+
+            const visibleMonthLabels = [];
+            let lastCol = -5;
+            monthLabels.forEach(lbl => {{
+                if (lbl.colIndex - lastCol >= 3) {{
+                    visibleMonthLabels.push(lbl);
+                    lastCol = lbl.colIndex;
+                }}
+            }});
+
+            const isDark = document.body.classList.contains('dark-theme');
+            const bgEmpty = isDark ? '#161b22' : '#ebedf0';
+            const colors = isDark 
+                ? ['#0e4429', '#006d32', '#26a641', '#39d353'] 
+                : ['#9be9a8', '#40c463', '#30a14e', '#216e39'];
+
+            function getCellColor(count) {{
+                if (!count || count === 0) return bgEmpty;
+                if (count <= 10) return colors[0];
+                if (count <= 30) return colors[1];
+                if (count <= 50) return colors[2];
+                return colors[3];
+            }}
+
+            let gridHtml = '<div style="display: grid; grid-template-rows: repeat(7, 10px); grid-auto-flow: column; gap: 3px; position: relative;">';
+            
+            let monthHeaderHtml = '<div style="display: flex; position: relative; height: 18px; margin-bottom: 5px; font-size: 0.75rem; color: var(--text-muted); font-weight: 500;">';
+            visibleMonthLabels.forEach(lbl => {{
+                const leftPos = lbl.colIndex * 13;
+                monthHeaderHtml += `<span style="position: absolute; left: ${{leftPos}}px;">${{lbl.name}}</span>`;
+            }});
+            monthHeaderHtml += '</div>';
+
+            weeks.forEach(week => {{
+                for (let dayIndex = 1; dayIndex <= 7; dayIndex++) {{
+                    const targetDayNum = dayIndex === 7 ? 0 : dayIndex;
+                    const dayDate = week.find(d => d.getDay() === targetDayNum);
+                    
+                    if (!dayDate) {{
+                        gridHtml += `<div style="width: 10px; height: 10px; border-radius: 2px; background: transparent;"></div>`;
+                    }} else {{
+                        const dateStr = dayDate.toISOString().split('T')[0];
+                        const stats = daily[dateStr] || {{ reviewed: 0, memorized: 0 }};
+                        const totalCount = stats.reviewed;
+                        const cellColor = getCellColor(totalCount);
+                        
+                        const dateOptions = {{ month: 'short', day: 'numeric' }};
+                        const formattedDate = dayDate.toLocaleDateString('ru-RU', dateOptions);
+                        const tooltipText = `${{totalCount}} слов пройдено на ${{formattedDate}}`;
+                        
+                        gridHtml += `
+                            <div class="contrib-cell" 
+                                 style="width: 10px; height: 10px; border-radius: 2px; background: ${{cellColor}}; cursor: pointer; position: relative;"
+                                 data-tooltip="${{tooltipText}}">
+                            </div>`;
+                    }}
+                }}
+            }});
+            gridHtml += '</div>';
+
+            const heatmapHtml = `
+                <div style="display: flex; flex-direction: column; margin-top: 15px; background: var(--bg-card); padding: 20px; border-radius: 16px; border: 1px solid var(--border-color); overflow-x: auto; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+                    <div style="font-weight: 700; color: var(--text-primary); margin-bottom: 15px; font-size: 1rem; display: flex; align-items: center; gap: 8px;">
+                        <i class="fa-solid fa-calendar-check" style="color: #6366f1;"></i> Календарь активности
                     </div>
-                `;
-            }}).join('');
-
-            document.getElementById('stats-chart-area').innerHTML = `
-                <div style="font-weight: 600; color: var(--text-primary); margin-bottom: 12px; font-size: 0.95rem;">Последние 30 дней</div>
-                <div style="display: flex; align-items: flex-end; gap: 4px; padding: 10px 0; min-height: 180px;">
-                    \${{barsHtml}}
+                    <div style="display: flex; gap: 8px; min-width: 720px; align-self: flex-start; padding-bottom: 10px;">
+                        <div style="display: flex; flex-direction: column; justify-content: space-between; font-size: 0.7rem; color: var(--text-muted); width: 25px; height: 88px; padding-top: 18px; font-weight: 500; line-height: 10px;">
+                            <span>Пн</span>
+                            <span>Ср</span>
+                            <span>Пт</span>
+                        </div>
+                        
+                        <div style="display: flex; flex-direction: column; flex-grow: 1;">
+                            ${{monthHeaderHtml}}
+                            ${{gridHtml}}
+                            <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 12px; font-size: 0.72rem; color: var(--text-muted);">
+                                <div>Всего за год: ${{totalReviewed}} просмотрено, ${{totalMemorized}} запомнено</div>
+                                <div style="display: flex; align-items: center; gap: 4px;">
+                                    <span>Меньше</span>
+                                    <div style="width: 10px; height: 10px; border-radius: 2px; background: ${{bgEmpty}};"></div>
+                                    <div style="width: 10px; height: 10px; border-radius: 2px; background: ${{colors[0]}};"></div>
+                                    <div style="width: 10px; height: 10px; border-radius: 2px; background: ${{colors[1]}};"></div>
+                                    <div style="width: 10px; height: 10px; border-radius: 2px; background: ${{colors[2]}};"></div>
+                                    <div style="width: 10px; height: 10px; border-radius: 2px; background: ${{colors[3]}};"></div>
+                                    <span>Больше</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <div style="display: flex; gap: 15px; margin-top: 10px; font-size: 0.78rem; color: var(--text-muted);">
-                    <div style="display: flex; align-items: center; gap: 5px;"><div style="width: 12px; height: 12px; background: #6366f1; border-radius: 3px;"></div> Просмотрено</div>
-                    <div style="display: flex; align-items: center; gap: 5px;"><div style="width: 12px; height: 12px; background: #10b981; border-radius: 3px;"></div> Запомнено</div>
-                </div>
+                
+                <style>
+                    .contrib-cell:hover::after {{
+                        content: attr(data-tooltip);
+                        position: absolute;
+                        bottom: 15px;
+                        left: 50%;
+                        transform: translateX(-50%);
+                        background: #333;
+                        color: #fff;
+                        padding: 4px 8px;
+                        font-size: 0.7rem;
+                        border-radius: 4px;
+                        white-space: nowrap;
+                        z-index: 100;
+                        box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+                        pointer-events: none;
+                    }}
+                </style>
             `;
+
+            document.getElementById('stats-chart-area').innerHTML = heatmapHtml;
         }}
     </script>
 </body>
