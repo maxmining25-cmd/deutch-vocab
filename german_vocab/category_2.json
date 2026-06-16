@@ -38,7 +38,8 @@
         "Arbeit",
         "Tätigkeit",
         "Verpflichtung"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "die Zuständigkeit, die Zuständigkeiten",
@@ -76,7 +77,8 @@
       "synonyms": [
         "Verantwortlichkeit",
         "Kompetenzbereich"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "die Rolle, die Rollen",
@@ -114,7 +116,8 @@
       "synonyms": [
         "Funktion",
         "Position"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "die Verantwortung, die Verantwortungen",
@@ -152,6 +155,9 @@
       "synonyms": [
         "Haftung",
         "Zuständigkeit"
+      ],
+      "antonyms": [
+        "die Verantwortungslosigkeit"
       ]
     },
     {
@@ -191,6 +197,9 @@
         "Projektmanager",
         "Projektführung",
         "Projektleitung"
+      ],
+      "antonyms": [
+        "das Teammitglied"
       ]
     },
     {
@@ -229,6 +238,9 @@
       "synonyms": [
         "Kollege",
         "Mitarbeiter"
+      ],
+      "antonyms": [
+        "der Projektleiter"
       ]
     },
     {
@@ -268,6 +280,10 @@
         "Kunde",
         "Besteller",
         "Klient"
+      ],
+      "antonyms": [
+        "der Auftragnehmer",
+        "der Lieferant"
       ]
     },
     {
@@ -307,6 +323,9 @@
         "Dienstleister",
         "Ausführer",
         "Lieferant"
+      ],
+      "antonyms": [
+        "der Auftraggeber"
       ]
     },
     {
@@ -345,7 +364,8 @@
       "synonyms": [
         "Kontaktperson",
         "Referent"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "die Zuteilung, die Zuteilungen",
@@ -384,6 +404,9 @@
         "Zuweisung",
         "Allokation",
         "Verteilung"
+      ],
+      "antonyms": [
+        "der Entzug"
       ]
     },
     {
@@ -422,6 +445,9 @@
       "synonyms": [
         "Übertragung",
         "Bevollmächtigung"
+      ],
+      "antonyms": [
+        "die Selbstausführung"
       ]
     },
     {
@@ -461,6 +487,10 @@
         "Koordination",
         "Absprache",
         "Harmonisierung"
+      ],
+      "antonyms": [
+        "die Unstimmigkeit, die Unstimmigkeiten",
+        "der Konflikt, die Konflikte"
       ]
     },
     {
@@ -499,7 +529,8 @@
       "synonyms": [
         "Zuständigkeitsbereich",
         "Arbeitsbereich"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "die Aufgabenteilung, die Aufgabenteilungen",
@@ -537,6 +568,9 @@
       "synonyms": [
         "Arbeitsteilung",
         "Rollenverteilung"
+      ],
+      "antonyms": [
+        "die Aufgabenkonzentration"
       ]
     },
     {
@@ -575,6 +609,9 @@
       "synonyms": [
         "Ersatz",
         "Vertreter"
+      ],
+      "antonyms": [
+        "der Stelleninhaber"
       ]
     },
     {
@@ -614,6 +651,10 @@
         "Spezialist",
         "Experte",
         "Fachkraft"
+      ],
+      "antonyms": [
+        "der Laie",
+        "der Generalist"
       ]
     },
     {
@@ -653,6 +694,10 @@
         "Abstimmung",
         "Organisation",
         "Steuerung"
+      ],
+      "antonyms": [
+        "das Chaos",
+        "die Desorganisation"
       ]
     },
     {
@@ -692,6 +737,10 @@
         "Kooperation",
         "Kollaboration",
         "Gemeinschaftsarbeit"
+      ],
+      "antonyms": [
+        "die Konkurrenz",
+        "der Alleingang"
       ]
     },
     {
@@ -730,7 +779,8 @@
       "synonyms": [
         "Zuständigkeitsbereich",
         "Verantwortlichkeit"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "die Übergabe, die Übergaben",
@@ -769,6 +819,9 @@
         "Ablieferung",
         "Aushändigung",
         "Überreichung"
+      ],
+      "antonyms": [
+        "die Übernahme, die Übernahmen"
       ]
     },
     {
@@ -808,6 +861,10 @@
         "Umsetzung",
         "Realisation",
         "Implementierung"
+      ],
+      "antonyms": [
+        "die Planung",
+        "der Entwurf"
       ]
     },
     {
@@ -846,6 +903,10 @@
       "synonyms": [
         "Befreiung",
         "Unterstützung"
+      ],
+      "antonyms": [
+        "die Belastung",
+        "die Überlastung"
       ]
     },
     {
@@ -884,6 +945,10 @@
       "synonyms": [
         "Aufgabe",
         "Verpflichtung"
+      ],
+      "antonyms": [
+        "das Recht",
+        "das Privileg"
       ]
     },
     {
@@ -922,6 +987,9 @@
       "synonyms": [
         "Zuteilung",
         "Zuordnung"
+      ],
+      "antonyms": [
+        "der Entzug, die Entzüge"
       ]
     },
     {
@@ -960,6 +1028,9 @@
       "synonyms": [
         "Stellvertretung",
         "Repräsentanz"
+      ],
+      "antonyms": [
+        "der Vertretene"
       ]
     },
     {
@@ -999,6 +1070,9 @@
         "Teammitglied",
         "Personal",
         "Beschäftigter"
+      ],
+      "antonyms": [
+        "der Vorgesetzte"
       ]
     },
     {
@@ -1051,6 +1125,9 @@
       },
       "prepositions": [
         "an + Akkusativ (кому-то)"
+      ],
+      "antonyms": [
+        "selbst ausführen"
       ]
     },
     {
@@ -1101,7 +1178,12 @@
         "ihr": "übernehmt",
         "sie/Sie": "übernehmen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "abgeben",
+        "übergeben",
+        "verweigern"
+      ]
     },
     {
       "word": "zuweisen",
@@ -1154,6 +1236,10 @@
       "prepositions": [
         "an + Akkusativ (кому-то)",
         "zu + Dativ (к чему-то)"
+      ],
+      "antonyms": [
+        "entziehen",
+        "wegnehmen"
       ]
     },
     {
@@ -1205,6 +1291,10 @@
       },
       "prepositions": [
         "mit + Dativ (с кем-то)"
+      ],
+      "antonyms": [
+        "desorganisieren",
+        "verwirren"
       ]
     },
     {
@@ -1258,7 +1348,8 @@
       "prepositions": [
         "mit + Dativ (с кем-то)",
         "über + Akkusativ (о чём-то)"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "ausführen",
@@ -1308,7 +1399,11 @@
         "ihr": "führt aus",
         "sie/Sie": "führen aus"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "planen",
+        "abbrechen"
+      ]
     },
     {
       "word": "verteilen",
@@ -1361,6 +1456,10 @@
       "prepositions": [
         "an + Akkusativ (кому-то)",
         "auf + Akkusativ (между кем-то / на какой-то срок)"
+      ],
+      "antonyms": [
+        "einsammeln",
+        "anhäufen"
       ]
     },
     {
@@ -1411,7 +1510,8 @@
         "ihr": "verantwortet",
         "sie/Sie": "verantworten"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "leiten",
@@ -1461,7 +1561,11 @@
         "ihr": "leitet",
         "sie/Sie": "leiten"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "folgen",
+        "dienen"
+      ]
     },
     {
       "word": "unterstützen",
@@ -1513,6 +1617,11 @@
       },
       "prepositions": [
         "bei + Dativ (в чём-то)"
+      ],
+      "antonyms": [
+        "behindern",
+        "blockieren",
+        "entgegenwirken"
       ]
     },
     {
@@ -1565,7 +1674,8 @@
       },
       "prepositions": [
         "zu + Dativ (к чему-то)"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "zusammenarbeiten",
@@ -1618,6 +1728,10 @@
       "prepositions": [
         "mit + Dativ (с кем-то)",
         "an + Dativ (над чем-то)"
+      ],
+      "antonyms": [
+        "gegeneinander arbeiten",
+        "im Alleingang handeln"
       ]
     },
     {
@@ -1670,6 +1784,10 @@
       },
       "prepositions": [
         "mit + Dativ (с кем-то)"
+      ],
+      "antonyms": [
+        "streiten",
+        "uneins sein"
       ]
     },
     {
@@ -1722,6 +1840,10 @@
       },
       "prepositions": [
         "auf + Akkusativ (на чём-то / sich festlegen auf)"
+      ],
+      "antonyms": [
+        "offenlassen",
+        "aufheben"
       ]
     },
     {
@@ -1772,7 +1894,11 @@
         "ihr": "regelt",
         "sie/Sie": "regeln"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "ungeklärt lassen",
+        "verwirren"
+      ]
     },
     {
       "word": "erledigen",
@@ -1822,7 +1948,11 @@
         "ihr": "erledigt",
         "sie/Sie": "erledigen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "offen lassen",
+        "aufschieben"
+      ]
     },
     {
       "word": "bewältigen",
@@ -1872,7 +2002,11 @@
         "ihr": "bewältigt",
         "sie/Sie": "bewältigen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "scheitern an",
+        "versagen"
+      ]
     },
     {
       "word": "übertragen",
@@ -1925,6 +2059,9 @@
       "prepositions": [
         "an + Akkusativ (кому-то)",
         "auf + Akkusativ (на кого-то / что-то)"
+      ],
+      "antonyms": [
+        "entziehen"
       ]
     },
     {
@@ -1978,6 +2115,9 @@
       "prepositions": [
         "in + Akkusativ (на части/фазы)",
         "für + Akkusativ (для выполнения чего-то)"
+      ],
+      "antonyms": [
+        "durcheinanderbringen"
       ]
     },
     {
@@ -2013,7 +2153,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unzuständig"
+      ]
     },
     {
       "word": "verantwortlich",
@@ -2052,6 +2195,10 @@
         "Aufgabe sein",
         "Sache  sein",
         "verantworten"
+      ],
+      "antonyms": [
+        "unverantwortlich",
+        "unzuständig"
       ]
     },
     {
@@ -2087,7 +2234,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "weisungsgebunden"
+      ]
     },
     {
       "word": "überlastet",
@@ -2122,7 +2272,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unterlastet",
+        "unausgelastet"
+      ]
     },
     {
       "word": "eigenverantwortlich",
@@ -2161,7 +2315,2387 @@
         "autonom",
         "eigenständig",
         "in Eigenregie"
+      ],
+      "antonyms": [
+        "weisungsgebunden",
+        "fremdgesteuert"
       ]
+    },
+    {
+      "word": "die Qualitätsrichtlinie, die Qualitätsrichtlinien",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Политика качества",
+      "translation_en": "Quality Policy",
+      "examples": [
+        {
+          "de": "Das Team hat sich intensiv mit der Qualitätsrichtlinie auseinandergesetzt.",
+          "ru": "Команда интенсивно работала над рекомендациями по обеспечению качества."
+        },
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Qualitätsrichtlinie.",
+          "ru": "Руководство ожидает подробного представления руководящих принципов качества."
+        },
+        {
+          "de": "Bitte fügen Sie die Qualitätsrichtlinie dem Protokoll bei.",
+          "ru": "Пожалуйста, приложите к протоколу политику качества."
+        },
+        {
+          "de": "In meiner Erfahrung wird die Qualitätsrichtlinie oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, политику качества часто недооценивают, но она действительно имеет решающее значение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, die Qualitätsrichtlinie kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, нельзя просто так относиться к политике качества.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Qualitätssicherungs-Audit, die Qualitätssicherungs-Audits",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Аудит обеспечения качества",
+      "translation_en": "Quality assurance audit",
+      "examples": [
+        {
+          "de": "In der Retrospektive wurde das Qualitätssicherungs-Audit als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, аудит обеспечения качества был определен как потенциал для улучшения."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde das Qualitätssicherungs-Audit ausführlich besprochen.",
+          "ru": "В рамках проекта подробно обсуждался аудит обеспечения качества."
+        },
+        {
+          "de": "Ohne das Qualitätssicherungs-Audit kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без аудита обеспечения качества проект не может быть успешно завершен."
+        },
+        {
+          "de": "Ich habe festgestellt, dass das Qualitätssicherungs-Audit in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что аудит обеспечения качества имел решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Qualitätssicherungs-Audit ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, аудит обеспечения качества очень важен, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Prozessverbesserung, die Prozessverbesserungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Улучшение процесса",
+      "translation_en": "Process improvement",
+      "examples": [
+        {
+          "de": "Ohne die Prozessverbesserung kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без улучшения процесса проект не может быть успешно завершен."
+        },
+        {
+          "de": "Wir müssen die Prozessverbesserung bis zum Ende der Woche finalisieren.",
+          "ru": "Нам необходимо завершить улучшение процесса к концу недели."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde die Prozessverbesserung ausführlich besprochen.",
+          "ru": "В рамках проекта подробно обсуждалось совершенствование процессов."
+        },
+        {
+          "de": "In meiner Erfahrung wird die Prozessverbesserung oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, улучшение процессов часто недооценивается, но оно действительно имеет решающее значение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Prozessverbesserung in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что улучшение процесса имело решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Effizienzsteigerung, die Effizienzsteigerungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Повышенная эффективность",
+      "translation_en": "Increased efficiency",
+      "examples": [
+        {
+          "de": "Wir müssen die Effizienzsteigerung bis zum Ende der Woche finalisieren.",
+          "ru": "Нам необходимо завершить работу над повышением эффективности к концу недели."
+        },
+        {
+          "de": "Bitte fügen Sie die Effizienzsteigerung dem Protokoll bei.",
+          "ru": "Пожалуйста, укажите в протоколе повышение эффективности."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu der Effizienzsteigerung.",
+          "ru": "Отчет о состоянии содержит важную информацию о повышении эффективности."
+        },
+        {
+          "de": "Wisst ihr, die Effizienzsteigerung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, повышение эффективности — это не то, чем вы можете заниматься на стороне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Effizienzsteigerung in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что повышение эффективности имело решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Fehlersuche, die Fehlersuchen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Поиск неисправностей",
+      "translation_en": "Troubleshooting",
+      "examples": [
+        {
+          "de": "Der Projektleiter hat die Fehlersuche in der Besprechung vorgestellt.",
+          "ru": "Менеджер проекта представил на совещании способы устранения неполадок."
+        },
+        {
+          "de": "Die Analyse zeigt, dass die Fehlersuche für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что устранение неполадок имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "Wir müssen die Fehlersuche bis zum Ende der Woche finalisieren.",
+          "ru": "Нам нужно завершить устранение неполадок к концу недели."
+        },
+        {
+          "de": "In meiner Erfahrung wird die Fehlersuche oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, устранение неполадок часто недооценивают, но это действительно важно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Fehlersuche in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что устранение неполадок имело решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Fehlerbehebungszeit, die Fehlerbehebungszeiten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Время устранения неполадок",
+      "translation_en": "Troubleshooting time",
+      "examples": [
+        {
+          "de": "In der Retrospektive wurde die Fehlerbehebungszeit als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что время устранения неполадок было определено как потенциал для улучшения."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde die Fehlerbehebungszeit ausführlich besprochen.",
+          "ru": "В рамках проекта подробно обсуждались сроки устранения неполадок."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu der Fehlerbehebungszeit.",
+          "ru": "Отчет о состоянии содержит важную информацию о времени устранения неполадок."
+        },
+        {
+          "de": "Also, die Fehlerbehebungszeit ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Таким образом, время на устранение неполадок действительно важно, когда вы работаете гибко.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird die Fehlerbehebungszeit oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, время устранения неполадок часто недооценивается, но оно действительно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Teambesprechung, die Teambesprechungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Встреча команды",
+      "translation_en": "Team meeting",
+      "examples": [
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Teambesprechung.",
+          "ru": "Руководство ожидает подробного представления о встрече команды."
+        },
+        {
+          "de": "Der Projektleiter hat die Teambesprechung in der Besprechung vorgestellt.",
+          "ru": "Менеджер проекта представил на совещании состав команды."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde die Teambesprechung ausführlich besprochen.",
+          "ru": "В рамках проекта детально обсуждалась встреча команды."
+        },
+        {
+          "de": "Wisst ihr, die Teambesprechung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаешь, нельзя просто так провести собрание команды случайно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird die Teambesprechung oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, собрание команды часто недооценивают, но оно действительно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Statusänderung, die Statusänderungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Изменение статуса",
+      "translation_en": "Change of status",
+      "examples": [
+        {
+          "de": "Wir müssen die Statusänderung bis zum Ende der Woche finalisieren.",
+          "ru": "Нам нужно завершить изменение статуса к концу недели."
+        },
+        {
+          "de": "Ohne die Statusänderung kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без изменения статуса проект не может быть успешно завершен."
+        },
+        {
+          "de": "In der Retrospektive wurde die Statusänderung als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что изменение статуса было идентифицировано как потенциал для улучшения."
+        },
+        {
+          "de": "Wisst ihr, die Statusänderung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, нельзя просто случайно сменить статус.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Statusänderung ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Таким образом, изменение статуса действительно важно, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Änderungsprotokoll, die Änderungsprotokolle",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Журнал изменений",
+      "translation_en": "Changelog",
+      "examples": [
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung des Änderungsprotokoll.",
+          "ru": "Руководство ожидает подробного представления журнала изменений."
+        },
+        {
+          "de": "Bitte fügen Sie das Änderungsprotokoll dem Protokoll bei.",
+          "ru": "Пожалуйста, прикрепите список изменений к журналу."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit dem Änderungsprotokoll auseinandergesetzt.",
+          "ru": "Команда интенсивно работала над журналом изменений."
+        },
+        {
+          "de": "In meiner Erfahrung wird das Änderungsprotokoll oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, журнал изменений часто недооценивают, но он действительно имеет решающее значение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Änderungsprotokoll ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, журнал изменений очень важен, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Stakeholder-Erwartung, die Stakeholder-Erwartungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Ожидания заинтересованных сторон",
+      "translation_en": "Stakeholder expectation",
+      "examples": [
+        {
+          "de": "Im Rahmen des Projekts wurde die Stakeholder-Erwartung ausführlich besprochen.",
+          "ru": "В рамках проекта были подробно обсуждены ожидания заинтересованных сторон."
+        },
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Stakeholder-Erwartung.",
+          "ru": "Руководство ожидает подробного представления ожиданий заинтересованных сторон."
+        },
+        {
+          "de": "Die Analyse zeigt, dass die Stakeholder-Erwartung für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что ожидания заинтересованных сторон имеют решающее значение для прогресса проекта."
+        },
+        {
+          "de": "Na ja, die Stakeholder-Erwartung muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну, вам просто нужно правильно документировать ожидания заинтересованных сторон, иначе наступит хаос.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, die Stakeholder-Erwartung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, нельзя просто так небрежно оправдывать ожидания заинтересованных сторон.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Stakeholder-Einfluss, die Stakeholder-Einflüsse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Влияние заинтересованных сторон",
+      "translation_en": "Stakeholder influence",
+      "examples": [
+        {
+          "de": "Das Team hat sich intensiv mit dem Stakeholder-Einfluss auseinandergesetzt.",
+          "ru": "Команда интенсивно занималась вопросами влияния заинтересованных сторон."
+        },
+        {
+          "de": "Bitte fügen Sie den Stakeholder-Einfluss dem Protokoll bei.",
+          "ru": "Пожалуйста, укажите в протоколе влияние заинтересованных сторон."
+        },
+        {
+          "de": "In der Retrospektive wurde der Stakeholder-Einfluss als Verbesserungspotenzial identifiziert.",
+          "ru": "В ретроспективе влияние заинтересованных сторон было определено как потенциал для улучшения."
+        },
+        {
+          "de": "Wisst ihr, der Stakeholder-Einfluss kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, влияние заинтересованных сторон – это не то, чем вы можете заниматься на стороне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe festgestellt, dass der Stakeholder-Einfluss in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что влияние заинтересованных сторон имело решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Stakeholder-Kommunikation, die Stakeholder-Kommunikationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Общение с заинтересованными сторонами",
+      "translation_en": "Stakeholder communication",
+      "examples": [
+        {
+          "de": "Wir müssen die Stakeholder-Kommunikation bis zum Ende der Woche finalisieren.",
+          "ru": "Нам необходимо завершить общение с заинтересованными сторонами к концу недели."
+        },
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Stakeholder-Kommunikation.",
+          "ru": "Руководство ожидает подробного представления информации о взаимодействии с заинтересованными сторонами."
+        },
+        {
+          "de": "In der Retrospektive wurde die Stakeholder-Kommunikation als Verbesserungspotenzial identifiziert.",
+          "ru": "В ретроспективе общение с заинтересованными сторонами было определено как потенциал для улучшения."
+        },
+        {
+          "de": "Wisst ihr, die Stakeholder-Kommunikation kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, общение с заинтересованными сторонами не может осуществляться просто на стороне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Stakeholder-Kommunikation in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что общение с заинтересованными сторонами имело решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Anforderungsdefinition, die Anforderungsdefinitionen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Определение требований",
+      "translation_en": "Requirements definition",
+      "examples": [
+        {
+          "de": "Wir müssen die Anforderungsdefinition bis zum Ende der Woche finalisieren.",
+          "ru": "Нам нужно завершить определение требований к концу недели."
+        },
+        {
+          "de": "Die Analyse zeigt, dass die Anforderungsdefinition für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что определение требований имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "In der Retrospektive wurde die Anforderungsdefinition als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что определение требований имеет потенциал для улучшения."
+        },
+        {
+          "de": "Also, die Anforderungsdefinition ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, определение требований очень важно, когда вы работаете гибко.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, die Anforderungsdefinition muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну, вам просто нужно правильно задокументировать определение требований, иначе будет хаос.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Anforderungsspezifikation, die Anforderungsspezifikationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Спецификация требований",
+      "translation_en": "Requirements specification",
+      "examples": [
+        {
+          "de": "Der Projektleiter hat die Anforderungsspezifikation in der Besprechung vorgestellt.",
+          "ru": "Руководитель проекта представил на совещании техническое задание."
+        },
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Anforderungsspezifikation.",
+          "ru": "Руководство ожидает подробного представления технического задания."
+        },
+        {
+          "de": "In der Retrospektive wurde die Anforderungsspezifikation als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что спецификация требований имеет потенциал для улучшения."
+        },
+        {
+          "de": "Also, die Anforderungsspezifikation ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, спецификация требований действительно важна, когда вы работаете гибко.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Anforderungsspezifikation in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что спецификация требований сыграла решающую роль в моем последнем проекте.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Anforderungsänderung, die Anforderungsänderungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Требования меняются",
+      "translation_en": "Requirements change",
+      "examples": [
+        {
+          "de": "Wir müssen die Anforderungsänderung bis zum Ende der Woche finalisieren.",
+          "ru": "Нам нужно завершить изменение требований к концу недели."
+        },
+        {
+          "de": "Ohne die Anforderungsänderung kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без изменения требований проект не может быть успешно завершен."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit der Anforderungsänderung auseinandergesetzt.",
+          "ru": "Команда интенсивно работала над изменением требований."
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Anforderungsänderung in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что изменение требований имело решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird die Anforderungsänderung oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, изменение требований часто недооценивается, но оно действительно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Freigabeprozedur, die Freigabeprozeduren",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Процедура выпуска",
+      "translation_en": "Release procedure",
+      "examples": [
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu der Freigabeprozedur.",
+          "ru": "Отчет о состоянии содержит важную информацию о процедуре выпуска."
+        },
+        {
+          "de": "Der Projektleiter hat die Freigabeprozedur in der Besprechung vorgestellt.",
+          "ru": "Менеджер проекта представил на совещании процедуру выпуска."
+        },
+        {
+          "de": "Bitte fügen Sie die Freigabeprozedur dem Protokoll bei.",
+          "ru": "Прошу приложить к протоколу порядок выдачи."
+        },
+        {
+          "de": "Wisst ihr, die Freigabeprozedur kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, процедура освобождения не может проходить просто так.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, die Freigabeprozedur muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну, надо просто правильно задокументировать процедуру выпуска, иначе будет хаос.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Freigabeprozess, die Freigabeprozesse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Процесс выпуска",
+      "translation_en": "Release process",
+      "examples": [
+        {
+          "de": "Ohne den Freigabeprozess kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без процесса утверждения проект не может быть успешно завершен."
+        },
+        {
+          "de": "Der Projektleiter hat den Freigabeprozess in der Besprechung vorgestellt.",
+          "ru": "Менеджер проекта представил на встрече процесс выпуска."
+        },
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung des Freigabeprozess.",
+          "ru": "Руководство ожидает подробного представления процесса утверждения."
+        },
+        {
+          "de": "Ich habe festgestellt, dass der Freigabeprozess in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что процесс утверждения имел решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird der Freigabeprozess oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, процесс утверждения часто недооценивают, но он действительно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Endabnahme-Kriterien, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Окончательные критерии приемки",
+      "translation_en": "Final acceptance criteria",
+      "examples": [
+        {
+          "de": "Das Team hat sich intensiv mit der Endabnahme-Kriterien auseinandergesetzt.",
+          "ru": "Команда интенсивно работала над окончательными критериями приемки."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu der Endabnahme-Kriterien.",
+          "ru": "Отчет о состоянии содержит важную информацию об окончательных критериях приемки."
+        },
+        {
+          "de": "Der Projektleiter hat die Endabnahme-Kriterien in der Besprechung vorgestellt.",
+          "ru": "Менеджер проекта представил на совещании окончательные критерии приемки."
+        },
+        {
+          "de": "Na ja, die Endabnahme-Kriterien muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну, вам просто нужно правильно задокументировать окончательные критерии приемки, иначе будет хаос.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Endabnahme-Kriterien ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, окончательные критерии приемлемости действительно важны, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Teambildungsmaßnahme, die Teambildungsmaßnahmen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Тимбилдинговая деятельность",
+      "translation_en": "Team building activity",
+      "examples": [
+        {
+          "de": "Wir müssen die Teambildungsmaßnahme bis zum Ende der Woche finalisieren.",
+          "ru": "Мы должны завершить работу по формированию команды к концу недели."
+        },
+        {
+          "de": "Ohne die Teambildungsmaßnahme kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без мер по формированию команды проект не может быть успешно завершен."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit der Teambildungsmaßnahme auseinandergesetzt.",
+          "ru": "Команда интенсивно занималась мерами по формированию команды."
+        },
+        {
+          "de": "In meiner Erfahrung wird die Teambildungsmaßnahme oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, создание команды часто недооценивают, но оно действительно имеет решающее значение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, die Teambildungsmaßnahme kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, мероприятия по построению команды не могут проводиться просто так.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Teamdynamik, die Teamdynamiken",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Динамика команды",
+      "translation_en": "Team dynamics",
+      "examples": [
+        {
+          "de": "Der Projektleiter hat die Teamdynamik in der Besprechung vorgestellt.",
+          "ru": "Менеджер проекта представил на встрече динамику команды."
+        },
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Teamdynamik.",
+          "ru": "Руководство ожидает подробного представления динамики команды."
+        },
+        {
+          "de": "Bitte fügen Sie die Teamdynamik dem Protokoll bei.",
+          "ru": "Пожалуйста, укажите динамику команды в протоколе."
+        },
+        {
+          "de": "In meiner Erfahrung wird die Teamdynamik oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, командную динамику часто недооценивают, но она действительно имеет решающее значение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, die Teamdynamik kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, командная динамика – это не то, о чем можно просто заботиться.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Konfliktpotenzial, die Konfliktpotenziale",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Потенциал конфликта",
+      "translation_en": "Potential for conflict",
+      "examples": [
+        {
+          "de": "Ohne das Konfliktpotenzial kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без потенциального конфликта проект не может быть успешно завершен."
+        },
+        {
+          "de": "Die Analyse zeigt, dass das Konfliktpotenzial für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что вероятность конфликта имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung des Konfliktpotenzial.",
+          "ru": "Руководство ожидает подробного представления потенциального конфликта."
+        },
+        {
+          "de": "Also, das Konfliktpotenzial ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Таким образом, вероятность конфликта действительно важна, когда вы работаете гибко.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe festgestellt, dass das Konfliktpotenzial in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что потенциал конфликта имел решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Konfliktbeilegung, die Konfliktbeilegungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Разрешение конфликтов",
+      "translation_en": "Conflict resolution",
+      "examples": [
+        {
+          "de": "In der Retrospektive wurde die Konfliktbeilegung als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, было установлено, что разрешение конфликтов является потенциалом для улучшения."
+        },
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Konfliktbeilegung.",
+          "ru": "Руководство ожидает подробного представления решения конфликта."
+        },
+        {
+          "de": "Bitte fügen Sie die Konfliktbeilegung dem Protokoll bei.",
+          "ru": "Просим приложить к протоколу решение конфликта."
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Konfliktbeilegung in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что разрешение конфликтов имело решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Konfliktbeilegung ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, разрешение конфликтов действительно важно, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Eskalationsrichtlinie, die Eskalationsrichtlinien",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Политика эскалации",
+      "translation_en": "Escalation Policy",
+      "examples": [
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Eskalationsrichtlinie.",
+          "ru": "Руководство ожидает подробного представления политики эскалации."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit der Eskalationsrichtlinie auseinandergesetzt.",
+          "ru": "Команда интенсивно занималась политикой эскалации."
+        },
+        {
+          "de": "In der Retrospektive wurde die Eskalationsrichtlinie als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что политика эскалации имеет потенциал для улучшения."
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Eskalationsrichtlinie in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что политика эскалации сыграла решающую роль в моем последнем проекте.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird die Eskalationsrichtlinie oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, политику эскалации часто недооценивают, но она действительно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Eskalationspfad, die Eskalationspfade",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Путь эскалации",
+      "translation_en": "Escalation path",
+      "examples": [
+        {
+          "de": "Im Rahmen des Projekts wurde der Eskalationspfad ausführlich besprochen.",
+          "ru": "Путь эскалации подробно обсуждался в рамках проекта."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit dem Eskalationspfad auseinandergesetzt.",
+          "ru": "Команда интенсивно работала над путями эскалации."
+        },
+        {
+          "de": "In der Retrospektive wurde der Eskalationspfad als Verbesserungspotenzial identifiziert.",
+          "ru": "В ретроспективе путь эскалации был определен как потенциал для улучшения."
+        },
+        {
+          "de": "Also, der Eskalationspfad ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, путь эскалации действительно важен, когда вы работаете гибко.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, der Eskalationspfad kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, путь эскалации – это не то, что вы можете сделать случайно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Notfallszenario, die Notfallszenarien",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Аварийный сценарий",
+      "translation_en": "Emergency scenario",
+      "examples": [
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu dem Notfallszenario.",
+          "ru": "Отчет о состоянии содержит важную информацию о сценарии чрезвычайной ситуации."
+        },
+        {
+          "de": "Bitte fügen Sie das Notfallszenario dem Protokoll bei.",
+          "ru": "Приложите к протоколу сценарий чрезвычайной ситуации."
+        },
+        {
+          "de": "Der Projektleiter hat das Notfallszenario in der Besprechung vorgestellt.",
+          "ru": "Руководитель проекта представил на совещании сценарий чрезвычайной ситуации."
+        },
+        {
+          "de": "Na ja, das Notfallszenario muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну, надо просто правильно задокументировать сценарий ЧП, иначе будет хаос.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe festgestellt, dass das Notfallszenario in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что сценарий чрезвычайной ситуации имел решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Krisenkommunikation, die Krisenkommunikationen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Кризисная коммуникация",
+      "translation_en": "Crisis communication",
+      "examples": [
+        {
+          "de": "Das Team hat sich intensiv mit der Krisenkommunikation auseinandergesetzt.",
+          "ru": "Команда интенсивно занималась кризисной коммуникацией."
+        },
+        {
+          "de": "In der Retrospektive wurde die Krisenkommunikation als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, кризисная коммуникация была определена как потенциал для улучшения."
+        },
+        {
+          "de": "Der Projektleiter hat die Krisenkommunikation in der Besprechung vorgestellt.",
+          "ru": "Менеджер проекта представил на встрече кризисную коммуникацию."
+        },
+        {
+          "de": "In meiner Erfahrung wird die Krisenkommunikation oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, кризисную коммуникацию часто недооценивают, но она действительно имеет решающее значение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Krisenkommunikation ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, кризисная коммуникация действительно важна, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Jour-Fixe, die Jour-Fixes",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Жур Фикс",
+      "translation_en": "Jour Fixe",
+      "examples": [
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu dem Jour-Fixe.",
+          "ru": "Отчет о состоянии содержит важную информацию о Jour-Fixe."
+        },
+        {
+          "de": "Die Analyse zeigt, dass der Jour-Fixe für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что Jour-Fixe имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "Der Projektleiter hat den Jour-Fixe in der Besprechung vorgestellt.",
+          "ru": "На встрече руководитель проекта представил Jour-Fixe."
+        },
+        {
+          "de": "In meiner Erfahrung wird der Jour-Fixe oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, Jour-Fixe часто недооценивают, но на самом деле он играет центральную роль.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, der Jour-Fixe ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, Jour-Fixe очень важен, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektbegleitung, die Projektbegleitungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Поддержка проекта",
+      "translation_en": "Project support",
+      "examples": [
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Projektbegleitung.",
+          "ru": "Руководство ожидает подробного представления о поддержке проекта."
+        },
+        {
+          "de": "Ohne die Projektbegleitung kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без поддержки проекта проект не может быть успешно завершен."
+        },
+        {
+          "de": "Die Analyse zeigt, dass die Projektbegleitung für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что поддержка проекта имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "Wisst ihr, die Projektbegleitung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, поддержка проекта не может осуществляться просто на стороне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Projektbegleitung in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что поддержка проекта изменила мой последний проект.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektüberwachung, die Projektüberwachungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Мониторинг проекта",
+      "translation_en": "Project monitoring",
+      "examples": [
+        {
+          "de": "Bitte fügen Sie die Projektüberwachung dem Protokoll bei.",
+          "ru": "Просим приложить к протоколу мониторинг проекта."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit der Projektüberwachung auseinandergesetzt.",
+          "ru": "Команда интенсивно работала над мониторингом проекта."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde die Projektüberwachung ausführlich besprochen.",
+          "ru": "Мониторинг проекта подробно обсуждался в рамках проекта."
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektüberwachung oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, мониторинг проектов часто недооценивают, но он действительно имеет решающее значение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Projektüberwachung ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, мониторинг проекта действительно важен, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektumfeldanalyse, die Projektumfeldanalysen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Анализ среды проекта",
+      "translation_en": "Project environment analysis",
+      "examples": [
+        {
+          "de": "In der Retrospektive wurde die Projektumfeldanalyse als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, анализ среды проекта был определен как потенциал для улучшения."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit der Projektumfeldanalyse auseinandergesetzt.",
+          "ru": "Команда интенсивно занималась анализом среды проекта."
+        },
+        {
+          "de": "Ohne die Projektumfeldanalyse kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без анализа среды проекта проект не может быть успешно завершен."
+        },
+        {
+          "de": "Also, die Projektumfeldanalyse ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, анализ среды проекта действительно важен, когда вы работаете гибко.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, die Projektumfeldanalyse muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну, вам просто нужно правильно документировать анализ среды проекта, иначе будет хаос.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektorganisation, die Projektorganisationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Организация проекта",
+      "translation_en": "Project organization",
+      "examples": [
+        {
+          "de": "Die Analyse zeigt, dass die Projektorganisation für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что организация проекта имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu der Projektorganisation.",
+          "ru": "Отчет о состоянии содержит важную информацию об организации проекта."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit der Projektorganisation auseinandergesetzt.",
+          "ru": "Команда интенсивно занималась организацией проекта."
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Projektorganisation in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что организация проекта сыграла решающую роль в моем последнем проекте.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektorganisation oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, организацию проекта часто недооценивают, но она действительно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektsteuerung, die Projektsteuerungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Управление проектом",
+      "translation_en": "Project management",
+      "examples": [
+        {
+          "de": "Das Team hat sich intensiv mit der Projektsteuerung auseinandergesetzt.",
+          "ru": "Команда интенсивно занималась управлением проектом."
+        },
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Projektsteuerung.",
+          "ru": "Руководство ожидает подробного представления руководства проекта."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde die Projektsteuerung ausführlich besprochen.",
+          "ru": "В рамках проекта подробно обсуждалось управление проектом."
+        },
+        {
+          "de": "Also, die Projektsteuerung ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, управление проектами действительно важно, когда вы работаете гибко.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, die Projektsteuerung muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну просто надо правильно документировать управление проектами, иначе будет хаос.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Projektkoordinator, die Projektkoordinatoren",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Координатор проекта",
+      "translation_en": "Project coordinator",
+      "examples": [
+        {
+          "de": "Ohne den Projektkoordinator kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без координатора проекта проект не может быть успешно завершен."
+        },
+        {
+          "de": "Der Projektleiter hat den Projektkoordinator in der Besprechung vorgestellt.",
+          "ru": "Менеджер проекта представил на встрече координатора проекта."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit dem Projektkoordinator auseinandergesetzt.",
+          "ru": "Команда интенсивно работала с координатором проекта."
+        },
+        {
+          "de": "In meiner Erfahrung wird der Projektkoordinator oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, координатора проекта часто недооценивают, но он действительно играет центральную роль.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, der Projektkoordinator ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, координатор проекта действительно важен, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektarbeit, die Projektarbeiten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Проектная работа",
+      "translation_en": "Project work",
+      "examples": [
+        {
+          "de": "Das Team hat sich intensiv mit der Projektarbeit auseinandergesetzt.",
+          "ru": "Команда интенсивно занималась проектной работой."
+        },
+        {
+          "de": "Der Projektleiter hat die Projektarbeit in der Besprechung vorgestellt.",
+          "ru": "Руководитель проекта представил на совещании работу по проекту."
+        },
+        {
+          "de": "In der Retrospektive wurde die Projektarbeit als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что проектная работа имела потенциал для улучшения."
+        },
+        {
+          "de": "Na ja, die Projektarbeit muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну а вам просто нужно правильно документировать работу проекта, иначе будет хаос.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Projektarbeit in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что работа над проектом имела решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektgruppe, die Projektgruppen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Проектная группа",
+      "translation_en": "Project group",
+      "examples": [
+        {
+          "de": "In der Retrospektive wurde die Projektgruppe als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что проектная группа имела потенциал для улучшения."
+        },
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Projektgruppe.",
+          "ru": "Руководство ожидает подробной презентации от проектной группы."
+        },
+        {
+          "de": "Wir müssen die Projektgruppe bis zum Ende der Woche finalisieren.",
+          "ru": "Мы должны завершить работу над проектной группой к концу недели."
+        },
+        {
+          "de": "Also, die Projektgruppe ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, проектная группа действительно важна, когда вы работаете гибко.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektgruppe oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, проектную группу часто недооценивают, но на самом деле она играет центральную роль.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektänderung, die Projektänderungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Изменение проекта",
+      "translation_en": "Project change",
+      "examples": [
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Projektänderung.",
+          "ru": "Руководство ожидает подробного представления изменений в проекте."
+        },
+        {
+          "de": "Ohne die Projektänderung kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без изменения проекта проект не может быть успешно завершен."
+        },
+        {
+          "de": "Bitte fügen Sie die Projektänderung dem Protokoll bei.",
+          "ru": "Пожалуйста, приложите изменение проекта к протоколу."
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektänderung oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, изменения в проекте часто недооцениваются, но они действительно имеют решающее значение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, die Projektänderung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, нельзя просто так случайно поменять проект.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Projektänderungsantrag, die Projektänderungsanträge",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Запрос на изменение проекта",
+      "translation_en": "Project change request",
+      "examples": [
+        {
+          "de": "Bitte fügen Sie den Projektänderungsantrag dem Protokoll bei.",
+          "ru": "К протоколу прикрепите запрос на изменение проекта."
+        },
+        {
+          "de": "Ohne den Projektänderungsantrag kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без запроса на изменение проекта проект не может быть успешно завершен."
+        },
+        {
+          "de": "In der Retrospektive wurde der Projektänderungsantrag als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что запрос на изменение проекта имел потенциал для улучшения."
+        },
+        {
+          "de": "Na ja, den Projektänderungsantrag muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну а вам просто нужно правильно задокументировать запрос на изменение проекта, иначе будет хаос.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, der Projektänderungsantrag ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, запрос на изменение проекта действительно важен, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Projekthandbuch, die Projekthandbücher",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Руководство по проекту",
+      "translation_en": "Project manual",
+      "examples": [
+        {
+          "de": "Bitte fügen Sie das Projekthandbuch dem Protokoll bei.",
+          "ru": "К протоколу приложите, пожалуйста, инструкцию по проекту."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu dem Projekthandbuch.",
+          "ru": "Отчет о состоянии содержит важную информацию о руководстве проекта."
+        },
+        {
+          "de": "Ohne das Projekthandbuch kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без руководства по проекту проект не может быть успешно завершен."
+        },
+        {
+          "de": "Ich habe festgestellt, dass das Projekthandbuch in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что руководство по проекту сыграло решающую роль в моем последнем проекте.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Projekthandbuch ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, руководство проекта действительно важно, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektmethode, die Projektmethoden",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Метод проекта",
+      "translation_en": "Project method",
+      "examples": [
+        {
+          "de": "Im Rahmen des Projekts wurde die Projektmethode ausführlich besprochen.",
+          "ru": "В рамках проекта подробно обсуждался метод проектов."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit der Projektmethode auseinandergesetzt.",
+          "ru": "Команда интенсивно занималась методом проектов."
+        },
+        {
+          "de": "Die Analyse zeigt, dass die Projektmethode für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что метод проекта имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "Na ja, die Projektmethode muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну а вам просто нужно правильно документировать метод проекта, иначе будет хаос.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Projektmethode ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, метод проекта действительно важен, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektressourcen, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Ресурсы проекта",
+      "translation_en": "Project resources",
+      "examples": [
+        {
+          "de": "Im Rahmen des Projekts wurde die Projektressourcen ausführlich besprochen.",
+          "ru": "В рамках проекта были подробно обсуждены ресурсы проекта."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu der Projektressourcen.",
+          "ru": "Отчет о состоянии содержит важную информацию о ресурсах проекта."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit der Projektressourcen auseinandergesetzt.",
+          "ru": "Команда интенсивно работала с ресурсами проекта."
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektressourcen oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, ресурсы проекта часто недооцениваются, но они действительно имеют решающее значение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Projektressourcen ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, ресурсы проекта действительно важны, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektleitung, die Projektleitungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Управление проектом",
+      "translation_en": "Project management",
+      "examples": [
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Projektleitung.",
+          "ru": "Руководство ожидает подробной презентации от руководства проекта."
+        },
+        {
+          "de": "Bitte fügen Sie die Projektleitung dem Protokoll bei.",
+          "ru": "Пожалуйста, включите в протокол руководство проектом."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit der Projektleitung auseinandergesetzt.",
+          "ru": "Команда интенсивно занималась управлением проектом."
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Projektleitung in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что управление проектами имело решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, die Projektleitung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, управление проектами — это не то, чем вы можете заниматься на стороне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Projektmanager, die Projektmanager",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Руководитель проекта",
+      "translation_en": "Project manager",
+      "examples": [
+        {
+          "de": "Im Rahmen des Projekts wurde der Projektmanager ausführlich besprochen.",
+          "ru": "В рамках проекта детально обсуждался руководитель проекта."
+        },
+        {
+          "de": "Wir müssen den Projektmanager bis zum Ende der Woche finalisieren.",
+          "ru": "Нам нужно окончательно определиться с менеджером проекта к концу недели."
+        },
+        {
+          "de": "In der Retrospektive wurde der Projektmanager als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что руководитель проекта имел потенциал для улучшения."
+        },
+        {
+          "de": "In meiner Erfahrung wird der Projektmanager oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, менеджера проекта часто недооценивают, но он действительно играет центральную роль.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, der Projektmanager kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, быть менеджером проекта – это не то, чем вы можете заниматься на стороне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Projektmanagement, die Projektmanagements",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Управление проектом",
+      "translation_en": "Project management",
+      "examples": [
+        {
+          "de": "In der Retrospektive wurde das Projektmanagement als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, было установлено, что управление проектами имеет потенциал для улучшения."
+        },
+        {
+          "de": "Ohne das Projektmanagement kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без управления проектом проект не может быть успешно завершен."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu dem Projektmanagement.",
+          "ru": "Отчет о состоянии содержит важную информацию об управлении проектом."
+        },
+        {
+          "de": "Wisst ihr, das Projektmanagement kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, управление проектами — это не то, чем вы можете заниматься на стороне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das Projektmanagement muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну а вам просто нужно правильно документировать управление проектами, иначе будет хаос.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektvereinbarung, die Projektvereinbarungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Соглашение о проекте",
+      "translation_en": "Project agreement",
+      "examples": [
+        {
+          "de": "Das Team hat sich intensiv mit der Projektvereinbarung auseinandergesetzt.",
+          "ru": "Команда интенсивно работала над проектным соглашением."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde die Projektvereinbarung ausführlich besprochen.",
+          "ru": "В рамках проекта детально обсуждалось проектное соглашение."
+        },
+        {
+          "de": "Ohne die Projektvereinbarung kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без проектного соглашения проект не может быть успешно завершен."
+        },
+        {
+          "de": "Wisst ihr, die Projektvereinbarung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, нельзя просто так случайно подписать проектное соглашение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektvereinbarung oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, проектное соглашение часто недооценивают, но оно действительно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektskizze, die Projektskizzen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Краткое описание проекта",
+      "translation_en": "Project outline",
+      "examples": [
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu der Projektskizze.",
+          "ru": "Отчет о состоянии содержит важную информацию о схеме проекта."
+        },
+        {
+          "de": "Der Projektleiter hat die Projektskizze in der Besprechung vorgestellt.",
+          "ru": "Руководитель проекта представил на встрече план проекта."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde die Projektskizze ausführlich besprochen.",
+          "ru": "В рамках проекта было подробно обсуждено содержание проекта."
+        },
+        {
+          "de": "Also, die Projektskizze ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, план проекта действительно важен, когда вы работаете гибко.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektskizze oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, план проекта часто недооценивают, но на самом деле он играет центральную роль.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektidee, die Projektideen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Идея проекта",
+      "translation_en": "Project idea",
+      "examples": [
+        {
+          "de": "In der Retrospektive wurde die Projektidee als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что идея проекта имеет потенциал для улучшения."
+        },
+        {
+          "de": "Die Analyse zeigt, dass die Projektidee für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что идея проекта имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "Der Projektleiter hat die Projektidee in der Besprechung vorgestellt.",
+          "ru": "Руководитель проекта представил на встрече идею проекта."
+        },
+        {
+          "de": "Na ja, die Projektidee muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну а вам остаётся только правильно задокументировать идею проекта, иначе наступит хаос.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Projektidee in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что идея проекта сыграла решающую роль в моем последнем проекте.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektfortschrittskontrolle, die Projektfortschrittskontrollen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Контроль хода проекта",
+      "translation_en": "Project progress control",
+      "examples": [
+        {
+          "de": "Im Rahmen des Projekts wurde die Projektfortschrittskontrolle ausführlich besprochen.",
+          "ru": "В рамках проекта подробно обсуждался мониторинг хода реализации проекта."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu der Projektfortschrittskontrolle.",
+          "ru": "Отчет о состоянии содержит важную информацию о мониторинге хода проекта."
+        },
+        {
+          "de": "Wir müssen die Projektfortschrittskontrolle bis zum Ende der Woche finalisieren.",
+          "ru": "К концу недели нам необходимо завершить контроль хода проекта."
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Projektfortschrittskontrolle in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что отслеживание прогресса проекта имело решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektfortschrittskontrolle oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, мониторинг хода проекта часто недооценивают, но он действительно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Projekterfolg, die Projekterfolge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Успех проекта",
+      "translation_en": "Project success",
+      "examples": [
+        {
+          "de": "Der Projektleiter hat den Projekterfolg in der Besprechung vorgestellt.",
+          "ru": "Менеджер проекта представил на встрече успех проекта."
+        },
+        {
+          "de": "Ohne den Projekterfolg kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без успеха проект не может быть успешно завершен."
+        },
+        {
+          "de": "In der Retrospektive wurde der Projekterfolg als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что успех проекта был признан потенциалом для улучшения."
+        },
+        {
+          "de": "Also, der Projekterfolg ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, успех проекта действительно важен, когда вы работаете гибко.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, der Projekterfolg kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, успех проекта – это не то, чем вы можете заниматься на стороне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Projektergebnis, die Projektergebnisse",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Результат проекта",
+      "translation_en": "Project result",
+      "examples": [
+        {
+          "de": "In der Retrospektive wurde das Projektergebnis als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что результат проекта имеет потенциал для улучшения."
+        },
+        {
+          "de": "Der Projektleiter hat das Projektergebnis in der Besprechung vorgestellt.",
+          "ru": "Руководитель проекта представил на встрече результаты проекта."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu dem Projektergebnis.",
+          "ru": "Отчет о состоянии содержит важную информацию о результате проекта."
+        },
+        {
+          "de": "In meiner Erfahrung wird das Projektergebnis oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, результат проекта часто недооценивают, но он действительно имеет решающее значение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, das Projektergebnis kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, нельзя просто так делать результат проекта.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Projektverlauf, die Projektverläufe",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Ход проекта",
+      "translation_en": "Project progress",
+      "examples": [
+        {
+          "de": "Der Projektleiter hat den Projektverlauf in der Besprechung vorgestellt.",
+          "ru": "Руководитель проекта представил на встрече ход реализации проекта."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde der Projektverlauf ausführlich besprochen.",
+          "ru": "В рамках проекта подробно обсуждался ход реализации проекта."
+        },
+        {
+          "de": "In der Retrospektive wurde der Projektverlauf als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что ход реализации проекта имеет потенциал для улучшения."
+        },
+        {
+          "de": "Wisst ihr, der Projektverlauf kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, процесс проекта не может осуществляться просто так.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, der Projektverlauf ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, ход проекта действительно важен, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Projektvolumen, die Projektvolumina",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Объем проекта",
+      "translation_en": "Project volume",
+      "examples": [
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung des Projektvolumen.",
+          "ru": "Руководство ожидает подробного представления объема проекта."
+        },
+        {
+          "de": "Ohne das Projektvolumen kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без объема проекта проект не может быть успешно завершен."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde das Projektvolumen ausführlich besprochen.",
+          "ru": "Объем проекта подробно обсуждался в рамках проекта."
+        },
+        {
+          "de": "Wisst ihr, das Projektvolumen kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, объем проекта не может быть выполнен на стороне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird das Projektvolumen oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, объем проекта часто недооценивают, но он действительно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektbesprechung, die Projektbesprechungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Встреча проекта",
+      "translation_en": "Project meeting",
+      "examples": [
+        {
+          "de": "Ohne die Projektbesprechung kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без встречи по проекту проект не может быть успешно завершен."
+        },
+        {
+          "de": "Die Analyse zeigt, dass die Projektbesprechung für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что встреча проекта имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde die Projektbesprechung ausführlich besprochen.",
+          "ru": "В рамках проекта детально обсуждалась проектная встреча."
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektbesprechung oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, обсуждение проекта часто недооценивают, но оно действительно имеет решающее значение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Projektbesprechung ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, совещание по проекту действительно важно, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Projektbeteiligte, die Projektbeteiligten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Участники проекта",
+      "translation_en": "Project participants",
+      "examples": [
+        {
+          "de": "Die Analyse zeigt, dass der Projektbeteiligte für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что участник проекта имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu dem Projektbeteiligte.",
+          "ru": "Отчет о состоянии содержит важную информацию об участнике проекта."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde der Projektbeteiligte ausführlich besprochen.",
+          "ru": "В рамках проекта были подробно обсуждены участники проекта."
+        },
+        {
+          "de": "Ich habe festgestellt, dass der Projektbeteiligte in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что заинтересованная сторона проекта сыграла решающую роль в моем последнем проекте.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, der Projektbeteiligte kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, участие в проекте – это не то, что можно делать просто так.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektbewertung, die Projektbewertungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Оценка проекта",
+      "translation_en": "Project evaluation",
+      "examples": [
+        {
+          "de": "Der Projektleiter hat die Projektbewertung in der Besprechung vorgestellt.",
+          "ru": "Менеджер проекта представил на встрече оценку проекта."
+        },
+        {
+          "de": "Die Analyse zeigt, dass die Projektbewertung für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что оценка проекта имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit der Projektbewertung auseinandergesetzt.",
+          "ru": "Команда интенсивно работала над оценкой проекта."
+        },
+        {
+          "de": "Wisst ihr, die Projektbewertung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, оценка проекта — это не то, чем вы можете заниматься на стороне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, die Projektbewertung muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну а вам просто нужно правильно задокументировать оценку проекта, иначе будет хаос.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektfreigabe, die Projektfreigaben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Релиз проекта",
+      "translation_en": "Project release",
+      "examples": [
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Projektfreigabe.",
+          "ru": "Руководство ожидает подробной презентации релиза проекта."
+        },
+        {
+          "de": "Wir müssen die Projektfreigabe bis zum Ende der Woche finalisieren.",
+          "ru": "Нам необходимо завершить релиз проекта к концу недели."
+        },
+        {
+          "de": "Die Analyse zeigt, dass die Projektfreigabe für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что одобрение проекта имеет решающее значение для его продвижения."
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Projektfreigabe in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что совместное использование проектов имело решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektfreigabe oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, совместное использование проектов часто недооценивают, но это действительно важно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektförderung, die Projektförderungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Финансирование проекта",
+      "translation_en": "Project funding",
+      "examples": [
+        {
+          "de": "In der Retrospektive wurde die Projektförderung als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, финансирование проекта было определено как потенциал для улучшения."
+        },
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Projektförderung.",
+          "ru": "Руководство ожидает подробного представления финансирования проекта."
+        },
+        {
+          "de": "Der Projektleiter hat die Projektförderung in der Besprechung vorgestellt.",
+          "ru": "На встрече руководитель проекта представил финансирование проекта."
+        },
+        {
+          "de": "Wisst ihr, die Projektförderung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, финансирование проекта не может осуществляться просто на стороне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektförderung oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, финансирование проектов часто недооценивается, но оно действительно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektprüfung, die Projektprüfungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Обзор проекта",
+      "translation_en": "Project review",
+      "examples": [
+        {
+          "de": "Die Analyse zeigt, dass die Projektprüfung für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что рассмотрение проекта имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "In der Retrospektive wurde die Projektprüfung als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что обзор проекта показал потенциал для улучшения."
+        },
+        {
+          "de": "Ohne die Projektprüfung kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без рассмотрения проекта проект не может быть успешно завершен."
+        },
+        {
+          "de": "Wisst ihr, die Projektprüfung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, обзор проекта не может проводиться случайно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Projektprüfung in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что обзор проекта имел решающее значение в моем последнем проекте.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Projektcoaching, die Projektcoachings",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Коучинг проекта",
+      "translation_en": "Project coaching",
+      "examples": [
+        {
+          "de": "Das Team hat sich intensiv mit dem Projektcoaching auseinandergesetzt.",
+          "ru": "Команда интенсивно работала над коучингом проекта."
+        },
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung des Projektcoaching.",
+          "ru": "Руководство ожидает подробного представления проекта коучинга."
+        },
+        {
+          "de": "Bitte fügen Sie das Projektcoaching dem Protokoll bei.",
+          "ru": "Пожалуйста, прикрепите коучинг проекта к протоколу."
+        },
+        {
+          "de": "Wisst ihr, das Projektcoaching kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, коучинг проекта не может осуществляться просто на стороне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird das Projektcoaching oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, коучинг проектов часто недооценивают, но он действительно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektpräsentation, die Projektpräsentationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Презентация проекта",
+      "translation_en": "Project presentation",
+      "examples": [
+        {
+          "de": "Die Analyse zeigt, dass die Projektpräsentation für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что презентация проекта имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "Bitte fügen Sie die Projektpräsentation dem Protokoll bei.",
+          "ru": "Просим приложить презентацию проекта к протоколу."
+        },
+        {
+          "de": "Die Geschäftsleitung erwartet eine detaillierte Darstellung der Projektpräsentation.",
+          "ru": "Руководство ожидает подробного представления презентации проекта."
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Projektpräsentation in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что презентация проекта сыграла решающую роль в моем последнем проекте.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektpräsentation oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, презентацию проекта часто недооценивают, но она действительно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Projektbeirat, die Projektbeiräte",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Консультативный совет проекта",
+      "translation_en": "Project Advisory Board",
+      "examples": [
+        {
+          "de": "In der Retrospektive wurde der Projektbeirat als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, можно сказать, что консультативный совет проекта имеет потенциал для улучшения."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit dem Projektbeirat auseinandergesetzt.",
+          "ru": "Команда интенсивно обсуждала это с консультативным советом проекта."
+        },
+        {
+          "de": "Die Analyse zeigt, dass der Projektbeirat für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что консультативный совет проекта имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "Ich habe festgestellt, dass der Projektbeirat in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что Консультативный совет проекта изменил мой последний проект.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird der Projektbeirat oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, консультативный совет проекта часто недооценивают, но он действительно играет центральную роль.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektunterstützung, die Projektunterstützungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Поддержка проекта",
+      "translation_en": "Project support",
+      "examples": [
+        {
+          "de": "In der Retrospektive wurde die Projektunterstützung als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, поддержка проекта была определена как потенциал для улучшения."
+        },
+        {
+          "de": "Ohne die Projektunterstützung kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без поддержки проекта проект не может быть успешно завершен."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde die Projektunterstützung ausführlich besprochen.",
+          "ru": "Поддержка проекта подробно обсуждалась в рамках проекта."
+        },
+        {
+          "de": "Wisst ihr, die Projektunterstützung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, поддержка проекта не может осуществляться просто на стороне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektunterstützung oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, поддержку проекта часто недооценивают, но она действительно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Projektkrisenmanagement, die Projektkrisenmanagements",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Кризисное управление проектом",
+      "translation_en": "Project crisis management",
+      "examples": [
+        {
+          "de": "Das Team hat sich intensiv mit dem Projektkrisenmanagement auseinandergesetzt.",
+          "ru": "Команда интенсивно занималась антикризисным управлением проекта."
+        },
+        {
+          "de": "Bitte fügen Sie das Projektkrisenmanagement dem Protokoll bei.",
+          "ru": "К протоколу просьба приложить антикризисное управление проектом."
+        },
+        {
+          "de": "Ohne das Projektkrisenmanagement kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без антикризисного управления проект не может быть успешно завершен."
+        },
+        {
+          "de": "In meiner Erfahrung wird das Projektkrisenmanagement oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, кризисное управление проектами часто недооценивают, но оно действительно имеет решающее значение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, das Projektkrisenmanagement kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, кризисное управление проектом — это не то, чем вы можете заниматься на стороне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektnachbereitung, die Projektnachbereitungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Сопровождение проекта",
+      "translation_en": "Project follow-up",
+      "examples": [
+        {
+          "de": "Wir müssen die Projektnachbereitung bis zum Ende der Woche finalisieren.",
+          "ru": "Мы должны завершить реализацию проекта к концу недели."
+        },
+        {
+          "de": "Ohne die Projektnachbereitung kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без последующей деятельности проект не может быть успешно завершен."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu der Projektnachbereitung.",
+          "ru": "Отчет о состоянии содержит важную информацию о последующих действиях по проекту."
+        },
+        {
+          "de": "Na ja, die Projektnachbereitung muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну, вам просто нужно правильно документировать реализацию проекта, иначе будет хаос.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, die Projektnachbereitung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, сопровождение проекта — это не то, чем вы можете заниматься на стороне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektvorbereitung, die Projektvorbereitungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Подготовка проекта",
+      "translation_en": "Project preparation",
+      "examples": [
+        {
+          "de": "Wir müssen die Projektvorbereitung bis zum Ende der Woche finalisieren.",
+          "ru": "К концу недели мы должны завершить подготовку проекта."
+        },
+        {
+          "de": "In der Retrospektive wurde die Projektvorbereitung als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, подготовка проекта была определена как потенциал для улучшения."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu der Projektvorbereitung.",
+          "ru": "Отчет о состоянии содержит важную информацию о подготовке проекта."
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektvorbereitung oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, подготовку проекта часто недооценивают, но она действительно имеет решающее значение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, die Projektvorbereitung muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну и надо только правильно документировать подготовку проекта, иначе будет хаос.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektumsetzung, die Projektumsetzungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Реализация проекта",
+      "translation_en": "Project implementation",
+      "examples": [
+        {
+          "de": "Die Analyse zeigt, dass die Projektumsetzung für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что реализация проекта имеет решающее значение для его прогресса."
+        },
+        {
+          "de": "Ohne die Projektumsetzung kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без реализации проекта проект не может быть успешно завершен."
+        },
+        {
+          "de": "Wir müssen die Projektumsetzung bis zum Ende der Woche finalisieren.",
+          "ru": "До конца недели мы должны завершить реализацию проекта."
+        },
+        {
+          "de": "In meiner Erfahrung wird die Projektumsetzung oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, реализацию проекта часто недооценивают, но она действительно имеет решающее значение.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Projektumsetzung ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, реализация проекта действительно важна, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Multiprojektleitung, die Multiprojektleitungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Мультипроектное управление",
+      "translation_en": "Multi-project management",
+      "examples": [
+        {
+          "de": "Wir müssen die Multiprojektleitung bis zum Ende der Woche finalisieren.",
+          "ru": "К концу недели нам предстоит завершить управление несколькими проектами."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu der Multiprojektleitung.",
+          "ru": "Отчет о состоянии содержит важную информацию об управлении несколькими проектами."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit der Multiprojektleitung auseinandergesetzt.",
+          "ru": "Команда интенсивно занималась управлением несколькими проектами."
+        },
+        {
+          "de": "Na ja, die Multiprojektleitung muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну просто надо правильно документировать мультипроектное управление, иначе будет хаос.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Multiprojektleitung in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что управление несколькими проектами сыграло решающую роль в моем последнем проекте.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Multiprojektcontrolling, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Многопроектный контроль",
+      "translation_en": "Multi-project controlling",
+      "examples": [
+        {
+          "de": "Der Projektleiter hat das Multiprojektcontrolling in der Besprechung vorgestellt.",
+          "ru": "Менеджер проекта представил на встрече мультипроектный контроллинг."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu dem Multiprojektcontrolling.",
+          "ru": "Отчет о состоянии содержит важную информацию об управлении несколькими проектами."
+        },
+        {
+          "de": "Wir müssen das Multiprojektcontrolling bis zum Ende der Woche finalisieren.",
+          "ru": "К концу недели мы должны завершить контроль над несколькими проектами."
+        },
+        {
+          "de": "Wisst ihr, das Multiprojektcontrolling kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, управление несколькими проектами не может осуществляться просто на стороне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird das Multiprojektcontrolling oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, управление несколькими проектами часто недооценивают, но на самом деле оно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektpriorisierung, die Projektpriorisierungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Приоритизация проекта",
+      "translation_en": "Project prioritization",
+      "examples": [
+        {
+          "de": "Das Team hat sich intensiv mit der Projektpriorisierung auseinandergesetzt.",
+          "ru": "Команда интенсивно работала над определением приоритетов проекта."
+        },
+        {
+          "de": "Bitte fügen Sie die Projektpriorisierung dem Protokoll bei.",
+          "ru": "Пожалуйста, приложите к протоколу приоритеты проекта."
+        },
+        {
+          "de": "In der Retrospektive wurde die Projektpriorisierung als Verbesserungspotenzial identifiziert.",
+          "ru": "Оглядываясь назад, расстановка приоритетов проекта была определена как потенциал для улучшения."
+        },
+        {
+          "de": "Wisst ihr, die Projektpriorisierung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, определение приоритетов проекта — это не то, чем вы можете заниматься на стороне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Projektpriorisierung ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, расстановка приоритетов проекта действительно важна, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Portfolioplanung, die Portfolioplanungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Планирование портфеля",
+      "translation_en": "Portfolio planning",
+      "examples": [
+        {
+          "de": "Im Rahmen des Projekts wurde die Portfolioplanung ausführlich besprochen.",
+          "ru": "В рамках проекта подробно обсуждалось планирование портфеля."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit der Portfolioplanung auseinandergesetzt.",
+          "ru": "Команда интенсивно работала над планированием портфеля."
+        },
+        {
+          "de": "Ohne die Portfolioplanung kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без планирования портфолио проект не может быть успешно завершен."
+        },
+        {
+          "de": "Na ja, die Portfolioplanung muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Что ж, вам просто нужно правильно документировать планирование портфолио, иначе будет хаос.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, die Portfolioplanung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, планирование портфолио — это не то, чем вы можете заниматься на стороне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Portfoliomanagement, die Portfoliomanagements",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Управление портфелем",
+      "translation_en": "Portfolio management",
+      "examples": [
+        {
+          "de": "Wir müssen das Portfoliomanagement bis zum Ende der Woche finalisieren.",
+          "ru": "Нам нужно завершить управление портфелем к концу недели."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde das Portfoliomanagement ausführlich besprochen.",
+          "ru": "В рамках проекта подробно обсуждалось управление портфелем."
+        },
+        {
+          "de": "Das Team hat sich intensiv mit dem Portfoliomanagement auseinandergesetzt.",
+          "ru": "Команда интенсивно занималась управлением портфелем."
+        },
+        {
+          "de": "Na ja, das Portfoliomanagement muss man einfach richtig dokumentieren, sonst gibt es Chaos.",
+          "ru": "Ну а вам просто нужно правильно документировать управление портфелем, иначе будет хаос.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung wird das Portfoliomanagement oft unterschätzt, aber es ist wirklich zentral.",
+          "ru": "По моему опыту, управление портфелем часто недооценивают, но оно действительно имеет решающее значение.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Ressourcenüberlastung, die Ressourcenüberlastungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Перегрузка ресурсов",
+      "translation_en": "Resource overload",
+      "examples": [
+        {
+          "de": "Ohne die Ressourcenüberlastung kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без перегрузки ресурсов проект не может быть успешно завершен."
+        },
+        {
+          "de": "Bitte fügen Sie die Ressourcenüberlastung dem Protokoll bei.",
+          "ru": "Пожалуйста, добавьте перегрузку ресурса в журнал."
+        },
+        {
+          "de": "Im Rahmen des Projekts wurde die Ressourcenüberlastung ausführlich besprochen.",
+          "ru": "Перегрузка ресурсов подробно обсуждалась в рамках проекта."
+        },
+        {
+          "de": "Wisst ihr, die Ressourcenüberlastung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, перегрузка ресурсов — это не то, о чем можно просто позаботиться.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Ressourcenüberlastung ist halt super wichtig, wenn man agil arbeitet.",
+          "ru": "Итак, перегрузка ресурсов действительно важна, когда вы работаете гибко.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Ressourcenunterdeckung, die Ressourcenunterdeckungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Дефицит ресурсов",
+      "translation_en": "Resource shortage",
+      "examples": [
+        {
+          "de": "Die Analyse zeigt, dass die Ressourcenunterdeckung für den Projektfortschritt entscheidend ist.",
+          "ru": "Анализ показывает, что нехватка ресурсов имеет решающее значение для прогресса проекта."
+        },
+        {
+          "de": "Ohne die Ressourcenunterdeckung kann das Projekt nicht erfolgreich abgeschlossen werden.",
+          "ru": "Без нехватки ресурсов проект не может быть успешно завершен."
+        },
+        {
+          "de": "Der Statusbericht enthält wichtige Informationen zu der Ressourcenunterdeckung.",
+          "ru": "Отчет о состоянии содержит важную информацию о нехватке ресурсов."
+        },
+        {
+          "de": "Ich habe festgestellt, dass die Ressourcenunterdeckung in meinem letzten Projekt den Unterschied gemacht hat.",
+          "ru": "Я обнаружил, что нехватка ресурсов сыграла решающую роль в моем последнем проекте.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wisst ihr, die Ressourcenunterdeckung kann man nicht einfach so nebenbei erledigen.",
+          "ru": "Знаете, о нехватке ресурсов нельзя заботиться просто так.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
     }
   ]
 }

@@ -33,6 +33,9 @@
         "Vorzug",
         "Pluspunkt",
         "Kompetenz"
+      ],
+      "antonyms": [
+        "die Schwäche, die Schwächen"
       ]
     },
     {
@@ -67,6 +70,9 @@
         "Mangel",
         "Defizit",
         "Fehler"
+      ],
+      "antonyms": [
+        "die Stärke, die Stärken"
       ]
     },
     {
@@ -97,7 +103,10 @@
           "ru": "Король ценит мой опыт во многих отраслях."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Inkompetenz, die Inkompetenzen"
+      ]
     },
     {
       "word": "die Schlüsselqualifikation, die Schlüsselqualifikationen",
@@ -127,7 +136,8 @@
           "ru": "Учителя не освоили ключевые навыки, которым они должны обучать детей сегодня."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "teamfähig",
@@ -153,7 +163,11 @@
           "ru": "Ко всему прочему, соискатель должен быть общительным, способным работать в коллективе, дружелюбным и авторитетным человеком, с приемлемыми для работодателя финансовыми ожиданиями."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "einzelgängerisch",
+        "unfähig zur Teamarbeit"
+      ]
     },
     {
       "word": "die Teamfähigkeit, (nur Sg.)",
@@ -186,6 +200,9 @@
       "synonyms": [
         "Kooperationsbereitschaft",
         "Gemeinsinn"
+      ],
+      "antonyms": [
+        "die Unfähigkeit zur Teamarbeit"
       ]
     },
     {
@@ -216,7 +233,12 @@
           "ru": "Нужна гибкость в отношении того, через что проходят эти люди."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unflexibel",
+        "starr",
+        "unbeweglich"
+      ]
     },
     {
       "word": "die Flexibilität, (nur Sg.)",
@@ -246,7 +268,11 @@
           "ru": "Это обеспечивает высокую степень гибкости в разработках, безопасность и эффективность."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unflexibilität (nur Sg.)",
+        "die Starrheit (nur Sg.)"
+      ]
     },
     {
       "word": "belastbar",
@@ -276,7 +302,11 @@
           "ru": "Сирийцы сильные, терпеливые, стабильные и находчивые."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unbelastbar",
+        "empfindlich"
+      ]
     },
     {
       "word": "die Belastbarkeit, (nur Sg.)",
@@ -306,7 +336,10 @@
           "ru": "Личная свобода, которой пользуются ливанские граждане, дает им особую устойчивость, и ее культурный динамизм является предметом зависти молодых людей всего Ближнего Востока."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unbelastbarkeit (nur Sg.)"
+      ]
     },
     {
       "word": "zuverlässig",
@@ -336,7 +369,10 @@
           "ru": "Машины были чистые и надежные, в них всё работало."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unzuverlässig"
+      ]
     },
     {
       "word": "die Zuverlässigkeit, (nur Sg.)",
@@ -366,7 +402,10 @@
           "ru": "Мария постепенно начинает сомневаться в надежности своего друга."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unzuverlässigkeit (nur Sg.)"
+      ]
     },
     {
       "word": "selbstständig",
@@ -396,7 +435,11 @@
           "ru": "Мне никогда больше не придется быть самостоятельным!"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unselbstständig",
+        "abhängig"
+      ]
     },
     {
       "word": "die Selbstständigkeit, (nur Sg.)",
@@ -426,7 +469,11 @@
           "ru": "Но он помог нам побудить большое количество людей задуматься об интеллекте, свободе воли, независимости и дал игровую площадку для дискуссий о том, что вышло в итоге."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unselbstständigkeit (nur Sg.)",
+        "die Abhängigkeit, die Abhängigkeiten"
+      ]
     },
     {
       "word": "engagiert",
@@ -456,7 +503,11 @@
           "ru": "Погоди, но она наняла нас совратить его."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "teilnahmslos",
+        "passiv"
+      ]
     },
     {
       "word": "das Engagement, die Engagements",
@@ -486,7 +537,11 @@
           "ru": "Союз также благодарит международных наблюдателей за их активное участие в этом процессе."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Passivität (nur Sg.)",
+        "das Desinteresse (nur Sg.)"
+      ]
     },
     {
       "word": "motiviert",
@@ -516,7 +571,11 @@
           "ru": "Синяк у меня на затылке говорит о том, что у него была мотивация."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "demotiviert",
+        "unmotiviert"
+      ]
     },
     {
       "word": "die Motivation, die Motivationen",
@@ -546,7 +605,11 @@
           "ru": "Понимаете, ему нужен был лишь стимул."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Demotivation, die Demotivationen",
+        "die Unlust (nur Sg.)"
+      ]
     },
     {
       "word": "kommunikativ",
@@ -576,7 +639,12 @@
           "ru": "Ко всему прочему, соискатель должен быть общительным, способным работать в коллективе, дружелюбным и авторитетным человеком, с приемлемыми для работодателя финансовыми ожиданиями."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unkommunikativ",
+        "wortkarg",
+        "schweigsam"
+      ]
     },
     {
       "word": "die Kommunikationsfähigkeit, (nur Sg.)",
@@ -606,7 +674,10 @@
           "ru": "Как же нам построить более широкое «Мы» и справиться со всеми нашими проблемами, если мы не станем совершенствовать коммуникационные навыки?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unkommunikativität (nur Sg.)"
+      ]
     },
     {
       "word": "zielstrebig",
@@ -636,7 +707,11 @@
           "ru": "При условии, что студент занимается целеустремленно и, по меньшей мере, со средним баллом."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "ziellos",
+        "unentschlossen"
+      ]
     },
     {
       "word": "die Zielstrebigkeit, (nur Sg.)",
@@ -666,7 +741,10 @@
           "ru": "Потребуется наличие или приобретение целого ряда личностных предпосылок, таких, например, как самодисциплина, целеустремленность, коммуникабельность, творческие способности и готовность к риску. Сюда следует добавить как профессиональное, так и предпринимательское ноу-хау."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Ziellosigkeit (nur Sg.)"
+      ]
     },
     {
       "word": "kreativ",
@@ -696,7 +774,12 @@
           "ru": "Это очевидно, что ты слишком... креативная для этой работы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unkreativ",
+        "fantasielos",
+        "ideenlos"
+      ]
     },
     {
       "word": "die Kreativität, (nur Sg.)",
@@ -726,7 +809,11 @@
           "ru": "Надо заметить, агент Боден продемонстрировал удивительные творческие способности."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unkreativität (nur Sg.)",
+        "die Fantasielosigkeit (nur Sg.)"
+      ]
     },
     {
       "word": "lernbereit",
@@ -756,7 +843,11 @@
           "ru": "Согласно исследованиям, они так же готовы учиться и мотивированы, как и местные жители."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "lernunwillig",
+        "unbelehrbar"
+      ]
     },
     {
       "word": "die Lernbereitschaft, (nur Sg.)",
@@ -786,7 +877,10 @@
           "ru": "Это также может быть попыткой проверить вашу готовность учиться."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Lernunwilligkeit"
+      ]
     },
     {
       "word": "anpassungsfähig",
@@ -816,7 +910,12 @@
           "ru": "Они умны, легко адаптируются и очень живучи."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unanpassungsfähig",
+        "unflexibel",
+        "starr"
+      ]
     },
     {
       "word": "die Anpassungsfähigkeit, (nur Sg.)",
@@ -846,7 +945,12 @@
           "ru": "За последние два года другие периферийные страны еврозоны доказали свою способность к адаптации за счет сокращения бюджетных дефицитов, расширения экспорта и перехода к профициту текущих счетов и, тем самым исключили необходимость финансирования."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unanpassungsfähigkeit",
+        "die Unflexibilität",
+        "die Starrheit"
+      ]
     },
     {
       "word": "verantwortungsbewusst",
@@ -876,7 +980,11 @@
           "ru": "Тейлор, ты обычно такая ответственная."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "verantwortungslos",
+        "leichtsinnig"
+      ]
     },
     {
       "word": "das Verantwortungsbewusstsein, (nur Sg.)",
@@ -906,7 +1014,11 @@
           "ru": "Съемный ортодонтический аппарат требует от пациента тесного сотрудничества с врачом-стоматологом, а также ответственности и добросовестности, поскольку пациент обязан соблюдать правила правильного пользования."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Verantwortungslosigkeit",
+        "der Leichtsinn"
+      ]
     },
     {
       "word": "organisiert",
@@ -936,7 +1048,12 @@
           "ru": "А я по глупости организовал празднование, от которого я с радостью избавлюсь."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unorganisiert",
+        "chaotisch",
+        "planlos"
+      ]
     },
     {
       "word": "das Organisationstalent, die Organisationstalente",
@@ -966,7 +1083,11 @@
           "ru": "Для использования ресурсов жесткой силы наиболее важны два навыка: организационный потенциал и знания на уровне Макиавелли в вопросах запугивания, подкупа и переговоров, чтобы формировать побеждающие коалиции."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Planlosigkeit",
+        "die Unorganisiertheit"
+      ]
     },
     {
       "word": "lösungsorientiert",
@@ -996,7 +1117,11 @@
           "ru": "подходить к чему-л. ориентированным на решение образом"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "problemorientiert",
+        "ziellos"
+      ]
     },
     {
       "word": "das Problemlösungsverhalten, (nur Sg.)",
@@ -1026,7 +1151,8 @@
           "ru": "Очевидно, что процесс формирования целей точно отражается концепцией эвристического поведения при решении проблем."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "kundenorientiert",
@@ -1056,7 +1182,11 @@
           "ru": "Наша команда состоит из высокообразованных, молодых и энергичных сотрудников, которые концентрируются на достижении цели, активно задействованы в сотрудничество с клиентами."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "kundenunfreundlich",
+        "produktorientiert"
+      ]
     },
     {
       "word": "die Kundenorientierung, (nur Sg.)",
@@ -1086,7 +1216,10 @@
           "ru": "Кандидаты должны иметь достаточный опыт и знания Linux, что включает в себя TCP/IP и маршрутизацию, Perl, PHP и BASH-скрипты, Apache, Bind, DNS, SQUID, Postfix и MySQL, плюс умение общаться, привычка к организованной работе и умение ориентироваться на клиента."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Kundenunfreundlichkeit"
+      ]
     },
     {
       "word": "analytisch",
@@ -1116,7 +1249,12 @@
           "ru": "Прошлой ночью ты ничего не анализировал."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "intuitiv",
+        "synthetisch",
+        "emotional"
+      ]
     },
     {
       "word": "das analytische Denken, (nur Sg.)",
@@ -1146,7 +1284,11 @@
           "ru": "На протяжении многих лет психологи пытались понять природу творческих способностей человека, столь отличающихся от аналитического мышления."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das intuitive Denken",
+        "das emotionale Denken"
+      ]
     },
     {
       "word": "strukturiert",
@@ -1176,7 +1318,12 @@
           "ru": "И компания сама была игра, которая была очень хорошо структурирована."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unstrukturiert",
+        "chaotisch",
+        "planlos"
+      ]
     },
     {
       "word": "gewissenhaft",
@@ -1206,7 +1353,12 @@
           "ru": "Она ответила на все вопросы честно и в полной мере."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "gewissenlos",
+        "nachlässig",
+        "oberflächlich"
+      ]
     },
     {
       "word": "die Gewissenhaftigkeit, (nur Sg.)",
@@ -1236,7 +1388,12 @@
           "ru": "Смеялась над моей супружеской верностью."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Nachlässigkeit",
+        "die Gewissenlosigkeit",
+        "die Oberflächlichkeit"
+      ]
     },
     {
       "word": "ehrgeizig",
@@ -1266,7 +1423,12 @@
           "ru": "Посмотри на себя, какая ты умная, классная, весёлая, целеустремленная."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "ehrgeizlos",
+        "antriebslos",
+        "bescheiden"
+      ]
     },
     {
       "word": "der Ehrgeiz, (nur Sg.)",
@@ -1296,7 +1458,11 @@
           "ru": "Это достойное стремление стало его путеводной звездой."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Ehrgeizlosigkeit",
+        "die Antriebslosigkeit"
+      ]
     },
     {
       "word": "durchsetzungsstark",
@@ -1326,7 +1492,12 @@
           "ru": "Напористый и относительно стабильный Китай, кажется, должен расширяться, чтобы сдерживаемое внутреннее давление не разорвало его на части."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "durchsetzungsschwach",
+        "nachgiebig",
+        "zögerlich"
+      ]
     },
     {
       "word": "die Durchsetzungsfähigkeit, (nur Sg.)",
@@ -1356,7 +1527,12 @@
           "ru": "Его скорость и напористость делают его одним из лучших бегунов всех времен."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Durchsetzungsschwäche",
+        "die Nachgiebigkeit",
+        "die Zögerlichkeit"
+      ]
     },
     {
       "word": "kritikfähig",
@@ -1386,7 +1562,11 @@
           "ru": "А пациент остается бодрствующим, способным к критике и готовым к контакту, вот что самое главное."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "kritikunfähig",
+        "empfindlich"
+      ]
     },
     {
       "word": "die Kritikfähigkeit, (nur Sg.)",
@@ -1416,7 +1596,11 @@
           "ru": "Мы также поговорили с ним и попытались улучшить его способность воспринимать критику."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Kritikunfähigkeit",
+        "die Empfindlichkeit"
+      ]
     },
     {
       "word": "stressresistent",
@@ -1446,7 +1630,12 @@
           "ru": "Актеры озвучивания должны иметь склонность к кино и быть стрессоустойчивыми."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "stressempfindlich",
+        "labil",
+        "anfällig"
+      ]
     },
     {
       "word": "die Stressresistenz, (nur Sg.)",
@@ -1464,7 +1653,11 @@
           "ru": "Ваша стрессоустойчивость помогает вам сохранять спокойствие даже в сложных ситуациях."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Stressempfindlichkeit",
+        "die Labilität"
+      ]
     },
     {
       "word": "loyal",
@@ -1494,7 +1687,11 @@
           "ru": "Мой муж всегда был лоялен, и ко мне, Я..."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "illoyal",
+        "untreu"
+      ]
     },
     {
       "word": "die Loyalität, (nur Sg.)",
@@ -1524,7 +1721,12 @@
           "ru": "Ты проявила ко мне лояльность, я хочу отплатить тем же."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Illoyalität",
+        "die Untreue",
+        "der Verrat"
+      ]
     },
     {
       "word": "geduldig",
@@ -1554,7 +1756,12 @@
           "ru": "Сегодня Я вознаградил их за то, что они проявили терпение."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "ungeduldig",
+        "rastlos",
+        "hektisch"
+      ]
     },
     {
       "word": "die Geduld, (nur Sg.)",
@@ -1584,7 +1791,12 @@
           "ru": "Это звук моего терпения, лопнувшего на миллион маленьких осколков."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Ungeduld",
+        "die Rastlosigkeit",
+        "die Hektik"
+      ]
     },
     {
       "word": "initiativ",
@@ -1614,7 +1826,12 @@
           "ru": "это они стремятся к благам, и они достигнут их раньше."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "initiativlos",
+        "passiv",
+        "träge"
+      ]
     },
     {
       "word": "die Eigeninitiative, die Eigeninitiativen",
@@ -1644,7 +1861,12 @@
           "ru": "Я просто хотел проявить инициативу."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Initiativlosigkeit",
+        "die Passivität",
+        "die Trägheit"
+      ]
     },
     {
       "word": "die Überzeugungskraft, (nur Sg.)",
@@ -1674,7 +1896,11 @@
           "ru": "Твои методы убеждения могут понадобится за ужином."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unglaubwürdigkeit",
+        "die Überredungsschwäche"
+      ]
     },
     {
       "word": "redegewandt",
@@ -1704,7 +1930,12 @@
           "ru": "Я не мастер по красноречию."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "wortkarg",
+        "einsilbig",
+        "sprachlos"
+      ]
     },
     {
       "word": "die Redegewandtheit, (nur Sg.)",
@@ -1734,7 +1965,11 @@
           "ru": "Проблема Пана заключается в его застенчивом стиле, который сильно отличается от стиля его предшественника Кофи Аннана, великого генерального секретаря, доминировавшего за счет своего таланта, красноречия и огромной власти."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Wortkargheit",
+        "die Sprachlosigkeit"
+      ]
     },
     {
       "word": "freundlich",
@@ -1764,7 +1999,12 @@
           "ru": "Не будете ли Вы так любезны следовать за мной."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unfreundlich",
+        "feindselig",
+        "abweisend"
+      ]
     },
     {
       "word": "die Freundlichkeit, (nur Sg.)",
@@ -1794,7 +2034,11 @@
           "ru": "И со временем вы будете благодарны за доброту, проявленную к вам."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unfreundlichkeit",
+        "die Feindseligkeit"
+      ]
     },
     {
       "word": "höflich",
@@ -1824,7 +2068,12 @@
           "ru": "Лучше, но все равно слишком вежливо."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unhöflich",
+        "grob",
+        "unverschämt"
+      ]
     },
     {
       "word": "die Höflichkeit, (nur Sg.)",
@@ -1854,7 +2103,12 @@
           "ru": "Окажу тебе любезность, которой ты его лишил."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unhöflichkeit",
+        "die Grobheit",
+        "die Unverschämtheit"
+      ]
     },
     {
       "word": "hilfsbereit",
@@ -1884,7 +2138,12 @@
           "ru": "Вы всегда были полезны и при условии, информация о транспорте, прогулок и местных достопримечательностей."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unhilfsbereit",
+        "egoistisch",
+        "selbstsüchtig"
+      ]
     },
     {
       "word": "die Hilfsbereitschaft, (nur Sg.)",
@@ -1914,7 +2173,12 @@
           "ru": "Журналистика обеспечила путь для человеческого великодушия, и читатели откликнулись."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unhilfsbereitschaft",
+        "der Egoismus",
+        "die Selbstsucht"
+      ]
     },
     {
       "word": "diszipliniert",
@@ -1944,7 +2208,12 @@
           "ru": "Это зависит от того, насколько дисциплинировано ты будешь тренироваться."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "undiszipliniert",
+        "zügellos",
+        "chaotisch"
+      ]
     },
     {
       "word": "die Disziplin, (nur Sg.)",
@@ -1974,7 +2243,12 @@
           "ru": "Вы должны понимать дисциплину, уметь отдавать и исполнять приказы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Undiszipliniertheit",
+        "die Zügellosigkeit",
+        "das Chaos"
+      ]
     },
     {
       "word": "sorgfältig",
@@ -2004,7 +2278,12 @@
           "ru": "Если вы чувствуете себя как рыба без воды, осторожно."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "nachlässig",
+        "schlampig",
+        "unordentlich"
+      ]
     },
     {
       "word": "die Sorgfalt, (nur Sg.)",
@@ -2034,7 +2313,12 @@
           "ru": "За этим садом ухаживают с большой заботой."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Nachlässigkeit",
+        "die Schlampigkeit",
+        "die Unachtsamkeit"
+      ]
     },
     {
       "word": "die Arbeitsweise, die Arbeitsweisen",
@@ -2064,7 +2348,8 @@
           "ru": "На чем основан интегрированный метод работы между САПР и расчетом конструкций?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "selbstbewusst",
@@ -2094,7 +2379,12 @@
           "ru": "Специальная Олимпиада учит атлетов быть уверенными и гордиться собой."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unsicher",
+        "schüchtern",
+        "selbstzweifelnd"
+      ]
     },
     {
       "word": "das Selbstbewusstsein, (nur Sg.)",
@@ -2124,7 +2414,12 @@
           "ru": "И вы видите, что уверенность в себе почти возвращается, но не совсем."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unsicherheit",
+        "die Schüchternheit",
+        "die Selbstzweifel"
+      ]
     },
     {
       "word": "kompromissbereit",
@@ -2154,7 +2449,12 @@
           "ru": "Так, например, освобождение перед началом судебного процесса Бильяны Плавшич - одной из наиболее преступных лидеров боснийских сербов - в обмен на свидетельские показания, было бы более разумным, если бы Трибунал проявил аналогичную уступчивость по отношению к менее виновным подсудимым несербского происхождения."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "kompromisslos",
+        "unnachgiebig",
+        "starr"
+      ]
     },
     {
       "word": "die Kompromissbereitschaft, (nur Sg.)",
@@ -2184,7 +2484,12 @@
           "ru": "Спроси любого консультанта что самое главное в отношениях."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Kompromisslosigkeit",
+        "die Unnachgiebigkeit",
+        "die Starrheit"
+      ]
     },
     {
       "word": "diplomatisch",
@@ -2214,7 +2519,12 @@
           "ru": "Я сомневаюсь, что и наше поведение занесёт нас в летописи дипломатии."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "undiplomatisch",
+        "taktlos",
+        "polternd"
+      ]
     },
     {
       "word": "das Diplomatiegespür, (nur Sg.)",
@@ -2232,7 +2542,11 @@
           "ru": "С чувством дипломатии конфликты в команде можно решить быстро."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Taktlosigkeit",
+        "die Plumpheit"
+      ]
     },
     {
       "word": "motivieren",
@@ -2273,7 +2587,12 @@
         "ihr": "motiviert",
         "sie/Sie": "motivieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "demotivieren",
+        "entmutigen",
+        "niederschlagen"
+      ]
     },
     {
       "word": "leiten",
@@ -2319,7 +2638,11 @@
         "ihr": "leitet",
         "sie/Sie": "leiten"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "folgen",
+        "dienen"
+      ]
     },
     {
       "word": "führen",
@@ -2360,7 +2683,12 @@
         "ihr": "führt",
         "sie/Sie": "führen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "folgen",
+        "hinterherlaufen",
+        "dienen"
+      ]
     },
     {
       "word": "die Führungskompetenz, die Kompetenzen",
@@ -2390,7 +2718,10 @@
           "ru": "Женщины, настолько горячие, что дым идёт. (Смех) Тогда вы задаётесь вопросом, как люди говорят об электронных сигаретах?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Führungsschwäche"
+      ]
     },
     {
       "word": "koordinieren",
@@ -2438,6 +2769,10 @@
       },
       "prepositions": [
         "mit + Dativ (координировать с кем-то)"
+      ],
+      "antonyms": [
+        "desorganisieren",
+        "verwirren"
       ]
     },
     {
@@ -2460,7 +2795,10 @@
           "ru": "Позвони ему, договорись о неполной ставке, улучши свои навыки хирурга и сбеги от своей мелодрамы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Kooperationsunfähigkeit"
+      ]
     },
     {
       "word": "das Team, die Teams",
@@ -2490,7 +2828,10 @@
           "ru": "Собери свой отряд, а я позвоню тебе и сообщу дальнейшие инструкции."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Einzelgänger"
+      ]
     },
     {
       "word": "der Teamgeist, (nur Sg.)",
@@ -2520,7 +2861,11 @@
           "ru": "Вообще вся проблема в вас, ...чужаках, никакого командного духа!"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Egoismus",
+        "der Eigennutz"
+      ]
     },
     {
       "word": "unterstützen",
@@ -2568,6 +2913,11 @@
       },
       "prepositions": [
         "bei + Dativ (поддерживать в чём-то)"
+      ],
+      "antonyms": [
+        "behindern",
+        "blockieren",
+        "entgegenwirken"
       ]
     },
     {
@@ -2598,7 +2948,12 @@
           "ru": "Но поскольку тут особые обстоятельства, мне требуется особое содействие."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Behinderung",
+        "die Blockade",
+        "der Widerstand"
+      ]
     },
     {
       "word": "bewältigen",
@@ -2644,7 +2999,11 @@
         "ihr": "bewältigt",
         "sie/Sie": "bewältigen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "scheitern an",
+        "versagen"
+      ]
     },
     {
       "word": "die Herausforderung, die Herausforderungen",
@@ -2674,7 +3033,12 @@
           "ru": "Такая задача оказалась сложной как технически, так и эмоционально."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Routine",
+        "die Spielerei",
+        "die Leichtigkeit"
+      ]
     },
     {
       "word": "lösen",
@@ -2715,7 +3079,11 @@
         "ihr": "löst",
         "sie/Sie": "lösen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "verursachen",
+        "schaffen"
+      ]
     },
     {
       "word": "das Problem, die Probleme",
@@ -2745,7 +3113,10 @@
           "ru": "Есть другая из двух проблем, что меня больше беспокоит."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Lösung, die Lösungen"
+      ]
     },
     {
       "word": "der Erfolg, die Erfolge",
@@ -2775,7 +3146,12 @@
           "ru": "Дорогой виски, но я хочу вложиться в наш успех."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Misserfolg",
+        "der Fehlschlag",
+        "die Niederlage"
+      ]
     },
     {
       "word": "erfolgreich",
@@ -2805,7 +3181,12 @@
           "ru": "Говорит также, что он успешно отклонил знакомые змей на острове."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "erfolglos",
+        "gescheitert",
+        "misslungen"
+      ]
     },
     {
       "word": "scheitern",
@@ -2848,6 +3229,11 @@
       },
       "prepositions": [
         "an + Dativ (потерпеть неудачу из-за чего-то)"
+      ],
+      "antonyms": [
+        "gelingen",
+        "erfolgreich sein",
+        "siegen"
       ]
     },
     {
@@ -2878,7 +3264,10 @@
           "ru": "И все же успех или поражение все равно зависят от отдельных спортсменов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Erfolg, die Erfolge"
+      ]
     },
     {
       "word": "die Erfahrung, die Erfahrungen",
@@ -2908,7 +3297,11 @@
           "ru": "Это был огромный опыт для меня, но я была готова."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unerfahrenheit",
+        "die Unwissenheit"
+      ]
     },
     {
       "word": "erfahren",
@@ -2938,7 +3331,12 @@
           "ru": "Даже у меня нет полномочий знать, что здесь происходит."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unerfahren",
+        "grün",
+        "unbedarft"
+      ]
     },
     {
       "word": "lösungsorientiert",
@@ -2968,7 +3366,11 @@
           "ru": "подходить к чему-л. ориентированным на решение образом"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "problemorientiert",
+        "ziellos"
+      ]
     },
     {
       "word": "das Multitasking, (nur Sg.)",
@@ -2998,7 +3400,10 @@
           "ru": "Опра называет это многозадачность..."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Monotasking"
+      ]
     },
     {
       "word": "verhandlungsstark",
@@ -3024,7 +3429,10 @@
           "ru": "Если бы он завершил переговоры в Дохе в состоянии дел на сегодняшний день, то он мог бы стать генералом без армии."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "verhandlungsschwach"
+      ]
     },
     {
       "word": "das Durchsetzungsvermögen, (nur Sg.)",
@@ -3054,7 +3462,2816 @@
           "ru": "Для АСЕАН данный эпизод был уроком самоутверждения."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Durchsetzungsschwäche",
+        "die Nachgiebigkeit"
+      ]
+    },
+    {
+      "word": "konstruktiv",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "конструктивный",
+      "translation_en": "constructive",
+      "examples": [
+        {
+          "de": "Eine konstruktiv Vorbereitung kann den Unterschied machen.",
+          "ru": "Конструктивная подготовка может изменить ситуацию."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war konstruktiv.",
+          "ru": "Отзывы после разговора были конструктивными."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr konstruktiv.",
+          "ru": "Рабочая атмосфера в компании показалась очень конструктивной."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht konstruktiv, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать конструктивно, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total konstruktiv, hat mir echt geholfen.",
+          "ru": "Это было абсолютно конструктивно и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "positiv",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "позитивный",
+      "translation_en": "positive",
+      "examples": [
+        {
+          "de": "Der Bewerber machte einen positiven Eindruck im Gespräch.",
+          "ru": "Заявитель произвел на собеседовании положительное впечатление."
+        },
+        {
+          "de": "Der Recruiter suchte nach positiven Persönlichkeiten.",
+          "ru": "Рекрутер искал позитивных личностей."
+        },
+        {
+          "de": "Im Lebenslauf sollte man positiv Erfahrungen hervorheben.",
+          "ru": "В резюме следует указать положительный опыт."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich positiv, muss man ehrlich sagen.",
+          "ru": "Да, это довольно позитивно, если честно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich positiv, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат был действительно положительным, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "negativ",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "отрицательный",
+      "translation_en": "negative",
+      "examples": [
+        {
+          "de": "Der Recruiter suchte nach negativen Persönlichkeiten.",
+          "ru": "Рекрутер искал отрицательных личностей."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr negativ.",
+          "ru": "Рабочая атмосфера в компании показалась очень негативной."
+        },
+        {
+          "de": "Eine negativ Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна негативная самопрезентация."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht negativ, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать негативно, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich negativ, muss man ehrlich sagen.",
+          "ru": "Да, это довольно негативно, если честно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "fair",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "справедливый",
+      "translation_en": "fair",
+      "examples": [
+        {
+          "de": "Eine fair Vorbereitung kann den Unterschied machen.",
+          "ru": "Честная подготовка может сыграть решающую роль."
+        },
+        {
+          "de": "Im Lebenslauf sollte man fair Erfahrungen hervorheben.",
+          "ru": "Вы должны честно рассказать о своем опыте в своем резюме."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr fair.",
+          "ru": "Рабочая атмосфера в компании показалась мне очень честной."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich fair, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно справедливый, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total fair, hat mir echt geholfen.",
+          "ru": "Это было совершенно справедливо и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "gerecht",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "только",
+      "translation_en": "just",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren gerecht passend.",
+          "ru": "Квалификация кандидата была вполне подходящей."
+        },
+        {
+          "de": "Eine gerecht Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна справедливая самопрезентация."
+        },
+        {
+          "de": "Im Lebenslauf sollte man gerecht Erfahrungen hervorheben.",
+          "ru": "Вы должны честно рассказать о своем опыте в своем резюме."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich gerecht, muss man ehrlich sagen.",
+          "ru": "Да, это довольно справедливо, надо быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total gerecht, hat mir echt geholfen.",
+          "ru": "Это было совершенно справедливо и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen bleibenden Eindruck hinterlassen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "оставить неизгладимое впечатление",
+      "translation_en": "leave a lasting impression",
+      "examples": [
+        {
+          "de": "Man sollte \"einen bleibenden Eindruck hinterlassen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «оставить неизгладимое впечатление»."
+        },
+        {
+          "de": "In der Praxis wird \"einen bleibenden Eindruck hinterlassen\" häufig verwendet.",
+          "ru": "На практике часто используется фраза «оставить неизгладимое впечатление»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"einen bleibenden Eindruck hinterlassen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде термин «оставлять неизгладимое впечатление» является распространенным термином."
+        },
+        {
+          "de": "Also, \"einen bleibenden Eindruck hinterlassen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «оставить неизгладимое впечатление» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"einen bleibenden Eindruck hinterlassen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую фразу «оставить неизгладимое впечатление».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "unter Beweis stellen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "доказывать",
+      "translation_en": "prove",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"unter Beweis stellen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «продемонстрировать»."
+        },
+        {
+          "de": "Man sollte \"unter Beweis stellen\" in formellen Texten bevorzugen.",
+          "ru": "В формальных текстах следует предпочитать «доказывать»."
+        },
+        {
+          "de": "In der Praxis wird \"unter Beweis stellen\" häufig verwendet.",
+          "ru": "На практике часто используется слово «доказать»."
+        },
+        {
+          "de": "Ich benutze \"unter Beweis stellen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую слово «доказать», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"unter Beweis stellen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «доказать» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Erfahrungen sammeln",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "набраться опыта",
+      "translation_en": "gain experience",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Erfahrungen sammeln\" regelmäßig.",
+          "ru": "В деловом немецком регулярно сталкиваешься с «набиранием опыта»."
+        },
+        {
+          "de": "Man sollte \"Erfahrungen sammeln\" in formellen Texten bevorzugen.",
+          "ru": "«Набиранию опыта» следует отдавать предпочтение в формальных текстах."
+        },
+        {
+          "de": "Diese Formulierung mit \"Erfahrungen sammeln\" wird oft in Verhandlungen genutzt.",
+          "ru": "Эта фраза «набраться опыта» часто используется на переговорах."
+        },
+        {
+          "de": "Also, \"Erfahrungen sammeln\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «набираться опыта» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"Erfahrungen sammeln\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «приобретение опыта» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Verantwortung tragen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "нести ответственность",
+      "translation_en": "bear responsibility",
+      "examples": [
+        {
+          "de": "Die Wendung \"Verantwortung tragen\" drückt hier genau das Richtige aus.",
+          "ru": "Словосочетание «нести ответственность» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "In der Praxis wird \"Verantwortung tragen\" häufig verwendet.",
+          "ru": "На практике часто используется «нести ответственность»."
+        },
+        {
+          "de": "Diese Formulierung mit \"Verantwortung tragen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Эта фраза «нести ответственность» часто используется в переговорах."
+        },
+        {
+          "de": "Ich benutze \"Verantwortung tragen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую слово «нести ответственность», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Verantwortung tragen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «нести ответственность».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Ziele erreichen",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "Достигайте целей",
+      "translation_en": "Achieve goals",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"Ziele erreichen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «достижение целей»."
+        },
+        {
+          "de": "In der Praxis wird \"Ziele erreichen\" häufig verwendet.",
+          "ru": "На практике часто используется термин «достижение целей»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"Ziele erreichen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «достижение целей» является распространённым термином."
+        },
+        {
+          "de": "Na ja, \"Ziele erreichen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «достижение целей» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Ziele erreichen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «достижение целей» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Herausforderungen meistern",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Преодолейте трудности",
+      "translation_en": "Overcome challenges",
+      "examples": [
+        {
+          "de": "In der Praxis wird \"Herausforderungen meistern\" häufig verwendet.",
+          "ru": "На практике часто используется термин «преодоление проблем»."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Herausforderungen meistern\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «преодолением трудностей»."
+        },
+        {
+          "de": "Der Ausdruck \"Herausforderungen meistern\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «преодоление вызовов» особенно уместно в этом контексте."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Herausforderungen meistern\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «преодоление трудностей».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Herausforderungen meistern\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так можно использовать «преодоление трудностей».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Probleme lösen",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "решать проблемы",
+      "translation_en": "solve problems",
+      "examples": [
+        {
+          "de": "Man sollte \"Probleme lösen\" in formellen Texten bevorzugen.",
+          "ru": "«Решению проблем» следует отдавать предпочтение в формальных текстах."
+        },
+        {
+          "de": "In der Praxis wird \"Probleme lösen\" häufig verwendet.",
+          "ru": "На практике часто используется «решать проблемы»."
+        },
+        {
+          "de": "Die Wendung \"Probleme lösen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «решать проблемы» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Probleme lösen\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «решение проблем».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Probleme lösen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «решение проблем» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Entscheidungen treffen",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "принимать решения",
+      "translation_en": "make decisions",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Entscheidungen treffen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «принятием решений»."
+        },
+        {
+          "de": "Der Ausdruck \"Entscheidungen treffen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «принятие решений» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Man sollte \"Entscheidungen treffen\" in formellen Texten bevorzugen.",
+          "ru": "Следует отдавать предпочтение «принятию решений» в формальных текстах."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Entscheidungen treffen\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «принятие решений».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Entscheidungen treffen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать слово «принятие решений».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "im Team arbeiten",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "работать в команде",
+      "translation_en": "work in a team",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"im Team arbeiten\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встретите выражение «работа в команде»."
+        },
+        {
+          "de": "Diese Formulierung mit \"im Team arbeiten\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «работа в команде» часто используется на переговорах."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"im Team arbeiten\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «работа в команде» является распространённым термином."
+        },
+        {
+          "de": "Also, \"im Team arbeiten\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «работа в команде» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"im Team arbeiten\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «работу в команде».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen Beitrag leisten",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "внести свой вклад",
+      "translation_en": "make a contribution",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"einen Beitrag leisten\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «внести вклад»."
+        },
+        {
+          "de": "Die Wendung \"einen Beitrag leisten\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «внести свой вклад» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Laut Experten ist \"einen Beitrag leisten\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «внести свой вклад» — правильная фраза."
+        },
+        {
+          "de": "Ich benutze \"einen Beitrag leisten\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую слово «вклад», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"einen Beitrag leisten\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «вклад» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Kontakte knüpfen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "установить контакты",
+      "translation_en": "establish contacts",
+      "examples": [
+        {
+          "de": "Man sollte \"Kontakte knüpfen\" in formellen Texten bevorzugen.",
+          "ru": "«Налаживанию контактов» следует отдавать предпочтение в официальных текстах."
+        },
+        {
+          "de": "Die Wendung \"Kontakte knüpfen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «наладить контакты» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"Kontakte knüpfen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «установление контактов» — распространенный термин."
+        },
+        {
+          "de": "Ich benutze \"Kontakte knüpfen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую слово «контакты», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Kontakte knüpfen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «устанавливать контакты» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Kenntnisse erwerben",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Приобретайте знания",
+      "translation_en": "Acquire knowledge",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"Kenntnisse erwerben\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «приобрести знания» — правильная формулировка."
+        },
+        {
+          "de": "Die Wendung \"Kenntnisse erwerben\" drückt hier genau das Richtige aus.",
+          "ru": "Словосочетание «приобрести знания» выражает здесь совершенно правильную вещь."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Kenntnisse erwerben\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «приобрести знания»."
+        },
+        {
+          "de": "Also, \"Kenntnisse erwerben\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «приобретение знаний» — это то, что мы все время говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Kenntnisse erwerben\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «приобретать знания».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Fähigkeiten vertiefen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Углублять навыки",
+      "translation_en": "Deepen skills",
+      "examples": [
+        {
+          "de": "In der Praxis wird \"Fähigkeiten vertiefen\" häufig verwendet.",
+          "ru": "На практике часто используется «углубление навыков»."
+        },
+        {
+          "de": "Diese Formulierung mit \"Fähigkeiten vertiefen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «углубление навыков» часто используется на переговорах."
+        },
+        {
+          "de": "Der Ausdruck \"Fähigkeiten vertiefen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «углубление навыков» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Ich benutze \"Fähigkeiten vertiefen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую «углубленные навыки».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Fähigkeiten vertiefen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так можно использовать «углублять свои навыки».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "neue Wege gehen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "идти новыми путями",
+      "translation_en": "go new ways",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"neue Wege gehen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «открытием новых горизонтов»."
+        },
+        {
+          "de": "Laut Experten ist \"neue Wege gehen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «открывать новые горизонты»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"neue Wege gehen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде термин «выбрать новый путь» является распространенным термином."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"neue Wege gehen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать фразу «открывать новые горизонты».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"neue Wege gehen\" wirklich oft.",
+          "ru": "В разговорной речи очень часто можно услышать «открывать новые горизонты».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Lösung finden",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "найти решение",
+      "translation_en": "find a solution",
+      "examples": [
+        {
+          "de": "Die Wendung \"eine Lösung finden\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «найти решение» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Man sollte \"eine Lösung finden\" in formellen Texten bevorzugen.",
+          "ru": "В формальных текстах следует отдавать предпочтение «найти решение»."
+        },
+        {
+          "de": "In der Praxis wird \"eine Lösung finden\" häufig verwendet.",
+          "ru": "На практике часто используется фраза «найти решение»."
+        },
+        {
+          "de": "Na ja, \"eine Lösung finden\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «найти решение» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"eine Lösung finden\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «найти решение».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Verhandlungen führen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Проведение переговоров",
+      "translation_en": "Conduct negotiations",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"Verhandlungen führen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «ведение переговоров» является распространённым термином."
+        },
+        {
+          "de": "Diese Formulierung mit \"Verhandlungen führen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Это словосочетание «вести переговоры» часто используется на переговорах."
+        },
+        {
+          "de": "Die Wendung \"Verhandlungen führen\" drückt hier genau das Richtige aus.",
+          "ru": "Словосочетание «вести переговоры» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Also, \"Verhandlungen führen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Ну, «вести переговоры» — это то, что мы все время говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"Verhandlungen führen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую «ведущие переговоры».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Vorbereitungen treffen",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "Сделайте приготовления",
+      "translation_en": "Make preparations",
+      "examples": [
+        {
+          "de": "Man sollte \"Vorbereitungen treffen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение словам «подготовиться»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"Vorbereitungen treffen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «подготовка» — распространенный термин."
+        },
+        {
+          "de": "In der Praxis wird \"Vorbereitungen treffen\" häufig verwendet.",
+          "ru": "На практике часто используется фраза «сделать приготовления»."
+        },
+        {
+          "de": "Also, \"Vorbereitungen treffen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «готовьтесь» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Vorbereitungen treffen\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «приготовьтесь».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Fragen beantworten",
+      "part_of_speech": "Phrase",
+      "level": "A2",
+      "translation_ru": "Отвечать на вопросы",
+      "translation_en": "Answer questions",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"Fragen beantworten\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «отвечать на вопросы» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Die Wendung \"Fragen beantworten\" drückt hier genau das Richtige aus.",
+          "ru": "Словосочетание «ответить на вопросы» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Fragen beantworten\" regelmäßig.",
+          "ru": "В деловом немецком вы регулярно встречаете фразу «ответить на вопросы»."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Fragen beantworten\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «ответить на вопросы».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Fragen beantworten\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «отвечать на вопросы» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Präsentation halten",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "провести презентацию",
+      "translation_en": "give a presentation",
+      "examples": [
+        {
+          "de": "In der Praxis wird \"eine Präsentation halten\" häufig verwendet.",
+          "ru": "На практике часто используется «презентация»."
+        },
+        {
+          "de": "Die Wendung \"eine Präsentation halten\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «провести презентацию» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Man sollte \"eine Präsentation halten\" in formellen Texten bevorzugen.",
+          "ru": "Следует отдавать предпочтение «презентации» в официальных текстах."
+        },
+        {
+          "de": "Also, \"eine Präsentation halten\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «проведите презентацию» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"eine Präsentation halten\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать слово «провести презентацию».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Feedback geben",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "оставить отзыв",
+      "translation_en": "give feedback",
+      "examples": [
+        {
+          "de": "In der Praxis wird \"ein Feedback geben\" häufig verwendet.",
+          "ru": "На практике часто используется «обратная связь»."
+        },
+        {
+          "de": "Die Wendung \"ein Feedback geben\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «дать отзыв» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"ein Feedback geben\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «дайте обратную связь»."
+        },
+        {
+          "de": "Ich benutze \"ein Feedback geben\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Ich benutze \"ein Feedback geben\" ziemlich oft, wenn ich Deutsch rede.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"ein Feedback geben\" wirklich oft.",
+          "ru": "In der Umgangssprache hört man \"ein Feedback geben\" wirklich oft.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Feedback erhalten",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "получать обратную связь",
+      "translation_en": "receive feedback",
+      "examples": [
+        {
+          "de": "In der Praxis wird \"ein Feedback erhalten\" häufig verwendet.",
+          "ru": "In der Praxis wird \"ein Feedback erhalten\" häufig verwendet."
+        },
+        {
+          "de": "Die Wendung \"ein Feedback erhalten\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «получать обратную связь» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"ein Feedback erhalten\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «получением обратной связи»."
+        },
+        {
+          "de": "Also, \"ein Feedback erhalten\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «получать обратную связь» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"ein Feedback erhalten\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «получение обратной связи» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Prioritäten setzen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Установите приоритеты",
+      "translation_en": "Set priorities",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Prioritäten setzen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «установлением приоритетов»."
+        },
+        {
+          "de": "Die Wendung \"Prioritäten setzen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «установка приоритетов» выражает здесь совершенно правильную вещь."
+        },
+        {
+          "de": "Diese Formulierung mit \"Prioritäten setzen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Эта фраза «установка приоритетов» часто используется на переговорах."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Prioritäten setzen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно «устанавливать приоритеты».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Prioritäten setzen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «установка приоритетов» — это то, о чем мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "den Fokus behalten",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Держите фокус",
+      "translation_en": "Keep focus",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"Fokus behalten\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «держать фокус» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Laut Experten ist \"Fokus behalten\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «держать фокус» — правильная фраза."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"Fokus behalten\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «сохранять концентрацию» — общепринятый термин."
+        },
+        {
+          "de": "Ich benutze \"Fokus behalten\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую фразу «держать фокус», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"Fokus behalten\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «сохранять концентрацию» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Flexibilität zeigen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Проявите гибкость",
+      "translation_en": "Show flexibility",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"Flexibilität zeigen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «проявление гибкости» является распространенным термином."
+        },
+        {
+          "de": "Man sollte \"Flexibilität zeigen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «проявлению гибкости»."
+        },
+        {
+          "de": "Laut Experten ist \"Flexibilität zeigen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «проявить гибкость»."
+        },
+        {
+          "de": "Na ja, \"Flexibilität zeigen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «проявление гибкости» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Flexibilität zeigen\" wirklich oft.",
+          "ru": "В разговорной речи действительно слышишь «прояви гибкость».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Eigeninitiative zeigen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Проявить инициативу",
+      "translation_en": "Show initiative",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"Eigeninitiative zeigen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «проявить инициативу»."
+        },
+        {
+          "de": "Diese Formulierung mit \"Eigeninitiative zeigen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Это словосочетание «проявление инициативы» часто используется на переговорах."
+        },
+        {
+          "de": "In der Praxis wird \"Eigeninitiative zeigen\" häufig verwendet.",
+          "ru": "На практике часто используется «проявление инициативы»."
+        },
+        {
+          "de": "Na ja, \"Eigeninitiative zeigen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «проявление инициативы» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Eigeninitiative zeigen\" wirklich oft.",
+          "ru": "В разговорной речи действительно можно услышать «проявление инициативы».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Initiative ergreifen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Проявите инициативу",
+      "translation_en": "Take initiative",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Initiative ergreifen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете слово «проявить инициативу»."
+        },
+        {
+          "de": "In der Praxis wird \"Initiative ergreifen\" häufig verwendet.",
+          "ru": "На практике часто используется фраза «проявить инициативу»."
+        },
+        {
+          "de": "Der Ausdruck \"Initiative ergreifen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «проявить инициативу» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Ich benutze \"Initiative ergreifen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую слово «проявить инициативу», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Initiative ergreifen\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «проявить инициативу».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Druck standhalten",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "выдерживать давление",
+      "translation_en": "withstand pressure",
+      "examples": [
+        {
+          "de": "Diese Formulierung mit \"Druck standhalten\" wird oft in Verhandlungen genutzt.",
+          "ru": "Эта фраза «выдержать давление» часто используется на переговорах."
+        },
+        {
+          "de": "Laut Experten ist \"Druck standhalten\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «выдержать давление»."
+        },
+        {
+          "de": "Der Ausdruck \"Druck standhalten\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «выдерживать давление» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Na ja, \"Druck standhalten\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «выдерживать давление» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Druck standhalten\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать слово «выдерживать давление».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Stress bewältigen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Справиться со стрессом",
+      "translation_en": "Cope with stress",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"Stress bewältigen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «управление стрессом» является распространенным термином."
+        },
+        {
+          "de": "Man sollte \"Stress bewältigen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «управлению стрессом»."
+        },
+        {
+          "de": "Diese Formulierung mit \"Stress bewältigen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «управление стрессом» часто используется на переговорах."
+        },
+        {
+          "de": "Ich benutze \"Stress bewältigen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую слово «управлять стрессом».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Stress bewältigen\" wirklich oft.",
+          "ru": "«Управление стрессом» — это то, что вы часто слышите в повседневной речи.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Kompromisse schließen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Идите на компромиссы",
+      "translation_en": "Make compromises",
+      "examples": [
+        {
+          "de": "Man sollte \"Kompromisse schließen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «компромису»."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Kompromisse schließen\" regelmäßig.",
+          "ru": "В деловом немецком языке регулярно приходится сталкиваться с «компромиссом»."
+        },
+        {
+          "de": "Die Wendung \"Kompromisse schließen\" drückt hier genau das Richtige aus.",
+          "ru": "Словосочетание «компромисс» выражает здесь совершенно правильную вещь."
+        },
+        {
+          "de": "Ich benutze \"Kompromisse schließen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую слово «компромисс», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Kompromisse schließen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать слово «компромисс».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Einigung erzielen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "достичь соглашения",
+      "translation_en": "reach an agreement",
+      "examples": [
+        {
+          "de": "Man sollte \"eine Einigung erzielen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение фразе «договориться»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"eine Einigung erzielen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «достижение соглашения» является распространенным термином."
+        },
+        {
+          "de": "Laut Experten ist \"eine Einigung erzielen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «договориться»."
+        },
+        {
+          "de": "Na ja, \"eine Einigung erzielen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «достижение соглашения» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"eine Einigung erzielen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «достижение соглашения» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Verträge abschließen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "заключать контракты",
+      "translation_en": "conclude contracts",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"Verträge abschließen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «заключать договоры» особенно уместно в данном контексте."
+        },
+        {
+          "de": "Diese Formulierung mit \"Verträge abschließen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «заключить договор» часто используется на переговорах."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Verträge abschließen\" regelmäßig.",
+          "ru": "В деловом немецком языке регулярно встречается слово «заключать контракты»."
+        },
+        {
+          "de": "Na ja, \"Verträge abschließen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «подписание контрактов» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Verträge abschließen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «заключать контракты».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Gehaltserhöhung fordern",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "требовать повышения зарплаты",
+      "translation_en": "demand a salary increase",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"eine Gehaltserhöhung fordern\" ist in diesem Kontext besonders passend.",
+          "ru": "Фраза «требовать повышения» особенно уместна в этом контексте."
+        },
+        {
+          "de": "Laut Experten ist \"eine Gehaltserhöhung fordern\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «требовать повышения» — правильная фраза."
+        },
+        {
+          "de": "Man sollte \"eine Gehaltserhöhung fordern\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «требовать повышения»."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"eine Gehaltserhöhung fordern\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «требуй повышения».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"eine Gehaltserhöhung fordern\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать слово «требовать повышения».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Gehalt verhandeln",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Согласовать зарплату",
+      "translation_en": "Negotiate salary",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"Gehalt verhandeln\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «согласованная зарплата» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Laut Experten ist \"Gehalt verhandeln\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка — «договариваться о зарплате»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"Gehalt verhandeln\" eine gängige Bezeichnung.",
+          "ru": "«Переговоры о зарплате» — распространенный термин в профессиональной среде."
+        },
+        {
+          "de": "Also, \"Gehalt verhandeln\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «договорная зарплата» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"Gehalt verhandeln\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую слово «переговоры о зарплате», когда говорю по-немецки.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Überstunden abbauen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Сокращение сверхурочной работы",
+      "translation_en": "Reduce overtime",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"Überstunden abbauen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «сократить сверхурочную работу» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Die Wendung \"Überstunden abbauen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «сократить сверхурочную работу» здесь выражает совершенно правильную вещь."
+        },
+        {
+          "de": "In der Praxis wird \"Überstunden abbauen\" häufig verwendet.",
+          "ru": "На практике часто используется «сокращение сверхурочной работы»."
+        },
+        {
+          "de": "Na ja, \"Überstunden abbauen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «сокращение сверхурочной работы» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"Überstunden abbauen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую термин «сокращение сверхурочной работы».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "im Homeoffice arbeiten",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "работа в домашнем офисе",
+      "translation_en": "work in the home office",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"im Homeoffice arbeiten\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «работа на дому»."
+        },
+        {
+          "de": "Laut Experten ist \"im Homeoffice arbeiten\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «работа на дому» — правильная формулировка."
+        },
+        {
+          "de": "Die Wendung \"im Homeoffice arbeiten\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «работа на дому» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"im Homeoffice arbeiten\" wirklich oft.",
+          "ru": "В повседневной речи действительно часто можно услышать «работа на дому».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"im Homeoffice arbeiten\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «работа на дому» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Kündigung einreichen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "подать заявление о прекращении",
+      "translation_en": "submit a notice of termination",
+      "examples": [
+        {
+          "de": "Die Wendung \"eine Kündigung einreichen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «подать уведомление о расторжении» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"eine Kündigung einreichen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «подать уведомление об увольнении»."
+        },
+        {
+          "de": "Der Ausdruck \"eine Kündigung einreichen\" ist in diesem Kontext besonders passend.",
+          "ru": "Фраза «подать уведомление о расторжении» особенно уместна в этом контексте."
+        },
+        {
+          "de": "Ich benutze \"eine Kündigung einreichen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую фразу «отправить уведомление об увольнении», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"eine Kündigung einreichen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «подать уведомление о прекращении» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Probezeit überstehen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Пережить испытательный срок",
+      "translation_en": "Survive the probationary period",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"Probezeit überstehen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «пережить испытательный срок» — распространенный термин."
+        },
+        {
+          "de": "In der Praxis wird \"Probezeit überstehen\" häufig verwendet.",
+          "ru": "На практике часто используется термин «выжить испытательный срок»."
+        },
+        {
+          "de": "Laut Experten ist \"Probezeit überstehen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «пережить испытательный срок» — правильная формулировка."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Probezeit überstehen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «пережить испытательный срок».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Probezeit überstehen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «пережить испытательный срок» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "an einem Seminar teilnehmen",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "посетить семинар",
+      "translation_en": "attend a seminar",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"an einem Seminar teilnehmen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «участвовать в семинаре»."
+        },
+        {
+          "de": "Der Ausdruck \"an einem Seminar teilnehmen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «посетить семинар» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Laut Experten ist \"an einem Seminar teilnehmen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «посетить семинар» — правильная фраза."
+        },
+        {
+          "de": "Also, \"an einem Seminar teilnehmen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «принять участие в семинаре» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"an einem Seminar teilnehmen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «посещать семинар».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "an einer Fortbildung teilnehmen",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "принять участие в дальнейшем обучении",
+      "translation_en": "take part in further training",
+      "examples": [
+        {
+          "de": "Diese Formulierung mit \"an einer Fortbildung teilnehmen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «участвовать в повышении квалификации» часто используется на переговорах."
+        },
+        {
+          "de": "Laut Experten ist \"an einer Fortbildung teilnehmen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «участвовать в обучении» — правильная формулировка."
+        },
+        {
+          "de": "Die Wendung \"an einer Fortbildung teilnehmen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «участвовать в дальнейшем обучении» выражает здесь совершенно правильную вещь."
+        },
+        {
+          "de": "Also, \"an einer Fortbildung teilnehmen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «участвуйте в дальнейшем обучении» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"an einer Fortbildung teilnehmen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую «участвовать в дальнейшем обучении».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Karriere vorantreiben",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Продвигайте свою карьеру",
+      "translation_en": "Advance your career",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"Karriere vorantreiben\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «продвижение по карьерной лестнице» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Karriere vorantreiben\" regelmäßig.",
+          "ru": "В деловом немецком вы регулярно встречаете фразу «продвигайте свою карьеру»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"Karriere vorantreiben\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «продвижение по карьерной лестнице» является распространенным термином."
+        },
+        {
+          "de": "Also, \"Karriere vorantreiben\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «продвижение карьеры» — это то, о чем мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"Karriere vorantreiben\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую фразу «продвигай свою карьеру».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Berufserfahrung vorweisen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Показать профессиональный опыт",
+      "translation_en": "Show professional experience",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"Berufserfahrung vorweisen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «продемонстрировать профессиональный опыт» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Die Wendung \"Berufserfahrung vorweisen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «продемонстрировать профессиональный опыт» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Man sollte \"Berufserfahrung vorweisen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «продемонстрировать профессиональный опыт»."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Berufserfahrung vorweisen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать слово «иметь профессиональный опыт».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Berufserfahrung vorweisen\" wirklich oft.",
+          "ru": "В разговорной речи действительно довольно часто можно услышать «продемонстрировать профессиональный опыт».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Sprachkenntnisse anwenden",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "Применить языковые навыки",
+      "translation_en": "Apply language skills",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"Sprachkenntnisse anwenden\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «применять языковые навыки» — правильная фраза."
+        },
+        {
+          "de": "Die Wendung \"Sprachkenntnisse anwenden\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «применять языковые навыки» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"Sprachkenntnisse anwenden\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «применение языковых навыков» является распространенным термином."
+        },
+        {
+          "de": "Na ja, \"Sprachkenntnisse anwenden\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «применение языковых навыков» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Sprachkenntnisse anwenden\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «применение языковых навыков» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "IT-Kenntnisse vertiefen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Углублять знания в области ИТ",
+      "translation_en": "Deepen IT knowledge",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"IT-Kenntnisse vertiefen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «углубить свои знания в области ИТ» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"IT-Kenntnisse vertiefen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «углубите свои знания в области информационных технологий»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"IT-Kenntnisse vertiefen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «углубление знаний в области ИТ» является распространенным термином."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"IT-Kenntnisse vertiefen\" wirklich oft.",
+          "ru": "В разговорной речи очень часто можно услышать «углубите свои знания в области ИТ».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"IT-Kenntnisse vertiefen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так можно «углублять свои знания в области информационных технологий».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Aufgabe delegieren",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "делегировать задачу",
+      "translation_en": "delegate a task",
+      "examples": [
+        {
+          "de": "Die Wendung \"eine Aufgabe delegieren\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «делегирование задачи» здесь выражает совершенно правильную вещь."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"eine Aufgabe delegieren\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «делегирование задачи» является распространенным термином."
+        },
+        {
+          "de": "Der Ausdruck \"eine Aufgabe delegieren\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «делегирование задачи» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Ich benutze \"eine Aufgabe delegieren\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую слово «делегировать задачу», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"eine Aufgabe delegieren\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так можно использовать «делегировать задачу».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Ziel vereinbaren",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "договориться о цели",
+      "translation_en": "agree on a goal",
+      "examples": [
+        {
+          "de": "Diese Formulierung mit \"ein Ziel vereinbaren\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «согласование цели» часто используется на переговорах."
+        },
+        {
+          "de": "In der Praxis wird \"ein Ziel vereinbaren\" häufig verwendet.",
+          "ru": "На практике часто используется «договоренность о цели»."
+        },
+        {
+          "de": "Man sollte \"ein Ziel vereinbaren\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «согласованию цели»."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"ein Ziel vereinbaren\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «договориться о цели».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"ein Ziel vereinbaren\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «согласовать цель» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Gespräch führen",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "поговорить",
+      "translation_en": "have a conversation",
+      "examples": [
+        {
+          "de": "Die Wendung \"ein Gespräch führen\" drückt hier genau das Richtige aus.",
+          "ru": "Словосочетание «поговорить» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"ein Gespräch führen\" regelmäßig.",
+          "ru": "В деловом немецком вы регулярно сталкиваетесь с «разговором»."
+        },
+        {
+          "de": "Man sollte \"ein Gespräch führen\" in formellen Texten bevorzugen.",
+          "ru": "«Разговору» следует отдавать предпочтение в официальных текстах."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"ein Gespräch führen\" wirklich oft.",
+          "ru": "В повседневной речи действительно часто можно услышать «разговаривать».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"ein Gespräch führen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать слово «поговорить».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Absage erhalten",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "получил отказ",
+      "translation_en": "received a rejection",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"eine Absage erhalten\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «получить отказ» — распространенный термин."
+        },
+        {
+          "de": "Diese Formulierung mit \"eine Absage erhalten\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «получил отказ» часто используется на переговорах."
+        },
+        {
+          "de": "Der Ausdruck \"eine Absage erhalten\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «получил отказ» в данном контексте особенно уместно."
+        },
+        {
+          "de": "Na ja, \"eine Absage erhalten\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «получить отказ» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"eine Absage erhalten\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую выражение «полученный отказ», когда говорю по-немецки.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Zusage erhalten",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "получить обязательство",
+      "translation_en": "receive a commitment",
+      "examples": [
+        {
+          "de": "Diese Formulierung mit \"eine Zusage erhalten\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «получение обязательства» часто используется на переговорах."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"eine Zusage erhalten\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «получением обещания»."
+        },
+        {
+          "de": "Man sollte \"eine Zusage erhalten\" in formellen Texten bevorzugen.",
+          "ru": "Следует отдавать предпочтение «получению обязательства» в официальных текстах."
+        },
+        {
+          "de": "Ich benutze \"eine Zusage erhalten\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую слово «получить обещание», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"eine Zusage erhalten\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «получение согласия» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Angebot annehmen",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "принять предложение",
+      "translation_en": "accept an offer",
+      "examples": [
+        {
+          "de": "Man sollte \"ein Angebot annehmen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «принять предложение»."
+        },
+        {
+          "de": "Laut Experten ist \"ein Angebot annehmen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «принять предложение»."
+        },
+        {
+          "de": "Diese Formulierung mit \"ein Angebot annehmen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Эта фраза «принять предложение» часто используется на переговорах."
+        },
+        {
+          "de": "Ich benutze \"ein Angebot annehmen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую «принять предложение», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"ein Angebot annehmen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «принять предложение».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Angebot ablehnen",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "отклонить предложение",
+      "translation_en": "reject an offer",
+      "examples": [
+        {
+          "de": "Die Wendung \"ein Angebot ablehnen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «отклонить предложение» выражает здесь совершенно правильную вещь."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"ein Angebot ablehnen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «отклонить предложение» — распространенное выражение."
+        },
+        {
+          "de": "Der Ausdruck \"ein Angebot ablehnen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «отказ от предложения» особенно уместно в данном контексте."
+        },
+        {
+          "de": "Ich benutze \"ein Angebot ablehnen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую слово «отклонить предложение», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"ein Angebot ablehnen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать слово «отказаться от предложения».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Vorstellungsgespräch führen",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "провести интервью",
+      "translation_en": "conduct an interview",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"ein Vorstellungsgespräch führen\" regelmäßig.",
+          "ru": "В деловом немецком языке регулярно встречается фраза «провести собеседование»."
+        },
+        {
+          "de": "Diese Formulierung mit \"ein Vorstellungsgespräch führen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «провести собеседование» часто используется на переговорах."
+        },
+        {
+          "de": "Der Ausdruck \"ein Vorstellungsgespräch führen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «проведение интервью» особенно уместно в данном контексте."
+        },
+        {
+          "de": "Also, \"ein Vorstellungsgespräch führen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «провести собеседование» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"ein Vorstellungsgespräch führen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать слово «провести собеседование».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen Vertrag unterschreiben",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "подписать контракт",
+      "translation_en": "sign a contract",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"einen Vertrag unterschreiben\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «подписание контракта» является распространённым термином."
+        },
+        {
+          "de": "Die Wendung \"einen Vertrag unterschreiben\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «подписать договор» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"einen Vertrag unterschreiben\" regelmäßig.",
+          "ru": "В деловом немецком языке регулярно встречается фраза «подписать контракт»."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"einen Vertrag unterschreiben\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «подписать контракт».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"einen Vertrag unterschreiben\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «подписать контракт».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen Arbeitsvertrag abschließen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "заключить трудовой договор",
+      "translation_en": "conclude an employment contract",
+      "examples": [
+        {
+          "de": "Man sollte \"einen Arbeitsvertrag abschließen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «заключить трудовой договор»."
+        },
+        {
+          "de": "Die Wendung \"einen Arbeitsvertrag abschließen\" drückt hier genau das Richtige aus.",
+          "ru": "Словосочетание «заключить трудовой договор» здесь выражает как раз то, что нужно."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"einen Arbeitsvertrag abschließen\" regelmäßig.",
+          "ru": "В деловом немецком регулярно встречается фраза «заключить трудовой договор»."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"einen Arbeitsvertrag abschließen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «заключить трудовой договор».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"einen Arbeitsvertrag abschließen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «заключить трудовой договор» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kündigungsfrist einhalten",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Соблюдайте срок уведомления",
+      "translation_en": "Observe the notice period",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"Kündigungsfrist einhalten\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «соблюдать срок уведомления» является распространенным термином."
+        },
+        {
+          "de": "Man sollte \"Kündigungsfrist einhalten\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение фразе «соблюдать срок уведомления»."
+        },
+        {
+          "de": "In der Praxis wird \"Kündigungsfrist einhalten\" häufig verwendet.",
+          "ru": "На практике часто используется «соблюдение срока уведомления»."
+        },
+        {
+          "de": "Na ja, \"Kündigungsfrist einhalten\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «соблюдайте срок уведомления» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Kündigungsfrist einhalten\" wirklich oft.",
+          "ru": "В разговорной речи очень часто можно услышать «соблюдать срок уведомления».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Abfindung erhalten",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "получить выходное пособие",
+      "translation_en": "receive a severance payment",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"eine Abfindung erhalten\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «получение выходного пособия» в данном контексте особенно уместно."
+        },
+        {
+          "de": "Man sollte \"eine Abfindung erhalten\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «получить выходное пособие»."
+        },
+        {
+          "de": "Die Wendung \"eine Abfindung erhalten\" drückt hier genau das Richtige aus.",
+          "ru": "Словосочетание «получить выходное пособие» здесь выражает совершенно правильную вещь."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"eine Abfindung erhalten\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так можно использовать «получить выходное пособие».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"eine Abfindung erhalten\" wirklich oft.",
+          "ru": "В разговорной речи действительно довольно часто можно услышать «получение выходного пособия».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "den Betriebsrat informieren",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Сообщите производственному совету",
+      "translation_en": "Inform the works council",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"Betriebsrat informieren\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «информировать производственный совет» — правильная формулировка."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"Betriebsrat informieren\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «информирование производственного совета» является распространённым термином."
+        },
+        {
+          "de": "Man sollte \"Betriebsrat informieren\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение фразе «Информировать производственный совет»."
+        },
+        {
+          "de": "Also, \"Betriebsrat informieren\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «проинформируйте производственный совет» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Betriebsrat informieren\" wirklich oft.",
+          "ru": "В разговорной речи часто можно услышать «информировать производственный совет».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einer Gewerkschaft beitreten",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "вступить в профсоюз",
+      "translation_en": "join a union",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"einer Gewerkschaft beitreten\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «вступление в профсоюз» является общепринятым термином."
+        },
+        {
+          "de": "Man sollte \"einer Gewerkschaft beitreten\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение слову «вступить в профсоюз»."
+        },
+        {
+          "de": "Laut Experten ist \"einer Gewerkschaft beitreten\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «вступить в профсоюз» — правильная фраза."
+        },
+        {
+          "de": "Ich benutze \"einer Gewerkschaft beitreten\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую слово «вступить в профсоюз», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"einer Gewerkschaft beitreten\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «вступление в профсоюз» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Umschulung machen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "пройти переподготовку",
+      "translation_en": "undergo retraining",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"eine Umschulung machen\" regelmäßig.",
+          "ru": "В деловом немецком регулярно сталкиваешься с «переподготовкой»."
+        },
+        {
+          "de": "Man sollte \"eine Umschulung machen\" in formellen Texten bevorzugen.",
+          "ru": "«Пройти переподготовку» следует предпочесть в формальных текстах."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"eine Umschulung machen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «переподготовка» — распространенный термин."
+        },
+        {
+          "de": "Na ja, \"eine Umschulung machen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «переподготовка» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"eine Umschulung machen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так можно использовать «переподготовку».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "sich beruflich verändern",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "сменить карьеру",
+      "translation_en": "change careers",
+      "examples": [
+        {
+          "de": "Man sollte \"sich beruflich verändern\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «сменить карьеру»."
+        },
+        {
+          "de": "Der Ausdruck \"sich beruflich verändern\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «сменить карьеру» особенно уместно в данном контексте."
+        },
+        {
+          "de": "Diese Formulierung mit \"sich beruflich verändern\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «сменить карьеру» часто используется на переговорах."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"sich beruflich verändern\" wirklich oft.",
+          "ru": "В повседневном языке вы действительно довольно часто слышите «сменить карьеру».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"sich beruflich verändern\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую фразу «изменить карьеру».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Herausforderung suchen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "ищу вызов",
+      "translation_en": "looking for a challenge",
+      "examples": [
+        {
+          "de": "Man sollte \"eine Herausforderung suchen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «поиску вызова»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"eine Herausforderung suchen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «ищу вызов» является распространенным термином."
+        },
+        {
+          "de": "In der Praxis wird \"eine Herausforderung suchen\" häufig verwendet.",
+          "ru": "На практике часто используется фраза «ищу вызов»."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"eine Herausforderung suchen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать слово «искать вызов».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"eine Herausforderung suchen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «ищу вызов» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Karriereleiter aufsteigen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Поднимайтесь по карьерной лестнице",
+      "translation_en": "Climb the career ladder",
+      "examples": [
+        {
+          "de": "In der Praxis wird \"Karriereleiter aufsteigen\" häufig verwendet.",
+          "ru": "На практике часто используется фраза «подняться по карьерной лестнице»."
+        },
+        {
+          "de": "Die Wendung \"Karriereleiter aufsteigen\" drückt hier genau das Richtige aus.",
+          "ru": "Словосочетание «подниматься по карьерной лестнице» здесь выражает как раз то, что нужно."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Karriereleiter aufsteigen\" regelmäßig.",
+          "ru": "В деловом немецком языке регулярно встречается фраза «подниматься по карьерной лестнице»."
+        },
+        {
+          "de": "Na ja, \"Karriereleiter aufsteigen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «восхождение по карьерной лестнице» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Karriereleiter aufsteigen\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «подняться по карьерной лестнице».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Führungsposition übernehmen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "занять руководящую позицию",
+      "translation_en": "take a leadership position",
+      "examples": [
+        {
+          "de": "Man sollte \"eine Führungsposition übernehmen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «занимать лидерскую позицию»."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"eine Führungsposition übernehmen\" regelmäßig.",
+          "ru": "В деловом немецком вы регулярно встретите фразу «займите руководящую позицию»."
+        },
+        {
+          "de": "Der Ausdruck \"eine Führungsposition übernehmen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «занимать лидерскую позицию» особенно уместно в данном контексте."
+        },
+        {
+          "de": "Ich benutze \"eine Führungsposition übernehmen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую фразу «занимать лидерскую позицию».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"eine Führungsposition übernehmen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «занимать лидерскую позицию» — это то, о чем мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Mitarbeiter motivieren",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Мотивируйте сотрудников",
+      "translation_en": "Motivate employees",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"Mitarbeiter motivieren\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «мотивация сотрудников» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Man sollte \"Mitarbeiter motivieren\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «мотивации сотрудников»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"Mitarbeiter motivieren\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «мотивация сотрудников» является распространенным термином."
+        },
+        {
+          "de": "Also, \"Mitarbeiter motivieren\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «мотивация сотрудников» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"Mitarbeiter motivieren\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «мотивация сотрудников» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Mitarbeiter führen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Ведущие сотрудники",
+      "translation_en": "Lead employees",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Mitarbeiter führen\" regelmäßig.",
+          "ru": "В деловом немецком регулярно встречаются «ведущие сотрудники»."
+        },
+        {
+          "de": "Die Wendung \"Mitarbeiter führen\" drückt hier genau das Richtige aus.",
+          "ru": "Словосочетание «руководящие сотрудники» выражает здесь совершенно правильную вещь."
+        },
+        {
+          "de": "Laut Experten ist \"Mitarbeiter führen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «руководящие сотрудники»."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Mitarbeiter führen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так используют «руководящих сотрудников».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Mitarbeiter führen\" wirklich oft.",
+          "ru": "В разговорной речи действительно можно услышать «руководящие сотрудники».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Team koordinieren",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "координировать команду",
+      "translation_en": "coordinate a team",
+      "examples": [
+        {
+          "de": "Die Wendung \"ein Team koordinieren\" drückt hier genau das Richtige aus.",
+          "ru": "Словосочетание «координировать команду» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Man sollte \"ein Team koordinieren\" in formellen Texten bevorzugen.",
+          "ru": "«Координацию команды» следует отдавать предпочтение формальным текстам."
+        },
+        {
+          "de": "Der Ausdruck \"ein Team koordinieren\" ist in diesem Kontext besonders passend.",
+          "ru": "Фраза «координация команды» особенно уместна в этом контексте."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"ein Team koordinieren\" wirklich oft.",
+          "ru": "В повседневной речи вы действительно часто слышите «координация команды».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"ein Team koordinieren\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «координация команды» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Budget planen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Планировать бюджет",
+      "translation_en": "Plan budget",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"Budget planen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «планировать бюджет» — правильная формулировка."
+        },
+        {
+          "de": "Man sollte \"Budget planen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «плановому бюджету»."
+        },
+        {
+          "de": "Die Wendung \"Budget planen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «планировать бюджет» здесь выражает совершенно правильную вещь."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Budget planen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «планировать бюджет».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"Budget planen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «бюджетирование» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Risiken analysieren",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Анализируйте риски",
+      "translation_en": "Analyze risks",
+      "examples": [
+        {
+          "de": "In der Praxis wird \"Risiken analysieren\" häufig verwendet.",
+          "ru": "На практике часто используется «анализировать риски»."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Risiken analysieren\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «анализом рисков»."
+        },
+        {
+          "de": "Die Wendung \"Risiken analysieren\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «анализировать риски» здесь выражает совершенно правильную вещь."
+        },
+        {
+          "de": "Na ja, \"Risiken analysieren\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «анализ рисков» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Risiken analysieren\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «анализировать риски» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Präsentation vorbereiten",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "подготовить презентацию",
+      "translation_en": "prepare a presentation",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"eine Präsentation vorbereiten\" regelmäßig.",
+          "ru": "В деловом немецком вы регулярно встретите фразу «подготовка презентации»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"eine Präsentation vorbereiten\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «подготовка презентации» — распространенный термин."
+        },
+        {
+          "de": "In der Praxis wird \"eine Präsentation vorbereiten\" häufig verwendet.",
+          "ru": "На практике часто используется «подготовка презентации»."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"eine Präsentation vorbereiten\" wirklich oft.",
+          "ru": "В разговорной речи действительно очень часто можно услышать «готовлю презентацию».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"eine Präsentation vorbereiten\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую фразу «подготовить презентацию», когда говорю по-немецки.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "den Händedruck erwidern",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "ответное рукопожатие",
+      "translation_en": "return handshake",
+      "examples": [
+        {
+          "de": "In der Praxis wird \"Händedruck erwidern\" häufig verwendet.",
+          "ru": "На практике часто используется «обратное рукопожатие»."
+        },
+        {
+          "de": "Laut Experten ist \"Händedruck erwidern\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «ответное рукопожатие» — правильная фраза."
+        },
+        {
+          "de": "Der Ausdruck \"Händedruck erwidern\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «ответное рукопожатие» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Na ja, \"Händedruck erwidern\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «ответное рукопожатие» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Händedruck erwidern\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «ответное рукопожатие» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "den Augenkontakt halten",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Поддерживайте зрительный контакт",
+      "translation_en": "Maintain eye contact",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"Augenkontakt halten\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «поддерживать зрительный контакт» — правильная формулировка."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Augenkontakt halten\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «поддерживать зрительный контакт»."
+        },
+        {
+          "de": "Man sollte \"Augenkontakt halten\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «поддерживать зрительный контакт»."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Augenkontakt halten\" wirklich oft.",
+          "ru": "В повседневной речи вы действительно часто слышите «поддерживать зрительный контакт».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"Augenkontakt halten\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую фразу «поддерживать зрительный контакт».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Frage stellen",
+      "part_of_speech": "Phrase",
+      "level": "A2",
+      "translation_ru": "задать вопрос",
+      "translation_en": "ask a question",
+      "examples": [
+        {
+          "de": "Diese Formulierung mit \"eine Frage stellen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Эта фраза «задать вопрос» часто используется на переговорах."
+        },
+        {
+          "de": "Die Wendung \"eine Frage stellen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «задать вопрос» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Der Ausdruck \"eine Frage stellen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «задать вопрос» особенно уместно в данном контексте."
+        },
+        {
+          "de": "Ich benutze \"eine Frage stellen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую фразу «задать вопрос», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"eine Frage stellen\" wirklich oft.",
+          "ru": "В разговорной речи действительно слышишь «задай вопрос».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Rückfrage stellen",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "задать вопрос",
+      "translation_en": "ask a query",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"eine Rückfrage stellen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «задать вопрос» — правильная формулировка."
+        },
+        {
+          "de": "Man sollte \"eine Rückfrage stellen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «задать вопрос»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"eine Rückfrage stellen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «задать вопрос» — распространенный термин."
+        },
+        {
+          "de": "Ich benutze \"eine Rückfrage stellen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую фразу «задать вопрос», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"eine Rückfrage stellen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «задать вопрос» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Dankschreiben verfassen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "написать благодарственное письмо",
+      "translation_en": "write a thank you letter",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"ein Dankschreiben verfassen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «написать благодарственное письмо» — правильная фраза."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"ein Dankschreiben verfassen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «написать благодарственное письмо» — распространенный термин."
+        },
+        {
+          "de": "Man sollte \"ein Dankschreiben verfassen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «написанию благодарственного письма»."
+        },
+        {
+          "de": "Also, \"ein Dankschreiben verfassen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «напишите благодарственное письмо» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"ein Dankschreiben verfassen\" wirklich oft.",
+          "ru": "В разговорной речи действительно очень часто можно услышать «напишите благодарственное письмо».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "sich auf ein Gespräch vorbereiten",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "подготовиться к разговору",
+      "translation_en": "prepare for a conversation",
+      "examples": [
+        {
+          "de": "Die Wendung \"sich auf ein Gespräch vorbereiten\" drückt hier genau das Richtige aus.",
+          "ru": "Словосочетание «подготовка к разговору» выражает здесь как раз то, что нужно."
+        },
+        {
+          "de": "Diese Formulierung mit \"sich auf ein Gespräch vorbereiten\" wird oft in Verhandlungen genutzt.",
+          "ru": "Эта фраза «готовиться к разговору» часто используется на переговорах."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"sich auf ein Gespräch vorbereiten\" regelmäßig.",
+          "ru": "В деловом немецком языке регулярно встречается фраза «готовиться к разговору»."
+        },
+        {
+          "de": "Ich benutze \"sich auf ein Gespräch vorbereiten\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда говорю по-немецки, я довольно часто использую фразу «подготовьтесь к разговору».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"sich auf ein Gespräch vorbereiten\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «готовьтесь к разговору» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "pünktlich erscheinen",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "приходить вовремя",
+      "translation_en": "show up on time",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"pünktlich erscheinen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «приходить вовремя»."
+        },
+        {
+          "de": "Man sollte \"pünktlich erscheinen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «приходить вовремя»."
+        },
+        {
+          "de": "In der Praxis wird \"pünktlich erscheinen\" häufig verwendet.",
+          "ru": "На практике часто используется фраза «приходить вовремя»."
+        },
+        {
+          "de": "Ich benutze \"pünktlich erscheinen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую слово «приходить вовремя», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"pünktlich erscheinen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Ну, «приходить вовремя» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "auf die Körpersprache achten",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "обратите внимание на язык тела",
+      "translation_en": "pay attention to body language",
+      "examples": [
+        {
+          "de": "Diese Formulierung mit \"auf die Körpersprache achten\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «обратите внимание на язык тела» часто используется на переговорах."
+        },
+        {
+          "de": "Der Ausdruck \"auf die Körpersprache achten\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «обратите внимание на язык тела» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Man sollte \"auf die Körpersprache achten\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует предпочитать «обращать внимание на язык тела»."
+        },
+        {
+          "de": "Na ja, \"auf die Körpersprache achten\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «обращать внимание на язык тела» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"auf die Körpersprache achten\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую фразу «обратите внимание на язык тела».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ruhig Blut bewahren",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "спокойно храни свою кровь",
+      "translation_en": "calmly keep your blood",
+      "examples": [
+        {
+          "de": "Man sollte \"ruhig Blut bewahren\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «сохранять спокойствие»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"ruhig Blut bewahren\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «сохраняйте спокойствие» — распространенное выражение."
+        },
+        {
+          "de": "Laut Experten ist \"ruhig Blut bewahren\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «держать кровь спокойной» — правильная формулировка."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"ruhig Blut bewahren\" wirklich oft.",
+          "ru": "В разговорной речи действительно довольно часто можно услышать «сохраняйте спокойствие».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"ruhig Blut bewahren\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую «спокойный консервант крови».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen guten Eindruck hinterlassen",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "оставить хорошее впечатление",
+      "translation_en": "leave a good impression",
+      "examples": [
+        {
+          "de": "Diese Formulierung mit \"einen guten Eindruck hinterlassen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «оставить хорошее впечатление» часто используется на переговорах."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"einen guten Eindruck hinterlassen\" regelmäßig.",
+          "ru": "В деловом немецком языке регулярно встречается фраза «оставить хорошее впечатление»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"einen guten Eindruck hinterlassen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «оставить хорошее впечатление» — распространенный термин."
+        },
+        {
+          "de": "Na ja, \"einen guten Eindruck hinterlassen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «произвести хорошее впечатление» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"einen guten Eindruck hinterlassen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «оставить хорошее впечатление» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Stärken hervorheben",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Выделите сильные стороны",
+      "translation_en": "Highlight strengths",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"Stärken hervorheben\" ist in diesem Kontext besonders passend.",
+          "ru": "Фраза «выделение сильных сторон» особенно уместна в этом контексте."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Stärken hervorheben\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «выделением сильных сторон»."
+        },
+        {
+          "de": "Die Wendung \"Stärken hervorheben\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «подчеркнуть сильные стороны» здесь выражает как раз то, что нужно."
+        },
+        {
+          "de": "Ich benutze \"Stärken hervorheben\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую «выделить сильные стороны».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Stärken hervorheben\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «подчеркивать сильные стороны» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Schwächen zugeben",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Признайте свои слабости",
+      "translation_en": "Admit weaknesses",
+      "examples": [
+        {
+          "de": "Man sollte \"Schwächen zugeben\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «признанию слабостей»."
+        },
+        {
+          "de": "In der Praxis wird \"Schwächen zugeben\" häufig verwendet.",
+          "ru": "На практике часто используется «признание слабостей»."
+        },
+        {
+          "de": "Der Ausdruck \"Schwächen zugeben\" ist in diesem Kontext besonders passend.",
+          "ru": "Фраза «признание слабостей» особенно уместна в этом контексте."
+        },
+        {
+          "de": "Ich benutze \"Schwächen zugeben\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую «признавать слабости».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Schwächen zugeben\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «признание слабостей».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
     }
   ]
 }

@@ -33,6 +33,9 @@
         "Anlage",
         "Geldanlage",
         "Kapitalanlage"
+      ],
+      "antonyms": [
+        "die Desinvestition, die Desinvestitionen"
       ]
     },
     {
@@ -76,6 +79,9 @@
       },
       "prepositions": [
         "in + Akkusativ (инвестировать в что-то)"
+      ],
+      "antonyms": [
+        "desinvestieren"
       ]
     },
     {
@@ -106,7 +112,8 @@
           "ru": "Но в качестве инвестора я могу профинансировать ваши исследования."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Anleger, die Anleger",
@@ -136,7 +143,8 @@
           "ru": "Инвесторы пытаются искать альтернативы, но в основном безуспешно."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Aktie, die Aktien",
@@ -170,7 +178,8 @@
         "Wertpapier",
         "Anteilsschein",
         "Anteil"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "der Aktionär, die Aktionäre",
@@ -200,7 +209,8 @@
           "ru": "Оценки в последние дни, Repsol, выявил очень интересную конфликт интересов между генеральным директором и крупным акционером компании, строитель Sacyr, который содержит 20,01% от капитала."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Börse, die Börsen",
@@ -234,7 +244,8 @@
         "Aktienmarkt",
         "Handelsplatz",
         "Wertpapierbörse"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "der Aktienkurs, die Aktienkurse",
@@ -264,7 +275,8 @@
           "ru": "И ваша травма не очень помогает поднять курс акций."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "steigen",
@@ -308,6 +320,10 @@
       "prepositions": [
         "um + Akkusativ (подняться на сколько-то)",
         "auf + Akkusativ (подняться до какого-то уровня)"
+      ],
+      "antonyms": [
+        "fallen",
+        "sinken"
       ]
     },
     {
@@ -349,7 +365,11 @@
         "ihr": "fallt",
         "sie/Sie": "fallen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "steigen",
+        "aufsteigen"
+      ]
     },
     {
       "word": "sinken",
@@ -390,7 +410,11 @@
         "ihr": "sinkt",
         "sie/Sie": "sinken"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "steigen",
+        "wachsen"
+      ]
     },
     {
       "word": "der Wertpapierhandel, (nur Sg.)",
@@ -420,7 +444,8 @@
           "ru": "Токийская биржа работает как ни в чем ни бывало..."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "handeln",
@@ -465,7 +490,8 @@
         "mit + Dativ (торговать с кем-то)",
         "von + Dativ (повествовать о чем-то)",
         "um + Akkusativ (sich handeln um / речь идет о чем-то)"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "der Händler, die Händler",
@@ -495,7 +521,10 @@
           "ru": "Хочет вернуть нашу старую, но дилер уже нашел на нее покупателя."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Käufer, die Käufer"
+      ]
     },
     {
       "word": "der Broker, die Broker",
@@ -525,7 +554,8 @@
           "ru": "Патрик, не жмись, я говорила с твоим брокером."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Provision, die Provisionen",
@@ -555,7 +585,8 @@
           "ru": "Это комиссионное вознаграждение за \"Бродвэй Джо\"."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Rendite, die Renditen",
@@ -585,7 +616,8 @@
           "ru": "доход, см. норма прибыли"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Dividende, die Dividenden",
@@ -615,7 +647,8 @@
           "ru": "Обвинение утверждает, что дивиденды в размере 15%, назначенные за акции без права голоса, были установлены обманным путем и единолично с целью ускорить это и вправду дерзкое, но ни в коем случае не являющееся неэтичным, слияние."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "ausschütten",
@@ -656,7 +689,11 @@
         "ihr": "schüttet aus",
         "sie/Sie": "schütten aus"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "einbehalten",
+        "thesaurieren"
+      ]
     },
     {
       "word": "die Ausschüttung, die Ausschüttungen",
@@ -686,7 +723,11 @@
           "ru": "Его базовый уровень приближается к нулю, если нет стимула, который способствует его производству."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Thesaurierung, die Thesaurierungen",
+        "die Einbehaltung, die Einbehaltungen"
+      ]
     },
     {
       "word": "das Risiko, die Risiken",
@@ -716,7 +757,11 @@
           "ru": "Я хочу дать тебе шанс поверить мне... и довериться."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Sicherheit, die Sicherheiten",
+        "die Chance, die Chancen"
+      ]
     },
     {
       "word": "riskieren",
@@ -757,7 +802,11 @@
         "ihr": "riskiert",
         "sie/Sie": "riskieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "sichern",
+        "schützen"
+      ]
     },
     {
       "word": "risikoreich",
@@ -787,7 +836,12 @@
           "ru": "Но, как убедились люди, последовавшие стратегии размещения ценных бумаг, вытекающей из теории анализа Шиллера, это было также и крайне рискованно."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "risikoarm",
+        "sicher",
+        "gefahrlos"
+      ]
     },
     {
       "word": "risikoarm",
@@ -817,7 +871,11 @@
           "ru": "Хотя как либерализация процентных ставок, так и сокращение доли заемных средств имеют решающее значение для долгосрочного здоровья экономики Китая, стремительно растущая стоимость заимствования вынуждает большое количество компаний с низким уровнем риска, которые не в состоянии предложить достаточно высокую отдачу, покинуть рынок."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "risikoreich",
+        "gefährlich"
+      ]
     },
     {
       "word": "die Anleihe, die Anleihen",
@@ -847,7 +905,8 @@
           "ru": "В преддверии гражданской войны банкиры северных штатов не пожелали вкладываться в облигации, опасаясь, что деньги уйдут на юг."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Staatsanleihe, die Anleihen",
@@ -877,7 +936,8 @@
           "ru": "Несомненно, не было такой вещи, как суверенная безопасность еврозоны."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Fonds, die Fonds",
@@ -907,7 +967,8 @@
           "ru": "Тогда я скажу, чтобы тебе перевели денежные средства на следующей неделе."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Investmentfonds, die Fonds",
@@ -937,7 +998,8 @@
           "ru": "Облигации и взаимные фонды?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der ETF, die ETFs",
@@ -967,7 +1029,8 @@
           "ru": "ETF был ключевым новшеством, давшим возможность инвесторам пользоваться инструментом, с помощью которого они могли эффективно и с низкими затратами отслеживать стоимость конкретного портфеля ценных бумаг, например, индекс S&P."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Portfolio, die Portfolios",
@@ -997,7 +1060,8 @@
           "ru": "Я уверен, у вас есть портфолио."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "spekulieren",
@@ -1041,7 +1105,8 @@
       "prepositions": [
         "auf + Akkusativ (рассчитывать на что-то)",
         "mit + Dativ (speкулировать чем-то)"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "die Spekulation, die Spekulationen",
@@ -1071,7 +1136,8 @@
           "ru": "Думаю, это всего лишь догадка."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Crash, die Crashes",
@@ -1101,7 +1167,11 @@
           "ru": "Все эти мысли проносились в моей голове в конце 2008 года, когда, конечно же, случился большой финансовый обвал."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Boom, die Booms",
+        "der Aufschwung, die Aufschwünge"
+      ]
     },
     {
       "word": "das Depotkonto, die Konten",
@@ -1123,7 +1193,8 @@
           "ru": "В Вашем депозитном счете Вы найдете обзор всех Ваших трансакций."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Nennwert, die Nennwerte",
@@ -1153,7 +1224,11 @@
           "ru": "Я подумала, что одна купюра любого номинала весит 1 грамм."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Kurswert, die Kurswerte",
+        "der Marktwert, die Marktwerte"
+      ]
     },
     {
       "word": "der Kurswert, die Kurswerte",
@@ -1183,7 +1258,10 @@
           "ru": "Итак, акции \"Пан Ам\" стоят 13.10."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Nennwert, die Nennwerte"
+      ]
     },
     {
       "word": "die Kursschwankung, die Schwankungen",
@@ -1213,7 +1291,10 @@
           "ru": "Недостаток МСФО заключается в том, что он неспособен смягчить систематические отрицательные воздействия движения цен активов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Kursstabilität (nur Sg.)"
+      ]
     },
     {
       "word": "schwanken",
@@ -1254,7 +1335,11 @@
         "ihr": "schwankt",
         "sie/Sie": "schwanken"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "stagnieren",
+        "konstant bleiben"
+      ]
     },
     {
       "word": "die Volatilität, (nur Sg.)",
@@ -1284,7 +1369,10 @@
           "ru": "ИСЛАМАБАД - С середины декабря Пакистан испытывает небывалую, даже по пакистанским меркам, политическую и экономическую нестабильность."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Stabilität (nur Sg.)"
+      ]
     },
     {
       "word": "volatil",
@@ -1314,7 +1402,11 @@
           "ru": "Кроме того, большинство активных управляющих (а на самом деле 95% из них) - показывают результаты хуже инвестиционных индикаторов, а их доходы подвержены волатильности и риску."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "stabil",
+        "konstant"
+      ]
     },
     {
       "word": "der Bullenmarkt, die Märkte",
@@ -1344,7 +1436,10 @@
           "ru": "Он будет ждать вас на входе цветочного рынка в Ницце."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Bärenmarkt, die Märkte"
+      ]
     },
     {
       "word": "der Bärenmarkt, die Märkte",
@@ -1374,7 +1469,10 @@
           "ru": "Мы не можем взять и найти другое тело, как на рынке."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Bullenmarkt, die Märkte"
+      ]
     },
     {
       "word": "die Renditeerwartung, die Erwartungen",
@@ -1404,7 +1502,8 @@
           "ru": "Он предупредил, что не следует пытаться оправдать чрезмерные ожидания прибыли с помощью все более поверхностного содержания."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "diversifizieren",
@@ -1445,7 +1544,11 @@
         "ihr": "diversifiziert",
         "sie/Sie": "diversifizieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "konzentrieren",
+        "fokussieren"
+      ]
     },
     {
       "word": "die Diversifikation, die Diversifikationen",
@@ -1475,7 +1578,11 @@
           "ru": "Так что ничто из того, что сделал Чавес, не превращается в фундаментальное улучшение или изменение в экономике Венесуэлы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Konzentration, die Konzentrationen",
+        "die Fokussierung, die Fokussierungen"
+      ]
     },
     {
       "word": "der Zinsertrag, die Erträge",
@@ -1505,7 +1612,10 @@
           "ru": "Сокращение ставок индивидуальных налогов, налога на доход от накопления сбережений и налога на доход от инвестиций в лучшем случае приводит к слабому увеличению уровня занятости, трудовой активности и доходов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Zinsaufwand, die Aufwände"
+      ]
     },
     {
       "word": "die Dividendenrendite, die Renditen",
@@ -1535,7 +1645,8 @@
           "ru": "Большинство компаний имеют привлекательную стоимость, а их цены обеспечены высокой дивидендной доходностью."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Gewinnspanne, die Gewinspannen",
@@ -1565,7 +1676,8 @@
           "ru": "Прибыль от этих лекарств обещает быть настолько высокой, что даже при смертности 25% в возрасте старше пяти лет, прибыль все еще будет чрезвычайно высоким."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Nettogewinn, die Gewinne",
@@ -1595,7 +1707,10 @@
           "ru": "Выходит 750 тысяч чистого навара в день."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Nettoverlust, die Verluste"
+      ]
     },
     {
       "word": "der Bruttogewinn, die Gewinne",
@@ -1617,7 +1732,10 @@
           "ru": "Эта сделка принесла бы миллиарды прибыли в следующие десять лет"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Bruttoverlust, die Verluste"
+      ]
     },
     {
       "word": "der Kostenfaktor, die Kostenfaktoren",
@@ -1647,7 +1765,8 @@
           "ru": "Стоимость бензина оказывает иссушающее воздействие на американскую экономику в целом и на отдельные семьи в частности."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Kostenanalyse, die Analysen",
@@ -1673,7 +1792,8 @@
           "ru": "Одна из причин такого положения дел может заключаться в том, что перед этими предпринимательскими отделениями часто ставились нереальные цели, и создавались они без тщательного анализа выгод и издержек, ожидаемых от их деятельности."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Rentabilität, (nur Sg.)",
@@ -1703,7 +1823,10 @@
           "ru": "Мы должны пересмотреть схемы компенсации и отложить выплату бонусов до тех пор, пока не будет известна долгосрочная доходность инвестиций фирмы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unrentabilität (nur Sg.)"
+      ]
     },
     {
       "word": "rentabel",
@@ -1733,7 +1856,11 @@
           "ru": "Как вы планируете сделать компанию прибыльной?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unrentabel",
+        "verlustbringend"
+      ]
     },
     {
       "word": "das Leasing, (nur Sg.)",
@@ -1763,7 +1890,10 @@
           "ru": "Не, рассрочки закончились."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Kauf, die Käufe"
+      ]
     },
     {
       "word": "leasen",
@@ -1804,7 +1934,10 @@
         "ihr": "least",
         "sie/Sie": "leasen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "kaufen"
+      ]
     },
     {
       "word": "die Tilgungsrate, die Raten",
@@ -1826,7 +1959,8 @@
           "ru": "проценты по фиксированным амортизационным отчислениям"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Fristigkeit, (nur Sg.)",
@@ -1856,7 +1990,8 @@
           "ru": "Ты во второй раз взяла курс химии, и это смело."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "fristgerecht",
@@ -1886,7 +2021,11 @@
           "ru": "Нельзя создавать политику на основе вымысла о том, что были выданы хорошие займы и что деловая хватка лидеров и регулирующих органов финансовых рынков восстановится, если вернётся доверие."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "fristwidrig",
+        "verspätet"
+      ]
     },
     {
       "word": "fristwidrig",
@@ -1908,7 +2047,11 @@
           "ru": "Увольнение с нарушением сроков может быть признано недействительным, если не соблюдены установленные законом сроки."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "fristgerecht",
+        "ordnungsgemäß"
+      ]
     },
     {
       "word": "das Budgetdefizit, die Defizite",
@@ -1938,7 +2081,10 @@
           "ru": "Исследование Бюджетнго управления также дало понять, что соглашение по сокращению налогов, достигнутое в декабре между Обамой и республиканской оппозицией, умышленно и намеренно резко увеличило дефицит бюджета."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Budgetüberschuss, die Überschüsse"
+      ]
     },
     {
       "word": "ausgleichen",
@@ -1979,7 +2125,8 @@
         "ihr": "gleicht aus",
         "sie/Sie": "gleichen aus"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "die Rücklage, die Rücklagen",
@@ -2009,7 +2156,8 @@
           "ru": "Нельзя ли гарантий: банковский вклад или еще что-нибудь... в этом же духе?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Kapitalerhöhung, die Erhöhungen",
@@ -2039,7 +2187,10 @@
           "ru": "Производный финансовый инструмент может иметь более одного базового актива."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Kapitalherabsetzung, die Setzungen"
+      ]
     },
     {
       "word": "die Kapitalherabsetzung, die Setzungen",
@@ -2069,7 +2220,10 @@
           "ru": "За этим следует двукратное увеличение капитала, за каждым из которых немедленно следует сокращение капитала."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Kapitalerhöhung, die Erhöhungen"
+      ]
     },
     {
       "word": "die Emission, die Emissionen",
@@ -2099,7 +2253,11 @@
           "ru": "Радиации нет, воздух почти на 100% чистый."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Tilgung, die Tilgungen",
+        "der Rückkauf, die Rückkäufe"
+      ]
     },
     {
       "word": "emittieren",
@@ -2140,7 +2298,11 @@
         "ihr": "emittiert",
         "sie/Sie": "emittieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "zurückkaufen",
+        "tilgen"
+      ]
     },
     {
       "word": "der Emittent, die Emittenten",
@@ -2170,7 +2332,11 @@
           "ru": "Качество активов, обеспечивающих эти облигации, зависит исключительно от престижа выпускающих организаций и их технических навыков."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Anleger, die Anleger",
+        "der Zeichner, die Zeichner"
+      ]
     },
     {
       "word": "die Erstplatzierung, die Erstplatzierungen",
@@ -2200,7 +2366,8 @@
           "ru": "Британский суд отклонил ходатайство ЮКОСа о пересмотре первого размещения."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das IPO, die IPOs",
@@ -2230,7 +2397,8 @@
           "ru": "Und als sie ihren Börsengang hatten, war ihre Aktie bei ungefähr 30 oder 40 Dollar und dann sind sie abgestürzt und wurden nie über 10 Dollar gehandelt."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Zeichnung, die Zeichnungen",
@@ -2260,7 +2428,8 @@
           "ru": "Жаль, что мы не показали ему твой рисунок."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "zeichnen",
@@ -2301,7 +2470,8 @@
         "ihr": "zeichnet",
         "sie/Sie": "zeichnen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "das Agio, die Agios",
@@ -2331,7 +2501,10 @@
           "ru": "NEW LAND это лицензированное агентство недвижимости, расположенное в городе Айос-Николаос нома Ласитион."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Disagio, die Disagios"
+      ]
     },
     {
       "word": "das Disagio, die Disagios",
@@ -2361,7 +2534,10 @@
           "ru": "При вычислении по основанию 2 скидка рассчитывается следующим образом:"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Agio, die Agios"
+      ]
     },
     {
       "word": "der Nennwertkurs, die Kurse",
@@ -2383,7 +2559,10 @@
           "ru": "При оценке портфеля ценных бумаг номинальный курс играет второстепенную роль по сравнению с рыночной стоимостью."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Marktkurs, die Kurse"
+      ]
     },
     {
       "word": "die Gewinnbeteiligung, die Beteiligungen",
@@ -2413,7 +2592,8 @@
           "ru": "Поэтому мы предлагаем вам 8 процентов от всех доходов, которые мы получим с ваших скважин."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "beteiligen",
@@ -2456,6 +2636,9 @@
       },
       "prepositions": [
         "an + Dativ (sich beteiligen an / участвовать в чем-то)"
+      ],
+      "antonyms": [
+        "ausschließen"
       ]
     },
     {
@@ -2486,7 +2669,10 @@
           "ru": "Нам нужна революция вовлечения, и нужна быстро."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Ausschluss, die Ausschlüsse"
+      ]
     },
     {
       "word": "der Mehrheitsgesellschafter, die Gesellschafter",
@@ -2516,7 +2702,10 @@
           "ru": "Bayerische Landesbank, основной акционер с 1998 года, отказался от дальнейшей поддержки."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Minderheitsgesellschafter, die Gesellschafter"
+      ]
     },
     {
       "word": "der Minderheitsgesellschafter, die Gesellschafter",
@@ -2546,7 +2735,10 @@
           "ru": "Барлах получил необычайно сильную позицию миноритарного акционера."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Mehrheitsgesellschafter, die Gesellschafter"
+      ]
     },
     {
       "word": "die Hauptversammlung, die Versammlungen",
@@ -2576,7 +2768,8 @@
           "ru": "Мы знаем, что подрывник планирует атаку во время съезда демократов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "beschließen",
@@ -2617,7 +2810,8 @@
         "ihr": "beschließt",
         "sie/Sie": "beschließen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "der Beschluss, die Beschlüsse",
@@ -2647,7 +2841,8 @@
           "ru": "У нас есть соглашение, я ожидал от вас честности."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Stimmrecht, die Stimmrechte",
@@ -2677,7 +2872,8 @@
           "ru": "А это дало женщинам право голосовать."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "stimmen",
@@ -2718,7 +2914,8 @@
         "ihr": "stimmet",
         "sie/Sie": "stimmen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "die Abstimmung, die Abstimmungen",
@@ -2753,7 +2950,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unstimmigkeit, die Unstimmigkeiten",
+        "der Konflikt, die Konflikte"
+      ]
     },
     {
       "word": "der Aufsichtsrat, die Aufsichtsräte",
@@ -2783,7 +2984,8 @@
           "ru": "Но ты только исключен из правления, так?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Vorstand, die Vorstände",
@@ -2813,7 +3015,8 @@
           "ru": "Я не знаю что скажет руководство Ягуара."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Risikomanagement, (nur Sg.)",
@@ -2843,7 +3046,8 @@
           "ru": "Именно таков принцип эффективного управления риском, и это известно профессионалам в области финансов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "minimieren",
@@ -2884,7 +3088,12 @@
         "ihr": "minimiert",
         "sie/Sie": "minimieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "maximieren",
+        "vergrößern",
+        "steigern"
+      ]
     },
     {
       "word": "maximieren",
@@ -2925,7 +3134,12 @@
         "ihr": "maximiert",
         "sie/Sie": "maximieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "minimieren",
+        "verringern",
+        "reduzieren"
+      ]
     },
     {
       "word": "die Verlustbegrenzung, die Begrenzungen",
@@ -2955,7 +3169,8 @@
           "ru": "Очень обширное ограничение потерь делает конвертируемые облигации интересными не только для консервативных инвесторов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Stop-Loss, die Stop-Losses",
@@ -2985,7 +3200,8 @@
           "ru": "Если текущие цен предложения были на 1,2070 (имеет 20 пунктов прибыли), то трейлинг-стоп будет изменить Stop Loss к цене 1,2055 (20 баллов минус 15 пунктов прибыли, т.е. прибыли 5 баллов)."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Gewinnvortrag, die Vorträge",
@@ -3015,7 +3231,10 @@
           "ru": "Тот факт, что дивиденды, уменьшенные за 1995 год, были заработаны за этот период лишь частично, считается оправданным, учитывая перенесенную прибыль, накопленную в лучшие годы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Verlustvortrag, die Vorträge"
+      ]
     },
     {
       "word": "der Verlustvortrag, die Vorträge",
@@ -3045,7 +3264,10 @@
           "ru": "[налоговое] использование переноса убытков"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Gewinnvortrag, die Vorträge"
+      ]
     },
     {
       "word": "die Rücklagebildung, die Bildungen",
@@ -3067,7 +3289,10 @@
           "ru": "Правление решило сократить дивиденды, чтобы получить больше средств для формирования резервного фонда."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Rücklagenauflösung, die Auflösungen"
+      ]
     },
     {
       "word": "die Liquiditätsplanung, die Planungen",
@@ -3097,7 +3322,8 @@
           "ru": "Вот почему, в дополнение к общим советам по запуску, инвестиционный банк также предлагает подготовку к банковским переговорам, а также помощь в создании жизнеспособных бизнес-планов и поддержку в планировании ликвидности."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Anlagekapital, (nur Sg.)",
@@ -3127,7 +3353,8 @@
           "ru": "FXDD безоговорочно отказывается от какой-либо ответственности за любые потери основного или начального капитала и возможной прибыли, которые могут быть прямым или косвенным следствием использования или частичного применения вышеперечисленной информации."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Vermögensverwaltung, die Verwaltungen",
@@ -3157,7 +3384,8 @@
           "ru": "И, наоборот, англосаксонские системы общего права дают судьям право интерпретировать допускающие разные толкования фидуциарные правила применительно к каждому отдельному случаю, создавая правовые прецеденты, которые и сдерживают менеджеров."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "verwalten",
@@ -3198,7 +3426,3011 @@
         "ihr": "verwaltet",
         "sie/Sie": "verwalten"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kuppelkalkulation, die Kalkulationen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Расчет купола",
+      "translation_en": "Dome calculation",
+      "examples": [
+        {
+          "de": "die Kuppelkalkulation muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "совместный расчет должен быть зафиксирован в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "In der Bilanz wird die Kuppelkalkulation unter den Aktiva ausgewiesen.",
+          "ru": "Совместный расчет отражается в разделе «Активы» баланса."
+        },
+        {
+          "de": "Das Finanzamt hat die Kuppelkalkulation beanstandet.",
+          "ru": "Налоговая инспекция возражала против совместного расчета."
+        },
+        {
+          "de": "Ich musste letztens die Kuppelkalkulation komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью переделывать расчет купола, что было очень утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Kuppelkalkulation ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, расчет купола невероятно важен для налоговой декларации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Maschinenstundensatzrechnung, die Rechnungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Расчет почасовой ставки станка",
+      "translation_en": "Machine hourly rate calculation",
+      "examples": [
+        {
+          "de": "Das Finanzamt hat die Maschinenstundensatzrechnung beanstandet.",
+          "ru": "Налоговая инспекция возражала против расчета почасовой ставки станка."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die Maschinenstundensatzrechnung eine entscheidende Rolle.",
+          "ru": "Расчет почасовой ставки станка играет решающую роль в учете затрат."
+        },
+        {
+          "de": "die Maschinenstundensatzrechnung muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "Расчет почасовой ставки станка должен быть зафиксирован в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Ich musste letztens die Maschinenstundensatzrechnung komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью перенастроить расчет почасовой ставки станка, что было очень утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Maschinenstundensatzrechnung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, расчет почасовой ставки станка невероятно важен для налоговой декларации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Betriebsabrechnungsbogen, (BAB)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Форма бухгалтерского учета",
+      "translation_en": "Business accounting form",
+      "examples": [
+        {
+          "de": "Die Steuerberaterin hat den Betriebsabrechnungsbogen im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел форму бухгалтерского учета в годовой финансовой отчетности."
+        },
+        {
+          "de": "Der Buchhalter hat den Betriebsabrechnungsbogen sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно проверил форму бухгалтерского учета."
+        },
+        {
+          "de": "In der Bilanz wird der Betriebsabrechnungsbogen unter den Aktiva ausgewiesen.",
+          "ru": "Бухгалтерский отчет отображается в составе активов в балансе."
+        },
+        {
+          "de": "Na ja, ohne den Betriebsabrechnungsbogen können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без формы бухгалтерского учета мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir den Betriebsabrechnungsbogen erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили форму бухгалтерского учета только на прошлой неделе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Stufenleiterverfahren, die Verfahren",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Метод ступенчатой ​​лестницы",
+      "translation_en": "Step ladder method",
+      "examples": [
+        {
+          "de": "das Stufenleiterverfahren muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "Лестничный метод должен быть записан в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei dem Stufenleiterverfahren Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость действий в рамках поэтапной процедуры."
+        },
+        {
+          "de": "Die Steuerberaterin hat das Stufenleiterverfahren im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел процедуру «ступенчатой ​​лестницы» в годовой финансовой отчетности."
+        },
+        {
+          "de": "Also das Stufenleiterverfahren ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, пошаговый процесс невероятно важен для налоговых деклараций.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir das Stufenleiterverfahren erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили порядок действий на лестнице только на прошлой неделе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Anbauverfahren, die Verfahren",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Методы выращивания",
+      "translation_en": "Cultivation methods",
+      "examples": [
+        {
+          "de": "Im Controlling wird das Anbauverfahren monatlich überwacht.",
+          "ru": "Процесс выращивания ежемесячно контролируется на контроле."
+        },
+        {
+          "de": "In der Bilanz wird das Anbauverfahren unter den Aktiva ausgewiesen.",
+          "ru": "В балансе метод выращивания отражается в разделе «Активы»."
+        },
+        {
+          "de": "das Anbauverfahren muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "метод выращивания должен быть зафиксирован в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "In unserer Firma haben wir das Anbauverfahren erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили метод выращивания только на прошлой неделе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne das Anbauverfahren können wir die Bilanz nicht freigeben.",
+          "ru": "Что ж, без процесса выращивания мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Gleichungsverfahren, die Verfahren",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Метод уравнений",
+      "translation_en": "Equation method",
+      "examples": [
+        {
+          "de": "Die Abweichungsanalyse hat bei dem Gleichungsverfahren Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер по методу уравнений."
+        },
+        {
+          "de": "In der Bilanz wird das Gleichungsverfahren unter den Aktiva ausgewiesen.",
+          "ru": "В балансе метод уравнений отображается в разделе «Активы»."
+        },
+        {
+          "de": "das Gleichungsverfahren muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "метод уравнений должен быть записан в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "In unserer Firma haben wir das Gleichungsverfahren erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили метод уравнений только на прошлой неделе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens das Gleichungsverfahren komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью настроить процедуру уравнения с нуля, что было очень утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die innerbetriebliche Leistungsverrechnung, (ILV)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "расчет внутренних услуг",
+      "translation_en": "internal service billing",
+      "examples": [
+        {
+          "de": "Der Buchhalter hat die innerbetriebliche Leistungsverrechnung sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно проверил внутреннее распределение затрат."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei der innerbetriebliche Leistungsverrechnung Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер по внутреннему распределению услуг."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der innerbetriebliche Leistungsverrechnung.",
+          "ru": "Аудитор подтвердил правильность распределения внутренних услуг."
+        },
+        {
+          "de": "Also die innerbetriebliche Leistungsverrechnung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, распределение внутренних услуг невероятно важно для налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die innerbetriebliche Leistungsverrechnung können wir die Bilanz nicht freigeben.",
+          "ru": "Что ж, без внутреннего распределения услуг мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Vollkostenrechnung, die Rechnungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Полный учет затрат",
+      "translation_en": "Full cost accounting",
+      "examples": [
+        {
+          "de": "Das Finanzamt hat die Vollkostenrechnung beanstandet.",
+          "ru": "Налоговая инспекция возражала против полного учета затрат."
+        },
+        {
+          "de": "Der Buchhalter hat die Vollkostenrechnung sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно проверил полный учет затрат."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei der Vollkostenrechnung Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер по полному учету себестоимости."
+        },
+        {
+          "de": "Also die Vollkostenrechnung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, полный расчет затрат невероятно важен для налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Vollkostenrechnung können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без полного хозрасчета мы не можем выпустить баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Teilkostenrechnung, die Rechnungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Частичный учет затрат",
+      "translation_en": "Partial cost accounting",
+      "examples": [
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Teilkostenrechnung.",
+          "ru": "Аудитор подтвердил правильность расчета частичных затрат."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die Teilkostenrechnung eine entscheidende Rolle.",
+          "ru": "Частичный учет затрат играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Die Steuerberaterin hat die Teilkostenrechnung im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел частичный учет себестоимости в годовой финансовой отчетности."
+        },
+        {
+          "de": "Das mit der Teilkostenrechnung klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Частичный учет затрат теперь работает достаточно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens die Teilkostenrechnung komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью заново настроить частичный расчет затрат, что было очень утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Deckungsbeitrag, die Deckungsbeiträge",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Маржа вклада",
+      "translation_en": "Contribution margin",
+      "examples": [
+        {
+          "de": "Die Abweichungsanalyse hat bei dem Deckungsbeitrag Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении размера вклада."
+        },
+        {
+          "de": "Die Steuerberaterin hat den Deckungsbeitrag im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел маржинальную прибыль в годовой финансовой отчетности."
+        },
+        {
+          "de": "der Deckungsbeitrag muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "Маржа вклада должна быть отражена в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Na ja, ohne den Deckungsbeitrag können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без маржи вклада мы не сможем опубликовать баланс.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens den Deckungsbeitrag komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью настраивать размер взноса с нуля, что было очень сложно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Gewinnschwelle, die Gewinnschwellen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Точка безубыточности",
+      "translation_en": "Breakeven point",
+      "examples": [
+        {
+          "de": "Der Buchhalter hat die Gewinnschwelle sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно проверил точку безубыточности."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die Gewinnschwelle eine entscheidende Rolle.",
+          "ru": "Точка безубыточности играет решающую роль в учете затрат."
+        },
+        {
+          "de": "In der Bilanz wird die Gewinnschwelle unter den Aktiva ausgewiesen.",
+          "ru": "В балансе точка безубыточности отображается в разделе «Активы»."
+        },
+        {
+          "de": "In unserer Firma haben wir die Gewinnschwelle erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы только на прошлой неделе изменили точку безубыточности.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Gewinnschwelle ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, точка безубыточности невероятно важна для налоговой декларации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Deckungsfaktor, die Faktoren",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Коэффициент покрытия",
+      "translation_en": "Coverage factor",
+      "examples": [
+        {
+          "de": "In der Bilanz wird der Deckungsfaktor unter den Aktiva ausgewiesen.",
+          "ru": "Коэффициент покрытия отображается в разделе «Активы» баланса."
+        },
+        {
+          "de": "Die Steuerberaterin hat den Deckungsfaktor im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел коэффициент покрытия в годовой финансовой отчетности."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei dem Deckungsfaktor Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении коэффициента покрытия."
+        },
+        {
+          "de": "Na ja, ohne den Deckungsfaktor können wir die Bilanz nicht freigeben.",
+          "ru": "Что ж, без коэффициента покрытия мы не сможем опубликовать баланс.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also der Deckungsfaktor ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, фактор покрытия невероятно важен для налоговой декларации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Stückdeckungsbeitrag, die Beiträge",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Маржинальный вклад единицы",
+      "translation_en": "Unit contribution margin",
+      "examples": [
+        {
+          "de": "Im Controlling wird der Stückdeckungsbeitrag monatlich überwacht.",
+          "ru": "При контроллинге маржа удельного вклада контролируется ежемесячно."
+        },
+        {
+          "de": "In der Bilanz wird der Stückdeckungsbeitrag unter den Aktiva ausgewiesen.",
+          "ru": "В балансе маржа удельного вклада отображается в разделе «Активы»."
+        },
+        {
+          "de": "der Stückdeckungsbeitrag muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "маржа паевого взноса должна отражаться в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Das mit dem Stückdeckungsbeitrag klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Маржа удельного вклада теперь работает достаточно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens den Stückdeckungsbeitrag komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью заново настроить маржинальный взнос, что было очень сложно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Gesamtdeckungsbeitrag, die Beiträge",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Общая маржа вклада",
+      "translation_en": "Total contribution margin",
+      "examples": [
+        {
+          "de": "Im Controlling wird der Gesamtdeckungsbeitrag monatlich überwacht.",
+          "ru": "При контроллинге общая маржинальная прибыль отслеживается ежемесячно."
+        },
+        {
+          "de": "Der Buchhalter hat den Gesamtdeckungsbeitrag sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно изучил общую маржинальную прибыль."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei dem Gesamtdeckungsbeitrag Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении общей суммы вклада."
+        },
+        {
+          "de": "Das mit dem Gesamtdeckungsbeitrag klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Общая маржа вклада теперь работает довольно хорошо после того, как мы представили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens den Gesamtdeckungsbeitrag komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью сбросить общую маржу вклада, что было очень сложно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die relative Deckungsspanne, die Spannen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "относительная маржа покрытия",
+      "translation_en": "relative coverage margin",
+      "examples": [
+        {
+          "de": "Der Buchhalter hat die relative Deckungsspanne sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно изучил относительную маржу покрытия."
+        },
+        {
+          "de": "die relative Deckungsspanne muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "относительная маржа покрытия должна отражаться в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Für die korrekte Buchung ist die relative Deckungsspanne unerlässlich.",
+          "ru": "Относительная маржа покрытия важна для правильного бронирования."
+        },
+        {
+          "de": "Na ja, ohne die relative Deckungsspanne können wir die Bilanz nicht freigeben.",
+          "ru": "Что ж, без относительной маржи покрытия мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der relative Deckungsspanne klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Относительная маржа покрытия теперь работает достаточно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Engpasssteuerung, die Steuerungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Контроль узких мест",
+      "translation_en": "Bottleneck control",
+      "examples": [
+        {
+          "de": "Die Abweichungsanalyse hat bei der Engpasssteuerung Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер по контролю узких мест."
+        },
+        {
+          "de": "Der Buchhalter hat die Engpasssteuerung sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно изучил систему контроля узких мест."
+        },
+        {
+          "de": "Im Controlling wird die Engpasssteuerung monatlich überwacht.",
+          "ru": "При контроле на ежемесячной основе контролируется управление узкими местами."
+        },
+        {
+          "de": "Also die Engpasssteuerung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, контроль узких мест невероятно важен для налоговых деклараций.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Engpasssteuerung klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "После внедрения SAP контроль узких мест теперь работает достаточно хорошо.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Produktionsprogramm, die Programme",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Производственная программа",
+      "translation_en": "Production program",
+      "examples": [
+        {
+          "de": "Bei der Kostenrechnung spielt das Produktionsprogramm eine entscheidende Rolle.",
+          "ru": "Производственная программа играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Im Controlling wird das Produktionsprogramm monatlich überwacht.",
+          "ru": "Производственная программа ежемесячно контролируется в контроллинге."
+        },
+        {
+          "de": "Für die korrekte Buchung ist das Produktionsprogramm unerlässlich.",
+          "ru": "Производственная программа необходима для правильного бронирования."
+        },
+        {
+          "de": "Das mit dem Produktionsprogramm klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Производственная программа теперь работает достаточно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne das Produktionsprogramm können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без производственной программы мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das optimale Produktionsprogramm, die Programme",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "оптимальная производственная программа",
+      "translation_en": "optimal production program",
+      "examples": [
+        {
+          "de": "Für die korrekte Buchung ist das optimale Produktionsprogramm unerlässlich.",
+          "ru": "Оптимальная производственная программа необходима для правильного бронирования."
+        },
+        {
+          "de": "das optimale Produktionsprogramm muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "оптимальная производственная программа должна быть зафиксирована в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit des optimale Produktionsprogramm.",
+          "ru": "Аудитор подтвердил правильность оптимальной производственной программы."
+        },
+        {
+          "de": "In unserer Firma haben wir das optimale Produktionsprogramm erst letzte Woche umgestellt.",
+          "ru": "В нашей компании только на прошлой неделе мы изменили оптимальную производственную программу.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne das optimale Produktionsprogramm können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без оптимальной производственной программы мы не сможем выпустить баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Plankostenrechnung, die Rechnungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Плановый учет затрат",
+      "translation_en": "Planned cost accounting",
+      "examples": [
+        {
+          "de": "Bei der Kostenrechnung spielt die Plankostenrechnung eine entscheidende Rolle.",
+          "ru": "Плановый учет затрат играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Für die korrekte Buchung ist die Plankostenrechnung unerlässlich.",
+          "ru": "Плановый учет затрат необходим для правильного резервирования."
+        },
+        {
+          "de": "Die Steuerberaterin hat die Plankostenrechnung im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел плановый расчет затрат в годовой финансовой отчетности."
+        },
+        {
+          "de": "Das mit der Plankostenrechnung klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "После внедрения SAP плановый учет затрат теперь работает достаточно хорошо.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir die Plankostenrechnung erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили плановый учет затрат только на прошлой неделе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Istkosten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Фактические затраты",
+      "translation_en": "Actual costs",
+      "examples": [
+        {
+          "de": "Die Abweichungsanalyse hat bei der Istkosten Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер по фактическим затратам."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Istkosten.",
+          "ru": "Аудитор подтвердил достоверность фактических затрат."
+        },
+        {
+          "de": "Das Finanzamt hat die Istkosten beanstandet.",
+          "ru": "Налоговая инспекция возражала против фактических затрат."
+        },
+        {
+          "de": "Also die Istkosten ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, фактические затраты невероятно важны для налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Istkosten können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без фактических затрат мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Plankosten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Планируемые затраты",
+      "translation_en": "Planned costs",
+      "examples": [
+        {
+          "de": "In der Bilanz wird die Plankosten unter den Aktiva ausgewiesen.",
+          "ru": "Плановые затраты отражаются в составе активов в балансе."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die Plankosten eine entscheidende Rolle.",
+          "ru": "Плановые затраты играют решающую роль в учете затрат."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Plankosten.",
+          "ru": "Аудитор подтвердил достоверность запланированных затрат."
+        },
+        {
+          "de": "Ich musste letztens die Plankosten komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью переделывать запланированные расходы, что было очень сложно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Plankosten ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, плановые затраты невероятно важны для налоговой декларации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Sollkosten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Целевые затраты",
+      "translation_en": "Target costs",
+      "examples": [
+        {
+          "de": "Die Abweichungsanalyse hat bei der Sollkosten Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость действий в отношении целевых затрат."
+        },
+        {
+          "de": "Für die korrekte Buchung ist die Sollkosten unerlässlich.",
+          "ru": "Целевые затраты необходимы для правильного бронирования."
+        },
+        {
+          "de": "Das Finanzamt hat die Sollkosten beanstandet.",
+          "ru": "Налоговая инспекция возражала против целевых затрат."
+        },
+        {
+          "de": "Ich musste letztens die Sollkosten komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью заново установить целевые затраты, что было очень сложно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Sollkosten können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без целевых затрат мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Budgetierung, die Budgetierungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "составление бюджета",
+      "translation_en": "budgeting",
+      "examples": [
+        {
+          "de": "Im Controlling wird die Budgetierung monatlich überwacht.",
+          "ru": "Бюджетирование контролируется ежемесячно в контроллинге."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Budgetierung.",
+          "ru": "Аудитор подтвердил правильность составления бюджета."
+        },
+        {
+          "de": "Das Finanzamt hat die Budgetierung beanstandet.",
+          "ru": "Налоговая инспекция возражала против составления бюджета."
+        },
+        {
+          "de": "Das mit der Budgetierung klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "После внедрения SAP бюджетирование теперь работает достаточно хорошо.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Budgetierung können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без составления бюджета мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Budgetierungssystem, die Systeme",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Система бюджетирования",
+      "translation_en": "Budgeting system",
+      "examples": [
+        {
+          "de": "Im Controlling wird das Budgetierungssystem monatlich überwacht.",
+          "ru": "В контроле система бюджетирования контролируется ежемесячно."
+        },
+        {
+          "de": "Für die korrekte Buchung ist das Budgetierungssystem unerlässlich.",
+          "ru": "Система бюджетирования необходима для правильного бронирования."
+        },
+        {
+          "de": "Das Finanzamt hat das Budgetierungssystem beanstandet.",
+          "ru": "Налоговая служба раскритиковала систему бюджетирования."
+        },
+        {
+          "de": "In unserer Firma haben wir das Budgetierungssystem erst letzte Woche umgestellt.",
+          "ru": "В нашей компании буквально на прошлой неделе мы изменили систему бюджетирования.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne das Budgetierungssystem können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без системы бюджетирования мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Budgetabweichung, die Abweichungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Отклонение бюджета",
+      "translation_en": "Budget variance",
+      "examples": [
+        {
+          "de": "Im Controlling wird die Budgetabweichung monatlich überwacht.",
+          "ru": "При контроллинге ежемесячно отслеживается отклонение от бюджета."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die Budgetabweichung eine entscheidende Rolle.",
+          "ru": "Отклонение от бюджета играет решающую роль в учете затрат."
+        },
+        {
+          "de": "die Budgetabweichung muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "бюджетное отклонение должно быть отражено в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "In unserer Firma haben wir die Budgetabweichung erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы только что изменили отклонение бюджета на прошлой неделе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens die Budgetabweichung komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью переделывать отклонение бюджета, что было очень утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Verbrauchsabweichung, die Abweichungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Отклонение потребления",
+      "translation_en": "Consumption deviation",
+      "examples": [
+        {
+          "de": "Die Abweichungsanalyse hat bei der Verbrauchsabweichung Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении отклонения потребления."
+        },
+        {
+          "de": "In der Bilanz wird die Verbrauchsabweichung unter den Aktiva ausgewiesen.",
+          "ru": "В балансе отклонение потребления отражается в разделе «Активы»."
+        },
+        {
+          "de": "Der Buchhalter hat die Verbrauchsabweichung sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно проверил отклонение потребления."
+        },
+        {
+          "de": "Ich musste letztens die Verbrauchsabweichung komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью сбрасывать отклонение расхода, что было очень утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Verbrauchsabweichung klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Отклонение потребления теперь работает довольно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Beschäftigungsabweichung, die Abweichungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Отклонение в занятости",
+      "translation_en": "Employment deviation",
+      "examples": [
+        {
+          "de": "In der Bilanz wird die Beschäftigungsabweichung unter den Aktiva ausgewiesen.",
+          "ru": "В балансе отклонение по занятости отображается в разделе «Активы»."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Beschäftigungsabweichung.",
+          "ru": "Аудитор подтвердил достоверность отклонения по занятости."
+        },
+        {
+          "de": "Der Buchhalter hat die Beschäftigungsabweichung sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно проанализировал отклонение по занятости."
+        },
+        {
+          "de": "Das mit der Beschäftigungsabweichung klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Проблема с отклонениями в занятости теперь работает довольно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Beschäftigungsabweichung können wir die Bilanz nicht freigeben.",
+          "ru": "Что ж, без разницы в занятости мы не сможем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Preisabweichung, die Abweichungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Разница в цене",
+      "translation_en": "Price variance",
+      "examples": [
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Preisabweichung.",
+          "ru": "Аудитор подтвердил достоверность отклонения цены."
+        },
+        {
+          "de": "Der Buchhalter hat die Preisabweichung sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно изучил отклонение цен."
+        },
+        {
+          "de": "Die Steuerberaterin hat die Preisabweichung im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел отклонение цен в годовой финансовой отчетности."
+        },
+        {
+          "de": "In unserer Firma haben wir die Preisabweichung erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили отклонение цены только на прошлой неделе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Preisabweichung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, отклонение цен невероятно важно для налоговой декларации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Effizienzabweichung, die Abweichungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Отклонение эффективности",
+      "translation_en": "Efficiency deviation",
+      "examples": [
+        {
+          "de": "Im Controlling wird die Effizienzabweichung monatlich überwacht.",
+          "ru": "При контроле отклонение эффективности отслеживается ежемесячно."
+        },
+        {
+          "de": "Die Steuerberaterin hat die Effizienzabweichung im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел отклонение эффективности в годовой финансовой отчетности."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Effizienzabweichung.",
+          "ru": "Аудитор подтвердил достоверность отклонения эффективности."
+        },
+        {
+          "de": "Das mit der Effizienzabweichung klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Отклонение эффективности теперь работает довольно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Effizienzabweichung können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без отклонения эффективности мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Wirtschaftlichkeit, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "экономика",
+      "translation_en": "economy",
+      "examples": [
+        {
+          "de": "die Wirtschaftlichkeit muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "экономическая эффективность должна отражаться в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Das Finanzamt hat die Wirtschaftlichkeit beanstandet.",
+          "ru": "Налоговая инспекция возражала против экономической целесообразности."
+        },
+        {
+          "de": "Der Buchhalter hat die Wirtschaftlichkeit sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно изучил рентабельность."
+        },
+        {
+          "de": "Das mit der Wirtschaftlichkeit klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "После того, как мы внедрили SAP, экономика сейчас работает довольно хорошо.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens die Wirtschaftlichkeit komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью перезагружать экономику, что было действительно сложно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Wirtschaftlichkeitsprüfung, die Prüfungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Аудит эффективности",
+      "translation_en": "Performance audit",
+      "examples": [
+        {
+          "de": "Im Controlling wird die Wirtschaftlichkeitsprüfung monatlich überwacht.",
+          "ru": "В контроллинге ежемесячный контроль осуществляется за аудитом эффективности."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Wirtschaftlichkeitsprüfung.",
+          "ru": "Аудитор подтвердил достоверность результатов аудита эффективности."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei der Wirtschaftlichkeitsprüfung Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в рамках аудита эффективности."
+        },
+        {
+          "de": "Also die Wirtschaftlichkeitsprüfung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, аудит эффективности невероятно важен для налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Wirtschaftlichkeitsprüfung können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без аудита эффективности мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Rentabilitätskennzahl, die Kennzahlen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Коэффициент рентабельности",
+      "translation_en": "Profitability ratio",
+      "examples": [
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Rentabilitätskennzahl.",
+          "ru": "Аудитор подтвердил правильность показателя рентабельности."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die Rentabilitätskennzahl eine entscheidende Rolle.",
+          "ru": "Коэффициент рентабельности играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Der Buchhalter hat die Rentabilitätskennzahl sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно изучил коэффициент рентабельности."
+        },
+        {
+          "de": "Also die Rentabilitätskennzahl ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, коэффициент рентабельности невероятно важен для налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Rentabilitätskennzahl können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без показателя рентабельности мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Eigenkapitalrentabilität, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Рентабельность капитала",
+      "translation_en": "Return on equity",
+      "examples": [
+        {
+          "de": "Für die korrekte Buchung ist die Eigenkapitalrentabilität unerlässlich.",
+          "ru": "Рентабельность капитала важна для правильного бронирования."
+        },
+        {
+          "de": "In der Bilanz wird die Eigenkapitalrentabilität unter den Aktiva ausgewiesen.",
+          "ru": "Рентабельность собственного капитала отображается в разделе «Активы» баланса."
+        },
+        {
+          "de": "Das Finanzamt hat die Eigenkapitalrentabilität beanstandet.",
+          "ru": "Налоговая инспекция возражала против рентабельности собственного капитала."
+        },
+        {
+          "de": "In unserer Firma haben wir die Eigenkapitalrentabilität erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили рентабельность капитала только на прошлой неделе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Eigenkapitalrentabilität klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "После того, как мы внедрили SAP, рентабельность капитала теперь работает довольно хорошо.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Fremdkapitalrentabilität, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Возврат долга",
+      "translation_en": "Return on debt",
+      "examples": [
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Fremdkapitalrentabilität.",
+          "ru": "Аудитор подтвердил достоверность возврата долга."
+        },
+        {
+          "de": "Für die korrekte Buchung ist die Fremdkapitalrentabilität unerlässlich.",
+          "ru": "Возврат долга необходим для правильного бронирования."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei der Fremdkapitalrentabilität Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении рентабельности заемного капитала."
+        },
+        {
+          "de": "In unserer Firma haben wir die Fremdkapitalrentabilität erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы только на прошлой неделе изменили рентабельность заемного капитала.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Fremdkapitalrentabilität ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, возврат долга невероятно важен для налоговой декларации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Gesamtkapitalrentabilität, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Рентабельность активов",
+      "translation_en": "Return on assets",
+      "examples": [
+        {
+          "de": "Der Buchhalter hat die Gesamtkapitalrentabilität sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно изучил рентабельность активов."
+        },
+        {
+          "de": "In der Bilanz wird die Gesamtkapitalrentabilität unter den Aktiva ausgewiesen.",
+          "ru": "В балансе рентабельность активов отражается в разделе «Активы»."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die Gesamtkapitalrentabilität eine entscheidende Rolle.",
+          "ru": "Рентабельность капитала играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Na ja, ohne die Gesamtkapitalrentabilität können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без рентабельности активов мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens die Gesamtkapitalrentabilität komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью обнулить рентабельность активов, что было очень сложно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Umsatzrentabilität, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Рентабельность продаж",
+      "translation_en": "Profitability of sales",
+      "examples": [
+        {
+          "de": "Im Controlling wird die Umsatzrentabilität monatlich überwacht.",
+          "ru": "В контроле ежемесячно контролируется рентабельность продаж."
+        },
+        {
+          "de": "Für die korrekte Buchung ist die Umsatzrentabilität unerlässlich.",
+          "ru": "Рентабельность продаж важна для правильного бронирования."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei der Umsatzrentabilität Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер с точки зрения рентабельности продаж."
+        },
+        {
+          "de": "Also die Umsatzrentabilität ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, рентабельность продаж невероятно важна для налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir die Umsatzrentabilität erst letzte Woche umgestellt.",
+          "ru": "В нашей компании буквально на прошлой неделе мы изменили рентабельность продаж.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Return on Investment, (ROI)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Возврат инвестиций",
+      "translation_en": "Return on investment",
+      "examples": [
+        {
+          "de": "Die Abweichungsanalyse hat bei dem Return on Investment Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении возврата инвестиций."
+        },
+        {
+          "de": "Der Buchhalter hat den Return on Investment sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно изучил рентабельность инвестиций."
+        },
+        {
+          "de": "Die Steuerberaterin hat den Return on Investment im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел рентабельность инвестиций в годовой финансовой отчетности."
+        },
+        {
+          "de": "In unserer Firma haben wir den Return on Investment erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили рентабельность инвестиций только на прошлой неделе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens den Return on Investment komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью сбросить рентабельность инвестиций, что было очень сложно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der operative Cashflow, die Cashflows",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "операционный денежный поток",
+      "translation_en": "operating cash flow",
+      "examples": [
+        {
+          "de": "Das Finanzamt hat den operative Cashflow beanstandet.",
+          "ru": "Налоговая инспекция возражала против операционного движения денежных средств."
+        },
+        {
+          "de": "Für die korrekte Buchung ist der operative Cashflow unerlässlich.",
+          "ru": "Операционный денежный поток необходим для правильного бухгалтерского учета."
+        },
+        {
+          "de": "Die Steuerberaterin hat den operative Cashflow im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел операционный денежный поток в годовой финансовой отчетности."
+        },
+        {
+          "de": "Ich musste letztens den operative Cashflow komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью перестраивать операционный денежный поток, что было очень сложно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne den operative Cashflow können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без операционного денежного потока мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der freie Cashflow, die Cashflows",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "свободный денежный поток",
+      "translation_en": "free cash flow",
+      "examples": [
+        {
+          "de": "Der Buchhalter hat den freie Cashflow sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно изучил свободное движение денежных средств."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit des freie Cashflow.",
+          "ru": "Аудитор подтвердил достоверность движения свободных денежных средств."
+        },
+        {
+          "de": "Im Controlling wird der freie Cashflow monatlich überwacht.",
+          "ru": "Свободное движение денежных средств контролируется ежемесячно в контроллинге."
+        },
+        {
+          "de": "Das mit dem freie Cashflow klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "После того, как мы внедрили SAP, свободный денежный поток теперь работает достаточно хорошо.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir den freie Cashflow erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы только на прошлой неделе конвертировали свободный денежный поток.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Netto-Cashflow, die Cashflows",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Чистый денежный поток",
+      "translation_en": "Net cash flow",
+      "examples": [
+        {
+          "de": "Im Controlling wird der Netto-Cashflow monatlich überwacht.",
+          "ru": "Чистый денежный поток ежемесячно отслеживается в контроле."
+        },
+        {
+          "de": "In der Bilanz wird der Netto-Cashflow unter den Aktiva ausgewiesen.",
+          "ru": "В балансе чистый денежный поток отражается в разделе «Активы»."
+        },
+        {
+          "de": "Für die korrekte Buchung ist der Netto-Cashflow unerlässlich.",
+          "ru": "Чистый денежный поток необходим для правильного учета."
+        },
+        {
+          "de": "Na ja, ohne den Netto-Cashflow können wir die Bilanz nicht freigeben.",
+          "ru": "Что ж, без чистого денежного потока мы не сможем опубликовать баланс.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir den Netto-Cashflow erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили чистый денежный поток только на прошлой неделе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Brutto-Cashflow, die Cashflows",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Валовой денежный поток",
+      "translation_en": "Gross cash flow",
+      "examples": [
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit des Brutto-Cashflow.",
+          "ru": "Аудитор подтвердил достоверность валового денежного потока."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei dem Brutto-Cashflow Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении валового денежного потока."
+        },
+        {
+          "de": "Im Controlling wird der Brutto-Cashflow monatlich überwacht.",
+          "ru": "Валовый денежный поток ежемесячно отслеживается в контроллинге."
+        },
+        {
+          "de": "Das mit dem Brutto-Cashflow klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Валовой денежный поток теперь работает довольно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne den Brutto-Cashflow können wir die Bilanz nicht freigeben.",
+          "ru": "Что ж, без валового денежного потока мы не сможем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Kapitalfluss, die Kapitalflüsse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Движение капитала",
+      "translation_en": "Capital flow",
+      "examples": [
+        {
+          "de": "Der Buchhalter hat den Kapitalfluss sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно изучил движение денежных средств."
+        },
+        {
+          "de": "Die Steuerberaterin hat den Kapitalfluss im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел движение капитала в годовой финансовой отчетности."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei dem Kapitalfluss Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении движения капитала."
+        },
+        {
+          "de": "Ich musste letztens den Kapitalfluss komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью перезапустить движение капитала, что было очень сложно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir den Kapitalfluss erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили поток капитала только на прошлой неделе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kapitalflussrechnung, die Rechnungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Отчет о движении денежных средств",
+      "translation_en": "Cash flow statement",
+      "examples": [
+        {
+          "de": "Für die korrekte Buchung ist die Kapitalflussrechnung unerlässlich.",
+          "ru": "Отчет о движении денежных средств необходим для правильной проводки."
+        },
+        {
+          "de": "In der Bilanz wird die Kapitalflussrechnung unter den Aktiva ausgewiesen.",
+          "ru": "Отчет о движении денежных средств отображается в разделе «Активы» баланса."
+        },
+        {
+          "de": "die Kapitalflussrechnung muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "отчет о движении денежных средств должен быть отражен в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Das mit der Kapitalflussrechnung klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Отчет о движении денежных средств теперь работает достаточно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Kapitalflussrechnung können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без отчета о движении денежных средств мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Liquiditätskennzahl, die Kennzahlen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Коэффициент ликвидности",
+      "translation_en": "Liquidity ratio",
+      "examples": [
+        {
+          "de": "Der Buchhalter hat die Liquiditätskennzahl sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно проверил коэффициент ликвидности."
+        },
+        {
+          "de": "In der Bilanz wird die Liquiditätskennzahl unter den Aktiva ausgewiesen.",
+          "ru": "Коэффициент ликвидности отображается в составе активов баланса."
+        },
+        {
+          "de": "Das Finanzamt hat die Liquiditätskennzahl beanstandet.",
+          "ru": "Налоговая инспекция возражала против норматива ликвидности."
+        },
+        {
+          "de": "Das mit der Liquiditätskennzahl klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Коэффициент ликвидности теперь работает достаточно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens die Liquiditätskennzahl komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью сбросить коэффициент ликвидности, что было очень утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Liquidität 1. Grades, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Ликвидность первой степени",
+      "translation_en": "Liquidity of the first degree",
+      "examples": [
+        {
+          "de": "die Liquidität 1. Grades muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "Ликвидность первой степени должна отражаться в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Liquidität 1. Grades.",
+          "ru": "Аудитор подтвердил достоверность ликвидности первой степени."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die Liquidität 1. Grades eine entscheidende Rolle.",
+          "ru": "Ликвидность первой степени играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Das mit der Liquidität 1. Grades klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "После того, как мы внедрили SAP, ликвидность первой степени теперь работает достаточно хорошо.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Liquidität 1. Grades ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, ликвидность первой степени невероятно важна для налоговых деклараций.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Liquidität 2. Grades, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Ликвидность 2-й степени",
+      "translation_en": "Liquidity of the 2nd degree",
+      "examples": [
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Liquidität 2. Grades.",
+          "ru": "Аудитор подтвердил достоверность второй степени ликвидности."
+        },
+        {
+          "de": "In der Bilanz wird die Liquidität 2. Grades unter den Aktiva ausgewiesen.",
+          "ru": "В балансе ликвидность второй степени отражается в составе активов."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die Liquidität 2. Grades eine entscheidende Rolle.",
+          "ru": "Ликвидность второй степени играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Also die Liquidität 2. Grades ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, ликвидность второй степени невероятно важна для налоговых деклараций.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Liquidität 2. Grades klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "После того, как мы внедрили SAP, ликвидность второй степени теперь работает достаточно хорошо.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Liquidität 3. Grades, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Третья степень ликвидности",
+      "translation_en": "Third degree liquidity",
+      "examples": [
+        {
+          "de": "Der Buchhalter hat die Liquidität 3. Grades sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно проверил ликвидность третьей степени."
+        },
+        {
+          "de": "Im Controlling wird die Liquidität 3. Grades monatlich überwacht.",
+          "ru": "Ликвидность третьей степени контролируется ежемесячно в контроллинге."
+        },
+        {
+          "de": "Für die korrekte Buchung ist die Liquidität 3. Grades unerlässlich.",
+          "ru": "Ликвидность третьей степени необходима для правильного резервирования."
+        },
+        {
+          "de": "Das mit der Liquidität 3. Grades klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Ликвидность третьей степени теперь работает достаточно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Liquidität 3. Grades können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без ликвидности третьей степени мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Working Capital, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Оборотный капитал",
+      "translation_en": "Working capital",
+      "examples": [
+        {
+          "de": "In der Bilanz wird das Working Capital unter den Aktiva ausgewiesen.",
+          "ru": "Оборотный капитал отражается в составе активов в балансе."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit des Working Capital.",
+          "ru": "Аудитор подтвердил достоверность оборотного капитала."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt das Working Capital eine entscheidende Rolle.",
+          "ru": "Оборотный капитал играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Das mit dem Working Capital klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Оборотный капитал теперь работает достаточно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne das Working Capital können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без оборотного капитала мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Net Working Capital, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Чистый оборотный капитал",
+      "translation_en": "Net working capital",
+      "examples": [
+        {
+          "de": "das Net Working Capital muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "Чистый оборотный капитал должен отражаться в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "In der Bilanz wird das Net Working Capital unter den Aktiva ausgewiesen.",
+          "ru": "Чистый оборотный капитал отражается в составе активов баланса."
+        },
+        {
+          "de": "Das Finanzamt hat das Net Working Capital beanstandet.",
+          "ru": "Налоговая инспекция возражала против чистого оборотного капитала."
+        },
+        {
+          "de": "In unserer Firma haben wir das Net Working Capital erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили чистый оборотный капитал только на прошлой неделе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne das Net Working Capital können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без чистого оборотного капитала мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Verschuldungsgrad, die Grade",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Коэффициент долга",
+      "translation_en": "Debt ratio",
+      "examples": [
+        {
+          "de": "Der Buchhalter hat den Verschuldungsgrad sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно проверил соотношение долга."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt der Verschuldungsgrad eine entscheidende Rolle.",
+          "ru": "Коэффициент задолженности играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei dem Verschuldungsgrad Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении уровня долга."
+        },
+        {
+          "de": "Also der Verschuldungsgrad ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, уровень долга невероятно важен для налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens den Verschuldungsgrad komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью сбросить коэффициент долга, что было очень сложно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Eigenkapitalquote, die Quoten",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Коэффициент собственного капитала",
+      "translation_en": "Equity ratio",
+      "examples": [
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Eigenkapitalquote.",
+          "ru": "Аудитор подтвердил правильность соотношения собственного капитала."
+        },
+        {
+          "de": "Der Buchhalter hat die Eigenkapitalquote sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно изучил соотношение собственного капитала."
+        },
+        {
+          "de": "die Eigenkapitalquote muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "соотношение собственного капитала должно отражаться в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Das mit der Eigenkapitalquote klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "После того, как мы внедрили SAP, коэффициент собственного капитала теперь работает довольно хорошо.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens die Eigenkapitalquote komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью сбросить коэффициент собственного капитала, что было очень сложно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Fremdkapitalquote, die Quoten",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Коэффициент долга",
+      "translation_en": "Debt ratio",
+      "examples": [
+        {
+          "de": "Bei der Kostenrechnung spielt die Fremdkapitalquote eine entscheidende Rolle.",
+          "ru": "Коэффициент задолженности играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Der Buchhalter hat die Fremdkapitalquote sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно проверил соотношение долга."
+        },
+        {
+          "de": "Die Steuerberaterin hat die Fremdkapitalquote im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел коэффициент заемного капитала в годовой финансовой отчетности."
+        },
+        {
+          "de": "In unserer Firma haben wir die Fremdkapitalquote erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили соотношение долга только на прошлой неделе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Fremdkapitalquote können wir die Bilanz nicht freigeben.",
+          "ru": "Что ж, без коэффициента задолженности мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Anlagendeckung, die Anlagendeckungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Покрытие объекта",
+      "translation_en": "Facility coverage",
+      "examples": [
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Anlagendeckung.",
+          "ru": "Аудитор подтвердил достоверность покрытия активов."
+        },
+        {
+          "de": "Der Buchhalter hat die Anlagendeckung sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно проверил покрытие активов."
+        },
+        {
+          "de": "In der Bilanz wird die Anlagendeckung unter den Aktiva ausgewiesen.",
+          "ru": "В балансе покрытие активов отображается в разделе «Активы»."
+        },
+        {
+          "de": "Also die Anlagendeckung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, покрытие активов невероятно важно для налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Anlagendeckung können wir die Bilanz nicht freigeben.",
+          "ru": "Что ж, без покрытия активов мы не сможем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die goldene Bilanzregel, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "золотое правило бухгалтерского учета",
+      "translation_en": "golden rule of accounting",
+      "examples": [
+        {
+          "de": "Das Finanzamt hat die goldene Bilanzregel beanstandet.",
+          "ru": "Налоговая инспекция выступила против золотого правила бухгалтерского учета."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die goldene Bilanzregel eine entscheidende Rolle.",
+          "ru": "Золотое правило бухгалтерского учета играет решающую роль в учете затрат."
+        },
+        {
+          "de": "In der Bilanz wird die goldene Bilanzregel unter den Aktiva ausgewiesen.",
+          "ru": "Золотое правило бухгалтерского учета отражено в разделе «Активы баланса»."
+        },
+        {
+          "de": "Ich musste letztens die goldene Bilanzregel komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью переделать золотое правило бухгалтерского учета, что было очень сложно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die goldene Bilanzregel ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, золотое правило бухгалтерского учета невероятно важно для налоговых деклараций.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die goldene Bankregel, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Золотое банковское правило",
+      "translation_en": "golden banking rule",
+      "examples": [
+        {
+          "de": "Die Abweichungsanalyse hat bei der goldene Bankregel Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении золотого банковского правила."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der goldene Bankregel.",
+          "ru": "Аудитор подтвердил правильность золотого банковского правила."
+        },
+        {
+          "de": "Der Buchhalter hat die goldene Bankregel sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно изучил золотое правило банковского дела."
+        },
+        {
+          "de": "Na ja, ohne die goldene Bankregel können wir die Bilanz nicht freigeben.",
+          "ru": "Что ж, без золотого правила банковского дела мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir die goldene Bankregel erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили золотое правило банковского дела только на прошлой неделе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Umschlagshäufigkeit, die Häufigkeiten",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Скорость оборота",
+      "translation_en": "Turnover rate",
+      "examples": [
+        {
+          "de": "Für die korrekte Buchung ist die Umschlagshäufigkeit unerlässlich.",
+          "ru": "Скорость оборота важна для правильного бронирования."
+        },
+        {
+          "de": "Das Finanzamt hat die Umschlagshäufigkeit beanstandet.",
+          "ru": "Налоговая инспекция возражала против нормы оборота."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei der Umschlagshäufigkeit Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении уровня текучести кадров."
+        },
+        {
+          "de": "In unserer Firma haben wir die Umschlagshäufigkeit erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили текучесть кадров только на прошлой неделе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Umschlagshäufigkeit können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без коэффициента оборачиваемости мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Umschlagdauer, die Dauern",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Время выполнения заказа",
+      "translation_en": "Turnaround time",
+      "examples": [
+        {
+          "de": "Das Finanzamt hat die Umschlagdauer beanstandet.",
+          "ru": "Налоговая инспекция возражала против такого срока."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei der Umschlagdauer Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении сроков выполнения работ."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Umschlagdauer.",
+          "ru": "Аудитор подтвердил правильность времени оборота."
+        },
+        {
+          "de": "Ich musste letztens die Umschlagdauer komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью настраивать время обработки с нуля, что было очень утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir die Umschlagdauer erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили время выполнения работ только на прошлой неделе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Debitorenlaufzeit, die Laufzeiten",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Срок дебиторской задолженности",
+      "translation_en": "Accounts receivable term",
+      "examples": [
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Debitorenlaufzeit.",
+          "ru": "Аудитор подтвердил правильность срока должника."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei der Debitorenlaufzeit Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении срока должника."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die Debitorenlaufzeit eine entscheidende Rolle.",
+          "ru": "Период дебиторской задолженности играет решающую роль в учете затрат."
+        },
+        {
+          "de": "In unserer Firma haben wir die Debitorenlaufzeit erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили срок дебиторской задолженности только на прошлой неделе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Debitorenlaufzeit klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "После того, как мы внедрили SAP, термин «должник» теперь работает достаточно хорошо.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kreditorenlaufzeit, die Laufzeiten",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Срок кредиторской задолженности",
+      "translation_en": "Accounts payable term",
+      "examples": [
+        {
+          "de": "Bei der Kostenrechnung spielt die Kreditorenlaufzeit eine entscheidende Rolle.",
+          "ru": "Срок кредитора играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Im Controlling wird die Kreditorenlaufzeit monatlich überwacht.",
+          "ru": "При контроллинге срок кредитора контролируется ежемесячно."
+        },
+        {
+          "de": "In der Bilanz wird die Kreditorenlaufzeit unter den Aktiva ausgewiesen.",
+          "ru": "Срок кредитора отображается в разделе «Активы» баланса."
+        },
+        {
+          "de": "Also die Kreditorenlaufzeit ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, срок кредитора невероятно важен для налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir die Kreditorenlaufzeit erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили срок кредиторской задолженности только на прошлой неделе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Lagerdauer, die Dauern",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Срок хранения",
+      "translation_en": "Storage period",
+      "examples": [
+        {
+          "de": "Das Finanzamt hat die Lagerdauer beanstandet.",
+          "ru": "Налоговая инспекция возражала против срока хранения."
+        },
+        {
+          "de": "Der Buchhalter hat die Lagerdauer sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно проверил срок хранения."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei der Lagerdauer Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении продолжительности хранения."
+        },
+        {
+          "de": "Also die Lagerdauer ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Срок хранения невероятно важен для налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Lagerdauer können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без срока хранения мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Lagerumschlag, die Umschläge",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "оборачиваемость запасов",
+      "translation_en": "inventory turnover",
+      "examples": [
+        {
+          "de": "Im Controlling wird der Lagerumschlag monatlich überwacht.",
+          "ru": "В контроллинге ежемесячно контролируется оборачиваемость запасов."
+        },
+        {
+          "de": "der Lagerumschlag muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "Оборачиваемость запасов должна отражаться в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Der Buchhalter hat den Lagerumschlag sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно проверил оборачиваемость запасов."
+        },
+        {
+          "de": "Also der Lagerumschlag ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, оборачиваемость запасов невероятно важна для налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir den Lagerumschlag erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили оборачиваемость запасов только на прошлой неделе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Außenfinanzierung, die Finanzierungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Внешнее финансирование",
+      "translation_en": "External financing",
+      "examples": [
+        {
+          "de": "In der Bilanz wird die Außenfinanzierung unter den Aktiva ausgewiesen.",
+          "ru": "Внешнее финансирование отражается в составе активов баланса."
+        },
+        {
+          "de": "Im Controlling wird die Außenfinanzierung monatlich überwacht.",
+          "ru": "Внешнее финансирование контролируется ежемесячно в контроле."
+        },
+        {
+          "de": "Für die korrekte Buchung ist die Außenfinanzierung unerlässlich.",
+          "ru": "Внешнее финансирование необходимо для правильного бронирования."
+        },
+        {
+          "de": "Ich musste letztens die Außenfinanzierung komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью реорганизовать внешнее финансирование, что было очень сложно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Außenfinanzierung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, внешнее финансирование невероятно важно для налоговых деклараций.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Innenfinanzierung, die Finanzierungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Внутреннее финансирование",
+      "translation_en": "Internal financing",
+      "examples": [
+        {
+          "de": "Der Buchhalter hat die Innenfinanzierung sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно изучил внутреннее финансирование."
+        },
+        {
+          "de": "Die Steuerberaterin hat die Innenfinanzierung im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел внутреннее финансирование в годовой финансовой отчетности."
+        },
+        {
+          "de": "In der Bilanz wird die Innenfinanzierung unter den Aktiva ausgewiesen.",
+          "ru": "Внутреннее финансирование отражается в составе активов баланса."
+        },
+        {
+          "de": "Also die Innenfinanzierung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, внутреннее финансирование невероятно важно для налоговых деклараций.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Innenfinanzierung können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без внутреннего финансирования мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Eigenfinanzierung, die Finanzierungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Самофинансирование",
+      "translation_en": "Self-financing",
+      "examples": [
+        {
+          "de": "Das Finanzamt hat die Eigenfinanzierung beanstandet.",
+          "ru": "Налоговая инспекция возражала против самофинансирования."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Eigenfinanzierung.",
+          "ru": "Аудитор подтвердил правильность хозрасчета."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei der Eigenfinanzierung Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении самофинансирования."
+        },
+        {
+          "de": "Also die Eigenfinanzierung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, самофинансирование невероятно важно для вашей налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Eigenfinanzierung können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без самофинансирования мы не можем выпустить баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Fremdfinanzierung, die Finanzierungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Долговое финансирование",
+      "translation_en": "Debt financing",
+      "examples": [
+        {
+          "de": "die Fremdfinanzierung muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "Заемное финансирование должно отражаться в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Fremdfinanzierung.",
+          "ru": "Аудитор подтвердил достоверность внешнего финансирования."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die Fremdfinanzierung eine entscheidende Rolle.",
+          "ru": "Внешнее финансирование играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Na ja, ohne die Fremdfinanzierung können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без долгового финансирования мы не сможем опубликовать баланс.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Fremdfinanzierung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, внешнее финансирование невероятно важно для вашей налоговой декларации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Selbstfinanzierung, die Finanzierungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Самофинансирование",
+      "translation_en": "Self-financing",
+      "examples": [
+        {
+          "de": "Das Finanzamt hat die Selbstfinanzierung beanstandet.",
+          "ru": "Налоговая инспекция возражала против самофинансирования."
+        },
+        {
+          "de": "In der Bilanz wird die Selbstfinanzierung unter den Aktiva ausgewiesen.",
+          "ru": "Самофинансирование отражается в составе активов баланса."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Selbstfinanzierung.",
+          "ru": "Аудитор подтвердил правильность хозрасчета."
+        },
+        {
+          "de": "In unserer Firma haben wir die Selbstfinanzierung erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы только на прошлой неделе перешли на самофинансирование.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Selbstfinanzierung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, самофинансирование невероятно важно для налоговых деклараций.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Finanzierung aus Abschreibungen, die Finanzierungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Финансирование за счет амортизации",
+      "translation_en": "Financing from depreciation",
+      "examples": [
+        {
+          "de": "Bei der Kostenrechnung spielt die Finanzierung aus Abschreibungen eine entscheidende Rolle.",
+          "ru": "Финансирование за счет амортизации играет решающую роль в учете затрат."
+        },
+        {
+          "de": "die Finanzierung aus Abschreibungen muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "финансирование за счет амортизации должно отражаться в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Die Steuerberaterin hat die Finanzierung aus Abschreibungen im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел финансирование за счет амортизации в годовой финансовой отчетности."
+        },
+        {
+          "de": "Na ja, ohne die Finanzierung aus Abschreibungen können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без финансирования от амортизации мы не сможем выпустить баланс.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Finanzierung aus Abschreibungen ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Финансирование за счет амортизации невероятно важно для налоговых деклараций.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Finanzierung aus Rückstellungen, die Finanzierungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Финансирование из резервов",
+      "translation_en": "Financing from provisions",
+      "examples": [
+        {
+          "de": "die Finanzierung aus Rückstellungen muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "Финансирование из резервов должно отражаться в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Im Controlling wird die Finanzierung aus Rückstellungen monatlich überwacht.",
+          "ru": "При контроллинге ежемесячно контролируется финансирование из резервов."
+        },
+        {
+          "de": "In der Bilanz wird die Finanzierung aus Rückstellungen unter den Aktiva ausgewiesen.",
+          "ru": "Финансирование из резервов отражается в балансе по статье «Активы»."
+        },
+        {
+          "de": "Also die Finanzierung aus Rückstellungen ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Финансирование из резервов невероятно важно для налоговых деклараций.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Finanzierung aus Rückstellungen klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Финансирование из резервов теперь работает достаточно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Beteiligungsfinanzierung, die Finanzierungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Долевое финансирование",
+      "translation_en": "Equity financing",
+      "examples": [
+        {
+          "de": "Der Buchhalter hat die Beteiligungsfinanzierung sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно изучил долевое финансирование."
+        },
+        {
+          "de": "Im Controlling wird die Beteiligungsfinanzierung monatlich überwacht.",
+          "ru": "При контроллинге ежемесячно контролируется долевое финансирование."
+        },
+        {
+          "de": "Das Finanzamt hat die Beteiligungsfinanzierung beanstandet.",
+          "ru": "Налоговая инспекция возражала против долевого финансирования."
+        },
+        {
+          "de": "In unserer Firma haben wir die Beteiligungsfinanzierung erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили финансирование акционерного капитала только на прошлой неделе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne die Beteiligungsfinanzierung können wir die Bilanz nicht freigeben.",
+          "ru": "Что ж, без долевого финансирования мы не сможем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Einlagenfinanzierung, die Finanzierungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Депозитное финансирование",
+      "translation_en": "Deposit financing",
+      "examples": [
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Einlagenfinanzierung.",
+          "ru": "Аудитор подтвердил правильность финансирования депозита."
+        },
+        {
+          "de": "Im Controlling wird die Einlagenfinanzierung monatlich überwacht.",
+          "ru": "При контроле финансирование депозитов контролируется на ежемесячной основе."
+        },
+        {
+          "de": "Der Buchhalter hat die Einlagenfinanzierung sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно изучил финансирование депозита."
+        },
+        {
+          "de": "Das mit der Einlagenfinanzierung klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "После того, как мы внедрили SAP, депозитное финансирование теперь работает достаточно хорошо.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Einlagenfinanzierung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, депозитное финансирование невероятно важно для налоговых деклараций.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kreditfinanzierung, die Finanzierungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Кредитное финансирование",
+      "translation_en": "Loan financing",
+      "examples": [
+        {
+          "de": "die Kreditfinanzierung muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "Кредитное финансирование должно отражаться в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Die Steuerberaterin hat die Kreditfinanzierung im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел кредитное финансирование в годовой финансовой отчетности."
+        },
+        {
+          "de": "In der Bilanz wird die Kreditfinanzierung unter den Aktiva ausgewiesen.",
+          "ru": "Кредитное финансирование отражается в составе активов баланса."
+        },
+        {
+          "de": "Das mit der Kreditfinanzierung klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Кредитное финансирование сейчас работает достаточно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Kreditfinanzierung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, кредитное финансирование невероятно важно для налоговых деклараций.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Mezzanine-Finanzierung, die Finanzierungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Мезонинное финансирование",
+      "translation_en": "Mezzanine financing",
+      "examples": [
+        {
+          "de": "Im Controlling wird die Mezzanine-Finanzierung monatlich überwacht.",
+          "ru": "Мезонинное финансирование контролируется ежемесячно в контроллинге."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Mezzanine-Finanzierung.",
+          "ru": "Аудитор подтвердил достоверность мезонинного финансирования."
+        },
+        {
+          "de": "Für die korrekte Buchung ist die Mezzanine-Finanzierung unerlässlich.",
+          "ru": "Мезонинное финансирование необходимо для правильного бронирования."
+        },
+        {
+          "de": "Na ja, ohne die Mezzanine-Finanzierung können wir die Bilanz nicht freigeben.",
+          "ru": "Что ж, без мезонинного финансирования мы не сможем опубликовать баланс.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Mezzanine-Finanzierung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, мезонинное финансирование невероятно важно для налоговых деклараций.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Mezzanine-Kapital, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Мезонин капитель",
+      "translation_en": "Mezzanine capital",
+      "examples": [
+        {
+          "de": "In der Bilanz wird das Mezzanine-Kapital unter den Aktiva ausgewiesen.",
+          "ru": "В балансе мезонинный капитал отражается в составе активов."
+        },
+        {
+          "de": "das Mezzanine-Kapital muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "мезонинный капитал должен быть отражен в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Der Buchhalter hat das Mezzanine-Kapital sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно осмотрел мезонинный капитал."
+        },
+        {
+          "de": "Also das Mezzanine-Kapital ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, мезонинный капитал невероятно важен для налоговых деклараций.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir das Mezzanine-Kapital erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы конвертировали мезонинный капитал только на прошлой неделе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Risikokapital, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Венчурный капитал",
+      "translation_en": "Venture capital",
+      "examples": [
+        {
+          "de": "Die Steuerberaterin hat das Risikokapital im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел рисковый капитал в годовой финансовой отчетности."
+        },
+        {
+          "de": "das Risikokapital muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "рисковый капитал должен отражаться в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Der Buchhalter hat das Risikokapital sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно изучил рисковый капитал."
+        },
+        {
+          "de": "Ich musste letztens das Risikokapital komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось снова полностью организовать венчурный капитал, что было очень сложно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Risikokapital klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Венчурный капитал теперь работает довольно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Wagniskapital, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Венчурный капитал",
+      "translation_en": "Venture capital",
+      "examples": [
+        {
+          "de": "Für die korrekte Buchung ist das Wagniskapital unerlässlich.",
+          "ru": "Венчурный капитал необходим для правильного бронирования."
+        },
+        {
+          "de": "Das Finanzamt hat das Wagniskapital beanstandet.",
+          "ru": "Налоговая служба возражала против венчурного капитала."
+        },
+        {
+          "de": "Der Buchhalter hat das Wagniskapital sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно изучил венчурный капитал."
+        },
+        {
+          "de": "Na ja, ohne das Wagniskapital können wir die Bilanz nicht freigeben.",
+          "ru": "Что ж, без венчурного капитала мы не сможем опубликовать баланс.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also das Wagniskapital ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, венчурный капитал невероятно важен для налоговых деклараций.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Venture-Capital-Geber, die Geber",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Венчурные капиталисты",
+      "translation_en": "Venture capitalists",
+      "examples": [
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit des Venture-Capital-Geber.",
+          "ru": "Аудитор подтвердил точность поставщика венчурного капитала."
+        },
+        {
+          "de": "Im Controlling wird der Venture-Capital-Geber monatlich überwacht.",
+          "ru": "Поставщик венчурного капитала контролируется ежемесячно."
+        },
+        {
+          "de": "Das Finanzamt hat den Venture-Capital-Geber beanstandet.",
+          "ru": "Налоговая инспекция пожаловалась на венчурного провайдера."
+        },
+        {
+          "de": "Also der Venture-Capital-Geber ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, венчурный капиталист невероятно важен для налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Venture-Capital-Geber klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Дела с венчурным капиталистом сейчас идут неплохо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Stammkapital, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Акционерный капитал",
+      "translation_en": "Share capital",
+      "examples": [
+        {
+          "de": "Die Abweichungsanalyse hat bei dem Stammkapital Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении уставного капитала."
+        },
+        {
+          "de": "Die Steuerberaterin hat das Stammkapital im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел уставный капитал в годовой финансовой отчетности."
+        },
+        {
+          "de": "Für die korrekte Buchung ist das Stammkapital unerlässlich.",
+          "ru": "Уставный капитал необходим для правильного бронирования."
+        },
+        {
+          "de": "Das mit dem Stammkapital klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "С акционерным капиталом сейчас дела обстоят достаточно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens das Stammkapital komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью восстанавливать уставный капитал, что было очень сложно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Grundkapital, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Акционерный капитал",
+      "translation_en": "Share capital",
+      "examples": [
+        {
+          "de": "Für die korrekte Buchung ist das Grundkapital unerlässlich.",
+          "ru": "Уставный капитал необходим для правильного бронирования."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit des Grundkapital.",
+          "ru": "Аудитор подтвердил правильность уставного капитала."
+        },
+        {
+          "de": "Der Buchhalter hat das Grundkapital sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно изучил уставный капитал."
+        },
+        {
+          "de": "Das mit dem Grundkapital klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Акционерный капитал теперь работает довольно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne das Grundkapital können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без акционерного капитала мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Aktiengesellschaft, (AG)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Публичная компания",
+      "translation_en": "Public company",
+      "examples": [
+        {
+          "de": "Der Buchhalter hat die Aktiengesellschaft sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно осмотрел акционерное общество."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei der Aktiengesellschaft Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в акционерной корпорации."
+        },
+        {
+          "de": "Im Controlling wird die Aktiengesellschaft monatlich überwacht.",
+          "ru": "Акционерное общество ежемесячно подвергается контролю."
+        },
+        {
+          "de": "Ich musste letztens die Aktiengesellschaft komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью перестраивать акционерную корпорацию, что было очень сложно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Aktiengesellschaft klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "После того, как мы внедрили SAP, дела с акционерной корпорацией сейчас идут довольно хорошо.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Gesellschaft mit beschränkter Haftung, (GmbH)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Общество с ограниченной ответственностью",
+      "translation_en": "Limited liability company",
+      "examples": [
+        {
+          "de": "Für die korrekte Buchung ist die Gesellschaft mit beschränkter Haftung unerlässlich.",
+          "ru": "Общество с ограниченной ответственностью имеет важное значение для правильного бронирования."
+        },
+        {
+          "de": "die Gesellschaft mit beschränkter Haftung muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "общество с ограниченной ответственностью должно быть зарегистрировано в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Das Finanzamt hat die Gesellschaft mit beschränkter Haftung beanstandet.",
+          "ru": "Налоговая инспекция возражала против создания общества с ограниченной ответственностью."
+        },
+        {
+          "de": "Das mit der Gesellschaft mit beschränkter Haftung klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "С обществом с ограниченной ответственностью дела сейчас идут достаточно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens die Gesellschaft mit beschränkter Haftung komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью создавать общество с ограниченной ответственностью с нуля, что было очень сложно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kommanditgesellschaft, (KG)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Товарищество с ограниченной ответственностью",
+      "translation_en": "Limited partnership",
+      "examples": [
+        {
+          "de": "Im Controlling wird die Kommanditgesellschaft monatlich überwacht.",
+          "ru": "Товарищество с ограниченной ответственностью ежемесячно контролируется в контроллинге."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die Kommanditgesellschaft eine entscheidende Rolle.",
+          "ru": "Товарищество с ограниченной ответственностью играет решающую роль в учете затрат."
+        },
+        {
+          "de": "die Kommanditgesellschaft muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "товарищество с ограниченной ответственностью должно быть зарегистрировано в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Das mit der Kommanditgesellschaft klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "После того, как мы внедрили SAP, дела с товариществом с ограниченной ответственностью теперь идут довольно хорошо.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir die Kommanditgesellschaft erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили товарищество с ограниченной ответственностью только на прошлой неделе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Offene Handelsgesellschaft, (OHG)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Полное товарищество",
+      "translation_en": "General partnership",
+      "examples": [
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Offene Handelsgesellschaft.",
+          "ru": "Аудитор подтвердил достоверность информации о полном товариществе."
+        },
+        {
+          "de": "die Offene Handelsgesellschaft muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "полное товарищество должно быть зарегистрировано в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die Offene Handelsgesellschaft eine entscheidende Rolle.",
+          "ru": "Полное товарищество играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Na ja, ohne die Offene Handelsgesellschaft können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без полного товарищества мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir die Offene Handelsgesellschaft erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили полное товарищество только на прошлой неделе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Gesellschaft bürgerlichen Rechts, (GbR)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Общество гражданского права",
+      "translation_en": "Civil law society",
+      "examples": [
+        {
+          "de": "Bei der Kostenrechnung spielt die Gesellschaft bürgerlichen Rechts eine entscheidende Rolle.",
+          "ru": "Гражданско-правовая компания играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Der Buchhalter hat die Gesellschaft bürgerlichen Rechts sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно осмотрел гражданско-правовую компанию."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Gesellschaft bürgerlichen Rechts.",
+          "ru": "Аудитор подтвердил правоту гражданско-правового товарищества."
+        },
+        {
+          "de": "Also die Gesellschaft bürgerlichen Rechts ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, компания по гражданскому праву невероятно важна для налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir die Gesellschaft bürgerlichen Rechts erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы только на прошлой неделе поменяли гражданско-правовое товарищество.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Komplementär, die Komplementäre",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Дополнительный",
+      "translation_en": "Complementary",
+      "examples": [
+        {
+          "de": "In der Bilanz wird der Komplementär unter den Aktiva ausgewiesen.",
+          "ru": "Генеральный партнер отображается в составе активов в балансе."
+        },
+        {
+          "de": "Für die korrekte Buchung ist der Komplementär unerlässlich.",
+          "ru": "Генеральный партнер необходим для правильного бронирования."
+        },
+        {
+          "de": "Das Finanzamt hat den Komplementär beanstandet.",
+          "ru": "Налоговая инспекция возражала против генерального партнера."
+        },
+        {
+          "de": "In unserer Firma haben wir den Komplementär erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы только на прошлой неделе сменили генерального партнера.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Komplementär klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "С генеральным партнером сейчас дела идут неплохо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Kommanditist, die Kommanditisten",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "партнер с ограниченной ответственностью",
+      "translation_en": "limited partner",
+      "examples": [
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit des Kommanditist.",
+          "ru": "Аудитор подтвердил достоверность информации коммандитиста."
+        },
+        {
+          "de": "Im Controlling wird der Kommanditist monatlich überwacht.",
+          "ru": "Партнер с ограниченной ответственностью ежемесячно проверяется в контроллинге."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei dem Kommanditist Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер со стороны партнера с ограниченной ответственностью."
+        },
+        {
+          "de": "In unserer Firma haben wir den Kommanditist erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы только на прошлой неделе поменяли партнера с ограниченной ответственностью.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, ohne den Kommanditist können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без партнера с ограниченной ответственностью мы не сможем опубликовать баланс.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Gesellschafter, die Gesellschafter",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "акционер",
+      "translation_en": "shareholder",
+      "examples": [
+        {
+          "de": "der Gesellschafter muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "акционер должен быть зарегистрирован в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Der Buchhalter hat den Gesellschafter sorgfältig geprüft.",
+          "ru": "Бухгалтер тщательно проверил партнера."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt der Gesellschafter eine entscheidende Rolle.",
+          "ru": "Акционер играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Also der Gesellschafter ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, акционер невероятно важен для налоговой декларации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In unserer Firma haben wir den Gesellschafter erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы поменяли акционера только на прошлой неделе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Gesellschafterbeschluss, die Beschlüsse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Решение акционеров",
+      "translation_en": "Shareholder resolution",
+      "examples": [
+        {
+          "de": "Im Controlling wird der Gesellschafterbeschluss monatlich überwacht.",
+          "ru": "При контроле решения акционеров отслеживаются ежемесячно."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt der Gesellschafterbeschluss eine entscheidende Rolle.",
+          "ru": "Решение акционеров играет решающую роль в учете затрат."
+        },
+        {
+          "de": "der Gesellschafterbeschluss muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "Решение акционеров должно быть зафиксировано в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Das mit dem Gesellschafterbeschluss klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Решение акционеров теперь работает достаточно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste letztens den Gesellschafterbeschluss komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью переработать решение акционеров, что было очень сложно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Gesellschaftervertrag, die Verträge",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Акционерное соглашение",
+      "translation_en": "Shareholder agreement",
+      "examples": [
+        {
+          "de": "Die Abweichungsanalyse hat bei dem Gesellschaftervertrag Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в акционерном соглашении."
+        },
+        {
+          "de": "der Gesellschaftervertrag muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "соглашение акционеров должно быть отражено в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Die Steuerberaterin hat den Gesellschaftervertrag im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел соглашение акционеров в годовой финансовой отчетности."
+        },
+        {
+          "de": "Na ja, ohne den Gesellschaftervertrag können wir die Bilanz nicht freigeben.",
+          "ru": "Ну, без согласия акционеров мы не можем опубликовать баланс.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Gesellschaftervertrag klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "После того, как мы внедрили SAP, акционерное соглашение теперь работает достаточно хорошо.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Gesellschafterversammlung, die Versammlungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Собрание акционеров",
+      "translation_en": "Shareholders' meeting",
+      "examples": [
+        {
+          "de": "Im Controlling wird die Gesellschafterversammlung monatlich überwacht.",
+          "ru": "При контроле собрание акционеров контролируется ежемесячно."
+        },
+        {
+          "de": "Bei der Kostenrechnung spielt die Gesellschafterversammlung eine entscheidende Rolle.",
+          "ru": "Собрание акционеров играет решающую роль в учете затрат."
+        },
+        {
+          "de": "Die Steuerberaterin hat die Gesellschafterversammlung im Jahresabschluss berücksichtigt.",
+          "ru": "Налоговый консультант учел собрание акционеров в годовой финансовой отчетности."
+        },
+        {
+          "de": "Ich musste letztens die Gesellschafterversammlung komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью реорганизовать собрание акционеров, что было очень сложно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Gesellschafterversammlung ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Собрание акционеров невероятно важно для налоговой декларации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Gesellschaftsanteil, die Anteile",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Доля компании",
+      "translation_en": "Company share",
+      "examples": [
+        {
+          "de": "Der Buchhalter hat den Gesellschaftsanteil sorgfältig geprüft.",
+          "ru": "Бухгалтер внимательно изучил долю в компании."
+        },
+        {
+          "de": "Die Abweichungsanalyse hat bei dem Gesellschaftsanteil Handlungsbedarf ergeben.",
+          "ru": "Анализ отклонений выявил необходимость принятия мер в отношении доли в компании."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit des Gesellschaftsanteil.",
+          "ru": "Аудитор подтвердил достоверность доли компании."
+        },
+        {
+          "de": "In unserer Firma haben wir den Gesellschaftsanteil erst letzte Woche umgestellt.",
+          "ru": "В нашей компании мы изменили пакет акций только на прошлой неделе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Gesellschaftsanteil klappt inzwischen ganz gut, nachdem wir SAP eingeführt haben.",
+          "ru": "Доля компании сейчас работает достаточно хорошо после того, как мы внедрили SAP.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Einlage, die Einlagen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "вставлять",
+      "translation_en": "insert",
+      "examples": [
+        {
+          "de": "die Einlage muss gemäß den IFRS-Standards erfasst werden.",
+          "ru": "депозит должен быть отражен в соответствии со стандартами МСФО."
+        },
+        {
+          "de": "Für die korrekte Buchung ist die Einlage unerlässlich.",
+          "ru": "Залог необходим для правильного бронирования."
+        },
+        {
+          "de": "Der Wirtschaftsprüfer bestätigte die Richtigkeit der Einlage.",
+          "ru": "Аудитор подтвердил достоверность депозита."
+        },
+        {
+          "de": "Ich musste letztens die Einlage komplett neu aufsetzen, das war echt mühsam.",
+          "ru": "Недавно мне пришлось полностью снова надеть стельку, что было очень сложно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also die Einlage ist für die Steuererklärung unheimlich wichtig.",
+          "ru": "Таким образом, депозит невероятно важен для налоговой декларации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
     }
   ]
 }

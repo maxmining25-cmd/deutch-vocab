@@ -29,7 +29,11 @@
           "ru": "Успешная приемка — важная веха для нас."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Ablehnung, die Ablehnungen",
+        "die Verweigerung, die Verweigerungen"
+      ]
     },
     {
       "word": "der Abschluss, die Abschlüsse",
@@ -59,7 +63,12 @@
           "ru": "Своевременное завершение экономит компании много ресурсов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Anfang, die Anfänge",
+        "der Beginn, die Beginne",
+        "der Start, die Starts"
+      ]
     },
     {
       "word": "die Freigabe, die Freigaben",
@@ -89,7 +98,11 @@
           "ru": "Утверждение задерживается из-за технических проблем."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Sperre, die Sperren",
+        "die Blockierung, die Blockierungen"
+      ]
     },
     {
       "word": "die Qualitätssicherung, die Qualitätssicherungen",
@@ -119,7 +132,8 @@
           "ru": "Стандарты обеспечения качества должны строго соблюдаться."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Fortschritt, die Fortschritte",
@@ -149,7 +163,11 @@
           "ru": "Этот инструмент помогает нам визуализировать прогресс всех задач."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Rückschritt, die Rückschritte",
+        "die Stagnation, die Stagnationen"
+      ]
     },
     {
       "word": "der Rückblick, die Rückblicke",
@@ -179,7 +197,11 @@
           "ru": "Обзор показал, что коммуникацию в команде необходимо улучшить."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Ausblick, die Ausblicke",
+        "die Vorschau, die Vorschauen"
+      ]
     },
     {
       "word": "der Testlauf, die Testläufe",
@@ -209,7 +231,11 @@
           "ru": "Система выдержала тестовый запуск под полной нагрузкой."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Echtlauf, die Echtläufe",
+        "der Live-Betrieb, die Live-Betriebe"
+      ]
     },
     {
       "word": "die Lieferung, die Lieferungen",
@@ -239,7 +265,11 @@
           "ru": "Нам нужно ускорить сдачу результатов тестирования."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Erhalt, (nur Sg.)",
+        "die Abnahme, die Abnahmen"
+      ]
     },
     {
       "word": "das Protokoll, die Protokolle",
@@ -269,7 +299,8 @@
           "ru": "Согласно протоколу, мы договорились о продлении срока."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Abweichung, die Abweichungen",
@@ -299,7 +330,10 @@
           "ru": "Мы должны принять контрмеры, чтобы минимизировать отклонение."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Übereinstimmung, die Übereinstimmungen"
+      ]
     },
     {
       "word": "der Mangel, die Mängel",
@@ -329,7 +363,12 @@
           "ru": "После исправления новые дефекты не появились."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Fülle, (nur Sg.)",
+        "der Überschuss, die Überschüsse",
+        "die Mängelfreiheit, (nur Sg.)"
+      ]
     },
     {
       "word": "die Fehlerbehebung, die Fehlerbehebungen",
@@ -359,7 +398,11 @@
           "ru": "Расходы на устранение ошибок неожиданно выросли."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Fehlerentstehung, die Fehlerentstehungen",
+        "die Fehlerverursachung, die Fehlerverursachungen"
+      ]
     },
     {
       "word": "die Überwachung, die Überwachungen",
@@ -389,7 +432,10 @@
           "ru": "Тесный мониторинг рисков важен на этом этапе."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Vernachlässigung, die Vernachlässigungen"
+      ]
     },
     {
       "word": "die Leistung, die Leistungen",
@@ -419,7 +465,11 @@
           "ru": "Производительность можно повысить с помощью более качественных инструментов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Minderleistung, die Minderleistungen",
+        "das Versagen, (nur Sg.)"
+      ]
     },
     {
       "word": "der Ist-Zustand, die Ist-Zustände",
@@ -458,6 +508,9 @@
         "Ausgangslage",
         "Ist-Situation",
         "Status quo"
+      ],
+      "antonyms": [
+        "der Soll-Zustand, die Soll-Zustände"
       ]
     },
     {
@@ -497,6 +550,9 @@
         "Zielzustand",
         "Soll-Situation",
         "Soll-Vorgabe"
+      ],
+      "antonyms": [
+        "der Ist-Zustand, die Ist-Zustände"
       ]
     },
     {
@@ -527,7 +583,11 @@
           "ru": "Промежуточный обзор показал, что нам необходимо скорректировать бюджет."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Schlussbilanz, die Schlussbilanzen",
+        "die Endbilanz, die Endbilanzen"
+      ]
     },
     {
       "word": "das Feedback, die Feedbacks",
@@ -557,7 +617,8 @@
           "ru": "Мы должны быстро внедрить отзывы заинтересованных сторон."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Übergabe, die Übergaben",
@@ -592,7 +653,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Übernahme, die Übernahmen"
+      ]
     },
     {
       "word": "das Kriterium, die Kriterien",
@@ -622,7 +686,8 @@
           "ru": "Все критерии Definition of Done были выполнены."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Nacharbeit, die Nacharbeiten",
@@ -652,7 +717,8 @@
           "ru": "После доработки клиент остался доволен результатом."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Prüfbericht, die Prüfberichte",
@@ -682,7 +748,8 @@
           "ru": "Внешний отчет о проверке подтверждает высокое качество системы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Freigabeerklärung, die Freigabeerklärungen",
@@ -712,7 +779,8 @@
           "ru": "Вы прислали нам декларацию о выпуске вчера по электронной почте."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Endabnahme, die Endabnahmen",
@@ -742,7 +810,11 @@
           "ru": "После финальной приемки выставляется окончательный счет."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Erstabnahme, die Erstabnahmen",
+        "die Zwischenabnahme, die Zwischenabnahmen"
+      ]
     },
     {
       "word": "der Meilenstein, die Meilensteine",
@@ -781,7 +853,8 @@
         "Etappenziel",
         "Zwischenziel",
         "Kontrollpunkt"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "die Auswertung, die Auswertungen",
@@ -811,7 +884,8 @@
           "ru": "Кто в команде возьмет на себя анализ данных опроса?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Fehlerquote, die Fehlerquoten",
@@ -841,7 +915,10 @@
           "ru": "Благодаря автоматизированным тестам мы смогли снизить процент ошибок."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Erfolgsquote, die Erfolgsquoten"
+      ]
     },
     {
       "word": "das Abnahmeprotokoll, die Abnahmeprotokolle",
@@ -871,7 +948,8 @@
           "ru": "Акт приемки содержит список всех устраненных недостатков."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Projektabschlussbericht, die Projektabschlussberichte",
@@ -901,7 +979,10 @@
           "ru": "Кто пишет итоговый отчет для этого проекта?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Projektinitiierungsbericht, die Projektinitiierungsberichte"
+      ]
     },
     {
       "word": "abschließen",
@@ -944,6 +1025,11 @@
       },
       "prepositions": [
         "mit + Dativ (с чем-то)"
+      ],
+      "antonyms": [
+        "anfangen",
+        "beginnen",
+        "starten"
       ]
     },
     {
@@ -987,6 +1073,10 @@
       },
       "prepositions": [
         "von + Dativ (у кого-то / от кого-то)"
+      ],
+      "antonyms": [
+        "ablehnen",
+        "zurückweisen"
       ]
     },
     {
@@ -1030,6 +1120,10 @@
       },
       "prepositions": [
         "für + Akkusativ (для чего-то)"
+      ],
+      "antonyms": [
+        "sperren",
+        "blockieren"
       ]
     },
     {
@@ -1071,7 +1165,11 @@
         "ihr": "überwacht",
         "sie/Sie": "überwachen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "vernachlässigen",
+        "ignorieren"
+      ]
     },
     {
       "word": "überprüfen",
@@ -1114,7 +1212,8 @@
       },
       "prepositions": [
         "auf + Akkusativ (на предмет чего-то)"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "testen",
@@ -1157,7 +1256,8 @@
       },
       "prepositions": [
         "auf + Akkusativ (на предмет чего-то)"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "verbessern",
@@ -1198,7 +1298,11 @@
         "ihr": "verbessert",
         "sie/Sie": "verbessern"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "verschlechtern",
+        "beeinträchtigen"
+      ]
     },
     {
       "word": "optimieren",
@@ -1239,7 +1343,11 @@
         "ihr": "optimiert",
         "sie/Sie": "optimieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "verschlechtern",
+        "deoptimieren"
+      ]
     },
     {
       "word": "dokumentieren",
@@ -1280,7 +1388,8 @@
         "ihr": "dokumentiert",
         "sie/Sie": "dokumentieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "abweichen",
@@ -1323,6 +1432,10 @@
       },
       "prepositions": [
         "von + Dativ (от чего-то)"
+      ],
+      "antonyms": [
+        "übereinstimmen",
+        "gleichen"
       ]
     },
     {
@@ -1364,7 +1477,8 @@
         "ihr": "wertet aus",
         "sie/Sie": "werten aus"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "übergeben",
@@ -1407,6 +1521,10 @@
       },
       "prepositions": [
         "an + Akkusativ (кому-то)"
+      ],
+      "antonyms": [
+        "übernehmen",
+        "erhalten"
       ]
     },
     {
@@ -1448,7 +1566,11 @@
         "ihr": "korrigiert",
         "sie/Sie": "korrigieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "verfälschen",
+        "verschlechtern"
+      ]
     },
     {
       "word": "einhalten",
@@ -1494,7 +1616,12 @@
         "ihr": "haltet ein",
         "sie/Sie": "halten ein"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "verletzen",
+        "überschreiten",
+        "brechen"
+      ]
     },
     {
       "word": "gewährleisten",
@@ -1535,7 +1662,11 @@
         "ihr": "gewährleistet",
         "sie/Sie": "gewährleisten"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "gefährden",
+        "verhindern"
+      ]
     },
     {
       "word": "feststellen",
@@ -1576,7 +1707,11 @@
         "ihr": "feststellt",
         "sie/Sie": "feststellen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "übersehen",
+        "ignorieren"
+      ]
     },
     {
       "word": "erfolgreich",
@@ -1606,7 +1741,12 @@
           "ru": "Для успешного проекта решающее значение имеет хорошее планирование."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "erfolglos",
+        "gescheitert",
+        "misslungen"
+      ]
     },
     {
       "word": "mangelhaft",
@@ -1636,7 +1776,12 @@
           "ru": "Продукт имеет несколько дефектных деталей."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "fehlerfrei",
+        "mängelfrei",
+        "hervorragend"
+      ]
     },
     {
       "word": "qualitätsbewusst",
@@ -1666,7 +1811,11 @@
           "ru": "Благодаря ориентированному на качество тестированию мы избегаем ошибок у клиента."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "nachlässig",
+        "gleichgültig"
+      ]
     },
     {
       "word": "vollständig",
@@ -1696,7 +1845,12 @@
           "ru": "Полная проверка всех функций занимает два дня."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unvollständig",
+        "lückenhaft",
+        "partiell"
+      ]
     },
     {
       "word": "fehlerfrei",
@@ -1726,7 +1880,2388 @@
           "ru": "Отсутствие ошибок в документации облегчает передачу проекта."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "fehlerhaft",
+        "fehlerbehaftet",
+        "mangelhaft"
+      ]
+    },
+    {
+      "word": "auditieren",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "аудит",
+      "translation_en": "audit",
+      "examples": [
+        {
+          "de": "Das Team konnte die Aufgabe erfolgreich auditieren.",
+          "ru": "Команда смогла успешно провести аудит задачи."
+        },
+        {
+          "de": "Es ist wichtig, alle Stakeholder frühzeitig zu auditieren.",
+          "ru": "Важно провести аудит всех заинтересованных сторон на раннем этапе."
+        },
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu auditieren.",
+          "ru": "Менеджер проекта рекомендовал провести аудит графика."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu auditieren.",
+          "ru": "Я сам недавно испытал это, когда пытался одитировать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich auditieren.",
+          "ru": "Мой начальник всегда советует провести аудит как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "reviewen",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "обзор",
+      "translation_en": "review",
+      "examples": [
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu reviewen.",
+          "ru": "На спринтерском совещании было решено пересмотреть приоритеты."
+        },
+        {
+          "de": "Der Lenkungsausschuss hat die Entscheidung getroffen, das Budget zu reviewen.",
+          "ru": "Руководящий комитет принял решение пересмотреть бюджет."
+        },
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu reviewen.",
+          "ru": "Мы решили еще раз пересмотреть требования."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich reviewen.",
+          "ru": "Мой начальник всегда советует просмотреть это как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu reviewen.",
+          "ru": "Недавно я сам испытал это, когда пытался сделать обзор.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "messen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "мера",
+      "translation_en": "measure",
+      "examples": [
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig messen.",
+          "ru": "Менеджер проекта должен своевременно оценивать риски."
+        },
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu messen.",
+          "ru": "На спринтерском совещании было решено оценить приоритеты."
+        },
+        {
+          "de": "Das Team konnte die Aufgabe erfolgreich messen.",
+          "ru": "Команда смогла успешно выполнить поставленную задачу."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig messen.",
+          "ru": "Да, действительно надо быть внимательным и правильно измерять.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu messen, aber machbar.",
+          "ru": "Что ж, иногда это не так-то просто измерить, но это можно сделать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "festhalten",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "держаться",
+      "translation_en": "hold onto",
+      "examples": [
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig festhalten.",
+          "ru": "Менеджер проекта должен своевременно фиксировать риски."
+        },
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu festhalten.",
+          "ru": "На спринтерском совещании было решено расставить приоритеты."
+        },
+        {
+          "de": "Es ist wichtig, alle Stakeholder frühzeitig zu festhalten.",
+          "ru": "Важно охватить все заинтересованные стороны на раннем этапе."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu festhalten, aber machbar.",
+          "ru": "Что ж, иногда это не так-то просто определить, но это выполнимо.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu festhalten.",
+          "ru": "Я сам испытал это недавно, когда пытался держаться.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "aufzeichnen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "записывать",
+      "translation_en": "record",
+      "examples": [
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu aufzeichnen.",
+          "ru": "Менеджер проекта рекомендовал записать график."
+        },
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu aufzeichnen.",
+          "ru": "Мы решили снова записать требования."
+        },
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig aufzeichnen.",
+          "ru": "Менеджер проекта должен своевременно фиксировать риски."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich aufzeichnen.",
+          "ru": "Мой босс всегда советует записать это как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett aufzeichnen, das war anstrengend.",
+          "ru": "В конце концов нам пришлось записывать все заново, и это было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "kombinieren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "объединить",
+      "translation_en": "combine",
+      "examples": [
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig kombinieren.",
+          "ru": "Менеджер проекта должен своевременно объединить риски."
+        },
+        {
+          "de": "Es ist wichtig, alle Stakeholder frühzeitig zu kombinieren.",
+          "ru": "Важно на раннем этапе объединить все заинтересованные стороны."
+        },
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu kombinieren.",
+          "ru": "Руководитель проекта рекомендовал объединить графики."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich kombinieren.",
+          "ru": "Мой босс всегда советует объединить эти два дела как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett kombinieren, das war anstrengend.",
+          "ru": "В конце концов нам пришлось полностью все совмещать заново, что было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "zusammenführen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "слить",
+      "translation_en": "merge",
+      "examples": [
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu zusammenführen.",
+          "ru": "Менеджер проекта рекомендовал объединить график."
+        },
+        {
+          "de": "Es ist wichtig, alle Stakeholder frühzeitig zu zusammenführen.",
+          "ru": "Важно объединить все заинтересованные стороны на ранней стадии."
+        },
+        {
+          "de": "Um das Ziel zu erreichen, müssen wir den Prozess zusammenführen.",
+          "ru": "Для достижения цели нам необходимо объединить процессы."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu zusammenführen.",
+          "ru": "Недавно я сам испытал это при попытке слияния.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig zusammenführen.",
+          "ru": "Да, действительно надо быть внимательным и правильно собирать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "harmonisieren",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "гармонизировать",
+      "translation_en": "harmonize",
+      "examples": [
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu harmonisieren.",
+          "ru": "Руководитель проекта рекомендовал согласовать график."
+        },
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu harmonisieren.",
+          "ru": "На спринтерском совещании было решено согласовать приоритеты."
+        },
+        {
+          "de": "Der Lenkungsausschuss hat die Entscheidung getroffen, das Budget zu harmonisieren.",
+          "ru": "Оргкомитет принял решение согласовать бюджет."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu harmonisieren, aber machbar.",
+          "ru": "Что ж, иногда гармонизировать не так-то просто, но можно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett harmonisieren, das war anstrengend.",
+          "ru": "В итоге нам пришлось заново все полностью согласовывать, что было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "standardisieren",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "стандартизировать",
+      "translation_en": "standardize",
+      "examples": [
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu standardisieren.",
+          "ru": "Мы решили снова стандартизировать требования."
+        },
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu standardisieren.",
+          "ru": "На спринтерском совещании было решено стандартизировать приоритеты."
+        },
+        {
+          "de": "Das Team konnte die Aufgabe erfolgreich standardisieren.",
+          "ru": "Команде удалось успешно стандартизировать задачу."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu standardisieren, aber machbar.",
+          "ru": "Что ж, иногда стандартизировать не так-то просто, но это можно сделать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu standardisieren.",
+          "ru": "Недавно я сам испытал это, когда пытался стандартизировать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "etablieren",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "учреждать",
+      "translation_en": "establish",
+      "examples": [
+        {
+          "de": "Der Lenkungsausschuss hat die Entscheidung getroffen, das Budget zu etablieren.",
+          "ru": "Руководящий комитет принял решение утвердить бюджет."
+        },
+        {
+          "de": "Das Team konnte die Aufgabe erfolgreich etablieren.",
+          "ru": "Команда смогла успешно решить поставленную задачу."
+        },
+        {
+          "de": "Es ist wichtig, alle Stakeholder frühzeitig zu etablieren.",
+          "ru": "Важно заранее выявить всех заинтересованных сторон."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich etablieren.",
+          "ru": "Мой начальник всегда советует установить это как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu etablieren, aber machbar.",
+          "ru": "Что ж, иногда это не так просто установить, но можно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "umsetzen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "осуществлять",
+      "translation_en": "implement",
+      "examples": [
+        {
+          "de": "Um das Ziel zu erreichen, müssen wir den Prozess umsetzen.",
+          "ru": "Чтобы достичь цели, мы должны реализовать процесс."
+        },
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu umsetzen.",
+          "ru": "Мы решили снова реализовать требования."
+        },
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig umsetzen.",
+          "ru": "Менеджер проекта должен своевременно реализовать риски."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu umsetzen.",
+          "ru": "Недавно я сам испытал это, когда пытался реализовать это.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich umsetzen.",
+          "ru": "Мой начальник всегда советует реализовать это как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "erzielen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "достигать",
+      "translation_en": "achieve",
+      "examples": [
+        {
+          "de": "Es ist wichtig, alle Stakeholder frühzeitig zu erzielen.",
+          "ru": "Важно как можно раньше обратиться ко всем заинтересованным сторонам."
+        },
+        {
+          "de": "Der Lenkungsausschuss hat die Entscheidung getroffen, das Budget zu erzielen.",
+          "ru": "Оргкомитет принял решение о выполнении бюджета."
+        },
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig erzielen.",
+          "ru": "Менеджер проекта должен своевременно реализовать риски."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu erzielen.",
+          "ru": "Я сам испытал это недавно, когда пытался забить.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig erzielen.",
+          "ru": "Да, действительно нужно быть осторожным и делать все правильно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "verringern",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "уменьшать",
+      "translation_en": "reduce",
+      "examples": [
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig verringern.",
+          "ru": "Менеджер проекта должен своевременно снижать риски."
+        },
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu verringern.",
+          "ru": "На спринтерском совещании было принято решение сократить приоритеты."
+        },
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu verringern.",
+          "ru": "Мы решили снова снизить требования."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett verringern, das war anstrengend.",
+          "ru": "В конце концов нам пришлось снова все полностью сокращать, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig verringern.",
+          "ru": "Да, действительно нужно быть осторожным и правильно его сокращать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "umgehen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "уклоняться",
+      "translation_en": "evade",
+      "examples": [
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig umgehen.",
+          "ru": "Менеджер проекта должен своевременно устранять риски."
+        },
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu umgehen.",
+          "ru": "В спринтерской встрече было решено обойти приоритеты."
+        },
+        {
+          "de": "Um das Ziel zu erreichen, müssen wir den Prozess umgehen.",
+          "ru": "Чтобы достичь цели, нам придется обойти процесс."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu umgehen.",
+          "ru": "Недавно я сам испытал это, когда пытался обойти это.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu umgehen, aber machbar.",
+          "ru": "Что ж, иногда это не так-то просто обойти, но можно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "nachbessern",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "улучшать",
+      "translation_en": "improve",
+      "examples": [
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig nachbessern.",
+          "ru": "Руководитель проекта должен своевременно корректировать риски."
+        },
+        {
+          "de": "Der Lenkungsausschuss hat die Entscheidung getroffen, das Budget zu nachbessern.",
+          "ru": "Оргкомитет принял решение улучшить бюджет."
+        },
+        {
+          "de": "Um das Ziel zu erreichen, müssen wir den Prozess nachbessern.",
+          "ru": "Для достижения цели нам необходимо улучшить процесс."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu nachbessern.",
+          "ru": "Недавно я сам испытал это, когда пытался внести улучшения.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett nachbessern, das war anstrengend.",
+          "ru": "В конце концов нам пришлось снова все полностью улучшать, что было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "verändern",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "изменять",
+      "translation_en": "change",
+      "examples": [
+        {
+          "de": "Es ist wichtig, alle Stakeholder frühzeitig zu verändern.",
+          "ru": "Важно как можно раньше изменить всех заинтересованных сторон."
+        },
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig verändern.",
+          "ru": "Менеджер проекта должен своевременно менять риски."
+        },
+        {
+          "de": "Das Team konnte die Aufgabe erfolgreich verändern.",
+          "ru": "Команда смогла успешно изменить задачу."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett verändern, das war anstrengend.",
+          "ru": "В конце концов нам пришлось снова все полностью менять, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu verändern.",
+          "ru": "Недавно я сам испытал это, когда пытался измениться.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ergänzen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "добавить в",
+      "translation_en": "add to",
+      "examples": [
+        {
+          "de": "Das Team konnte die Aufgabe erfolgreich ergänzen.",
+          "ru": "Команда смогла успешно выполнить поставленную задачу."
+        },
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig ergänzen.",
+          "ru": "Менеджер проекта должен своевременно добавлять риски."
+        },
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu ergänzen.",
+          "ru": "Мы решили снова добавить требования."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig ergänzen.",
+          "ru": "Да, действительно надо быть внимательным и правильно добавлять.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu ergänzen.",
+          "ru": "Недавно я сам испытал это, когда пытался принимать добавки.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "erweiteren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "расширять",
+      "translation_en": "expand",
+      "examples": [
+        {
+          "de": "Es ist wichtig, alle Stakeholder frühzeitig zu erweiteren.",
+          "ru": "Важно на раннем этапе расширить охват всех заинтересованных сторон."
+        },
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu erweiteren.",
+          "ru": "Мы решили снова расширить требования."
+        },
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig erweiteren.",
+          "ru": "Менеджер проекта должен своевременно расширять риски."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich erweiteren.",
+          "ru": "Мой босс всегда советует расширить это как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett erweiteren, das war anstrengend.",
+          "ru": "В конце концов нам пришлось снова все полностью расширять, что было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "fortentwickeln",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "развивать дальше",
+      "translation_en": "develop further",
+      "examples": [
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig fortentwickeln.",
+          "ru": "Руководитель проекта должен своевременно разрабатывать риски."
+        },
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu fortentwickeln.",
+          "ru": "Мы решили доработать требования."
+        },
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu fortentwickeln.",
+          "ru": "Руководитель проекта рекомендовал доработать график."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu fortentwickeln, aber machbar.",
+          "ru": "Что ж, иногда это не так просто разработать, но это можно сделать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich fortentwickeln.",
+          "ru": "Мой начальник всегда советует разработать это как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "weiterentwickeln",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "развивать дальше",
+      "translation_en": "develop further",
+      "examples": [
+        {
+          "de": "Um das Ziel zu erreichen, müssen wir den Prozess weiterentwickeln.",
+          "ru": "Для достижения цели мы должны и дальше развивать этот процесс."
+        },
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu weiterentwickeln.",
+          "ru": "На спринтерском совещании было принято решение о дальнейшей разработке приоритетов."
+        },
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig weiterentwickeln.",
+          "ru": "Руководитель проекта должен своевременно разрабатывать риски."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett weiterentwickeln, das war anstrengend.",
+          "ru": "В конце концов нам пришлось полностью все разрабатывать заново, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig weiterentwickeln.",
+          "ru": "Да, действительно надо быть осторожным и развивать его дальше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "modernisieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "модернизировать",
+      "translation_en": "modernize",
+      "examples": [
+        {
+          "de": "Es ist wichtig, alle Stakeholder frühzeitig zu modernisieren.",
+          "ru": "Важно модернизировать все заинтересованные стороны на раннем этапе."
+        },
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig modernisieren.",
+          "ru": "Менеджер проекта должен своевременно модернизировать риски."
+        },
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu modernisieren.",
+          "ru": "Руководитель проекта рекомендовал модернизировать график."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig modernisieren.",
+          "ru": "Да, действительно надо быть осторожным и модернизировать его как следует.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu modernisieren.",
+          "ru": "Недавно я сам испытал это, когда пытался модернизироваться.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "erneuern",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "возобновлять",
+      "translation_en": "renew",
+      "examples": [
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu erneuern.",
+          "ru": "На спринтерском совещании было решено обновить приоритеты."
+        },
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu erneuern.",
+          "ru": "Руководитель проекта рекомендовал обновить график."
+        },
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu erneuern.",
+          "ru": "Мы решили снова обновить требования."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu erneuern, aber machbar.",
+          "ru": "Что ж, иногда продлить не так-то просто, но это можно сделать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich erneuern.",
+          "ru": "Мой начальник всегда советует продлить его как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ersetzen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "заменять",
+      "translation_en": "substitute",
+      "examples": [
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu ersetzen.",
+          "ru": "В спринтерском совещании было решено сменить приоритеты."
+        },
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu ersetzen.",
+          "ru": "Руководитель проекта рекомендовал заменить график."
+        },
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig ersetzen.",
+          "ru": "Руководитель проекта должен своевременно замещать риски."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu ersetzen.",
+          "ru": "Недавно я сам испытал это, когда пытался заменить.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu ersetzen, aber machbar.",
+          "ru": "Что ж, иногда заменить не так уж и просто, но можно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "entfernen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "удалять",
+      "translation_en": "remove",
+      "examples": [
+        {
+          "de": "Der Lenkungsausschuss hat die Entscheidung getroffen, das Budget zu entfernen.",
+          "ru": "Оргкомитет принял решение отменить бюджет."
+        },
+        {
+          "de": "Um das Ziel zu erreichen, müssen wir den Prozess entfernen.",
+          "ru": "Для достижения цели нам необходимо убрать процесс."
+        },
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu entfernen.",
+          "ru": "Мы решили еще раз снять требования."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich entfernen.",
+          "ru": "Мой начальник всегда говорит удалить его как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu entfernen, aber machbar.",
+          "ru": "Что ж, иногда удалить это не так просто, но можно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "auslassen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "исключить",
+      "translation_en": "leave out",
+      "examples": [
+        {
+          "de": "Das Team konnte die Aufgabe erfolgreich auslassen.",
+          "ru": "Команда смогла успешно пропустить задание."
+        },
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig auslassen.",
+          "ru": "Менеджер проекта должен своевременно исключить риски."
+        },
+        {
+          "de": "Um das Ziel zu erreichen, müssen wir den Prozess auslassen.",
+          "ru": "Чтобы достичь цели, нам придется пропустить процесс."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig auslassen.",
+          "ru": "Да, действительно нужно быть осторожным и не упоминать об этом.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett auslassen, das war anstrengend.",
+          "ru": "В конце концов нам пришлось полностью пропустить все, что было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "verwerfen",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "отказаться",
+      "translation_en": "discard",
+      "examples": [
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu verwerfen.",
+          "ru": "На спринтерском совещании было решено отказаться от приоритетов."
+        },
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu verwerfen.",
+          "ru": "Менеджер проекта рекомендовал отказаться от графика."
+        },
+        {
+          "de": "Das Team konnte die Aufgabe erfolgreich verwerfen.",
+          "ru": "Команда смогла успешно отказаться от задания."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu verwerfen, aber machbar.",
+          "ru": "Что ж, иногда отмахнуться не так-то просто, но можно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett verwerfen, das war anstrengend.",
+          "ru": "В конце концов нам пришлось снова полностью от всего отказаться, что было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "vertagen",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "откладывать",
+      "translation_en": "postpone",
+      "examples": [
+        {
+          "de": "Der Lenkungsausschuss hat die Entscheidung getroffen, das Budget zu vertagen.",
+          "ru": "Руководящий комитет принял решение отложить принятие бюджета."
+        },
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu vertagen.",
+          "ru": "Менеджер проекта рекомендовал перенести график."
+        },
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu vertagen.",
+          "ru": "На спринтерском совещании было решено перенести приоритеты."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich vertagen.",
+          "ru": "Мой босс всегда советует отложить это как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu vertagen.",
+          "ru": "Недавно я сам испытал это, когда пытался отложить.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "vollenden",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "полный",
+      "translation_en": "complete",
+      "examples": [
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig vollenden.",
+          "ru": "Менеджер проекта должен своевременно устранить риски."
+        },
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu vollenden.",
+          "ru": "Мы решили еще раз выполнить требования."
+        },
+        {
+          "de": "Um das Ziel zu erreichen, müssen wir den Prozess vollenden.",
+          "ru": "Чтобы достичь цели, мы должны завершить процесс."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu vollenden, aber machbar.",
+          "ru": "Что ж, иногда это не так просто сделать, но это можно сделать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich vollenden.",
+          "ru": "Мой босс всегда советует завершить это как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "vorführen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "демонстрировать",
+      "translation_en": "demonstrate",
+      "examples": [
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig vorführen.",
+          "ru": "Менеджер проекта должен своевременно представлять риски."
+        },
+        {
+          "de": "Es ist wichtig, alle Stakeholder frühzeitig zu vorführen.",
+          "ru": "Важно заранее представить информацию всем заинтересованным сторонам."
+        },
+        {
+          "de": "Um das Ziel zu erreichen, müssen wir den Prozess vorführen.",
+          "ru": "Чтобы достичь цели, мы должны продемонстрировать процесс."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu vorführen, aber machbar.",
+          "ru": "Что ж, иногда это не так-то просто продемонстрировать, но можно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich vorführen.",
+          "ru": "Мой начальник всегда советует продемонстрировать это как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "demonstrieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "демонстрировать",
+      "translation_en": "demonstrate",
+      "examples": [
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu demonstrieren.",
+          "ru": "Руководитель проекта рекомендовал продемонстрировать график."
+        },
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu demonstrieren.",
+          "ru": "Мы решили еще раз продемонстрировать требования."
+        },
+        {
+          "de": "Um das Ziel zu erreichen, müssen wir den Prozess demonstrieren.",
+          "ru": "Чтобы достичь цели, мы должны продемонстрировать процесс."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich demonstrieren.",
+          "ru": "Мой начальник всегда советует продемонстрировать это как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu demonstrieren.",
+          "ru": "Недавно я сам испытал это, когда пытался продемонстрировать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "umreißen",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "контур",
+      "translation_en": "outline",
+      "examples": [
+        {
+          "de": "Der Lenkungsausschuss hat die Entscheidung getroffen, das Budget zu umreißen.",
+          "ru": "Оргкомитет принял решение утвердить бюджет."
+        },
+        {
+          "de": "Das Team konnte die Aufgabe erfolgreich umreißen.",
+          "ru": "Команда смогла успешно сформулировать задачу."
+        },
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu umreißen.",
+          "ru": "Менеджер проекта порекомендовал наметить график."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich umreißen.",
+          "ru": "Мой начальник всегда советует обрисовать это как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig umreißen.",
+          "ru": "Да, действительно надо быть внимательным и правильно его обрисовывать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "aufschreiben",
+      "part_of_speech": "Verb",
+      "level": "A2",
+      "translation_ru": "записать",
+      "translation_en": "write down",
+      "examples": [
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu aufschreiben.",
+          "ru": "Мы решили еще раз записать требования."
+        },
+        {
+          "de": "Um das Ziel zu erreichen, müssen wir den Prozess aufschreiben.",
+          "ru": "Чтобы достичь цели, нам нужно записать процесс."
+        },
+        {
+          "de": "Der Lenkungsausschuss hat die Entscheidung getroffen, das Budget zu aufschreiben.",
+          "ru": "Руководящий комитет принял решение написать бюджет."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu aufschreiben, aber machbar.",
+          "ru": "Ну, иногда это не так просто записать, но вполне осуществимо.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig aufschreiben.",
+          "ru": "Да, действительно надо быть внимательным и правильно записывать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "notieren",
+      "part_of_speech": "Verb",
+      "level": "A2",
+      "translation_ru": "записать",
+      "translation_en": "note down",
+      "examples": [
+        {
+          "de": "Es ist wichtig, alle Stakeholder frühzeitig zu notieren.",
+          "ru": "Важно заранее отметить всех заинтересованных сторон."
+        },
+        {
+          "de": "Der Lenkungsausschuss hat die Entscheidung getroffen, das Budget zu notieren.",
+          "ru": "Оргкомитет принял решение записать бюджет."
+        },
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig notieren.",
+          "ru": "Руководитель проекта должен своевременно отмечать риски."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich notieren.",
+          "ru": "Мой начальник всегда советует записать это как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig notieren.",
+          "ru": "Да, действительно надо быть внимательным и правильно записывать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "mitteilen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "общаться",
+      "translation_en": "communicate",
+      "examples": [
+        {
+          "de": "Das Team konnte die Aufgabe erfolgreich mitteilen.",
+          "ru": "Команда смогла успешно передать задачу."
+        },
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu mitteilen.",
+          "ru": "Мы решили еще раз сообщить о требованиях."
+        },
+        {
+          "de": "Um das Ziel zu erreichen, müssen wir den Prozess mitteilen.",
+          "ru": "Чтобы достичь цели, нам нужно рассказать о процессе."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu mitteilen.",
+          "ru": "Я сам испытал это недавно, когда пытался поделиться.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu mitteilen, aber machbar.",
+          "ru": "Что ж, иногда общаться не так просто, но это можно сделать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "kostenbewusst",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "экономный",
+      "translation_en": "cost-conscious",
+      "examples": [
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr kostenbewusst.",
+          "ru": "Совет оценил результаты проекта как очень экономичные."
+        },
+        {
+          "de": "Eine kostenbewusst Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Экономичный подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Die Stakeholder waren mit dem kostenbewussten Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны были удовлетворены экономически обоснованным результатом."
+        },
+        {
+          "de": "Das war total kostenbewusst, hat mir echt geholfen.",
+          "ru": "Это было абсолютно экономично и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher kostenbewusst, als man zunächst denkt.",
+          "ru": "По моему опыту, это более экономично, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "kostenfrei",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "бесплатно",
+      "translation_en": "free of charge",
+      "examples": [
+        {
+          "de": "Wir brauchen eine kostenfrei Lösung für dieses komplexe Problem.",
+          "ru": "Нам нужно бесплатное решение этой сложной проблемы."
+        },
+        {
+          "de": "Das Ergebnis war besonders kostenfrei und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно бесплатным и превзошел все ожидания."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr kostenfrei.",
+          "ru": "Совет оценил результаты проекта как очень бесплатные."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich kostenfrei, muss man ehrlich sagen.",
+          "ru": "Да, это довольно бесплатно, надо быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht kostenfrei, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может показаться бесплатным, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "zeitsparend",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "экономия времени",
+      "translation_en": "time saving",
+      "examples": [
+        {
+          "de": "Der Prozess gestaltet sich zeitsparender als ursprünglich geplant.",
+          "ru": "Этот процесс экономит больше времени, чем первоначально планировалось."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr zeitsparend.",
+          "ru": "Совет оценил результаты проекта как очень экономящие время."
+        },
+        {
+          "de": "Wir brauchen eine zeitsparend Lösung für dieses komplexe Problem.",
+          "ru": "Нам нужно экономящее время решение этой сложной проблемы."
+        },
+        {
+          "de": "Das war total zeitsparend, hat mir echt geholfen.",
+          "ru": "Это полностью сэкономило время и мне очень помогло.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht zeitsparend, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться экономией времени, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "risikobewusst",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "осознающий риск",
+      "translation_en": "risk conscious",
+      "examples": [
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher risikobewusst.",
+          "ru": "Прогресс проекта на этом этапе был более осознанным с учетом рисков."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr risikobewusst.",
+          "ru": "Совет оценил результаты проекта как очень рискованные."
+        },
+        {
+          "de": "Wir brauchen eine risikobewusst Lösung für dieses komplexe Problem.",
+          "ru": "Нам необходимо решение этой сложной проблемы, учитывающее риски."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher risikobewusst, als man zunächst denkt.",
+          "ru": "По моему опыту, это более рискованно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total risikobewusst, hat mir echt geholfen.",
+          "ru": "Это было полностью осознанным риском и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "terminkritisch",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "крайний срок критический",
+      "translation_en": "deadline critical",
+      "examples": [
+        {
+          "de": "Der Prozess gestaltet sich terminkritischer als ursprünglich geplant.",
+          "ru": "Этот процесс оказывается более критичным по времени, чем первоначально планировалось."
+        },
+        {
+          "de": "Das Ergebnis war besonders terminkritisch und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно срочным и превзошел все ожидания."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr terminkritisch.",
+          "ru": "Совет оценил результаты проекта как очень срочные."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich terminkritisch, muss man ehrlich sagen.",
+          "ru": "Да, это очень критично по времени, вы должны быть честными.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht terminkritisch, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться критичным по времени, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "termintreu",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "вовремя",
+      "translation_en": "on time",
+      "examples": [
+        {
+          "de": "Wir brauchen eine termintreu Lösung für dieses komplexe Problem.",
+          "ru": "Нам необходимо своевременное решение этой сложной проблемы."
+        },
+        {
+          "de": "Der Prozess gestaltet sich termintreuer als ursprünglich geplant.",
+          "ru": "Процесс идет ближе к графику, чем первоначально планировалось."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr termintreu.",
+          "ru": "Совет оценил результаты проекта как очень своевременные."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich termintreu, muss man ehrlich sagen.",
+          "ru": "Да, это вполне соответствует графику, я должен быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total termintreu, hat mir echt geholfen.",
+          "ru": "Это было очень вовремя и мне очень помогло.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "termingemäß",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "вовремя",
+      "translation_en": "on time",
+      "examples": [
+        {
+          "de": "Wir brauchen eine termingemäß Lösung für dieses komplexe Problem.",
+          "ru": "Нам необходимо своевременное решение этой сложной проблемы."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr termingemäß.",
+          "ru": "Совет оценил результаты проекта как очень своевременные."
+        },
+        {
+          "de": "Eine termingemäß Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Своевременный подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich termingemäß, muss man ehrlich sagen.",
+          "ru": "Да, это вполне соответствует графику, я должен быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich termingemäß, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно был вовремя, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "budgetkonform",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "соответствующий бюджету",
+      "translation_en": "budget compliant",
+      "examples": [
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst budgetkonform.",
+          "ru": "Совместная работа оказалась чрезвычайно экономичной."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr budgetkonform.",
+          "ru": "Совет оценил результаты проекта как очень соответствующие бюджету."
+        },
+        {
+          "de": "Eine budgetkonform Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Подход, соответствующий бюджету, имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Das war total budgetkonform, hat mir echt geholfen.",
+          "ru": "Это было полностью в рамках бюджета и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht budgetkonform, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться экономичным, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "budgetwirksam",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "бюджетно эффективен",
+      "translation_en": "budget effective",
+      "examples": [
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher budgetwirksam.",
+          "ru": "Прогресс проекта на этом этапе был более благоприятным для бюджета."
+        },
+        {
+          "de": "Wir brauchen eine budgetwirksam Lösung für dieses komplexe Problem.",
+          "ru": "Нам нужно бюджетное решение этой сложной проблемы."
+        },
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst budgetwirksam.",
+          "ru": "Совместная работа в команде оказалась чрезвычайно экономичной."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher budgetwirksam, als man zunächst denkt.",
+          "ru": "По моему опыту, это оказывает большее влияние на бюджет, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht budgetwirksam, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться экономичным, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "projektbezogen",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "связанный с проектом",
+      "translation_en": "project related",
+      "examples": [
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher projektbezogen.",
+          "ru": "Прогресс проекта на этом этапе был в большей степени связан с проектом."
+        },
+        {
+          "de": "Der Prozess gestaltet sich projektbezogener als ursprünglich geplant.",
+          "ru": "Этот процесс в большей степени связан с проектом, чем первоначально планировалось."
+        },
+        {
+          "de": "Das Ergebnis war besonders projektbezogen und übertraf die Erwartungen.",
+          "ru": "Результат был особенно связан с проектом и превзошел все ожидания."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich projektbezogen, muss man ehrlich sagen.",
+          "ru": "Да, это очень связано с проектом, я должен быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total projektbezogen, hat mir echt geholfen.",
+          "ru": "Это было полностью связано с проектом и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "projektfähig",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "проект способный",
+      "translation_en": "project capable",
+      "examples": [
+        {
+          "de": "Eine projektfähig Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Готовый к проекту подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Der Prozess gestaltet sich projektfähiger als ursprünglich geplant.",
+          "ru": "Этот процесс оказывается более благоприятным для проекта, чем первоначально планировалось."
+        },
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher projektfähig.",
+          "ru": "На этом этапе прогресс проекта был более достойным проекта."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht projektfähig, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться достойным проекта, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich projektfähig, muss man ehrlich sagen.",
+          "ru": "Да, это вполне готовый проект, я должен быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "qualitätssichernd",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "гарантия качества",
+      "translation_en": "quality assurance",
+      "examples": [
+        {
+          "de": "Das Ergebnis war besonders qualitätssichernd und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно качественным и превзошел все ожидания."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr qualitätssichernd.",
+          "ru": "Совет оценил результаты проекта как гарантию очень высокого качества."
+        },
+        {
+          "de": "Die Stakeholder waren mit dem qualitätssichernden Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны остались удовлетворены результатом обеспечения качества."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich qualitätssichernd, muss man ehrlich sagen.",
+          "ru": "Да, это вполне мера обеспечения качества, если честно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total qualitätssichernd, hat mir echt geholfen.",
+          "ru": "Это была абсолютная гарантия качества, и она мне очень помогла.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "erfolgsversprechend",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "многообещающий",
+      "translation_en": "promising",
+      "examples": [
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst erfolgsversprechend.",
+          "ru": "Совместная работа в команде оказалась чрезвычайно успешной."
+        },
+        {
+          "de": "Das Ergebnis war besonders erfolgsversprechend und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно многообещающим и превзошел все ожидания."
+        },
+        {
+          "de": "Wir brauchen eine erfolgsversprechend Lösung für dieses komplexe Problem.",
+          "ru": "Нам нужно многообещающее решение этой сложной проблемы."
+        },
+        {
+          "de": "Das war total erfolgsversprechend, hat mir echt geholfen.",
+          "ru": "Это было очень многообещающе и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich erfolgsversprechend, muss man ehrlich sagen.",
+          "ru": "Да, это довольно многообещающе, если честно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "agil",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "гибкий",
+      "translation_en": "agile",
+      "examples": [
+        {
+          "de": "Der Prozess gestaltet sich agiler als ursprünglich geplant.",
+          "ru": "Этот процесс оказался более гибким, чем планировалось изначально."
+        },
+        {
+          "de": "Das Ergebnis war besonders agil und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно быстрым и превзошел все ожидания."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr agil.",
+          "ru": "Совет оценил результаты проекта как очень гибкие."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich agil, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно динамичный, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht agil, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться гибким, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "effektiv",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "эффективный",
+      "translation_en": "effective",
+      "examples": [
+        {
+          "de": "Wir brauchen eine effektiv Lösung für dieses komplexe Problem.",
+          "ru": "Нам необходимо эффективное решение этой сложной проблемы."
+        },
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst effektiv.",
+          "ru": "Коллективное сотрудничество оказалось чрезвычайно эффективным."
+        },
+        {
+          "de": "Das Ergebnis war besonders effektiv und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно эффективным и превзошел все ожидания."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher effektiv, als man zunächst denkt.",
+          "ru": "По моему опыту, это более эффективно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total effektiv, hat mir echt geholfen.",
+          "ru": "Это было абсолютно эффективно и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "wirtschaftlich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "экономически",
+      "translation_en": "economically",
+      "examples": [
+        {
+          "de": "Der Prozess gestaltet sich wirtschaftlicher als ursprünglich geplant.",
+          "ru": "Этот процесс более экономичен, чем первоначально планировалось."
+        },
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher wirtschaftlich.",
+          "ru": "На этом этапе ход реализации проекта был довольно экономичным."
+        },
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst wirtschaftlich.",
+          "ru": "Совместная работа в команде оказалась чрезвычайно экономичной."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht wirtschaftlich, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться экономичным, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total wirtschaftlich, hat mir echt geholfen.",
+          "ru": "Это было абсолютно экономично и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "profitabel",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "прибыльный",
+      "translation_en": "profitable",
+      "examples": [
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher profitabel.",
+          "ru": "На этом этапе проект продвигался весьма прибыльно."
+        },
+        {
+          "de": "Der Prozess gestaltet sich profitabeler als ursprünglich geplant.",
+          "ru": "Процесс оказывается более выгодным, чем планировалось изначально."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr profitabel.",
+          "ru": "Совет оценил результаты проекта как очень выгодные."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich profitabel, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно прибыльный, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total profitabel, hat mir echt geholfen.",
+          "ru": "Это было очень выгодно и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "nachhaltig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "устойчивый",
+      "translation_en": "sustainable",
+      "examples": [
+        {
+          "de": "Eine nachhaltig Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Устойчивый подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Die Stakeholder waren mit dem nachhaltigen Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны остались довольны устойчивым результатом."
+        },
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst nachhaltig.",
+          "ru": "Сотрудничество внутри команды оказалось чрезвычайно устойчивым."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher nachhaltig, als man zunächst denkt.",
+          "ru": "По моему опыту, это более устойчиво, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich nachhaltig, muss man ehrlich sagen.",
+          "ru": "Да, это довольно устойчиво, если честно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "kooperativ",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "кооператив",
+      "translation_en": "cooperative",
+      "examples": [
+        {
+          "de": "Der Prozess gestaltet sich kooperativer als ursprünglich geplant.",
+          "ru": "Этот процесс оказывается более совместным, чем первоначально планировалось."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr kooperativ.",
+          "ru": "Совет оценил результаты проекта как очень выгодные."
+        },
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher kooperativ.",
+          "ru": "На этом этапе проект продвигался скорее совместно."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich kooperativ, muss man ehrlich sagen.",
+          "ru": "Да, это очень кооперативно, если быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher kooperativ, als man zunächst denkt.",
+          "ru": "По моему опыту, это более эффективно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "interdisziplinär",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "междисциплинарный",
+      "translation_en": "interdisciplinary",
+      "examples": [
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr interdisziplinär.",
+          "ru": "Совет оценил результаты проекта как очень междисциплинарные."
+        },
+        {
+          "de": "Die Stakeholder waren mit dem interdisziplinären Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны остались довольны междисциплинарным результатом."
+        },
+        {
+          "de": "Wir brauchen eine interdisziplinär Lösung für dieses komplexe Problem.",
+          "ru": "Нам необходимо междисциплинарное решение этой сложной проблемы."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich interdisziplinär, muss man ehrlich sagen.",
+          "ru": "Да, это довольно междисциплинарно, если честно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht interdisziplinär, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать междисциплинарно, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "multifunktional",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "многофункциональный",
+      "translation_en": "multifunctional",
+      "examples": [
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr multifunktional.",
+          "ru": "Совет оценил результаты проекта как очень многофункциональные."
+        },
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst multifunktional.",
+          "ru": "Совместная работа в команде оказалась чрезвычайно многофункциональной."
+        },
+        {
+          "de": "Eine multifunktional Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Многофункциональный подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich multifunktional, muss man ehrlich sagen.",
+          "ru": "Да, он довольно многофункциональный, если честно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich multifunktional, das hat mich überrascht.",
+          "ru": "Что ж, думаю, результат действительно многофункциональный, что меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "kompliziert",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "сложный",
+      "translation_en": "complicated",
+      "examples": [
+        {
+          "de": "Das Ergebnis war besonders kompliziert und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно сложным и превзошел все ожидания."
+        },
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher kompliziert.",
+          "ru": "На этом этапе реализация проекта была довольно сложной."
+        },
+        {
+          "de": "Wir brauchen eine kompliziert Lösung für dieses komplexe Problem.",
+          "ru": "Нам нужно комплексное решение этой сложной проблемы."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich kompliziert, das hat mich überrascht.",
+          "ru": "Что ж, я нахожу результат действительно сложным, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich kompliziert, muss man ehrlich sagen.",
+          "ru": "Да, это довольно сложно, скажу честно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "standardisiert",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "стандартизированный",
+      "translation_en": "standardized",
+      "examples": [
+        {
+          "de": "Eine standardisiert Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Стандартизированный подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr standardisiert.",
+          "ru": "Совет оценил результаты проекта как очень стандартизированные."
+        },
+        {
+          "de": "Das Ergebnis war besonders standardisiert und übertraf die Erwartungen.",
+          "ru": "Результат был особенно стандартизирован и превзошел ожидания."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich standardisiert, muss man ehrlich sagen.",
+          "ru": "Да, если честно, это довольно стандартизировано.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich standardisiert, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно стандартизирован, что меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "langfristig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "долгосрочный",
+      "translation_en": "long term",
+      "examples": [
+        {
+          "de": "Wir brauchen eine langfristig Lösung für dieses komplexe Problem.",
+          "ru": "Нам необходимо долгосрочное решение этой сложной проблемы."
+        },
+        {
+          "de": "Der Prozess gestaltet sich langfristiger als ursprünglich geplant.",
+          "ru": "Процесс занимает больше времени, чем планировалось изначально."
+        },
+        {
+          "de": "Die Stakeholder waren mit dem langfristigen Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны были удовлетворены долгосрочными результатами."
+        },
+        {
+          "de": "Das war total langfristig, hat mir echt geholfen.",
+          "ru": "Это было очень долгосрочно и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher langfristig, als man zunächst denkt.",
+          "ru": "По моему опыту, это более долгосрочная перспектива, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "mittelfristig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "среднесрочная перспектива",
+      "translation_en": "medium term",
+      "examples": [
+        {
+          "de": "Wir brauchen eine mittelfristig Lösung für dieses komplexe Problem.",
+          "ru": "Нам необходимо среднесрочное решение этой сложной проблемы."
+        },
+        {
+          "de": "Das Ergebnis war besonders mittelfristig und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно среднесрочным и превзошел ожидания."
+        },
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst mittelfristig.",
+          "ru": "Сотрудничество в команде оказалось крайне среднесрочным."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher mittelfristig, als man zunächst denkt.",
+          "ru": "По моему опыту, это скорее в среднесрочной перспективе, чем вы могли подумать изначально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total mittelfristig, hat mir echt geholfen.",
+          "ru": "Это было полностью среднесрочное решение и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "kurzfristig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "короткий срок",
+      "translation_en": "short term",
+      "examples": [
+        {
+          "de": "Der Prozess gestaltet sich kurzfristiger als ursprünglich geplant.",
+          "ru": "Этот процесс оказывается короче, чем первоначально планировалось."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr kurzfristig.",
+          "ru": "Совет оценил результаты проекта как очень краткосрочные."
+        },
+        {
+          "de": "Eine kurzfristig Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Краткосрочный подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht kurzfristig, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться краткосрочным, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich kurzfristig, muss man ehrlich sagen.",
+          "ru": "Да, это довольно короткий срок, вы должны быть честными.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "pragmatisch",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "прагматичный",
+      "translation_en": "pragmatic",
+      "examples": [
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr pragmatisch.",
+          "ru": "Совет оценил результаты проекта как очень прагматичные."
+        },
+        {
+          "de": "Die Stakeholder waren mit dem pragmatischen Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны остались довольны прагматичным результатом."
+        },
+        {
+          "de": "Wir brauchen eine pragmatisch Lösung für dieses komplexe Problem.",
+          "ru": "Нам необходимо прагматичное решение этой сложной проблемы."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich pragmatisch, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно прагматичный, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher pragmatisch, als man zunächst denkt.",
+          "ru": "По моему опыту, это более прагматично, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "kundenfokussiert",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "ориентированный на клиента",
+      "translation_en": "customer focused",
+      "examples": [
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst kundenfokussiert.",
+          "ru": "Коллективная работа оказалась чрезвычайно клиентоориентированной."
+        },
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher kundenfokussiert.",
+          "ru": "Прогресс проекта на этом этапе был более ориентирован на клиента."
+        },
+        {
+          "de": "Der Prozess gestaltet sich kundenfokussierter als ursprünglich geplant.",
+          "ru": "Этот процесс становится более ориентированным на клиента, чем первоначально планировалось."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher kundenfokussiert, als man zunächst denkt.",
+          "ru": "По моему опыту, это более ориентировано на клиента, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich kundenfokussiert, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно ориентирован на клиента, что меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "marktorientiert",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "ориентированный на рынок",
+      "translation_en": "market oriented",
+      "examples": [
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst marktorientiert.",
+          "ru": "Коллективная работа оказалась чрезвычайно ориентированной на рынок."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr marktorientiert.",
+          "ru": "Совет оценил результаты проекта как очень ориентированные на рынок."
+        },
+        {
+          "de": "Die Stakeholder waren mit dem marktorientierten Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны остались удовлетворены рыночным результатом."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich marktorientiert, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно ориентирован на рынок, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich marktorientiert, muss man ehrlich sagen.",
+          "ru": "Да, это довольно рыночно ориентировано, надо быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "wettbewerbsfähig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "конкурентоспособный",
+      "translation_en": "competitive",
+      "examples": [
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst wettbewerbsfähig.",
+          "ru": "Совместная работа в команде оказалась чрезвычайно конкурентоспособной."
+        },
+        {
+          "de": "Eine wettbewerbsfähig Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Конкурентный подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Der Prozess gestaltet sich wettbewerbsfähiger als ursprünglich geplant.",
+          "ru": "Этот процесс становится более конкурентным, чем первоначально планировалось."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher wettbewerbsfähig, als man zunächst denkt.",
+          "ru": "По моему опыту, это более конкурентоспособно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich wettbewerbsfähig, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат был действительно конкурентоспособным, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "qualitativ",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "качественно",
+      "translation_en": "qualitatively",
+      "examples": [
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher qualitativ.",
+          "ru": "Прогресс проекта на этом этапе был скорее качественным."
+        },
+        {
+          "de": "Der Prozess gestaltet sich qualitativer als ursprünglich geplant.",
+          "ru": "Процесс оказывается более качественным, чем планировалось изначально."
+        },
+        {
+          "de": "Wir brauchen eine qualitativ Lösung für dieses komplexe Problem.",
+          "ru": "Нам необходимо качественное решение этой сложной проблемы."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich qualitativ, das hat mich überrascht.",
+          "ru": "Что ж, я считаю, что результат действительно качественный, что меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht qualitativ, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать качественно, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "quantitativ",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "количественно",
+      "translation_en": "quantitatively",
+      "examples": [
+        {
+          "de": "Wir brauchen eine quantitativ Lösung für dieses komplexe Problem.",
+          "ru": "Нам нужно количественное решение этой сложной проблемы."
+        },
+        {
+          "de": "Die Stakeholder waren mit dem quantitativen Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны остались довольны количественным результатом."
+        },
+        {
+          "de": "Eine quantitativ Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Количественный подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Das war total quantitativ, hat mir echt geholfen.",
+          "ru": "Это было полностью количественно и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht quantitativ, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может звучать количественно, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "erheblich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "значительно",
+      "translation_en": "considerably",
+      "examples": [
+        {
+          "de": "Die Stakeholder waren mit dem erheblichen Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны остались довольны значительным результатом."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr erheblich.",
+          "ru": "Совет оценил результаты проекта как очень значимые."
+        },
+        {
+          "de": "Wir brauchen eine erheblich Lösung für dieses komplexe Problem.",
+          "ru": "Нам необходимо существенное решение этой сложной проблемы."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher erheblich, als man zunächst denkt.",
+          "ru": "По моему опыту, это более важно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total erheblich, hat mir echt geholfen.",
+          "ru": "Это было действительно важно и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "irrelevant",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "не имеющий отношения",
+      "translation_en": "irrelevant",
+      "examples": [
+        {
+          "de": "Eine irrelevant Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Нерелевантный подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Der Prozess gestaltet sich irrelevanter als ursprünglich geplant.",
+          "ru": "Этот процесс оказывается более неактуальным, чем планировалось изначально."
+        },
+        {
+          "de": "Wir brauchen eine irrelevant Lösung für dieses komplexe Problem.",
+          "ru": "Нам нужно нерелевантное решение этой сложной проблемы."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher irrelevant, als man zunächst denkt.",
+          "ru": "По моему опыту, это более неважно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich irrelevant, muss man ehrlich sagen.",
+          "ru": "Да, это совершенно неважно, если честно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "maßgeblich",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "решающий",
+      "translation_en": "decisive",
+      "examples": [
+        {
+          "de": "Der Prozess gestaltet sich maßgeblicher als ursprünglich geplant.",
+          "ru": "Процесс оказывается более значительным, чем первоначально планировалось."
+        },
+        {
+          "de": "Das Ergebnis war besonders maßgeblich und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно значительным и превзошел все ожидания."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr maßgeblich.",
+          "ru": "Совет оценил результаты проекта как очень значимые."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich maßgeblich, muss man ehrlich sagen.",
+          "ru": "Да, это очень важно, если честно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher maßgeblich, als man zunächst denkt.",
+          "ru": "По моему опыту, это важнее, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "notwendig",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "необходимый",
+      "translation_en": "necessary",
+      "examples": [
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr notwendig.",
+          "ru": "Правление оценило результаты проекта как очень необходимые."
+        },
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst notwendig.",
+          "ru": "Совместная работа в команде оказалась крайне необходимой."
+        },
+        {
+          "de": "Eine notwendig Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Необходимый подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher notwendig, als man zunächst denkt.",
+          "ru": "По моему опыту, это более необходимо, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht notwendig, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться необходимым, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "zwingend",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "обязательный",
+      "translation_en": "mandatory",
+      "examples": [
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr zwingend.",
+          "ru": "Совет оценил результаты проекта как очень убедительные."
+        },
+        {
+          "de": "Eine zwingend Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Убедительный подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Die Stakeholder waren mit dem zwingenden Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны остались довольны убедительным результатом."
+        },
+        {
+          "de": "Das war total zwingend, hat mir echt geholfen.",
+          "ru": "Это было совершенно убедительно и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich zwingend, muss man ehrlich sagen.",
+          "ru": "Да, это довольно убедительно, я должен быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "optional",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "необязательный",
+      "translation_en": "optional",
+      "examples": [
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher optional.",
+          "ru": "На этом этапе ход реализации проекта был скорее необязательным."
+        },
+        {
+          "de": "Die Stakeholder waren mit dem optionalen Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны остались удовлетворены факультативным результатом."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr optional.",
+          "ru": "Совет оценил результаты проекта как весьма необязательные."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht optional, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может показаться необязательным, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher optional, als man zunächst denkt.",
+          "ru": "По моему опыту, это более необязательно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
     }
   ]
 }

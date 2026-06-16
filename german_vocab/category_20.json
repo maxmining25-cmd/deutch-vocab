@@ -33,6 +33,9 @@
         "Wohlergehen",
         "Fitness",
         "Heilung"
+      ],
+      "antonyms": [
+        "die Krankheit"
       ]
     },
     {
@@ -63,7 +66,10 @@
           "ru": "И теперь, к сожалению, этот недуг постиг многих из лидеров мира."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Gesundheit"
+      ]
     },
     {
       "word": "krank",
@@ -93,7 +99,10 @@
           "ru": "Когда я его видела, он не был похож на больного."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "gesund"
+      ]
     },
     {
       "word": "der Arzt, die Ärzte",
@@ -123,7 +132,10 @@
           "ru": "Мне пришлось умолять моего капитана... оставить корабль без хирурга."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Patient"
+      ]
     },
     {
       "word": "die Ärztin, die Ärztinnen",
@@ -153,7 +165,10 @@
           "ru": "Приезд сюда, должен был сделать из меня лучшего врача."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Patientin"
+      ]
     },
     {
       "word": "der Hausarzt, die Hausärzte",
@@ -183,7 +198,10 @@
           "ru": "Где Ваш лечащий врач?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Facharzt"
+      ]
     },
     {
       "word": "der Facharzt, die Fachärzte",
@@ -213,7 +231,11 @@
           "ru": "Я не хотел изучать хирургию - не спрашивайте почему."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Hausarzt",
+        "der Allgemeinmediziner"
+      ]
     },
     {
       "word": "die Praxis, die Praxen",
@@ -243,7 +265,8 @@
           "ru": "Я даже свой кабинет перевел в соседнюю квартиру."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Arztpraxis, die Arztpraxen",
@@ -273,7 +296,8 @@
           "ru": "Это не слишком хорошо отражается на врачебном бизнесе."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Termin, die Termine",
@@ -308,7 +332,8 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Sprechstunde, die Sprechstunden",
@@ -338,7 +363,8 @@
           "ru": "Есть время, чтобы ты мог зайти... в часы работы?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Wartezimmer, die Wartezimmer",
@@ -368,7 +394,8 @@
           "ru": "Этот человек подошел ко мне в комнате ожидания той ночью."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Versichertenkarte, die Versichertenkarten",
@@ -390,7 +417,8 @@
           "ru": "Мне нужна ваша карта мисс Хендрикс."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Krankenversichertenkarte, die Karten",
@@ -420,7 +448,8 @@
           "ru": "Количество посещений врача должно быть записано в карточке медицинского страхования."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die gesetzliche Krankenversicherung, die Versicherungen",
@@ -450,7 +479,10 @@
           "ru": "Основной целью обязательного медицинского страхования является поддерживание и восстановление здоровье страхователя (1 SGB V)."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die private Krankenversicherung"
+      ]
     },
     {
       "word": "die private Krankenversicherung, die Versicherungen",
@@ -480,7 +512,10 @@
           "ru": "Компания НН-Медиа () начала поддержку и раскрутку системы взаимосвязанных тематических Интернет-порталов Нижнего Новгорода и Нижегородской области с интуитивно понятным интерфейсом и удобной системой навигации."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die gesetzliche Krankenversicherung"
+      ]
     },
     {
       "word": "die Krankenkasse, die Krankenkassen",
@@ -510,7 +545,8 @@
           "ru": "Мы не обнаружили вашей истории болезни."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Beitrag, die Beiträge",
@@ -540,7 +576,8 @@
           "ru": "Вкладом со стороны иностранных компаний должны были быть дальнейшие инвестиции."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "versichert",
@@ -570,7 +607,10 @@
           "ru": "Тамошний охранник заверил, что все в порядке."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unversichert"
+      ]
     },
     {
       "word": "der Versicherte, die Versicherten",
@@ -600,7 +640,10 @@
           "ru": "Николас уверяет меня, что подготовил все документы, но тут бывает не всё так просто."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Unversicherte"
+      ]
     },
     {
       "word": "die Krankmeldung, die Krankmeldungen",
@@ -630,7 +673,10 @@
           "ru": "В целом получается, что 169000 случаев были \"необоснованными\" на нескольких миллионов работников, получивших больничные листы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Gesundmeldung"
+      ]
     },
     {
       "word": "die Arbeitsunfähigkeitsbescheinigung, die Bescheinigungen",
@@ -660,7 +706,8 @@
           "ru": "[…] Пациент часто появляется в статистике медицинского страхования только тогда, когда на третий день требуется листок нетрудоспособности от врача."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Arbeitgeber, die Arbeitgeber",
@@ -694,6 +741,10 @@
         "Chef",
         "Unternehmen",
         "Firma"
+      ],
+      "antonyms": [
+        "der Arbeitnehmer",
+        "der Angestellte"
       ]
     },
     {
@@ -724,7 +775,10 @@
           "ru": "Но он настаивал, требовал бумаги от врача и все такое."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Gesundschreibung"
+      ]
     },
     {
       "word": "das Rezept, die Rezepte",
@@ -754,7 +808,8 @@
           "ru": "Если бы ты мог ему позвонить, а он мог бы выписать рецепт."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Kassenrezept, die Kassenrezepte",
@@ -776,7 +831,10 @@
           "ru": "Пожалуйста, предъявите ваш рецепт по ОМС и карту медицинского страхования в аптеке."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Privatrezept"
+      ]
     },
     {
       "word": "das Privatrezept, die Privatrezepte",
@@ -806,7 +864,10 @@
           "ru": "За остальных мне пришлось бы выставить счет медицинской страховой компании по частному рецепту."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Kassenrezept"
+      ]
     },
     {
       "word": "die Apotheke, die Apotheken",
@@ -836,7 +897,8 @@
           "ru": "Ещё раз спасибо за то, что подвезла меня в аптеку."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Medikament, die Medikamente",
@@ -866,7 +928,8 @@
           "ru": "Ей нужны эти лекарства каждый день, и она не может их получить."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Tablette, die Tabletten",
@@ -896,7 +959,8 @@
           "ru": "И учитывая, что ты принял таблетку, тебе лучше пойти по лестнице."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Packungsbeilage, die Packungsbeilagen",
@@ -926,7 +990,8 @@
           "ru": "И пенообразующих: мужчина от пенообразующих его, однако, что в листовке."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Nebenwirkung, die Nebenwirkungen",
@@ -956,7 +1021,10 @@
           "ru": "Наверное, побочный эффект твоей невероятной скорости."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Hauptwirkung"
+      ]
     },
     {
       "word": "die Dosierung, die Dosierungen",
@@ -986,7 +1054,8 @@
           "ru": "В неверной дозировке они вызывают головокружение, галлюцинации, и потерю сознания."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "einnehmen",
@@ -1027,7 +1096,10 @@
         "ihr": "nehmet ein",
         "sie/Sie": "nehmen ein"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "absetzen"
+      ]
     },
     {
       "word": "die Impfung, die Impfungen",
@@ -1057,7 +1129,8 @@
           "ru": "Более широкая вакцинация защитит людей от инфекции и блокирует распространение вируса."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "impfen",
@@ -1098,7 +1171,8 @@
         "ihr": "impft",
         "sie/Sie": "impfen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "der Impfpass, die Impfpässe",
@@ -1128,7 +1202,8 @@
           "ru": "Та жёлтая книжечка с прививками, которую врач дал, осталась на вилле."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Vorsorgeuntersuchung, die Vorsorgeuntersuchungen",
@@ -1158,7 +1233,10 @@
           "ru": "Крупные случайно выбранные испытания нескольких десятилетий назад показали, что маммография, дополняющая обычный физиологический осмотр, способствует выявлению заболевания на ранней стадии, сокращая опасность смертельного исхода."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Akutuntersuchung"
+      ]
     },
     {
       "word": "die Untersuchung, die Untersuchungen",
@@ -1188,7 +1266,8 @@
           "ru": "Вы заканчиваете осмотр, а я отвечу на один ваш вопрос."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "untersuchen",
@@ -1229,7 +1308,8 @@
         "ihr": "untersucht",
         "sie/Sie": "untersuchen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "das Krankenhaus, die Krankenhäuser",
@@ -1259,7 +1339,8 @@
           "ru": "Они уже в больнице, поэтому что бы вы ни делали..."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Klinik, die Kliniken",
@@ -1289,7 +1370,8 @@
           "ru": "Твой психиатр пришла навестить меня в госпитале перед моим судом."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Notaufnahme, die Notaufnahmen",
@@ -1319,7 +1401,8 @@
           "ru": "Скажи это миссис Бойлан. Больше ей не придется бегать в травмпункт."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Notfall, die Notfälle",
@@ -1349,7 +1432,10 @@
           "ru": "Я очень хотел бы, но у меня срочное дело на работе."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Regelfall"
+      ]
     },
     {
       "word": "der Notarzt, die Notärzte",
@@ -1379,7 +1465,8 @@
           "ru": "Врач скорой помощи сказал, что у неё рак."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Rettungswagen, die Rettungswagen",
@@ -1409,7 +1496,8 @@
           "ru": "Неотложка уже в пути?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Krankenwagen, die Krankenwagen",
@@ -1439,7 +1527,8 @@
           "ru": "Друссе... Машина скорой помощи опять приезжала вчера вечером."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Unfall, die Unfälle",
@@ -1469,7 +1558,8 @@
           "ru": "Капитан, если мы хотим скрыть эту случайность, не надо откладывать."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Verletzung, die Verletzungen",
@@ -1499,7 +1589,10 @@
           "ru": "И есть еще похожее ранение в правой ключице."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Heilung"
+      ]
     },
     {
       "word": "sich verletzen",
@@ -1540,7 +1633,11 @@
         "ihr": "sich verletzt",
         "sie/Sie": "sich verletzen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "genesen",
+        "heilen"
+      ]
     },
     {
       "word": "die Schmerzen, (nur Pl.)",
@@ -1570,7 +1667,11 @@
           "ru": "Освободил тебя от твоей боли. и ты чувствуешь себя обязанным ему."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Schmerzfreiheit",
+        "die Linderung"
+      ]
     },
     {
       "word": "das Symptom, die Symptome",
@@ -1600,7 +1701,10 @@
           "ru": "При большинстве заболеваний человека окислительный стресс является лишь симптомом."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Ursache"
+      ]
     },
     {
       "word": "das Fieber, (nur Sg.)",
@@ -1630,7 +1734,8 @@
           "ru": "Я лежала в кровати со старшим сыном, у него была температура."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Husten, (nur Sg.)",
@@ -1660,7 +1765,8 @@
           "ru": "Я думал, что это от кашля."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Schnupfen, (nur Sg.)",
@@ -1690,7 +1796,8 @@
           "ru": "Моя дочь может умереть, а он ушел домой из-за насморка?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Halsschmerzen, (nur Pl.)",
@@ -1720,7 +1827,8 @@
           "ru": "Так вот почему у меня жжёт в горле."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Kopfschmerzen, (nur Pl.)",
@@ -1750,7 +1858,8 @@
           "ru": "И что у него постоянные головные боли."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Zahnschmerzen, (nur Pl.)",
@@ -1780,7 +1889,8 @@
           "ru": "Он имеет на это право, если она ему изменяет, открыто его оскорбляет или желает ему зубной боли."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Zahnarzt, die Zahnärzte",
@@ -1810,7 +1920,8 @@
           "ru": "Там был зубной врач, жил на первом этаже."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Zahnarztpraxis, die Zahnarztpraxen",
@@ -1840,7 +1951,8 @@
           "ru": "Эдвард, у нас же тут не кабинет дантиста."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Zahnreinigung, die Zahnreinigungen",
@@ -1870,7 +1982,8 @@
           "ru": "Я делал ему отбеливание."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Krankengymnastik, (nur Sg.)",
@@ -1900,7 +2013,8 @@
           "ru": "Оба: Дениз сказала, что это РТ."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Physiotherapie, die Physiotherapien",
@@ -1930,7 +2044,8 @@
           "ru": "Чем раньше он начнет физиотерапию, тем выше его шансы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Therapeut, die Therapeuten",
@@ -1960,7 +2075,10 @@
           "ru": "Знаете, мой психолог, попросил меня описать свои чувства."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Patient"
+      ]
     },
     {
       "word": "das Attest, die Atteste",
@@ -1990,7 +2108,8 @@
           "ru": "У меня есть разрешение, медицинское свидетельство."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das ärztliche Attest, die Atteste",
@@ -2020,7 +2139,8 @@
           "ru": "Любые медицинские заключения, полученные в увольнительной, недействительны."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Kur, die Kuren",
@@ -2050,7 +2170,8 @@
           "ru": "Это лекарство входит в курс лечения."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Reha, die Rehas",
@@ -2080,7 +2201,8 @@
           "ru": "Я понимаю, почему ты не хочешь в реабилитацию."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Rehabilitation, die Rehabilitationen",
@@ -2110,7 +2232,8 @@
           "ru": "В тюрьме нет надлежащих условий для его реабилитации."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Befund, die Befunde",
@@ -2140,7 +2263,8 @@
           "ru": "Я схожу за результатами."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Diagnose, die Diagnosen",
@@ -2170,7 +2294,8 @@
           "ru": "Так же как и я имею право на диагностирование."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "diagnostizieren",
@@ -2211,7 +2336,8 @@
         "ihr": "diagnostiziert",
         "sie/Sie": "diagnostizieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "die Therapie, die Therapien",
@@ -2241,7 +2367,8 @@
           "ru": "Нужно будет оплатить бедной девочке несколько недель психотерапии."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "behandeln",
@@ -2282,7 +2409,12 @@
         "ihr": "behandelt",
         "sie/Sie": "behandeln"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "vernachlässigen",
+        "ignorieren",
+        "schädigen"
+      ]
     },
     {
       "word": "die Behandlung, die Behandlungen",
@@ -2312,7 +2444,12 @@
           "ru": "Как только я закончу мою процедуру, мы найдем ее."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Vernachlässigung",
+        "die Misshandlung",
+        "die Nichtbehandlung"
+      ]
     },
     {
       "word": "die Zuzahlung, die Zuzahlungen",
@@ -2342,7 +2479,12 @@
           "ru": "Небось на дешёвые индийские?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Erstattung",
+        "die Befreiung",
+        "die Rückerstattung"
+      ]
     },
     {
       "word": "die Befreiung, die Befreiungen",
@@ -2372,7 +2514,12 @@
           "ru": "И на один шаг приближусь к освобождению из этой магической тюрьмы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Verpflichtung",
+        "die Bindung",
+        "die Belastung"
+      ]
     },
     {
       "word": "die Überweisung, die Überweisungen",
@@ -2402,7 +2549,11 @@
           "ru": "Но позже мы получили денежный перевод на 10 тысяч долларов - по настоящему хороший парень."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Lastschrift, die Lastschriften",
+        "die Abbuchung, die Abbuchungen"
+      ]
     },
     {
       "word": "überweisen",
@@ -2445,6 +2596,9 @@
       },
       "prepositions": [
         "auf + Akkusativ (переводить на какой-то счет)"
+      ],
+      "antonyms": [
+        "abbuchen"
       ]
     },
     {
@@ -2475,7 +2629,8 @@
           "ru": "Горе должно умерять и обогащать, а не ломать и разрушать."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Zahnersatz, (nur Sg.)",
@@ -2505,7 +2660,8 @@
           "ru": "Вы хоть представляете, как ухаживали за зубами в эпоху эллинов?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Brille, die Brillen",
@@ -2535,7 +2691,8 @@
           "ru": "Один из моих агентов сейчас носит очки, имитирующие твой имплантант."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Optiker, die Optiker",
@@ -2565,7 +2722,8 @@
           "ru": "Она не ходила к врачу."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Hörgerät, die Hörgeräte",
@@ -2595,7 +2753,8 @@
           "ru": "Почему ты не носишь слуховой аппарат?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Pflege, (nur Sg.)",
@@ -2625,7 +2784,12 @@
           "ru": "Тепер я знаю, что он получит лучшее лечение."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Vernachlässigung",
+        "die Verwahrolsung",
+        "die Missachtung"
+      ]
     },
     {
       "word": "die Pflegeversicherung, die Pflegeversicherungen",
@@ -2655,7 +2819,8 @@
           "ru": "Чтобы иметь адекватную страховку в случае возникновения чрезвычайной ситуации, многие люди в молодом возрасте оформляют так называемую страховку по уходу за больными. Это обещает финансовую безопасность, если ваше здоровье больше не будет гарантировано и потребуется комплексный уход."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Pflegefall, die Pflegefälle",
@@ -2685,7 +2850,8 @@
           "ru": "Посмотри, кем ты стал."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Pflegedienst, die Pflegedienste",
@@ -2715,7 +2881,8 @@
           "ru": "Сертификат пригодности для работы по уходу за недееспособными людьми."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Pflegeheim, die Pflegeheime",
@@ -2745,7 +2912,8 @@
           "ru": "Поэтому я и отправил тебя в дом престарелых."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Patientenverfügung, die Verfügungen",
@@ -2775,7 +2943,8 @@
           "ru": "Бет подписала документы о донорстве и завещание."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Vorsorgevollmacht, die Vollmachten",
@@ -2797,7 +2966,3011 @@
           "ru": "Подожди, ты даешь ей право на принятие медицинских решений?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kinderärztin, die Kinderärztinnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Педиатр",
+      "translation_en": "Pediatrician",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Kinderärztin innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал педиатру в течение двух недель."
+        },
+        {
+          "de": "Für den Umzug ist die Kinderärztin besonders wichtig.",
+          "ru": "Особенно важен педиатр при переезде."
+        },
+        {
+          "de": "Im Formular muss die Kinderärztin angegeben werden.",
+          "ru": "В бланке необходимо указать педиатра."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Kinderärztin eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро попасть к педиатру.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Kinderärztin brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, педиатр при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Frauenarzt, die Frauenärzte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Гинеколог",
+      "translation_en": "Gynecologist",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie den Frauenarzt zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием гинеколога."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich den Frauenarzt vorlegen.",
+          "ru": "Пришлось предъявить гинеколога в прокуратуру."
+        },
+        {
+          "de": "der Frauenarzt wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "прием у гинеколога проводил ответственный клерк."
+        },
+        {
+          "de": "Also, den Frauenarzt brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, при перерегистрации вам обязательно понадобится врач-гинеколог.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Frauenarzt hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с гинекологом, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Frauenärztin, die Frauenärztinnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "гинеколог",
+      "translation_en": "gynecologist",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie die Frauenärztin im Original.",
+          "ru": "Для регистрации вам понадобится оригинал вашего гинеколога."
+        },
+        {
+          "de": "Bitte bringen Sie die Frauenärztin zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием гинеколога."
+        },
+        {
+          "de": "die Frauenärztin wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "прием у гинеколога проводил ответственный клерк."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Frauenärztin eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно попасть к гинекологу сравнительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Frauenärztin warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Прихода к гинекологу пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Gynäkologe, die Gynäkologen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "гинеколог",
+      "translation_en": "gynecologist",
+      "examples": [
+        {
+          "de": "Beim Bürgeramt musste ich den Gynäkologe vorlegen.",
+          "ru": "Пришлось предъявить гинеколога в прокуратуру."
+        },
+        {
+          "de": "Die Behörde hat den Gynäkologe innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал сертификат гинеколога в течение двух недель."
+        },
+        {
+          "de": "der Gynäkologe wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "прием у гинеколога проводил ответственный клерк."
+        },
+        {
+          "de": "Tipp: den Gynäkologe immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию справки от гинеколога.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Gynäkologe hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с гинекологом, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Gynäkologin, die Gynäkologinnen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Гинеколог",
+      "translation_en": "Gynecologist",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Gynäkologin innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал запись к гинекологу в течение двух недель."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Gynäkologin im Original.",
+          "ru": "Для регистрации вам нужен оригинальный гинеколог."
+        },
+        {
+          "de": "Für den Umzug ist die Gynäkologin besonders wichtig.",
+          "ru": "Гинеколог особенно важен при переезде."
+        },
+        {
+          "de": "Tipp: die Gynäkologin immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию справки от гинеколога.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Gynäkologin brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, при перерегистрации вам обязательно понадобится врач-гинеколог.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der HNO-Arzt, die HNO-Ärzte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "ЛОР-врач",
+      "translation_en": "ENT doctor",
+      "examples": [
+        {
+          "de": "Für den Umzug ist der HNO-Arzt besonders wichtig.",
+          "ru": "ЛОР-врач особенно важен при переезде."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie den HNO-Arzt im Original.",
+          "ru": "Для регистрации нужен оригинал ЛОР-врача."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich den HNO-Arzt vorlegen.",
+          "ru": "Пришлось представиться ЛОР-врачу в ЗАГСе."
+        },
+        {
+          "de": "Also, den HNO-Arzt brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, при перерегистрации вам обязательно понадобится ЛОР-врач.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den HNO-Arzt warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Прихода к ЛОР-врачу пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Hals-Nasen-Ohren-Arzt, die Hals-Nasen-Ohren-Ärzte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Доктор Ухо Нос Горло",
+      "translation_en": "Ear Nose Throat Doctor",
+      "examples": [
+        {
+          "de": "Die Behörde hat den Hals-Nasen-Ohren-Arzt innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали врача-отоларинголога в течение двух недель."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich den Hals-Nasen-Ohren-Arzt vorlegen.",
+          "ru": "Мне пришлось явиться к врачу-отоларингологу в прокуратуру."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie den Hals-Nasen-Ohren-Arzt im Original.",
+          "ru": "Для регистрации вам понадобится настоящее имя вашего врача-отоларинголога."
+        },
+        {
+          "de": "Ich musste ewig auf den Hals-Nasen-Ohren-Arzt warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось ждать вечно, чтобы попасть к врачу-отоларингологу, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Hals-Nasen-Ohren-Arzt brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, при перерегистрации вам обязательно понадобится врач-отоларинголог.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Augenarzt, die Augenärzte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Офтальмолог",
+      "translation_en": "Ophthalmologist",
+      "examples": [
+        {
+          "de": "Für den Umzug ist der Augenarzt besonders wichtig.",
+          "ru": "Офтальмолог особенно важен при переезде."
+        },
+        {
+          "de": "der Augenarzt wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "прием офтальмолога проводил ответственный клерк."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich den Augenarzt vorlegen.",
+          "ru": "Пришлось предъявлять офтальмолога в ЗАГС."
+        },
+        {
+          "de": "Das mit dem Augenarzt hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражает офтальмолог, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: den Augenarzt immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда носите с собой копию офтальмолога.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Augenärztin, die Augenärztinnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "офтальмолог",
+      "translation_en": "ophthalmologist",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie die Augenärztin zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием офтальмолога."
+        },
+        {
+          "de": "Die Behörde hat die Augenärztin innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал сертификат офтальмолога в течение двух недель."
+        },
+        {
+          "de": "Ohne die Augenärztin können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать вашу заявку без офтальмолога."
+        },
+        {
+          "de": "Also, die Augenärztin brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, при перерегистрации к офтальмологу вам обязательно понадобится.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Augenärztin eigentlich relativ schnell.",
+          "ru": "В нашем районе к окулисту можно попасть сравнительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Hautarzt, die Hautärzte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Дерматолог",
+      "translation_en": "Dermatologist",
+      "examples": [
+        {
+          "de": "Beim Bürgeramt musste ich den Hautarzt vorlegen.",
+          "ru": "Пришлось предъявить дерматологу в прокуратуру."
+        },
+        {
+          "de": "Die Behörde hat den Hautarzt innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал заключение дерматолога в течение двух недель."
+        },
+        {
+          "de": "Im Formular muss der Hautarzt angegeben werden.",
+          "ru": "В анкете должен быть указан врач-дерматолог."
+        },
+        {
+          "de": "Das mit dem Hautarzt hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с дерматологом, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Hautarzt warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Прихода к дерматологу мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Hautärztin, die Hautärztinnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Дерматолог",
+      "translation_en": "Dermatologist",
+      "examples": [
+        {
+          "de": "Ohne die Hautärztin können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без дерматолога."
+        },
+        {
+          "de": "Im Formular muss die Hautärztin angegeben werden.",
+          "ru": "В анкете должен быть указан врач-дерматолог."
+        },
+        {
+          "de": "Die Behörde hat die Hautärztin innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал заключение дерматолога в течение двух недель."
+        },
+        {
+          "de": "Tipp: die Hautärztin immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда носите с собой копию дерматолога.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Hautärztin warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Прихода к дерматологу мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Dermatologe, die Dermatologen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Дерматолог",
+      "translation_en": "Dermatologist",
+      "examples": [
+        {
+          "de": "Für den Umzug ist der Dermatologe besonders wichtig.",
+          "ru": "Дерматолог особенно важен для переезда."
+        },
+        {
+          "de": "Bitte bringen Sie den Dermatologe zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием дерматолога."
+        },
+        {
+          "de": "Im Formular muss der Dermatologe angegeben werden.",
+          "ru": "В анкете должен быть указан врач-дерматолог."
+        },
+        {
+          "de": "Das mit dem Dermatologe hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с дерматологом, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Dermatologe brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, при перерегистрации вам обязательно понадобится врач-дерматолог.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Dermatologin, die Dermatologinnen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Дерматолог",
+      "translation_en": "Dermatologist",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Dermatologin innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган власти выписал назначение дерматолога в течение двух недель."
+        },
+        {
+          "de": "Der Vermieter hat die Dermatologin rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно обратился к дерматологу."
+        },
+        {
+          "de": "Für den Umzug ist die Dermatologin besonders wichtig.",
+          "ru": "Дерматолог особенно важен для переезда."
+        },
+        {
+          "de": "Das mit der Dermatologin hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с дерматологом, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Dermatologin eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро попасть к дерматологу.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Kardiologe, die Kardiologen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "кардиолог",
+      "translation_en": "cardiologist",
+      "examples": [
+        {
+          "de": "der Kardiologe wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "кардиолога принял ответственный секретарь."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich den Kardiologe vorlegen.",
+          "ru": "Пришлось представить кардиолога в горсовет."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie den Kardiologe im Original.",
+          "ru": "Для регистрации вам нужен оригинальный кардиолог."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Kardiologe eigentlich relativ schnell.",
+          "ru": "В нашем районе действительно можно относительно быстро попасть к кардиологу.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Kardiologe warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Кардиолога пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kardiologin, die Kardiologinnen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Кардиолог",
+      "translation_en": "Cardiologist",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Kardiologin innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал сертификат кардиолога в течение двух недель."
+        },
+        {
+          "de": "Für den Umzug ist die Kardiologin besonders wichtig.",
+          "ru": "Кардиолог особенно важен для переезда."
+        },
+        {
+          "de": "Ohne die Kardiologin können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать ваше заявление без кардиолога."
+        },
+        {
+          "de": "Tipp: die Kardiologin immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда носите с собой копию заключения кардиолога.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Kardiologin brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, при перерегистрации вам обязательно понадобится врач-кардиолог.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Orthopäde, die Orthopäden",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Ортопед",
+      "translation_en": "Orthopedist",
+      "examples": [
+        {
+          "de": "Für den Umzug ist der Orthopäde besonders wichtig.",
+          "ru": "Ортопед особенно важен для переезда."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie den Orthopäde im Original.",
+          "ru": "Для постановки на учет вам нужен оригинал ортопеда."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Orthopäde.",
+          "ru": "Медицинская страховка покрывает расходы на ортопеда."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Orthopäde eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро попасть к ортопеду.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Orthopäde warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Прихода к ортопеду пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Orthopädin, die Orthopädirinnen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Ортопед",
+      "translation_en": "Orthopedist",
+      "examples": [
+        {
+          "de": "die Orthopädin wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "ортопед был принят ответственным клерком."
+        },
+        {
+          "de": "Bitte bringen Sie die Orthopädin zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием ортопеда."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Orthopädin vorlegen.",
+          "ru": "Пришлось предъявлять ортопеду в ЗАГС."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Orthopädin eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро попасть к ортопеду.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Orthopädin brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, при перерегистрации к ортопеду вам обязательно понадобится.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Neurologe, die Neurologen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "невролог",
+      "translation_en": "neurologist",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie den Neurologe zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием невролога."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie den Neurologe im Original.",
+          "ru": "Для регистрации вам нужен оригинальный невролог."
+        },
+        {
+          "de": "Die Behörde hat den Neurologe innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал невролога в течение двух недель."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Neurologe eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро попасть к неврологу.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Neurologe warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Прихода к неврологу пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Neurologin, die Neurologinnen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Невролог",
+      "translation_en": "Neurologist",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Neurologin.",
+          "ru": "Медицинская страховка покрывает расходы на невролога."
+        },
+        {
+          "de": "Im Formular muss die Neurologin angegeben werden.",
+          "ru": "В анкете должен быть указан невролог."
+        },
+        {
+          "de": "Ohne die Neurologin können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без невролога."
+        },
+        {
+          "de": "Also, die Neurologin brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, при перерегистрации к неврологу вам обязательно понадобится.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Neurologin warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Невролога пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Psychiater, die Psychiater",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "психиатр",
+      "translation_en": "psychiatrist",
+      "examples": [
+        {
+          "de": "Ohne den Psychiater können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без участия психиатра."
+        },
+        {
+          "de": "Bitte bringen Sie den Psychiater zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием психиатра."
+        },
+        {
+          "de": "Die Behörde hat den Psychiater innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власть выдала психиатру в течение двух недель."
+        },
+        {
+          "de": "Ich musste ewig auf den Psychiater warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Прихода к психиатру мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Psychiater hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с психиатром, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Psychiaterin, die Psychiaterinnen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Психиатр",
+      "translation_en": "Psychiatrist",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Psychiaterin.",
+          "ru": "Медицинская страховка покрывает расходы на услуги психиатра."
+        },
+        {
+          "de": "Der Vermieter hat die Psychiaterin rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно обратился к психиатру."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Psychiaterin im Original.",
+          "ru": "Для регистрации вам понадобится оригинал справки от психиатра."
+        },
+        {
+          "de": "Ich musste ewig auf die Psychiaterin warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Психиатра пришлось ждать вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: die Psychiaterin immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию от психиатра.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Psychologe, die Psychologen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "психолог",
+      "translation_en": "psychologist",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie den Psychologe im Original.",
+          "ru": "Для регистрации нужен оригинальный психолог."
+        },
+        {
+          "de": "Bitte bringen Sie den Psychologe zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием психолога."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Psychologe.",
+          "ru": "Медицинская страховка покрывает расходы на услуги психолога."
+        },
+        {
+          "de": "Also, den Psychologe brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, при перерегистрации вам обязательно понадобится психолог.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Psychologe warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Психолога мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Psychologin, die Psychologinnen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "психолог",
+      "translation_en": "psychologist",
+      "examples": [
+        {
+          "de": "Der Vermieter hat die Psychologin rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно обратился к психологу."
+        },
+        {
+          "de": "Bitte bringen Sie die Psychologin zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием психолога."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Psychologin vorlegen.",
+          "ru": "Пришлось представить психолога в прокуратуру."
+        },
+        {
+          "de": "Tipp: die Psychologin immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда носите с собой копию психолога, на всякий случай.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Psychologin eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро найти психолога.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Praxisgebühr, die Praxisgebühren",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Стоимость практики",
+      "translation_en": "Practice fee",
+      "examples": [
+        {
+          "de": "Der Vermieter hat die Praxisgebühr rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно внес оплату за практику."
+        },
+        {
+          "de": "Ohne die Praxisgebühr können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без оплаты практики."
+        },
+        {
+          "de": "Im Formular muss die Praxisgebühr angegeben werden.",
+          "ru": "Стоимость практики должна быть указана в форме."
+        },
+        {
+          "de": "Ich musste ewig auf die Praxisgebühr warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Плату за практику мне пришлось ждать вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Praxisgebühr eigentlich relativ schnell.",
+          "ru": "В нашем районе вы действительно можете получить плату за практику относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Sprechzeiten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Часы работы",
+      "translation_en": "Office hours",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Sprechzeiten innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти опубликовали часы консультаций в течение двух недель."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Sprechzeiten im Original.",
+          "ru": "Для регистрации вам нужны оригинальные часы работы."
+        },
+        {
+          "de": "Der Vermieter hat die Sprechzeiten rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно предоставил график работы."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Sprechzeiten eigentlich relativ schnell.",
+          "ru": "В нашем районе вы действительно можете получить часы консультации относительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Sprechzeiten warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось ждать часов консультации вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Vertretungsarzt, die Vertretungsärzte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Запасной врач",
+      "translation_en": "Substitute doctor",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Vertretungsarzt.",
+          "ru": "Медицинская страховка покрывает расходы на замену врача."
+        },
+        {
+          "de": "Im Formular muss der Vertretungsarzt angegeben werden.",
+          "ru": "В форме необходимо указать замещающего врача."
+        },
+        {
+          "de": "Bitte bringen Sie den Vertretungsarzt zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием запасного врача."
+        },
+        {
+          "de": "Das mit dem Vertretungsarzt hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с заместителем врача, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: den Vertretungsarzt immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию замещающего врача.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Gesundheitskarte, die Gesundheitskarten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Карта здоровья",
+      "translation_en": "Health card",
+      "examples": [
+        {
+          "de": "die Gesundheitskarte wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "медицинская карта была обработана ответственным клерком."
+        },
+        {
+          "de": "Im Formular muss die Gesundheitskarte angegeben werden.",
+          "ru": "Медицинская карта должна быть указана в форме."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Gesundheitskarte vorlegen.",
+          "ru": "Мне пришлось предъявить свою медицинскую карту в ЗАГСе."
+        },
+        {
+          "de": "Also, die Gesundheitskarte brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, медицинская карта вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Gesundheitskarte warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Медицинскую карту мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Chipkarte, die Chipkarten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "чип-карта",
+      "translation_en": "chip card",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie die Chipkarte zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой чип-карту на прием."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Chipkarte vorlegen.",
+          "ru": "Мне пришлось предъявить чип-карту в приемной для граждан."
+        },
+        {
+          "de": "Die Behörde hat die Chipkarte innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган власти выдал чип-карту в течение двух недель."
+        },
+        {
+          "de": "Also, die Chipkarte brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, чип-карта вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Chipkarte eigentlich relativ schnell.",
+          "ru": "В наших краях чип-карту действительно можно получить относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die gesetzliche Krankenkasse, die Krankenkassen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "обязательное медицинское страхование",
+      "translation_en": "statutory health insurance",
+      "examples": [
+        {
+          "de": "Beim Bürgeramt musste ich die gesetzliche Krankenkasse vorlegen.",
+          "ru": "Мне пришлось предъявить свою обязательную медицинскую страховку в ЗАГСе."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die gesetzliche Krankenkasse.",
+          "ru": "Медицинская страховка покрывает расходы на обязательное медицинское страхование."
+        },
+        {
+          "de": "Der Vermieter hat die gesetzliche Krankenkasse rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно предоставил обязательное медицинское страхование."
+        },
+        {
+          "de": "Tipp: die gesetzliche Krankenkasse immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию обязательной медицинской страховки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die gesetzliche Krankenkasse brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, вам обязательно понадобится обязательная медицинская страховка, если вы поменяете регистрацию.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Ersatzkasse, die Ersatzkassen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Замена кассового аппарата",
+      "translation_en": "Replacement cash register",
+      "examples": [
+        {
+          "de": "Im Formular muss die Ersatzkasse angegeben werden.",
+          "ru": "Замещающий фонд должен быть указан в форме."
+        },
+        {
+          "de": "die Ersatzkasse wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Фонд замены был обработан ответственным клерком."
+        },
+        {
+          "de": "Die Behörde hat die Ersatzkasse innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали запасной фонд в течение двух недель."
+        },
+        {
+          "de": "Also, die Ersatzkasse brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, подменный фонд при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: die Ersatzkasse immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию сменного кассового аппарата.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Zusatzversicherung, die Zusatzversicherungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Дополнительная страховка",
+      "translation_en": "Additional insurance",
+      "examples": [
+        {
+          "de": "die Zusatzversicherung wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Дополнительную страховку оформил ответственный клерк."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Zusatzversicherung im Original.",
+          "ru": "Для регистрации вам понадобится оригинал дополнительной страховки."
+        },
+        {
+          "de": "Ohne die Zusatzversicherung können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без дополнительной страховки."
+        },
+        {
+          "de": "Tipp: die Zusatzversicherung immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию дополнительной страховки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Zusatzversicherung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Дополнительную страховку пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Auslandsreisekrankenversicherung, die Versicherungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Медицинская страховка для международных путешествий",
+      "translation_en": "International travel health insurance",
+      "examples": [
+        {
+          "de": "die Auslandsreisekrankenversicherung wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Международное туристическое медицинское страхование было оформлено ответственным клерком."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Auslandsreisekrankenversicherung vorlegen.",
+          "ru": "Мне пришлось предъявить свою медицинскую страховку для выезжающих за границу в отдел регистрации граждан."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Auslandsreisekrankenversicherung.",
+          "ru": "Медицинская страховка покрывает расходы на медицинскую страховку для международных поездок."
+        },
+        {
+          "de": "Also, die Auslandsreisekrankenversicherung brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, при перерегистрации вам обязательно понадобится международная туристическая медицинская страховка.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Auslandsreisekrankenversicherung eigentlich relativ schnell.",
+          "ru": "В нашем регионе вы действительно можете получить медицинскую страховку для международных поездок относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Patientenakte, die Patientenakten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Запись пациента",
+      "translation_en": "Patient record",
+      "examples": [
+        {
+          "de": "Beim Bürgeramt musste ich die Patientenakte vorlegen.",
+          "ru": "Мне пришлось предъявить карту пациента в прокуратуру."
+        },
+        {
+          "de": "Ohne die Patientenakte können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без файла пациента."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Patientenakte im Original.",
+          "ru": "Для регистрации вам понадобится оригинал файла пациента."
+        },
+        {
+          "de": "Also, die Patientenakte brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, карта пациента вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Patientenakte hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала история с картами пациентов, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Anamnese, die Anamnesen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Анамнез",
+      "translation_en": "Anamnesis",
+      "examples": [
+        {
+          "de": "Der Vermieter hat die Anamnese rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно предоставил медицинскую историю."
+        },
+        {
+          "de": "Ohne die Anamnese können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без истории болезни."
+        },
+        {
+          "de": "Für den Umzug ist die Anamnese besonders wichtig.",
+          "ru": "Особое значение при переезде имеет анамнез."
+        },
+        {
+          "de": "Tipp: die Anamnese immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда носите с собой копию своей истории болезни.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Anamnese eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно сравнительно быстро получить анамнез.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Anamnesebogen, die Anamnesebögen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Бланк истории болезни",
+      "translation_en": "Medical history form",
+      "examples": [
+        {
+          "de": "Die Behörde hat den Anamnesebogen innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал форму истории болезни в течение двух недель."
+        },
+        {
+          "de": "Bitte bringen Sie den Anamnesebogen zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием форму истории болезни."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Anamnesebogen.",
+          "ru": "Медицинская страховка покрывает расходы на форму анамнеза."
+        },
+        {
+          "de": "Also, den Anamnesebogen brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, анамнез при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Anamnesebogen eigentlich relativ schnell.",
+          "ru": "В нашем районе вы действительно можете получить форму истории болезни относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Einverständniserklärung, die Einverständniserklärungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Заявление о согласии",
+      "translation_en": "Declaration of Consent",
+      "examples": [
+        {
+          "de": "Der Vermieter hat die Einverständniserklärung rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно подал заявление о согласии."
+        },
+        {
+          "de": "Für den Umzug ist die Einverständniserklärung besonders wichtig.",
+          "ru": "Декларация согласия особенно важна для переезда."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Einverständniserklärung.",
+          "ru": "Медицинская страховка покрывает расходы на заявление о согласии."
+        },
+        {
+          "de": "Also, die Einverständniserklärung brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, заявление о согласии при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Einverständniserklärung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Форму согласия мне пришлось ждать вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Medikamentenrezept, die Rezepte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "рецепт на лекарство",
+      "translation_en": "medication prescription",
+      "examples": [
+        {
+          "de": "Der Vermieter hat das Medikamentenrezept rechtzeitig eingereicht.",
+          "ru": "Арендодатель вовремя выписал рецепт на лекарство."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie das Medikamentenrezept im Original.",
+          "ru": "Для регистрации вам понадобится оригинал рецепта на лекарство."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich das Medikamentenrezept vorlegen.",
+          "ru": "Мне пришлось предъявить рецепт на лекарство в ЗАГС."
+        },
+        {
+          "de": "Ich musste ewig auf das Medikamentenrezept warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось целую вечность ждать рецепта на лекарство, что заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Medikamentenrezept brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, рецепт на лекарство при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Apothekenpflicht, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Требование аптеки",
+      "translation_en": "Pharmacy requirement",
+      "examples": [
+        {
+          "de": "Beim Bürgeramt musste ich die Apothekenpflicht vorlegen.",
+          "ru": "Мне пришлось предъявить требование об аптеке в гражданскую канцелярию."
+        },
+        {
+          "de": "Der Vermieter hat die Apothekenpflicht rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно представил требование об аптеке."
+        },
+        {
+          "de": "Die Behörde hat die Apothekenpflicht innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали требование об аптеке в течение двух недель."
+        },
+        {
+          "de": "Das mit der Apothekenpflicht hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражало требование об аптеках, бюрократия здесь безумная.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Apothekenpflicht warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Пришлось ждать аптечного требования целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Heilmittel, die Heilmittel",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Средство",
+      "translation_en": "Remedy",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie das Heilmittel zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой средство на прием."
+        },
+        {
+          "de": "Im Formular muss das Heilmittel angegeben werden.",
+          "ru": "Средство правовой защиты должно быть указано в форме."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich das Heilmittel vorlegen.",
+          "ru": "Мне пришлось представить средство правовой защиты в офис гражданина."
+        },
+        {
+          "de": "Also, das Heilmittel brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, средство вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf das Heilmittel warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Лекарства пришлось ждать вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Arzneimittel, die Arzneimittel",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "лекарство",
+      "translation_en": "drug",
+      "examples": [
+        {
+          "de": "Für den Umzug ist das Arzneimittel besonders wichtig.",
+          "ru": "Лекарство особенно важно при переезде."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich das Arzneimittel vorlegen.",
+          "ru": "Мне пришлось предъявить лекарство в ЗАГСе."
+        },
+        {
+          "de": "Im Formular muss das Arzneimittel angegeben werden.",
+          "ru": "В бланке должен быть указан препарат."
+        },
+        {
+          "de": "Ich musste ewig auf das Arzneimittel warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Лекарство пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Arzneimittel eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно получить лекарство сравнительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Schmerztablette, die Schmerztabletten",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "обезболивающее",
+      "translation_en": "Painkiller",
+      "examples": [
+        {
+          "de": "die Schmerztablette wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "обезболивающее было обработано ответственным клерком."
+        },
+        {
+          "de": "Ohne die Schmerztablette können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать ваше заявление без обезболивающего."
+        },
+        {
+          "de": "Der Vermieter hat die Schmerztablette rechtzeitig eingereicht.",
+          "ru": "Хозяин предоставил обезболивающие вовремя."
+        },
+        {
+          "de": "Tipp: die Schmerztablette immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда носите с собой копию обезболивающего.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Schmerztablette hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Обезболивающее меня очень раздражало, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Schmerzmittel, die Schmerzmittel",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Обезболивающие",
+      "translation_en": "Painkillers",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für das Schmerzmittel.",
+          "ru": "Медицинская страховка покрывает стоимость обезболивающих."
+        },
+        {
+          "de": "Im Formular muss das Schmerzmittel angegeben werden.",
+          "ru": "В бланке должно быть указано обезболивающее."
+        },
+        {
+          "de": "Bitte bringen Sie das Schmerzmittel zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием обезболивающее."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Schmerzmittel eigentlich relativ schnell.",
+          "ru": "В наших краях обезболивающие действительно можно получить сравнительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Schmerzmittel hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Обезболивающее меня очень раздражало, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Salbe, die Salben",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "мазь",
+      "translation_en": "ointment",
+      "examples": [
+        {
+          "de": "Der Vermieter hat die Salbe rechtzeitig eingereicht.",
+          "ru": "Хозяин предоставил мазь вовремя."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Salbe vorlegen.",
+          "ru": "Мне пришлось предъявить мазь в горсовете."
+        },
+        {
+          "de": "Bitte bringen Sie die Salbe zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой мазь на прием."
+        },
+        {
+          "de": "Also, die Salbe brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, мазь вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Salbe eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно получить мазь относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Gel, die Gele",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "гель",
+      "translation_en": "gel",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie das Gel zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите гель с собой на прием."
+        },
+        {
+          "de": "Ohne das Gel können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать вашу заявку без геля."
+        },
+        {
+          "de": "Für den Umzug ist das Gel besonders wichtig.",
+          "ru": "Гель особенно важен при переезде."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Gel eigentlich relativ schnell.",
+          "ru": "В наших краях гель действительно можно получить относительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf das Gel warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Геля мне пришлось ждать вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Tropfen, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "капли",
+      "translation_en": "drops",
+      "examples": [
+        {
+          "de": "Im Formular muss die Tropfen angegeben werden.",
+          "ru": "В форме необходимо указать капли."
+        },
+        {
+          "de": "Die Behörde hat die Tropfen innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали капли в течение двух недель."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Tropfen vorlegen.",
+          "ru": "Мне пришлось предъявить капли в горсовете."
+        },
+        {
+          "de": "Tipp: die Tropfen immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию капель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Tropfen eigentlich relativ schnell.",
+          "ru": "В нашем регионе вы действительно получаете капли относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Hustensaft, die Hustensäfte",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "Сироп от кашля",
+      "translation_en": "Cough syrup",
+      "examples": [
+        {
+          "de": "Ohne den Hustensaft können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать ваше заявление без сиропа от кашля."
+        },
+        {
+          "de": "Bitte bringen Sie den Hustensaft zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием сироп от кашля."
+        },
+        {
+          "de": "Die Behörde hat den Hustensaft innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали сироп от кашля в течение двух недель."
+        },
+        {
+          "de": "Das mit dem Hustensaft hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация со сиропом от кашля, бюрократия здесь безумная.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Hustensaft brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, сироп от кашля вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Spray, die Sprays",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "спрей",
+      "translation_en": "spray",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie das Spray zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите спрей с собой на прием."
+        },
+        {
+          "de": "Für den Umzug ist das Spray besonders wichtig.",
+          "ru": "Спрей особенно важен при переезде."
+        },
+        {
+          "de": "Die Behörde hat das Spray innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выпустили спрей в течение двух недель."
+        },
+        {
+          "de": "Tipp: das Spray immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда имейте при себе копию спрея, лучше перестраховаться.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Spray brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, спрей вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Asthmaspray, die Asthmasprays",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Спрей от астмы",
+      "translation_en": "Asthma spray",
+      "examples": [
+        {
+          "de": "Der Vermieter hat das Asthmaspray rechtzeitig eingereicht.",
+          "ru": "Арендодатель предоставил спрей от астмы вовремя."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich das Asthmaspray vorlegen.",
+          "ru": "Мне пришлось предъявить спрей от астмы в администрации граждан."
+        },
+        {
+          "de": "Für den Umzug ist das Asthmaspray besonders wichtig.",
+          "ru": "Спрей от астмы особенно важен при движении."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Asthmaspray eigentlich relativ schnell.",
+          "ru": "В нашем районе вы действительно можете относительно быстро получить спрей от астмы.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Asthmaspray brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, спрей от астмы вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Pflaster, die Pflaster",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "Тротуар",
+      "translation_en": "Pavement",
+      "examples": [
+        {
+          "de": "Im Formular muss das Pflaster angegeben werden.",
+          "ru": "Штукатурка должна быть указана в форме."
+        },
+        {
+          "de": "Der Vermieter hat das Pflaster rechtzeitig eingereicht.",
+          "ru": "Арендодатель предоставил исправление вовремя."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich das Pflaster vorlegen.",
+          "ru": "Пришлось мне предъявить гипс в горсовете."
+        },
+        {
+          "de": "Tipp: das Pflaster immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда имейте при себе копию гипса, лучше перестраховаться.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf das Pflaster warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Патч пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Verband, die Verbände",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Ассоциация",
+      "translation_en": "Association",
+      "examples": [
+        {
+          "de": "Für den Umzug ist der Verband besonders wichtig.",
+          "ru": "Ассоциация особенно важна для переезда."
+        },
+        {
+          "de": "Der Vermieter hat den Verband rechtzeitig eingereicht.",
+          "ru": "Арендодатель представил ассоциацию своевременно."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich den Verband vorlegen.",
+          "ru": "Мне пришлось представить ассоциацию в офис граждан."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Verband eigentlich relativ schnell.",
+          "ru": "В наших краях повязку действительно можно получить сравнительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: den Verband immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда носите с собой копию повязки.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Binde, die Binden",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Связывать",
+      "translation_en": "Bind",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Binde.",
+          "ru": "Медицинская страховка покрывает расходы на повязку."
+        },
+        {
+          "de": "die Binde wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "повязку обрабатывал ответственный служащий."
+        },
+        {
+          "de": "Der Vermieter hat die Binde rechtzeitig eingereicht.",
+          "ru": "Арендодатель сдал площадку вовремя."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Binde eigentlich relativ schnell.",
+          "ru": "В наших краях повязку действительно можно получить сравнительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Binde warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Прокладку пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kompresse, die Kompressen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "компресс",
+      "translation_en": "compress",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Kompresse.",
+          "ru": "Медицинская страховка покрывает стоимость компресса."
+        },
+        {
+          "de": "Im Formular muss die Kompresse angegeben werden.",
+          "ru": "В форме необходимо указать компресс."
+        },
+        {
+          "de": "Bitte bringen Sie die Kompresse zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой компресс на прием."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Kompresse eigentlich relativ schnell.",
+          "ru": "В наших краях компресс действительно можно получить относительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Kompresse brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, компресс вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Spritze, die Spritzen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Инъекция",
+      "translation_en": "Injection",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Spritze innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали прививку в течение двух недель."
+        },
+        {
+          "de": "die Spritze wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "шприц был обработан ответственным служащим."
+        },
+        {
+          "de": "Für den Umzug ist die Spritze besonders wichtig.",
+          "ru": "Шприц особенно важен при движении."
+        },
+        {
+          "de": "Ich musste ewig auf die Spritze warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Укола пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: die Spritze immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда носите с собой копию шприца, лучше перестраховаться, чем потом сожалеть.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Nadel, die Nadeln",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "иголка",
+      "translation_en": "needle",
+      "examples": [
+        {
+          "de": "Ohne die Nadel können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без иглы."
+        },
+        {
+          "de": "die Nadel wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "игла была обработана ответственным клерком."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Nadel.",
+          "ru": "Медицинская страховка покрывает стоимость иглы."
+        },
+        {
+          "de": "Das mit der Nadel hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала эта игла, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Nadel brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, игла вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Impfdosis, die Impfdosen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Доза вакцины",
+      "translation_en": "Vaccine dose",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie die Impfdosis im Original.",
+          "ru": "Для регистрации необходима оригинальная доза прививки."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Impfdosis.",
+          "ru": "Медицинская страховка покрывает стоимость дозы вакцинации."
+        },
+        {
+          "de": "Im Formular muss die Impfdosis angegeben werden.",
+          "ru": "Доза вакцинации должна быть указана в бланке."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Impfdosis eigentlich relativ schnell.",
+          "ru": "В нашем районе получить дозу вакцины можно сравнительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Impfdosis brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, доза прививки при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Schutzimpfung, die Schutzimpfungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Вакцинация",
+      "translation_en": "Vaccination",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie die Schutzimpfung im Original.",
+          "ru": "Для постановки на учет необходим оригинал прививки."
+        },
+        {
+          "de": "Bitte bringen Sie die Schutzimpfung zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием вакцинацию."
+        },
+        {
+          "de": "die Schutzimpfung wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Вакцинацию проводил ответственный сотрудник."
+        },
+        {
+          "de": "Tipp: die Schutzimpfung immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда имейте при себе копию прививки, лучше перестраховаться.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Schutzimpfung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Прививку пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Impfreaktion, die Impfreaktionen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Реакция на вакцинацию",
+      "translation_en": "Vaccination reaction",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Impfreaktion.",
+          "ru": "Медицинская страховка покрывает расходы на реакцию на вакцинацию."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Impfreaktion im Original.",
+          "ru": "Для регистрации необходим оригинал реакции на прививку."
+        },
+        {
+          "de": "Im Formular muss die Impfreaktion angegeben werden.",
+          "ru": "В бланке должна быть указана реакция на вакцинацию."
+        },
+        {
+          "de": "Also, die Impfreaktion brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, реакция на прививку при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Impfreaktion warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Реакции на вакцину пришлось ждать вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Impfschaden, die Impfschäden",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Вред вакцины",
+      "translation_en": "Vaccine damage",
+      "examples": [
+        {
+          "de": "Für den Umzug ist der Impfschaden besonders wichtig.",
+          "ru": "Вред от вакцинации особенно важен при переезде."
+        },
+        {
+          "de": "der Impfschaden wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Повреждения от вакцинации были обработаны ответственным клерком."
+        },
+        {
+          "de": "Bitte bringen Sie den Impfschaden zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием повреждения от вакцинации."
+        },
+        {
+          "de": "Tipp: den Impfschaden immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию повреждения от прививки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Impfschaden hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень разозлил вопрос об ущербе от вакцины, бюрократия здесь безумная.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Vorsorge, die Vorsorgen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Меры предосторожности",
+      "translation_en": "Precaution",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Vorsorge innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти издали меру предосторожности в течение двух недель."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Vorsorge im Original.",
+          "ru": "Для регистрации вам необходим оригинал пенсионного обеспечения."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Vorsorge vorlegen.",
+          "ru": "Мне пришлось предъявить меру предосторожности в прокуратуру."
+        },
+        {
+          "de": "Ich musste ewig auf die Vorsorge warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Осмотра пришлось ждать целую вечность, он занял почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Vorsorge brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Так что вам обязательно понадобится эта предосторожность при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Früherkennung, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Раннее обнаружение",
+      "translation_en": "Early detection",
+      "examples": [
+        {
+          "de": "die Früherkennung wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Раннее обнаружение было обработано ответственным клерком."
+        },
+        {
+          "de": "Die Behörde hat die Früherkennung innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган власти выдал сертификат раннего обнаружения в течение двух недель."
+        },
+        {
+          "de": "Für den Umzug ist die Früherkennung besonders wichtig.",
+          "ru": "Раннее обнаружение особенно важно при переезде."
+        },
+        {
+          "de": "Also, die Früherkennung brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, вам обязательно понадобится раннее обнаружение при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Früherkennung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Раннего выявления мне пришлось ждать вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Krebsvorsorge, die Krebsvorsorgen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Профилактика рака",
+      "translation_en": "Cancer prevention",
+      "examples": [
+        {
+          "de": "Der Vermieter hat die Krebsvorsorge rechtzeitig eingereicht.",
+          "ru": "Арендодатель вовремя провел обследование на рак."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Krebsvorsorge.",
+          "ru": "Медицинская страховка покрывает расходы на профилактику рака."
+        },
+        {
+          "de": "Im Formular muss die Krebsvorsorge angegeben werden.",
+          "ru": "В форме необходимо указать скрининг на рак."
+        },
+        {
+          "de": "Das mit der Krebsvorsorge hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражает вопрос скрининга на рак, бюрократия здесь безумная.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Krebsvorsorge warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось целую вечность ждать скрининга на рак, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Blutbild, die Blutbilder",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Анализ крови",
+      "translation_en": "Blood count",
+      "examples": [
+        {
+          "de": "Die Behörde hat das Blutbild innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган власти выдал анализ крови в течение двух недель."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich das Blutbild vorlegen.",
+          "ru": "Мне пришлось сдать анализ крови в гражданскую комиссию."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für das Blutbild.",
+          "ru": "Медицинская страховка покрывает расходы на анализ крови."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Blutbild eigentlich relativ schnell.",
+          "ru": "В нашем районе действительно можно сравнительно быстро сдать анализ крови.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Blutbild brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, анализ крови вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Blutentnahme, die Blutentnahmen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Сбор крови",
+      "translation_en": "Blood collection",
+      "examples": [
+        {
+          "de": "Im Formular muss die Blutentnahme angegeben werden.",
+          "ru": "Образец крови должен быть указан в форме."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Blutentnahme im Original.",
+          "ru": "Для регистрации вам понадобится оригинальный образец крови."
+        },
+        {
+          "de": "die Blutentnahme wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "образец крови был обработан ответственным служащим."
+        },
+        {
+          "de": "Ich musste ewig auf die Blutentnahme warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось целую вечность ждать взятия образца крови, что заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Blutentnahme hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с анализами крови, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Blutprobe, die Blutproben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Образец крови",
+      "translation_en": "Blood sample",
+      "examples": [
+        {
+          "de": "Für den Umzug ist die Blutprobe besonders wichtig.",
+          "ru": "Анализ крови особенно важен при переезде."
+        },
+        {
+          "de": "Ohne die Blutprobe können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без образца крови."
+        },
+        {
+          "de": "Der Vermieter hat die Blutprobe rechtzeitig eingereicht.",
+          "ru": "Арендодатель сдал анализ крови вовремя."
+        },
+        {
+          "de": "Ich musste ewig auf die Blutprobe warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Сдачи анализа крови мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Blutprobe hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Анализ крови меня очень раздражал, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Urinprobe, die Urinproben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Образец мочи",
+      "translation_en": "Urine sample",
+      "examples": [
+        {
+          "de": "Der Vermieter hat die Urinprobe rechtzeitig eingereicht.",
+          "ru": "Арендодатель сдал анализ мочи вовремя."
+        },
+        {
+          "de": "Bitte bringen Sie die Urinprobe zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой образец мочи на прием."
+        },
+        {
+          "de": "Ohne die Urinprobe können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать ваше заявление без образца мочи."
+        },
+        {
+          "de": "Ich musste ewig auf die Urinprobe warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Анализ мочи мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Urinprobe eigentlich relativ schnell.",
+          "ru": "В нашем районе вы действительно можете получить образец мочи относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Ultraschalluntersuchung, die Untersuchungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Ультразвуковое исследование",
+      "translation_en": "Ultrasound examination",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Ultraschalluntersuchung.",
+          "ru": "Медицинская страховка покрывает расходы на ультразвуковое исследование."
+        },
+        {
+          "de": "Der Vermieter hat die Ultraschalluntersuchung rechtzeitig eingereicht.",
+          "ru": "Арендодатель вовремя провел УЗИ."
+        },
+        {
+          "de": "Für den Umzug ist die Ultraschalluntersuchung besonders wichtig.",
+          "ru": "Ультразвуковые исследования особенно важны при переезде."
+        },
+        {
+          "de": "Tipp: die Ultraschalluntersuchung immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию УЗИ-исследования.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Ultraschalluntersuchung hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "УЗИ меня очень раздражало, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Röntgen, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "рентген",
+      "translation_en": "roentgen",
+      "examples": [
+        {
+          "de": "Die Behörde hat das Röntgen innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали рентгеновский снимок в течение двух недель."
+        },
+        {
+          "de": "Für den Umzug ist das Röntgen besonders wichtig.",
+          "ru": "Рентгеновские лучи особенно важны при движении."
+        },
+        {
+          "de": "Im Formular muss das Röntgen angegeben werden.",
+          "ru": "В бланке должен быть указан рентген."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Röntgen eigentlich relativ schnell.",
+          "ru": "В наших краях сделать рентген действительно можно сравнительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: das Röntgen immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда носите с собой копию рентгеновского снимка.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Röntgenbild, die Röntgenbilder",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Рентгеновское изображение",
+      "translation_en": "X-ray image",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für das Röntgenbild.",
+          "ru": "Медицинская страховка покрывает расходы на рентген."
+        },
+        {
+          "de": "Die Behörde hat das Röntgenbild innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали рентгеновский снимок в течение двух недель."
+        },
+        {
+          "de": "Bitte bringen Sie das Röntgenbild zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием рентгеновский снимок."
+        },
+        {
+          "de": "Also, das Röntgenbild brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, рентген вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Röntgenbild eigentlich relativ schnell.",
+          "ru": "В наших краях рентген можно сделать сравнительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das EKG, die EKGs",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "ЭКГ",
+      "translation_en": "ECG",
+      "examples": [
+        {
+          "de": "Für den Umzug ist das EKG besonders wichtig.",
+          "ru": "ЭКГ особенно важна при движении."
+        },
+        {
+          "de": "das EKG wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "ЭКГ обрабатывала ответственный секретарь."
+        },
+        {
+          "de": "Ohne das EKG können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без ЭКГ."
+        },
+        {
+          "de": "Ich musste ewig auf das EKG warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось целую вечность ждать ЭКГ, что заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: das EKG immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда носите с собой копию ЭКГ.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Blutdruck, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Артериальное давление",
+      "translation_en": "Blood pressure",
+      "examples": [
+        {
+          "de": "Ohne den Blutdruck können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без вашего кровяного давления."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Blutdruck.",
+          "ru": "Медицинская страховка покрывает расходы на лечение артериального давления."
+        },
+        {
+          "de": "der Blutdruck wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "кровяное давление измерялось ответственным служащим."
+        },
+        {
+          "de": "Das mit dem Blutdruck hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала проблема с кровяным давлением, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Blutdruck brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, при регистрации вам обязательно понадобится ваше артериальное давление.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Blutdruckmessgerät, die Blutdruckmessgeräte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Монитор артериального давления",
+      "translation_en": "Blood pressure monitor",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie das Blutdruckmessgerät zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием тонометр."
+        },
+        {
+          "de": "Die Behörde hat das Blutdruckmessgerät innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали тонометр в течение двух недель."
+        },
+        {
+          "de": "Der Vermieter hat das Blutdruckmessgerät rechtzeitig eingereicht.",
+          "ru": "Арендодатель предоставил прибор для измерения артериального давления вовремя."
+        },
+        {
+          "de": "Also, das Blutdruckmessgerät brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, тонометр вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: das Blutdruckmessgerät immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда имейте при себе копию тонометра, лучше перестраховаться, чем потом сожалеть.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Fieberthermometer, die Fieberthermometer",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "клинический термометр",
+      "translation_en": "clinical thermometer",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie das Fieberthermometer zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой термометр на прием."
+        },
+        {
+          "de": "das Fieberthermometer wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "клинический термометр обрабатывался ответственным служащим."
+        },
+        {
+          "de": "Der Vermieter hat das Fieberthermometer rechtzeitig eingereicht.",
+          "ru": "Арендодатель сдал термометр вовремя."
+        },
+        {
+          "de": "Also, das Fieberthermometer brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, градусник вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Fieberthermometer eigentlich relativ schnell.",
+          "ru": "В наших краях термометр действительно можно получить относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Krankenschwester, die Krankenschwestern",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "Медсестра",
+      "translation_en": "Nurse",
+      "examples": [
+        {
+          "de": "Für den Umzug ist die Krankenschwester besonders wichtig.",
+          "ru": "Медсестра особенно важна при переезде."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Krankenschwester.",
+          "ru": "Медицинская страховка покрывает расходы медсестры."
+        },
+        {
+          "de": "Im Formular muss die Krankenschwester angegeben werden.",
+          "ru": "В анкете должна быть указана медсестра."
+        },
+        {
+          "de": "Also, die Krankenschwester brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, медсестра вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Krankenschwester warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Медсестру пришлось ждать вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Krankenpfleger, die Krankenpfleger",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Медсестра",
+      "translation_en": "Nurse",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie den Krankenpfleger zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием медсестру."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich den Krankenpfleger vorlegen.",
+          "ru": "Мне пришлось представить медсестру в приемную для граждан."
+        },
+        {
+          "de": "Die Behörde hat den Krankenpfleger innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал медсестре в течение двух недель."
+        },
+        {
+          "de": "Das mit dem Krankenpfleger hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с медсестрой, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Krankenpfleger brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, медсестра вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Krankenpflegerin, die Krankenpflegerinnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "медсестра",
+      "translation_en": "nurse",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie die Krankenpflegerin zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием медсестру."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Krankenpflegerin vorlegen.",
+          "ru": "Мне пришлось предъявить медсестру в прокуратуру."
+        },
+        {
+          "de": "Für den Umzug ist die Krankenpflegerin besonders wichtig.",
+          "ru": "Медсестра особенно важна при переезде."
+        },
+        {
+          "de": "Das mit der Krankenpflegerin hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с медсестрой, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: die Krankenpflegerin immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте копию у медсестры.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Hebamme, die Hebammen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "акушерка",
+      "translation_en": "midwife",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Hebamme innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал акушерке в течение двух недель."
+        },
+        {
+          "de": "Bitte bringen Sie die Hebamme zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием акушерку."
+        },
+        {
+          "de": "Ohne die Hebamme können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать ваше заявление без акушерки."
+        },
+        {
+          "de": "Das mit der Hebamme hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с акушеркой, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Hebamme eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро найти акушерку.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "sich unwohl fühlen",
+      "part_of_speech": "Verb",
+      "level": "A2",
+      "translation_ru": "чувствовать себя некомфортно",
+      "translation_en": "feel uncomfortable",
+      "examples": [
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell sich unwohl fühlen.",
+          "ru": "Клерку быстро стало не по себе от этого заявления."
+        },
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu sich unwohl fühlen.",
+          "ru": "Важно не чувствовать себя неловко по поводу срока подачи налоговой декларации."
+        },
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell sich unwohl fühlen.",
+          "ru": "В офисе граждан я быстро почувствовал себя неловко из-за своих опасений."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett sich unwohl fühlen, das war anstrengend.",
+          "ru": "В конце концов нам пришлось снова почувствовать себя совершенно некомфортно, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich sich unwohl fühlen.",
+          "ru": "Мой начальник всегда советует начинать чувствовать себя плохо как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "krankschreiben lassen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "получить больничный",
+      "translation_en": "get sick leave",
+      "examples": [
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich krankschreiben lassen.",
+          "ru": "Арендатор должен вовремя оплатить отпуск по болезни, чтобы оплатить дополнительные расходы."
+        },
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell krankschreiben lassen.",
+          "ru": "Мне удалось быстро получить больничный лист в офисе для граждан."
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu krankschreiben lassen.",
+          "ru": "Не забудьте попросить отпуск по болезни в вашей медицинской страховой компании."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu krankschreiben lassen.",
+          "ru": "Недавно я сам испытал это, когда пытался взять отпуск по болезни.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu krankschreiben lassen, aber machbar.",
+          "ru": "Что ж, иногда получить больничный не так-то просто, но вполне осуществимо.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "gesundschreiben",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "писать хорошо",
+      "translation_en": "write well",
+      "examples": [
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich gesundschreiben.",
+          "ru": "Арендатор обязан своевременно оплатить дополнительные расходы."
+        },
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell gesundschreiben.",
+          "ru": "Я смог быстро подтвердить свои опасения в офисе граждан."
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu gesundschreiben.",
+          "ru": "Не забудьте уведомить об этом свою медицинскую страховую компанию."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich gesundschreiben.",
+          "ru": "Мой начальник всегда говорит, что тебе следует поправить свое здоровье как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett gesundschreiben, das war anstrengend.",
+          "ru": "В конце концов нам пришлось снова выздоравливать, что было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "schlucken",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "глотать",
+      "translation_en": "swallow",
+      "examples": [
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu schlucken.",
+          "ru": "Важно проглотить срок подачи налоговой декларации."
+        },
+        {
+          "de": "Die Behörde hat beschlossen, das Verfahren zu schlucken.",
+          "ru": "Власти решили проглотить эту процедуру."
+        },
+        {
+          "de": "Beim Umzug muss man viele Formalitäten schlucken.",
+          "ru": "При переезде вам придется проглотить множество формальностей."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu schlucken, aber machbar.",
+          "ru": "Ну, иногда проглотить не так-то просто, но можно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu schlucken.",
+          "ru": "Недавно я сам испытал это, когда пытался глотать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "auftragen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "применять",
+      "translation_en": "apply",
+      "examples": [
+        {
+          "de": "Sie müssen sich innerhalb von zwei Wochen beim Einwohnermeldeamt auftragen.",
+          "ru": "Вам необходимо зарегистрироваться в органе регистрации жильцов в течение двух недель."
+        },
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell auftragen.",
+          "ru": "Я смог быстро выразить свою обеспокоенность в офисе граждан."
+        },
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell auftragen.",
+          "ru": "Сотрудник смог быстро подать заявку."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig auftragen.",
+          "ru": "Да, действительно нужно быть осторожным и правильно его применять.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu auftragen, aber machbar.",
+          "ru": "Что ж, иногда это не так просто применить, но это можно сделать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "inhalieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "вдыхать",
+      "translation_en": "inhale",
+      "examples": [
+        {
+          "de": "Sie müssen sich innerhalb von zwei Wochen beim Einwohnermeldeamt inhalieren.",
+          "ru": "Вам необходимо зарегистрироваться в органе регистрации жильцов в течение двух недель."
+        },
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell inhalieren.",
+          "ru": "Я смог быстро решить свои проблемы в офисе граждан."
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu inhalieren.",
+          "ru": "Не забудьте внести свою медицинскую страховку."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich inhalieren.",
+          "ru": "Мой начальник всегда советует вдохнуть это как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig inhalieren.",
+          "ru": "Да, действительно нужно быть осторожным и правильно вдыхать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "desinfizieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "дезинфицировать",
+      "translation_en": "disinfect",
+      "examples": [
+        {
+          "de": "Die Behörde hat beschlossen, das Verfahren zu desinfizieren.",
+          "ru": "Власти решили дезинфицировать процесс."
+        },
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich desinfizieren.",
+          "ru": "Арендатор обязан вовремя дезинфицировать инженерные коммуникации."
+        },
+        {
+          "de": "Beim Umzug muss man viele Formalitäten desinfizieren.",
+          "ru": "При переезде приходится выполнять массу формальностей."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett desinfizieren, das war anstrengend.",
+          "ru": "В итоге нам пришлось снова все полностью дезинфицировать, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich desinfizieren.",
+          "ru": "Мой начальник всегда советует продезинфицировать его как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "impfen lassen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "сделать прививку",
+      "translation_en": "get vaccinated",
+      "examples": [
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell impfen lassen.",
+          "ru": "Мне удалось быстро сделать прививку по моему запросу в Управлении по делам граждан."
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu impfen lassen.",
+          "ru": "Не забудьте сделать прививку у своего поставщика медицинской страховки."
+        },
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu impfen lassen.",
+          "ru": "Важно успеть сделать прививку к сроку подачи налоговой декларации."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett impfen lassen, das war anstrengend.",
+          "ru": "В конце концов нам пришлось заново делать все прививки, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich impfen lassen.",
+          "ru": "Мой начальник всегда советует сделать прививку как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "freimachen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "освободить",
+      "translation_en": "free up",
+      "examples": [
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell freimachen.",
+          "ru": "Сотрудник быстро оформил заявку."
+        },
+        {
+          "de": "Die Behörde hat beschlossen, das Verfahren zu freimachen.",
+          "ru": "Власти решили упростить процедуру."
+        },
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich freimachen.",
+          "ru": "Арендатор должен своевременно покрыть дополнительные расходы."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett freimachen, das war anstrengend.",
+          "ru": "В конце концов нам пришлось полностью все очищать заново, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig freimachen.",
+          "ru": "Да, просто нужно быть очень осторожным и правильно его очистить.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "atmen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "дышать",
+      "translation_en": "breathe",
+      "examples": [
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu atmen.",
+          "ru": "Не забудьте упомянуть о своей медицинской страховке."
+        },
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu atmen.",
+          "ru": "Важно знать срок подачи налоговой декларации."
+        },
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell atmen.",
+          "ru": "Клерк смог быстро выдохнуть через приложение."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich atmen.",
+          "ru": "Мой босс всегда советует дышать как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu atmen.",
+          "ru": "Я сам испытал это недавно, когда пытался дышать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einatmen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "вдыхать",
+      "translation_en": "inhale",
+      "examples": [
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu einatmen.",
+          "ru": "Важно не пропустить срок подачи налоговой декларации."
+        },
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell einatmen.",
+          "ru": "В офисе граждан я смог быстро обсудить мои опасения."
+        },
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell einatmen.",
+          "ru": "Клерк смог быстро рассмотреть заявку."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig einatmen.",
+          "ru": "Да, действительно нужно быть осторожным и правильно дышать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu einatmen.",
+          "ru": "Я сам испытал это недавно, когда попытался вдохнуть.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ausatmen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "выдохнуть",
+      "translation_en": "exhale",
+      "examples": [
+        {
+          "de": "Beim Umzug muss man viele Formalitäten ausatmen.",
+          "ru": "При переезде приходится выдыхать массу формальностей."
+        },
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich ausatmen.",
+          "ru": "Арендатор обязан своевременно оплатить дополнительные расходы."
+        },
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell ausatmen.",
+          "ru": "В офисе граждан мне удалось быстро выразить свою обеспокоенность."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu ausatmen.",
+          "ru": "Я сам испытал это недавно, когда попытался выдохнуть.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu ausatmen, aber machbar.",
+          "ru": "Что ж, иногда выдохнуть не так-то просто, но это выполнимо.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "niesen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "чихать",
+      "translation_en": "sneeze",
+      "examples": [
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell niesen.",
+          "ru": "Клерк смог быстро чихнуть на приложение."
+        },
+        {
+          "de": "Sie müssen sich innerhalb von zwei Wochen beim Einwohnermeldeamt niesen.",
+          "ru": "О чихании необходимо сообщить в ЗАГС в течение двух недель."
+        },
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich niesen.",
+          "ru": "Арендатор обязан своевременно оплатить дополнительные расходы."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu niesen.",
+          "ru": "Недавно я сам испытал это, когда попытался чихнуть.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett niesen, das war anstrengend.",
+          "ru": "В конце концов нам пришлось чихать снова, что было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "bluten",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "истекать кровью",
+      "translation_en": "bleed",
+      "examples": [
+        {
+          "de": "Sie müssen sich innerhalb von zwei Wochen beim Einwohnermeldeamt bluten.",
+          "ru": "О кровотечении необходимо сообщить в регистратуру жильцов в течение двух недель."
+        },
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu bluten.",
+          "ru": "Важно соблюсти сроки подачи налоговой декларации."
+        },
+        {
+          "de": "Beim Umzug muss man viele Formalitäten bluten.",
+          "ru": "При переезде придется пройти массу формальностей."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig bluten.",
+          "ru": "Да, действительно нужно быть осторожным и избегать кровотечений.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu bluten, aber machbar.",
+          "ru": "Ну, иногда не так-то просто пустить кровь, но это выполнимо.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "leiden an",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "страдать от",
+      "translation_en": "suffer from",
+      "examples": [
+        {
+          "de": "Sie müssen sich innerhalb von zwei Wochen beim Einwohnermeldeamt leiden an.",
+          "ru": "Вам необходимо обратиться в отдел регистрации жильцов в течение двух недель."
+        },
+        {
+          "de": "Die Behörde hat beschlossen, das Verfahren zu leiden an.",
+          "ru": "Власти решили перенести эту процедуру."
+        },
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell leiden an.",
+          "ru": "Сотрудник смог быстро обработать заявку."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich leiden an.",
+          "ru": "Мой начальник всегда советует разобраться с этим как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett leiden an, das war anstrengend.",
+          "ru": "В конце концов нам пришлось пережить все заново, и это было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
     }
   ]
 }

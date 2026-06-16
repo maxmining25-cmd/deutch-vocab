@@ -26,7 +26,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Launchpad-Kachel, die Launchpad-Kacheln",
@@ -53,7 +54,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Benutzeroberfläche, die Benutzeroberflächen",
@@ -88,7 +90,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Universal-Journal, die Universal-Journale",
@@ -115,7 +118,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die In-Memory-Datenbank, die Datenbanken",
@@ -146,7 +150,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Echtzeit-Datenverarbeitung, (nur Sg.)",
@@ -173,7 +178,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Stapelverarbeitung"
+      ]
     },
     {
       "word": "die Spaltenorientierung, (nur Sg.)",
@@ -200,7 +208,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Zeilenorientierung"
+      ]
     },
     {
       "word": "die Zeilenorientierung, (nur Sg.)",
@@ -227,7 +238,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Spaltenorientierung"
+      ]
     },
     {
       "word": "die Tabelle, die Tabellen",
@@ -262,7 +276,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Datenmodell, die Datenmodelle",
@@ -293,7 +308,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Redundanz, die Redundanzen",
@@ -328,7 +344,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Redundanzfreiheit"
+      ]
     },
     {
       "word": "redundanzfrei",
@@ -355,7 +374,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "redundant"
+      ]
     },
     {
       "word": "das Hauptbuch-Journal, die Journale",
@@ -382,7 +404,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Einzelposten-Tabelle, die Tabellen",
@@ -409,7 +432,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Aggregation, die Aggregationen",
@@ -444,7 +468,12 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Disaggregation",
+        "die Detaillierung",
+        "die Aufteilung"
+      ]
     },
     {
       "word": "aggregieren",
@@ -490,7 +519,12 @@
         "ihr": "aggregiert",
         "sie/Sie": "aggregieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "disaggregieren",
+        "aufteilen",
+        "detaillieren"
+      ]
     },
     {
       "word": "der Index, die Indizes",
@@ -525,7 +559,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Performance-Gewinn, die Performance-Gewinne",
@@ -560,7 +595,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Performance-Verlust"
+      ]
     },
     {
       "word": "die Ladezeit, die Ladezeiten",
@@ -595,7 +633,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Cloud-Variante, die Cloud-Varianten",
@@ -622,7 +661,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die On-Premise-Variante"
+      ]
     },
     {
       "word": "die On-Premise-Variante, die On-Premise-Varianten",
@@ -649,7 +691,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Cloud-Variante"
+      ]
     },
     {
       "word": "die Hybrid-Lösung, die Hybrid-Lösungen",
@@ -684,7 +729,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Fiori-Kachel, die Fiori-Kacheln",
@@ -711,7 +757,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Launchpad, die Launchpads",
@@ -742,7 +789,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die App-Gruppe, die App-Gruppen",
@@ -769,7 +817,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der App-Store, die App-Stores",
@@ -804,7 +853,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Personalisierung, die Personalisierungen",
@@ -839,7 +889,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Standardisierung"
+      ]
     },
     {
       "word": "personalisieren",
@@ -885,7 +938,10 @@
         "ihr": "personalisiert",
         "sie/Sie": "personalisieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "standardisieren"
+      ]
     },
     {
       "word": "das Dashboard, die Dashboards",
@@ -920,7 +976,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Kennzahl, die Kennzahlen",
@@ -955,7 +1012,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Echtzeit-Analyse, die Echtzeit-Analysen",
@@ -982,7 +1040,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Batch-Analyse"
+      ]
     },
     {
       "word": "die Suchfunktion, die Suchfunktionen",
@@ -1017,7 +1078,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Enterprise-Search, (nur Sg.)",
@@ -1044,7 +1106,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Filter, die Filter",
@@ -1079,7 +1142,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "filtern",
@@ -1125,7 +1189,8 @@
         "ihr": "filtert",
         "sie/Sie": "filtern"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "die Variante, die Varianten",
@@ -1160,7 +1225,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "speichern",
@@ -1206,7 +1272,11 @@
         "ihr": "speichert",
         "sie/Sie": "speichern"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "löschen",
+        "verwerfen"
+      ]
     },
     {
       "word": "die Ansicht, die Ansichten",
@@ -1241,7 +1311,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Layout, die Layouts",
@@ -1276,7 +1347,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Spalte, die Spalten",
@@ -1311,7 +1383,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Zeile"
+      ]
     },
     {
       "word": "die Zeile, die Zeilen",
@@ -1346,7 +1421,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Spalte"
+      ]
     },
     {
       "word": "sortieren",
@@ -1392,7 +1470,11 @@
         "ihr": "sortiert",
         "sie/Sie": "sortieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "durcheinanderbringen",
+        "mischen"
+      ]
     },
     {
       "word": "die Sortierung, die Sortierungen",
@@ -1427,7 +1509,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unordnung"
+      ]
     },
     {
       "word": "gruppieren",
@@ -1473,7 +1558,12 @@
         "ihr": "gruppiert",
         "sie/Sie": "gruppieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "entkoppeln",
+        "aufteilen",
+        "trennen"
+      ]
     },
     {
       "word": "die Gruppierung, die Gruppierungen",
@@ -1508,7 +1598,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Aufteilung",
+        "die Trennung"
+      ]
     },
     {
       "word": "der Export, die Exporte",
@@ -1543,7 +1637,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Import"
+      ]
     },
     {
       "word": "exportieren",
@@ -1589,7 +1686,10 @@
         "ihr": "exportiert",
         "sie/Sie": "exportieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "importieren"
+      ]
     },
     {
       "word": "die Excel-Tabelle, die Excel-Tabellen",
@@ -1624,7 +1724,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das SAP GUI, (nur Sg.)",
@@ -1659,7 +1760,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "Fiori"
+      ]
     },
     {
       "word": "die Transaktion, die Transaktionen",
@@ -1694,7 +1798,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Transaktionscode, die Transaktionscodes",
@@ -1721,7 +1826,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Befehlsfeld, die Befehlsfelder",
@@ -1748,7 +1854,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Report, die Reports",
@@ -1783,7 +1890,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Selektionsmaske, die Selektionsmasken",
@@ -1810,7 +1918,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Pflichtfeld, die Pflichtfelder",
@@ -1845,7 +1954,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Kannfeld",
+        "das Optionale Feld"
+      ]
     },
     {
       "word": "das Optionsfeld, die Optionsfelder",
@@ -1880,7 +1993,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Kontrollkästchen, die Kontrollkästchen",
@@ -1915,7 +2029,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Dropdown-Liste, die Dropdown-Listen",
@@ -1950,7 +2065,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Wertehilfe, die Wertehilfen",
@@ -1977,7 +2093,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Schnellsuche, (nur Sg.)",
@@ -2012,7 +2129,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Favorit, die Favoriten",
@@ -2047,7 +2165,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "hinzufügen",
@@ -2093,7 +2212,12 @@
         "ihr": "hinzufügt",
         "sie/Sie": "hinzufügen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "entfernen",
+        "löschen",
+        "abziehen"
+      ]
     },
     {
       "word": "die Benutzerdaten, (nur Pl.)",
@@ -2128,7 +2252,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Benutzerprofil, die Benutzerprofile",
@@ -2163,7 +2288,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Rolle, die Rollen",
@@ -2198,7 +2324,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Berechtigungsobjekt, die Berechtigungsobjekte",
@@ -2225,7 +2352,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Berechtigungsprüfung, die Berechtigungsprüfungen",
@@ -2248,7 +2376,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Berechtigungsfehler, die Berechtigungsfehler",
@@ -2275,7 +2404,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "fehlen",
@@ -2321,7 +2451,11 @@
         "ihr": "fehlt",
         "sie/Sie": "fehlen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "vorhanden sein",
+        "existieren"
+      ]
     },
     {
       "word": "die Fehlermeldung, die Fehlermeldungen",
@@ -2356,7 +2490,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Erfolgsmeldung"
+      ]
     },
     {
       "word": "die Warnung, die Warnungen",
@@ -2391,7 +2528,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Entwarnung",
+        "die Erfolgsmeldung"
+      ]
     },
     {
       "word": "die Erfolgsmeldung, die Erfolgsmeldungen",
@@ -2426,7 +2567,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Fehlermeldung",
+        "die Warnung"
+      ]
     },
     {
       "word": "die Statusleiste, die Statusleisten",
@@ -2461,7 +2606,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Dialogfenster, die Dialogfenster",
@@ -2496,7 +2642,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "bestätigen",
@@ -2542,7 +2689,12 @@
         "ihr": "bestätigt",
         "sie/Sie": "bestätigen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "abbrechen",
+        "stornieren",
+        "dementieren"
+      ]
     },
     {
       "word": "abbrechen",
@@ -2588,7 +2740,12 @@
         "ihr": "brecht ab",
         "sie/Sie": "brechen ab"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "fortsetzen",
+        "fortführen",
+        "bestätigen"
+      ]
     },
     {
       "word": "speichern",
@@ -2634,7 +2791,11 @@
         "ihr": "speichert",
         "sie/Sie": "speichern"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "löschen",
+        "verwerfen"
+      ]
     },
     {
       "word": "das Customizing-Menü, die Menüs",
@@ -2657,7 +2818,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Launchpad-Design, die Designs",
@@ -2680,7 +2842,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Barrierefreiheit, (nur Sg.)",
@@ -2715,7 +2878,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Barriere, die Barrieren",
+        "die Unzugänglichkeit, (nur Sg.)"
+      ]
     },
     {
       "word": "die Web-Dynpro-App, die Web-Dynpro-Apps",
@@ -2738,7 +2905,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der App-Inhalt, die App-Inhalte",
@@ -2761,7 +2929,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Kachel-Bibliothek, die Bibliotheken",
@@ -2784,7 +2953,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Kachel-Gruppe, die Kachel-Gruppen",
@@ -2807,7 +2977,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Zielzuordnung, die Zielzuordnungen",
@@ -2830,7 +3001,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die semantische Objekt, die Objekte",
@@ -2865,7 +3037,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Aktion, die Aktionen",
@@ -2900,7 +3073,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Inaktivität, (nur Sg.)",
+        "die Tatenlosigkeit, (nur Sg.)"
+      ]
     },
     {
       "word": "der Parameter, die Parameter",
@@ -2935,7 +3112,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die URL-Adresse, die URL-Adressen",
@@ -2970,7 +3148,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Browser-Fenster, die Browser-Fenster",
@@ -3005,7 +3184,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Cloud-Platform, die Cloud-Platformen",
@@ -3028,7 +3208,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das On-Premise-System, die On-Premise-Systeme"
+      ]
     },
     {
       "word": "die Schnittstelle, die Schnittstellen",
@@ -3063,7 +3246,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Service, die Services",
@@ -3098,7 +3282,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die OData-Schnittstelle, die Schnittstellen",
@@ -3121,7 +3306,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Gateway-Server, die Gateway-Server",
@@ -3144,7 +3330,8 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Backend-System, die Backend-Systeme",
@@ -3167,7 +3354,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Frontend-System, die Frontend-Systeme"
+      ]
     },
     {
       "word": "das Frontend-System, die Frontend-Systeme",
@@ -3190,7 +3380,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Backend-System, die Backend-Systeme"
+      ]
     },
     {
       "word": "die Replikation, die Replikationen",
@@ -3225,7 +3418,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Original, die Originale"
+      ]
     },
     {
       "word": "synchronisieren",
@@ -3271,7 +3467,10 @@
         "ihr": "synchronisiert",
         "sie/Sie": "synchronisieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "desynchronisieren"
+      ]
     },
     {
       "word": "die Synchronisation, die Synchronisationen",
@@ -3306,7 +3505,2881 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Desynchronisation, die Desynchronisationen"
+      ]
+    },
+    {
+      "word": "das Directory-System, die Directory-Systeme",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Система каталогов",
+      "translation_en": "Directory system",
+      "examples": [
+        {
+          "de": "Für die Migration ist das Directory-System ein kritischer Bestandteil.",
+          "ru": "Система каталогов является критически важным компонентом миграции."
+        },
+        {
+          "de": "Der Berater hat das Directory-System im Customizing angepasst.",
+          "ru": "Консультант адаптировал систему каталогов в настройке."
+        },
+        {
+          "de": "Das Support-Team kümmert sich um Incidents bezüglich des Directory-System.",
+          "ru": "Служба поддержки занимается инцидентами, связанными с системой каталогов."
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Directory-System richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно поддерживать систему каталогов в системе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Praxis braucht man das Directory-System eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике система каталогов действительно необходима для каждого проекта реализации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Cloud-Connector, die Cloud-Connectors",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Облачный разъем",
+      "translation_en": "Cloud connector",
+      "examples": [
+        {
+          "de": "Das Support-Team kümmert sich um Incidents bezüglich des Cloud-Connector.",
+          "ru": "Служба поддержки обрабатывает инциденты, связанные с облачным соединителем."
+        },
+        {
+          "de": "Im Blueprint-Dokument ist das Cloud-Connector detailliert beschrieben.",
+          "ru": "Облачный соединитель подробно описан в документе схемы."
+        },
+        {
+          "de": "Der Key-User hat das Cloud-Connector im Testsystem validiert.",
+          "ru": "Ключевой пользователь проверил облачный соединитель в тестовой системе."
+        },
+        {
+          "de": "Wir haben das Cloud-Connector komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перестроили облачный коннектор при переходе на S/4HANA.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Cloud-Connector ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, облачный соединитель в S/4HANA отличается от старой системы ECC.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das SAP Business Technology Platform (BTP), (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Платформа бизнес-технологий SAP",
+      "translation_en": "SAP Business Technology Platform",
+      "examples": [
+        {
+          "de": "Im Fiori-Launchpad findet man das SAP Business Technology Platform unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти платформу SAP Business Technology Platform под плитками."
+        },
+        {
+          "de": "Ohne korrekte Konfiguration des SAP Business Technology Platform funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки SAP Business Technology Platform процесс работать не будет."
+        },
+        {
+          "de": "Das Support-Team kümmert sich um Incidents bezüglich des SAP Business Technology Platform.",
+          "ru": "Команда поддержки обрабатывает инциденты, связанные с платформой бизнес-технологий SAP."
+        },
+        {
+          "de": "Wir haben das SAP Business Technology Platform komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перестроили платформу бизнес-технологий SAP при переходе на S/4HANA.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das SAP Business Technology Platform richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно поддерживать платформу SAP Business Technology Platform в системе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Software-as-a-Service (SaaS), (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Программное обеспечение как услуга",
+      "translation_en": "Software as a Service",
+      "examples": [
+        {
+          "de": "Für die Migration ist das Software-as-a-Service ein kritischer Bestandteil.",
+          "ru": "Программное обеспечение как услуга является важнейшим компонентом миграции."
+        },
+        {
+          "de": "Ohne korrekte Konfiguration des Software-as-a-Service funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки «Программного обеспечения как услуги» процесс не будет работать."
+        },
+        {
+          "de": "Die Implementierung des Software-as-a-Service erfordert S/4HANA-Kenntnisse.",
+          "ru": "Внедрение программного обеспечения как услуги требует знаний S/4HANA."
+        },
+        {
+          "de": "Na ja, das Software-as-a-Service klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, «Программное обеспечение как услуга» звучит сложно, но на самом деле оно структурировано логически.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Software-as-a-Service richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно поддерживать в системе программное обеспечение как услугу.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Platform-as-a-Service (PaaS), (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Платформа как услуга",
+      "translation_en": "Platform as a Service",
+      "examples": [
+        {
+          "de": "Im Fiori-Launchpad findet man das Platform-as-a-Service unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти платформу как услугу под плитками."
+        },
+        {
+          "de": "Der Key-User hat das Platform-as-a-Service im Testsystem validiert.",
+          "ru": "Ключевой пользователь проверил платформу как услугу в тестовой системе."
+        },
+        {
+          "de": "Der Berater hat das Platform-as-a-Service im Customizing angepasst.",
+          "ru": "Консультант адаптировал «Платформу как услугу» в настройке."
+        },
+        {
+          "de": "Na ja, das Platform-as-a-Service klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, «Платформа как услуга» звучит сложно, но на самом деле она структурирована логически.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Praxis braucht man das Platform-as-a-Service eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике вам действительно нужна платформа как услуга для каждого проекта внедрения.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Infrastructure-as-a-Service (IaaS), (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Инфраструктура как услуга",
+      "translation_en": "Infrastructure as a Service",
+      "examples": [
+        {
+          "de": "Ohne korrekte Konfiguration des Infrastructure-as-a-Service funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки инфраструктуры как услуги этот процесс не будет работать."
+        },
+        {
+          "de": "das Infrastructure-as-a-Service muss vor dem Go-Live getestet werden.",
+          "ru": "инфраструктура как услуга должна быть протестирована перед запуском в эксплуатацию."
+        },
+        {
+          "de": "Im Blueprint-Dokument ist das Infrastructure-as-a-Service detailliert beschrieben.",
+          "ru": "Инфраструктура как услуга подробно описана в концептуальном документе."
+        },
+        {
+          "de": "Also, das Infrastructure-as-a-Service ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, инфраструктура как услуга в S/4HANA отличается от старой системы ECC.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Infrastructure-as-a-Service richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно поддерживать в системе инфраструктуру как услугу.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Cluster-System, die Cluster-Systeme",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Кластерная система",
+      "translation_en": "Cluster system",
+      "examples": [
+        {
+          "de": "Ohne korrekte Konfiguration des Cluster-System funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки кластерной системы процесс не будет работать."
+        },
+        {
+          "de": "Der Key-User hat das Cluster-System im Testsystem validiert.",
+          "ru": "Ключевой пользователь проверил кластерную систему в тестовой системе."
+        },
+        {
+          "de": "Der Berater hat das Cluster-System im Customizing angepasst.",
+          "ru": "Консультант адаптировал кластерную систему в кастомизации."
+        },
+        {
+          "de": "Also, das Cluster-System ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Итак, кластерная система в S/4HANA отличается от старой системы ECC.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Cluster-System komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перестроили кластерную систему при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Backup-Intervall, die Backup-Intervalle",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Интервал резервного копирования",
+      "translation_en": "Backup interval",
+      "examples": [
+        {
+          "de": "Im Fiori-Launchpad findet man das Backup-Intervall unter den Kacheln.",
+          "ru": "На панели запуска Fiori интервал резервного копирования указан под плитками."
+        },
+        {
+          "de": "Der Berater hat das Backup-Intervall im Customizing angepasst.",
+          "ru": "Консультант скорректировал интервал резервного копирования в пользовательской настройке."
+        },
+        {
+          "de": "Für die Migration ist das Backup-Intervall ein kritischer Bestandteil.",
+          "ru": "Интервал резервного копирования является критически важным компонентом миграции."
+        },
+        {
+          "de": "Na ja, das Backup-Intervall klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, интервал резервного копирования звучит сложно, но на самом деле он структурирован логически.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Backup-Intervall komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью сбросили интервал резервного копирования при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Archivierungsobjekt, die Archivierungsobjekte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Архивирование объекта",
+      "translation_en": "Archiving object",
+      "examples": [
+        {
+          "de": "Für die Migration ist das Archivierungsobjekt ein kritischer Bestandteil.",
+          "ru": "Объект архивирования является критически важным компонентом миграции."
+        },
+        {
+          "de": "Ohne korrekte Konfiguration des Archivierungsobjekt funktioniert der Prozess nicht.",
+          "ru": "Процесс не работает без правильной настройки объекта архивирования."
+        },
+        {
+          "de": "Das Support-Team kümmert sich um Incidents bezüglich des Archivierungsobjekt.",
+          "ru": "Служба поддержки занимается инцидентами, связанными с объектом архивирования."
+        },
+        {
+          "de": "Also, das Archivierungsobjekt ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, объект архивирования в S/4HANA отличается от объекта в старой системе ECC.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Archivierungsobjekt komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перестроили объект архивирования при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Repository-Objekt, die Repository-Objekte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Объект репозитория",
+      "translation_en": "Repository object",
+      "examples": [
+        {
+          "de": "Im Blueprint-Dokument ist das Repository-Objekt detailliert beschrieben.",
+          "ru": "Документ схемы подробно описывает объект репозитория."
+        },
+        {
+          "de": "Der Berater hat das Repository-Objekt im Customizing angepasst.",
+          "ru": "Консультант адаптировал объект репозитория в пользовательской настройке."
+        },
+        {
+          "de": "Ohne korrekte Konfiguration des Repository-Objekt funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки объекта репозитория процесс работать не будет."
+        },
+        {
+          "de": "Na ja, das Repository-Objekt klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, объект репозитория звучит сложно, но на самом деле он логически структурирован.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Repository-Objekt komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перестроили объект репозитория при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Suchhilfen-Objekt, die Suchhilfen-Objekte",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Объект помощи при поиске",
+      "translation_en": "Search aid object",
+      "examples": [
+        {
+          "de": "das Suchhilfen-Objekt muss vor dem Go-Live getestet werden.",
+          "ru": "Объект помощи при поиске необходимо протестировать перед запуском в эксплуатацию."
+        },
+        {
+          "de": "Im Blueprint-Dokument ist das Suchhilfen-Objekt detailliert beschrieben.",
+          "ru": "Объект помощи по поиску подробно описан в документе схемы."
+        },
+        {
+          "de": "Im SAP-System wird das Suchhilfen-Objekt über die Transaktion konfiguriert.",
+          "ru": "В системе SAP объект справки по поиску настраивается посредством транзакции."
+        },
+        {
+          "de": "Wir haben das Suchhilfen-Objekt komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перестроили объект помощи по поиску при переходе на S/4HANA.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Suchhilfen-Objekt ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, объект помощи при поиске в S/4HANA отличается от объекта в старой системе ECC.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Datenobjekt, die Datenobjekte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Объект данных",
+      "translation_en": "Data object",
+      "examples": [
+        {
+          "de": "Der Berater hat das Datenobjekt im Customizing angepasst.",
+          "ru": "Консультант адаптировал объект данных в пользовательской настройке."
+        },
+        {
+          "de": "Die Implementierung des Datenobjekt erfordert S/4HANA-Kenntnisse.",
+          "ru": "Реализация объекта данных требует знаний S/4HANA."
+        },
+        {
+          "de": "Im Fiori-Launchpad findet man das Datenobjekt unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти объект данных под плитками."
+        },
+        {
+          "de": "Also, das Datenobjekt ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, объект данных в S/4HANA отличается от объекта в старой системе ECC.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Datenobjekt komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перестроили объект данных при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Unterprogramm, die Unterprogramme",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "подпрограмма",
+      "translation_en": "subprogram",
+      "examples": [
+        {
+          "de": "Die Implementierung des Unterprogramm erfordert S/4HANA-Kenntnisse.",
+          "ru": "Реализация подпрограммы требует знания S/4HANA."
+        },
+        {
+          "de": "Ohne korrekte Konfiguration des Unterprogramm funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки подпрограммы процесс не работает."
+        },
+        {
+          "de": "Für die Migration ist das Unterprogramm ein kritischer Bestandteil.",
+          "ru": "Подпрограмма является важнейшим компонентом миграции."
+        },
+        {
+          "de": "Also, das Unterprogramm ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Итак, подпрограмма в S/4HANA отличается от подпрограммы в старой системе ECC.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Unterprogramm richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно поддерживать подпрограмму в системе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Coding, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Кодирование",
+      "translation_en": "Coding",
+      "examples": [
+        {
+          "de": "Die Implementierung des Coding erfordert S/4HANA-Kenntnisse.",
+          "ru": "Для реализации кодирования требуются знания S/4HANA."
+        },
+        {
+          "de": "Im Blueprint-Dokument ist das Coding detailliert beschrieben.",
+          "ru": "Кодирование подробно описано в чертежном документе."
+        },
+        {
+          "de": "das Coding muss vor dem Go-Live getestet werden.",
+          "ru": "кодирование должно быть проверено перед запуском в эксплуатацию."
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Coding richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно поддерживать кодировку в системе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Coding komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью переработали код при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Open SQL, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "OpenSQL",
+      "translation_en": "OpenSQL",
+      "examples": [
+        {
+          "de": "Im Fiori-Launchpad findet man das Open SQL unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти Open SQL под плитками."
+        },
+        {
+          "de": "Das Support-Team kümmert sich um Incidents bezüglich des Open SQL.",
+          "ru": "Служба поддержки занимается инцидентами, связанными с Open SQL."
+        },
+        {
+          "de": "das Open SQL muss vor dem Go-Live getestet werden.",
+          "ru": "Open SQL должен быть протестирован перед запуском в эксплуатацию."
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Open SQL richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно поддерживать Open SQL в системе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Open SQL ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, Open SQL в S/4HANA отличается от старой системы ECC.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Pflegewerkzeug, die Pflegewerkzeuge",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Инструмент для ухода",
+      "translation_en": "Grooming tool",
+      "examples": [
+        {
+          "de": "Die Implementierung des Pflegewerkzeug erfordert S/4HANA-Kenntnisse.",
+          "ru": "Внедрение инструмента обслуживания требует знаний S/4HANA."
+        },
+        {
+          "de": "Ohne korrekte Konfiguration des Pflegewerkzeug funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки средства ухода процесс не работает."
+        },
+        {
+          "de": "Im Blueprint-Dokument ist das Pflegewerkzeug detailliert beschrieben.",
+          "ru": "Средство ухода подробно описано в чертежном документе."
+        },
+        {
+          "de": "In der Praxis braucht man das Pflegewerkzeug eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике вам действительно понадобится инструмент сопровождения для каждого проекта внедрения.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Pflegewerkzeug ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, инструмент обслуживания в S/4HANA отличается от старого инструмента ECC.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Sperrkonzept, die Sperrkonzepte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Концепция блокировки",
+      "translation_en": "Lockdown concept",
+      "examples": [
+        {
+          "de": "Der Berater hat das Sperrkonzept im Customizing angepasst.",
+          "ru": "Консультант адаптировал концепцию блокировки в пользовательской настройке."
+        },
+        {
+          "de": "Das Support-Team kümmert sich um Incidents bezüglich des Sperrkonzept.",
+          "ru": "Служба поддержки занимается инцидентами, связанными с концепцией блокировки."
+        },
+        {
+          "de": "Die Implementierung des Sperrkonzept erfordert S/4HANA-Kenntnisse.",
+          "ru": "Реализация концепции блокировки требует знаний S/4HANA."
+        },
+        {
+          "de": "In der Praxis braucht man das Sperrkonzept eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике концепция блокировки фактически необходима для каждого проекта реализации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Sperrkonzept komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "При переходе на S/4HANA мы полностью изменили концепцию блокировки.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Entsperren, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Разблокировать",
+      "translation_en": "Unlock",
+      "examples": [
+        {
+          "de": "Ohne korrekte Konfiguration des Entsperren funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки процесса разблокировки процесс не сработает."
+        },
+        {
+          "de": "Für die Migration ist das Entsperren ein kritischer Bestandteil.",
+          "ru": "Разблокировка является важнейшим компонентом миграции."
+        },
+        {
+          "de": "Der Key-User hat das Entsperren im Testsystem validiert.",
+          "ru": "Ключевой пользователь подтвердил разблокировку в тестовой системе."
+        },
+        {
+          "de": "Also, das Entsperren ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, разблокировка в S/4HANA отличается от разблокировки в старой системе ECC.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das Entsperren klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Ну, разблокировка звучит сложно, но в принципе это логично.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Erweiterungsobjekt, die Erweiterungsobjekte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Объект расширения",
+      "translation_en": "Extension object",
+      "examples": [
+        {
+          "de": "Im Fiori-Launchpad findet man das Erweiterungsobjekt unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти объект расширения под плитками."
+        },
+        {
+          "de": "Der Berater hat das Erweiterungsobjekt im Customizing angepasst.",
+          "ru": "Консультант адаптировал объект расширения в пользовательской настройке."
+        },
+        {
+          "de": "das Erweiterungsobjekt muss vor dem Go-Live getestet werden.",
+          "ru": "объект расширения должен быть протестирован перед вводом в эксплуатацию."
+        },
+        {
+          "de": "Na ja, das Erweiterungsobjekt klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, объект расширения звучит сложно, но на самом деле он логически структурирован.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Erweiterungsobjekt ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, объект расширения в S/4HANA отличается от объекта расширения в старой системе ECC.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Dynpro, die Dynpros",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Динпро",
+      "translation_en": "Dynpro",
+      "examples": [
+        {
+          "de": "Für die Migration ist das Dynpro ein kritischer Bestandteil.",
+          "ru": "Экран является критически важным компонентом для миграции."
+        },
+        {
+          "de": "Der Berater hat das Dynpro im Customizing angepasst.",
+          "ru": "Консультант адаптировал экран в пользовательской настройке."
+        },
+        {
+          "de": "das Dynpro muss vor dem Go-Live getestet werden.",
+          "ru": "Перед вводом в эксплуатацию экран необходимо протестировать."
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Dynpro richtig im System pflegt.",
+          "ru": "Коллега показал мне, как правильно обслуживать экран в системе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Dynpro komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перестроили dynpro при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Selektionsbild, die Selektionsbilder",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Экран выбора",
+      "translation_en": "Selection screen",
+      "examples": [
+        {
+          "de": "Der Berater hat das Selektionsbild im Customizing angepasst.",
+          "ru": "Консультант скорректировал экран выбора в пользовательской настройке."
+        },
+        {
+          "de": "Für die Migration ist das Selektionsbild ein kritischer Bestandteil.",
+          "ru": "Экран выбора является важнейшим компонентом миграции."
+        },
+        {
+          "de": "Im SAP-System wird das Selektionsbild über die Transaktion konfiguriert.",
+          "ru": "В системе SAP экран выбора настраивается посредством транзакции."
+        },
+        {
+          "de": "In der Praxis braucht man das Selektionsbild eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике экран выбора действительно необходим для каждого проекта реализации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Selektionsbild ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Итак, картина выбора в S/4HANA иная, чем в старой системе ECC.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Custom-Control, die Custom-Controls",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Пользовательский контроль",
+      "translation_en": "Custom control",
+      "examples": [
+        {
+          "de": "Im Blueprint-Dokument ist das Custom-Control detailliert beschrieben.",
+          "ru": "Пользовательский элемент управления подробно описан в документе схемы."
+        },
+        {
+          "de": "Im SAP-System wird das Custom-Control über die Transaktion konfiguriert.",
+          "ru": "В системе SAP пользовательский контроль настраивается посредством транзакции."
+        },
+        {
+          "de": "Der Key-User hat das Custom-Control im Testsystem validiert.",
+          "ru": "Ключевой пользователь проверил пользовательский элемент управления в тестовой системе."
+        },
+        {
+          "de": "In der Praxis braucht man das Custom-Control eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике вам действительно нужен индивидуальный элемент управления для каждого проекта реализации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Custom-Control richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно поддерживать пользовательский элемент управления в системе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Grid-Control, die Grid-Controls",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Управление сетью",
+      "translation_en": "Grid control",
+      "examples": [
+        {
+          "de": "Die Implementierung des Grid-Control erfordert S/4HANA-Kenntnisse.",
+          "ru": "Реализация управления сетью требует знаний S/4HANA."
+        },
+        {
+          "de": "das Grid-Control muss vor dem Go-Live getestet werden.",
+          "ru": "Перед вводом в эксплуатацию необходимо протестировать управление сетью."
+        },
+        {
+          "de": "Der Berater hat das Grid-Control im Customizing angepasst.",
+          "ru": "Консультант настроил управление сеткой в ​​кастомизации."
+        },
+        {
+          "de": "Na ja, das Grid-Control klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, управление сеткой звучит сложно, но в основном оно структурировано логически.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Grid-Control richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно поддерживать управление сетью в системе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das SAPscript-Formular, die Formulare",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Форма SAPscript",
+      "translation_en": "SAPscript form",
+      "examples": [
+        {
+          "de": "Im Fiori-Launchpad findet man das SAPscript-Formular unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти форму SAPscript под плитками."
+        },
+        {
+          "de": "Das Support-Team kümmert sich um Incidents bezüglich des SAPscript-Formular.",
+          "ru": "Служба поддержки занимается инцидентами, связанными с формой SAPscript."
+        },
+        {
+          "de": "Die Implementierung des SAPscript-Formular erfordert S/4HANA-Kenntnisse.",
+          "ru": "Для реализации формы SAPscript требуются знания S/4HANA."
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das SAPscript-Formular richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно поддерживать форму SAPscript в системе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das SAPscript-Formular komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перестроили форму SAPscript при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Smart Form, die Smart Forms",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Умная форма",
+      "translation_en": "Smart shape",
+      "examples": [
+        {
+          "de": "Ohne korrekte Konfiguration des Smart Form funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки смарт-формы процесс не будет работать."
+        },
+        {
+          "de": "Die Implementierung des Smart Form erfordert S/4HANA-Kenntnisse.",
+          "ru": "Для реализации смарт-формы требуются знания S/4HANA."
+        },
+        {
+          "de": "Der Key-User hat das Smart Form im Testsystem validiert.",
+          "ru": "Ключевой пользователь проверил смарт-форму в тестовой системе."
+        },
+        {
+          "de": "Also, das Smart Form ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, Smart Form в S/4HANA отличается от старой системы ECC.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Smart Form komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью переработали смарт-форму при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Adobe Form, die Adobe Forms",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Форма Adobe",
+      "translation_en": "Adobe form",
+      "examples": [
+        {
+          "de": "Im Fiori-Launchpad findet man das Adobe Form unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти форму Adobe под плитками."
+        },
+        {
+          "de": "Das Support-Team kümmert sich um Incidents bezüglich des Adobe Form.",
+          "ru": "Служба поддержки занимается инцидентами, связанными с формой Adobe."
+        },
+        {
+          "de": "Der Key-User hat das Adobe Form im Testsystem validiert.",
+          "ru": "Ключевой пользователь проверил форму Adobe Form в тестовой системе."
+        },
+        {
+          "de": "In der Praxis braucht man das Adobe Form eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике вам действительно понадобится форма Adobe для каждого проекта реализации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Adobe Form ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, форма Adobe Form в S/4HANA отличается от старой системы ECC.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das OData-Modell, die OData-Modelle",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Модель OData",
+      "translation_en": "OData model",
+      "examples": [
+        {
+          "de": "Die Implementierung des OData-Modell erfordert S/4HANA-Kenntnisse.",
+          "ru": "Для реализации модели OData требуются знания S/4HANA."
+        },
+        {
+          "de": "Im Fiori-Launchpad findet man das OData-Modell unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти модель OData под плитками."
+        },
+        {
+          "de": "Im SAP-System wird das OData-Modell über die Transaktion konfiguriert.",
+          "ru": "В системе SAP модель OData настраивается посредством транзакции."
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das OData-Modell richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно поддерживать модель OData в системе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Praxis braucht man das OData-Modell eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике модель OData действительно нужна для каждого проекта реализации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das SAPUI5-Framework, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Платформа SAPUI5",
+      "translation_en": "SAPUI5 framework",
+      "examples": [
+        {
+          "de": "Ohne korrekte Konfiguration des SAPUI5-Framework funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки платформы SAPUI5 процесс работать не будет."
+        },
+        {
+          "de": "Im SAP-System wird das SAPUI5-Framework über die Transaktion konfiguriert.",
+          "ru": "В системе SAP платформа SAPUI5 настраивается посредством транзакции."
+        },
+        {
+          "de": "Im Fiori-Launchpad findet man das SAPUI5-Framework unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти платформу SAPUI5 под плитками."
+        },
+        {
+          "de": "Wir haben das SAPUI5-Framework komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перестроили структуру SAPUI5 при переходе на S/4HANA.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Praxis braucht man das SAPUI5-Framework eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике вам действительно понадобится платформа SAPUI5 для каждого проекта внедрения.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das XML-View, die XML-Views",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "XML-представление",
+      "translation_en": "XML view",
+      "examples": [
+        {
+          "de": "Der Berater hat das XML-View im Customizing angepasst.",
+          "ru": "Консультант адаптировал представление XML при настройке."
+        },
+        {
+          "de": "Ohne korrekte Konfiguration des XML-View funktioniert der Prozess nicht.",
+          "ru": "Этот процесс не работает, если представление XML не настроено правильно."
+        },
+        {
+          "de": "Für die Migration ist das XML-View ein kritischer Bestandteil.",
+          "ru": "Представление XML является важнейшим компонентом миграции."
+        },
+        {
+          "de": "Na ja, das XML-View klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, представление XML звучит сложно, но в основном оно структурировано логически.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das XML-View richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно поддерживать представление XML в системе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das JSON-Modell, die JSON-Modelle",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Модель JSON",
+      "translation_en": "JSON model",
+      "examples": [
+        {
+          "de": "Ohne korrekte Konfiguration des JSON-Modell funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки модели JSON процесс работать не будет."
+        },
+        {
+          "de": "Im Blueprint-Dokument ist das JSON-Modell detailliert beschrieben.",
+          "ru": "Модель JSON подробно описана в документе проекта."
+        },
+        {
+          "de": "das JSON-Modell muss vor dem Go-Live getestet werden.",
+          "ru": "Модель JSON должна быть протестирована перед запуском в эксплуатацию."
+        },
+        {
+          "de": "Wir haben das JSON-Modell komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перестроили модель JSON при переходе на S/4HANA.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das JSON-Modell klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, модель JSON звучит сложно, но на самом деле она логически структурирована.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Web-Dynpro-ABAP, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Веб-Динпро ABAP",
+      "translation_en": "Web Dynpro ABAP",
+      "examples": [
+        {
+          "de": "Das Support-Team kümmert sich um Incidents bezüglich des Web-Dynpro-ABAP.",
+          "ru": "Служба поддержки занимается инцидентами, связанными с Web Dynpro ABAP."
+        },
+        {
+          "de": "Im Blueprint-Dokument ist das Web-Dynpro-ABAP detailliert beschrieben.",
+          "ru": "Web Dynpro ABAP подробно описан в документе проекта."
+        },
+        {
+          "de": "Im SAP-System wird das Web-Dynpro-ABAP über die Transaktion konfiguriert.",
+          "ru": "В системе SAP Web Dynpro ABAP настраивается посредством транзакции."
+        },
+        {
+          "de": "Na ja, das Web-Dynpro-ABAP klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, Web Dynpro ABAP звучит сложно, но в основном он структурирован логически.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Web-Dynpro-ABAP ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, Web Dynpro ABAP в S/4HANA отличается от старой системы ECC.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Context-Attribut, die Context-Attribute",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Атрибут контекста",
+      "translation_en": "Context attribute",
+      "examples": [
+        {
+          "de": "Im Blueprint-Dokument ist das Context-Attribut detailliert beschrieben.",
+          "ru": "Атрибут Context подробно описан в документе Blueprint."
+        },
+        {
+          "de": "Ohne korrekte Konfiguration des Context-Attribut funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки атрибута context процесс не работает."
+        },
+        {
+          "de": "Im Fiori-Launchpad findet man das Context-Attribut unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти атрибут контекста под плитками."
+        },
+        {
+          "de": "Also, das Context-Attribut ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, атрибут контекста в S/4HANA отличается от атрибута в старой системе ECC.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Praxis braucht man das Context-Attribut eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике атрибут context действительно необходим в каждом проекте реализации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Portal-Integration, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Интеграция портала",
+      "translation_en": "Portal integration",
+      "examples": [
+        {
+          "de": "Der Key-User hat das Portal-Integration im Testsystem validiert.",
+          "ru": "Ключевой пользователь проверил интеграцию портала в тестовую систему."
+        },
+        {
+          "de": "Im Fiori-Launchpad findet man das Portal-Integration unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти интеграцию портала под плитками."
+        },
+        {
+          "de": "Für die Migration ist das Portal-Integration ein kritischer Bestandteil.",
+          "ru": "Интеграция портала является важнейшим компонентом миграции."
+        },
+        {
+          "de": "In der Praxis braucht man das Portal-Integration eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике интеграция с порталом фактически необходима для каждого проекта внедрения.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Portal-Integration ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, интеграция портала в S/4HANA отличается от старой системы ECC.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Aufwandsmodell, die Aufwandsmodelle",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Модель расходов",
+      "translation_en": "Expense model",
+      "examples": [
+        {
+          "de": "Ohne korrekte Konfiguration des Aufwandsmodell funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки модели усилий процесс не работает."
+        },
+        {
+          "de": "Der Berater hat das Aufwandsmodell im Customizing angepasst.",
+          "ru": "Консультант скорректировал модель расходов в настройке."
+        },
+        {
+          "de": "Das Support-Team kümmert sich um Incidents bezüglich des Aufwandsmodell.",
+          "ru": "Команда поддержки занимается инцидентами, связанными с моделью усилий."
+        },
+        {
+          "de": "Na ja, das Aufwandsmodell klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, модель усилий звучит сложно, но в основном она структурирована логически.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Aufwandsmodell richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно вести модель расходов в системе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Projektrisiko, die Projektrisiken",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Риск проекта",
+      "translation_en": "Project risk",
+      "examples": [
+        {
+          "de": "Im Fiori-Launchpad findet man das Projektrisiko unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти риск проекта под плитками."
+        },
+        {
+          "de": "Der Berater hat das Projektrisiko im Customizing angepasst.",
+          "ru": "Консультант скорректировал риск проекта при настройке."
+        },
+        {
+          "de": "Für die Migration ist das Projektrisiko ein kritischer Bestandteil.",
+          "ru": "Риск проекта является важнейшим компонентом миграции."
+        },
+        {
+          "de": "Na ja, das Projektrisiko klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, риск проекта звучит сложно, но на самом деле он логически структурирован.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Projektrisiko komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью изменили проектный риск при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Quality Gate, die Quality Gates",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Качественные ворота",
+      "translation_en": "Quality Gate",
+      "examples": [
+        {
+          "de": "Die Implementierung des Quality Gate erfordert S/4HANA-Kenntnisse.",
+          "ru": "Внедрение Quality Gate требует знаний S/4HANA."
+        },
+        {
+          "de": "Im SAP-System wird das Quality Gate über die Transaktion konfiguriert.",
+          "ru": "В системе SAP контроль качества настраивается посредством транзакции."
+        },
+        {
+          "de": "Der Key-User hat das Quality Gate im Testsystem validiert.",
+          "ru": "Ключевой пользователь подтвердил контроль качества в тестовой системе."
+        },
+        {
+          "de": "In der Praxis braucht man das Quality Gate eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике вам действительно нужен Quality Gate для каждого проекта внедрения.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Quality Gate ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, контроль качества в S/4HANA отличается от старой системы ECC.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Review-Board, die Review-Boards",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Обзорная комиссия",
+      "translation_en": "Review Board",
+      "examples": [
+        {
+          "de": "Im SAP-System wird das Review-Board über die Transaktion konfiguriert.",
+          "ru": "В системе SAP доска проверки настраивается посредством транзакции."
+        },
+        {
+          "de": "Der Key-User hat das Review-Board im Testsystem validiert.",
+          "ru": "Ключевой пользователь проверил доску проверки в тестовой системе."
+        },
+        {
+          "de": "das Review-Board muss vor dem Go-Live getestet werden.",
+          "ru": "Перед вводом в эксплуатацию плата обзора должна быть протестирована."
+        },
+        {
+          "de": "In der Praxis braucht man das Review-Board eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике вам действительно понадобится наблюдательный совет для каждого проекта внедрения.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Review-Board richtig im System pflegt.",
+          "ru": "Коллега показал мне, как правильно поддерживать доску обзора в системе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Spesenbericht, die Spesenberichte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Отчет о расходах",
+      "translation_en": "Expense report",
+      "examples": [
+        {
+          "de": "Im Blueprint-Dokument ist das Spesenbericht detailliert beschrieben.",
+          "ru": "Отчет о расходах подробно описан в чертежном документе."
+        },
+        {
+          "de": "Die Implementierung des Spesenbericht erfordert S/4HANA-Kenntnisse.",
+          "ru": "Для реализации отчета о расходах требуются знания S/4HANA."
+        },
+        {
+          "de": "Im Fiori-Launchpad findet man das Spesenbericht unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти отчет о расходах под плитками."
+        },
+        {
+          "de": "Na ja, das Spesenbericht klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, отчет о расходах звучит сложно, но на самом деле он логически структурирован.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Spesenbericht richtig im System pflegt.",
+          "ru": "Коллега показал мне, как правильно вести отчет о расходах в системе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Abschlussmeeting, die Abschlussmeetings",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Заключительная встреча",
+      "translation_en": "Final meeting",
+      "examples": [
+        {
+          "de": "Die Implementierung des Abschlussmeeting erfordert S/4HANA-Kenntnisse.",
+          "ru": "Для проведения заключительного совещания требуются знания S/4HANA."
+        },
+        {
+          "de": "Im SAP-System wird das Abschlussmeeting über die Transaktion konfiguriert.",
+          "ru": "В системе SAP заключительное собрание настраивается посредством транзакции."
+        },
+        {
+          "de": "Ohne korrekte Konfiguration des Abschlussmeeting funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки заключительного собрания процесс не будет работать."
+        },
+        {
+          "de": "Wir haben das Abschlussmeeting komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью изменили дизайн финальной встречи при переходе на S/4HANA.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Abschlussmeeting richtig im System pflegt.",
+          "ru": "Коллега показал мне, как правильно вести финальную встречу в системе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Anwender-Feedback, die Anwender-Feedbacks",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Отзывы пользователей",
+      "translation_en": "User feedback",
+      "examples": [
+        {
+          "de": "Ohne korrekte Konfiguration des Anwender-Feedback funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки обратной связи с пользователем процесс не работает."
+        },
+        {
+          "de": "Die Implementierung des Anwender-Feedback erfordert S/4HANA-Kenntnisse.",
+          "ru": "Для реализации обратной связи с пользователем требуются знания S/4HANA."
+        },
+        {
+          "de": "das Anwender-Feedback muss vor dem Go-Live getestet werden.",
+          "ru": "отзывы пользователей должны быть проверены перед запуском в эксплуатацию."
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Anwender-Feedback richtig im System pflegt.",
+          "ru": "Коллега показал мне, как правильно поддерживать обратную связь с пользователем в системе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Anwender-Feedback komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "При переходе на S/4HANA мы полностью изменили обратную связь с пользователями.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Product Backlog, die Product Backlogs",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Бэклог продукта",
+      "translation_en": "Product Backlog",
+      "examples": [
+        {
+          "de": "Im SAP-System wird das Product Backlog über die Transaktion konfiguriert.",
+          "ru": "В системе SAP журнал невыполненных работ настраивается посредством транзакции."
+        },
+        {
+          "de": "Die Implementierung des Product Backlog erfordert S/4HANA-Kenntnisse.",
+          "ru": "Для реализации бэклога продукта требуются знания S/4HANA."
+        },
+        {
+          "de": "Im Blueprint-Dokument ist das Product Backlog detailliert beschrieben.",
+          "ru": "Бэклог продукта подробно описан в документе Blueprint."
+        },
+        {
+          "de": "Na ja, das Product Backlog klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, бэклог продукта звучит сложно, но на самом деле он логически структурирован.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Product Backlog richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно вести бэклог продуктов в системе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Sprint Backlog, die Sprint Backlogs",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Бэклог спринта",
+      "translation_en": "Sprint Backlog",
+      "examples": [
+        {
+          "de": "Im Blueprint-Dokument ist das Sprint Backlog detailliert beschrieben.",
+          "ru": "Бэклог спринта подробно описан в документе Blueprint."
+        },
+        {
+          "de": "das Sprint Backlog muss vor dem Go-Live getestet werden.",
+          "ru": "Перед запуском в эксплуатацию необходимо протестировать отставание по спринту."
+        },
+        {
+          "de": "Der Berater hat das Sprint Backlog im Customizing angepasst.",
+          "ru": "Консультант скорректировал отставание по спринту в настройке."
+        },
+        {
+          "de": "Also, das Sprint Backlog ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, журнал спринта в S/4HANA отличается от старой системы ECC.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Sprint Backlog richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно вести отставание по спринту в системе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Akzeptanzkriterium, die Akzeptanzkriterien",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Критерий приемки",
+      "translation_en": "Acceptance criterion",
+      "examples": [
+        {
+          "de": "das Akzeptanzkriterium muss vor dem Go-Live getestet werden.",
+          "ru": "критерий приемки должен быть проверен перед вводом в эксплуатацию."
+        },
+        {
+          "de": "Im Fiori-Launchpad findet man das Akzeptanzkriterium unter den Kacheln.",
+          "ru": "На панели запуска Fiori критерий приемки можно найти под плитками."
+        },
+        {
+          "de": "Der Key-User hat das Akzeptanzkriterium im Testsystem validiert.",
+          "ru": "Ключевой пользователь подтвердил критерий приемки в тестовой системе."
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Akzeptanzkriterium richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно поддерживать критерий приемки в системе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das Akzeptanzkriterium klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, критерий приемки звучит сложно, но в основном он структурирован логически.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Daily Stand-up, die Daily Stand-ups",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Ежедневный стендап",
+      "translation_en": "Daily stand-up",
+      "examples": [
+        {
+          "de": "Die Implementierung des Daily Stand-up erfordert S/4HANA-Kenntnisse.",
+          "ru": "Для реализации Daily Stand-up требуются знания S/4HANA."
+        },
+        {
+          "de": "Das Support-Team kümmert sich um Incidents bezüglich des Daily Stand-up.",
+          "ru": "Служба поддержки занимается инцидентами, связанными с ежедневными стендапами."
+        },
+        {
+          "de": "Im Fiori-Launchpad findet man das Daily Stand-up unter den Kacheln.",
+          "ru": "На стартовой панели Fiori под плитками можно найти ежедневный стендап."
+        },
+        {
+          "de": "Wir haben das Daily Stand-up komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перестроили Daily Stand-up при переходе на S/4HANA.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Daily Stand-up ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, ежедневная работа в S/4HANA отличается от старой системы ECC.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Daily Scrum, die Daily Scrums",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Ежедневный Скрам",
+      "translation_en": "Daily Scrum",
+      "examples": [
+        {
+          "de": "Für die Migration ist das Daily Scrum ein kritischer Bestandteil.",
+          "ru": "Ежедневный Scrum — важнейший компонент миграции."
+        },
+        {
+          "de": "Im SAP-System wird das Daily Scrum über die Transaktion konfiguriert.",
+          "ru": "В системе SAP Daily Scrum настраивается посредством транзакции."
+        },
+        {
+          "de": "Der Key-User hat das Daily Scrum im Testsystem validiert.",
+          "ru": "Ключевой пользователь проверил Daily Scrum в тестовой системе."
+        },
+        {
+          "de": "Also, das Daily Scrum ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Итак, ежедневный Scrum в S/4HANA отличается от старой системы ECC.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Praxis braucht man das Daily Scrum eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике вам действительно нужен Daily Scrum для каждого проекта реализации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Product-Backlog-Refinement, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Уточнение бэклога продукта",
+      "translation_en": "Product backlog refinement",
+      "examples": [
+        {
+          "de": "Der Key-User hat das Product-Backlog-Refinement im Testsystem validiert.",
+          "ru": "Ключевой пользователь проверил уточнение отставания продукта в тестовой системе."
+        },
+        {
+          "de": "Im Fiori-Launchpad findet man das Product-Backlog-Refinement unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти детализацию невыполненной работы по продукту под плитками."
+        },
+        {
+          "de": "Für die Migration ist das Product-Backlog-Refinement ein kritischer Bestandteil.",
+          "ru": "Уточнение невыполненной работы по продукту является важнейшим компонентом миграции."
+        },
+        {
+          "de": "In der Praxis braucht man das Product-Backlog-Refinement eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике вам действительно необходимо уточнить бэклог продукта для каждого проекта внедрения.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Product-Backlog-Refinement ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, уточнение журнала невыполненных работ в S/4HANA отличается от старой системы ECC.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Anlagen-Anlagegut, die Anlagegüter",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Актив завода",
+      "translation_en": "Plant Asset",
+      "examples": [
+        {
+          "de": "Im Blueprint-Dokument ist das Anlagen-Anlagegut detailliert beschrieben.",
+          "ru": "В чертежном документе подробно описывается актив завода."
+        },
+        {
+          "de": "Die Implementierung des Anlagen-Anlagegut erfordert S/4HANA-Kenntnisse.",
+          "ru": "Для реализации актива требуются знания S/4HANA."
+        },
+        {
+          "de": "Das Support-Team kümmert sich um Incidents bezüglich des Anlagen-Anlagegut.",
+          "ru": "Команда поддержки занимается инцидентами, связанными с активами завода."
+        },
+        {
+          "de": "Also, das Anlagen-Anlagegut ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, активы завода в S/4HANA отличаются от старых систем ECC.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Anlagen-Anlagegut komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перестроили актив при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Wirtschaftsgut, die Wirtschaftsgüter",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "экономический актив",
+      "translation_en": "economic asset",
+      "examples": [
+        {
+          "de": "das Wirtschaftsgut muss vor dem Go-Live getestet werden.",
+          "ru": "актив должен быть протестирован перед вводом в эксплуатацию."
+        },
+        {
+          "de": "Der Berater hat das Wirtschaftsgut im Customizing angepasst.",
+          "ru": "Консультант скорректировал актив в пользовательской настройке."
+        },
+        {
+          "de": "Im Fiori-Launchpad findet man das Wirtschaftsgut unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти актив под плитками."
+        },
+        {
+          "de": "In der Praxis braucht man das Wirtschaftsgut eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике актив действительно необходим для каждого проекта внедрения.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Wirtschaftsgut richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно поддерживать актив в системе.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Erfassungsdatum, die Erfassungsdaten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Дата въезда",
+      "translation_en": "Date of entry",
+      "examples": [
+        {
+          "de": "Im SAP-System wird das Erfassungsdatum über die Transaktion konfiguriert.",
+          "ru": "В системе SAP дата входа настраивается посредством транзакции."
+        },
+        {
+          "de": "Der Berater hat das Erfassungsdatum im Customizing angepasst.",
+          "ru": "Консультант скорректировал дату ввода в пользовательской настройке."
+        },
+        {
+          "de": "Der Key-User hat das Erfassungsdatum im Testsystem validiert.",
+          "ru": "Ключевой пользователь подтвердил дату входа в тестовую систему."
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Erfassungsdatum richtig im System pflegt.",
+          "ru": "Мой коллега показал мне, как правильно вести дату входа в систему.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Erfassungsdatum komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью сбросили дату захвата при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Vorsteuerkonto, die Vorsteuerkonten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Счет до налогообложения",
+      "translation_en": "Pre-tax account",
+      "examples": [
+        {
+          "de": "Im SAP-System wird das Vorsteuerkonto über die Transaktion konfiguriert.",
+          "ru": "В системе SAP счет предварительного налога настраивается посредством транзакции."
+        },
+        {
+          "de": "Der Berater hat das Vorsteuerkonto im Customizing angepasst.",
+          "ru": "Консультант скорректировал счет предварительного налога в пользовательской настройке."
+        },
+        {
+          "de": "das Vorsteuerkonto muss vor dem Go-Live getestet werden.",
+          "ru": "счет до уплаты налогов должен быть протестирован перед вводом в эксплуатацию."
+        },
+        {
+          "de": "Also, das Vorsteuerkonto ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Таким образом, счет до уплаты налогов в S/4HANA отличается от счета в старой системе ECC.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Vorsteuerkonto komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перенастроили учетную запись до уплаты налогов при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Ausgangssteuerkonto, die Ausgangssteuerkonten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Исходящий налоговый счет",
+      "translation_en": "Output tax account",
+      "examples": [
+        {
+          "de": "Die Implementierung des Ausgangssteuerkonto erfordert S/4HANA-Kenntnisse.",
+          "ru": "Для реализации счета исходящего налога требуются знания S/4HANA."
+        },
+        {
+          "de": "Der Key-User hat das Ausgangssteuerkonto im Testsystem validiert.",
+          "ru": "Ключевой пользователь подтвердил счет исходящего налога в тестовой системе."
+        },
+        {
+          "de": "Ohne korrekte Konfiguration des Ausgangssteuerkonto funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки счета исходящего налога процесс не будет работать."
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das Ausgangssteuerkonto richtig im System pflegt.",
+          "ru": "Коллега показал мне, как правильно вести учет исходящего налога в системе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Ausgangssteuerkonto komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перенастроили счет исходящего налога при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Skontokonto, die Skontokonten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Скидочный счет наличными",
+      "translation_en": "Cash discount account",
+      "examples": [
+        {
+          "de": "Im Blueprint-Dokument ist das Skontokonto detailliert beschrieben.",
+          "ru": "Счет сконто подробно описан в чертежном документе."
+        },
+        {
+          "de": "Im Fiori-Launchpad findet man das Skontokonto unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти счет скидки при оплате наличными под плитками."
+        },
+        {
+          "de": "Die Implementierung des Skontokonto erfordert S/4HANA-Kenntnisse.",
+          "ru": "Для реализации учетной записи со скидкой требуются знания S/4HANA."
+        },
+        {
+          "de": "Wir haben das Skontokonto komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перенастроили счет скидки при оплате наличными при переходе на S/4HANA.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Praxis braucht man das Skontokonto eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике вам действительно нужен дисконтный счет для каждого проекта внедрения.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Hausbankkonto, die Hausbankkonten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Счет в собственном банке",
+      "translation_en": "House bank account",
+      "examples": [
+        {
+          "de": "Der Berater hat das Hausbankkonto im Customizing angepasst.",
+          "ru": "Консультант скорректировал собственный банковский счет при настройке."
+        },
+        {
+          "de": "Ohne korrekte Konfiguration des Hausbankkonto funktioniert der Prozess nicht.",
+          "ru": "Этот процесс не работает без правильной настройки собственного банковского счета."
+        },
+        {
+          "de": "Im SAP-System wird das Hausbankkonto über die Transaktion konfiguriert.",
+          "ru": "В системе SAP собственный банковский счет настраивается посредством транзакции."
+        },
+        {
+          "de": "In der Praxis braucht man das Hausbankkonto eigentlich bei jedem Implementierungsprojekt.",
+          "ru": "На практике вам действительно нужен собственный банковский счет для каждого проекта реализации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das Hausbankkonto komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перенастроили собственный банковский счет при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das elektronische Kontoauszug (ELKO), die Auszüge",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "электронная банковская выписка",
+      "translation_en": "electronic bank statement",
+      "examples": [
+        {
+          "de": "Das Support-Team kümmert sich um Incidents bezüglich des elektronische Kontoauszug.",
+          "ru": "Служба поддержки занимается инцидентами с электронными выписками."
+        },
+        {
+          "de": "Im Blueprint-Dokument ist das elektronische Kontoauszug detailliert beschrieben.",
+          "ru": "В документе-проекте подробно описывается электронная выписка."
+        },
+        {
+          "de": "Für die Migration ist das elektronische Kontoauszug ein kritischer Bestandteil.",
+          "ru": "Электронная банковская выписка является важнейшим компонентом миграции."
+        },
+        {
+          "de": "Na ja, das elektronische Kontoauszug klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, электронное заявление звучит сложно, но на самом деле оно логически структурировано.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das elektronische Kontoauszug komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью перестроили электронную выписку при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Konsolidierungsgebiet, die Konsolidierungsgebiete",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "область консолидации",
+      "translation_en": "consolidation area",
+      "examples": [
+        {
+          "de": "das Konsolidierungsgebiet muss vor dem Go-Live getestet werden.",
+          "ru": "область консолидации должна быть протестирована перед вводом в эксплуатацию."
+        },
+        {
+          "de": "Für die Migration ist das Konsolidierungsgebiet ein kritischer Bestandteil.",
+          "ru": "Зона консолидации является важнейшим компонентом миграции."
+        },
+        {
+          "de": "Im Blueprint-Dokument ist das Konsolidierungsgebiet detailliert beschrieben.",
+          "ru": "Область консолидации подробно описана в чертежном документе."
+        },
+        {
+          "de": "Wir haben das Konsolidierungsgebiet komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью изменили дизайн области консолидации при переходе на S/4HANA.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das Konsolidierungsgebiet klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, область консолидации звучит сложно, но в основном она структурирована логически.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das HGB (Handelsgesetzbuch), (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "HGB",
+      "translation_en": "HGB",
+      "examples": [
+        {
+          "de": "Ohne korrekte Konfiguration des HGB funktioniert der Prozess nicht.",
+          "ru": "Этот процесс не работает без правильной настройки HGB."
+        },
+        {
+          "de": "Im SAP-System wird das HGB über die Transaktion konfiguriert.",
+          "ru": "В системе SAP HGB настраивается посредством транзакции."
+        },
+        {
+          "de": "Das Support-Team kümmert sich um Incidents bezüglich des HGB.",
+          "ru": "Служба поддержки занимается инцидентами, связанными с Торговым кодексом Германии (HGB)."
+        },
+        {
+          "de": "Also, das HGB ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Итак, HGB в S/4HANA отличается от старой системы ECC.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wir haben das HGB komplett neu aufgesetzt, als wir auf S/4HANA migriert sind.",
+          "ru": "Мы полностью изменили дизайн HGB при переходе на S/4HANA.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das parallele Ledger, die parallelen Ledger",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "параллельные реестры",
+      "translation_en": "parallel ledgers",
+      "examples": [
+        {
+          "de": "Im SAP-System wird das parallele Ledger über die Transaktion konfiguriert.",
+          "ru": "В системе SAP параллельный регистр настраивается посредством транзакции."
+        },
+        {
+          "de": "das parallele Ledger muss vor dem Go-Live getestet werden.",
+          "ru": "параллельный реестр должен быть протестирован перед вводом в эксплуатацию."
+        },
+        {
+          "de": "Ohne korrekte Konfiguration des parallele Ledger funktioniert der Prozess nicht.",
+          "ru": "Без правильной настройки параллельного реестра процесс не работает."
+        },
+        {
+          "de": "Also, das parallele Ledger ist in S/4HANA anders als im alten ECC-System.",
+          "ru": "Итак, параллельный реестр в S/4HANA отличается от старого реестра ECC.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das parallele Ledger klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, параллельный реестр звучит сложно, но в целом он логически структурирован.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das kalkulatorische CO-PA, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "вмененный CO-PA",
+      "translation_en": "imputed CO-PA",
+      "examples": [
+        {
+          "de": "Der Key-User hat das kalkulatorische CO-PA im Testsystem validiert.",
+          "ru": "Ключевой пользователь проверил расчетный CO-PA в тестовой системе."
+        },
+        {
+          "de": "Im Blueprint-Dokument ist das kalkulatorische CO-PA detailliert beschrieben.",
+          "ru": "Рассчитанный CO-PA подробно описан в чертежном документе."
+        },
+        {
+          "de": "Im Fiori-Launchpad findet man das kalkulatorische CO-PA unter den Kacheln.",
+          "ru": "На панели запуска Fiori вы можете найти расчетный CO-PA под плитками."
+        },
+        {
+          "de": "Mein Kollege hat mir gezeigt, wie man das kalkulatorische CO-PA richtig im System pflegt.",
+          "ru": "Коллега показал мне, как правильно вести рассчитанный CO-PA в системе.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das kalkulatorische CO-PA klingt kompliziert, ist aber im Grunde logisch aufgebaut.",
+          "ru": "Что ж, расчетный CO-PA звучит сложно, но в основном он структурирован логически.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "konfigurieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "настроить",
+      "translation_en": "configure",
+      "examples": [
+        {
+          "de": "Der Berater muss die Geschäftsprozesse im System konfigurieren.",
+          "ru": "Консультант должен настроить бизнес-процессы в системе."
+        },
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu konfigurieren.",
+          "ru": "Необходимо регулярно настраивать основные данные."
+        },
+        {
+          "de": "Das Support-Team konnte den Fehler schnell konfigurieren.",
+          "ru": "Служба поддержки смогла быстро настроить ошибку."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu konfigurieren, aber machbar.",
+          "ru": "Что ж, иногда это не так просто настроить, но это можно сделать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich konfigurieren.",
+          "ru": "Мой начальник всегда советует настроить это как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "migrieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "мигрировать",
+      "translation_en": "migrate",
+      "examples": [
+        {
+          "de": "Der Berater muss die Geschäftsprozesse im System migrieren.",
+          "ru": "Консультант должен перенести бизнес-процессы в систему."
+        },
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu migrieren.",
+          "ru": "Необходимо регулярно переносить основные данные."
+        },
+        {
+          "de": "Bei der Migration ist es wichtig, die Daten zu migrieren.",
+          "ru": "При миграции важно перенести данные."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett migrieren, das war anstrengend.",
+          "ru": "В итоге нам пришлось полностью все мигрировать заново, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu migrieren, aber machbar.",
+          "ru": "Что ж, иногда мигрировать не так-то просто, но это можно сделать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "verrechnen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "вычислить",
+      "translation_en": "calculate",
+      "examples": [
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu verrechnen.",
+          "ru": "Необходимо регулярно рассчитывать основные данные."
+        },
+        {
+          "de": "Bei der Migration ist es wichtig, die Daten zu verrechnen.",
+          "ru": "При миграции важно рассчитать данные."
+        },
+        {
+          "de": "Der Key-User wurde geschult, die Transaktion korrekt zu verrechnen.",
+          "ru": "Ключевой пользователь был обучен правильно выставлять счета за транзакцию."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu verrechnen.",
+          "ru": "Недавно я сам испытал это, когда пытался посчитать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig verrechnen.",
+          "ru": "Да, действительно надо быть внимательным и правильно рассчитывать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "aufteilen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "разделять",
+      "translation_en": "divide",
+      "examples": [
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu aufteilen.",
+          "ru": "Необходимо регулярно разделять основные данные."
+        },
+        {
+          "de": "Bei der Migration ist es wichtig, die Daten zu aufteilen.",
+          "ru": "При миграции важно разделить данные."
+        },
+        {
+          "de": "Das Projektteam hat beschlossen, das Customizing zu aufteilen.",
+          "ru": "Команда проекта решила разделить настройку."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig aufteilen.",
+          "ru": "Да, действительно надо быть внимательным и правильно делить.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu aufteilen, aber machbar.",
+          "ru": "Что ж, иногда разделить не так-то просто, но можно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "abgrenzen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "разграничивать",
+      "translation_en": "demarcate",
+      "examples": [
+        {
+          "de": "Bei der Migration ist es wichtig, die Daten zu abgrenzen.",
+          "ru": "При миграции важно разграничить данные."
+        },
+        {
+          "de": "Wir konnten die Schnittstelle erfolgreich abgrenzen.",
+          "ru": "Нам удалось успешно разграничить интерфейс."
+        },
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu abgrenzen.",
+          "ru": "Необходимо регулярно разграничивать основные данные."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich abgrenzen.",
+          "ru": "Мой начальник всегда советует определить это как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu abgrenzen, aber machbar.",
+          "ru": "Что ж, иногда это не так просто определить, но это выполнимо.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "aktivieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "активировать",
+      "translation_en": "activate",
+      "examples": [
+        {
+          "de": "Wir konnten die Schnittstelle erfolgreich aktivieren.",
+          "ru": "Нам удалось успешно активировать интерфейс."
+        },
+        {
+          "de": "Im Testsystem müssen wir die Funktionen gründlich aktivieren.",
+          "ru": "В тестовой системе нам необходимо тщательно активировать функции."
+        },
+        {
+          "de": "Bei der Migration ist es wichtig, die Daten zu aktivieren.",
+          "ru": "При миграции важно активировать данные."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu aktivieren.",
+          "ru": "Недавно я сам испытал это, когда пытался активировать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu aktivieren, aber machbar.",
+          "ru": "Что ж, иногда активировать не так-то просто, но можно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "beauftragen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "отдать приказ",
+      "translation_en": "give an order",
+      "examples": [
+        {
+          "de": "Wir konnten die Schnittstelle erfolgreich beauftragen.",
+          "ru": "Нам удалось успешно ввести интерфейс в эксплуатацию."
+        },
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu beauftragen.",
+          "ru": "Необходимо регулярно вводить основные данные в эксплуатацию."
+        },
+        {
+          "de": "Bei der Migration ist es wichtig, die Daten zu beauftragen.",
+          "ru": "При миграции важно ввести данные в эксплуатацию."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig beauftragen.",
+          "ru": "Да, действительно надо быть внимательным и правильно заказывать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu beauftragen, aber machbar.",
+          "ru": "Что ж, иногда заказать это не так просто, но сделать можно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "bestellen",
+      "part_of_speech": "Verb",
+      "level": "A2",
+      "translation_ru": "заказ",
+      "translation_en": "order",
+      "examples": [
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu bestellen.",
+          "ru": "Необходимо регулярно заказывать основные данные."
+        },
+        {
+          "de": "Der Key-User wurde geschult, die Transaktion korrekt zu bestellen.",
+          "ru": "Ключевой пользователь был обучен правильно заказывать транзакцию."
+        },
+        {
+          "de": "Im Testsystem müssen wir die Funktionen gründlich bestellen.",
+          "ru": "В тестовой системе нам нужно тщательно упорядочить функции."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett bestellen, das war anstrengend.",
+          "ru": "В итоге нам пришлось заказывать все заново, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig bestellen.",
+          "ru": "Да, действительно надо быть внимательным и правильно заказывать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "kommissionieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "комиссия",
+      "translation_en": "commission",
+      "examples": [
+        {
+          "de": "Der Berater muss die Geschäftsprozesse im System kommissionieren.",
+          "ru": "Консультант должен запустить бизнес-процессы в системе."
+        },
+        {
+          "de": "Das Support-Team konnte den Fehler schnell kommissionieren.",
+          "ru": "Служба поддержки смогла быстро решить проблему."
+        },
+        {
+          "de": "Das Projektteam hat beschlossen, das Customizing zu kommissionieren.",
+          "ru": "Команда проекта решила заказать настройку."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu kommissionieren.",
+          "ru": "Недавно я сам испытал это, когда пытался выбрать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig kommissionieren.",
+          "ru": "Да, действительно нужно быть внимательным и правильно его выбирать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "verpacken",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "пакет",
+      "translation_en": "pack",
+      "examples": [
+        {
+          "de": "Im Testsystem müssen wir die Funktionen gründlich verpacken.",
+          "ru": "В тестовой системе нам необходимо тщательно упаковать функции."
+        },
+        {
+          "de": "Der Key-User wurde geschult, die Transaktion korrekt zu verpacken.",
+          "ru": "Ключевой пользователь был обучен правильно упаковывать транзакцию."
+        },
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu verpacken.",
+          "ru": "Необходимо регулярно упаковывать основные данные."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich verpacken.",
+          "ru": "Мой босс всегда советует завершить дела как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett verpacken, das war anstrengend.",
+          "ru": "В конце концов нам пришлось собирать все заново, что было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "transportieren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "транспорт",
+      "translation_en": "transport",
+      "examples": [
+        {
+          "de": "Das Support-Team konnte den Fehler schnell transportieren.",
+          "ru": "Служба поддержки смогла быстро устранить ошибку."
+        },
+        {
+          "de": "Der Berater muss die Geschäftsprozesse im System transportieren.",
+          "ru": "Консультант должен перенести бизнес-процессы в систему."
+        },
+        {
+          "de": "Der Key-User wurde geschult, die Transaktion korrekt zu transportieren.",
+          "ru": "Ключевой пользователь был обучен правильному переносу транзакции."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu transportieren.",
+          "ru": "Недавно я сам испытал это, когда пытался перевезти.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett transportieren, das war anstrengend.",
+          "ru": "В итоге нам пришлось все переносить заново, что было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "inventarisieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "инвентарь",
+      "translation_en": "inventory",
+      "examples": [
+        {
+          "de": "Der Berater muss die Geschäftsprozesse im System inventarisieren.",
+          "ru": "Консультант должен провести инвентаризацию бизнес-процессов в системе."
+        },
+        {
+          "de": "Wir konnten die Schnittstelle erfolgreich inventarisieren.",
+          "ru": "Нам удалось успешно провести инвентаризацию интерфейса."
+        },
+        {
+          "de": "Das Support-Team konnte den Fehler schnell inventarisieren.",
+          "ru": "Служба поддержки смогла быстро выявить ошибку."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu inventarisieren, aber machbar.",
+          "ru": "Что ж, иногда провести инвентаризацию не так-то просто, но это можно сделать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu inventarisieren.",
+          "ru": "Недавно я сам испытал это, когда пытался провести инвентаризацию.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "kopieren",
+      "part_of_speech": "Verb",
+      "level": "A2",
+      "translation_ru": "копировать",
+      "translation_en": "copy",
+      "examples": [
+        {
+          "de": "Der Key-User wurde geschult, die Transaktion korrekt zu kopieren.",
+          "ru": "Ключевой пользователь обучен правильному копированию транзакции."
+        },
+        {
+          "de": "Im Testsystem müssen wir die Funktionen gründlich kopieren.",
+          "ru": "В тестовой системе нам нужно тщательно скопировать функции."
+        },
+        {
+          "de": "Der Berater muss die Geschäftsprozesse im System kopieren.",
+          "ru": "Консультант должен скопировать бизнес-процессы в системе."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett kopieren, das war anstrengend.",
+          "ru": "В итоге нам пришлось полностью все копировать заново, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu kopieren, aber machbar.",
+          "ru": "Что ж, иногда скопировать не так-то просто, но можно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "replizieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "копировать",
+      "translation_en": "replicate",
+      "examples": [
+        {
+          "de": "Wir konnten die Schnittstelle erfolgreich replizieren.",
+          "ru": "Нам удалось успешно воспроизвести интерфейс."
+        },
+        {
+          "de": "Der Berater muss die Geschäftsprozesse im System replizieren.",
+          "ru": "Консультант должен воспроизвести бизнес-процессы в системе."
+        },
+        {
+          "de": "Das Projektteam hat beschlossen, das Customizing zu replizieren.",
+          "ru": "Команда проекта решила повторить настройку."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett replizieren, das war anstrengend.",
+          "ru": "В конце концов нам пришлось полностью все повторять заново, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu replizieren, aber machbar.",
+          "ru": "Что ж, иногда это не так-то просто повторить, но можно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "anbinden",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "соединять",
+      "translation_en": "connect",
+      "examples": [
+        {
+          "de": "Das Projektteam hat beschlossen, das Customizing zu anbinden.",
+          "ru": "Команда проекта решила подключить кастомизацию."
+        },
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu anbinden.",
+          "ru": "Необходимо регулярно подключать основные данные."
+        },
+        {
+          "de": "Der Key-User wurde geschult, die Transaktion korrekt zu anbinden.",
+          "ru": "Ключевой пользователь был обучен правильному подключению транзакции."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu anbinden, aber machbar.",
+          "ru": "Что ж, иногда подключиться не так уж и просто, но можно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu anbinden.",
+          "ru": "Недавно я сам испытал это, когда пытался связать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "zuordnen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "назначать",
+      "translation_en": "assign",
+      "examples": [
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu zuordnen.",
+          "ru": "Необходимо регулярно присваивать основные данные."
+        },
+        {
+          "de": "Im Testsystem müssen wir die Funktionen gründlich zuordnen.",
+          "ru": "В тестовой системе нам необходимо тщательно отобразить функции."
+        },
+        {
+          "de": "Wir konnten die Schnittstelle erfolgreich zuordnen.",
+          "ru": "Нам удалось успешно отобразить интерфейс."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu zuordnen.",
+          "ru": "Недавно я сам испытал это, когда пытался выполнить задание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu zuordnen, aber machbar.",
+          "ru": "Ну, иногда это не так-то просто назначить, но это выполнимо.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "mappen",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "папки",
+      "translation_en": "folders",
+      "examples": [
+        {
+          "de": "Der Berater muss die Geschäftsprozesse im System mappen.",
+          "ru": "Консультант должен отобразить бизнес-процессы в системе."
+        },
+        {
+          "de": "Das Support-Team konnte den Fehler schnell mappen.",
+          "ru": "Служба поддержки смогла быстро обнаружить ошибку."
+        },
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu mappen.",
+          "ru": "Необходимо регулярно сопоставлять основные данные."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig mappen.",
+          "ru": "Да, действительно нужно быть осторожным и правильно составить карту.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich mappen.",
+          "ru": "Мой босс всегда советует составить план этого как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "konvertieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "конвертировать",
+      "translation_en": "convert",
+      "examples": [
+        {
+          "de": "Das Projektteam hat beschlossen, das Customizing zu konvertieren.",
+          "ru": "Команда проекта решила конвертировать кастомизацию."
+        },
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu konvertieren.",
+          "ru": "Необходимо регулярно конвертировать основные данные."
+        },
+        {
+          "de": "Der Berater muss die Geschäftsprozesse im System konvertieren.",
+          "ru": "Консультант должен преобразовать бизнес-процессы в системе."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig konvertieren.",
+          "ru": "Да, действительно нужно быть осторожным и правильно конвертировать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu konvertieren.",
+          "ru": "Недавно я сам испытал это, когда пытался обратиться.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "transformieren",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "трансформировать",
+      "translation_en": "transform",
+      "examples": [
+        {
+          "de": "Der Key-User wurde geschult, die Transaktion korrekt zu transformieren.",
+          "ru": "Ключевой пользователь был обучен правильному преобразованию транзакции."
+        },
+        {
+          "de": "Bei der Migration ist es wichtig, die Daten zu transformieren.",
+          "ru": "При миграции важно преобразовать данные."
+        },
+        {
+          "de": "Das Support-Team konnte den Fehler schnell transformieren.",
+          "ru": "Служба поддержки смогла быстро исправить ошибку."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu transformieren.",
+          "ru": "Недавно я сам испытал это, когда пытался трансформироваться.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett transformieren, das war anstrengend.",
+          "ru": "В конце концов нам пришлось полностью все преобразовывать заново, что было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "verdichten",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "компактный",
+      "translation_en": "compact",
+      "examples": [
+        {
+          "de": "Der Berater muss die Geschäftsprozesse im System verdichten.",
+          "ru": "Консультант должен объединить бизнес-процессы в систему."
+        },
+        {
+          "de": "Im Testsystem müssen wir die Funktionen gründlich verdichten.",
+          "ru": "В тестовой системе нам необходимо тщательно сконденсировать функции."
+        },
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu verdichten.",
+          "ru": "Необходимо регулярно сжимать основные данные."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu verdichten.",
+          "ru": "Недавно я сам испытал это, когда пытался конденсировать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich verdichten.",
+          "ru": "Мой босс всегда говорит, что нужно как можно раньше обобщить все вопросы.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "suchen",
+      "part_of_speech": "Verb",
+      "level": "A2",
+      "translation_ru": "искать",
+      "translation_en": "seek",
+      "examples": [
+        {
+          "de": "Wir konnten die Schnittstelle erfolgreich suchen.",
+          "ru": "Нам удалось успешно найти интерфейс."
+        },
+        {
+          "de": "Bei der Migration ist es wichtig, die Daten zu suchen.",
+          "ru": "При миграции важно найти данные."
+        },
+        {
+          "de": "Im Testsystem müssen wir die Funktionen gründlich suchen.",
+          "ru": "В тестовой системе нам нужно тщательно поискать функции."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu suchen, aber machbar.",
+          "ru": "Ну, иногда это не так просто найти, но это выполнимо.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich suchen.",
+          "ru": "Мой босс всегда советует поискать его как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ableiten",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "вывести",
+      "translation_en": "derive",
+      "examples": [
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu ableiten.",
+          "ru": "Необходимо регулярно получать основные данные."
+        },
+        {
+          "de": "Wir konnten die Schnittstelle erfolgreich ableiten.",
+          "ru": "Нам удалось успешно получить интерфейс."
+        },
+        {
+          "de": "Der Berater muss die Geschäftsprozesse im System ableiten.",
+          "ru": "Консультант должен вывести бизнес-процессы в систему."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu ableiten.",
+          "ru": "Я сам недавно испытал это, когда пытался сделать вывод.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich ableiten.",
+          "ru": "Мой начальник всегда советует разобраться в этом как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "tracen",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "след",
+      "translation_en": "trace",
+      "examples": [
+        {
+          "de": "Das Projektteam hat beschlossen, das Customizing zu tracen.",
+          "ru": "Команда проекта решила проследить за кастомизацией."
+        },
+        {
+          "de": "Der Key-User wurde geschult, die Transaktion korrekt zu tracen.",
+          "ru": "Ключевой пользователь был обучен правильно отслеживать транзакцию."
+        },
+        {
+          "de": "Im Testsystem müssen wir die Funktionen gründlich tracen.",
+          "ru": "В тестовой системе нам приходится тщательно отслеживать функции."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu tracen, aber machbar.",
+          "ru": "Ну, иногда это не так-то просто отследить, но это можно сделать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu tracen.",
+          "ru": "Недавно я сам испытал это, когда пытался отследить.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "debuggen",
+      "part_of_speech": "Verb",
+      "level": "C1",
+      "translation_ru": "отлаживать",
+      "translation_en": "debug",
+      "examples": [
+        {
+          "de": "Das Support-Team konnte den Fehler schnell debuggen.",
+          "ru": "Служба поддержки смогла быстро устранить ошибку."
+        },
+        {
+          "de": "Im Testsystem müssen wir die Funktionen gründlich debuggen.",
+          "ru": "В тестовой системе нам необходимо тщательно отладить функции."
+        },
+        {
+          "de": "Das Projektteam hat beschlossen, das Customizing zu debuggen.",
+          "ru": "Команда проекта решила отладить настройку."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu debuggen.",
+          "ru": "Недавно я сам испытал это при попытке отладки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu debuggen, aber machbar.",
+          "ru": "Ну, иногда это не так просто отладить, но это можно сделать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einweisen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "инструктировать",
+      "translation_en": "instruct",
+      "examples": [
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu einweisen.",
+          "ru": "Необходимо регулярно обновлять основные данные."
+        },
+        {
+          "de": "Bei der Migration ist es wichtig, die Daten zu einweisen.",
+          "ru": "При миграции важно ввести данные."
+        },
+        {
+          "de": "Das Support-Team konnte den Fehler schnell einweisen.",
+          "ru": "Служба поддержки смогла быстро сообщить об ошибке."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett einweisen, das war anstrengend.",
+          "ru": "В конце концов нам пришлось полностью все заново инструктировать, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu einweisen.",
+          "ru": "Недавно я сам испытал это, когда пытался инструктировать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einrichten",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "снабжать",
+      "translation_en": "furnish",
+      "examples": [
+        {
+          "de": "Bei der Migration ist es wichtig, die Daten zu einrichten.",
+          "ru": "При миграции важно настроить данные."
+        },
+        {
+          "de": "Der Berater muss die Geschäftsprozesse im System einrichten.",
+          "ru": "Консультант должен настроить бизнес-процессы в системе."
+        },
+        {
+          "de": "Das Projektteam hat beschlossen, das Customizing zu einrichten.",
+          "ru": "Команда проекта приняла решение настроить кастомизацию."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig einrichten.",
+          "ru": "Да, действительно надо быть внимательным и правильно настроить.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu einrichten.",
+          "ru": "Недавно я сам испытал это, когда пытался настроить.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "freischalten",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "разблокировать",
+      "translation_en": "unlock",
+      "examples": [
+        {
+          "de": "Der Key-User wurde geschult, die Transaktion korrekt zu freischalten.",
+          "ru": "Ключевой пользователь был обучен правильно активировать транзакцию."
+        },
+        {
+          "de": "Wir konnten die Schnittstelle erfolgreich freischalten.",
+          "ru": "Нам удалось успешно активировать интерфейс."
+        },
+        {
+          "de": "Im Testsystem müssen wir die Funktionen gründlich freischalten.",
+          "ru": "В тестовой системе нам предстоит полностью разблокировать функции."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu freischalten.",
+          "ru": "Недавно я сам испытал это, когда пытался разблокировать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig freischalten.",
+          "ru": "Да, действительно надо быть внимательным и правильно его активировать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "übermiteln",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "передавать",
+      "translation_en": "transmit",
+      "examples": [
+        {
+          "de": "Der Key-User wurde geschult, die Transaktion korrekt zu übermiteln.",
+          "ru": "Ключевой пользователь обучен правильно передавать транзакцию."
+        },
+        {
+          "de": "Das Projektteam hat beschlossen, das Customizing zu übermiteln.",
+          "ru": "Команда проекта решила отправить настройку."
+        },
+        {
+          "de": "Der Berater muss die Geschäftsprozesse im System übermiteln.",
+          "ru": "Консультант должен передать бизнес-процессы в систему."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig übermiteln.",
+          "ru": "Да, действительно надо быть внимательным и правильно это передать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu übermiteln, aber machbar.",
+          "ru": "Ну, иногда это не так просто передать, но можно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "verbuchen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "книга",
+      "translation_en": "book",
+      "examples": [
+        {
+          "de": "Das Projektteam hat beschlossen, das Customizing zu verbuchen.",
+          "ru": "Команда проекта приняла решение заказать настройку."
+        },
+        {
+          "de": "Bei der Migration ist es wichtig, die Daten zu verbuchen.",
+          "ru": "При миграции важно записывать данные."
+        },
+        {
+          "de": "Es ist notwendig, die Stammdaten regelmäßig zu verbuchen.",
+          "ru": "Необходимо регулярно обновлять основные данные."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu verbuchen.",
+          "ru": "Недавно я сам испытал это, когда пытался забронировать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu verbuchen, aber machbar.",
+          "ru": "Что ж, иногда это не так просто сделать, но выполнимо.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
     }
   ]
 }

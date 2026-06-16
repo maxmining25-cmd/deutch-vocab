@@ -29,7 +29,10 @@
           "ru": "Спасибо за ужин, но я не голодна."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Ausladung, die Ausladungen"
+      ]
     },
     {
       "word": "das Vorstellungsgespräch, die Vorstellungsgespräche",
@@ -63,7 +66,8 @@
         "Bewerbungsgespräch",
         "Jobinterview",
         "Gespräch"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "der Termin, die Termine",
@@ -98,7 +102,8 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "zusagen",
@@ -141,6 +146,10 @@
       },
       "prepositions": [
         "(Dativ) (соглашаться / пообещать кому-то)"
+      ],
+      "antonyms": [
+        "absagen",
+        "verweigern"
       ]
     },
     {
@@ -189,6 +198,10 @@
       },
       "prepositions": [
         "(Dativ) (отказывать кому-то / отменять что-то)"
+      ],
+      "antonyms": [
+        "zusagen",
+        "bestätigen"
       ]
     },
     {
@@ -219,7 +232,10 @@
           "ru": "Да. Я вижу операцию, которая требует трех месяцев подготовки."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Nachbereitung, die Nachbereitungen"
+      ]
     },
     {
       "word": "sich vorbereiten",
@@ -262,6 +278,9 @@
       },
       "prepositions": [
         "auf + Akkusativ (готовиться к чему-то)"
+      ],
+      "antonyms": [
+        "nachbereiten"
       ]
     },
     {
@@ -292,7 +311,10 @@
           "ru": "Ну, это было не так уж и сложно."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Abreise, die Abreisen"
+      ]
     },
     {
       "word": "pünktlich",
@@ -322,7 +344,12 @@
           "ru": "Я же говорил тебе, что мы вернемся к ланчу вовремя."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unpünktlich",
+        "verspätet",
+        "säumig"
+      ]
     },
     {
       "word": "die Pünktlichkeit, (nur Sg.)",
@@ -352,7 +379,10 @@
           "ru": "Они пересмотрели также свои процедуры и повысили качество и своевременность своих заявок в эти комитеты."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unpünktlichkeit (nur Sg.)"
+      ]
     },
     {
       "word": "der Empfang, die Empfänge",
@@ -382,7 +412,10 @@
           "ru": "В городе, где живут мои родители, действительно плохая связь."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Verabschiedung, die Verabschiedungen"
+      ]
     },
     {
       "word": "begrüßen",
@@ -423,7 +456,11 @@
         "ihr": "begrüßt",
         "sie/Sie": "begrüßen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "verabschieden",
+        "ignorieren"
+      ]
     },
     {
       "word": "der Händedruck, die Händedrücke",
@@ -453,7 +490,8 @@
           "ru": "Каким было его рукопожатие?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Körpersprache, (nur Sg.)",
@@ -483,7 +521,8 @@
           "ru": "Смотри, это все язык тела, верно?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Augenkontakt, die Augenkontakte",
@@ -513,7 +552,8 @@
           "ru": "Ты знаешь, в больнице, она изменила свою траекторию, чтобы избежать зрительного контакта с уборщиком."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Haltung, die Haltungen",
@@ -543,7 +583,8 @@
           "ru": "Да, но у нее твоя осанка."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "aufgeregt",
@@ -573,7 +614,12 @@
           "ru": "Его брат сказал, что он был взволнован новым проектом."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "ruhig",
+        "gelassen",
+        "entspannt"
+      ]
     },
     {
       "word": "die Aufregung, (nur Sg.)",
@@ -603,7 +649,11 @@
           "ru": "Слишком много суматохи для одного вечера."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Ruhe (nur Sg.)",
+        "die Gelassenheit (nur Sg.)"
+      ]
     },
     {
       "word": "der Gesprächspartner, die Gesprächspartner",
@@ -633,7 +683,8 @@
           "ru": "Один из моих собеседников согласился, но сказал, что мы не можем ничего сделать, чтобы ее остановить, поскольку «это период истории, в котором мы находимся»."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Personalleiter, die Personalleiter",
@@ -659,7 +710,8 @@
           "ru": "Ты же знаешь, что за два дня я стала менеджером по кадрам?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Abteilungsleiter, die Abteilungsleiter",
@@ -689,7 +741,8 @@
           "ru": "Передай своему начальнику, что я сейчас не могу уйти."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Vorstellung, die Vorstellungen",
@@ -719,7 +772,8 @@
           "ru": "Я понятия не имел, как свободное программное обеспечение предназначено для людей."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "sich vorstellen",
@@ -762,7 +816,8 @@
       },
       "prepositions": [
         "(Dativ / Akkusativ) (представлять себе / представляться кому-то)"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "der Ablauf, die Abläufe",
@@ -797,7 +852,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Stillstand, die Stillstände"
+      ]
     },
     {
       "word": "der Einstieg, die Einstiege",
@@ -827,7 +885,11 @@
           "ru": "Бомба взорвалась сразу после посадки пассажиров!"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Ausstieg, die Ausstiege",
+        "das Ende, die Enden"
+      ]
     },
     {
       "word": "die Frage, die Fragen",
@@ -857,7 +919,10 @@
           "ru": "Ну, он сказал, что хочет задать мне один вопрос."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Antwort, die Antworten"
+      ]
     },
     {
       "word": "antworten",
@@ -900,6 +965,9 @@
       },
       "prepositions": [
         "auf + Akkusativ (отвечать на что-то)"
+      ],
+      "antonyms": [
+        "fragen"
       ]
     },
     {
@@ -930,7 +998,10 @@
           "ru": "Просто ответ часто... далеко не тот, который мы ищем."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Frage, die Fragen"
+      ]
     },
     {
       "word": "fragen",
@@ -973,6 +1044,9 @@
       },
       "prepositions": [
         "nach + Dativ (спрашивать о чем-то)"
+      ],
+      "antonyms": [
+        "antworten"
       ]
     },
     {
@@ -1014,7 +1088,8 @@
         "ihr": "nachfragt",
         "sie/Sie": "nachfragen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "die Nachfrage, die Nachfragen",
@@ -1044,7 +1119,10 @@
           "ru": "Это было замечательно, Шелдон, Спасибо за вопрос."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Angebot, die Angebote"
+      ]
     },
     {
       "word": "ausweichen",
@@ -1085,7 +1163,8 @@
         "ihr": "weicht aus",
         "sie/Sie": "weichen aus"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "ausweichend",
@@ -1115,7 +1194,11 @@
           "ru": "Всё, что сказано после этого, звучало бы нечестно и уклончиво."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "direkt",
+        "präzise"
+      ]
     },
     {
       "word": "eingehen auf",
@@ -1158,6 +1241,11 @@
       },
       "prepositions": [
         "auf + Akkusativ (вникать во что-то / соглашаться на что-то)"
+      ],
+      "antonyms": [
+        "ignorieren",
+        "übergehen",
+        "ausweichen"
       ]
     },
     {
@@ -1199,7 +1287,8 @@
         "ihr": "erklärt",
         "sie/Sie": "erklären"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "begründen",
@@ -1242,7 +1331,8 @@
       },
       "prepositions": [
         "mit + Dativ (обосновывать чем-то)"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "die Begründung, die Begründungen",
@@ -1272,7 +1362,8 @@
           "ru": "Его объяснение - «если не сейчас, то никогда» - почти наверняка соответствует истине."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Interesse, die Interessen",
@@ -1302,7 +1393,11 @@
           "ru": "Это привлекло мое внимание, так что мы заключили сделку."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Desinteresse (nur Sg.)",
+        "die Gleichgültigkeit (nur Sg.)"
+      ]
     },
     {
       "word": "das Desinteresse, (nur Sg.)",
@@ -1332,7 +1427,10 @@
           "ru": "Приму вашу незаинтересованность как твердое «возможно»."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Interesse, die Interessen"
+      ]
     },
     {
       "word": "betonen",
@@ -1373,7 +1471,11 @@
         "ihr": "betont",
         "sie/Sie": "betonen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "verharmlosen",
+        "untertreiben"
+      ]
     },
     {
       "word": "hervorheben",
@@ -1414,7 +1516,11 @@
         "ihr": "hervorhebt",
         "sie/Sie": "hervorheben"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "abschwächen",
+        "vernachlässigen"
+      ]
     },
     {
       "word": "beschreiben",
@@ -1455,7 +1561,8 @@
         "ihr": "beschreibt",
         "sie/Sie": "beschreiben"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "darstellen",
@@ -1496,7 +1603,8 @@
         "ihr": "darstellt",
         "sie/Sie": "darstellen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "die Darstellung, die Darstellungen",
@@ -1526,7 +1634,8 @@
           "ru": "Выберите один из следующих типов диаграммы, в зависимости от типа данных и необходимого представления."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "schildern",
@@ -1567,7 +1676,8 @@
         "ihr": "schildert",
         "sie/Sie": "schildern"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "die Schilderung, die Schilderungen",
@@ -1597,7 +1707,8 @@
           "ru": "Основываясь на описании одной из многочисленных войн тайского королевства Аюттхая с соседней Бирмой, он приходил читален к мысли, что тайцы должны учиться на ошибках своих предков."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Situation, die Situationen",
@@ -1627,7 +1738,8 @@
           "ru": "Ты сделала все, что могла в этой безвыходной ситуации."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Beispiel, die Beispiele",
@@ -1657,7 +1769,8 @@
           "ru": "Пример в виду, почему бы не попробовать эмулировать я..."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "veranschaulichen",
@@ -1698,7 +1811,10 @@
         "ihr": "veranschaulicht",
         "sie/Sie": "veranschaulichen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "abstrahieren"
+      ]
     },
     {
       "word": "ausführen",
@@ -1744,7 +1860,11 @@
         "ihr": "führt aus",
         "sie/Sie": "führen aus"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "planen",
+        "abbrechen"
+      ]
     },
     {
       "word": "die Ausführung, die Ausführungen",
@@ -1779,7 +1899,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Planung",
+        "der Entwurf"
+      ]
     },
     {
       "word": "die Rückfrage, die Rückfragen",
@@ -1809,7 +1933,8 @@
           "ru": "Комбинация клавиш для выключения компьютера без подтверждения"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "aufmerksam",
@@ -1839,7 +1964,11 @@
           "ru": "Он пристально посмотрел на меня, потом медленно опустил брюки вниз."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unaufmerksam",
+        "abgelenkt"
+      ]
     },
     {
       "word": "die Aufmerksamkeit, (nur Sg.)",
@@ -1869,7 +1998,11 @@
           "ru": "Не обращай внимания на те вещи, которые мы пытаемся скрыть."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unaufmerksamkeit (nur Sg.)",
+        "die Ablenkung, die Ablenkungen"
+      ]
     },
     {
       "word": "zuhören",
@@ -1912,6 +2045,10 @@
       },
       "prepositions": [
         "(Dativ) (слушать кого-то)"
+      ],
+      "antonyms": [
+        "weghören",
+        "ignorieren"
       ]
     },
     {
@@ -1953,7 +2090,11 @@
         "ihr": "reden lasst aus",
         "sie/Sie": "reden lassen aus"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "unterbrechen",
+        "ins Wort fallen"
+      ]
     },
     {
       "word": "die Pause, die Pausen",
@@ -1983,7 +2124,8 @@
           "ru": "Я слышал, что ей нужна передышка."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Denkpause, die Denkpausen",
@@ -2009,7 +2151,8 @@
           "ru": "Таким образом, единственным реальным выходом из положения будет использовать сегодняшний «перерыв на раздумье» для воскрешения существующего конституционного соглашения."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "ruhig bleiben",
@@ -2050,7 +2193,11 @@
         "ihr": "ruhig bleibt",
         "sie/Sie": "ruhig bleiben"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "panisch werden",
+        "sich aufregen"
+      ]
     },
     {
       "word": "die Ruhe, (nur Sg.)",
@@ -2080,7 +2227,11 @@
           "ru": "Ему нужен отдых, так что давайте немного помолчим."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unruhe (nur Sg.)",
+        "die Hektik (nur Sg.)"
+      ]
     },
     {
       "word": "die Nervosität, (nur Sg.)",
@@ -2110,7 +2261,11 @@
           "ru": "Но это плохо может объяснить напряжение и протекционистскую реакцию в Европе."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Gelassenheit (nur Sg.)",
+        "die Ruhe (nur Sg.)"
+      ]
     },
     {
       "word": "lächeln",
@@ -2151,7 +2306,11 @@
         "ihr": "lächelt",
         "sie/Sie": "lächeln"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "weinen",
+        "schmollen"
+      ]
     },
     {
       "word": "das Lächeln, (nur Sg.)",
@@ -2181,7 +2340,8 @@
           "ru": "Когда я засыпаю по ночам, я вижу твою улыбку."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "sympathisch",
@@ -2211,7 +2371,11 @@
           "ru": "То, что он приятный, что ты можешь его запомнить."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unsympathisch",
+        "abstoßend"
+      ]
     },
     {
       "word": "die Sympathie, die Sympathien",
@@ -2241,7 +2405,11 @@
           "ru": "И не было бы в мире страха, лишь только Счастье, Любовь и..."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Antipathie, die Antipathien",
+        "die Abneigung, die Abneigungen"
+      ]
     },
     {
       "word": "professionell",
@@ -2271,7 +2439,12 @@
           "ru": "Не знаю, может быть потому что я умна, талантлива и профессионал."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unprofessionell",
+        "laienhaft",
+        "amateurhaft"
+      ]
     },
     {
       "word": "die Professionalität, (nur Sg.)",
@@ -2301,7 +2474,10 @@
           "ru": "В дальнейшем, ты платишь за уверенность, за профессионализм."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unprofessionalität (nur Sg.)"
+      ]
     },
     {
       "word": "offen",
@@ -2331,7 +2507,12 @@
           "ru": "Познание приходит к тому, кто открыт для него, агент."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "geschlossen",
+        "abgeschlossen",
+        "gesperrt"
+      ]
     },
     {
       "word": "die Offenheit, (nur Sg.)",
@@ -2361,7 +2542,10 @@
           "ru": "Ты знаешь, что основами брака являются честность и откровенность."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Verschlossenheit (nur Sg.)"
+      ]
     },
     {
       "word": "ehrlich",
@@ -2391,7 +2575,12 @@
           "ru": "Конечно, коррупция есть, но большинство полицейских хотят служить честно."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unehrlich",
+        "verlogen",
+        "unaufrichtig"
+      ]
     },
     {
       "word": "die Ehrlichkeit, (nur Sg.)",
@@ -2421,7 +2610,11 @@
           "ru": "Что ж, спасибо за вашу откровенность в отношении собственного имени."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unehrlichkeit (nur Sg.)",
+        "die Unaufrichtigkeit (nur Sg.)"
+      ]
     },
     {
       "word": "authentisch",
@@ -2451,7 +2644,11 @@
           "ru": "Говорил, что я не настоящий."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unauthentisch",
+        "gekünstelt"
+      ]
     },
     {
       "word": "die Authentizität, (nur Sg.)",
@@ -2481,7 +2678,10 @@
           "ru": "Вот тебе и достоверность."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unauthentizität (nur Sg.)"
+      ]
     },
     {
       "word": "überzeugend",
@@ -2511,7 +2711,11 @@
           "ru": "Звучит не очень убедительно, но я тебе верю."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unüberzeugend",
+        "unglaubwürdig"
+      ]
     },
     {
       "word": "überzeugen",
@@ -2554,7 +2758,8 @@
       },
       "prepositions": [
         "von + Dativ (убеждать в чём-то)"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "die Überzeugung, die Überzeugungen",
@@ -2584,7 +2789,10 @@
           "ru": "Есть еще одна вещь в этом мире, более могущественная, чем уверенность."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Zweifel, die Zweifel"
+      ]
     },
     {
       "word": "der Eindruck, die Eindrücke",
@@ -2614,7 +2822,8 @@
           "ru": "У меня такое впечатление, что они охраняют меня."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "Eindruck machen",
@@ -2655,7 +2864,8 @@
         "ihr": "Eindruck macht",
         "sie/Sie": "Eindruck machen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "hinterlassen",
@@ -2696,7 +2906,8 @@
         "ihr": "hinterlasst",
         "sie/Sie": "hinterlassen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "der Gesprächsstoff, die Gesprächsstoffe",
@@ -2726,7 +2937,8 @@
           "ru": "Будет, о чем поговорить, когда встретимся."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Feedback, die Feedbacks",
@@ -2756,7 +2968,8 @@
           "ru": "До недавнего времени, более 98% учителей получали один отклик: Удовлетворительно."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "sich verabschieden",
@@ -2799,6 +3012,9 @@
       },
       "prepositions": [
         "von + Dativ (прощаться с кем-то)"
+      ],
+      "antonyms": [
+        "begrüßen"
       ]
     },
     {
@@ -2829,7 +3045,10 @@
           "ru": "Последние прощания и все такое."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Begrüßung, die Begrüßungen"
+      ]
     },
     {
       "word": "der Ausgang, die Ausgänge",
@@ -2859,7 +3078,10 @@
           "ru": "Чем дольше он затягивается, тем более разрушительным будет конечный результат."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Eingang, die Eingänge"
+      ]
     },
     {
       "word": "die Nachbereitung, die Nachbereitungen",
@@ -2889,7 +3111,10 @@
           "ru": "Мы готовим несколько сюжетов по следам новости о кибервойне."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Vorbereitung, die Vorbereitungen"
+      ]
     },
     {
       "word": "sich bedanken",
@@ -2933,7 +3158,8 @@
       "prepositions": [
         "bei + Dativ (благодарить кого-то)",
         "für + Akkusativ (благодарить за что-то)"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "der Dank, (nur Sg.)",
@@ -2963,7 +3189,10 @@
           "ru": "Спасибо тебе... за то, что защищала и питала меня."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Undank (nur Sg.)"
+      ]
     },
     {
       "word": "das Dankschreiben, die Dankschreiben",
@@ -2993,7 +3222,8 @@
           "ru": "Нет, я собираюсь написать несколько благодарностей, а ты позвони мне, если что нужно будет."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "abwarten",
@@ -3034,7 +3264,11 @@
         "ihr": "wartet ab",
         "sie/Sie": "warten ab"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "handeln",
+        "agieren"
+      ]
     },
     {
       "word": "die Entscheidung, die Entscheidungen",
@@ -3064,7 +3298,10 @@
           "ru": "Я не могу дать тебе возможность делать решения за меня."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unentschlossenheit (nur Sg.)"
+      ]
     },
     {
       "word": "entscheiden",
@@ -3108,6 +3345,9 @@
       "prepositions": [
         "über + Akkusativ (решать о чем-то)",
         "für + Akkusativ (sich entscheiden für / решаться в пользу чего-то)"
+      ],
+      "antonyms": [
+        "zögern"
       ]
     },
     {
@@ -3138,7 +3378,8 @@
           "ru": "Я буду рад доложить обо всём после того, как приму горячий душ."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Zusage, die Zusagen",
@@ -3172,6 +3413,9 @@
         "Zustimmung",
         "Zustimmungserklärung",
         "Bewilligung"
+      ],
+      "antonyms": [
+        "die Absage, die Absagen"
       ]
     },
     {
@@ -3206,6 +3450,9 @@
         "Ablehnung",
         "Korb",
         "Zurückweisung"
+      ],
+      "antonyms": [
+        "die Zusage, die Zusagen"
       ]
     },
     {
@@ -3236,7 +3483,8 @@
           "ru": "Его спрашивают: «Вам назначено?» он говорит со своим акцентом: «Да, у меня телефонное собеседование в девять»."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Videointerview, die Videointerviews",
@@ -3266,7 +3514,8 @@
           "ru": "Фонд Шоа, созданный по инициативе Спилберга, сейчас заархивировал сотни видеоинтервью с выжившими и также подвергся за это критике."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Online-Gespräch, die Gespräche",
@@ -3288,7 +3537,10 @@
           "ru": "В меню Настройка также можно найти «Полноэкранный режим». Использование этой возможности очень полезно, например, для показа презентаций."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Präsenzgespräch, die Gespräche"
+      ]
     },
     {
       "word": "der Lebenslauf-Check, die Checks",
@@ -3310,7 +3562,8 @@
           "ru": "Профессиональный анализ резюме может помочь вам обнаружить скрытые слабые места в вашей заявке."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "antwortbereit",
@@ -3332,7 +3585,10 @@
           "ru": "При переговорах важно всегда быть готовым ответить на контраргументы противоположной стороны."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "sprachlos"
+      ]
     },
     {
       "word": "die Frage-Antwort-Runde, die Runden",
@@ -3362,7 +3618,2813 @@
           "ru": "А теперь почему бы не выслушать вопросы от слушателей"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "vielseitig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "универсальный",
+      "translation_en": "versatile",
+      "examples": [
+        {
+          "de": "Der Recruiter suchte nach vielseitigen Persönlichkeiten.",
+          "ru": "Рекрутер искал разносторонних личностей."
+        },
+        {
+          "de": "Der Bewerber machte einen vielseitigen Eindruck im Gespräch.",
+          "ru": "На собеседовании заявитель произвел разностороннее впечатление."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren vielseitig passend.",
+          "ru": "Квалификация кандидата была разнообразной."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich vielseitig, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно универсальный, что меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht vielseitig, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться универсальным, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "verlässlich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "надежный",
+      "translation_en": "reliable",
+      "examples": [
+        {
+          "de": "Eine verlässlich Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна достоверная самопрезентация."
+        },
+        {
+          "de": "Der Recruiter suchte nach verlässlichen Persönlichkeiten.",
+          "ru": "Рекрутер искал надежных личностей."
+        },
+        {
+          "de": "Im Lebenslauf sollte man verlässlich Erfahrungen hervorheben.",
+          "ru": "Вы должны достоверно указать опыт в своем резюме."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich verlässlich, muss man ehrlich sagen.",
+          "ru": "Да, это довольно надежно, надо быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher verlässlich, als man zunächst denkt.",
+          "ru": "По моему опыту, это более надежно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eigenständig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "автономный",
+      "translation_en": "standalone",
+      "examples": [
+        {
+          "de": "Der Bewerber machte einen eigenständigen Eindruck im Gespräch.",
+          "ru": "На собеседовании заявитель произвел независимое впечатление."
+        },
+        {
+          "de": "Eine eigenständig Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна независимая самопрезентация."
+        },
+        {
+          "de": "Der Recruiter suchte nach eigenständigen Persönlichkeiten.",
+          "ru": "Рекрутер искал самостоятельных личностей."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht eigenständig, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать самодостаточно, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich eigenständig, muss man ehrlich sagen.",
+          "ru": "Да, это довольно независимо, надо быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "tatkräftig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "активный",
+      "translation_en": "active",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war tatkräftig.",
+          "ru": "Отзывы после разговора были энергичными."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr tatkräftig.",
+          "ru": "Рабочая атмосфера в компании показалась очень энергичной."
+        },
+        {
+          "de": "Eine tatkräftig Vorbereitung kann den Unterschied machen.",
+          "ru": "Активная подготовка может сыграть решающую роль."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich tatkräftig, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно энергичный, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht tatkräftig, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать энергично, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ausdrucksstark",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "выразительный",
+      "translation_en": "expressive",
+      "examples": [
+        {
+          "de": "Im Lebenslauf sollte man ausdrucksstark Erfahrungen hervorheben.",
+          "ru": "Вам следует выразительно выделить опыт в своем резюме."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war ausdrucksstark.",
+          "ru": "Отзывы после разговора были выразительными."
+        },
+        {
+          "de": "Der Bewerber machte einen ausdrucksstarken Eindruck im Gespräch.",
+          "ru": "Заявитель произвел на собеседовании выразительное впечатление."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich ausdrucksstark, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно выразителен, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich ausdrucksstark, muss man ehrlich sagen.",
+          "ru": "Да, это довольно выразительно, я должен быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "erfolgsorientiert",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "ориентированный на успех",
+      "translation_en": "success-oriented",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren erfolgsorientiert passend.",
+          "ru": "Квалификация кандидата была подходящей для успеха."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war erfolgsorientiert.",
+          "ru": "Отзывы после интервью были ориентированы на успех."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr erfolgsorientiert.",
+          "ru": "Рабочая атмосфера в компании казалась очень ориентированной на успех."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich erfolgsorientiert, muss man ehrlich sagen.",
+          "ru": "Да, это довольно ориентировано на успех, надо быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich erfolgsorientiert, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно ориентирован на успех, что меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "wissbegierig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "любознательный",
+      "translation_en": "inquisitive",
+      "examples": [
+        {
+          "de": "Eine wissbegierig Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна пытливая самопрезентация."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren wissbegierig passend.",
+          "ru": "Квалификация кандидата была на удивление подходящей."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr wissbegierig.",
+          "ru": "Рабочая атмосфера в компании показалась очень любознательной."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher wissbegierig, als man zunächst denkt.",
+          "ru": "По моему опыту, это более любопытно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich wissbegierig, das hat mich überrascht.",
+          "ru": "Итак, я нахожу результат действительно любопытным, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "pflichtbewusst",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "послушно",
+      "translation_en": "dutifully",
+      "examples": [
+        {
+          "de": "Der Bewerber machte einen pflichtbewussten Eindruck im Gespräch.",
+          "ru": "Во время собеседования заявитель выглядел послушным."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war pflichtbewusst.",
+          "ru": "Отзывы после интервью были скромными."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren pflichtbewusst passend.",
+          "ru": "Квалификация кандидата была полностью соответствующей."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher pflichtbewusst, als man zunächst denkt.",
+          "ru": "По моему опыту, это более добросовестно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht pflichtbewusst, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться послушным, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ambitioniert",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "амбициозный",
+      "translation_en": "ambitious",
+      "examples": [
+        {
+          "de": "Eine ambitioniert Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна амбициозная самопрезентация."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war ambitioniert.",
+          "ru": "Отзывы после разговора были амбициозными."
+        },
+        {
+          "de": "Der Bewerber machte einen ambitionierten Eindruck im Gespräch.",
+          "ru": "Во время собеседования заявитель произвел амбициозное впечатление."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich ambitioniert, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно амбициозен, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total ambitioniert, hat mir echt geholfen.",
+          "ru": "Это было очень амбициозно и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "entschlossen",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "определенный",
+      "translation_en": "determined",
+      "examples": [
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr entschlossen.",
+          "ru": "Рабочая атмосфера в компании казалась очень решительной."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren entschlossen passend.",
+          "ru": "Квалификация кандидата была абсолютно соответствующей."
+        },
+        {
+          "de": "Im Lebenslauf sollte man entschlossen Erfahrungen hervorheben.",
+          "ru": "Вам следует решительно подчеркнуть опыт в своем резюме."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich entschlossen, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат был действительно решающим, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht entschlossen, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться решающим, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "treu",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "верный",
+      "translation_en": "faithful",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war treu.",
+          "ru": "Отзывы после интервью были правдивыми."
+        },
+        {
+          "de": "Der Recruiter suchte nach treuen Persönlichkeiten.",
+          "ru": "Рекрутер искал лояльных личностей."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr treu.",
+          "ru": "Рабочая атмосфера в компании показалась очень лояльной."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher treu, als man zunächst denkt.",
+          "ru": "По моему опыту, это более верно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total treu, hat mir echt geholfen.",
+          "ru": "Это было абсолютно лояльно и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "nachsichtig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "снисходительный",
+      "translation_en": "lenient",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren nachsichtig passend.",
+          "ru": "Квалификация кандидата была снисходительно подходящей."
+        },
+        {
+          "de": "Im Lebenslauf sollte man nachsichtig Erfahrungen hervorheben.",
+          "ru": "В своем резюме следует снисходительно выделить опыт."
+        },
+        {
+          "de": "Der Bewerber machte einen nachsichtigen Eindruck im Gespräch.",
+          "ru": "Во время собеседования заявитель произвел впечатление снисходительности."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher nachsichtig, als man zunächst denkt.",
+          "ru": "По моему опыту, это более снисходительно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich nachsichtig, muss man ehrlich sagen.",
+          "ru": "Да, это довольно снисходительно, я должен быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "zuvorkommend",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "любезный",
+      "translation_en": "accommodating",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren zuvorkommend passend.",
+          "ru": "Квалификация кандидата была вежливо соответствующей."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr zuvorkommend.",
+          "ru": "Рабочая атмосфера в компании показалась мне очень располагающей."
+        },
+        {
+          "de": "Eine zuvorkommend Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна вежливая самопрезентация."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich zuvorkommend, muss man ehrlich sagen.",
+          "ru": "Да, это весьма любезно, я должен быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total zuvorkommend, hat mir echt geholfen.",
+          "ru": "Это было очень любезно и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "respektvoll",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "уважительный",
+      "translation_en": "respectful",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war respektvoll.",
+          "ru": "Отзывы после разговора были уважительными."
+        },
+        {
+          "de": "Der Recruiter suchte nach respektvollen Persönlichkeiten.",
+          "ru": "Рекрутер искал уважаемых личностей."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren respektvoll passend.",
+          "ru": "Квалификация кандидата была вполне соответствующей."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht respektvoll, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать уважительно, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total respektvoll, hat mir echt geholfen.",
+          "ru": "Это было очень уважительно и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "unterstützend",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "поддерживающий",
+      "translation_en": "supportive",
+      "examples": [
+        {
+          "de": "Eine unterstützend Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна поддерживающая самопрезентация."
+        },
+        {
+          "de": "Im Lebenslauf sollte man unterstützend Erfahrungen hervorheben.",
+          "ru": "В своем резюме вам следует выделить вспомогательный опыт."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren unterstützend passend.",
+          "ru": "Квалификация кандидата была благоприятной."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher unterstützend, als man zunächst denkt.",
+          "ru": "По моему опыту, это оказывает большую поддержку, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total unterstützend, hat mir echt geholfen.",
+          "ru": "Это меня полностью поддержало и очень помогло.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "sicher",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "безопасный",
+      "translation_en": "secure",
+      "examples": [
+        {
+          "de": "Eine sicher Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна уверенная самопрезентация."
+        },
+        {
+          "de": "Der Recruiter suchte nach sicheren Persönlichkeiten.",
+          "ru": "Рекрутер искал уверенных в себе личностей."
+        },
+        {
+          "de": "Im Lebenslauf sollte man sicher Erfahrungen hervorheben.",
+          "ru": "Обязательно укажите опыт работы в своем резюме."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht sicher, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться безопасным, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher sicher, als man zunächst denkt.",
+          "ru": "По моему опыту, это более достоверно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "kollegial",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "коллегиальный",
+      "translation_en": "collegial",
+      "examples": [
+        {
+          "de": "Der Recruiter suchte nach kollegialen Persönlichkeiten.",
+          "ru": "Рекрутер искал коллегиальных личностей."
+        },
+        {
+          "de": "Im Lebenslauf sollte man kollegial Erfahrungen hervorheben.",
+          "ru": "Коллегиальный опыт должен быть отмечен в вашем резюме."
+        },
+        {
+          "de": "Der Bewerber machte einen kollegialen Eindruck im Gespräch.",
+          "ru": "Во время собеседования заявитель произвел впечатление коллегиальности."
+        },
+        {
+          "de": "Das war total kollegial, hat mir echt geholfen.",
+          "ru": "Это было абсолютно коллегиально и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher kollegial, als man zunächst denkt.",
+          "ru": "По моему опыту, это более коллегиально, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "dienstleistungsorientiert",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "ориентированный на обслуживание",
+      "translation_en": "service oriented",
+      "examples": [
+        {
+          "de": "Der Recruiter suchte nach dienstleistungsorientierten Persönlichkeiten.",
+          "ru": "Рекрутер искал сервис-ориентированных личностей."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren dienstleistungsorientiert passend.",
+          "ru": "Квалификация кандидата была служебно-ориентированной."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war dienstleistungsorientiert.",
+          "ru": "Отзывы после интервью были ориентированы на обслуживание."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht dienstleistungsorientiert, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться сервис-ориентированным, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich dienstleistungsorientiert, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно ориентирован на обслуживание, что меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "verhandlungsgeschickt",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "умеющий вести переговоры",
+      "translation_en": "skilful to negotiate",
+      "examples": [
+        {
+          "de": "Der Recruiter suchte nach verhandlungsgeschickten Persönlichkeiten.",
+          "ru": "Рекрутер искал людей с хорошими навыками ведения переговоров."
+        },
+        {
+          "de": "Eine verhandlungsgeschickt Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна умелая самопрезентация."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren verhandlungsgeschickt passend.",
+          "ru": "Квалификация кандидата соответствовала навыкам ведения переговоров."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht verhandlungsgeschickt, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться умными переговорами, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total verhandlungsgeschickt, hat mir echt geholfen.",
+          "ru": "Это было очень хорошо для ведения переговоров и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "konzentriert",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "концентрированный",
+      "translation_en": "concentrated",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war konzentriert.",
+          "ru": "Отзывы после интервью были целенаправленными."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren konzentriert passend.",
+          "ru": "Квалификация кандидата явно подходила."
+        },
+        {
+          "de": "Der Recruiter suchte nach konzentrierten Persönlichkeiten.",
+          "ru": "Рекрутер искал целеустремленных личностей."
+        },
+        {
+          "de": "Das war total konzentriert, hat mir echt geholfen.",
+          "ru": "Это было полностью сосредоточено и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher konzentriert, als man zunächst denkt.",
+          "ru": "По моему опыту, это более концентрировано, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "fokussiert",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "сосредоточенный",
+      "translation_en": "focused",
+      "examples": [
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr fokussiert.",
+          "ru": "Рабочая атмосфера в компании казалась очень сосредоточенной."
+        },
+        {
+          "de": "Der Recruiter suchte nach fokussierten Persönlichkeiten.",
+          "ru": "Рекрутер искал целеустремленных личностей."
+        },
+        {
+          "de": "Im Lebenslauf sollte man fokussiert Erfahrungen hervorheben.",
+          "ru": "В своем резюме вам следует сосредоточиться на своем опыте."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher fokussiert, als man zunächst denkt.",
+          "ru": "По моему опыту, это более целенаправленно, чем вы можете подумать на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich fokussiert, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат был действительно целенаправленным, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "wachsam",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "бдительный",
+      "translation_en": "vigilant",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war wachsam.",
+          "ru": "Отзывы после интервью были бдительными."
+        },
+        {
+          "de": "Im Lebenslauf sollte man wachsam Erfahrungen hervorheben.",
+          "ru": "Вам следует тщательно указать опыт работы в своем резюме."
+        },
+        {
+          "de": "Der Bewerber machte einen wachsamen Eindruck im Gespräch.",
+          "ru": "Во время собеседования заявитель выглядел настороженным."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich wachsam, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно впечатляющий, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total wachsam, hat mir echt geholfen.",
+          "ru": "Это было очень тревожно и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "korrekt",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "правильно",
+      "translation_en": "correctly",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren korrekt passend.",
+          "ru": "Квалификация кандидата была правильно подобрана."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war korrekt.",
+          "ru": "Отзывы после собеседования были правильными."
+        },
+        {
+          "de": "Der Bewerber machte einen korrekten Eindruck im Gespräch.",
+          "ru": "На собеседовании заявитель произвел правильное впечатление."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht korrekt, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать правильно, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total korrekt, hat mir echt geholfen.",
+          "ru": "Это было совершенно правильно, мне очень помогло.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "präzise",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "точный",
+      "translation_en": "precise",
+      "examples": [
+        {
+          "de": "Der Recruiter suchte nach präziseen Persönlichkeiten.",
+          "ru": "Рекрутер искал точные личности."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war präzise.",
+          "ru": "Отзывы после интервью были точными."
+        },
+        {
+          "de": "Der Bewerber machte einen präziseen Eindruck im Gespräch.",
+          "ru": "Заявитель произвел на собеседовании точное впечатление."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher präzise, als man zunächst denkt.",
+          "ru": "По моему опыту, это более точно, чем вы могли подумать на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich präzise, muss man ehrlich sagen.",
+          "ru": "Да, это довольно точно, я должен быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "genau",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "Точно",
+      "translation_en": "Exactly",
+      "examples": [
+        {
+          "de": "Eine genau Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна точная самопрезентация."
+        },
+        {
+          "de": "Der Recruiter suchte nach genauen Persönlichkeiten.",
+          "ru": "Рекрутер искал конкретных личностей."
+        },
+        {
+          "de": "Eine genau Vorbereitung kann den Unterschied machen.",
+          "ru": "Точная подготовка может иметь значение."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher genau, als man zunächst denkt.",
+          "ru": "По моему опыту, это более точно, чем вы могли подумать на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich genau, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно точен, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "gründlich",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "тщательный",
+      "translation_en": "thorough",
+      "examples": [
+        {
+          "de": "Eine gründlich Vorbereitung kann den Unterschied machen.",
+          "ru": "Тщательная подготовка может сыграть решающую роль."
+        },
+        {
+          "de": "Im Lebenslauf sollte man gründlich Erfahrungen hervorheben.",
+          "ru": "В резюме вам следует подробно описать свой опыт."
+        },
+        {
+          "de": "Der Recruiter suchte nach gründlichen Persönlichkeiten.",
+          "ru": "Рекрутер искал основательных личностей."
+        },
+        {
+          "de": "Das war total gründlich, hat mir echt geholfen.",
+          "ru": "Это было действительно тщательно и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich gründlich, muss man ehrlich sagen.",
+          "ru": "Да, это довольно подробно, если честно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ordnungsliebend",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "упорядоченный",
+      "translation_en": "orderly",
+      "examples": [
+        {
+          "de": "Der Recruiter suchte nach ordnungsliebenden Persönlichkeiten.",
+          "ru": "Рекрутер искал упорядоченных личностей."
+        },
+        {
+          "de": "Eine ordnungsliebend Vorbereitung kann den Unterschied machen.",
+          "ru": "Правильная подготовка может сыграть решающую роль."
+        },
+        {
+          "de": "Eine ordnungsliebend Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна упорядоченная самопрезентация."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich ordnungsliebend, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно хороший, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich ordnungsliebend, muss man ehrlich sagen.",
+          "ru": "Да, это довольно упорядоченно, надо быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ordentlich",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "упорядоченный",
+      "translation_en": "orderly",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren ordentlich passend.",
+          "ru": "Квалификация кандидата была вполне подходящей."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war ordentlich.",
+          "ru": "Отзывы после собеседования были хорошие."
+        },
+        {
+          "de": "Im Lebenslauf sollte man ordentlich Erfahrungen hervorheben.",
+          "ru": "Вы должны правильно описать свой опыт в своем резюме."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich ordentlich, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно хороший, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich ordentlich, muss man ehrlich sagen.",
+          "ru": "Да, это довольно здорово, если честно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "aufrichtig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "искренне",
+      "translation_en": "sincerely",
+      "examples": [
+        {
+          "de": "Eine aufrichtig Vorbereitung kann den Unterschied machen.",
+          "ru": "Искренняя подготовка может иметь решающее значение."
+        },
+        {
+          "de": "Eine aufrichtig Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна искренняя самопрезентация."
+        },
+        {
+          "de": "Im Lebenslauf sollte man aufrichtig Erfahrungen hervorheben.",
+          "ru": "Ваше резюме должно честно отражать опыт."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich aufrichtig, das hat mich überrascht.",
+          "ru": "Так что, я думаю, результат действительно искренний, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total aufrichtig, hat mir echt geholfen.",
+          "ru": "Это было совершенно искренне и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "glaubwürdig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "заслуживающий доверия",
+      "translation_en": "credible",
+      "examples": [
+        {
+          "de": "Der Recruiter suchte nach glaubwürdigen Persönlichkeiten.",
+          "ru": "Рекрутер искал заслуживающих доверия личностей."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren glaubwürdig passend.",
+          "ru": "Квалификация кандидата заслуживала доверия."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war glaubwürdig.",
+          "ru": "Отзывы после интервью были заслуживающими доверия."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher glaubwürdig, als man zunächst denkt.",
+          "ru": "По моему опыту, это более правдоподобно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht glaubwürdig, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать правдоподобно, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "schlagfertig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "сообразительный",
+      "translation_en": "quick-witted",
+      "examples": [
+        {
+          "de": "Eine schlagfertig Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна сообразительность и самопрезентация."
+        },
+        {
+          "de": "Im Lebenslauf sollte man schlagfertig Erfahrungen hervorheben.",
+          "ru": "Вам следует быстро описать свой опыт в резюме."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren schlagfertig passend.",
+          "ru": "Квалификация кандидата сразу оказалась соответствующей."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht schlagfertig, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может звучать как клише, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total schlagfertig, hat mir echt geholfen.",
+          "ru": "Это было очень сообразительно и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "beredsam",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "красноречивый",
+      "translation_en": "eloquent",
+      "examples": [
+        {
+          "de": "Eine beredsam Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна красноречивая самопрезентация."
+        },
+        {
+          "de": "Der Bewerber machte einen beredsamen Eindruck im Gespräch.",
+          "ru": "Заявитель произвел на собеседовании красноречивое впечатление."
+        },
+        {
+          "de": "Eine beredsam Vorbereitung kann den Unterschied machen.",
+          "ru": "Красноречивая подготовка может иметь решающее значение."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich beredsam, das hat mich überrascht.",
+          "ru": "Что ж, я считаю результат действительно красноречивым, он меня удивил.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht beredsam, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать красноречиво, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "rhetorisch",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "риторический",
+      "translation_en": "rhetorical",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war rhetorisch.",
+          "ru": "Отзывы после разговора были риторическими."
+        },
+        {
+          "de": "Eine rhetorisch Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "В интервью важна риторическая самопрезентация."
+        },
+        {
+          "de": "Eine rhetorisch Vorbereitung kann den Unterschied machen.",
+          "ru": "Риторическая подготовка может иметь решающее значение."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich rhetorisch, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно риторический, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total rhetorisch, hat mir echt geholfen.",
+          "ru": "Это было совершенно риторически и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "sprachbegabt",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "одаренный языками",
+      "translation_en": "gifted with languages",
+      "examples": [
+        {
+          "de": "Der Bewerber machte einen sprachbegabten Eindruck im Gespräch.",
+          "ru": "Во время собеседования у заявителя выяснилось, что он обладает языковым даром."
+        },
+        {
+          "de": "Im Lebenslauf sollte man sprachbegabt Erfahrungen hervorheben.",
+          "ru": "В резюме вам следует указать языковые навыки."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr sprachbegabt.",
+          "ru": "Рабочая атмосфера в компании показалась очень языковой."
+        },
+        {
+          "de": "Das war total sprachbegabt, hat mir echt geholfen.",
+          "ru": "Тот был полностью одарён языками и мне очень помог.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich sprachbegabt, muss man ehrlich sagen.",
+          "ru": "Да, это настоящий дар для языков, надо быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "mehrsprachig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "многоязычный",
+      "translation_en": "multilingual",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren mehrsprachig passend.",
+          "ru": "Квалификация кандидата была многоязычной."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr mehrsprachig.",
+          "ru": "Рабочая атмосфера в компании показалась очень многоязычной."
+        },
+        {
+          "de": "Eine mehrsprachig Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна многоязычная самопрезентация."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher mehrsprachig, als man zunächst denkt.",
+          "ru": "По моему опыту, он более многоязычен, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich mehrsprachig, muss man ehrlich sagen.",
+          "ru": "Да, он довольно многоязычный, если честно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "fremdsprachig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "иностранный язык",
+      "translation_en": "foreign language",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war fremdsprachig.",
+          "ru": "Обратная связь после разговора была на иностранном языке."
+        },
+        {
+          "de": "Im Lebenslauf sollte man fremdsprachig Erfahrungen hervorheben.",
+          "ru": "В резюме следует указать опыт работы на иностранном языке."
+        },
+        {
+          "de": "Der Recruiter suchte nach fremdsprachigen Persönlichkeiten.",
+          "ru": "Рекрутер искал иноязычных личностей."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich fremdsprachig, muss man ehrlich sagen.",
+          "ru": "Да, это довольно иностранный язык, скажу честно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total fremdsprachig, hat mir echt geholfen.",
+          "ru": "Это было полностью на иностранном языке и мне очень помогло.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "international",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "международный",
+      "translation_en": "international",
+      "examples": [
+        {
+          "de": "Der Bewerber machte einen internationalen Eindruck im Gespräch.",
+          "ru": "Во время собеседования заявитель произвел международное впечатление."
+        },
+        {
+          "de": "Eine international Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна международная самопрезентация."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren international passend.",
+          "ru": "Квалификация кандидата соответствовала международному уровню."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher international, als man zunächst denkt.",
+          "ru": "По моему опыту, это более интернационально, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total international, hat mir echt geholfen.",
+          "ru": "Это было абсолютно интернационально и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "regional",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "региональный",
+      "translation_en": "regional",
+      "examples": [
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr regional.",
+          "ru": "Рабочая атмосфера в компании показалась очень региональной."
+        },
+        {
+          "de": "Eine regional Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "В интервью важна региональная самопрезентация."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren regional passend.",
+          "ru": "Квалификация кандидата соответствовала региону."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich regional, das hat mich überrascht.",
+          "ru": "Ну, я думаю, что результат действительно региональный, что меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht regional, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться региональным, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "national",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "национальный",
+      "translation_en": "national",
+      "examples": [
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr national.",
+          "ru": "Рабочая атмосфера в компании показалась очень национальной."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren national passend.",
+          "ru": "Квалификация кандидата соответствовала национальному уровню."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war national.",
+          "ru": "Отзывы после разговора были общенациональными."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich national, das hat mich überrascht.",
+          "ru": "Что ж, думаю, результат действительно национальный, что меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher national, als man zunächst denkt.",
+          "ru": "По моему опыту, это более национальное явление, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "überregional",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "на национальном уровне",
+      "translation_en": "nationally",
+      "examples": [
+        {
+          "de": "Der Recruiter suchte nach überregionalen Persönlichkeiten.",
+          "ru": "Рекрутер искал национальных личностей."
+        },
+        {
+          "de": "Eine überregional Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "В интервью важна национальная самопрезентация."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr überregional.",
+          "ru": "Рабочая атмосфера в компании показалась очень национальной."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht überregional, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может звучать по-национальному, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total überregional, hat mir echt geholfen.",
+          "ru": "Это было абсолютно национально и очень помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "branchenüblich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "стандарт в отрасли",
+      "translation_en": "standard in the industry",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren branchenüblich passend.",
+          "ru": "Квалификация кандидата соответствовала отраслевым стандартам."
+        },
+        {
+          "de": "Im Lebenslauf sollte man branchenüblich Erfahrungen hervorheben.",
+          "ru": "В своем резюме вы должны указать опыт, который является общепринятым в отрасли."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr branchenüblich.",
+          "ru": "Рабочая атмосфера в компании показалась очень типичной для отрасли."
+        },
+        {
+          "de": "Das war total branchenüblich, hat mir echt geholfen.",
+          "ru": "Это была совершенно стандартная практика в отрасли, и она мне очень помогла.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich branchenüblich, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно стандартен для отрасли, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "marktgerecht",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "в соответствии с рынком",
+      "translation_en": "in line with the market",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren marktgerecht passend.",
+          "ru": "Квалификация кандидата соответствовала рынку."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war marktgerecht.",
+          "ru": "Отзывы после разговора соответствовали рынку."
+        },
+        {
+          "de": "Der Bewerber machte einen marktgerechten Eindruck im Gespräch.",
+          "ru": "Заявитель произвел на собеседовании выгодное впечатление."
+        },
+        {
+          "de": "Das war total marktgerecht, hat mir echt geholfen.",
+          "ru": "Это полностью соответствовало рынку и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher marktgerecht, als man zunächst denkt.",
+          "ru": "По моему опыту, это больше соответствует рынку, чем вы могли подумать на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "leistungsgerecht",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "связанный с производительностью",
+      "translation_en": "performance-related",
+      "examples": [
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr leistungsgerecht.",
+          "ru": "Рабочая атмосфера в компании казалась очень ориентированной на результат."
+        },
+        {
+          "de": "Im Lebenslauf sollte man leistungsgerecht Erfahrungen hervorheben.",
+          "ru": "В своем резюме следует указать опыт, связанный с производительностью."
+        },
+        {
+          "de": "Der Recruiter suchte nach leistungsgerechten Persönlichkeiten.",
+          "ru": "Рекрутер искал высокоэффективных личностей."
+        },
+        {
+          "de": "Das war total leistungsgerecht, hat mir echt geholfen.",
+          "ru": "Это было полностью основано на производительности и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht leistungsgerecht, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться основанным на производительности, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "tarifvertraglich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "коллективный договор",
+      "translation_en": "collective agreement",
+      "examples": [
+        {
+          "de": "Im Lebenslauf sollte man tarifvertraglich Erfahrungen hervorheben.",
+          "ru": "В своем резюме вы должны указать коллективно согласованный опыт."
+        },
+        {
+          "de": "Der Recruiter suchte nach tarifvertraglichen Persönlichkeiten.",
+          "ru": "Рекрутер искал личностей, которые будут соответствовать коллективным договорам."
+        },
+        {
+          "de": "Eine tarifvertraglich Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна самопрезентация в соответствии с коллективным договором."
+        },
+        {
+          "de": "Das war total tarifvertraglich, hat mir echt geholfen.",
+          "ru": "Это полностью соответствовало коллективному договору и мне очень помогло.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher tarifvertraglich, als man zunächst denkt.",
+          "ru": "По моему опыту, это больше похоже на коллективный договор, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "sozialversicherungspflichtig",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "при условии уплаты взносов социального страхования",
+      "translation_en": "subject to social insurance contributions",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren sozialversicherungspflichtig passend.",
+          "ru": "Квалификация кандидата соответствовала целям социального страхования."
+        },
+        {
+          "de": "Im Lebenslauf sollte man sozialversicherungspflichtig Erfahrungen hervorheben.",
+          "ru": "В своем резюме вам следует указать опыт, связанный с отчислениями на социальное обеспечение."
+        },
+        {
+          "de": "Der Bewerber machte einen sozialversicherungspflichtigen Eindruck im Gespräch.",
+          "ru": "Во время собеседования у заявителя сложилось впечатление, что с него взимаются взносы в фонд социального страхования."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich sozialversicherungspflichtig, muss man ehrlich sagen.",
+          "ru": "Да, это во многом зависит от отчислений на социальное обеспечение, если честно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht sozialversicherungspflichtig, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может звучать как социальное страхование, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "vollzeitig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "на постоянной основе",
+      "translation_en": "full time",
+      "examples": [
+        {
+          "de": "Im Lebenslauf sollte man vollzeitig Erfahrungen hervorheben.",
+          "ru": "В резюме следует указать опыт работы на условиях полной занятости."
+        },
+        {
+          "de": "Eine vollzeitig Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важно полноценное самовыражение."
+        },
+        {
+          "de": "Eine vollzeitig Vorbereitung kann den Unterschied machen.",
+          "ru": "Полноценная подготовка может иметь решающее значение."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher vollzeitig, als man zunächst denkt.",
+          "ru": "По моему опыту, это скорее работа на полный рабочий день, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich vollzeitig, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно очный, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "teilzeitig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "неполная занятость",
+      "translation_en": "part time",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war teilzeitig.",
+          "ru": "Отзывы после интервью были частичными."
+        },
+        {
+          "de": "Der Recruiter suchte nach teilzeitigen Persönlichkeiten.",
+          "ru": "Рекрутер искал личностей на неполный рабочий день."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr teilzeitig.",
+          "ru": "Рабочая атмосфера в компании казалась очень нерабочей."
+        },
+        {
+          "de": "Das war total teilzeitig, hat mir echt geholfen.",
+          "ru": "Это было полностью частичное занятие и мне очень помогло.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher teilzeitig, als man zunächst denkt.",
+          "ru": "По моему опыту, это скорее неполный рабочий день, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "tätig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "трудоустроенный",
+      "translation_en": "employed",
+      "examples": [
+        {
+          "de": "Der Bewerber machte einen tätigen Eindruck im Gespräch.",
+          "ru": "Заявитель произвел активное впечатление во время собеседования."
+        },
+        {
+          "de": "Der Recruiter suchte nach tätigen Persönlichkeiten.",
+          "ru": "Рекрутер искал активных личностей."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren tätig passend.",
+          "ru": "Квалификация кандидата была подходящей."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher tätig, als man zunächst denkt.",
+          "ru": "По моему опыту, это более активно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total tätig, hat mir echt geholfen.",
+          "ru": "Это было очень активно и мне очень помогло.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "beschäftigt",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "занятый",
+      "translation_en": "busy",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war beschäftigt.",
+          "ru": "Отзывы после интервью были насыщенными."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren beschäftigt passend.",
+          "ru": "Квалификация кандидата была занята сопоставлением."
+        },
+        {
+          "de": "Eine beschäftigt Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна насыщенная самопрезентация."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich beschäftigt, muss man ehrlich sagen.",
+          "ru": "Да, это довольно занято, если честно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich beschäftigt, das hat mich überrascht.",
+          "ru": "Итак, я считаю, что результат очень загружен, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "angestellt",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "трудоустроенный",
+      "translation_en": "employed",
+      "examples": [
+        {
+          "de": "Eine angestellt Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна самопрезентация."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren angestellt passend.",
+          "ru": "Квалификация кандидата была подходящей."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr angestellt.",
+          "ru": "Рабочая атмосфера в компании казалась очень напряженной."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht angestellt, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может звучать фальшиво, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich angestellt, das hat mich überrascht.",
+          "ru": "Так что, думаю, результат действительно был достигнут, он меня удивил.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "freiberuflich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "внештатный",
+      "translation_en": "freelance",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren freiberuflich passend.",
+          "ru": "Квалификация кандидата соответствовала внештатной работе."
+        },
+        {
+          "de": "Eine freiberuflich Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна самопрезентация фрилансера."
+        },
+        {
+          "de": "Eine freiberuflich Vorbereitung kann den Unterschied machen.",
+          "ru": "Подготовка к фрилансу может иметь решающее значение."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht freiberuflich, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может звучать как фрилансер, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total freiberuflich, hat mir echt geholfen.",
+          "ru": "Это был полностью фриланс и мне очень помог.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "gewerblich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "коммерческий",
+      "translation_en": "commercial",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war gewerblich.",
+          "ru": "Отзывы после интервью были коммерческими."
+        },
+        {
+          "de": "Der Recruiter suchte nach gewerblichen Persönlichkeiten.",
+          "ru": "Рекрутер искал коммерческих личностей."
+        },
+        {
+          "de": "Der Bewerber machte einen gewerblichen Eindruck im Gespräch.",
+          "ru": "Заявитель произвел коммерческое впечатление во время собеседования."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher gewerblich, als man zunächst denkt.",
+          "ru": "По моему опыту, это более коммерческий подход, чем вы можете подумать на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht gewerblich, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может показаться коммерческим, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "industriell",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "промышленный",
+      "translation_en": "industrial",
+      "examples": [
+        {
+          "de": "Im Lebenslauf sollte man industriell Erfahrungen hervorheben.",
+          "ru": "В резюме следует указать опыт работы на производстве."
+        },
+        {
+          "de": "Eine industriell Vorbereitung kann den Unterschied machen.",
+          "ru": "Промышленная подготовка может иметь решающее значение."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren industriell passend.",
+          "ru": "Квалификация кандидата соответствовала отрасли."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher industriell, als man zunächst denkt.",
+          "ru": "По моему опыту, это более индустриально, чем вы можете подумать на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total industriell, hat mir echt geholfen.",
+          "ru": "Это было полностью индустриально и очень помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "kaufmännisch",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "коммерчески",
+      "translation_en": "commercially",
+      "examples": [
+        {
+          "de": "Im Lebenslauf sollte man kaufmännisch Erfahrungen hervorheben.",
+          "ru": "В резюме следует указать коммерческий опыт."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war kaufmännisch.",
+          "ru": "Обратная связь после разговора носила коммерческий характер."
+        },
+        {
+          "de": "Eine kaufmännisch Vorbereitung kann den Unterschied machen.",
+          "ru": "Коммерческая подготовка может иметь решающее значение."
+        },
+        {
+          "de": "Das war total kaufmännisch, hat mir echt geholfen.",
+          "ru": "Это было полностью коммерческое занятие и мне очень помогло.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich kaufmännisch, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно коммерческий, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "technisch",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "технически",
+      "translation_en": "technically",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war technisch.",
+          "ru": "Отзывы после интервью были техническими."
+        },
+        {
+          "de": "Im Lebenslauf sollte man technisch Erfahrungen hervorheben.",
+          "ru": "В резюме следует указать технический опыт."
+        },
+        {
+          "de": "Der Bewerber machte einen technischen Eindruck im Gespräch.",
+          "ru": "На собеседовании заявитель произвел впечатление технического характера."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich technisch, muss man ehrlich sagen.",
+          "ru": "Да, это довольно технический вопрос, я должен быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht technisch, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может показаться техническим, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "akademisch",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "академический",
+      "translation_en": "academic",
+      "examples": [
+        {
+          "de": "Der Bewerber machte einen akademischen Eindruck im Gespräch.",
+          "ru": "Во время собеседования заявитель произвел впечатление академика."
+        },
+        {
+          "de": "Eine akademisch Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна академическая самопрезентация."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren akademisch passend.",
+          "ru": "Квалификация кандидата была академически соответствующей."
+        },
+        {
+          "de": "Das war total akademisch, hat mir echt geholfen.",
+          "ru": "Это было абсолютно академично и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher akademisch, als man zunächst denkt.",
+          "ru": "По моему опыту, это более академично, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "praktisch",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "практичный",
+      "translation_en": "practical",
+      "examples": [
+        {
+          "de": "Im Lebenslauf sollte man praktisch Erfahrungen hervorheben.",
+          "ru": "Практический опыт должен быть указан в вашем резюме."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr praktisch.",
+          "ru": "Рабочая атмосфера в компании показалась мне очень практичной."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war praktisch.",
+          "ru": "Отзывы после интервью были практическими."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich praktisch, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно практичен, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich praktisch, muss man ehrlich sagen.",
+          "ru": "Да, это довольно практично, я должен быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "theoretisch",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "теоретически",
+      "translation_en": "theoretically",
+      "examples": [
+        {
+          "de": "Der Recruiter suchte nach theoretischen Persönlichkeiten.",
+          "ru": "Рекрутер искал личностей-теоретиков."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren theoretisch passend.",
+          "ru": "Квалификация кандидата теоретически была подходящей."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war theoretisch.",
+          "ru": "Отзывы после разговора были теоретическими."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich theoretisch, das hat mich überrascht.",
+          "ru": "Ну, я думаю, что результат действительно теоретический, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher theoretisch, als man zunächst denkt.",
+          "ru": "По моему опыту, это более теоретический вопрос, чем вы можете подумать на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "wissenschaftlich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "научный",
+      "translation_en": "scientific",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war wissenschaftlich.",
+          "ru": "Отзывы после интервью были научными."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren wissenschaftlich passend.",
+          "ru": "Квалификация кандидата была академически соответствующей."
+        },
+        {
+          "de": "Im Lebenslauf sollte man wissenschaftlich Erfahrungen hervorheben.",
+          "ru": "В резюме следует указать научный опыт."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher wissenschaftlich, als man zunächst denkt.",
+          "ru": "По моему опыту, это более научно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich wissenschaftlich, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно научный, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "beruflich",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "профессионально",
+      "translation_en": "professionally",
+      "examples": [
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr beruflich.",
+          "ru": "Рабочая атмосфера в компании показалась очень профессиональной."
+        },
+        {
+          "de": "Der Bewerber machte einen beruflichen Eindruck im Gespräch.",
+          "ru": "На собеседовании заявитель произвел профессиональное впечатление."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren beruflich passend.",
+          "ru": "Квалификация кандидата была профессионально соответствующей."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht beruflich, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать профессионально, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher beruflich, als man zunächst denkt.",
+          "ru": "По моему опыту, это более профессионально, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "privat",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "частный",
+      "translation_en": "private",
+      "examples": [
+        {
+          "de": "Eine privat Vorbereitung kann den Unterschied machen.",
+          "ru": "Частная подготовка может иметь значение."
+        },
+        {
+          "de": "Der Recruiter suchte nach privaten Persönlichkeiten.",
+          "ru": "Рекрутер искал частных лиц."
+        },
+        {
+          "de": "Im Lebenslauf sollte man privat Erfahrungen hervorheben.",
+          "ru": "В своем резюме следует выделить личный опыт."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher privat, als man zunächst denkt.",
+          "ru": "По моему опыту, это более конфиденциально, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total privat, hat mir echt geholfen.",
+          "ru": "Это было совершенно личное и мне очень помогло.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "persönlich",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "личный",
+      "translation_en": "personal",
+      "examples": [
+        {
+          "de": "Der Recruiter suchte nach persönlichen Persönlichkeiten.",
+          "ru": "Рекрутер искал личных личностей."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war persönlich.",
+          "ru": "Отзывы после интервью были личными."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr persönlich.",
+          "ru": "Рабочая атмосфера в компании показалась мне очень личной."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher persönlich, als man zunächst denkt.",
+          "ru": "По моему опыту, это более личное, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich persönlich, muss man ehrlich sagen.",
+          "ru": "Да, это очень личное, я должен быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "fachlich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "профессионально",
+      "translation_en": "professionally",
+      "examples": [
+        {
+          "de": "Der Recruiter suchte nach fachlichen Persönlichkeiten.",
+          "ru": "Рекрутер искал профессиональных личностей."
+        },
+        {
+          "de": "Im Lebenslauf sollte man fachlich Erfahrungen hervorheben.",
+          "ru": "В резюме следует указать профессиональный опыт."
+        },
+        {
+          "de": "Eine fachlich Vorbereitung kann den Unterschied machen.",
+          "ru": "Профессиональная подготовка может сыграть решающую роль."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht fachlich, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может показаться техническим, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total fachlich, hat mir echt geholfen.",
+          "ru": "Это было абсолютно профессионально и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "sozial",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "социальный",
+      "translation_en": "social",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren sozial passend.",
+          "ru": "Квалификация кандидата была социально приемлемой."
+        },
+        {
+          "de": "Eine sozial Vorbereitung kann den Unterschied machen.",
+          "ru": "Социальная подготовка может иметь решающее значение."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war sozial.",
+          "ru": "Обратная связь после разговора была социальной."
+        },
+        {
+          "de": "Das war total sozial, hat mir echt geholfen.",
+          "ru": "Это было абсолютно социально и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich sozial, muss man ehrlich sagen.",
+          "ru": "Да, это довольно социально, надо быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "methodisch",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "методический",
+      "translation_en": "methodical",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren methodisch passend.",
+          "ru": "Квалификация кандидата была методологически подходящей."
+        },
+        {
+          "de": "Eine methodisch Vorbereitung kann den Unterschied machen.",
+          "ru": "Методическая подготовка может иметь решающее значение."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war methodisch.",
+          "ru": "Отзывы после интервью были методическими."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich methodisch, muss man ehrlich sagen.",
+          "ru": "Да, это довольно методично, если честно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht methodisch, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать методично, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "konzeptionell",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "концептуальный",
+      "translation_en": "conceptual",
+      "examples": [
+        {
+          "de": "Der Recruiter suchte nach konzeptionellen Persönlichkeiten.",
+          "ru": "Рекрутер искал концептуальных личностей."
+        },
+        {
+          "de": "Eine konzeptionell Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна концептуальная самопрезентация."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war konzeptionell.",
+          "ru": "Отзывы после интервью были концептуальными."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich konzeptionell, muss man ehrlich sagen.",
+          "ru": "Да, это весьма концептуально, если честно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher konzeptionell, als man zunächst denkt.",
+          "ru": "По моему опыту, это более концептуально, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "zukunftsorientiert",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "ориентированный на будущее",
+      "translation_en": "future-oriented",
+      "examples": [
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr zukunftsorientiert.",
+          "ru": "Рабочая атмосфера в компании казалась очень ориентированной на будущее."
+        },
+        {
+          "de": "Der Bewerber machte einen zukunftsorientierten Eindruck im Gespräch.",
+          "ru": "На собеседовании заявитель произвел впечатление ориентированного на будущее."
+        },
+        {
+          "de": "Eine zukunftsorientiert Vorbereitung kann den Unterschied machen.",
+          "ru": "Ориентированная на будущее подготовка может иметь решающее значение."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich zukunftsorientiert, muss man ehrlich sagen.",
+          "ru": "Да, это очень ориентировано на будущее, если быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total zukunftsorientiert, hat mir echt geholfen.",
+          "ru": "Это было полностью ориентировано на будущее и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "modern",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "современный",
+      "translation_en": "modern",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war modern.",
+          "ru": "Обратная связь после разговора была современной."
+        },
+        {
+          "de": "Im Lebenslauf sollte man modern Erfahrungen hervorheben.",
+          "ru": "В своем резюме вам следует выделить современный опыт."
+        },
+        {
+          "de": "Der Bewerber machte einen modernen Eindruck im Gespräch.",
+          "ru": "На собеседовании заявитель произвел современное впечатление."
+        },
+        {
+          "de": "Das war total modern, hat mir echt geholfen.",
+          "ru": "Это было совершенно современно и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich modern, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно современный, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "traditionell",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "традиционный",
+      "translation_en": "traditional",
+      "examples": [
+        {
+          "de": "Der Bewerber machte einen traditionellen Eindruck im Gespräch.",
+          "ru": "На собеседовании заявитель произвел традиционное впечатление."
+        },
+        {
+          "de": "Der Recruiter suchte nach traditionellen Persönlichkeiten.",
+          "ru": "Рекрутер искал традиционных личностей."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr traditionell.",
+          "ru": "Рабочая атмосфера в компании показалась очень традиционной."
+        },
+        {
+          "de": "Das war total traditionell, hat mir echt geholfen.",
+          "ru": "Это было совершенно традиционно и действительно помогло мне.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich traditionell, muss man ehrlich sagen.",
+          "ru": "Да, это довольно традиционно, если честно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "etabliert",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "учредил",
+      "translation_en": "established",
+      "examples": [
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr etabliert.",
+          "ru": "Рабочая атмосфера в компании казалась очень устоявшейся."
+        },
+        {
+          "de": "Eine etabliert Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна налаженная самопрезентация."
+        },
+        {
+          "de": "Der Bewerber machte einen etablierten Eindruck im Gespräch.",
+          "ru": "На собеседовании заявитель произвел устоявшееся впечатление."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich etabliert, muss man ehrlich sagen.",
+          "ru": "Да, это довольно устоялось, если честно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich etabliert, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно установлен, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "renommiert",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "известный",
+      "translation_en": "renowned",
+      "examples": [
+        {
+          "de": "Im Lebenslauf sollte man renommiert Erfahrungen hervorheben.",
+          "ru": "В своем резюме следует указать известный опыт."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war renommiert.",
+          "ru": "Отзывы после разговора были известными."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr renommiert.",
+          "ru": "Рабочая атмосфера в компании показалась мне очень престижной."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht renommiert, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать престижно, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher renommiert, als man zunächst denkt.",
+          "ru": "По моему опыту, это более престижно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "führend",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "ведущий",
+      "translation_en": "leading",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren führend passend.",
+          "ru": "Квалификация кандидата была на высшем уровне."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr führend.",
+          "ru": "Рабочая атмосфера в компании показалась мне очень руководящей."
+        },
+        {
+          "de": "Der Recruiter suchte nach führenden Persönlichkeiten.",
+          "ru": "Рекрутер искал ведущих личностей."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher führend, als man zunächst denkt.",
+          "ru": "По моему опыту, это больше лидер, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht führend, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться убедительным, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "bekannt",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "известный",
+      "translation_en": "known",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war bekannt.",
+          "ru": "Отзывы после разговора были знакомыми."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr bekannt.",
+          "ru": "Рабочая атмосфера в компании показалась мне очень знакомой."
+        },
+        {
+          "de": "Eine bekannt Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна известная самопрезентация."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich bekannt, das hat mich überrascht.",
+          "ru": "Что ж, думаю, результат действительно знаком, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total bekannt, hat mir echt geholfen.",
+          "ru": "Это было совершенно знакомо и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "beliebt",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "популярный",
+      "translation_en": "popular",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren beliebt passend.",
+          "ru": "Квалификация кандидата пользовалась популярностью."
+        },
+        {
+          "de": "Eine beliebt Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна популярная самопрезентация."
+        },
+        {
+          "de": "Im Lebenslauf sollte man beliebt Erfahrungen hervorheben.",
+          "ru": "В резюме вам следует указать свой опыт."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher beliebt, als man zunächst denkt.",
+          "ru": "По моему опыту, это более популярно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht beliebt, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать популярно, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "attraktiv",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "привлекательный",
+      "translation_en": "attractive",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war attraktiv.",
+          "ru": "Отзывы после интервью были привлекательными."
+        },
+        {
+          "de": "Der Bewerber machte einen attraktiven Eindruck im Gespräch.",
+          "ru": "На собеседовании заявитель произвел привлекательное впечатление."
+        },
+        {
+          "de": "Eine attraktiv Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна привлекательная самопрезентация."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht attraktiv, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться привлекательным, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich attraktiv, muss man ehrlich sagen.",
+          "ru": "Да, это довольно привлекательно, если честно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "interessant",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "интересный",
+      "translation_en": "interesting",
+      "examples": [
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr interessant.",
+          "ru": "Рабочая атмосфера в компании показалась мне очень интересной."
+        },
+        {
+          "de": "Der Recruiter suchte nach interessanten Persönlichkeiten.",
+          "ru": "Рекрутер искал интересных личностей."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren interessant passend.",
+          "ru": "Квалификация кандидата была интересной."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich interessant, das hat mich überrascht.",
+          "ru": "Что ж, думаю, результат действительно интересный, он меня удивил.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total interessant, hat mir echt geholfen.",
+          "ru": "Это было действительно интересно и мне очень помогло.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "spannend",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "захватывающий",
+      "translation_en": "exciting",
+      "examples": [
+        {
+          "de": "Eine spannend Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна увлекательная самопрезентация."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr spannend.",
+          "ru": "Рабочая атмосфера в компании показалась мне очень интересной."
+        },
+        {
+          "de": "Der Bewerber machte einen spannenden Eindruck im Gespräch.",
+          "ru": "Заявитель произвел на собеседовании захватывающее впечатление."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher spannend, als man zunächst denkt.",
+          "ru": "По моему опыту, это более увлекательно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich spannend, muss man ehrlich sagen.",
+          "ru": "Да, это довольно интересно, я должен быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "herausfordernd",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "испытывающий",
+      "translation_en": "challenging",
+      "examples": [
+        {
+          "de": "Der Bewerber machte einen herausfordernden Eindruck im Gespräch.",
+          "ru": "Во время собеседования заявитель произвел вызывающее впечатление."
+        },
+        {
+          "de": "Eine herausfordernd Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна активная самопрезентация."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war herausfordernd.",
+          "ru": "Отзывы после интервью были непростыми."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher herausfordernd, als man zunächst denkt.",
+          "ru": "По моему опыту, это сложнее, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich herausfordernd, das hat mich überrascht.",
+          "ru": "Итак, я нахожу результат действительно сложным, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "anspruchsvoll",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "требовательный",
+      "translation_en": "demanding",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war anspruchsvoll.",
+          "ru": "Отзывы после интервью были требовательными."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren anspruchsvoll passend.",
+          "ru": "Квалификация кандидата была требовательной."
+        },
+        {
+          "de": "Eine anspruchsvoll Vorbereitung kann den Unterschied machen.",
+          "ru": "Тщательная подготовка может сыграть решающую роль."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher anspruchsvoll, als man zunächst denkt.",
+          "ru": "По моему опыту, это сложнее, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich anspruchsvoll, das hat mich überrascht.",
+          "ru": "Что ж, я нахожу результат действительно сложным, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "schwierig",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "трудный",
+      "translation_en": "difficult",
+      "examples": [
+        {
+          "de": "Eine schwierig Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна сложная самопрезентация."
+        },
+        {
+          "de": "Die Qualifikationen des Kandidaten waren schwierig passend.",
+          "ru": "Квалификации кандидата было трудно соответствовать."
+        },
+        {
+          "de": "Im Lebenslauf sollte man schwierig Erfahrungen hervorheben.",
+          "ru": "В резюме следует указать трудный опыт."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht schwierig, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться трудным, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich schwierig, das hat mich überrascht.",
+          "ru": "Итак, я нахожу результат действительно трудным, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "leicht",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "свет",
+      "translation_en": "light",
+      "examples": [
+        {
+          "de": "Eine leicht Vorbereitung kann den Unterschied machen.",
+          "ru": "Небольшая подготовка может сыграть решающую роль."
+        },
+        {
+          "de": "Eine leicht Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна небольшая самопрезентация."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr leicht.",
+          "ru": "Рабочая атмосфера в компании показалась мне очень легкой."
+        },
+        {
+          "de": "Das war total leicht, hat mir echt geholfen.",
+          "ru": "Это было действительно легко и мне очень помогло.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher leicht, als man zunächst denkt.",
+          "ru": "По моему опыту, это гораздо проще, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "klar",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "прозрачный",
+      "translation_en": "clear",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war klar.",
+          "ru": "Обратная связь после разговора была ясна."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr klar.",
+          "ru": "Рабочая атмосфера в компании казалась очень ясной."
+        },
+        {
+          "de": "Der Bewerber machte einen klaren Eindruck im Gespräch.",
+          "ru": "Заявитель произвел на собеседовании явное впечатление."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich klar, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно ясен, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total klar, hat mir echt geholfen.",
+          "ru": "Это было совершенно ясно и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "deutlich",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "четко",
+      "translation_en": "clearly",
+      "examples": [
+        {
+          "de": "Das Feedback nach dem Gespräch war deutlich.",
+          "ru": "Обратная связь после разговора была ясна."
+        },
+        {
+          "de": "Im Lebenslauf sollte man deutlich Erfahrungen hervorheben.",
+          "ru": "Вы должны четко указать опыт в своем резюме."
+        },
+        {
+          "de": "Eine deutlich Vorbereitung kann den Unterschied machen.",
+          "ru": "Тщательная подготовка может иметь решающее значение."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich deutlich, muss man ehrlich sagen.",
+          "ru": "Да, это довольно ясно, я должен быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total deutlich, hat mir echt geholfen.",
+          "ru": "Это было очень ясно и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "offensichtlich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "видимо",
+      "translation_en": "apparently",
+      "examples": [
+        {
+          "de": "Eine offensichtlich Vorbereitung kann den Unterschied machen.",
+          "ru": "Очевидно, что подготовка может иметь решающее значение."
+        },
+        {
+          "de": "Der Recruiter suchte nach offensichtlichen Persönlichkeiten.",
+          "ru": "Рекрутер искал очевидных личностей."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war offensichtlich.",
+          "ru": "Отзывы после интервью были очевидны."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht offensichtlich, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может показаться очевидным, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher offensichtlich, als man zunächst denkt.",
+          "ru": "По моему опыту, это более очевидно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "wichtig",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "важный",
+      "translation_en": "important",
+      "examples": [
+        {
+          "de": "Der Bewerber machte einen wichtigen Eindruck im Gespräch.",
+          "ru": "Заявитель произвел важное впечатление на собеседовании."
+        },
+        {
+          "de": "Eine wichtig Selbstdarstellung ist im Vorstellungsgespräch wichtig.",
+          "ru": "На собеседовании важна важная самопрезентация."
+        },
+        {
+          "de": "Das Feedback nach dem Gespräch war wichtig.",
+          "ru": "Обратная связь после собеседования была важна."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich wichtig, muss man ehrlich sagen.",
+          "ru": "Да, это очень важно, вы должны быть честными.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich wichtig, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно важен, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
     }
   ]
 }

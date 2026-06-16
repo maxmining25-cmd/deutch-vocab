@@ -33,7 +33,8 @@
         "Laufbahn",
         "Werdegang",
         "Aufstieg"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "die Laufbahn, die Laufbahnen",
@@ -63,7 +64,8 @@
           "ru": "Должно быть, это будет самое серьезное дело в твоей карьере."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Weiterbildung, die Weiterbildungen",
@@ -93,7 +95,10 @@
           "ru": "Что эти годы, годы зрелости, дают возможность путешествовать, получать образование, менять работу."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Erstausbildung"
+      ]
     },
     {
       "word": "die Fortbildung, die Fortbildungen",
@@ -123,7 +128,8 @@
           "ru": "В настоящее время концепция основных ценностей и профессиональных качеств отражена во всех аспектах управления людскими ресурсами, включая набор, организацию служебной деятельности, развитие карьеры и обучение."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Seminar, die Seminare",
@@ -153,7 +159,8 @@
           "ru": "Все мы были на его семинаре в отеле когда началась эпидемия."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Schulung, die Schulungen",
@@ -183,7 +190,8 @@
           "ru": "Все сфокусировано на улучшении, обучении, развитии и движении вперед."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Workshop, die Workshops",
@@ -213,7 +221,8 @@
           "ru": "Ты не должен был творить на семинаре."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Qualifizierung, die Qualifizierungen",
@@ -243,7 +252,10 @@
           "ru": "Направление больных на операцию?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Dequalifizierung"
+      ]
     },
     {
       "word": "sich qualifizieren",
@@ -284,7 +296,10 @@
         "ihr": "sich qualifiziert",
         "sie/Sie": "sich qualifizieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "sich disqualifizieren"
+      ]
     },
     {
       "word": "die Fähigkeit, die Fähigkeiten",
@@ -314,7 +329,11 @@
           "ru": "Если ты освоишь это умение, у нас с тобой будет светлое будущее."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unfähigkeit",
+        "das Unvermögen"
+      ]
     },
     {
       "word": "erwerben",
@@ -355,7 +374,12 @@
         "ihr": "erwerbt",
         "sie/Sie": "erwerben"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "verlieren",
+        "veräußern",
+        "abgeben"
+      ]
     },
     {
       "word": "vertiefen",
@@ -396,7 +420,11 @@
         "ihr": "vertieft",
         "sie/Sie": "vertiefen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "verflachen",
+        "vernachlässigen"
+      ]
     },
     {
       "word": "die Vertiefung, die Vertiefungen",
@@ -426,7 +454,11 @@
           "ru": "Великая рифтовая долина - это огромная впадина."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Verflachung",
+        "die Vernachlässigung"
+      ]
     },
     {
       "word": "erweitern",
@@ -467,7 +499,12 @@
         "ihr": "erweitert",
         "sie/Sie": "erweitern"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "verengen",
+        "einschränken",
+        "reduzieren"
+      ]
     },
     {
       "word": "die Erweiterung, die Erweiterungen",
@@ -497,7 +534,11 @@
           "ru": "А теперь еще одно дополнение для нашего лагеря..."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Einschränkung, die Einschränkungen",
+        "die Reduzierung, die Reduzierungen"
+      ]
     },
     {
       "word": "der Aufstieg, die Aufstiege",
@@ -527,7 +568,12 @@
           "ru": "Он предлагает обучение, карьерный рост и особенно большое число событий."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Abstieg",
+        "der Fall",
+        "der Niedergang"
+      ]
     },
     {
       "word": "befördern",
@@ -568,7 +614,11 @@
         "ihr": "befördert",
         "sie/Sie": "befördern"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "degradieren",
+        "zurückstufen"
+      ]
     },
     {
       "word": "die Beförderung, die Beförderungen",
@@ -598,7 +648,11 @@
           "ru": "Конечно, не всем можно пообещать продвижение по службе."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Degradierung",
+        "die Zurückstufung"
+      ]
     },
     {
       "word": "die Führungskraft, die Führungskräfte",
@@ -628,7 +682,11 @@
           "ru": "Это сделало меня лучше, как лидера."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Untergebene",
+        "der Mitarbeiter"
+      ]
     },
     {
       "word": "die Führungsposition, die Führungspositionen",
@@ -658,7 +716,10 @@
           "ru": "Ты ведешь себя не как мужчина, который находится в руководстве."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Mitarbeiterstelle"
+      ]
     },
     {
       "word": "die Verantwortung, (nur Sg.)",
@@ -693,7 +754,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Verantwortungslosigkeit"
+      ]
     },
     {
       "word": "Verantwortung übernehmen",
@@ -734,7 +798,11 @@
         "ihr": "Verantwortung übernehmet",
         "sie/Sie": "Verantwortung übernehmen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "Verantwortung abgeben",
+        "Verantwortung ablehnen"
+      ]
     },
     {
       "word": "das Ziel, die Ziele",
@@ -764,7 +832,11 @@
           "ru": "И я не уверен, что она является его целью."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Start",
+        "der Ausgangspunkt"
+      ]
     },
     {
       "word": "die Zielvereinbarung, die Zielvereinbarungen",
@@ -795,7 +867,8 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Mitarbeitergespräch, die Mitarbeitergespräche",
@@ -825,7 +898,8 @@
           "ru": "На различных семинарах и рабочих группах около 100 сотрудников изучили, проработали и реализовали широкий спектр тем, таких как брендинг работодателя, аттестация сотрудников, адаптация, льготы, командный дух и т. д., и воплотили их в конкретные меры."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Feedbackgespräch, die Feedbackgespräche",
@@ -855,7 +929,8 @@
           "ru": "Вместо того чтобы полагаться исключительно на запланированные встречи для получения обратной связи, Левкович часто неофициально заглядывает к столу новичка."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Entwicklung, die Entwicklungen",
@@ -885,7 +960,12 @@
           "ru": "Но это доказывало, что военные смогли сформировать собственную эволюцию."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Stagnation",
+        "der Rückschritt",
+        "der Stillstand"
+      ]
     },
     {
       "word": "die Personalentwicklung, die Personalentwicklungen",
@@ -915,7 +995,8 @@
           "ru": "В 1965 году перешла на работу в Австрийское туристическое бюро, затем становится руководителем кадрового и правового департамента «Austria Trend Hotels»."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Potenzial, die Potenziale",
@@ -945,7 +1026,10 @@
           "ru": "Ты молодая, красивая, и впереди у тебя столько возможностей."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Unvermögen"
+      ]
     },
     {
       "word": "das Talent, die Talente",
@@ -975,7 +1059,10 @@
           "ru": "Да, этим талантом не многие наделены в наше время."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unbegabtheit"
+      ]
     },
     {
       "word": "die Talentförderung, die Talentförderungen",
@@ -1005,7 +1092,10 @@
           "ru": "Тогда для меня это продвижение талантов в сотрудничестве с клубами."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Talentunterdrückung"
+      ]
     },
     {
       "word": "der Mentor, die Mentoren",
@@ -1035,7 +1125,11 @@
           "ru": "Он был... моим наставником, и я не собираюсь отворачиваться от него."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Mentee",
+        "der Schützling"
+      ]
     },
     {
       "word": "das Mentoring, die Mentorings",
@@ -1065,7 +1159,8 @@
           "ru": "Пару лет назад одна из матерей-наставниц рассказала мне историю."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Coaching, die Coachings",
@@ -1095,7 +1190,8 @@
           "ru": "На выходных начнём тренировки."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Coach, die Coaches",
@@ -1125,7 +1221,10 @@
           "ru": "Тренер, а у вас тут почти как настоящая семья."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Coachee"
+      ]
     },
     {
       "word": "der Aufstiegswunsch, die Aufstiegswünsche",
@@ -1155,7 +1254,10 @@
           "ru": "Вашингтон по-прежнему недоволен ролью Германии в последние два года и не удовлетворен стремлением Берлина к продвижению вперед."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Genügsamkeit"
+      ]
     },
     {
       "word": "der Karrierepfad, die Karrierepfade",
@@ -1185,7 +1287,8 @@
           "ru": "У тебя есть хоть какие-то планы на жизнь?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Karriereschritt, die Karriereschritte",
@@ -1215,7 +1318,8 @@
           "ru": "Должность тут - карьерный лифт вместо лестницы, и Канберра ожидает от этого места соблюдения высочайших стандартов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Karrierewechsel, die Karrierewechsel",
@@ -1245,7 +1349,8 @@
           "ru": "Гнев против коррупции заставил меня внести большие изменения в свою карьеру в прошлом году, и стать практикующим юристом."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Quereinstieg, die Quereinstiege",
@@ -1275,7 +1380,11 @@
           "ru": "Шансы сменить карьеру в качестве преподавателя профессионального училища в настоящее время выглядят хорошими."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Regellaufbahn",
+        "der Direkteinstieg"
+      ]
     },
     {
       "word": "der Quereinsteiger, die Quereinsteiger",
@@ -1305,7 +1414,10 @@
           "ru": "политический, успешный сменщик карьеры"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Regeleinsteiger"
+      ]
     },
     {
       "word": "die Umschulung, die Umschulungen",
@@ -1335,7 +1447,8 @@
           "ru": "Кажется разумным, что для переподготовки двух лет вполне достаточно. После этого работник может потребовать повышения зарплаты и обойтись без государственных субсидий."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die berufliche Veränderung, die Veränderungen",
@@ -1365,7 +1478,10 @@
           "ru": "Роль государства и социальных партнеров выходит за рамки проблемы финансирования."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der berufliche Stillstand"
+      ]
     },
     {
       "word": "sich verändern",
@@ -1408,6 +1524,10 @@
       },
       "prepositions": [
         "zu + Dativ (измениться к чему-то)"
+      ],
+      "antonyms": [
+        "gleich bleiben",
+        "stagnieren"
       ]
     },
     {
@@ -1438,7 +1558,12 @@
           "ru": "Такая задача оказалась сложной как технически, так и эмоционально."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Routine",
+        "die Spielerei",
+        "die Leichtigkeit"
+      ]
     },
     {
       "word": "die Perspektive, die Perspektiven",
@@ -1468,7 +1593,10 @@
           "ru": "Мне нужен мужской взгляд на Стивена."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Perspektivlosigkeit"
+      ]
     },
     {
       "word": "die Aufstiegschance, die Aufstiegschancen",
@@ -1498,7 +1626,10 @@
           "ru": "Похоже, мне здесь светит карьера."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Sackgasse"
+      ]
     },
     {
       "word": "die Aufstiegsmöglichkeit, die Aufstiegsmöglichkeiten",
@@ -1528,7 +1659,10 @@
           "ru": "Он убедился, что всё синхронизировано."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Sackgasse"
+      ]
     },
     {
       "word": "die Fachlaufbahn, die Fachlaufbahnen",
@@ -1546,7 +1680,10 @@
           "ru": "Это одна из причин, почему многие начинающие инженеры не рассматривают карьеру специалиста как реальную альтернативу карьере менеджера."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Führungslaufbahn"
+      ]
     },
     {
       "word": "die Führungslaufbahn, die Führungslaufbahnen",
@@ -1572,7 +1709,10 @@
           "ru": "Выпускникам инженерных специальностей, интересующимся менеджментом, Valeo (5600 сотрудников внутри страны и 68 000 по всему миру) предлагает карьеру менеджера."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Fachlaufbahn"
+      ]
     },
     {
       "word": "die Auslandsentsendung, die Auslandsentsendungen",
@@ -1602,7 +1742,10 @@
           "ru": "За последние три года зарубежные командировки увеличились на 71 процент, и 82 процента опрошенных компаний направляют сотрудников за границу."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Inlandstätigkeit"
+      ]
     },
     {
       "word": "das Auslandsprojekt, die Auslandsprojekte",
@@ -1632,7 +1775,10 @@
           "ru": "Позднее к услугам были добавлены экспортные кредиты, зарубежные проекты, помощь развитию и содействие среднему бизнесу."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Inlandsprojekt"
+      ]
     },
     {
       "word": "die Sprachschulung, die Sprachschulungen",
@@ -1662,7 +1808,8 @@
           "ru": "Английский (как второй язык) сейчас изучают в нескольких школах, включая Британский Совет, который сфокусировался на интерактивных молодёжных образовательных сетях (Teen Grid)."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Zertifikatskurs, die Zertifikatskurse",
@@ -1692,7 +1839,8 @@
           "ru": "Исходя из текущих цен на сертификаты, зона потерь начинается примерно с 8,50 евро – но только в том случае, если цена акций упадет более чем на 20 процентов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Prüfung, die Prüfungen",
@@ -1722,7 +1870,8 @@
           "ru": "Мне кажется, это была несправедливая проверка моих командирских способностей."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "bestehen",
@@ -1763,7 +1912,11 @@
         "ihr": "besteht",
         "sie/Sie": "bestehen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "durchfallen",
+        "scheitern"
+      ]
     },
     {
       "word": "das Zertifikat erhalten",
@@ -1804,7 +1957,8 @@
         "ihr": "Zertifikat erhaltet",
         "sie/Sie": "Zertifikat erhalten"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "die Fachkompetenz, die Fachkompetenzen",
@@ -1834,7 +1988,10 @@
           "ru": "Обычно, для реализации подобных проектов требуется привлечение экспертных знаний международных специалистов, которым местные власти предоставляют определённые полномочия на своей территории."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Inkompetenz"
+      ]
     },
     {
       "word": "die Methodenkompetenz, die Methodenkompetenzen",
@@ -1864,7 +2021,8 @@
           "ru": "Степень бакалавра должна давать базовые знания и методологические навыки, чтобы иметь возможность справляться с растущим потоком информации."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Sozialkompetenz, die Sozialkompetenzen",
@@ -1894,7 +2052,8 @@
           "ru": "Мне не нужно уметь с ними общаться."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Selbstkompetenz, (nur Sg.)",
@@ -1924,7 +2083,8 @@
           "ru": "В квалификации АПО методическим, социальным и личностным навыкам придается больший вес, чем конкретным специальным знаниям."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Schlüsselkompetenz, die Schlüsselkompetenzen",
@@ -1954,7 +2114,8 @@
           "ru": "Эта ключевая компетенция все больше теряется, и поэтому ее необходимо обучать."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Fachwissen erweitern",
@@ -1995,7 +2156,10 @@
         "ihr": "Fachwissen erweitert",
         "sie/Sie": "Fachwissen erweitern"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "einrosten"
+      ]
     },
     {
       "word": "die Fachliteratur, (nur Sg.)",
@@ -2025,7 +2189,10 @@
           "ru": "В следующий раз лучше оставим учебники дома."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Unterhaltungsliteratur"
+      ]
     },
     {
       "word": "der Kongress, die Kongresse",
@@ -2055,7 +2222,8 @@
           "ru": "Мне сказали, тебе не разрешили провести свою группу на национальной конференции."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Tagung, die Tagungen",
@@ -2085,7 +2253,8 @@
           "ru": "Я пишу... отчет о годовой конференции, как всегда."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Messe, die Messen",
@@ -2115,7 +2284,8 @@
           "ru": "Рукопожатие, выставка и речь - всё за 90 минут."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Austausch, (nur Sg.)",
@@ -2145,7 +2315,8 @@
           "ru": "Возможно, там же, где вас держали перед обменом."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Netzwerk, die Netzwerke",
@@ -2175,7 +2346,8 @@
           "ru": "И возможно, мы нашли способ победить всю сеть целиком."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "netzwerken",
@@ -2216,7 +2388,8 @@
         "ihr": "netzwerkt",
         "sie/Sie": "netzwerken"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "der Fachverband, die Fachverbände",
@@ -2246,7 +2419,8 @@
           "ru": "JAESPA является членом профессионального союза немецких машиностроителей и других торговых организаций."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Wissenstransfer, (nur Sg.)",
@@ -2276,7 +2450,8 @@
           "ru": "В рамках Организации Объединенных Наций в дополнение к осуществлению нашей более традиционной деятельности по предотвращению политических и военных конфликтов мы стали применять более долгосрочный подход к концепции предотвращения, и в настоящее время мы более осознанно учитываем этот аспект во всех направлениях нашей работы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Einarbeitung, die Einarbeitungen",
@@ -2306,7 +2481,10 @@
           "ru": "Внутри лежит билет на самолет до Вашингтона для немедленного присвоения статуса."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Entlassung"
+      ]
     },
     {
       "word": "der Einarbeitungsplan, die Einarbeitungspläne",
@@ -2328,7 +2506,8 @@
           "ru": "BSM предлагает своим партнерам индивидуальный план обучения «на работе и за ее пределами»."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Probezeit bestehen",
@@ -2369,7 +2548,10 @@
         "ihr": "Probezeit besteht",
         "sie/Sie": "Probezeit bestehen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "in der Probezeit gekündigt werden"
+      ]
     },
     {
       "word": "der Entwicklungsplan, die Entwicklungspläne",
@@ -2399,7 +2581,8 @@
           "ru": "Привод для дискет? У меня есть только карта, координаты, никаких супер-технологий."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Karriereziel, die Karriereziele",
@@ -2429,7 +2612,8 @@
           "ru": "Потом она с ее карьерой отправляется в путешествие вокруг света."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Zielerreichung, (nur Sg.)",
@@ -2455,7 +2639,10 @@
           "ru": "Оценка завершенности, точности и надежности информации в системе, а также определение степени решения поставленных задач к настоящему времени."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Zielverfehlung"
+      ]
     },
     {
       "word": "die Leistungsbeurteilung, die Leistungsbeurteilungen",
@@ -2485,7 +2672,8 @@
           "ru": "Неделя моды только началась, и у нее стресс но мой показ завтра и мне надо, что бы он прошел хорошо"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Leistung, die Leistungen",
@@ -2515,7 +2703,11 @@
           "ru": "Я имею в виду, что у них одинаковая производительность."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Minderleistung, die Minderleistungen",
+        "das Versagen, (nur Sg.)"
+      ]
     },
     {
       "word": "leistungsstark",
@@ -2545,7 +2737,11 @@
           "ru": "На расстоянии до 91 метра оно может быть таким же эффективным, как и фазер."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "leistungsschwach",
+        "träge"
+      ]
     },
     {
       "word": "der Leistungsträger, die Leistungsträger",
@@ -2575,7 +2771,11 @@
           "ru": "Договоры о забронированной производительности заключаются исключительно между бронирующим и производственным носителем и подлежат соответствующим условиям заключения сделки производственного носителя."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Mitläufer",
+        "der Minderleister"
+      ]
     },
     {
       "word": "die Anerkennung, die Anerkennungen",
@@ -2605,7 +2805,12 @@
           "ru": "Луис сделал это только ради моего одобрения."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Ablehnung",
+        "die Missachtung",
+        "die Ignoranz"
+      ]
     },
     {
       "word": "loben",
@@ -2646,7 +2851,12 @@
         "ihr": "lobt",
         "sie/Sie": "loben"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "tadeln",
+        "kritisieren",
+        "schmähen"
+      ]
     },
     {
       "word": "das Lob, (nur Sg.)",
@@ -2676,7 +2886,12 @@
           "ru": "Так что я точно не заслуживаю похвалы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Tadel",
+        "die Kritik",
+        "der Rüffel"
+      ]
     },
     {
       "word": "der Ansporn, (nur Sg.)",
@@ -2706,7 +2921,11 @@
           "ru": "Им нужен был стимул."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Bremse",
+        "die Dämpfung"
+      ]
     },
     {
       "word": "die Arbeitszufriedenheit, (nur Sg.)",
@@ -2736,7 +2955,10 @@
           "ru": "Идея книги заключается в том, что удовлетворения от работы можно достичь в любой среде."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Arbeitsunzufriedenheit"
+      ]
     },
     {
       "word": "das Betriebsklima, (nur Sg.)",
@@ -2762,7 +2984,8 @@
           "ru": "Твое отношение способствует напряжению обстановки."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Unternehmenskultur, die Unternehmenskulturen",
@@ -2792,7 +3015,2747 @@
           "ru": "У нас есть серьезная открытая культура компании, подчеркивающая целостность, уважение, воображение и страсть."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Gegenleistung, die Gegenleistungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Рассмотрение",
+      "translation_en": "Consideration",
+      "examples": [
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis der Gegenleistung.",
+          "ru": "Кандидат произвела впечатление своим пониманием рассматриваемого вопроса."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte die Gegenleistung deutlich werden.",
+          "ru": "Это обстоятельство должно быть четко указано в письме-заявке."
+        },
+        {
+          "de": "die Gegenleistung ist für diese Position besonders relevant.",
+          "ru": "это соображение особенно актуально для этой позиции."
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Gegenleistung mehr als formale Qualifikationen.",
+          "ru": "В нашей компании внимание имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man die Gegenleistung gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо добьетесь успеха, вы уже выиграли половину дела.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Gehaltsniveau, die Gehaltsniveaus",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Уровень зарплаты",
+      "translation_en": "Salary level",
+      "examples": [
+        {
+          "de": "Eine überzeugende Darstellung des Gehaltsniveau kann den Unterschied machen.",
+          "ru": "Убедительное представление уровней заработной платы может иметь решающее значение."
+        },
+        {
+          "de": "Der Bewerber hat das Gehaltsniveau in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель указал уровень заработной платы в своем резюме."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist das Gehaltsniveau ein wichtiger Faktor.",
+          "ru": "Уровень заработной платы является важным фактором при обсуждении заработной платы."
+        },
+        {
+          "de": "Wenn man das Gehaltsniveau gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо понимаете уровень зарплаты, вы уже на полпути.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Gehaltsniveau war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, уровень зарплаты был очень важен на моем последнем собеседовании.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Geldbeutel, die Geldbeutel",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "кошелек",
+      "translation_en": "wallet",
+      "examples": [
+        {
+          "de": "Der Bewerber hat den Geldbeutel in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель выделил кошелек в своем резюме."
+        },
+        {
+          "de": "der Geldbeutel ist für diese Position besonders relevant.",
+          "ru": "кошелек особенно актуален для этой позиции."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist der Geldbeutel ein wichtiger Faktor.",
+          "ru": "Ваш кошелек является важным фактором при обсуждении зарплаты."
+        },
+        {
+          "de": "Wenn man den Geldbeutel gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы правильно подберете кошелек, это еще полдела.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt der Geldbeutel mehr als formale Qualifikationen.",
+          "ru": "В нашей компании кошелек имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Gemeinschaftsprojekt, die Gemeinschaftsprojekte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Общественный проект",
+      "translation_en": "Community project",
+      "examples": [
+        {
+          "de": "Für die Gehaltsverhandlung ist das Gemeinschaftsprojekt ein wichtiger Faktor.",
+          "ru": "Совместный проект является важным фактором в переговорах о зарплате."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde das Gemeinschaftsprojekt getestet.",
+          "ru": "Общественный проект прошел тестирование в ассессмент-центре."
+        },
+        {
+          "de": "das Gemeinschaftsprojekt ist für diese Position besonders relevant.",
+          "ru": "совместный проект особенно актуален для этой позиции."
+        },
+        {
+          "de": "Wenn man das Gemeinschaftsprojekt gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо реализуете общественный проект, вы уже на полпути.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, das Gemeinschaftsprojekt wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что общественный проект часто упускают из виду, но HR-специалисты обращают на него внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Gesprächsführung, die Gesprächsführungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Управление разговорами",
+      "translation_en": "Conversation management",
+      "examples": [
+        {
+          "de": "Der Bewerber hat die Gesprächsführung in seinem Lebenslauf hervorgehoben.",
+          "ru": "В своем резюме заявитель подчеркнул навыки прохождения собеседования."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist die Gesprächsführung ein wichtiger Faktor.",
+          "ru": "Проведение беседы является важным фактором в переговорах о зарплате."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach der Gesprächsführung.",
+          "ru": "Рекрутер специально спросил, как будет проходить собеседование."
+        },
+        {
+          "de": "Also, die Gesprächsführung war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Что ж, на моем последнем собеседовании при приеме на работу собеседование было действительно важным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, die Gesprächsführung wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что собеседованию часто упускают из виду, но HR-специалисты обращают на него внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Gesprächsklima, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Разговорный климат",
+      "translation_en": "Conversation climate",
+      "examples": [
+        {
+          "de": "Im Bewerbungsschreiben sollte das Gesprächsklima deutlich werden.",
+          "ru": "Атмосфера собеседования должна быть четко выражена в письме-заявке."
+        },
+        {
+          "de": "Der Bewerber hat das Gesprächsklima in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель подчеркнул атмосферу собеседования в своем резюме."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist das Gesprächsklima ein wichtiger Faktor.",
+          "ru": "Атмосфера разговора является важным фактором в переговорах о зарплате."
+        },
+        {
+          "de": "Ich würde sagen, das Gesprächsklima wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что климат на собеседовании часто упускается из виду, но HR-специалисты обращают на него внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man das Gesprächsklima gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо передадите атмосферу разговора, вы уже выиграли половину дела.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Gesprächsvorbereitung, die Gesprächsvorbereitungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Подготовка к собеседованию",
+      "translation_en": "Interview preparation",
+      "examples": [
+        {
+          "de": "Im Vorstellungsgespräch wurde die Gesprächsvorbereitung ausführlich thematisiert.",
+          "ru": "Подготовка к собеседованию подробно обсуждалась на собеседовании."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte die Gesprächsvorbereitung deutlich werden.",
+          "ru": "Подготовка к собеседованию должна быть четко описана в письме-заявке."
+        },
+        {
+          "de": "die Gesprächsvorbereitung ist für diese Position besonders relevant.",
+          "ru": "Подготовка к собеседованию особенно актуальна для этой должности."
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Gesprächsvorbereitung mehr als formale Qualifikationen.",
+          "ru": "В нашей компании подготовка к собеседованию значит больше, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, die Gesprächsvorbereitung wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что подготовка к собеседованию часто упускается из виду, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Gewerbebetrieb, die Gewerbebetriebe",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Коммерческий бизнес",
+      "translation_en": "Commercial business",
+      "examples": [
+        {
+          "de": "Im Vorstellungsgespräch wurde der Gewerbebetrieb ausführlich thematisiert.",
+          "ru": "Бизнес подробно обсуждался в ходе интервью."
+        },
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis des Gewerbebetrieb.",
+          "ru": "Кандидат произвела впечатление своим пониманием коммерческих операций."
+        },
+        {
+          "de": "Eine überzeugende Darstellung des Gewerbebetrieb kann den Unterschied machen.",
+          "ru": "Убедительная презентация бизнеса может иметь решающее значение."
+        },
+        {
+          "de": "Ich würde sagen, der Gewerbebetrieb wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что коммерческие операции часто упускаются из виду, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, der Gewerbebetrieb war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, на моем последнем собеседовании бизнес был действительно важен.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Gewerkschaftsbeitrag, die Gewerkschaftsbeiträge",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Вклад Союза",
+      "translation_en": "Union contribution",
+      "examples": [
+        {
+          "de": "der Gewerkschaftsbeitrag ist für diese Position besonders relevant.",
+          "ru": "профсоюзный взнос особенно важен для этой должности."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte der Gewerkschaftsbeitrag deutlich werden.",
+          "ru": "Размер взноса профсоюза должен быть четко указан в письме-заявке."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde der Gewerkschaftsbeitrag getestet.",
+          "ru": "В ходе оценочного центра был проверен вклад профсоюза."
+        },
+        {
+          "de": "Wenn man den Gewerkschaftsbeitrag gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо донесете взносы профсоюза, это еще полдела.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, der Gewerkschaftsbeitrag war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, профсоюзный взнос был очень важен на моем последнем собеседовании.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Gleitzeitrahmen, die Gleitzeitrahmen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Гибкий график",
+      "translation_en": "Flexitime frame",
+      "examples": [
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Gleitzeitrahmen.",
+          "ru": "Рекрутер специально спросил о гибком графике."
+        },
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis des Gleitzeitrahmen.",
+          "ru": "Кандидат произвела впечатление своим пониманием системы гибкого графика."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte der Gleitzeitrahmen deutlich werden.",
+          "ru": "Условия гибкого графика должны быть четко указаны в письме-заявке."
+        },
+        {
+          "de": "Mein Tipp: den Gleitzeitrahmen sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: вам обязательно следует упомянуть в своем резюме гибкий график.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt der Gleitzeitrahmen mehr als formale Qualifikationen.",
+          "ru": "В нашей компании гибкий график имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Großkonzern, die Großkonzerne",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Крупная корпорация",
+      "translation_en": "Large corporation",
+      "examples": [
+        {
+          "de": "Der Bewerber hat den Großkonzern in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель указал в своем резюме крупную корпорацию."
+        },
+        {
+          "de": "Eine überzeugende Darstellung des Großkonzern kann den Unterschied machen.",
+          "ru": "Убедительная презентация крупной корпорации может иметь решающее значение."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde der Großkonzern getestet.",
+          "ru": "Крупная корпорация прошла тестирование в ассессмент-центре."
+        },
+        {
+          "de": "Also, der Großkonzern war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Ну, крупная корпорация была очень важна на моем последнем собеседовании.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, der Großkonzern wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что о крупных корпорациях часто забывают, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Gründer, die Gründer",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "основатель",
+      "translation_en": "founder",
+      "examples": [
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis des Gründer.",
+          "ru": "Кандидатка впечатлила своим пониманием основателя."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Gründer.",
+          "ru": "Рекрутер спросил конкретно об основателе."
+        },
+        {
+          "de": "der Gründer ist für diese Position besonders relevant.",
+          "ru": "основатель особенно важен для этой позиции."
+        },
+        {
+          "de": "Bei uns in der Firma zählt der Gründer mehr als formale Qualifikationen.",
+          "ru": "В нашей компании основатель имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, der Gründer wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что основателя часто упускают из виду, но HR-специалисты обращают на него внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Gründerzentrum, die Gründerzentren",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Бизнес-инкубатор",
+      "translation_en": "Business incubator",
+      "examples": [
+        {
+          "de": "Im Vorstellungsgespräch wurde das Gründerzentrum ausführlich thematisiert.",
+          "ru": "В ходе интервью подробно обсуждался инкубатор."
+        },
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis des Gründerzentrum.",
+          "ru": "Кандидатка произвела впечатление своим пониманием инкубатора."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Gründerzentrum.",
+          "ru": "Рекрутер специально спросил про инкубатор."
+        },
+        {
+          "de": "Also, das Gründerzentrum war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, на моем последнем собеседовании инкубатор был очень важен.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Tipp: das Gründerzentrum sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите в резюме стартап-центр.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Haftung, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Обязанность",
+      "translation_en": "Liability",
+      "examples": [
+        {
+          "de": "Der Bewerber hat die Haftung in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель указал на ответственность в своем резюме."
+        },
+        {
+          "de": "Die Personalabteilung legt großen Wert auf die Haftung.",
+          "ru": "Отдел кадров уделяет большое внимание ответственности."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach der Haftung.",
+          "ru": "Рекрутер специально спросил об ответственности."
+        },
+        {
+          "de": "Also, die Haftung war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, ответственность была очень важна на моем последнем собеседовании.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man die Haftung gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо разберетесь с ответственностью, это еще полдела.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Handout, die Handouts",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Раздаточный материал",
+      "translation_en": "Handout",
+      "examples": [
+        {
+          "de": "Eine überzeugende Darstellung des Handout kann den Unterschied machen.",
+          "ru": "Убедительная презентация раздаточного материала может иметь решающее значение."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist das Handout ein wichtiger Faktor.",
+          "ru": "Раздаточный материал является важным фактором при переговорах о зарплате."
+        },
+        {
+          "de": "Im Vorstellungsgespräch wurde das Handout ausführlich thematisiert.",
+          "ru": "Раздаточный материал подробно обсуждался на собеседовании."
+        },
+        {
+          "de": "Mein Tipp: das Handout sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите раздаточный материал в своем резюме.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt das Handout mehr als formale Qualifikationen.",
+          "ru": "В нашей компании раздаточный материал имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Hauptsitz, die Hauptsitze",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "штаб-квартира",
+      "translation_en": "headquarters",
+      "examples": [
+        {
+          "de": "Während des Assessment-Centers wurde der Hauptsitz getestet.",
+          "ru": "Штаб был протестирован в ходе ассессмент-центра."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist der Hauptsitz ein wichtiger Faktor.",
+          "ru": "Штаб-квартира является важным фактором при обсуждении заработной платы."
+        },
+        {
+          "de": "Die Personalabteilung legt großen Wert auf den Hauptsitz.",
+          "ru": "Отдел кадров придает большое значение штаб-квартире."
+        },
+        {
+          "de": "Ich würde sagen, der Hauptsitz wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что штаб-квартиру часто упускают из виду, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, der Hauptsitz war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, на моем последнем собеседовании штаб-квартира была очень важна.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Heimarbeit, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Домашнее задание",
+      "translation_en": "Home work",
+      "examples": [
+        {
+          "de": "Während des Assessment-Centers wurde die Heimarbeit getestet.",
+          "ru": "Работа на дому была протестирована в ассессмент-центре."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist die Heimarbeit ein wichtiger Faktor.",
+          "ru": "Работа на дому является важным фактором при обсуждении заработной платы."
+        },
+        {
+          "de": "die Heimarbeit ist für diese Position besonders relevant.",
+          "ru": "Работа на дому особенно актуальна для этой должности."
+        },
+        {
+          "de": "Ich würde sagen, die Heimarbeit wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что работу на дому часто упускают из виду, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Heimarbeit mehr als formale Qualifikationen.",
+          "ru": "В нашей компании работа на дому означает нечто большее, чем формальная квалификация.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Hierarchie, die Hierarchien",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "иерархия",
+      "translation_en": "hierarchy",
+      "examples": [
+        {
+          "de": "Für die Gehaltsverhandlung ist die Hierarchie ein wichtiger Faktor.",
+          "ru": "Иерархия является важным фактором при обсуждении заработной платы."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde die Hierarchie getestet.",
+          "ru": "Иерархия была проверена в ассессмент-центре."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte die Hierarchie deutlich werden.",
+          "ru": "Иерархия должна быть четко указана в письме-заявке."
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Hierarchie mehr als formale Qualifikationen.",
+          "ru": "В нашей компании иерархия имеет большее значение, чем формальные квалификации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man die Hierarchie gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо разобрались в иерархии, вы уже на полпути.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Hilfskraft, die Hilfskräfte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "помощник",
+      "translation_en": "assistant",
+      "examples": [
+        {
+          "de": "Eine überzeugende Darstellung der Hilfskraft kann den Unterschied machen.",
+          "ru": "Убедительное изображение помощника может иметь решающее значение."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist die Hilfskraft ein wichtiger Faktor.",
+          "ru": "Помощник является важным фактором при обсуждении зарплаты."
+        },
+        {
+          "de": "Im Vorstellungsgespräch wurde die Hilfskraft ausführlich thematisiert.",
+          "ru": "Ассистент подробно обсуждался на собеседовании."
+        },
+        {
+          "de": "Mein Tipp: die Hilfskraft sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите ассистента в своем резюме.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man die Hilfskraft gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо переговорите с помощником, вы уже выиграли половину дела.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Informationsgespräch, die Informationsgespräche",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Информационное интервью",
+      "translation_en": "Informational interview",
+      "examples": [
+        {
+          "de": "Im Bewerbungsschreiben sollte das Informationsgespräch deutlich werden.",
+          "ru": "Информационное собеседование должно быть четко указано в письме-заявке."
+        },
+        {
+          "de": "Der Bewerber hat das Informationsgespräch in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель выделил в своем резюме информационное собеседование."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist das Informationsgespräch ein wichtiger Faktor.",
+          "ru": "Информационное собеседование является важным фактором в переговорах о зарплате."
+        },
+        {
+          "de": "Also, das Informationsgespräch war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, информационное собеседование было очень важным на моем последнем собеседовании.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Tipp: das Informationsgespräch sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите в резюме информационное собеседование.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Innovation, die Innovationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "инновации",
+      "translation_en": "innovation",
+      "examples": [
+        {
+          "de": "Der Recruiter fragte gezielt nach der Innovation.",
+          "ru": "Рекрутер специально спросил о нововведении."
+        },
+        {
+          "de": "Die Personalabteilung legt großen Wert auf die Innovation.",
+          "ru": "Отдел кадров придает большое значение инновациям."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde die Innovation getestet.",
+          "ru": "Новинку протестировали в ходе ассессмент-центра."
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Innovation mehr als formale Qualifikationen.",
+          "ru": "В нашей компании инновации имеют большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Innovation war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, инновации были действительно важны на моем последнем собеседовании.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Innovationspotenzial, die Innovationspotenziale",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Инновационный потенциал",
+      "translation_en": "Innovation potential",
+      "examples": [
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Innovationspotenzial.",
+          "ru": "Рекрутер специально спросил об инновационном потенциале."
+        },
+        {
+          "de": "Eine überzeugende Darstellung des Innovationspotenzial kann den Unterschied machen.",
+          "ru": "Убедительная презентация инновационного потенциала может иметь решающее значение."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte das Innovationspotenzial deutlich werden.",
+          "ru": "В письме-заявке должен быть ясно раскрыт инновационный потенциал."
+        },
+        {
+          "de": "Wenn man das Innovationspotenzial gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо преподнесете инновационный потенциал, это уже полдела.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Tipp: das Innovationspotenzial sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите в резюме инновационный потенциал.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Inserat, die Inserate",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Реклама",
+      "translation_en": "Advertisement",
+      "examples": [
+        {
+          "de": "Im Vorstellungsgespräch wurde das Inserat ausführlich thematisiert.",
+          "ru": "Реклама подробно обсуждалась во время интервью."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte das Inserat deutlich werden.",
+          "ru": "Реклама должна быть четко указана в письме-заявке."
+        },
+        {
+          "de": "das Inserat ist für diese Position besonders relevant.",
+          "ru": "реклама особенно актуальна для этой позиции."
+        },
+        {
+          "de": "Mein Tipp: das Inserat sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите рекламу в резюме.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, das Inserat wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что рекламу часто упускают из виду, но HR-специалисты обращают на нее внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Jahresbericht, die Jahresberichte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Годовой отчет",
+      "translation_en": "Annual report",
+      "examples": [
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Jahresbericht.",
+          "ru": "Рекрутер специально спросил про годовой отчет."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist der Jahresbericht ein wichtiger Faktor.",
+          "ru": "Годовой отчет является важным фактором при переговорах о заработной плате."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte der Jahresbericht deutlich werden.",
+          "ru": "Годовой отчет должен быть четко указан в письме-заявке."
+        },
+        {
+          "de": "Bei uns in der Firma zählt der Jahresbericht mehr als formale Qualifikationen.",
+          "ru": "В нашей компании годовой отчет значит больше, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, der Jahresbericht wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что годовой отчет часто игнорируют, но HR-специалисты обращают на него внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Jahresvertrag, die Jahresverträge",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Годовой контракт",
+      "translation_en": "Annual contract",
+      "examples": [
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Jahresvertrag.",
+          "ru": "Рекрутер специально спросил про годовой контракт."
+        },
+        {
+          "de": "der Jahresvertrag ist für diese Position besonders relevant.",
+          "ru": "годовой контракт особенно актуален для этой должности."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte der Jahresvertrag deutlich werden.",
+          "ru": "Годовой контракт должен быть четко указан в письме-заявке."
+        },
+        {
+          "de": "Ich würde sagen, der Jahresvertrag wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что о годовом контракте часто забывают, но HR-специалисты на него обращают внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt der Jahresvertrag mehr als formale Qualifikationen.",
+          "ru": "В нашей компании годовой контракт означает нечто большее, чем формальную квалификацию.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Jobwechsel, die Jobwechsel",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Смена работы",
+      "translation_en": "Job change",
+      "examples": [
+        {
+          "de": "der Jobwechsel ist für diese Position besonders relevant.",
+          "ru": "смена работы особенно актуальна для этой должности."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist der Jobwechsel ein wichtiger Faktor.",
+          "ru": "Смена места работы является важным фактором при переговорах о зарплате."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte der Jobwechsel deutlich werden.",
+          "ru": "Смена места работы должна быть четко указана в письме-заявке."
+        },
+        {
+          "de": "Mein Tipp: den Jobwechsel sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите в резюме о смене места работы.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, der Jobwechsel war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, на моем последнем собеседовании смена работы была очень важна.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Junior-Consultant, die Junior-Consultants",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Младший консультант",
+      "translation_en": "Junior Consultant",
+      "examples": [
+        {
+          "de": "Während des Assessment-Centers wurde der Junior-Consultant getestet.",
+          "ru": "Младший консультант прошел тестирование в оценочном центре."
+        },
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis des Junior-Consultant.",
+          "ru": "Кандидатка впечатлила своим пониманием младшего консультанта."
+        },
+        {
+          "de": "Eine überzeugende Darstellung des Junior-Consultant kann den Unterschied machen.",
+          "ru": "Убедительная презентация младшего консультанта может сыграть решающую роль."
+        },
+        {
+          "de": "Also, der Junior-Consultant war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Что ж, младший консультант сыграл очень важную роль на моем последнем собеседовании.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Tipp: den Junior-Consultant sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите в резюме младшего консультанта.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kaffeepause, die Kaffeepausen",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "Кофе-брейк",
+      "translation_en": "Coffee break",
+      "examples": [
+        {
+          "de": "Eine überzeugende Darstellung der Kaffeepause kann den Unterschied machen.",
+          "ru": "Убедительная презентация кофе-брейка может иметь решающее значение."
+        },
+        {
+          "de": "Der Bewerber hat die Kaffeepause in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель выделил кофе-брейк в своем резюме."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist die Kaffeepause ein wichtiger Faktor.",
+          "ru": "Перерыв на кофе является важным фактором в переговорах о зарплате."
+        },
+        {
+          "de": "Also, die Kaffeepause war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, перерыв на кофе был очень важен на моем последнем собеседовании.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Kaffeepause mehr als formale Qualifikationen.",
+          "ru": "В нашей компании перерыв на кофе имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Karriereplanung, die Karriereplanungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Планирование карьеры",
+      "translation_en": "Career planning",
+      "examples": [
+        {
+          "de": "Im Bewerbungsschreiben sollte die Karriereplanung deutlich werden.",
+          "ru": "Планирование вашей карьеры должно быть четко указано в письме-заявке."
+        },
+        {
+          "de": "Eine überzeugende Darstellung der Karriereplanung kann den Unterschied machen.",
+          "ru": "Убедительная презентация планирования карьеры может иметь решающее значение."
+        },
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis der Karriereplanung.",
+          "ru": "Кандидат впечатлила своим пониманием планирования карьеры."
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Karriereplanung mehr als formale Qualifikationen.",
+          "ru": "В нашей компании планирование карьеры значит больше, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Karriereplanung war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, планирование карьеры было очень важно на моем последнем собеседовании.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Karrierestufe, die Karrierestufen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Уровень карьеры",
+      "translation_en": "Career level",
+      "examples": [
+        {
+          "de": "Während des Assessment-Centers wurde die Karrierestufe getestet.",
+          "ru": "В ходе ассессмент-центра тестировался карьерный уровень."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte die Karrierestufe deutlich werden.",
+          "ru": "Этап карьеры должен быть четко указан в письме-заявке."
+        },
+        {
+          "de": "die Karrierestufe ist für diese Position besonders relevant.",
+          "ru": "Этап карьеры особенно важен для этой должности."
+        },
+        {
+          "de": "Ich würde sagen, die Karrierestufe wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что этап карьеры часто упускают из виду, но HR-специалисты обращают на него внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Karrierestufe war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, этап карьеры был действительно важен на моем последнем собеседовании.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Kollegium, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Колледж",
+      "translation_en": "College",
+      "examples": [
+        {
+          "de": "Während des Assessment-Centers wurde das Kollegium getestet.",
+          "ru": "Персонал прошел тестирование в ассессмент-центре."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist das Kollegium ein wichtiger Faktor.",
+          "ru": "Персонал является важным фактором в переговорах о заработной плате."
+        },
+        {
+          "de": "Im Vorstellungsgespräch wurde das Kollegium ausführlich thematisiert.",
+          "ru": "Персонал подробно обсуждался на собеседовании."
+        },
+        {
+          "de": "Wenn man das Kollegium gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо разговариваете с персоналом, вы уже на полпути.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Kollegium war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Ну, коллеги были очень важны на моем последнем собеседовании.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Konkurrent, die Konkurrenten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "конкурент",
+      "translation_en": "competitor",
+      "examples": [
+        {
+          "de": "Im Bewerbungsschreiben sollte der Konkurrent deutlich werden.",
+          "ru": "Участник должен быть указан в письме-заявке."
+        },
+        {
+          "de": "Der Bewerber hat den Konkurrent in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель выделил конкурента в своем резюме."
+        },
+        {
+          "de": "Im Vorstellungsgespräch wurde der Konkurrent ausführlich thematisiert.",
+          "ru": "Конкурент подробно обсуждался на собеседовании."
+        },
+        {
+          "de": "Mein Tipp: den Konkurrent sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите конкурента в своем резюме.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, der Konkurrent war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Ну, конкурент был очень важен на моем последнем собеседовании.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Konkurrenz, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "соревнование",
+      "translation_en": "competition",
+      "examples": [
+        {
+          "de": "Im Bewerbungsschreiben sollte die Konkurrenz deutlich werden.",
+          "ru": "Конкурс должен быть четко указан в письме-заявке."
+        },
+        {
+          "de": "Der Bewerber hat die Konkurrenz in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель подчеркнул конкуренцию в своем резюме."
+        },
+        {
+          "de": "Die Personalabteilung legt großen Wert auf die Konkurrenz.",
+          "ru": "Отдел кадров придает большое значение конкуренции."
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Konkurrenz mehr als formale Qualifikationen.",
+          "ru": "В нашей компании конкуренция значит больше, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, die Konkurrenz wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что конкуренцию часто упускают из виду, но HR-специалисты обращают на нее внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kooperation, die Kooperationen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "сотрудничество",
+      "translation_en": "cooperation",
+      "examples": [
+        {
+          "de": "Eine überzeugende Darstellung der Kooperation kann den Unterschied machen.",
+          "ru": "Убедительная презентация сотрудничества может иметь решающее значение."
+        },
+        {
+          "de": "die Kooperation ist für diese Position besonders relevant.",
+          "ru": "сотрудничество особенно актуально для этой должности."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach der Kooperation.",
+          "ru": "Рекрутер специально спросил о сотрудничестве."
+        },
+        {
+          "de": "Ich würde sagen, die Kooperation wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что о сотрудничестве часто упускают из виду, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man die Kooperation gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо наладите сотрудничество, вы уже выиграли половину дела.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kosten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "Расходы",
+      "translation_en": "Cost",
+      "examples": [
+        {
+          "de": "Eine überzeugende Darstellung der Kosten kann den Unterschied machen.",
+          "ru": "Убедительное представление затрат может иметь решающее значение."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde die Kosten getestet.",
+          "ru": "Затраты были проверены в ходе оценочного центра."
+        },
+        {
+          "de": "Im Vorstellungsgespräch wurde die Kosten ausführlich thematisiert.",
+          "ru": "Стоимость подробно обсуждалась на собеседовании."
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Kosten mehr als formale Qualifikationen.",
+          "ru": "В нашей компании затраты имеют большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man die Kosten gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо управляете расходами, вы уже выиграли половину дела.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Kündigungsschreiben, die Kündigungsschreiben",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Письмо о прекращении",
+      "translation_en": "Termination letter",
+      "examples": [
+        {
+          "de": "Im Bewerbungsschreiben sollte das Kündigungsschreiben deutlich werden.",
+          "ru": "Письмо о прекращении должно быть четко указано в письме-заявке."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde das Kündigungsschreiben getestet.",
+          "ru": "Письмо об увольнении было проверено в ассессмент-центре."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Kündigungsschreiben.",
+          "ru": "Рекрутер специально попросил заявление об увольнении."
+        },
+        {
+          "de": "Wenn man das Kündigungsschreiben gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо донесете заявление об отставке, это уже полдела.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, das Kündigungsschreiben wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что заявление об увольнении часто игнорируют, но HR-специалисты обращают на него внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Kunde, die Kunden",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "клиент",
+      "translation_en": "customer",
+      "examples": [
+        {
+          "de": "Der Bewerber hat den Kunde in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель выделил клиента в своем резюме."
+        },
+        {
+          "de": "Im Vorstellungsgespräch wurde der Kunde ausführlich thematisiert.",
+          "ru": "Клиент подробно обсуждался на собеседовании."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist der Kunde ein wichtiger Faktor.",
+          "ru": "Клиент является важным фактором при обсуждении заработной платы."
+        },
+        {
+          "de": "Also, der Kunde war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, на моем последнем собеседовании клиент был очень важен.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt der Kunde mehr als formale Qualifikationen.",
+          "ru": "В нашей компании клиент имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kundschaft, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "клиенты",
+      "translation_en": "customers",
+      "examples": [
+        {
+          "de": "die Kundschaft ist für diese Position besonders relevant.",
+          "ru": "клиентура особенно важна для этой позиции."
+        },
+        {
+          "de": "Die Personalabteilung legt großen Wert auf die Kundschaft.",
+          "ru": "Отдел кадров придает большое значение клиентам."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte die Kundschaft deutlich werden.",
+          "ru": "Клиентура должна быть четко указана в письме-заявке."
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Kundschaft mehr als formale Qualifikationen.",
+          "ru": "В нашей компании клиенты имеют большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Tipp: die Kundschaft sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно упоминайте клиентов в своем резюме.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Langzeitarbeitslosigkeit, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Длительная безработица",
+      "translation_en": "Long-term unemployment",
+      "examples": [
+        {
+          "de": "Im Bewerbungsschreiben sollte die Langzeitarbeitslosigkeit deutlich werden.",
+          "ru": "Длительная безработица должна быть четко указана в письме-заявке."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde die Langzeitarbeitslosigkeit getestet.",
+          "ru": "Длительная безработица была проверена в ходе оценочного центра."
+        },
+        {
+          "de": "Eine überzeugende Darstellung der Langzeitarbeitslosigkeit kann den Unterschied machen.",
+          "ru": "Убедительное изображение долгосрочной безработицы может иметь решающее значение."
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Langzeitarbeitslosigkeit mehr als formale Qualifikationen.",
+          "ru": "В нашей компании длительная безработица имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man die Langzeitarbeitslosigkeit gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо справляетесь с долгосрочной безработицей, вы уже на полпути.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Laufbahnplanung, die Laufbahnplanungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Планирование карьеры",
+      "translation_en": "Career planning",
+      "examples": [
+        {
+          "de": "Der Recruiter fragte gezielt nach der Laufbahnplanung.",
+          "ru": "Рекрутер специально спросил о планировании карьеры."
+        },
+        {
+          "de": "Der Bewerber hat die Laufbahnplanung in seinem Lebenslauf hervorgehoben.",
+          "ru": "В своем резюме заявитель подчеркнул важность планирования карьеры."
+        },
+        {
+          "de": "Die Personalabteilung legt großen Wert auf die Laufbahnplanung.",
+          "ru": "Отдел кадров придает большое значение планированию карьеры."
+        },
+        {
+          "de": "Ich würde sagen, die Laufbahnplanung wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что планирование карьеры часто упускают из виду, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Laufbahnplanung mehr als formale Qualifikationen.",
+          "ru": "В нашей компании планирование карьеры значит больше, чем формальная квалификация.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Leistungsgrenze, die Leistungsgrenzen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Предел производительности",
+      "translation_en": "Performance limit",
+      "examples": [
+        {
+          "de": "Der Bewerber hat die Leistungsgrenze in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель указал предел производительности в своем резюме."
+        },
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis der Leistungsgrenze.",
+          "ru": "Кандидат впечатлил своим пониманием предела производительности."
+        },
+        {
+          "de": "Eine überzeugende Darstellung der Leistungsgrenze kann den Unterschied machen.",
+          "ru": "Убедительное представление предела производительности может иметь решающее значение."
+        },
+        {
+          "de": "Also, die Leistungsgrenze war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, предел производительности был очень важен на моем последнем собеседовании.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, die Leistungsgrenze wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что потолок производительности часто упускают из виду, но HR-специалисты обращают на него внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Leistungsstufe, die Leistungsstufen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Уровень мощности",
+      "translation_en": "Power level",
+      "examples": [
+        {
+          "de": "Der Recruiter fragte gezielt nach der Leistungsstufe.",
+          "ru": "Рекрутер специально спросил об уровне производительности."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde die Leistungsstufe getestet.",
+          "ru": "Уровень производительности проверялся в ходе ассессмент-центра."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist die Leistungsstufe ein wichtiger Faktor.",
+          "ru": "Уровень производительности является важным фактором при обсуждении заработной платы."
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Leistungsstufe mehr als formale Qualifikationen.",
+          "ru": "В нашей компании уровень производительности имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Tipp: die Leistungsstufe sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите в резюме уровень производительности.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Lernkurve, die Lernkurven",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Кривая обучения",
+      "translation_en": "Learning curve",
+      "examples": [
+        {
+          "de": "Die Personalabteilung legt großen Wert auf die Lernkurve.",
+          "ru": "Отдел кадров уделяет большое внимание обучению."
+        },
+        {
+          "de": "Im Vorstellungsgespräch wurde die Lernkurve ausführlich thematisiert.",
+          "ru": "Кривая обучения подробно обсуждалась на собеседовании."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist die Lernkurve ein wichtiger Faktor.",
+          "ru": "Кривая обучения является важным фактором при обсуждении заработной платы."
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Lernkurve mehr als formale Qualifikationen.",
+          "ru": "В нашей компании кривая обучения имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, die Lernkurve wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что кривую обучения часто упускают из виду, но HR-специалисты обращают на нее внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Lohnerhöhung, die Lohnerhöhungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Повышение заработной платы",
+      "translation_en": "Wage increase",
+      "examples": [
+        {
+          "de": "die Lohnerhöhung ist für diese Position besonders relevant.",
+          "ru": "повышение заработной платы особенно актуально для этой должности."
+        },
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis der Lohnerhöhung.",
+          "ru": "Кандидатка впечатлила своим пониманием вопроса повышения заработной платы."
+        },
+        {
+          "de": "Die Personalabteilung legt großen Wert auf die Lohnerhöhung.",
+          "ru": "В отделе кадров большое значение придают повышению заработной платы."
+        },
+        {
+          "de": "Ich würde sagen, die Lohnerhöhung wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что о повышении зарплаты часто забывают, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Lohnerhöhung war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, повышение зарплаты было очень важным на моем последнем собеседовании.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Lohnsteuerkarte, die Lohnsteuerkarten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Карточка подоходного налога",
+      "translation_en": "Income tax card",
+      "examples": [
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis der Lohnsteuerkarte.",
+          "ru": "Кандидатка впечатлила своим пониманием карты подоходного налога."
+        },
+        {
+          "de": "Eine überzeugende Darstellung der Lohnsteuerkarte kann den Unterschied machen.",
+          "ru": "Убедительное представление карточки подоходного налога может иметь решающее значение."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde die Lohnsteuerkarte getestet.",
+          "ru": "Карточка подоходного налога прошла проверку в центре оценки."
+        },
+        {
+          "de": "Ich würde sagen, die Lohnsteuerkarte wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что налоговую карту по заработной плате часто упускают из виду, но HR-специалисты обращают на нее внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Lohnsteuerkarte mehr als formale Qualifikationen.",
+          "ru": "В нашей компании карта подоходного налога имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Lohnabrechnung, die Lohnabrechnungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Заработная плата",
+      "translation_en": "Payroll",
+      "examples": [
+        {
+          "de": "die Lohnabrechnung ist für diese Position besonders relevant.",
+          "ru": "Расчет заработной платы особенно актуален для этой должности."
+        },
+        {
+          "de": "Im Vorstellungsgespräch wurde die Lohnabrechnung ausführlich thematisiert.",
+          "ru": "Заработная плата подробно обсуждалась на собеседовании."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach der Lohnabrechnung.",
+          "ru": "Рекрутер специально спросил про зарплату."
+        },
+        {
+          "de": "Mein Tipp: die Lohnabrechnung sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите в резюме заработную плату.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Lohnabrechnung war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, на моем последнем собеседовании вопрос о заработной плате был очень важен.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Manager, die Manager",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "менеджер",
+      "translation_en": "manager",
+      "examples": [
+        {
+          "de": "Die Personalabteilung legt großen Wert auf den Manager.",
+          "ru": "Отдел кадров придает большое значение руководителю."
+        },
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis des Manager.",
+          "ru": "Кандидатка впечатлила своим пониманием менеджера."
+        },
+        {
+          "de": "Der Bewerber hat den Manager in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель указал в своем резюме именно этого менеджера."
+        },
+        {
+          "de": "Also, der Manager war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Ну, менеджер был очень важен на моем последнем собеседовании.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt der Manager mehr als formale Qualifikationen.",
+          "ru": "В нашей компании менеджер имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Marketing, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "маркетинг",
+      "translation_en": "marketing",
+      "examples": [
+        {
+          "de": "Die Personalabteilung legt großen Wert auf das Marketing.",
+          "ru": "Отдел кадров придает большое значение маркетингу."
+        },
+        {
+          "de": "Im Vorstellungsgespräch wurde das Marketing ausführlich thematisiert.",
+          "ru": "В ходе интервью подробно обсуждался маркетинг."
+        },
+        {
+          "de": "das Marketing ist für diese Position besonders relevant.",
+          "ru": "Маркетинг особенно актуален для этой должности."
+        },
+        {
+          "de": "Mein Tipp: das Marketing sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: в резюме обязательно стоит упомянуть маркетинг.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Marketing war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, на моем последнем собеседовании маркетинг был действительно важен.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Marktanalyse, die Marktanalysen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Анализ рынка",
+      "translation_en": "Market analysis",
+      "examples": [
+        {
+          "de": "die Marktanalyse ist für diese Position besonders relevant.",
+          "ru": "Анализ рынка особенно актуален для этой позиции."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach der Marktanalyse.",
+          "ru": "Рекрутер специально спросил про анализ рынка."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde die Marktanalyse getestet.",
+          "ru": "Анализ рынка был протестирован в ассессмент-центре."
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Marktanalyse mehr als formale Qualifikationen.",
+          "ru": "В нашей компании анализ рынка значит больше, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man die Marktanalyse gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо разбираетесь в анализе рынка, вы уже на полпути.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Marktführer, die Marktführer",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Лидер рынка",
+      "translation_en": "Market leader",
+      "examples": [
+        {
+          "de": "Während des Assessment-Centers wurde der Marktführer getestet.",
+          "ru": "Лидер рынка прошел тестирование в ассессмент-центре."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte der Marktführer deutlich werden.",
+          "ru": "В письме-заявке должен быть четко указан лидер рынка."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Marktführer.",
+          "ru": "Рекрутер спросил конкретно о лидере рынка."
+        },
+        {
+          "de": "Wenn man den Marktführer gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо передадите лидера рынка, вы уже на полпути.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, der Marktführer wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что лидера рынка часто упускают из виду, но HR-специалисты обращают на него внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Marktposition, die Marktpositionen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Позиция на рынке",
+      "translation_en": "Market position",
+      "examples": [
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis der Marktposition.",
+          "ru": "Кандидатка поразила своим пониманием положения на рынке."
+        },
+        {
+          "de": "Der Bewerber hat die Marktposition in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель подчеркнул положение на рынке в своем резюме."
+        },
+        {
+          "de": "die Marktposition ist für diese Position besonders relevant.",
+          "ru": "положение на рынке особенно важно для этой позиции."
+        },
+        {
+          "de": "Wenn man die Marktposition gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо изложите свою позицию на рынке, вы уже на полпути.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Marktposition war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, на моем последнем собеседовании позиция на рынке была очень важна.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Massenentlassung, die Massenentlassungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Массовые увольнения",
+      "translation_en": "Mass layoffs",
+      "examples": [
+        {
+          "de": "Für die Gehaltsverhandlung ist die Massenentlassung ein wichtiger Faktor.",
+          "ru": "Массовые увольнения являются важным фактором в переговорах о зарплате."
+        },
+        {
+          "de": "die Massenentlassung ist für diese Position besonders relevant.",
+          "ru": "массовое увольнение особенно актуально для этой должности."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte die Massenentlassung deutlich werden.",
+          "ru": "Массовое увольнение должно быть четко указано в письме-заявке."
+        },
+        {
+          "de": "Mein Tipp: die Massenentlassung sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите в резюме о массовом увольнении.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Massenentlassung mehr als formale Qualifikationen.",
+          "ru": "В нашей компании массовые увольнения значат нечто большее, чем формальная квалификация.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Mehrwert, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Добавленная стоимость",
+      "translation_en": "Added value",
+      "examples": [
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Mehrwert.",
+          "ru": "Рекрутер специально спросил о добавленной стоимости."
+        },
+        {
+          "de": "Im Vorstellungsgespräch wurde der Mehrwert ausführlich thematisiert.",
+          "ru": "Дополнительная ценность подробно обсуждалась в интервью."
+        },
+        {
+          "de": "Eine überzeugende Darstellung des Mehrwert kann den Unterschied machen.",
+          "ru": "Убедительная презентация добавленной стоимости может сыграть решающую роль."
+        },
+        {
+          "de": "Ich würde sagen, der Mehrwert wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что добавленную стоимость часто упускают из виду, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man den Mehrwert gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо донесете добавленную стоимость, вы уже выиграли половину дела.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Mindesturlaub, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Минимальный отпуск",
+      "translation_en": "Minimum vacation",
+      "examples": [
+        {
+          "de": "Der Bewerber hat den Mindesturlaub in seinem Lebenslauf hervorgehoben.",
+          "ru": "В резюме заявитель указал минимальный отпуск."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Mindesturlaub.",
+          "ru": "Рекрутер специально спросил о минимальном отпуске."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde der Mindesturlaub getestet.",
+          "ru": "Минимальный отпуск был проверен во время ассессмент-центра."
+        },
+        {
+          "de": "Also, der Mindesturlaub war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, минимальный отпуск был очень важен на моем последнем собеседовании.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man den Mindesturlaub gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо добились минимального отпуска, вы уже выиграли половину дела.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Minijob-Verhältnis, die Verhältnisse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Мини-рабочие отношения",
+      "translation_en": "Mini-job relationship",
+      "examples": [
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Minijob-Verhältnis.",
+          "ru": "Рекрутер специально спросил про соотношение мини-работ."
+        },
+        {
+          "de": "Eine überzeugende Darstellung des Minijob-Verhältnis kann den Unterschied machen.",
+          "ru": "Убедительная презентация отношений на мини-работе может иметь решающее значение."
+        },
+        {
+          "de": "das Minijob-Verhältnis ist für diese Position besonders relevant.",
+          "ru": "Отношения мини-работы особенно актуальны для этой должности."
+        },
+        {
+          "de": "Bei uns in der Firma zählt das Minijob-Verhältnis mehr als formale Qualifikationen.",
+          "ru": "В нашей компании соотношение мини-должностей значит больше, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, das Minijob-Verhältnis wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что соотношение мини-должностей часто упускают из виду, но HR-менеджеры обращают на это внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Mitarbeiterfluktuation, die Fluktuationen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Текучесть кадров",
+      "translation_en": "Employee turnover",
+      "examples": [
+        {
+          "de": "Im Bewerbungsschreiben sollte die Mitarbeiterfluktuation deutlich werden.",
+          "ru": "Изменения в составе сотрудников должны быть четко указаны в письме-заявке."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach der Mitarbeiterfluktuation.",
+          "ru": "Рекрутер специально спросил о текучести кадров."
+        },
+        {
+          "de": "die Mitarbeiterfluktuation ist für diese Position besonders relevant.",
+          "ru": "Текучесть кадров особенно актуальна для этой должности."
+        },
+        {
+          "de": "Mein Tipp: die Mitarbeiterfluktuation sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: вам обязательно следует упомянуть в своем резюме о текучести кадров.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, die Mitarbeiterfluktuation wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что текучесть кадров часто упускают из виду, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Mitbestimmung, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Совместное определение",
+      "translation_en": "Co-determination",
+      "examples": [
+        {
+          "de": "die Mitbestimmung ist für diese Position besonders relevant.",
+          "ru": "Совместное определение особенно актуально для этой позиции."
+        },
+        {
+          "de": "Der Bewerber hat die Mitbestimmung in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель отметил участие в своем резюме."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde die Mitbestimmung getestet.",
+          "ru": "Совместное определение было проверено в ассессмент-центре."
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Mitbestimmung mehr als formale Qualifikationen.",
+          "ru": "В нашей компании совместное определение означает нечто большее, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Mitbestimmung war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Поэтому участие на моем последнем собеседовании было очень важно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Nische, die Nischen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "ниша",
+      "translation_en": "niche",
+      "examples": [
+        {
+          "de": "Eine überzeugende Darstellung der Nische kann den Unterschied machen.",
+          "ru": "Убедительное представление ниши может иметь решающее значение."
+        },
+        {
+          "de": "die Nische ist für diese Position besonders relevant.",
+          "ru": "ниша особенно актуальна для этой позиции."
+        },
+        {
+          "de": "Der Bewerber hat die Nische in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель указал нишу в своем резюме."
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Nische mehr als formale Qualifikationen.",
+          "ru": "В нашей компании ниша значит больше, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Tipp: die Nische sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: вам обязательно следует упомянуть нишу в своем резюме.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Organisation, die Organisationen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "организация",
+      "translation_en": "organization",
+      "examples": [
+        {
+          "de": "Der Bewerber hat die Organisation in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель указал организацию в своем резюме."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach der Organisation.",
+          "ru": "Рекрутер специально спросил об организации."
+        },
+        {
+          "de": "Eine überzeugende Darstellung der Organisation kann den Unterschied machen.",
+          "ru": "Убедительное представление организации может иметь решающее значение."
+        },
+        {
+          "de": "Also, die Organisation war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Что ж, на моем последнем собеседовании организация была очень важна.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man die Organisation gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо представляете организацию, вы уже на полпути.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Organigramm, die Organigramme",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Организационная структура",
+      "translation_en": "Organization chart",
+      "examples": [
+        {
+          "de": "Für die Gehaltsverhandlung ist das Organigramm ein wichtiger Faktor.",
+          "ru": "Организационная структура является важным фактором в переговорах о заработной плате."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Organigramm.",
+          "ru": "Рекрутер специально попросил организационную структуру."
+        },
+        {
+          "de": "Die Personalabteilung legt großen Wert auf das Organigramm.",
+          "ru": "Отдел кадров придает большое значение организационной структуре."
+        },
+        {
+          "de": "Wenn man das Organigramm gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо разобрались в организационной структуре, вы уже на полпути.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, das Organigramm wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что организационную структуру часто упускают из виду, но специалисты по персоналу обращают на нее внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Outsourcing, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Аутсорсинг",
+      "translation_en": "Outsourcing",
+      "examples": [
+        {
+          "de": "Für die Gehaltsverhandlung ist das Outsourcing ein wichtiger Faktor.",
+          "ru": "Аутсорсинг является важным фактором при обсуждении заработной платы."
+        },
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis des Outsourcing.",
+          "ru": "Кандидат произвела впечатление своим пониманием аутсорсинга."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde das Outsourcing getestet.",
+          "ru": "Аутсорсинг был протестирован в ходе ассессмент-центра."
+        },
+        {
+          "de": "Ich würde sagen, das Outsourcing wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что аутсорсинг часто упускают из виду, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man das Outsourcing gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо справитесь с аутсорсингом, это еще полдела.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Pandemie-Regelung, die Regelungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Регулирование пандемии",
+      "translation_en": "Pandemic regulation",
+      "examples": [
+        {
+          "de": "Während des Assessment-Centers wurde die Pandemie-Regelung getestet.",
+          "ru": "Регулирование пандемии было проверено в ассессмент-центре."
+        },
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis der Pandemie-Regelung.",
+          "ru": "Кандидатка впечатлила своим пониманием правил борьбы с пандемией."
+        },
+        {
+          "de": "Der Bewerber hat die Pandemie-Regelung in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель указал в своем резюме правила борьбы с пандемией."
+        },
+        {
+          "de": "Ich würde sagen, die Pandemie-Regelung wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что политику пандемии часто игнорируют, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Pandemie-Regelung war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, правила пандемии были действительно важны на моем последнем собеседовании.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Personalabteilung, die Personalabteilungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "отдел кадров",
+      "translation_en": "HR department",
+      "examples": [
+        {
+          "de": "die Personalabteilung ist für diese Position besonders relevant.",
+          "ru": "HR особенно важен для этой позиции."
+        },
+        {
+          "de": "Eine überzeugende Darstellung der Personalabteilung kann den Unterschied machen.",
+          "ru": "Убедительное представительство отдела кадров может иметь решающее значение."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist die Personalabteilung ein wichtiger Faktor.",
+          "ru": "Отдел кадров является важным фактором в переговорах о заработной плате."
+        },
+        {
+          "de": "Mein Tipp: die Personalabteilung sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: в резюме обязательно стоит упомянуть отдел кадров.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man die Personalabteilung gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо справитесь с отделом кадров, это уже полдела.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Personalakte, die Personalakten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Личное дело",
+      "translation_en": "Personnel file",
+      "examples": [
+        {
+          "de": "Im Vorstellungsgespräch wurde die Personalakte ausführlich thematisiert.",
+          "ru": "На собеседовании подробно обсуждалось личное дело."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte die Personalakte deutlich werden.",
+          "ru": "Личное дело должно быть четко указано в письме-заявке."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde die Personalakte getestet.",
+          "ru": "Личное дело было проверено в ассессмент-центре."
+        },
+        {
+          "de": "Ich würde sagen, die Personalakte wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что о личном деле часто забывают, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Personalakte war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, личное дело было очень важно на моем последнем собеседовании.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Personalbedarf, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Требования к персоналу",
+      "translation_en": "Personnel requirements",
+      "examples": [
+        {
+          "de": "der Personalbedarf ist für diese Position besonders relevant.",
+          "ru": "кадровые требования особенно актуальны для этой должности."
+        },
+        {
+          "de": "Der Bewerber hat den Personalbedarf in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель указал на кадровые потребности в своем резюме."
+        },
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis des Personalbedarf.",
+          "ru": "Кандидат произвела впечатление своим пониманием кадровых потребностей."
+        },
+        {
+          "de": "Wenn man den Personalbedarf gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо определите кадровые потребности, это уже полдела.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, der Personalbedarf war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, на моем последнем собеседовании кадровые требования были очень важны.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Personalchef, die Personalchefs",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Менеджер по персоналу",
+      "translation_en": "HR manager",
+      "examples": [
+        {
+          "de": "Die Personalabteilung legt großen Wert auf den Personalchef.",
+          "ru": "Отдел кадров придает большое значение менеджеру по найму."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte der Personalchef deutlich werden.",
+          "ru": "Менеджер по найму должен четко указать в письме-заявке."
+        },
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis des Personalchef.",
+          "ru": "Кандидатка впечатлила своим пониманием работы HR-менеджера."
+        },
+        {
+          "de": "Also, der Personalchef war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, менеджер по найму был очень важен на моем последнем собеседовании.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt der Personalchef mehr als formale Qualifikationen.",
+          "ru": "В нашей компании менеджер по персоналу имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Personalmangel, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Нехватка персонала",
+      "translation_en": "Shortage of staff",
+      "examples": [
+        {
+          "de": "Für die Gehaltsverhandlung ist der Personalmangel ein wichtiger Faktor.",
+          "ru": "Нехватка персонала является важным фактором при переговорах по заработной плате."
+        },
+        {
+          "de": "Im Vorstellungsgespräch wurde der Personalmangel ausführlich thematisiert.",
+          "ru": "В ходе интервью подробно обсуждался дефицит кадров."
+        },
+        {
+          "de": "Der Bewerber hat den Personalmangel in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель указал в своем резюме на нехватку кадров."
+        },
+        {
+          "de": "Ich würde sagen, der Personalmangel wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что на нехватку кадров часто не обращают внимания, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man den Personalmangel gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо справитесь с нехваткой персонала, это уже полдела.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Personalrat, die Personalräte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Совет персонала",
+      "translation_en": "Staff Council",
+      "examples": [
+        {
+          "de": "Im Vorstellungsgespräch wurde der Personalrat ausführlich thematisiert.",
+          "ru": "В ходе интервью подробно обсуждался состав кадрового совета."
+        },
+        {
+          "de": "Eine überzeugende Darstellung des Personalrat kann den Unterschied machen.",
+          "ru": "Убедительная презентация совета персонала может изменить ситуацию."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist der Personalrat ein wichtiger Faktor.",
+          "ru": "Совет персонала является важным фактором в переговорах о заработной плате."
+        },
+        {
+          "de": "Ich würde sagen, der Personalrat wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что HR часто упускают из виду, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Tipp: den Personalrat sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите в резюме совет персонала.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Personalrekrutierung, die Personalrekrutierungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Подбор персонала",
+      "translation_en": "Personnel recruitment",
+      "examples": [
+        {
+          "de": "Der Bewerber hat die Personalrekrutierung in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель указал в своем резюме вопрос о приеме на работу."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde die Personalrekrutierung getestet.",
+          "ru": "Подбор персонала был проверен в ходе ассессмент-центра."
+        },
+        {
+          "de": "Die Kandidatin überzeugte durch ihr Verständnis der Personalrekrutierung.",
+          "ru": "Кандидатка впечатлила своим пониманием подбора персонала."
+        },
+        {
+          "de": "Mein Tipp: die Personalrekrutierung sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: в резюме обязательно стоит упомянуть подбор персонала.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Personalrekrutierung war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, на моем последнем собеседовании при приеме на работу рекрутинг был действительно важен.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Personalreserve, die Personalreserven",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Кадровый резерв",
+      "translation_en": "Personnel reserve",
+      "examples": [
+        {
+          "de": "Während des Assessment-Centers wurde die Personalreserve getestet.",
+          "ru": "Кадровый резерв был проверен в ходе ассессмент-центра."
+        },
+        {
+          "de": "Der Bewerber hat die Personalreserve in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель подчеркнул в своем резюме кадровый резерв."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist die Personalreserve ein wichtiger Faktor.",
+          "ru": "Кадровый резерв является важным фактором при переговорах по заработной плате."
+        },
+        {
+          "de": "Also, die Personalreserve war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Так что на моем последнем собеседовании кадровый резерв был очень важен.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, die Personalreserve wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что уровень укомплектованности персоналом часто упускают из виду, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Planungsgespräch, die Planungsgespräche",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Планирование обсуждения",
+      "translation_en": "Planning discussion",
+      "examples": [
+        {
+          "de": "Für die Gehaltsverhandlung ist das Planungsgespräch ein wichtiger Faktor.",
+          "ru": "Совещание по планированию является важным фактором в переговорах о зарплате."
+        },
+        {
+          "de": "Eine überzeugende Darstellung des Planungsgespräch kann den Unterschied machen.",
+          "ru": "Убедительная презентация встречи по планированию может иметь решающее значение."
+        },
+        {
+          "de": "das Planungsgespräch ist für diese Position besonders relevant.",
+          "ru": "обсуждение планирования особенно актуально для этой должности."
+        },
+        {
+          "de": "Ich würde sagen, das Planungsgespräch wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что разговор о планировании часто упускается из виду, но HR-специалисты обращают на него внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man das Planungsgespräch gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо проведете обсуждение планирования, вы уже выиграли половину дела.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Preiserhöhung, die Preiserhöhungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Повышение цен",
+      "translation_en": "Price increase",
+      "examples": [
+        {
+          "de": "Im Bewerbungsschreiben sollte die Preiserhöhung deutlich werden.",
+          "ru": "Увеличение цены должно быть четко указано в письме-заявке."
+        },
+        {
+          "de": "Die Personalabteilung legt großen Wert auf die Preiserhöhung.",
+          "ru": "Отдел кадров придает большое значение повышению цен."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde die Preiserhöhung getestet.",
+          "ru": "Повышение цен было протестировано в ходе оценочного центра."
+        },
+        {
+          "de": "Mein Tipp: die Preiserhöhung sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите в резюме о повышении цен.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Preiserhöhung mehr als formale Qualifikationen.",
+          "ru": "В нашей компании повышение цен имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Privatleben, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Частная жизнь",
+      "translation_en": "Private life",
+      "examples": [
+        {
+          "de": "Während des Assessment-Centers wurde das Privatleben getestet.",
+          "ru": "В ходе ассессмент-центра проверялась личная жизнь."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte das Privatleben deutlich werden.",
+          "ru": "Ваша личная жизнь должна быть четко указана в письме-заявке."
+        },
+        {
+          "de": "Eine überzeugende Darstellung des Privatleben kann den Unterschied machen.",
+          "ru": "Убедительное изображение частной жизни может иметь решающее значение."
+        },
+        {
+          "de": "Also, das Privatleben war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, личная жизнь была очень важна на моем последнем собеседовании.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Tipp: das Privatleben sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите в резюме свою личную жизнь.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Probejahr, die Probejahre",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Испытательный год",
+      "translation_en": "Probationary year",
+      "examples": [
+        {
+          "de": "Eine überzeugende Darstellung des Probejahr kann den Unterschied machen.",
+          "ru": "Убедительная презентация испытательного года может иметь решающее значение."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist das Probejahr ein wichtiger Faktor.",
+          "ru": "Испытательный год является важным фактором при обсуждении заработной платы."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde das Probejahr getestet.",
+          "ru": "Испытательный год проходил тестирование в оценочном центре."
+        },
+        {
+          "de": "Bei uns in der Firma zählt das Probejahr mehr als formale Qualifikationen.",
+          "ru": "В нашей компании год испытательного срока имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Tipp: das Probejahr sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите в резюме год испытательного срока.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Probezeitvereinbarung, die Probezeitvereinbarungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Соглашение об испытательном сроке",
+      "translation_en": "Probationary agreement",
+      "examples": [
+        {
+          "de": "Eine überzeugende Darstellung der Probezeitvereinbarung kann den Unterschied machen.",
+          "ru": "Убедительное представление соглашения об испытательном сроке может иметь решающее значение."
+        },
+        {
+          "de": "die Probezeitvereinbarung ist für diese Position besonders relevant.",
+          "ru": "соглашение об испытательном сроке особенно актуально для этой должности."
+        },
+        {
+          "de": "Im Bewerbungsschreiben sollte die Probezeitvereinbarung deutlich werden.",
+          "ru": "Соглашение об испытательном сроке должно быть четко указано в письме-заявке."
+        },
+        {
+          "de": "Ich würde sagen, die Probezeitvereinbarung wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что соглашение об испытательном сроке часто игнорируется, но HR-специалисты на него обращают внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Probezeitvereinbarung mehr als formale Qualifikationen.",
+          "ru": "В нашей компании соглашение об испытательном сроке означает нечто большее, чем просто формальную квалификацию.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Produktivität, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "производительность",
+      "translation_en": "productivity",
+      "examples": [
+        {
+          "de": "Im Bewerbungsschreiben sollte die Produktivität deutlich werden.",
+          "ru": "Производительность должна быть четко указана в письме-заявке."
+        },
+        {
+          "de": "Der Bewerber hat die Produktivität in seinem Lebenslauf hervorgehoben.",
+          "ru": "В своем резюме заявитель подчеркнул продуктивность."
+        },
+        {
+          "de": "Eine überzeugende Darstellung der Produktivität kann den Unterschied machen.",
+          "ru": "Убедительное представление производительности может иметь решающее значение."
+        },
+        {
+          "de": "Mein Tipp: die Produktivität sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите в резюме продуктивность.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Produktivität mehr als formale Qualifikationen.",
+          "ru": "В нашей компании производительность значит больше, чем формальная квалификация.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Produkt, die Produkte",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "продукт",
+      "translation_en": "product",
+      "examples": [
+        {
+          "de": "Die Personalabteilung legt großen Wert auf das Produkt.",
+          "ru": "Отдел кадров придает большое значение продукту."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist das Produkt ein wichtiger Faktor.",
+          "ru": "Продукт является важным фактором при обсуждении заработной платы."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde das Produkt getestet.",
+          "ru": "Продукт был протестирован в оценочном центре."
+        },
+        {
+          "de": "Bei uns in der Firma zählt das Produkt mehr als formale Qualifikationen.",
+          "ru": "В нашей компании продукт имеет большее значение, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Tipp: das Produkt sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите продукт в резюме.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Projekt, die Projekte",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "проект",
+      "translation_en": "project",
+      "examples": [
+        {
+          "de": "Im Vorstellungsgespräch wurde das Projekt ausführlich thematisiert.",
+          "ru": "Подробно проект обсуждался в ходе интервью."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Projekt.",
+          "ru": "Рекрутер специально спросил о проекте."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist das Projekt ein wichtiger Faktor.",
+          "ru": "Проект является важным фактором при переговорах о зарплате."
+        },
+        {
+          "de": "Ich würde sagen, das Projekt wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что проект часто упускают из виду, но HR-специалисты обращают на него внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Tipp: das Projekt sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите проект в своем резюме.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Qualität, die Qualitäten",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Качество",
+      "translation_en": "Quality",
+      "examples": [
+        {
+          "de": "Die Personalabteilung legt großen Wert auf die Qualität.",
+          "ru": "Отдел кадров придает большое значение качеству."
+        },
+        {
+          "de": "Eine überzeugende Darstellung der Qualität kann den Unterschied machen.",
+          "ru": "Убедительное представление качества может иметь решающее значение."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist die Qualität ein wichtiger Faktor.",
+          "ru": "Качество является важным фактором при обсуждении заработной платы."
+        },
+        {
+          "de": "Ich würde sagen, die Qualität wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что качество часто упускают из виду, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Firma zählt die Qualität mehr als formale Qualifikationen.",
+          "ru": "В нашей компании качество значит больше, чем формальная квалификация.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Qualitätsmanagement, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Управление качеством",
+      "translation_en": "Quality management",
+      "examples": [
+        {
+          "de": "Der Bewerber hat das Qualitätsmanagement in seinem Lebenslauf hervorgehoben.",
+          "ru": "В своем резюме заявитель подчеркнул важность управления качеством."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Qualitätsmanagement.",
+          "ru": "Рекрутер специально спросил об управлении качеством."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde das Qualitätsmanagement getestet.",
+          "ru": "Управление качеством было проверено в ассессмент-центре."
+        },
+        {
+          "de": "Bei uns in der Firma zählt das Qualitätsmanagement mehr als formale Qualifikationen.",
+          "ru": "В нашей компании управление качеством значит больше, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man das Qualitätsmanagement gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо реализуете управление качеством, вы уже на полпути.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Quote, die Quoten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Квота",
+      "translation_en": "Quota",
+      "examples": [
+        {
+          "de": "die Quote ist für diese Position besonders relevant.",
+          "ru": "квота особенно актуальна для этой должности."
+        },
+        {
+          "de": "Der Bewerber hat die Quote in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель указал квоту в своем резюме."
+        },
+        {
+          "de": "Für die Gehaltsverhandlung ist die Quote ein wichtiger Faktor.",
+          "ru": "Квота является важным фактором при обсуждении заработной платы."
+        },
+        {
+          "de": "Mein Tipp: die Quote sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите квоту в своем резюме.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich würde sagen, die Quote wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что о квоте часто забывают, но HR-специалисты на это обращают внимание.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Ratschlag, die Ratschläge",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "Совет",
+      "translation_en": "Advice",
+      "examples": [
+        {
+          "de": "Eine überzeugende Darstellung des Ratschlag kann den Unterschied machen.",
+          "ru": "Убедительная презентация совета может иметь решающее значение."
+        },
+        {
+          "de": "Die Personalabteilung legt großen Wert auf den Ratschlag.",
+          "ru": "Отдел кадров придает большое значение советам."
+        },
+        {
+          "de": "Während des Assessment-Centers wurde der Ratschlag getestet.",
+          "ru": "Совет был опробован в ходе ассессмент-центра."
+        },
+        {
+          "de": "Ich würde sagen, der Ratschlag wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что советами часто пренебрегают, но HR-специалисты обращают на них внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, der Ratschlag war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, этот совет был действительно важен на моем последнем собеседовании.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Raum, die Räume",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "Космос",
+      "translation_en": "Space",
+      "examples": [
+        {
+          "de": "Der Bewerber hat den Raum in seinem Lebenslauf hervorgehoben.",
+          "ru": "Заявитель выделил это место в своем резюме."
+        },
+        {
+          "de": "Der Recruiter fragte gezielt nach dem Raum.",
+          "ru": "Рекрутер специально спросил про комнату."
+        },
+        {
+          "de": "Eine überzeugende Darstellung des Raum kann den Unterschied machen.",
+          "ru": "Убедительное изображение комнаты может иметь решающее значение."
+        },
+        {
+          "de": "Bei uns in der Firma zählt der Raum mehr als formale Qualifikationen.",
+          "ru": "В нашей компании пространство значит больше, чем формальная квалификация.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, der Raum war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, комната была очень важна на моем последнем собеседовании.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
     }
   ]
 }

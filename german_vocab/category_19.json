@@ -33,6 +33,9 @@
         "Unterkunft",
         "Heim",
         "Apartment"
+      ],
+      "antonyms": [
+        "das Haus"
       ]
     },
     {
@@ -63,7 +66,10 @@
           "ru": "Я уже сомневаюсь, что нам стоит покупать этот дом."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Wohnung"
+      ]
     },
     {
       "word": "die Miete, die Mieten",
@@ -96,6 +102,9 @@
       "synonyms": [
         "Mietgebühr",
         "Mietzahlung"
+      ],
+      "antonyms": [
+        "der Kauf"
       ]
     },
     {
@@ -126,7 +135,10 @@
           "ru": "Только позже арендодатель может переложить часть расходов на основную арендную плату; Мотивация инвестиций остается соответственно низкой."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Warmmiete"
+      ]
     },
     {
       "word": "die Warmmiete, die Warmmieten",
@@ -152,7 +164,10 @@
           "ru": "Именно столько им пришлось бы платить до сих пор, если бы арендная плата составляла около 15 марок за квадратный метр."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Kaltmiete"
+      ]
     },
     {
       "word": "die Nebenkosten, (nur Pl.)",
@@ -182,7 +197,10 @@
           "ru": "Кабельное, рента, коммунальные услуги."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Grundmiete"
+      ]
     },
     {
       "word": "die Betriebskosten, (nur Pl.)",
@@ -212,7 +230,8 @@
           "ru": "Итак, вторая позиция, которую мы заняли, заключалась в том, что предоставляемые нами возможности, возможность переключаться между конфигурациями сцены должна была бы осуществляться без опоры на эксплуатационные расходы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Heizkosten, (nur Pl.)",
@@ -242,7 +261,8 @@
           "ru": "Почти все 200 комнат закрыты, чтобы сберечь тепло."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Kaution, die Kautionen",
@@ -272,7 +292,8 @@
           "ru": "Арт внес задаток и заплатил наличкой за следующий месяц."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Mietvertrag, die Mietverträge",
@@ -302,7 +323,10 @@
           "ru": "Я только что подписал договор об аренде."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Kündigung"
+      ]
     },
     {
       "word": "der Vermieter, die Vermieter",
@@ -335,6 +359,9 @@
       "synonyms": [
         "Besitzer",
         "Eigentümer"
+      ],
+      "antonyms": [
+        "der Mieter"
       ]
     },
     {
@@ -365,7 +392,10 @@
           "ru": "Только что звонил твой арендодатель."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Mieterin"
+      ]
     },
     {
       "word": "der Mieter, die Mieter",
@@ -397,6 +427,9 @@
       ],
       "synonyms": [
         "Bewohner"
+      ],
+      "antonyms": [
+        "der Vermieter"
       ]
     },
     {
@@ -427,7 +460,10 @@
           "ru": "Хороший съемщик, никаких проблем."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Vermieterin"
+      ]
     },
     {
       "word": "die Anmeldung, die Anmeldungen",
@@ -461,6 +497,9 @@
         "Registrierung",
         "Erfassung",
         "Eintragung"
+      ],
+      "antonyms": [
+        "die Abmeldung"
       ]
     },
     {
@@ -505,6 +544,9 @@
       "prepositions": [
         "für + Akkusativ (зарегистрироваться на что-то)",
         "bei + Dativ (зарегистрироваться у кого-то / в организации)"
+      ],
+      "antonyms": [
+        "sich abmelden"
       ]
     },
     {
@@ -535,7 +577,8 @@
           "ru": "Может, это сообщение с того света."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Abmeldung, die Abmeldungen",
@@ -565,7 +608,10 @@
           "ru": "Если у вас имеются проблемы с входом или с выходом из форума, то функция удаления cookies может помочь в решении этой проблемы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Anmeldung"
+      ]
     },
     {
       "word": "der Einzug, die Einzüge",
@@ -595,7 +641,10 @@
           "ru": "Жанна не предупредила тебя о моем переезде?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Auszug"
+      ]
     },
     {
       "word": "einziehen",
@@ -636,7 +685,10 @@
         "ihr": "zieht ein",
         "sie/Sie": "ziehen ein"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "ausziehen"
+      ]
     },
     {
       "word": "der Auszug, die Auszüge",
@@ -666,7 +718,10 @@
           "ru": "Как твой переезд из Спрингвуда?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Einzug"
+      ]
     },
     {
       "word": "ausziehen",
@@ -707,7 +762,10 @@
         "ihr": "zieht aus",
         "sie/Sie": "ziehen aus"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "einziehen"
+      ]
     },
     {
       "word": "der Umzug, die Umzüge",
@@ -737,7 +795,8 @@
           "ru": "Но его сейчас здесь нет, чтобы помочь с переездом."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "umziehen",
@@ -781,7 +840,8 @@
       "prepositions": [
         "in + Akkusativ (переезжать в квартиру/дом)",
         "nach + Dativ (переезжать в другой город/страну)"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "das Umzugsunternehmen, die Umzugsunternehmen",
@@ -811,7 +871,8 @@
           "ru": "Ему нужна машина, чтобы ездить до работы а также чтобы подвозить в школу своих детей."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Wohnungsgeberbestätigung, die Bestätigungen",
@@ -833,7 +894,8 @@
           "ru": "Пожалуйста, не забудьте взять с собой подтверждение от арендодателя на ваш прием в паспортный стол."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Hausordnung, die Hausordnungen",
@@ -863,7 +925,8 @@
           "ru": "Лоран, принеси свод домашних правил."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Hausmeister, die Hausmeister",
@@ -893,7 +956,8 @@
           "ru": "Дворник сказал мне, что видел несколько крысиных какашек."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Mülltrennung, (nur Sg.)",
@@ -923,7 +987,10 @@
           "ru": "В итоге у нас до 70% мусора сортируется и разделяется спустя 20 лет после начала, это самый высокий показатель в мире."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Mischmüll"
+      ]
     },
     {
       "word": "der Restmüll, (nur Sg.)",
@@ -945,7 +1012,12 @@
           "ru": "Частная компания по переработке отходов ITC каждый день принимает тысячи тонн твердых бытовых отходов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Biomüll",
+        "das Altpapier",
+        "der Wertstoff"
+      ]
     },
     {
       "word": "der Biomüll, (nur Sg.)",
@@ -975,7 +1047,10 @@
           "ru": "Если вы компостируете органические отходы самостоятельно в саду, вам не понадобится контейнер для органических отходов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Restmüll"
+      ]
     },
     {
       "word": "das Altpapier, (nur Sg.)",
@@ -1005,7 +1080,10 @@
           "ru": "Знаете, думаю сегодня это будет у всех на слуху, а завтра все уже забудут об этом, да?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Restmüll"
+      ]
     },
     {
       "word": "der gelbe Sack, die gelben Säcke",
@@ -1035,7 +1113,10 @@
           "ru": "Желтый пакет предназначен для сбора упаковки из металла, композитных материалов, пластика и пенопласта."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Restmüll"
+      ]
     },
     {
       "word": "das Altglas, (nur Sg.)",
@@ -1065,7 +1146,10 @@
           "ru": "Как правило, новая бутылка всегда изготавливается из кусочка старого стекла того же цвета и вновь приготовленной расплава."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Restmüll"
+      ]
     },
     {
       "word": "der Lärm, (nur Sg.)",
@@ -1095,7 +1179,11 @@
           "ru": "У природы были такие красивые краски,... и не было слышно никакого шума."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Stille",
+        "die Ruhe"
+      ]
     },
     {
       "word": "die Ruhestörung, die Ruhestörungen",
@@ -1125,7 +1213,10 @@
           "ru": "Вандализм, хулиганство, распитие алкоголя."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Einhaltung der Ruhezeit"
+      ]
     },
     {
       "word": "die Mittagsruhe, (nur Sg.)",
@@ -1155,7 +1246,8 @@
           "ru": "Просто получаешь справку до обеда, после того, как подготовился к Закону Божьему и написал письмо домой до тихого часа перевесил свою куртку на нижний крючок, встретил посетителей и сообщил мистеру Вайни, что пропуск тебе подписали."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Nachtruhe, (nur Sg.)",
@@ -1185,7 +1277,10 @@
           "ru": "В поисках пищи или для ночного покоя нередко несколько групп объединяются в одну большую группу."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Nachtlärm"
+      ]
     },
     {
       "word": "die Haustiere, (nur Pl.)",
@@ -1215,7 +1310,10 @@
           "ru": "Странно, что ты ещё до сих пор не пометил своих питомцев."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Wildtiere"
+      ]
     },
     {
       "word": "die Tierhaltung, (nur Sg.)",
@@ -1245,7 +1343,10 @@
           "ru": "Достаточно сказать, что описана не самая приятная картина устойчивого фермерства."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Tierhaltungsverbot"
+      ]
     },
     {
       "word": "der Schlüssel, die Schlüssel",
@@ -1275,7 +1376,8 @@
           "ru": "Бюро закрыто, она открывает его при помощи своего ключа."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Wohnungsschlüssel, die Schlüssel",
@@ -1297,7 +1399,8 @@
           "ru": "Пожалуйста, оставьте ключ от квартиры у соседа на случай, если мастер придет во время нашего отсутствия."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Haustürschlüssel, die Schlüssel",
@@ -1327,7 +1430,8 @@
           "ru": "Можно, я оставлю себе хотя бы ключи от дома?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Übergabe, die Übergaben",
@@ -1362,7 +1466,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Übernahme, die Übernahmen"
+      ]
     },
     {
       "word": "das Übergabeprotokoll, die Übergabeprotokolle",
@@ -1392,7 +1499,8 @@
           "ru": "Арендатор может нести ответственность за ущерб после выселения только в том случае, если он отмечен в протоколе приема-передачи."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Mangel, die Mängel",
@@ -1422,7 +1530,12 @@
           "ru": "Твоя нехватка дисциплины, твое уничтожение собственности."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Fülle, (nur Sg.)",
+        "der Überschuss, die Überschüsse",
+        "die Mängelfreiheit, (nur Sg.)"
+      ]
     },
     {
       "word": "die Mängelrüge, die Mängelrügen",
@@ -1444,7 +1557,8 @@
           "ru": "Наш юридический отдел в настоящее время проверяет претензию клиента касательно дефектов программного обеспечения."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "reparieren",
@@ -1485,7 +1599,11 @@
         "ihr": "repariert",
         "sie/Sie": "reparieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "beschädigen",
+        "kaputtmachen"
+      ]
     },
     {
       "word": "die Reparatur, die Reparaturen",
@@ -1515,7 +1633,11 @@
           "ru": "Наверное, она имела в виду, что нужно вообразить починку."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Beschädigung",
+        "die Zerstörung"
+      ]
     },
     {
       "word": "der Handwerker, die Handwerker",
@@ -1545,7 +1667,11 @@
           "ru": "Я ожидаю мастера, который должен в моём доме постелить ковролин."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Laie",
+        "der Heimwerker"
+      ]
     },
     {
       "word": "die Renovierung, die Renovierungen",
@@ -1575,7 +1701,11 @@
           "ru": "Последняя реставрация здания производилась в 2002 году."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Verfall",
+        "die Verwahrlosung"
+      ]
     },
     {
       "word": "renovieren",
@@ -1616,7 +1746,10 @@
         "ihr": "renoviert",
         "sie/Sie": "renovieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "verwahrlosen lassen"
+      ]
     },
     {
       "word": "die WG, die WGs",
@@ -1646,7 +1779,10 @@
           "ru": "В какой-то причудливой квартире с придурковатым соседом?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Einzelwohnung"
+      ]
     },
     {
       "word": "der Mitbewohner, die Mitbewohner",
@@ -1676,7 +1812,10 @@
           "ru": "И я не просто сосед по квартире."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Einzelmieter"
+      ]
     },
     {
       "word": "das Zimmer, die Zimmer",
@@ -1706,7 +1845,8 @@
           "ru": "Он даже не помнит, что заходил в ее палату."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Einbauküche, die Einbauküchen",
@@ -1728,7 +1868,8 @@
           "ru": "А рядом со сфинксами большая оборудованная кухня"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Bad, die Bäder",
@@ -1758,7 +1899,8 @@
           "ru": "Ладно, можешь бежать в наш туалет."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Balkon, die Balkons",
@@ -1788,7 +1930,8 @@
           "ru": "Внимание, там два стрелка на балконе, мне их не снять."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Terrasse, die Terrassen",
@@ -1818,7 +1961,8 @@
           "ru": "Ну я запишу тебя на работу в патио."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Keller, die Keller",
@@ -1848,7 +1992,10 @@
           "ru": "Нам сказали, что они прибежали из соседнего затопленного подвала."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Dachboden"
+      ]
     },
     {
       "word": "der Dachboden, die Dachböden",
@@ -1878,7 +2025,10 @@
           "ru": "Я буду на ногах всю ночь, копаясь на чердаке."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Keller"
+      ]
     },
     {
       "word": "der Stellplatz, die Stellplätze",
@@ -1908,7 +2058,8 @@
           "ru": "Она была на его парковке."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Garage, die Garagen",
@@ -1938,7 +2089,8 @@
           "ru": "А ну, да, в этой пустой комнате над гаражом."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Mietspiegel, die Mietspiegel",
@@ -1968,7 +2120,8 @@
           "ru": "И, воля, зеркала в ваш разум может отражают лучшие из себя, не самое худшее кого-то другого."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Mietpreisbremse, (nur Sg.)",
@@ -1998,7 +2151,8 @@
           "ru": "минимальная заработная плата, регулирование, пенсии и контроль арендной платы"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Wohnfläche, die Wohnflächen",
@@ -2028,7 +2182,8 @@
           "ru": "Клиент прибывает самостоятельно непосредственно на объект размещения и обязан принять услугу размещения до 10 часов второго дня бронирования. В противном случае хозяин жилья имеет право предложить указанную услугу третьим лицам."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Quadratmeter, die Quadratmeter",
@@ -2058,7 +2213,8 @@
           "ru": "И сколько квадратных футов?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Nebenkostenabrechnung, die Abrechnungen",
@@ -2088,7 +2244,8 @@
           "ru": "Как только пройдут ужасающие счета за коммунальные услуги, электричество снова станет дороже!"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Nachzahlung, die Nachzahlungen",
@@ -2118,7 +2275,11 @@
           "ru": "Можете считать, что между нами ничего не произошло."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Rückerstattung",
+        "das Guthaben"
+      ]
     },
     {
       "word": "das Guthaben, die Guthaben",
@@ -2148,7 +2309,12 @@
           "ru": "Я никогда не получу свой аванс"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Schuld, die Schulden",
+        "das Soll, (nur Sg.)",
+        "der Debitsaldo, die Salden"
+      ]
     },
     {
       "word": "die Mieterhöhung, die Mieterhöhungen",
@@ -2178,7 +2344,11 @@
           "ru": "Я пересмотрел тарифы, и увеличил ренту в следующем месяце."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Mietminderung",
+        "die Mietsenkung"
+      ]
     },
     {
       "word": "das Wohngeld, (nur Sg.)",
@@ -2204,7 +2374,8 @@
           "ru": "Если Фэнти и Минго правы насчет платежной ведомости... это был бы для нас солнечный день."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Wohnberechtigungsschein, die Scheine",
@@ -2234,7 +2405,8 @@
           "ru": "Остается только оформить жилищные пособия и жилищные сертификаты."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Sozialwohnung, die Sozialwohnungen",
@@ -2264,7 +2436,10 @@
           "ru": "У меня квартира в 8 секции."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Luxuswohnung"
+      ]
     },
     {
       "word": "die Genossenschaft, die Genossenschaften",
@@ -2294,7 +2469,8 @@
           "ru": "Членам-пайщикам кооператива предоставлялось право пользоваться жилой площадью на протяжении 35 лет без каких-либо ограничений."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Genossenschaftswohnung, die Wohnungen",
@@ -2324,7 +2500,10 @@
           "ru": "Заявителем является тот же застройщик, что и для покупного дома, небольшого поддерживаемого жилого комплекса, покупной квартиры и кооперативной квартиры."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Eigentumswohnung"
+      ]
     },
     {
       "word": "der Eigentümer, die Eigentümer",
@@ -2354,7 +2533,10 @@
           "ru": "Бунчук, в вас заговорил собственник."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Mieter"
+      ]
     },
     {
       "word": "die Eigentümergemeinschaft, die Gemeinschaften",
@@ -2384,7 +2566,8 @@
           "ru": "Они убедили сообщество владельцев, что дом необходимо сохранить."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Wohneigentum, (nur Sg.)",
@@ -2414,7 +2597,10 @@
           "ru": "Они также могут надеяться на жилищную программу, которая, наконец, разберется с ипотечным кризисом в Америке."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Mietwohnung"
+      ]
     },
     {
       "word": "die Eigentumswohnung, die Eigentumswohnungen",
@@ -2444,7 +2630,10 @@
           "ru": "Купи ей квартиру, чтобы она съехала."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Mietwohnung"
+      ]
     },
     {
       "word": "der Makler, die Makler",
@@ -2474,7 +2663,8 @@
           "ru": "Робин, риелтор отдаст её тому, кто больше заплатит."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Maklergebühr, die Maklergebühren",
@@ -2496,7 +2686,8 @@
           "ru": "И он также заплатил комиссию, так?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Besichtigung, die Besichtigungen",
@@ -2526,7 +2717,8 @@
           "ru": "Я ездила в Ашрам. В тур."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "besichtigen",
@@ -2567,7 +2759,8 @@
         "ihr": "besichtigt",
         "sie/Sie": "besichtigen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "der Besichtigungstermin, die Besichtigungstermine",
@@ -2593,7 +2786,8 @@
           "ru": "Я говорила с риелтором и она думает что мы можем"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Selbstauskunft, die Selbstauskünfte",
@@ -2623,7 +2817,8 @@
           "ru": "Он не раз раскрывает себя один раз, а снова и снова."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Schufa-Auszug, die Auszüge",
@@ -2645,7 +2840,8 @@
           "ru": "Негативная запись в кредитной истории SCHUFA может значительно усложнить поиск квартиры."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Einkommensnachweis, die Einkommensnachweise",
@@ -2675,7 +2871,8 @@
           "ru": "Это расчётные листы Харви, и я почему-то нашла их в ксероксе."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Bürge, die Bürgen",
@@ -2705,7 +2902,10 @@
           "ru": "Да, Преподобный Мэсси поручился за нас в Святой Миссии."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Schuldner"
+      ]
     },
     {
       "word": "die Bürgschaft, die Bürgschaften",
@@ -2735,7 +2935,8 @@
           "ru": "Ты позволил ему решить, что он может рисковать, не только этим проектом, но и всем, что у него есть, под личную гарантию."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Mietkaution, die Mietkautionen",
@@ -2765,7 +2966,8 @@
           "ru": "Ну, Вы не получите Ваш страховой депозит обратно."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Kautionskonto, die Kautionskonten",
@@ -2795,7 +2997,3011 @@
           "ru": "Арендодатель должен вложить депозит на депозитный счет отдельно от других своих активов - с обычной процентной ставкой для сберегательных депозитов с периодом уведомления в три месяца."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kautionsbürgschaft, die Kautionsbürgschaften",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "залог под залог",
+      "translation_en": "Bail bond",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie die Kautionsbürgschaft im Original.",
+          "ru": "Для регистрации вам понадобится оригинал гарантии депозита."
+        },
+        {
+          "de": "Ohne die Kautionsbürgschaft können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без гарантии депозита."
+        },
+        {
+          "de": "Bitte bringen Sie die Kautionsbürgschaft zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой залог под залог на прием."
+        },
+        {
+          "de": "Ich musste ewig auf die Kautionsbürgschaft warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось ждать залога вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Kautionsbürgschaft hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с залогом, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Wohngemeinschaft, die Wohngemeinschaften",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "общая квартира",
+      "translation_en": "shared apartment",
+      "examples": [
+        {
+          "de": "Beim Bürgeramt musste ich die Wohngemeinschaft vorlegen.",
+          "ru": "Мне пришлось предъявить свою коммунальную квартиру в ЗАГСе."
+        },
+        {
+          "de": "Bitte bringen Sie die Wohngemeinschaft zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием свою общую квартиру."
+        },
+        {
+          "de": "Im Formular muss die Wohngemeinschaft angegeben werden.",
+          "ru": "В форме необходимо указать общую квартиру."
+        },
+        {
+          "de": "Also, die Wohngemeinschaft brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, коммунальная квартира вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Wohngemeinschaft warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Коммунальную квартиру пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Zweck-WG, die Zweck-WGs",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Цель совместной квартиры",
+      "translation_en": "Purpose shared apartment",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Zweck-WG innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Спецкоммуналку ведомство выдало в течение двух недель."
+        },
+        {
+          "de": "Im Formular muss die Zweck-WG angegeben werden.",
+          "ru": "В форме необходимо указать специально построенную коммунальную квартиру."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Zweck-WG im Original.",
+          "ru": "Для регистрации вам понадобится оригинальная специально построенная коммунальная квартира."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Zweck-WG eigentlich relativ schnell.",
+          "ru": "В нашем районе действительно можно относительно быстро получить специализированную коммунальную квартиру.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Zweck-WG warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Коммунальную квартиру пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das WG-Zimmer, die WG-Zimmer",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Общая комната",
+      "translation_en": "Shared room",
+      "examples": [
+        {
+          "de": "Die Behörde hat das WG-Zimmer innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали общую комнату в течение двух недель."
+        },
+        {
+          "de": "Im Formular muss das WG-Zimmer angegeben werden.",
+          "ru": "В форме необходимо указать общую комнату."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich das WG-Zimmer vorlegen.",
+          "ru": "Мне пришлось предъявить общую комнату в Офисе по делам граждан."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das WG-Zimmer eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро получить комнату в коммунальной квартире.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das WG-Zimmer brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, общая комната вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Hausverwaltung, die Hausverwaltungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Управление недвижимостью",
+      "translation_en": "Property management",
+      "examples": [
+        {
+          "de": "Beim Bürgeramt musste ich die Hausverwaltung vorlegen.",
+          "ru": "Пришлось предъявлять управление имуществом в Госкомитету."
+        },
+        {
+          "de": "Die Behörde hat die Hausverwaltung innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал свидетельство об управлении имуществом в течение двух недель."
+        },
+        {
+          "de": "Ohne die Hausverwaltung können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без управления недвижимостью."
+        },
+        {
+          "de": "Das mit der Hausverwaltung hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с управлением недвижимостью, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Hausverwaltung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Пришлось ждать управления недвижимостью целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Hausverwalter, die Hausverwalter",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Менеджер по недвижимости",
+      "translation_en": "Property manager",
+      "examples": [
+        {
+          "de": "Ohne den Hausverwalter können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без управляющего недвижимостью."
+        },
+        {
+          "de": "Für den Umzug ist der Hausverwalter besonders wichtig.",
+          "ru": "Управляющий недвижимостью особенно важен для переезда."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie den Hausverwalter im Original.",
+          "ru": "Для регистрации вам понадобится оригинальный управляющий недвижимостью."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Hausverwalter eigentlich relativ schnell.",
+          "ru": "В нашем районе вы действительно можете относительно быстро найти управляющего недвижимостью.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Hausverwalter hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с управляющим недвижимостью, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Hausverwalterin, die Hausverwalterinnen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "управляющий недвижимостью",
+      "translation_en": "property manager",
+      "examples": [
+        {
+          "de": "Ohne die Hausverwalterin können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без управляющего недвижимостью."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Hausverwalterin im Original.",
+          "ru": "Для регистрации необходим оригинал управляющего недвижимостью."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Hausverwalterin vorlegen.",
+          "ru": "Мне пришлось представить управляющего недвижимостью в гражданскую прокуратуру."
+        },
+        {
+          "de": "Ich musste ewig auf die Hausverwalterin warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось ждать управляющего недвижимостью целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Hausverwalterin hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с управляющим недвижимостью, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Mietzins, die Mietzinse",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "арендовать",
+      "translation_en": "rent",
+      "examples": [
+        {
+          "de": "Der Vermieter hat den Mietzins rechtzeitig eingereicht.",
+          "ru": "Арендодатель вовремя внес арендную плату."
+        },
+        {
+          "de": "Die Behörde hat den Mietzins innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали арендную плату в течение двух недель."
+        },
+        {
+          "de": "der Mietzins wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "арендная плата была обработана ответственным клерком."
+        },
+        {
+          "de": "Das mit dem Mietzins hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Вопрос с арендой меня очень раздражал, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: den Mietzins immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию арендной платы.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Nettokaltmiete, die Nettokaltmieten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Чистая арендная плата",
+      "translation_en": "Net rent",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Nettokaltmiete innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали чистую арендную плату в течение двух недель."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Nettokaltmiete im Original.",
+          "ru": "Для регистрации вам понадобится первоначальная чистая арендная плата."
+        },
+        {
+          "de": "Für den Umzug ist die Nettokaltmiete besonders wichtig.",
+          "ru": "Чистая арендная плата особенно важна при переезде."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Nettokaltmiete eigentlich relativ schnell.",
+          "ru": "В нашем районе вы действительно можете получить чистую арендную плату относительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: die Nettokaltmiete immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию чистой арендной платы.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Bruttowarmmiete, die Bruttowarmmieten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Валовая арендная плата",
+      "translation_en": "Gross rent",
+      "examples": [
+        {
+          "de": "Der Vermieter hat die Bruttowarmmiete rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно представил сумму арендной платы."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Bruttowarmmiete.",
+          "ru": "Медицинская страховка покрывает расходы на общую арендную плату."
+        },
+        {
+          "de": "Für den Umzug ist die Bruttowarmmiete besonders wichtig.",
+          "ru": "Валовая арендная плата особенно важна при переезде."
+        },
+        {
+          "de": "Ich musste ewig auf die Bruttowarmmiete warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось целую вечность ждать выплаты брутто-арендной платы, что заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Bruttowarmmiete brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, вам обязательно понадобится валовая арендная плата при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Nebenkostenvorauszahlung, die Vorauszahlungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Предоплата дополнительных расходов",
+      "translation_en": "Advance payment of additional costs",
+      "examples": [
+        {
+          "de": "Der Vermieter hat die Nebenkostenvorauszahlung rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно внес аванс на дополнительные расходы."
+        },
+        {
+          "de": "Im Formular muss die Nebenkostenvorauszahlung angegeben werden.",
+          "ru": "В форме необходимо указать предоплату дополнительных расходов."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Nebenkostenvorauszahlung.",
+          "ru": "Медицинская страховка покрывает расходы на предоплату дополнительных расходов."
+        },
+        {
+          "de": "Ich musste ewig auf die Nebenkostenvorauszahlung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Предоплату дополнительных расходов пришлось ждать целую вечность, что заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: die Nebenkostenvorauszahlung immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию аванса на дополнительные расходы.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Wasserzähler, die Wasserzähler",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Счетчик воды",
+      "translation_en": "Water meter",
+      "examples": [
+        {
+          "de": "der Wasserzähler wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Водомер был обработан ответственным клерком."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich den Wasserzähler vorlegen.",
+          "ru": "Мне пришлось предъявить водомер в горсовет."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Wasserzähler.",
+          "ru": "Медицинская страховка покрывает расходы на счетчик воды."
+        },
+        {
+          "de": "Ich musste ewig auf den Wasserzähler warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Водосчетчик пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Wasserzähler brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, счетчик воды вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Gaszähler, die Gaszähler",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Газовый счетчик",
+      "translation_en": "Gas meter",
+      "examples": [
+        {
+          "de": "Der Vermieter hat den Gaszähler rechtzeitig eingereicht.",
+          "ru": "Арендодатель сдал газовый счетчик вовремя."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie den Gaszähler im Original.",
+          "ru": "Для регистрации вам понадобится оригинальный газовый счетчик."
+        },
+        {
+          "de": "Im Formular muss der Gaszähler angegeben werden.",
+          "ru": "В форме необходимо указать газовый счетчик."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Gaszähler eigentlich relativ schnell.",
+          "ru": "В наших краях газовый счетчик действительно можно получить сравнительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Gaszähler hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Газовый счетчик меня очень раздражал, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Heizkostenverteiler, die Heizkostenverteiler",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Распределитель затрат на отопление",
+      "translation_en": "Heating cost allocator",
+      "examples": [
+        {
+          "de": "Im Formular muss der Heizkostenverteiler angegeben werden.",
+          "ru": "В форме необходимо указать распределителя затрат на тепло."
+        },
+        {
+          "de": "Für den Umzug ist der Heizkostenverteiler besonders wichtig.",
+          "ru": "Распределитель затрат на отопление особенно важен при переезде."
+        },
+        {
+          "de": "Ohne den Heizkostenverteiler können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать вашу заявку без распределителя затрат на отопление."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Heizkostenverteiler eigentlich relativ schnell.",
+          "ru": "В нашем регионе вы действительно можете относительно быстро получить распределитель затрат на отопление.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Heizkostenverteiler warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Распределителя расходов на отопление пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Heizungsanlage, die Heizungsanlagen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Система отопления",
+      "translation_en": "Heating system",
+      "examples": [
+        {
+          "de": "die Heizungsanlage wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Систему отопления обслуживал ответственный специалист."
+        },
+        {
+          "de": "Im Formular muss die Heizungsanlage angegeben werden.",
+          "ru": "В форме должна быть указана система отопления."
+        },
+        {
+          "de": "Ohne die Heizungsanlage können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать вашу заявку без системы отопления."
+        },
+        {
+          "de": "Das mit der Heizungsanlage hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала система отопления, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Heizungsanlage eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро получить систему отопления.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Warmwasserversorgung, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Горячее водоснабжение",
+      "translation_en": "Hot water supply",
+      "examples": [
+        {
+          "de": "die Warmwasserversorgung wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Подачу горячей воды осуществлял ответственный служащий."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Warmwasserversorgung vorlegen.",
+          "ru": "Пришлось предъявить горячее водоснабжение в гражданскую комиссию."
+        },
+        {
+          "de": "Im Formular muss die Warmwasserversorgung angegeben werden.",
+          "ru": "В форме необходимо указать горячее водоснабжение."
+        },
+        {
+          "de": "Ich musste ewig auf die Warmwasserversorgung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось целую вечность ждать, пока подадут горячую воду, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Warmwasserversorgung brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, горячее водоснабжение при переоформлении вам обязательно понадобится.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Boiler, die Boiler",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "котел",
+      "translation_en": "boiler",
+      "examples": [
+        {
+          "de": "Der Vermieter hat den Boiler rechtzeitig eingereicht.",
+          "ru": "Хозяин сдал котел вовремя."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Boiler.",
+          "ru": "Медицинская страховка покрывает расходы на котел."
+        },
+        {
+          "de": "Die Behörde hat den Boiler innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал котел в течение двух недель."
+        },
+        {
+          "de": "Also, den Boiler brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, котел вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Boiler eigentlich relativ schnell.",
+          "ru": "В наших краях котел действительно можно приобрести сравнительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Durchlauferhitzer, die Durchlauferhitzer",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Проточный водонагреватель",
+      "translation_en": "Instantaneous water heater",
+      "examples": [
+        {
+          "de": "Der Vermieter hat den Durchlauferhitzer rechtzeitig eingereicht.",
+          "ru": "Хозяин сдал водонагреватель вовремя."
+        },
+        {
+          "de": "der Durchlauferhitzer wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "водонагреватель обработал ответственный служащий."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Durchlauferhitzer.",
+          "ru": "Медицинская страховка покрывает расходы на водонагреватель."
+        },
+        {
+          "de": "Tipp: den Durchlauferhitzer immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию проточного водонагревателя.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Durchlauferhitzer hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражал проточный водонагреватель, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Wasserschaden, die Wasserschäden",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Повреждение водой",
+      "translation_en": "Water damage",
+      "examples": [
+        {
+          "de": "Beim Bürgeramt musste ich den Wasserschaden vorlegen.",
+          "ru": "Мне пришлось сообщить о повреждении водой в гражданскую канцелярию."
+        },
+        {
+          "de": "Für den Umzug ist der Wasserschaden besonders wichtig.",
+          "ru": "Повреждение водой особенно важно при движении."
+        },
+        {
+          "de": "der Wasserschaden wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Устранением ущерба, причиненного водой, занимался ответственный клерк."
+        },
+        {
+          "de": "Das mit dem Wasserschaden hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Ситуация с ущербом от воды меня очень раздражала, бюрократия здесь безумная.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Wasserschaden brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, порча воды вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Rohrbruch, die Rohrbrüche",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Разрыв трубы",
+      "translation_en": "Burst pipe",
+      "examples": [
+        {
+          "de": "Beim Bürgeramt musste ich den Rohrbruch vorlegen.",
+          "ru": "Пришлось предъявить прорванную трубу в гражданскую прокуратуру."
+        },
+        {
+          "de": "Im Formular muss der Rohrbruch angegeben werden.",
+          "ru": "Разрыв трубы должен быть указан в форме."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie den Rohrbruch im Original.",
+          "ru": "Для регистрации вам понадобится оригинал сломанной трубы."
+        },
+        {
+          "de": "Das mit dem Rohrbruch hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с лопнувшей трубой, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Rohrbruch warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось ждать вечность, пока труба лопнет, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Schimmelpilz, die Schimmelpilze",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Форма",
+      "translation_en": "Mold",
+      "examples": [
+        {
+          "de": "Der Vermieter hat den Schimmelpilz rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно подал претензию по поводу плесени."
+        },
+        {
+          "de": "Für den Umzug ist der Schimmelpilz besonders wichtig.",
+          "ru": "Плесень особенно важна при переезде."
+        },
+        {
+          "de": "Im Formular muss der Schimmelpilz angegeben werden.",
+          "ru": "В форме необходимо указать форму."
+        },
+        {
+          "de": "Tipp: den Schimmelpilz immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда носите с собой копию формы, лучше перестраховаться, чем потом потом сожалеть.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Schimmelpilz eigentlich relativ schnell.",
+          "ru": "В наших краях плесень появляется довольно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Schimmelbefall, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Заражение плесенью",
+      "translation_en": "Mold infestation",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie den Schimmelbefall zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием плесень."
+        },
+        {
+          "de": "Der Vermieter hat den Schimmelbefall rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно сообщил о заражении плесенью."
+        },
+        {
+          "de": "Für den Umzug ist der Schimmelbefall besonders wichtig.",
+          "ru": "Заражение плесенью особенно важно при переезде."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Schimmelbefall eigentlich relativ schnell.",
+          "ru": "В нашем регионе заражение плесенью происходит сравнительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Schimmelbefall warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Пришлось ждать появления плесени целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Belüftung, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "вентиляция",
+      "translation_en": "ventilation",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie die Belüftung zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой аппарат искусственной вентиляции легких на прием."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Belüftung im Original.",
+          "ru": "Для регистрации нужна оригинальная вентиляция."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Belüftung.",
+          "ru": "Медицинская страховка покрывает расходы на вентиляцию."
+        },
+        {
+          "de": "Ich musste ewig auf die Belüftung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "ИВЛ пришлось ждать вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Belüftung brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, проветривание при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Lüftungsverhalten, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Поведение вентиляции",
+      "translation_en": "Ventilation behavior",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie das Lüftungsverhalten zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием требования к вентиляции."
+        },
+        {
+          "de": "Im Formular muss das Lüftungsverhalten angegeben werden.",
+          "ru": "Режим вентиляции должен быть указан в форме."
+        },
+        {
+          "de": "Der Vermieter hat das Lüftungsverhalten rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно предоставил информацию о состоянии вентиляции."
+        },
+        {
+          "de": "Ich musste ewig auf das Lüftungsverhalten warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось целую вечность ждать, пока заработает вентиляция, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Lüftungsverhalten brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, вам обязательно понадобится поведение вентиляции при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Stoßlüftung, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Шоковая вентиляция",
+      "translation_en": "Shock ventilation",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Stoßlüftung innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали экстренную вентиляцию в течение двух недель."
+        },
+        {
+          "de": "Für den Umzug ist die Stoßlüftung besonders wichtig.",
+          "ru": "Шоковая вентиляция особенно важна при движении."
+        },
+        {
+          "de": "Der Vermieter hat die Stoßlüftung rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно предоставил аварийную вентиляцию."
+        },
+        {
+          "de": "Also, die Stoßlüftung brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Так что, шоковая вентиляция вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Stoßlüftung eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро получить шоковую вентиляцию.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Stoßlüften, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Шоковая вентиляция",
+      "translation_en": "Shock ventilation",
+      "examples": [
+        {
+          "de": "das Stoßlüften wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Шоковую вентиляцию проводил ответственный служащий."
+        },
+        {
+          "de": "Die Behörde hat das Stoßlüften innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали шоковую вентиляцию легких в течение двух недель."
+        },
+        {
+          "de": "Für den Umzug ist das Stoßlüften besonders wichtig.",
+          "ru": "Шоковая вентиляция особенно важна при движении."
+        },
+        {
+          "de": "Also, das Stoßlüften brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, шоковая вентиляция легких при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Stoßlüften hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Шоковая вентиляция меня очень раздражала, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kehrwoche, die Kehrwochen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Широкая неделя",
+      "translation_en": "Sweeping week",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie die Kehrwoche im Original.",
+          "ru": "Для регистрации вам понадобится оригинальная подметальная неделя."
+        },
+        {
+          "de": "Bitte bringen Sie die Kehrwoche zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием уборочную неделю."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Kehrwoche.",
+          "ru": "Медицинская страховка покрывает расходы на уборочную неделю."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Kehrwoche eigentlich relativ schnell.",
+          "ru": "В нашем районе вы действительно можете получить подметающую неделю относительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: die Kehrwoche immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда носите с собой копию отчета о подметании за неделю.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Winterdienst, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Зимнее обслуживание",
+      "translation_en": "Winter service",
+      "examples": [
+        {
+          "de": "Die Behörde hat den Winterdienst innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали зимнюю службу в течение двух недель."
+        },
+        {
+          "de": "Für den Umzug ist der Winterdienst besonders wichtig.",
+          "ru": "Зимнее обслуживание особенно важно при переезде."
+        },
+        {
+          "de": "Ohne den Winterdienst können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать вашу заявку без зимнего обслуживания."
+        },
+        {
+          "de": "Ich musste ewig auf den Winterdienst warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Зимней службы пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Winterdienst hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Зимняя служба меня очень раздражала, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Schneeräumung, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Уборка снега",
+      "translation_en": "Snow removal",
+      "examples": [
+        {
+          "de": "Der Vermieter hat die Schneeräumung rechtzeitig eingereicht.",
+          "ru": "Арендодатель выполнил уборку снега вовремя."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Schneeräumung vorlegen.",
+          "ru": "Мне пришлось предъявить снегоуборочную комиссию."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Schneeräumung.",
+          "ru": "Медицинская страховка покрывает расходы на уборку снега."
+        },
+        {
+          "de": "Ich musste ewig auf die Schneeräumung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось ждать вечно, пока расчистят снег, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Schneeräumung brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, уборка снега при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Streudienst, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Распространение услуг",
+      "translation_en": "Spreading service",
+      "examples": [
+        {
+          "de": "Die Behörde hat den Streudienst innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали услугу по шлифовке в течение двух недель."
+        },
+        {
+          "de": "Im Formular muss der Streudienst angegeben werden.",
+          "ru": "В форме должна быть указана услуга по распространению."
+        },
+        {
+          "de": "Bitte bringen Sie den Streudienst zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием шлифовальную машину."
+        },
+        {
+          "de": "Also, den Streudienst brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, услуга шлифовки вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Streudienst warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось ждать вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Mülleimer, die Mülleimer",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "Мусорное ведро",
+      "translation_en": "Trash can",
+      "examples": [
+        {
+          "de": "Für den Umzug ist der Mülleimer besonders wichtig.",
+          "ru": "Мусорный бак особенно важен при переезде."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich den Mülleimer vorlegen.",
+          "ru": "Пришлось предъявить мусорное ведро в гражданскую канцелярию."
+        },
+        {
+          "de": "Die Behörde hat den Mülleimer innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали мусорное ведро в течение двух недель."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Mülleimer eigentlich relativ schnell.",
+          "ru": "В наших краях мусорное ведро действительно можно получить сравнительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Mülleimer warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мусорное ведро мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Biotonne, die Biotonnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Био мусорное ведро",
+      "translation_en": "Bio bin",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Biotonne innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали контейнер для органических отходов в течение двух недель."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Biotonne vorlegen.",
+          "ru": "Мне пришлось предъявить контейнер для органических отходов в городской администрации."
+        },
+        {
+          "de": "Der Vermieter hat die Biotonne rechtzeitig eingereicht.",
+          "ru": "Арендодатель сдал контейнер для органических отходов вовремя."
+        },
+        {
+          "de": "Das mit der Biotonne hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с урной для органических отходов, бюрократия здесь безумная.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Biotonne brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, контейнер для органических отходов вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Papiertonne, die Papiertonnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Корзина для бумаги",
+      "translation_en": "Paper bin",
+      "examples": [
+        {
+          "de": "Im Formular muss die Papiertonne angegeben werden.",
+          "ru": "Контейнер для бумаги должен быть указан в форме."
+        },
+        {
+          "de": "Bitte bringen Sie die Papiertonne zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием корзину для бумаги."
+        },
+        {
+          "de": "Die Behörde hat die Papiertonne innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали корзину для бумаги в течение двух недель."
+        },
+        {
+          "de": "Das mit der Papiertonne hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала корзина для бумаг, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Papiertonne warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Корзину с бумагами мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Restmülltonne, die Restmülltonnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "контейнер для остаточных отходов",
+      "translation_en": "residual waste bin",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Restmülltonne.",
+          "ru": "Медицинская страховка покрывает расходы на мусорный бак."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Restmülltonne vorlegen.",
+          "ru": "Мне пришлось предъявить мусорный бак в Управлении по делам граждан."
+        },
+        {
+          "de": "Für den Umzug ist die Restmülltonne besonders wichtig.",
+          "ru": "Контейнер для остаточного мусора особенно важен при переезде."
+        },
+        {
+          "de": "Also, die Restmülltonne brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, корзина для мусора вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Restmülltonne eigentlich relativ schnell.",
+          "ru": "В нашем районе вы действительно можете получить контейнер для мусора относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Wertstoffsack, die Wertstoffsäcke",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "мешок для переработки",
+      "translation_en": "recycling bag",
+      "examples": [
+        {
+          "de": "Beim Bürgeramt musste ich den Wertstoffsack vorlegen.",
+          "ru": "Мне пришлось предъявить пакет для переработки в офисе граждан."
+        },
+        {
+          "de": "Im Formular muss der Wertstoffsack angegeben werden.",
+          "ru": "В форме необходимо указать мешок для переработки."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Wertstoffsack.",
+          "ru": "Медицинская страховка покрывает стоимость мешка для переработки."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Wertstoffsack eigentlich relativ schnell.",
+          "ru": "В нашем районе вы можете получить мешок для вторичной переработки относительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Wertstoffsack warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Пакет для переработки мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Sperrmüllabmeldung, die Abmeldungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Регистрация крупногабаритных отходов",
+      "translation_en": "Bulky waste registration",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Sperrmüllabmeldung.",
+          "ru": "Медицинская страховка покрывает расходы на снятие с учета крупногабаритных отходов."
+        },
+        {
+          "de": "Der Vermieter hat die Sperrmüllabmeldung rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно подал декларацию о крупногабаритном мусоре."
+        },
+        {
+          "de": "Bitte bringen Sie die Sperrmüllabmeldung zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием декларацию о крупногабаритных отходах."
+        },
+        {
+          "de": "Tipp: die Sperrmüllabmeldung immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда имейте при себе копию декларации об объемных отходах. Лучше перестраховаться, чем потом сожалеть.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Sperrmüllabmeldung eigentlich relativ schnell.",
+          "ru": "В наших краях декларацию на крупногабаритные отходы можно получить сравнительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Müllgebühren, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Плата за вывоз мусора",
+      "translation_en": "Garbage fees",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Müllgebühren.",
+          "ru": "Медицинская страховка покрывает расходы на вывоз мусора."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Müllgebühren vorlegen.",
+          "ru": "Мне пришлось предъявить плату за вывоз мусора в офис граждан."
+        },
+        {
+          "de": "die Müllgebühren wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Плата за вывоз мусора была обработана ответственным клерком."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Müllgebühren eigentlich relativ schnell.",
+          "ru": "В нашем районе плата за вывоз мусора взимается сравнительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Müllgebühren hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала плата за вывоз мусора, бюрократия здесь безумная.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Haustür, die Haustüren",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "Входная дверь",
+      "translation_en": "Front door",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie die Haustür zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием входную дверь."
+        },
+        {
+          "de": "Im Formular muss die Haustür angegeben werden.",
+          "ru": "В форме необходимо указать входную дверь."
+        },
+        {
+          "de": "Der Vermieter hat die Haustür rechtzeitig eingereicht.",
+          "ru": "Арендодатель сдал входную дверь вовремя."
+        },
+        {
+          "de": "Tipp: die Haustür immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда имейте при себе копию входной двери, лучше перестраховаться.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Haustür brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, входная дверь вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Treppenhaus, die Treppenhäuser",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Лестница",
+      "translation_en": "Staircase",
+      "examples": [
+        {
+          "de": "Die Behörde hat das Treppenhaus innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали лестницу в течение двух недель."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für das Treppenhaus.",
+          "ru": "Медицинская страховка покрывает расходы на лестничную клетку."
+        },
+        {
+          "de": "Für den Umzug ist das Treppenhaus besonders wichtig.",
+          "ru": "Лестничная клетка особенно важна при переезде."
+        },
+        {
+          "de": "Tipp: das Treppenhaus immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда имейте при себе копию лестницы, лучше перестраховаться.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf das Treppenhaus warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Подъезда мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Flur, die Flure",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "Прихожая",
+      "translation_en": "Hallway",
+      "examples": [
+        {
+          "de": "Die Behörde hat den Flur innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали коридор в течение двух недель."
+        },
+        {
+          "de": "Der Vermieter hat den Flur rechtzeitig eingereicht.",
+          "ru": "Хозяин сдал коридор в срок."
+        },
+        {
+          "de": "Für den Umzug ist der Flur besonders wichtig.",
+          "ru": "Прихожая особенно важна при переезде."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Flur eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро добраться до прихожей.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Flur brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, прихожая вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Kellerraum, die Kellerräume",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Подвальное помещение",
+      "translation_en": "Basement room",
+      "examples": [
+        {
+          "de": "Im Formular muss der Kellerraum angegeben werden.",
+          "ru": "В форме необходимо указать подвальное помещение."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie den Kellerraum im Original.",
+          "ru": "Для регистрации вам понадобится оригинальное подвальное помещение."
+        },
+        {
+          "de": "Für den Umzug ist der Kellerraum besonders wichtig.",
+          "ru": "Подвальное помещение особенно важно при переезде."
+        },
+        {
+          "de": "Tipp: den Kellerraum immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию подвальной комнаты.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Kellerraum warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Подвальную комнату мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Kellerabteil, die Kellerabteile",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Подвальное отделение",
+      "translation_en": "Basement compartment",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie das Kellerabteil zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием подвальное помещение."
+        },
+        {
+          "de": "Für den Umzug ist das Kellerabteil besonders wichtig.",
+          "ru": "Подвальное помещение особенно важно при переезде."
+        },
+        {
+          "de": "Der Vermieter hat das Kellerabteil rechtzeitig eingereicht.",
+          "ru": "Хозяин сдал подвальное помещение в срок."
+        },
+        {
+          "de": "Ich musste ewig auf das Kellerabteil warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Подвальное отделение мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: das Kellerabteil immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию подвального отделения.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Mansarde, die Mansarden",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "мансарда",
+      "translation_en": "mansard",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie die Mansarde im Original.",
+          "ru": "Для регистрации вам понадобится оригинальный чердак."
+        },
+        {
+          "de": "Die Behörde hat die Mansarde innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти оформили чердак в течение двух недель."
+        },
+        {
+          "de": "Bitte bringen Sie die Mansarde zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите мансарду с собой на встречу."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Mansarde eigentlich relativ schnell.",
+          "ru": "В наших краях получить чердак действительно можно относительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: die Mansarde immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию чердака.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Mietpreisüberhöhung, die Mietpreisüberhöhungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Повышение арендной платы",
+      "translation_en": "Rent increase",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Mietpreisüberhöhung innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти объявили о повышении арендной платы в течение двух недель."
+        },
+        {
+          "de": "Im Formular muss die Mietpreisüberhöhung angegeben werden.",
+          "ru": "В форме необходимо указать увеличение стоимости аренды."
+        },
+        {
+          "de": "Der Vermieter hat die Mietpreisüberhöhung rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно представил информацию о повышении арендной платы."
+        },
+        {
+          "de": "Das mit der Mietpreisüberhöhung hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Повышение арендной платы меня очень расстроило, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Mietpreisüberhöhung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось вечно ждать повышения арендной платы; это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Eigenbedarfskündigung, die Eigenbedarfskündigungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Отмена для личного использования",
+      "translation_en": "Cancellation for personal use",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie die Eigenbedarfskündigung zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием уведомление о личном использовании."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Eigenbedarfskündigung.",
+          "ru": "Медицинская страховка покрывает расходы на прекращение медицинского страхования в личных целях."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Eigenbedarfskündigung vorlegen.",
+          "ru": "Мне пришлось предъявить уведомление об увольнении для личного пользования в Управление по делам граждан."
+        },
+        {
+          "de": "Tipp: die Eigenbedarfskündigung immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию уведомления о прекращении действия для личного использования.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Eigenbedarfskündigung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Отмены личного пользования пришлось ждать вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Untermietvereinbarung, die Untermietvereinbarungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Договор субаренды",
+      "translation_en": "Sublease agreement",
+      "examples": [
+        {
+          "de": "Im Formular muss die Untermietvereinbarung angegeben werden.",
+          "ru": "В форме должен быть указан договор субаренды."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Untermietvereinbarung.",
+          "ru": "Медицинская страховка покрывает расходы по договору субаренды."
+        },
+        {
+          "de": "Bitte bringen Sie die Untermietvereinbarung zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием договор субаренды."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Untermietvereinbarung eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро получить договор субаренды.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Untermietvereinbarung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Договор субаренды пришлось ждать вечно; это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Hausgemeinschaftsordnung, die Hausgemeinschaftsordnung",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Правила домашнего сообщества",
+      "translation_en": "House community rules",
+      "examples": [
+        {
+          "de": "die Hausgemeinschaftsordnung wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Регламент жилищного сообщества оформлял ответственный секретарь."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Hausgemeinschaftsordnung vorlegen.",
+          "ru": "Пришлось предъявлять в горсовет правила жилищного хозяйства."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Hausgemeinschaftsordnung.",
+          "ru": "Медицинская страховка покрывает расходы, связанные с правилами совместного проживания в доме."
+        },
+        {
+          "de": "Tipp: die Hausgemeinschaftsordnung immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда носите с собой копию правил внутреннего распорядка дома.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Hausgemeinschaftsordnung brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, правила домашнего сообщества вам обязательно понадобятся при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Tiefgaragenstellplatz, die Tiefgaragenstellplätze",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Подземное парковочное место",
+      "translation_en": "Underground parking space",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie den Tiefgaragenstellplatz zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием место на подземной парковке."
+        },
+        {
+          "de": "Ohne den Tiefgaragenstellplatz können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать вашу заявку без подземного парковочного места."
+        },
+        {
+          "de": "Die Behörde hat den Tiefgaragenstellplatz innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали подземное парковочное место в течение двух недель."
+        },
+        {
+          "de": "Ich musste ewig auf den Tiefgaragenstellplatz warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Место на подземной парковке пришлось ждать вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Tiefgaragenstellplatz hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала подземная парковка, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Einfahrt, die Einfahrten",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "вход",
+      "translation_en": "entrance",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie die Einfahrt zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием дорогу."
+        },
+        {
+          "de": "Im Formular muss die Einfahrt angegeben werden.",
+          "ru": "Вход необходимо указать в форме."
+        },
+        {
+          "de": "Die Behörde hat die Einfahrt innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали запись в течение двух недель."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Einfahrt eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро добраться до подъезда.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Einfahrt hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражал вход, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Innenhof, die Innenhöfe",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Двор",
+      "translation_en": "Courtyard",
+      "examples": [
+        {
+          "de": "Für den Umzug ist der Innenhof besonders wichtig.",
+          "ru": "Внутренний двор особенно важен для переезда."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie den Innenhof im Original.",
+          "ru": "Для регистрации необходим оригинал внутреннего двора."
+        },
+        {
+          "de": "Der Vermieter hat den Innenhof rechtzeitig eingereicht.",
+          "ru": "Хозяин сдал двор в срок."
+        },
+        {
+          "de": "Also, den Innenhof brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, двор вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Innenhof warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Двора пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Spielplatz, die Spielplätze",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "детская площадка",
+      "translation_en": "playground",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie den Spielplatz im Original.",
+          "ru": "Для регистрации вам понадобится оригинал игровой площадки."
+        },
+        {
+          "de": "der Spielplatz wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "игровую площадку обработал ответственный клерк."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Spielplatz.",
+          "ru": "Медицинская страховка покрывает расходы на игровую площадку."
+        },
+        {
+          "de": "Tipp: den Spielplatz immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию игровой площадки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Spielplatz hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала детская площадка, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Grünfläche, die Grünflächen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Зеленая зона",
+      "translation_en": "Green space",
+      "examples": [
+        {
+          "de": "Beim Bürgeramt musste ich die Grünfläche vorlegen.",
+          "ru": "Мне пришлось подарить зеленую зону горожанам."
+        },
+        {
+          "de": "Für den Umzug ist die Grünfläche besonders wichtig.",
+          "ru": "Зеленые зоны особенно важны для переезда."
+        },
+        {
+          "de": "Ohne die Grünfläche können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать вашу заявку без зеленой зоны."
+        },
+        {
+          "de": "Also, die Grünfläche brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, зеленая зона вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Grünfläche eigentlich relativ schnell.",
+          "ru": "В нашем районе действительно можно относительно быстро получить зеленые зоны.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Nachbarschaftsstreit, die Nachbarschaftsstreite",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Соседский спор",
+      "translation_en": "Neighborhood dispute",
+      "examples": [
+        {
+          "de": "Im Formular muss der Nachbarschaftsstreit angegeben werden.",
+          "ru": "Спор о соседстве должен быть указан в форме."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Nachbarschaftsstreit.",
+          "ru": "Медицинская страховка покрывает расходы, связанные с соседским спором."
+        },
+        {
+          "de": "Der Vermieter hat den Nachbarschaftsstreit rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно подал иск о соседстве."
+        },
+        {
+          "de": "Also, den Nachbarschaftsstreit brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, соседский спор вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Nachbarschaftsstreit warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось вечно ждать соседского спора, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Lärmpegel, die Lärmpegel",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Уровень шума",
+      "translation_en": "Noise level",
+      "examples": [
+        {
+          "de": "Ohne den Lärmpegel können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без уровня шума."
+        },
+        {
+          "de": "der Lärmpegel wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "уровнем шума занимался ответственный клерк."
+        },
+        {
+          "de": "Der Vermieter hat den Lärmpegel rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно сообщил об уровне шума."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Lärmpegel eigentlich relativ schnell.",
+          "ru": "В нашем районе уровень шума действительно снижается относительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Lärmpegel brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, вам обязательно нужно знать уровень шума при регистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Zimmerlautstärke, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Объем помещения",
+      "translation_en": "Room volume",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Zimmerlautstärke innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти опубликовали уровень шума в помещении в течение двух недель."
+        },
+        {
+          "de": "Bitte bringen Sie die Zimmerlautstärke zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием комнатный том."
+        },
+        {
+          "de": "Der Vermieter hat die Zimmerlautstärke rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно предоставил объем помещения."
+        },
+        {
+          "de": "Das mit der Zimmerlautstärke hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражал объем помещения, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Zimmerlautstärke eigentlich relativ schnell.",
+          "ru": "В нашем районе действительно можно относительно быстро увеличить объем помещения.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "anmieten",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "арендовать",
+      "translation_en": "rent",
+      "examples": [
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu anmieten.",
+          "ru": "Не забудьте взять напрокат медицинскую страховку."
+        },
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell anmieten.",
+          "ru": "Клерк смог быстро арендовать приложение."
+        },
+        {
+          "de": "Die Behörde hat beschlossen, das Verfahren zu anmieten.",
+          "ru": "Власти решили нанять процедуру."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig anmieten.",
+          "ru": "Да, действительно надо быть внимательным и правильно арендовать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu anmieten, aber machbar.",
+          "ru": "Ну, иногда арендовать не так-то просто, но вполне осуществимо.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "vermieten",
+      "part_of_speech": "Verb",
+      "level": "A2",
+      "translation_ru": "арендовать",
+      "translation_en": "rent",
+      "examples": [
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu vermieten.",
+          "ru": "Важно пропустить срок подачи налоговой декларации."
+        },
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell vermieten.",
+          "ru": "Свою заявку мне удалось быстро сдать в гражданском офисе."
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu vermieten.",
+          "ru": "Не забудьте взять напрокат медицинскую страховку."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu vermieten, aber machbar.",
+          "ru": "Ну, иногда арендовать не так-то просто, но вполне осуществимо.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig vermieten.",
+          "ru": "Да, действительно надо быть осторожным и правильно сдавать его в аренду.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "untervermieten",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "субаренда",
+      "translation_en": "sublet",
+      "examples": [
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell untervermieten.",
+          "ru": "Я смог быстро сдать свой запрос в субаренду в офисе граждан."
+        },
+        {
+          "de": "Sie müssen sich innerhalb von zwei Wochen beim Einwohnermeldeamt untervermieten.",
+          "ru": "Вы должны сдать в субаренду в отдел регистрации жильцов в течение двух недель."
+        },
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu untervermieten.",
+          "ru": "Важно сдать в субаренду срок подачи налоговой декларации."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu untervermieten, aber machbar.",
+          "ru": "Ну, иногда сдать в субаренду не так-то просто, но это можно сделать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu untervermieten.",
+          "ru": "Недавно я сам испытал это, когда пытался сдать в субаренду.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "lüften",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "проветривать",
+      "translation_en": "ventilate",
+      "examples": [
+        {
+          "de": "Beim Umzug muss man viele Formalitäten lüften.",
+          "ru": "При переезде придется уладить массу формальностей."
+        },
+        {
+          "de": "Die Behörde hat beschlossen, das Verfahren zu lüften.",
+          "ru": "Власти решили транслировать процедуру."
+        },
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu lüften.",
+          "ru": "Важно уточнить срок подачи налоговой декларации."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu lüften, aber machbar.",
+          "ru": "Ну, иногда проветрить не так-то просто, но можно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig lüften.",
+          "ru": "Да, просто нужно быть очень осторожным и правильно проветривать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "heizen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "нагревать",
+      "translation_en": "heat",
+      "examples": [
+        {
+          "de": "Die Behörde hat beschlossen, das Verfahren zu heizen.",
+          "ru": "Власти решили подогреть процесс."
+        },
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell heizen.",
+          "ru": "Сотрудник смог быстро обработать заявку."
+        },
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich heizen.",
+          "ru": "Арендатор обязан своевременно оплатить дополнительные расходы на отопление."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett heizen, das war anstrengend.",
+          "ru": "В конце концов нам пришлось снова все полностью нагревать, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich heizen.",
+          "ru": "Мой начальник всегда советует разогреть его как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "tapezieren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "обои",
+      "translation_en": "wallpaper",
+      "examples": [
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu tapezieren.",
+          "ru": "Важно обратить внимание на срок подачи налоговой декларации."
+        },
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell tapezieren.",
+          "ru": "Сотрудник смог быстро оформить заявку."
+        },
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell tapezieren.",
+          "ru": "Я смог быстро выразить свои опасения в офисе граждан."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich tapezieren.",
+          "ru": "Мой начальник всегда советует сделать это как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig tapezieren.",
+          "ru": "Да, действительно нужно быть осторожным и правильно наклеивать обои.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ausbessern",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "исправить",
+      "translation_en": "mend",
+      "examples": [
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell ausbessern.",
+          "ru": "Клерк смог быстро исправить заявку."
+        },
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell ausbessern.",
+          "ru": "Я смог быстро исправить свои опасения в офисе граждан."
+        },
+        {
+          "de": "Beim Umzug muss man viele Formalitäten ausbessern.",
+          "ru": "При переезде вам придется выполнить массу формальностей."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett ausbessern, das war anstrengend.",
+          "ru": "В итоге нам пришлось заново все полностью ремонтировать, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich ausbessern.",
+          "ru": "Мой начальник всегда говорит исправить это как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einziehen in",
+      "part_of_speech": "Verb",
+      "level": "A2",
+      "translation_ru": "переехать",
+      "translation_en": "move in",
+      "examples": [
+        {
+          "de": "Die Behörde hat beschlossen, das Verfahren zu einziehen in.",
+          "ru": "Власти решили продолжить разбирательство."
+        },
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich einziehen in.",
+          "ru": "Арендатор должен своевременно покрыть дополнительные расходы."
+        },
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu einziehen in.",
+          "ru": "Важно уложиться в срок подачи налоговой декларации."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich einziehen in.",
+          "ru": "Мой босс всегда говорит, чтобы я пришёл как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu einziehen in.",
+          "ru": "Недавно я сам испытал это, когда пытался переехать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "räumen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "прозрачный",
+      "translation_en": "clear",
+      "examples": [
+        {
+          "de": "Beim Umzug muss man viele Formalitäten räumen.",
+          "ru": "При переезде вам придется уладить массу формальностей."
+        },
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich räumen.",
+          "ru": "Арендатор должен вовремя освободить дополнительные расходы."
+        },
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu räumen.",
+          "ru": "Важно соблюдать сроки подачи налоговой декларации."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu räumen, aber machbar.",
+          "ru": "Что ж, иногда это не так-то просто очистить, но это можно сделать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett räumen, das war anstrengend.",
+          "ru": "В конце концов нам пришлось полностью все вычищать заново, что было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "beziehen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "иметь отношение к",
+      "translation_en": "relate",
+      "examples": [
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu beziehen.",
+          "ru": "Не забудьте получить медицинскую страховку."
+        },
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell beziehen.",
+          "ru": "Сотрудник смог быстро принять заявку."
+        },
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu beziehen.",
+          "ru": "Важно помнить о сроках подачи налоговой декларации."
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett beziehen, das war anstrengend.",
+          "ru": "В конце концов нам пришлось переносить все заново, что было утомительно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu beziehen.",
+          "ru": "Недавно я сам испытал это, когда пытался переехать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ausziehen aus",
+      "part_of_speech": "Verb",
+      "level": "A2",
+      "translation_ru": "взлетать с",
+      "translation_en": "take off from",
+      "examples": [
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell ausziehen aus.",
+          "ru": "Я смог быстро выразить свою обеспокоенность в офисе граждан."
+        },
+        {
+          "de": "Beim Umzug muss man viele Formalitäten ausziehen aus.",
+          "ru": "При переезде придется пройти массу формальностей."
+        },
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich ausziehen aus.",
+          "ru": "Арендатор должен оплатить дополнительные расходы, чтобы выехать вовремя."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich ausziehen aus.",
+          "ru": "Мой начальник всегда говорит снять его как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu ausziehen aus.",
+          "ru": "Недавно я сам испытал это, когда пытался переехать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "umziehen nach",
+      "part_of_speech": "Verb",
+      "level": "A2",
+      "translation_ru": "переехать в",
+      "translation_en": "move to",
+      "examples": [
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell umziehen nach.",
+          "ru": "Сотрудник смог быстро перенести заявку."
+        },
+        {
+          "de": "Die Behörde hat beschlossen, das Verfahren zu umziehen nach.",
+          "ru": "Власти решили перенести процедуру в ."
+        },
+        {
+          "de": "Beim Umzug muss man viele Formalitäten umziehen nach.",
+          "ru": "При переезде придется пройти массу формальностей."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu umziehen nach, aber machbar.",
+          "ru": "Что ж, иногда переехать не так-то просто, но вполне осуществимо.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu umziehen nach.",
+          "ru": "Недавно я сам испытал это, когда пытался переехать в .",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "putzen",
+      "part_of_speech": "Verb",
+      "level": "A2",
+      "translation_ru": "уборка",
+      "translation_en": "cleaning",
+      "examples": [
+        {
+          "de": "Beim Umzug muss man viele Formalitäten putzen.",
+          "ru": "При переезде придется уладить массу формальностей."
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu putzen.",
+          "ru": "Не забудьте почистить свою медицинскую страховку."
+        },
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell putzen.",
+          "ru": "Клерк смог быстро очистить приложение."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich putzen.",
+          "ru": "Мой начальник всегда советует почистить его как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig putzen.",
+          "ru": "Да, действительно нужно быть осторожным и правильно его чистить.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "kehren",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "мести",
+      "translation_en": "sweep",
+      "examples": [
+        {
+          "de": "Sie müssen sich innerhalb von zwei Wochen beim Einwohnermeldeamt kehren.",
+          "ru": "Вам необходимо обратиться в отдел регистрации жильцов в течение двух недель."
+        },
+        {
+          "de": "Die Behörde hat beschlossen, das Verfahren zu kehren.",
+          "ru": "Власти решили отменить процедуру."
+        },
+        {
+          "de": "Beim Umzug muss man viele Formalitäten kehren.",
+          "ru": "При переезде придется пройти массу формальностей."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu kehren.",
+          "ru": "Недавно я сам испытал это, когда пытался подмести.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich kehren.",
+          "ru": "Мой босс всегда советует подмести это как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "schneiden",
+      "part_of_speech": "Verb",
+      "level": "A2",
+      "translation_ru": "резать",
+      "translation_en": "cut",
+      "examples": [
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell schneiden.",
+          "ru": "Я смог быстро решить свои проблемы в офисе граждан."
+        },
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich schneiden.",
+          "ru": "Арендатор должен вовремя сократить дополнительные расходы."
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu schneiden.",
+          "ru": "Не забудьте сократить свою медицинскую страховку."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig schneiden.",
+          "ru": "Да, просто нужно быть очень осторожным и правильно резать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu schneiden.",
+          "ru": "Недавно я сам испытал это, когда пытался резать.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "möbliert",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "меблированный",
+      "translation_en": "furnished",
+      "examples": [
+        {
+          "de": "Eine möbliert Wohnung in guter Lage zu finden ist nicht einfach.",
+          "ru": "Найти меблированную квартиру в хорошем месте непросто."
+        },
+        {
+          "de": "Der bürokratische Prozess war überraschend möbliert.",
+          "ru": "Бюрократический процесс был на удивление обустроен."
+        },
+        {
+          "de": "Der Termin beim Arzt war erstaunlich möbliert zu bekommen.",
+          "ru": "Приём к врачу был на удивление обставлен."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich möbliert, muss man ehrlich sagen.",
+          "ru": "Да, он вполне обставлен, если честно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total möbliert, hat mir echt geholfen.",
+          "ru": "Он был полностью меблирован и очень мне помог.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "teilmöbliert",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "частично меблированный",
+      "translation_en": "partially furnished",
+      "examples": [
+        {
+          "de": "Eine teilmöbliert Wohnung in guter Lage zu finden ist nicht einfach.",
+          "ru": "Найти частично меблированную квартиру в хорошем месте непросто."
+        },
+        {
+          "de": "Die Qualität des ÖPNV in dieser Stadt ist teilmöbliert.",
+          "ru": "Качество общественного транспорта в этом городе частично обустроено."
+        },
+        {
+          "de": "Die Nachbarschaft ist teilmöbliert und angenehm.",
+          "ru": "Район частично меблирован и приятен."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich teilmöbliert, das hat mich überrascht.",
+          "ru": "Ну, думаю, результат действительно частично обставлен, что меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher teilmöbliert, als man zunächst denkt.",
+          "ru": "По моему опыту, скорее всего, оно будет частично меблировано, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "unmöbliert",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "без мебели",
+      "translation_en": "unfurnished",
+      "examples": [
+        {
+          "de": "Eine unmöbliert Erledigung des Antrags ist wünschenswert.",
+          "ru": "Желательно, чтобы заявление было заполнено без оформления."
+        },
+        {
+          "de": "Die Bearbeitungszeit war unmöbliert lang.",
+          "ru": "Сроки обработки долгое время не были указаны."
+        },
+        {
+          "de": "Die Qualität des ÖPNV in dieser Stadt ist unmöbliert.",
+          "ru": "Качество общественного транспорта в этом городе неудовлетворительное."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich unmöbliert, das hat mich überrascht.",
+          "ru": "Ну, думаю, результат действительно без мебели, что меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher unmöbliert, als man zunächst denkt.",
+          "ru": "По моему опыту, здесь меньше мебели, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "hell",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "яркий",
+      "translation_en": "bright",
+      "examples": [
+        {
+          "de": "Die Bearbeitungszeit war hell lang.",
+          "ru": "Время обработки было очень долгим."
+        },
+        {
+          "de": "Der bürokratische Prozess war überraschend hell.",
+          "ru": "Бюрократический процесс оказался на удивление легким."
+        },
+        {
+          "de": "Eine hell Erledigung des Antrags ist wünschenswert.",
+          "ru": "Желательно, чтобы заявка была оформлена оперативно."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich hell, muss man ehrlich sagen.",
+          "ru": "Да, это довольно умно, если честно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total hell, hat mir echt geholfen.",
+          "ru": "Это было действительно ярко и очень помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "verkehrsgünstig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "удобно транспортируется",
+      "translation_en": "conveniently transported",
+      "examples": [
+        {
+          "de": "Der bürokratische Prozess war überraschend verkehrsgünstig.",
+          "ru": "Бюрократический процесс оказался на удивление упрощенным."
+        },
+        {
+          "de": "Eine verkehrsgünstig Wohnung in guter Lage zu finden ist nicht einfach.",
+          "ru": "Найти удобно расположенную квартиру в хорошем месте непросто."
+        },
+        {
+          "de": "Die Qualität des ÖPNV in dieser Stadt ist verkehrsgünstig.",
+          "ru": "Качество общественного транспорта в этом городе удобное."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich verkehrsgünstig, muss man ehrlich sagen.",
+          "ru": "Да, это довольно удобно, надо быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht verkehrsgünstig, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться удобным, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "geräumig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "просторный",
+      "translation_en": "spacious",
+      "examples": [
+        {
+          "de": "Das Serviceangebot der Behörde ist leider wenig geräumig.",
+          "ru": "К сожалению, услуги, предлагаемые властями, не очень обширны."
+        },
+        {
+          "de": "Eine geräumig Erledigung des Antrags ist wünschenswert.",
+          "ru": "Желательно своевременное оформление заявки."
+        },
+        {
+          "de": "Die Nachbarschaft ist geräumig und angenehm.",
+          "ru": "Район просторный и приятный."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich geräumig, muss man ehrlich sagen.",
+          "ru": "Да, он довольно просторный, если честно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht geräumig, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться просторным, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "sanierungsbedürftig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "нуждается в ремонте",
+      "translation_en": "in need of renovation",
+      "examples": [
+        {
+          "de": "Der Termin beim Arzt war erstaunlich sanierungsbedürftig zu bekommen.",
+          "ru": "Прием врача на удивление нуждался в ремонте."
+        },
+        {
+          "de": "Eine sanierungsbedürftig Erledigung des Antrags ist wünschenswert.",
+          "ru": "Желательно, чтобы приложение было заполнено, требующее ремонта."
+        },
+        {
+          "de": "Der bürokratische Prozess war überraschend sanierungsbedürftig.",
+          "ru": "Бюрократический процесс неожиданно нуждался в реструктуризации."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht sanierungsbedürftig, aber in der Praxis ist es anders.",
+          "ru": "Что ж, может показаться, что это требует ремонта, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich sanierungsbedürftig, das hat mich überrascht.",
+          "ru": "Что ж, думаю, результат действительно нуждается в доработке, что меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "renoviert",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "отремонтированный",
+      "translation_en": "renovated",
+      "examples": [
+        {
+          "de": "Der bürokratische Prozess war überraschend renoviert.",
+          "ru": "Бюрократический процесс неожиданно обновился."
+        },
+        {
+          "de": "Eine renoviert Wohnung in guter Lage zu finden ist nicht einfach.",
+          "ru": "Найти квартиру с ремонтом в хорошем месте непросто."
+        },
+        {
+          "de": "Die Nachbarschaft ist renoviert und angenehm.",
+          "ru": "Район отремонтирован и приятен."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich renoviert, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно обновлен, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht renoviert, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться обновленным, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "luxuriös",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "роскошный",
+      "translation_en": "luxurious",
+      "examples": [
+        {
+          "de": "Der Termin beim Arzt war erstaunlich luxuriös zu bekommen.",
+          "ru": "Попасть на прием к врачу оказалось на удивление роскошным."
+        },
+        {
+          "de": "Die Qualität des ÖPNV in dieser Stadt ist luxuriös.",
+          "ru": "Качество общественного транспорта в этом городе роскошное."
+        },
+        {
+          "de": "Der bürokratische Prozess war überraschend luxuriös.",
+          "ru": "Бюрократический процесс был на удивление роскошным."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht luxuriös, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать роскошно, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher luxuriös, als man zunächst denkt.",
+          "ru": "По моему опыту, это более роскошно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "bezugsfrei",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "бесплатно",
+      "translation_en": "free of charge",
+      "examples": [
+        {
+          "de": "Eine bezugsfrei Erledigung des Antrags ist wünschenswert.",
+          "ru": "Желательно, чтобы заявление было заполнено без каких-либо занятий."
+        },
+        {
+          "de": "Der Termin beim Arzt war erstaunlich bezugsfrei zu bekommen.",
+          "ru": "На прием к врачу попасть было удивительно легко."
+        },
+        {
+          "de": "Der bürokratische Prozess war überraschend bezugsfrei.",
+          "ru": "Бюрократический процесс оказался на удивление несвязанным."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht bezugsfrei, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может показаться несущественным, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher bezugsfrei, als man zunächst denkt.",
+          "ru": "По моему опыту, это более несвязанно, чем вы можете подумать на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "bezugsfertig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "готов к заселению",
+      "translation_en": "ready for occupancy",
+      "examples": [
+        {
+          "de": "Die Nachbarschaft ist bezugsfertig und angenehm.",
+          "ru": "Район готов к заселению и приятный."
+        },
+        {
+          "de": "Eine bezugsfertig Erledigung des Antrags ist wünschenswert.",
+          "ru": "Желательно, чтобы заявка была заполнена и готова к заселению."
+        },
+        {
+          "de": "Das Serviceangebot der Behörde ist leider wenig bezugsfertig.",
+          "ru": "К сожалению, спектр услуг органа не очень готов к использованию."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher bezugsfertig, als man zunächst denkt.",
+          "ru": "По моему опыту, это более готово к заселению, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich bezugsfertig, muss man ehrlich sagen.",
+          "ru": "Да, он почти готов к заселению, честно говоря.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "hellhörig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "тревога",
+      "translation_en": "alert",
+      "examples": [
+        {
+          "de": "Die Nachbarschaft ist hellhörig und angenehm.",
+          "ru": "Район светлый и приятный."
+        },
+        {
+          "de": "Eine hellhörig Erledigung des Antrags ist wünschenswert.",
+          "ru": "Желательно, чтобы к заявлению относились внимательно."
+        },
+        {
+          "de": "Das Serviceangebot der Behörde ist leider wenig hellhörig.",
+          "ru": "К сожалению, услуги, предлагаемые властями, не очень хороши."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher hellhörig, als man zunächst denkt.",
+          "ru": "По моему опыту, это более заметно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total hellhörig, hat mir echt geholfen.",
+          "ru": "Это было очень поучительно и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "nachbarlich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "добрососедский",
+      "translation_en": "neighborly",
+      "examples": [
+        {
+          "de": "Der bürokratische Prozess war überraschend nachbarlich.",
+          "ru": "Бюрократический процесс был на удивление добрососедским."
+        },
+        {
+          "de": "Eine nachbarlich Wohnung in guter Lage zu finden ist nicht einfach.",
+          "ru": "Найти квартиру в хорошем месте по соседству непросто."
+        },
+        {
+          "de": "Eine nachbarlich Erledigung des Antrags ist wünschenswert.",
+          "ru": "Желательно, чтобы заявка была рассмотрена по-соседски."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich nachbarlich, muss man ehrlich sagen.",
+          "ru": "Да, это довольно по-соседски, надо быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich nachbarlich, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно добрососедский, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "vermietet",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "арендованный",
+      "translation_en": "rented",
+      "examples": [
+        {
+          "de": "Die Qualität des ÖPNV in dieser Stadt ist vermietet.",
+          "ru": "Качество общественного транспорта в этом городе арендовано."
+        },
+        {
+          "de": "Der Termin beim Arzt war erstaunlich vermietet zu bekommen.",
+          "ru": "Встреча с доктором была потрясающей."
+        },
+        {
+          "de": "Eine vermietet Wohnung in guter Lage zu finden ist nicht einfach.",
+          "ru": "Найти съемную квартиру в хорошем месте непросто."
+        },
+        {
+          "de": "Das war total vermietet, hat mir echt geholfen.",
+          "ru": "Это было полностью сдано в аренду, мне это очень помогло.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich vermietet, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно был неплохим, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "abgewohnt",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "изношенный",
+      "translation_en": "worn out",
+      "examples": [
+        {
+          "de": "Der Termin beim Arzt war erstaunlich abgewohnt zu bekommen.",
+          "ru": "Прием врача прошел на удивление легко."
+        },
+        {
+          "de": "Eine abgewohnt Erledigung des Antrags ist wünschenswert.",
+          "ru": "Желательно, чтобы заявление было заполнено своевременно."
+        },
+        {
+          "de": "Der bürokratische Prozess war überraschend abgewohnt.",
+          "ru": "Бюрократический процесс был на удивление убогим."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich abgewohnt, das hat mich überrascht.",
+          "ru": "Ну, я думаю, что результат действительно убогий, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher abgewohnt, als man zunächst denkt.",
+          "ru": "По моему опыту, это встречается чаще, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "gepflegt",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "поддерживается",
+      "translation_en": "maintained",
+      "examples": [
+        {
+          "de": "Die Qualität des ÖPNV in dieser Stadt ist gepflegt.",
+          "ru": "Качество общественного транспорта в этом городе поддерживается на хорошем уровне."
+        },
+        {
+          "de": "Der Termin beim Arzt war erstaunlich gepflegt zu bekommen.",
+          "ru": "Прием врача прошел на удивление хорошо."
+        },
+        {
+          "de": "Die Bearbeitungszeit war gepflegt lang.",
+          "ru": "Время обработки было очень долгим."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher gepflegt, als man zunächst denkt.",
+          "ru": "По моему опыту, это более хорошо поддерживается, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich gepflegt, muss man ehrlich sagen.",
+          "ru": "Да, это довольно аккуратно, надо быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ungepflegt",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "неопрятный",
+      "translation_en": "unkempt",
+      "examples": [
+        {
+          "de": "Die Bearbeitungszeit war ungepflegt lang.",
+          "ru": "Время обработки было невероятно долгим."
+        },
+        {
+          "de": "Der Termin beim Arzt war erstaunlich ungepflegt zu bekommen.",
+          "ru": "Прием врача прошел на удивление неопрятно."
+        },
+        {
+          "de": "Eine ungepflegt Erledigung des Antrags ist wünschenswert.",
+          "ru": "Небрежное оформление заявки желательно."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht ungepflegt, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может показаться неопрятным, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich ungepflegt, muss man ehrlich sagen.",
+          "ru": "Да, это довольно неопрятно, надо быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "abschließbar",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "запираемый",
+      "translation_en": "lockable",
+      "examples": [
+        {
+          "de": "Die Qualität des ÖPNV in dieser Stadt ist abschließbar.",
+          "ru": "Качество общественного транспорта в этом городе вызывает споры."
+        },
+        {
+          "de": "Das Serviceangebot der Behörde ist leider wenig abschließbar.",
+          "ru": "К сожалению, спектр услуг органа не очень широк."
+        },
+        {
+          "de": "Der Termin beim Arzt war erstaunlich abschließbar zu bekommen.",
+          "ru": "На прием к врачу попасть было на удивление легко."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich abschließbar, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно убедительный, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich abschließbar, muss man ehrlich sagen.",
+          "ru": "Да, это в значительной степени запирается, я должен быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Allgemeinmediziner, die Allgemeinmediziner",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Врач общей практики",
+      "translation_en": "General practitioner",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Allgemeinmediziner.",
+          "ru": "Медицинская страховка покрывает расходы врача общей практики."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie den Allgemeinmediziner im Original.",
+          "ru": "Для регистрации нужен оригинал врача общей практики."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich den Allgemeinmediziner vorlegen.",
+          "ru": "Пришлось представиться врачу-терапевту в ЗАГСе."
+        },
+        {
+          "de": "Das mit dem Allgemeinmediziner hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с терапевтом, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: den Allgemeinmediziner immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда носите с собой копию справки от врача общей практики.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Allgemeinmedizinerin, die Allgemeinmedizinerinnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Врач общей практики",
+      "translation_en": "General practitioner",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie die Allgemeinmedizinerin zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием врача общей практики."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Allgemeinmedizinerin im Original.",
+          "ru": "Для регистрации нужен оригинал врача общей практики."
+        },
+        {
+          "de": "Für den Umzug ist die Allgemeinmedizinerin besonders wichtig.",
+          "ru": "Врач общей практики особенно важен для переезда."
+        },
+        {
+          "de": "Also, die Allgemeinmedizinerin brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, врач общей практики при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Allgemeinmedizinerin eigentlich relativ schnell.",
+          "ru": "В нашем районе действительно можно сравнительно быстро найти врача общей практики.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Kinderarzt, die Kinderärzte",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Педиатр",
+      "translation_en": "Pediatrician",
+      "examples": [
+        {
+          "de": "der Kinderarzt wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "педиатр был принят ответственным клерком."
+        },
+        {
+          "de": "Ohne den Kinderarzt können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без педиатра."
+        },
+        {
+          "de": "Im Formular muss der Kinderarzt angegeben werden.",
+          "ru": "В бланке необходимо указать педиатра."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Kinderarzt eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро попасть к педиатру.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: den Kinderarzt immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда носите с собой копию педиатра.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
     }
   ]
 }

@@ -29,7 +29,8 @@
           "ru": "Каждый член команды отвечает за определенный пакет работ."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Basisplan, die Basispläne",
@@ -59,7 +60,8 @@
           "ru": "Руководящий комитет должен утверждать изменения в базовом плане."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Berichterstattung, die Berichterstattungen",
@@ -89,7 +91,8 @@
           "ru": "Предоставление отчетности происходит напрямую через инструмент управления проектами."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Dokumentation, die Dokumentationen",
@@ -119,7 +122,8 @@
           "ru": "Клиент требует подробную техническую документацию."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Eskalationsmanagement (Sg.)",
@@ -149,7 +153,8 @@
           "ru": "Кто является первой инстанцией в процессе эскалации?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Fehleranalyse, die Fehleranalysen",
@@ -179,7 +184,8 @@
           "ru": "Тщательный анализ ошибок экономит много времени в долгосрочной перспективе."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Kernteam, die Kernteams",
@@ -209,7 +215,10 @@
           "ru": "Основная команда тесно сотрудничает с руководителем проекта."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das erweiterte Team, die erweiterten Teams"
+      ]
     },
     {
       "word": "die Krisensitzung, die Krisensitzungen",
@@ -239,7 +248,8 @@
           "ru": "Руководитель проекта вел сегодняшнее кризисное совещание."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Kundenorientierung (Sg.)",
@@ -269,7 +279,10 @@
           "ru": "Клиентоориентированность требует постоянного общения с заказчиком."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Produktorientierung, (nur Sg.)"
+      ]
     },
     {
       "word": "der Lenkungsausschuss, die Lenkungsausschüsse",
@@ -299,7 +312,8 @@
           "ru": "Руководитель проекта отчитывается напрямую перед руководящим комитетом."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Projektcontrolling (Sg.)",
@@ -329,7 +343,8 @@
           "ru": "Мы приобрели новые лицензии на программное обеспечение для контроллинга проектов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Projektlaufzeit, die Projektlaufzeiten",
@@ -359,7 +374,8 @@
           "ru": "В течение всего срока реализации проекта мы должны проводить регулярные аудиты."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Projektportfolio, die Projektportfolios",
@@ -389,7 +405,8 @@
           "ru": "Сбалансированный портфель проектов сводит к минимуму предпринимательские риски."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Projekttagebuch, die Projekttagebücher",
@@ -419,7 +436,8 @@
           "ru": "Я посмотрел в проектном журнале, когда эта ошибка возникла впервые."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Qualitätskontrolle, die Qualitätskontrollen",
@@ -449,7 +467,8 @@
           "ru": "Контроль качества проводится выборочно."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Rahmenbedingung, die Rahmenbedingungen",
@@ -479,7 +498,8 @@
           "ru": "Рамочные условия обсуждались на стартовой встрече."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Ressourcenengpass, die Ressourcenengpässe",
@@ -509,7 +529,10 @@
           "ru": "За счет сверхурочной работы удалось временно компенсировать нехватку ресурсов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Ressourcenüberfluss, die Ressourcenüberflüsse"
+      ]
     },
     {
       "word": "die Ressourcenknappheit (Sg.)",
@@ -539,7 +562,11 @@
           "ru": "Ограниченность ресурсов вынуждает нас использовать более эффективные процессы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Ressourcenüberfluss, (nur Sg.)",
+        "die Ressourcenfülle, (nur Sg.)"
+      ]
     },
     {
       "word": "der Risikofaktor, die Risikofaktoren",
@@ -569,7 +596,10 @@
           "ru": "Мы разработали меры для минимизации этого фактора риска."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Erfolgsfaktor, die Erfolgsfaktoren"
+      ]
     },
     {
       "word": "das Risikoregister, die Risikoregister",
@@ -599,7 +629,8 @@
           "ru": "Реестры рисков помогают проактивно управлять рисками."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Soll-Ist-Vergleich, die Soll-Ist-Vergleiche",
@@ -629,7 +660,8 @@
           "ru": "Сравнение плана и факта показало, что мы использовали меньше ресурсов, чем планировалось."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Sprint-Backlog, die Sprint-Backlogs",
@@ -659,7 +691,10 @@
           "ru": "Кто добавил эту задачу в бэклог спринта?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Product-Backlog, die Product-Backlogs"
+      ]
     },
     {
       "word": "die Statusbesprechung, die Statusbesprechungen",
@@ -689,7 +724,8 @@
           "ru": "Совещание по статусу прошло очень конструктивно."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Teambildung (Sg.)",
@@ -719,7 +755,10 @@
           "ru": "Руководитель проекта придает большое значение сплочению команды."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Teamauflösung, (nur Sg.)"
+      ]
     },
     {
       "word": "die Teamentwicklung (Sg.)",
@@ -749,7 +788,8 @@
           "ru": "Развитие команды сильно стимулировал новый коуч."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Terminverschiebung, die Terminverschiebungen",
@@ -779,7 +819,8 @@
           "ru": "Перенос срока затрагивает также и последующие задачи."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Aufwandsschätzung, die Aufwandsschätzungen",
@@ -809,7 +850,8 @@
           "ru": "Перед коммерческим предложением мы должны составить подробную оценку трудозатрат."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Wirtschaftlichkeitsberechnung, die Wirtschaftlichkeitsberechnungen",
@@ -839,7 +881,8 @@
           "ru": "Мы должны обновить расчет экономической эффективности актуальными рыночными данными."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Zeitmanagement (Sg.)",
@@ -869,7 +912,8 @@
           "ru": "Он дал команде ценные советы по эффективному управлению временем."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Zwischenergebnis, die Zwischenergebnisse",
@@ -899,7 +943,10 @@
           "ru": "На основе промежуточного результата мы планируем следующие шаги."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Endergebnis, die Endergebnisse"
+      ]
     },
     {
       "word": "analysieren",
@@ -940,7 +987,8 @@
         "ihr": "alysiert an",
         "sie/Sie": "alysieren an"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "archivieren",
@@ -981,7 +1029,11 @@
         "ihr": "archiviert",
         "sie/Sie": "archivieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "löschen",
+        "aktiv nutzen"
+      ]
     },
     {
       "word": "kooperieren",
@@ -1024,6 +1076,10 @@
       },
       "prepositions": [
         "mit + Dativ (с кем-то)"
+      ],
+      "antonyms": [
+        "konkurrieren",
+        "gegenarbeiten"
       ]
     },
     {
@@ -1065,7 +1121,8 @@
         "ihr": "moderiert",
         "sie/Sie": "moderieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "visualisieren",
@@ -1106,7 +1163,11 @@
         "ihr": "visualisiert",
         "sie/Sie": "visualisieren"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "verbalisieren",
+        "beschreiben"
+      ]
     },
     {
       "word": "durchführbar",
@@ -1136,7 +1197,12 @@
           "ru": "Команда считает целевые показатели вполне осуществимыми."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "undurchführbar",
+        "unmöglich",
+        "illusorisch"
+      ]
     },
     {
       "word": "ergebnisorientiert",
@@ -1166,7 +1232,11 @@
           "ru": "Оценка эффективности основана на критериях, ориентированных на результат."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "prozessorientiert",
+        "aufgabenorientiert"
+      ]
     },
     {
       "word": "kostenintensiv",
@@ -1196,7 +1266,12 @@
           "ru": "Вывод на рынок дефектного продукта обходится очень дорого."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "kostengünstig",
+        "preiswert",
+        "billig"
+      ]
     },
     {
       "word": "prozessorientiert",
@@ -1226,7 +1301,10 @@
           "ru": "Процессно-ориентированное руководство концентрируется на рабочих процессах."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "ergebnisorientiert"
+      ]
     },
     {
       "word": "risikoreich",
@@ -1256,7 +1334,12 @@
           "ru": "Из-за рискованного характера задачи мы составили план действий в чрезвычайных ситуациях."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "risikoarm",
+        "sicher",
+        "gefahrlos"
+      ]
     },
     {
       "word": "zielgerichtet",
@@ -1286,7 +1369,12 @@
           "ru": "Мы используем целенаправленное обучение для повышения квалификации команды."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "ziellos",
+        "planlos",
+        "konfus"
+      ]
     },
     {
       "word": "zeitkritisch",
@@ -1316,7 +1404,11 @@
           "ru": "Из-за требований, критичных ко времени, мы наняли дополнительных разработчиков."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unkritisch",
+        "aufschiebbar"
+      ]
     },
     {
       "word": "detailliert",
@@ -1346,7 +1438,12 @@
           "ru": "Анализ был очень подробным и точным."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "grob",
+        "oberflächlich",
+        "pauschal"
+      ]
     },
     {
       "word": "abteilungsübergreifend",
@@ -1376,7 +1473,10 @@
           "ru": "Возникли конфликты между отделами по поводу распределения ресурсов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "abteilungsintern"
+      ]
     },
     {
       "word": "projektübergreifend",
@@ -1406,7 +1506,2222 @@
           "ru": "Мы организовали межпроектную встречу руководителей проектов."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "projektspezifisch",
+        "projektintern"
+      ]
+    },
+    {
+      "word": "alternativ",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "альтернативно",
+      "translation_en": "alternatively",
+      "examples": [
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher alternativ.",
+          "ru": "Ход реализации проекта на этом этапе был весьма альтернативным."
+        },
+        {
+          "de": "Wir brauchen eine alternativ Lösung für dieses komplexe Problem.",
+          "ru": "Нам нужно альтернативное решение этой сложной проблемы."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr alternativ.",
+          "ru": "Совет оценил результаты проекта как весьма альтернативные."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich alternativ, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно альтернативный, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht alternativ, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться альтернативой, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "zusätzlich",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "кроме того",
+      "translation_en": "additionally",
+      "examples": [
+        {
+          "de": "Das Ergebnis war besonders zusätzlich und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно дополнительным и превзошел все ожидания."
+        },
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher zusätzlich.",
+          "ru": "На этом этапе прогресс проекта был скорее дополнительным."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr zusätzlich.",
+          "ru": "Совет оценил результаты проекта как весьма дополнительные."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich zusätzlich, muss man ehrlich sagen.",
+          "ru": "Да, это нечто дополнительное, надо быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich zusätzlich, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно дополнительный, что меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ergänzend",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "дополнительный",
+      "translation_en": "supplementary",
+      "examples": [
+        {
+          "de": "Das Ergebnis war besonders ergänzend und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно дополняющим и превзошел все ожидания."
+        },
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst ergänzend.",
+          "ru": "Совместная работа в команде оказалась чрезвычайно взаимодополняющей."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr ergänzend.",
+          "ru": "Совет оценил результаты проекта как весьма взаимодополняющие."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich ergänzend, muss man ehrlich sagen.",
+          "ru": "Да, это дополняет друг друга, я должен быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich ergänzend, das hat mich überrascht.",
+          "ru": "Итак, я считаю, что результат действительно дополняет друг друга, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "lückenhaft",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "отрывочный",
+      "translation_en": "sketchy",
+      "examples": [
+        {
+          "de": "Das Ergebnis war besonders lückenhaft und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно неоднозначным и превзошел все ожидания."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr lückenhaft.",
+          "ru": "Совет оценил результаты проекта как весьма неполные."
+        },
+        {
+          "de": "Wir brauchen eine lückenhaft Lösung für dieses komplexe Problem.",
+          "ru": "Нам нужно неоднородное решение этой сложной проблемы."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht lückenhaft, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может показаться отрывочным, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich lückenhaft, muss man ehrlich sagen.",
+          "ru": "Да, это довольно схематично, я должен быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ungenügend",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "недостаточный",
+      "translation_en": "insufficient",
+      "examples": [
+        {
+          "de": "Die Stakeholder waren mit dem ungenügenden Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны остались довольны неудовлетворительным результатом."
+        },
+        {
+          "de": "Wir brauchen eine ungenügend Lösung für dieses komplexe Problem.",
+          "ru": "Нам нужно неадекватное решение этой сложной проблемы."
+        },
+        {
+          "de": "Das Ergebnis war besonders ungenügend und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно неудовлетворительным и превзошел ожидания."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher ungenügend, als man zunächst denkt.",
+          "ru": "По моему опыту, этого недостаточно, чем вы могли подумать на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total ungenügend, hat mir echt geholfen.",
+          "ru": "Этого было совершенно недостаточно, но мне это действительно помогло.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ausreichend",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "достаточный",
+      "translation_en": "sufficient",
+      "examples": [
+        {
+          "de": "Der Prozess gestaltet sich ausreichender als ursprünglich geplant.",
+          "ru": "Процесс оказывается более достаточным, чем планировалось изначально."
+        },
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher ausreichend.",
+          "ru": "На этом этапе прогресс проекта был вполне достаточным."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr ausreichend.",
+          "ru": "Правление оценило результаты проекта как весьма достаточные."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich ausreichend, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно достаточный, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich ausreichend, muss man ehrlich sagen.",
+          "ru": "Да, этого вполне достаточно, если честно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "befriedigend",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "удовлетворительный",
+      "translation_en": "satisfactory",
+      "examples": [
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr befriedigend.",
+          "ru": "Совет оценил результаты проекта как весьма удовлетворительные."
+        },
+        {
+          "de": "Das Ergebnis war besonders befriedigend und übertraf die Erwartungen.",
+          "ru": "Результат особенно порадовал и превзошел все ожидания."
+        },
+        {
+          "de": "Eine befriedigend Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Удовлетворительный подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Das war total befriedigend, hat mir echt geholfen.",
+          "ru": "Это меня полностью удовлетворило и действительно помогло.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich befriedigend, muss man ehrlich sagen.",
+          "ru": "Да, это очень приятно, я должен быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "gut",
+      "part_of_speech": "Adjective",
+      "level": "A1",
+      "translation_ru": "хороший",
+      "translation_en": "good",
+      "examples": [
+        {
+          "de": "Das Ergebnis war besonders gut und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно хорошим и превзошел все ожидания."
+        },
+        {
+          "de": "Der Prozess gestaltet sich guter als ursprünglich geplant.",
+          "ru": "Процесс идет лучше, чем планировалось изначально."
+        },
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher gut.",
+          "ru": "На этом этапе проект продвигался довольно хорошо."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher gut, als man zunächst denkt.",
+          "ru": "По моему опыту, это более хорошо, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich gut, muss man ehrlich sagen.",
+          "ru": "Да, это очень хорошо, надо быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "sehr gut",
+      "part_of_speech": "Adjective",
+      "level": "A1",
+      "translation_ru": "очень хороший",
+      "translation_en": "very good",
+      "examples": [
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr sehr gut.",
+          "ru": "Совет оценил результаты проекта как очень и очень хорошие."
+        },
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher sehr gut.",
+          "ru": "На этом этапе проект продвигался довольно хорошо."
+        },
+        {
+          "de": "Das Ergebnis war besonders sehr gut und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно хорошим и превзошел все ожидания."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich sehr gut, muss man ehrlich sagen.",
+          "ru": "Да, это очень хорошо, я должен быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich sehr gut, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно очень хороший, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "suboptimal",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "неоптимальный",
+      "translation_en": "suboptimal",
+      "examples": [
+        {
+          "de": "Die Stakeholder waren mit dem suboptimalen Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны были удовлетворены неоптимальным результатом."
+        },
+        {
+          "de": "Wir brauchen eine suboptimal Lösung für dieses komplexe Problem.",
+          "ru": "Нам нужно неоптимальное решение этой сложной проблемы."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr suboptimal.",
+          "ru": "Совет оценил результаты проекта как очень неоптимальные."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht suboptimal, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться неоптимальным, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher suboptimal, als man zunächst denkt.",
+          "ru": "По моему опыту, это более неоптимально, чем вы могли подумать на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "inakzeptabel",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "неприемлемо",
+      "translation_en": "unacceptable",
+      "examples": [
+        {
+          "de": "Eine inakzeptabel Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Неприемлемый подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Wir brauchen eine inakzeptabel Lösung für dieses komplexe Problem.",
+          "ru": "Нам нужно неприемлемое решение этой сложной проблемы."
+        },
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst inakzeptabel.",
+          "ru": "Сотрудничество внутри коллектива оказалось крайне неприемлемым."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher inakzeptabel, als man zunächst denkt.",
+          "ru": "По моему опыту, это более неприемлемо, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich inakzeptabel, muss man ehrlich sagen.",
+          "ru": "Да, это совершенно неприемлемо, я должен быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "tolerierbar",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "терпимый",
+      "translation_en": "tolerable",
+      "examples": [
+        {
+          "de": "Eine tolerierbar Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Приемлемый подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Wir brauchen eine tolerierbar Lösung für dieses komplexe Problem.",
+          "ru": "Нам нужно приемлемое решение этой сложной проблемы."
+        },
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst tolerierbar.",
+          "ru": "Коллективная работа оказалась крайне сносной."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich tolerierbar, das hat mich überrascht.",
+          "ru": "Что ж, думаю, результат действительно сносный, что меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher tolerierbar, als man zunächst denkt.",
+          "ru": "По моему опыту, это более терпимо, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "schwerwiegend",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "серьезный",
+      "translation_en": "serious",
+      "examples": [
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher schwerwiegend.",
+          "ru": "На этом этапе реализация проекта была довольно сложной."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr schwerwiegend.",
+          "ru": "Совет оценил результаты проекта как очень серьезные."
+        },
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst schwerwiegend.",
+          "ru": "Взаимодействие внутри коллектива оказалось крайне сложным."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich schwerwiegend, das hat mich überrascht.",
+          "ru": "Что ж, я считаю, что результат действительно серьезный, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich schwerwiegend, muss man ehrlich sagen.",
+          "ru": "Да, это довольно серьёзно, надо быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "geringfügig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "немного",
+      "translation_en": "slightly",
+      "examples": [
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst geringfügig.",
+          "ru": "Взаимодействие внутри команды оказалось крайне минимальным."
+        },
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher geringfügig.",
+          "ru": "На этом этапе прогресс проекта был довольно незначительным."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr geringfügig.",
+          "ru": "Совет оценил результаты проекта как очень незначительные."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich geringfügig, muss man ehrlich sagen.",
+          "ru": "Да, это довольно мелочь, надо быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher geringfügig, als man zunächst denkt.",
+          "ru": "По моему опыту, это более незначительно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "marginal",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "маргинальный",
+      "translation_en": "marginal",
+      "examples": [
+        {
+          "de": "Das Ergebnis war besonders marginal und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно незначительным и превзошел ожидания."
+        },
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher marginal.",
+          "ru": "На этом этапе прогресс проекта был довольно незначительным."
+        },
+        {
+          "de": "Die Zusammenarbeit im Team erwies sich als äußerst marginal.",
+          "ru": "Взаимодействие внутри коллектива оказалось крайне маргинальным."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich marginal, das hat mich überrascht.",
+          "ru": "Ну, я думаю, что результат действительно незначительный, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht marginal, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может показаться маргинальным, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "vernachlässigbar",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "незначительный",
+      "translation_en": "negligible",
+      "examples": [
+        {
+          "de": "Eine vernachlässigbar Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Незначительный подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher vernachlässigbar.",
+          "ru": "На этом этапе прогресс проекта был весьма незначительным."
+        },
+        {
+          "de": "Die Stakeholder waren mit dem vernachlässigbaren Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны остались довольны незначительным результатом."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht vernachlässigbar, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может показаться незначительным, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher vernachlässigbar, als man zunächst denkt.",
+          "ru": "По моему опыту, это более незначительно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "prioritär",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "приоритет",
+      "translation_en": "priority",
+      "examples": [
+        {
+          "de": "Das Ergebnis war besonders prioritär und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно приоритетным и превзошел ожидания."
+        },
+        {
+          "de": "Eine prioritär Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Приоритетный подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Der Vorstand bewertete die Projektergebnisse als sehr prioritär.",
+          "ru": "Совет оценил результаты проекта как очень приоритетные."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht prioritär, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может показаться приоритетом, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher prioritär, als man zunächst denkt.",
+          "ru": "По моему опыту, это более приоритетно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eilig",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "торопиться",
+      "translation_en": "hurry",
+      "examples": [
+        {
+          "de": "Die Stakeholder waren mit dem eiligen Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны были удовлетворены срочным результатом."
+        },
+        {
+          "de": "Eine eilig Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Поспешный подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Das Ergebnis war besonders eilig und übertraf die Erwartungen.",
+          "ru": "Результат оказался особенно срочным и превзошел все ожидания."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich eilig, muss man ehrlich sagen.",
+          "ru": "Да, это довольно спешка, я должен быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher eilig, als man zunächst denkt.",
+          "ru": "По моему опыту, это более срочно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "vertragsgemäß",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "в соответствии с договором",
+      "translation_en": "in accordance with the contract",
+      "examples": [
+        {
+          "de": "Der Projektfortschritt war in dieser Phase eher vertragsgemäß.",
+          "ru": "Ход реализации проекта на этом этапе в большей степени соответствовал контракту."
+        },
+        {
+          "de": "Das Ergebnis war besonders vertragsgemäß und übertraf die Erwartungen.",
+          "ru": "Результат особенно соответствовал контракту и превзошел ожидания."
+        },
+        {
+          "de": "Eine vertragsgemäß Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Контрактный подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht vertragsgemäß, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может звучать как контракт, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich vertragsgemäß, muss man ehrlich sagen.",
+          "ru": "Да, это во многом соответствует контракту, если честно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "im Zeitplan liegen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "идут по графику",
+      "translation_en": "are on schedule",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"im Zeitplan liegen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «по графику» — общепринятый термин."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"im Zeitplan liegen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «по расписанию»."
+        },
+        {
+          "de": "Man sollte \"im Zeitplan liegen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «по расписанию»."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"im Zeitplan liegen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что это значит «приходить в график».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"im Zeitplan liegen\" wirklich oft.",
+          "ru": "В разговорной речи действительно слышишь «по расписанию».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "im Budget liegen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "находятся в рамках бюджета",
+      "translation_en": "are within the budget",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"im Budget liegen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «бюджетом»."
+        },
+        {
+          "de": "In der Praxis wird \"im Budget liegen\" häufig verwendet.",
+          "ru": "На практике часто используется фраза «быть в рамках бюджета»."
+        },
+        {
+          "de": "Laut Experten ist \"im Budget liegen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «бюджетно»."
+        },
+        {
+          "de": "Ich benutze \"im Budget liegen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую слово «в бюджете».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"im Budget liegen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать фразу «не выходить за рамки бюджета».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "den Zeitplan einhalten",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Придерживайтесь графика",
+      "translation_en": "Adhere to schedule",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"Zeitplan einhalten\" ist in diesem Kontext besonders passend.",
+          "ru": "Фраза «придерживаться графика» особенно уместна в этом контексте."
+        },
+        {
+          "de": "Diese Formulierung mit \"Zeitplan einhalten\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «придерживаться графика» часто используется на переговорах."
+        },
+        {
+          "de": "Laut Experten ist \"Zeitplan einhalten\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «придерживаться графика»."
+        },
+        {
+          "de": "Na ja, \"Zeitplan einhalten\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «придерживаться графика» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"Zeitplan einhalten\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую фразу «придерживаться графика».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Budget überschreiten",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Превысить бюджет",
+      "translation_en": "Exceed budget",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Budget überschreiten\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «превышением бюджета»."
+        },
+        {
+          "de": "Laut Experten ist \"Budget überschreiten\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «превышение бюджета»."
+        },
+        {
+          "de": "Die Wendung \"Budget überschreiten\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «превышение бюджета» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Budget überschreiten\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так можно использовать «превышение бюджета».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Budget überschreiten\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «превышение бюджета» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Projekt steuern",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "контролировать проект",
+      "translation_en": "control a project",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"ein Projekt steuern\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «управление проектом» является распространённым термином."
+        },
+        {
+          "de": "Laut Experten ist \"ein Projekt steuern\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «управление проектом»."
+        },
+        {
+          "de": "Man sollte \"ein Projekt steuern\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «управлению проектом»."
+        },
+        {
+          "de": "Also, \"ein Projekt steuern\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «управление проектом» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"ein Projekt steuern\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую «управлять проектом».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Projekt überwachen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "следить за проектом",
+      "translation_en": "monitor a project",
+      "examples": [
+        {
+          "de": "Diese Formulierung mit \"ein Projekt überwachen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «мониторинг проекта» часто используется на переговорах."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"ein Projekt überwachen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «мониторинг проекта» является распространенным термином."
+        },
+        {
+          "de": "Man sollte \"ein Projekt überwachen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение фразе «мониторить проект»."
+        },
+        {
+          "de": "Also, \"ein Projekt überwachen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «мониторинг проекта» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"ein Projekt überwachen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «мониторинг проекта».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Projekt abschließen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "завершить проект",
+      "translation_en": "complete a project",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"ein Projekt abschließen\" regelmäßig.",
+          "ru": "В деловом английском вы регулярно встречаете фразу «завершить проект»."
+        },
+        {
+          "de": "In der Praxis wird \"ein Projekt abschließen\" häufig verwendet.",
+          "ru": "На практике часто используется фраза «завершить проект»."
+        },
+        {
+          "de": "Die Wendung \"ein Projekt abschließen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «завершить проект» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"ein Projekt abschließen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать слово «закончить проект».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"ein Projekt abschließen\" wirklich oft.",
+          "ru": "В повседневной речи вы действительно часто слышите «завершить проект».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen Meilenstein erreichen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "достичь важной вехи",
+      "translation_en": "reach a milestone",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"einen Meilenstein erreichen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «достижение важной вехи» является распространенным термином."
+        },
+        {
+          "de": "Laut Experten ist \"einen Meilenstein erreichen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «достижение важной вехи» — правильная фраза."
+        },
+        {
+          "de": "In der Praxis wird \"einen Meilenstein erreichen\" häufig verwendet.",
+          "ru": "На практике часто используется выражение «достижение важной вехи»."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"einen Meilenstein erreichen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так можно использовать «достижение важной вехи».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"einen Meilenstein erreichen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «достижение важной вехи» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen Meilenstein setzen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "установить веху",
+      "translation_en": "set a milestone",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"einen Meilenstein setzen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «установить веху» — правильная фраза."
+        },
+        {
+          "de": "In der Praxis wird \"einen Meilenstein setzen\" häufig verwendet.",
+          "ru": "На практике часто используется «установка вехи»."
+        },
+        {
+          "de": "Der Ausdruck \"einen Meilenstein setzen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «установление вехи» особенно уместно в этом контексте."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"einen Meilenstein setzen\" wirklich oft.",
+          "ru": "В разговорной речи вы действительно часто слышите «установить веху».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"einen Meilenstein setzen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «установить веху».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Aufgaben delegieren",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Делегируйте задачи",
+      "translation_en": "Delegate tasks",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Aufgaben delegieren\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «делегированием задач»."
+        },
+        {
+          "de": "Der Ausdruck \"Aufgaben delegieren\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «делегирование задач» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Diese Formulierung mit \"Aufgaben delegieren\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «делегирование задач» часто используется на переговорах."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Aufgaben delegieren\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так можно использовать «делегирование задач».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Aufgaben delegieren\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «делегирование задач» — это то, о чем мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Ressourcen zuweisen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Распределить ресурсы",
+      "translation_en": "Allocate resources",
+      "examples": [
+        {
+          "de": "Man sollte \"Ressourcen zuweisen\" in formellen Texten bevorzugen.",
+          "ru": "Следует отдавать предпочтение «распределению ресурсов» в формальных текстах."
+        },
+        {
+          "de": "Laut Experten ist \"Ressourcen zuweisen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «выделить ресурсы»."
+        },
+        {
+          "de": "Die Wendung \"Ressourcen zuweisen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «выделить ресурсы» выражает здесь совершенно правильную вещь."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Ressourcen zuweisen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так можно использовать «распределение ресурсов».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"Ressourcen zuweisen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «распределять ресурсы» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Kick-off-Meeting durchführen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "провести стартовое совещание",
+      "translation_en": "hold a kick-off meeting",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"ein Kick-off-Meeting durchführen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «провести стартовое совещание»."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"ein Kick-off-Meeting durchführen\" regelmäßig.",
+          "ru": "В деловом английском вы регулярно встретите фразу «провести стартовое собрание»."
+        },
+        {
+          "de": "Der Ausdruck \"ein Kick-off-Meeting durchführen\" ist in diesem Kontext besonders passend.",
+          "ru": "Фраза «провести стартовое совещание» особенно уместна в этом контексте."
+        },
+        {
+          "de": "Na ja, \"ein Kick-off-Meeting durchführen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «проведение стартового собрания» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"ein Kick-off-Meeting durchführen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «проведите стартовую встречу» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Protokoll führen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "вести журнал",
+      "translation_en": "keep a log",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"ein Protokoll führen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «ведением учета»."
+        },
+        {
+          "de": "In der Praxis wird \"ein Protokoll führen\" häufig verwendet.",
+          "ru": "На практике часто используется «ведение учета»."
+        },
+        {
+          "de": "Die Wendung \"ein Protokoll führen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «ведение учета» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Also, \"ein Protokoll führen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «ведение учета» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"ein Protokoll führen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «ведение записей».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Feedback geben",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "Оставьте отзыв",
+      "translation_en": "Give feedback",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Feedback geben\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «дайте обратную связь»."
+        },
+        {
+          "de": "Die Wendung \"Feedback geben\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «дать отзыв» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"Feedback geben\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «обратная связь» является распространенным термином."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Feedback geben\" wirklich oft.",
+          "ru": "В разговорной речи вы действительно часто слышите «дать обратную связь».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"Feedback geben\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «предоставление обратной связи» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Rückmeldung geben",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "оставить отзыв",
+      "translation_en": "give feedback",
+      "examples": [
+        {
+          "de": "Diese Formulierung mit \"eine Rückmeldung geben\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «дать обратную связь» часто используется на переговорах."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"eine Rückmeldung geben\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «предоставление обратной связи» является распространенным термином."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"eine Rückmeldung geben\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «дайте обратную связь»."
+        },
+        {
+          "de": "Also, \"eine Rückmeldung geben\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «дайте обратную связь» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"eine Rückmeldung geben\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать фразу «дать отзыв».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen Statusbericht erstellen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "создать отчет о состоянии",
+      "translation_en": "create a status report",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"einen Statusbericht erstellen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «создать отчет о состоянии»."
+        },
+        {
+          "de": "In der Praxis wird \"einen Statusbericht erstellen\" häufig verwendet.",
+          "ru": "На практике часто используется «создать отчет о состоянии»."
+        },
+        {
+          "de": "Die Wendung \"einen Statusbericht erstellen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «создать отчет о состоянии» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Also, \"einen Statusbericht erstellen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «создание отчета о состоянии» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"einen Statusbericht erstellen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «создать отчет о состоянии».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Risikoanalyse durchführen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "провести анализ рисков",
+      "translation_en": "carry out a risk analysis",
+      "examples": [
+        {
+          "de": "Die Wendung \"eine Risikoanalyse durchführen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «провести анализ рисков» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"eine Risikoanalyse durchführen\" regelmäßig.",
+          "ru": "В деловом английском регулярно встречается фраза «провести анализ рисков»."
+        },
+        {
+          "de": "Laut Experten ist \"eine Risikoanalyse durchführen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «провести анализ рисков» — правильная формулировка."
+        },
+        {
+          "de": "Ich benutze \"eine Risikoanalyse durchführen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую фразу «провести анализ рисков».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"eine Risikoanalyse durchführen\" wirklich oft.",
+          "ru": "В разговорной речи часто можно услышать «провести анализ рисков».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Problem lösen",
+      "part_of_speech": "Phrase",
+      "level": "B1",
+      "translation_ru": "решить проблему",
+      "translation_en": "solve a problem",
+      "examples": [
+        {
+          "de": "Man sollte \"ein Problem lösen\" in formellen Texten bevorzugen.",
+          "ru": "«Решению проблемы» следует отдавать предпочтение в формальных текстах."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"ein Problem lösen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «решение проблемы» — общепринятый термин."
+        },
+        {
+          "de": "In der Praxis wird \"ein Problem lösen\" häufig verwendet.",
+          "ru": "На практике часто используется «решить проблему»."
+        },
+        {
+          "de": "Also, \"ein Problem lösen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «решить проблему» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"ein Problem lösen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «решение проблемы» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen Konflikt lösen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "разрешить конфликт",
+      "translation_en": "resolve a conflict",
+      "examples": [
+        {
+          "de": "Diese Formulierung mit \"einen Konflikt lösen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «разрешить конфликт» часто используется на переговорах."
+        },
+        {
+          "de": "Die Wendung \"einen Konflikt lösen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «разрешить конфликт» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"einen Konflikt lösen\" regelmäßig.",
+          "ru": "В деловом немецком регулярно встречается слово «решить конфликт»."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"einen Konflikt lösen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать слово «разрешить конфликт».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"einen Konflikt lösen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «разрешение конфликта» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Entscheidung treffen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "принять решение",
+      "translation_en": "make a decision",
+      "examples": [
+        {
+          "de": "Die Wendung \"eine Entscheidung treffen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «принять решение» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "In der Praxis wird \"eine Entscheidung treffen\" häufig verwendet.",
+          "ru": "На практике часто используется фраза «принять решение»."
+        },
+        {
+          "de": "Laut Experten ist \"eine Entscheidung treffen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «принять решение» — правильная фраза."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"eine Entscheidung treffen\" wirklich oft.",
+          "ru": "В разговорной речи вы действительно часто слышите «принять решение».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"eine Entscheidung treffen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «принимайте решение» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "Maßnahmen ergreifen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Примите меры",
+      "translation_en": "Take action",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Maßnahmen ergreifen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «действовать»."
+        },
+        {
+          "de": "Laut Experten ist \"Maßnahmen ergreifen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «принять меры» — правильная формулировка."
+        },
+        {
+          "de": "Man sollte \"Maßnahmen ergreifen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение словам «принять меры»."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Maßnahmen ergreifen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать слово «действовать».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"Maßnahmen ergreifen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «принять меры» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen Notfallplan erstellen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "создать план действий в чрезвычайной ситуации",
+      "translation_en": "create an emergency plan",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"einen Notfallplan erstellen\" ist in diesem Kontext besonders passend.",
+          "ru": "Фраза «разработать план действий в чрезвычайной ситуации» особенно уместна в этом контексте."
+        },
+        {
+          "de": "Man sollte \"einen Notfallplan erstellen\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение фразе «создать план действий в чрезвычайной ситуации»."
+        },
+        {
+          "de": "In der Praxis wird \"einen Notfallplan erstellen\" häufig verwendet.",
+          "ru": "На практике часто используется «составить план действий в чрезвычайной ситуации»."
+        },
+        {
+          "de": "Also, \"einen Notfallplan erstellen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «создать план действий в чрезвычайной ситуации» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"einen Notfallplan erstellen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «составить план действий на случай чрезвычайной ситуации».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Qualität sichern",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Обеспечьте качество",
+      "translation_en": "Ensure quality",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"Qualität sichern\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «обеспечение качества» является распространенным термином."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Qualität sichern\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно сталкиваетесь с «обеспечением качества»."
+        },
+        {
+          "de": "Der Ausdruck \"Qualität sichern\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «обеспечение качества» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Also, \"Qualität sichern\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «обеспечение качества» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Qualität sichern\" wirklich oft.",
+          "ru": "В разговорной речи очень часто можно услышать «обеспечение качества».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "den Fortschritt überwachen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Отслеживайте прогресс",
+      "translation_en": "Monitor progress",
+      "examples": [
+        {
+          "de": "Diese Formulierung mit \"Fortschritt überwachen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «отслеживать прогресс» часто используется на переговорах."
+        },
+        {
+          "de": "Der Ausdruck \"Fortschritt überwachen\" ist in diesem Kontext besonders passend.",
+          "ru": "Фраза «отслеживать прогресс» особенно уместна в этом контексте."
+        },
+        {
+          "de": "Laut Experten ist \"Fortschritt überwachen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «следить за прогрессом» — правильная формулировка."
+        },
+        {
+          "de": "Also, \"Fortschritt überwachen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «отслеживать прогресс» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"Fortschritt überwachen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую «Мониторинг прогресса», когда говорю по-немецки.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen Testlauf machen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "сделать пробный запуск",
+      "translation_en": "do a test run",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"einen Testlauf machen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «проведите пробный запуск»."
+        },
+        {
+          "de": "Der Ausdruck \"einen Testlauf machen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «провести пробный запуск» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"einen Testlauf machen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «тестовый запуск» является распространенным термином."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"einen Testlauf machen\" wirklich oft.",
+          "ru": "В разговорной речи вы действительно слышите «проведите пробный запуск».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"einen Testlauf machen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую фразу «провести пробный запуск».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen Mangel beheben",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "исправить дефект",
+      "translation_en": "correct a defect",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"einen Mangel beheben\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «исправить дефект» — правильная формулировка."
+        },
+        {
+          "de": "In der Praxis wird \"einen Mangel beheben\" häufig verwendet.",
+          "ru": "На практике часто используется «исправить дефект»."
+        },
+        {
+          "de": "Man sollte \"einen Mangel beheben\" in formellen Texten bevorzugen.",
+          "ru": "В формальных текстах следует отдавать предпочтение «исправить дефект»."
+        },
+        {
+          "de": "Na ja, \"einen Mangel beheben\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «исправление дефекта» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"einen Mangel beheben\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «исправить недостаток».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen Fehler beheben",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "исправить ошибку",
+      "translation_en": "fix an error",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"einen Fehler beheben\" ist in diesem Kontext besonders passend.",
+          "ru": "Фраза «исправить ошибку» особенно уместна в этом контексте."
+        },
+        {
+          "de": "In der Praxis wird \"einen Fehler beheben\" häufig verwendet.",
+          "ru": "На практике часто используется фраза «исправить ошибку»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"einen Fehler beheben\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «исправление ошибки» — распространенный термин."
+        },
+        {
+          "de": "Na ja, \"einen Fehler beheben\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «исправление ошибки» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"einen Fehler beheben\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «исправить ошибку».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Freigabe erteilen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Грантовый выпуск",
+      "translation_en": "Grant release",
+      "examples": [
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Freigabe erteilen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете слово «выдать одобрение»."
+        },
+        {
+          "de": "Diese Formulierung mit \"Freigabe erteilen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «дать разрешение» часто используется на переговорах."
+        },
+        {
+          "de": "Die Wendung \"Freigabe erteilen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «выдать одобрение» выражает здесь совершенно правильную вещь."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Freigabe erteilen\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «выдать одобрение».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"Freigabe erteilen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Ну, «дать разрешение» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Projekt abnehmen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "принять проект",
+      "translation_en": "accept a project",
+      "examples": [
+        {
+          "de": "In der Praxis wird \"ein Projekt abnehmen\" häufig verwendet.",
+          "ru": "На практике часто используется «приемка проекта»."
+        },
+        {
+          "de": "Der Ausdruck \"ein Projekt abnehmen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «принятие проекта» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"ein Projekt abnehmen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете «принятие проекта»."
+        },
+        {
+          "de": "Na ja, \"ein Projekt abnehmen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «принятие проекта» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"ein Projekt abnehmen\" wirklich oft.",
+          "ru": "В разговорной речи очень часто можно услышать «принятие проекта».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Endabnahme durchführen",
+      "part_of_speech": "Phrase",
+      "level": "C1",
+      "translation_ru": "Провести финальную проверку",
+      "translation_en": "Carry out final inspection",
+      "examples": [
+        {
+          "de": "Die Wendung \"Endabnahme durchführen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «провести окончательную проверку» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Laut Experten ist \"Endabnahme durchführen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка — «провести окончательную проверку»."
+        },
+        {
+          "de": "Diese Formulierung mit \"Endabnahme durchführen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «провести окончательную проверку» часто используется на переговорах."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Endabnahme durchführen\" wirklich oft.",
+          "ru": "В разговорной речи действительно довольно часто можно услышать «провести финальную проверку».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Endabnahme durchführen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «провести окончательную проверку».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "den Ist-Zustand erfassen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Запись текущего статуса",
+      "translation_en": "Record current status",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"Ist-Zustand erfassen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «фиксировать текущее состояние» — правильная формулировка."
+        },
+        {
+          "de": "Diese Formulierung mit \"Ist-Zustand erfassen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Эта формулировка «фиксировать текущую ситуацию» часто используется на переговорах."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"Ist-Zustand erfassen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «фиксация текущего состояния» является распространенным термином."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Ist-Zustand erfassen\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «записать текущее состояние».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"Ist-Zustand erfassen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «фиксация текущего состояния» может звучать странно, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "den Soll-Zustand definieren",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Определить целевое состояние",
+      "translation_en": "Define target state",
+      "examples": [
+        {
+          "de": "Man sollte \"Soll-Zustand definieren\" in formellen Texten bevorzugen.",
+          "ru": "В формальных текстах следует отдавать предпочтение «Определить целевое состояние»."
+        },
+        {
+          "de": "Die Wendung \"Soll-Zustand definieren\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «определить целевое состояние» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Diese Formulierung mit \"Soll-Zustand definieren\" wird oft in Verhandlungen genutzt.",
+          "ru": "Эта формулировка «определить целевую ситуацию» часто используется на переговорах."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Soll-Zustand definieren\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «определить целевое состояние».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"Soll-Zustand definieren\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «определить целевое состояние» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Zwischenbilanz ziehen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "подвести итоги",
+      "translation_en": "take stock",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"eine Zwischenbilanz ziehen\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «подвести итоги»."
+        },
+        {
+          "de": "Der Ausdruck \"eine Zwischenbilanz ziehen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «подвести итоги» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"eine Zwischenbilanz ziehen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «подвести промежуточный баланс»."
+        },
+        {
+          "de": "Also, \"eine Zwischenbilanz ziehen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «подвести итоги» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"eine Zwischenbilanz ziehen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «подвести итоги».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Nacharbeit leisten",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "делать последующую работу",
+      "translation_en": "do follow-up work",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"Nacharbeit leisten\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «выполнение последующей работы» является распространенным термином."
+        },
+        {
+          "de": "Laut Experten ist \"Nacharbeit leisten\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «сделать переделку» — правильная формулировка."
+        },
+        {
+          "de": "Man sollte \"Nacharbeit leisten\" in formellen Texten bevorzugen.",
+          "ru": "В официальных текстах следует отдавать предпочтение «выполнению последующей работы»."
+        },
+        {
+          "de": "Also, \"Nacharbeit leisten\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «выполнять дополнительную работу» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"Nacharbeit leisten\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «сделать дополнительную работу».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen Prüfbericht erstellen",
+      "part_of_speech": "Phrase",
+      "level": "C1",
+      "translation_ru": "создать отчет о тестировании",
+      "translation_en": "create a test report",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"einen Prüfbericht erstellen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «создание отчета об испытаниях» является распространенным термином."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"einen Prüfbericht erstellen\" regelmäßig.",
+          "ru": "В деловом немецком языке вы часто слышите «составьте отчет об испытаниях»."
+        },
+        {
+          "de": "Der Ausdruck \"einen Prüfbericht erstellen\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «составить отчет об испытаниях» особенно уместно в этом контексте."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"einen Prüfbericht erstellen\" wirklich oft.",
+          "ru": "В разговорной речи вы действительно часто слышите «создать отчет о тестировании».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"einen Prüfbericht erstellen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «создание отчета об испытаниях» — это то, о чем мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Fehlerquote senken",
+      "part_of_speech": "Phrase",
+      "level": "C1",
+      "translation_ru": "Снижение частоты ошибок",
+      "translation_en": "Reduce error rate",
+      "examples": [
+        {
+          "de": "In der Praxis wird \"Fehlerquote senken\" häufig verwendet.",
+          "ru": "На практике часто используется фраза «уменьшить частоту ошибок»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"Fehlerquote senken\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «снижение частоты ошибок» является распространенным термином."
+        },
+        {
+          "de": "Man sollte \"Fehlerquote senken\" in formellen Texten bevorzugen.",
+          "ru": "В формальных текстах следует отдавать предпочтение «снижению частоты ошибок»."
+        },
+        {
+          "de": "Also, \"Fehlerquote senken\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «уменьшить количество ошибок» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"Fehlerquote senken\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «снижение частоты ошибок» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ein Arbeitspaket definieren",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "определить пакет работ",
+      "translation_en": "define a work package",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"ein Arbeitspaket definieren\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «определить пакет работ»."
+        },
+        {
+          "de": "In der Praxis wird \"ein Arbeitspaket definieren\" häufig verwendet.",
+          "ru": "На практике часто используется «определить рабочий пакет»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"ein Arbeitspaket definieren\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде термин «определить пакет работ» является распространенным термином."
+        },
+        {
+          "de": "Also, \"ein Arbeitspaket definieren\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «определите рабочий пакет» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"ein Arbeitspaket definieren\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «определить рабочий пакет».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "den Basisplan festlegen",
+      "part_of_speech": "Phrase",
+      "level": "C1",
+      "translation_ru": "Разработайте базовый план",
+      "translation_en": "Establish a baseline plan",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"Basisplan festlegen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «разработка базового плана» является распространенным термином."
+        },
+        {
+          "de": "Die Wendung \"Basisplan festlegen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «разработать базовый план» выражает здесь совершенно правильную вещь."
+        },
+        {
+          "de": "In der Praxis wird \"Basisplan festlegen\" häufig verwendet.",
+          "ru": "На практике часто используется «Установить базовый уровень»."
+        },
+        {
+          "de": "Ich benutze \"Basisplan festlegen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую «Установить базовый план», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Basisplan festlegen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «определить базовый план» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Dokumentation pflegen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Ведение документации",
+      "translation_en": "Maintain documentation",
+      "examples": [
+        {
+          "de": "In der Praxis wird \"Dokumentation pflegen\" häufig verwendet.",
+          "ru": "На практике часто используется «Ведение документации»."
+        },
+        {
+          "de": "Diese Formulierung mit \"Dokumentation pflegen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «ведение документации» часто используется на переговорах."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"Dokumentation pflegen\" eine gängige Bezeichnung.",
+          "ru": "«Ведение документации» — распространенный термин в профессиональной среде."
+        },
+        {
+          "de": "Na ja, \"Dokumentation pflegen\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «ведение документации» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Dokumentation pflegen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «ведение документации» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Krisensitzung einberufen",
+      "part_of_speech": "Phrase",
+      "level": "C1",
+      "translation_ru": "созвать экстренное совещание",
+      "translation_en": "call an emergency meeting",
+      "examples": [
+        {
+          "de": "Diese Formulierung mit \"eine Krisensitzung einberufen\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «созвать экстренное совещание» часто используется на переговорах."
+        },
+        {
+          "de": "In der Praxis wird \"eine Krisensitzung einberufen\" häufig verwendet.",
+          "ru": "На практике часто используется фраза «созвать кризисное совещание»."
+        },
+        {
+          "de": "Der Ausdruck \"eine Krisensitzung einberufen\" ist in diesem Kontext besonders passend.",
+          "ru": "Фраза «созвать экстренное совещание» особенно уместна в этом контексте."
+        },
+        {
+          "de": "Ich benutze \"eine Krisensitzung einberufen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую фразу «созвать кризисное совещание», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"eine Krisensitzung einberufen\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «созвать кризисное совещание» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kundenorientierung stärken",
+      "part_of_speech": "Phrase",
+      "level": "C1",
+      "translation_ru": "Усилить ориентацию на клиента",
+      "translation_en": "Strengthen customer orientation",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"Kundenorientierung stärken\" eine gängige Bezeichnung.",
+          "ru": "«Усиление клиентоориентированности» — распространенный термин в профессиональной среде."
+        },
+        {
+          "de": "Die Wendung \"Kundenorientierung stärken\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «усилить ориентацию на клиента» здесь выражает совершенно правильную вещь."
+        },
+        {
+          "de": "Laut Experten ist \"Kundenorientierung stärken\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, «усилить клиентоориентированность» — правильная формулировка."
+        },
+        {
+          "de": "Ich benutze \"Kundenorientierung stärken\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую фразу «усилить ориентацию на клиента».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Kundenorientierung stärken\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «усиливать ориентацию на клиента» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "den Lenkungsausschuss informieren",
+      "part_of_speech": "Phrase",
+      "level": "C1",
+      "translation_ru": "Информировать руководящий комитет",
+      "translation_en": "Inform the steering committee",
+      "examples": [
+        {
+          "de": "Laut Experten ist \"Lenkungsausschuss informieren\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «информировать руководящий комитет»."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Lenkungsausschuss informieren\" regelmäßig.",
+          "ru": "В деловом немецком языке вы регулярно встречаете фразу «информировать руководящий комитет»."
+        },
+        {
+          "de": "In der Praxis wird \"Lenkungsausschuss informieren\" häufig verwendet.",
+          "ru": "На практике часто используется термин «информировать руководящий комитет»."
+        },
+        {
+          "de": "Ich benutze \"Lenkungsausschuss informieren\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую «Inform Steering Committee», когда говорю по-немецки.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Lenkungsausschuss informieren\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «информировать руководящий комитет» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Projektlaufzeit verlängern",
+      "part_of_speech": "Phrase",
+      "level": "C1",
+      "translation_ru": "Продлить продолжительность проекта",
+      "translation_en": "Extend project duration",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"Projektlaufzeit verlängern\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «продление продолжительности проекта» является распространенным термином."
+        },
+        {
+          "de": "Laut Experten ist \"Projektlaufzeit verlängern\" die korrekte Formulierung.",
+          "ru": "По мнению экспертов, правильная формулировка – «продлить сроки проекта»."
+        },
+        {
+          "de": "Die Wendung \"Projektlaufzeit verlängern\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «продлить продолжительность проекта» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Ich benutze \"Projektlaufzeit verlängern\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую фразу «продлить продолжительность проекта».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Projektlaufzeit verlängern\" wirklich oft.",
+          "ru": "В разговорной речи вы действительно часто слышите «продлить продолжительность проекта».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Projektportfolio verwalten",
+      "part_of_speech": "Phrase",
+      "level": "C1",
+      "translation_ru": "Управлять портфелем проектов",
+      "translation_en": "Manage project portfolio",
+      "examples": [
+        {
+          "de": "Im beruflichen Umfeld ist \"Projektportfolio verwalten\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «управление портфелем проектов» является распространенным термином."
+        },
+        {
+          "de": "Diese Formulierung mit \"Projektportfolio verwalten\" wird oft in Verhandlungen genutzt.",
+          "ru": "Фраза «управлять портфелем проектов» часто используется на переговорах."
+        },
+        {
+          "de": "Der Ausdruck \"Projektportfolio verwalten\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «управлять портфелем проектов» особенно уместно в этом контексте."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Projektportfolio verwalten\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «управление портфелем проектов».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, \"Projektportfolio verwalten\" klingt vielleicht komisch, aber es ist total normal.",
+          "ru": "Что ж, «управлять портфелем проектов» может показаться странным, но это совершенно нормально.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Projekttagebuch schreiben",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Напишите дневник проекта",
+      "translation_en": "Write a project diary",
+      "examples": [
+        {
+          "de": "In der Praxis wird \"Projekttagebuch schreiben\" häufig verwendet.",
+          "ru": "На практике часто используется «Написать дневник проекта»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"Projekttagebuch schreiben\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «ведение дневника проекта» — распространенный термин."
+        },
+        {
+          "de": "Die Wendung \"Projekttagebuch schreiben\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «написать дневник проекта» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Also, \"Projekttagebuch schreiben\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «напиши дневник проекта» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"Projekttagebuch schreiben\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Я довольно часто использую «Написать дневник проекта», когда говорю по-немецки.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "eine Qualitätskontrolle machen",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "сделать контроль качества",
+      "translation_en": "do a quality control",
+      "examples": [
+        {
+          "de": "Die Wendung \"eine Qualitätskontrolle machen\" drückt hier genau das Richtige aus.",
+          "ru": "Фраза «провести контроль качества» здесь выражает именно то, что нужно."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"eine Qualitätskontrolle machen\" regelmäßig.",
+          "ru": "В деловом английском часто можно услышать «проведите контроль качества»."
+        },
+        {
+          "de": "Im beruflichen Umfeld ist \"eine Qualitätskontrolle machen\" eine gängige Bezeichnung.",
+          "ru": "В профессиональной среде «проведение контроля качества» является распространенным термином."
+        },
+        {
+          "de": "Mein Deutschlehrer hat mir beigebracht, dass man \"eine Qualitätskontrolle machen\" so benutzt.",
+          "ru": "Мой учитель немецкого языка научил меня, что именно так нужно использовать «провести контроль качества».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich benutze \"eine Qualitätskontrolle machen\" ziemlich oft, wenn ich Deutsch rede.",
+          "ru": "Когда я говорю по-немецки, я довольно часто использую «сделать контроль качества».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Rahmenbedingungen klären",
+      "part_of_speech": "Phrase",
+      "level": "B2",
+      "translation_ru": "Уточнить рамочные условия",
+      "translation_en": "Clarify framework conditions",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"Rahmenbedingungen klären\" ist in diesem Kontext besonders passend.",
+          "ru": "Выражение «уточнить рамочные условия» особенно уместно в этом контексте."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"Rahmenbedingungen klären\" regelmäßig.",
+          "ru": "В деловом немецком языке регулярно встречается фраза «уточнить рамочные условия»."
+        },
+        {
+          "de": "Diese Formulierung mit \"Rahmenbedingungen klären\" wird oft in Verhandlungen genutzt.",
+          "ru": "Эта формулировка «уточнить рамочные условия» часто используется на переговорах."
+        },
+        {
+          "de": "In der Umgangssprache hört man \"Rahmenbedingungen klären\" wirklich oft.",
+          "ru": "В разговорной речи действительно часто можно услышать «уточнить рамочные условия».",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, \"Rahmenbedingungen klären\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Что ж, «уточнить рамочные условия» — это то, что мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "einen Ressourcenengpass beheben",
+      "part_of_speech": "Phrase",
+      "level": "C1",
+      "translation_ru": "устранить узкое место в ресурсах",
+      "translation_en": "resolve a resource bottleneck",
+      "examples": [
+        {
+          "de": "Der Ausdruck \"einen Ressourcenengpass beheben\" ist in diesem Kontext besonders passend.",
+          "ru": "Фраза «решение проблемы нехватки ресурсов» особенно уместна в этом контексте."
+        },
+        {
+          "de": "Im Geschäftsdeutsch begegnet man \"einen Ressourcenengpass beheben\" regelmäßig.",
+          "ru": "В деловом английском вы регулярно встречаете фразу «устранить узкое место в ресурсах»."
+        },
+        {
+          "de": "Man sollte \"einen Ressourcenengpass beheben\" in formellen Texten bevorzugen.",
+          "ru": "«Решению нехватки ресурсов» следует отдавать предпочтение в формальных текстах."
+        },
+        {
+          "de": "Also, \"einen Ressourcenengpass beheben\" sagt man hier in Deutschland eigentlich ständig.",
+          "ru": "Итак, «решение проблемы с ресурсами» — это то, о чем мы постоянно говорим здесь, в Германии.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In der Umgangssprache hört man \"einen Ressourcenengpass beheben\" wirklich oft.",
+          "ru": "В разговорной речи вы действительно слышите «устранить узкое место в ресурсах».",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
     }
   ]
 }

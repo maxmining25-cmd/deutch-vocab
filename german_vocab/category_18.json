@@ -33,6 +33,9 @@
         "Amt",
         "Dienststelle",
         "Verwaltungsstelle"
+      ],
+      "antonyms": [
+        "das Privatunternehmen"
       ]
     },
     {
@@ -67,6 +70,9 @@
         "Behörde",
         "Dienststelle",
         "Institution"
+      ],
+      "antonyms": [
+        "der Privatsektor"
       ]
     },
     {
@@ -97,7 +103,10 @@
           "ru": "Двое полицейских убиты, а ты остался жив."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Angestellte"
+      ]
     },
     {
       "word": "das Formular, die Formulare",
@@ -131,7 +140,8 @@
         "Vordruck",
         "Dokument",
         "Fragebogen"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "ausfüllen",
@@ -172,7 +182,11 @@
         "ihr": "füllt aus",
         "sie/Sie": "füllen aus"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "leeren",
+        "schwärzen"
+      ]
     },
     {
       "word": "unterschreiben",
@@ -213,7 +227,8 @@
         "ihr": "unterschreibt",
         "sie/Sie": "unterschreiben"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "die Unterschrift, die Unterschriften",
@@ -243,7 +258,8 @@
           "ru": "И ты должна рассказать отцу правду о том, что подделала мою подпись."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Antrag, die Anträge",
@@ -277,6 +293,10 @@
         "Gesuch",
         "Anfrage",
         "Forderung"
+      ],
+      "antonyms": [
+        "die Rücknahme",
+        "die Ablehnung"
       ]
     },
     {
@@ -320,6 +340,10 @@
       },
       "prepositions": [
         "(Akkusativ) (подавать заявление на что-то)"
+      ],
+      "antonyms": [
+        "zurückziehen",
+        "widerrufen"
       ]
     },
     {
@@ -355,7 +379,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Ablehnung",
+        "das Verbot"
+      ]
     },
     {
       "word": "genehmigen",
@@ -401,7 +429,12 @@
         "ihr": "genehmigt",
         "sie/Sie": "genehmigen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "ablehnen",
+        "verbieten",
+        "untersagen"
+      ]
     },
     {
       "word": "die Ablehnung, die Ablehnungen",
@@ -431,7 +464,12 @@
           "ru": "Это может быть отрицанием, или же вы считаете, что доктор Эдди невиновен."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Zusage",
+        "die Genehmigung",
+        "die Annahme"
+      ]
     },
     {
       "word": "ablehnen",
@@ -474,6 +512,11 @@
       },
       "prepositions": [
         "(Akkusativ) (отклонять что-то)"
+      ],
+      "antonyms": [
+        "annehmen",
+        "zusagen",
+        "genehmigen"
       ]
     },
     {
@@ -504,7 +547,8 @@
           "ru": "Просто скажи, что ты никогда не знала обо мне."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Steuerbescheid, die Steuerbescheide",
@@ -534,7 +578,8 @@
           "ru": "Уведомления из банка, налоги, все толково."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Gebührenbescheid, die Gebührenbescheide",
@@ -564,7 +609,8 @@
           "ru": "Было сказано, что заявители были проинформированы о невыплаченном уведомлении о пошлине."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Gebühr, die Gebühren",
@@ -594,7 +640,8 @@
           "ru": "Я возьму свой гонорар и ухожу."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "bezahlen",
@@ -635,7 +682,11 @@
         "ihr": "bezahlt",
         "sie/Sie": "bezahlen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "einnehmen",
+        "kassieren"
+      ]
     },
     {
       "word": "der Beleg, die Belege",
@@ -665,7 +716,8 @@
           "ru": "Это чек на оплату страховки автомобиля."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Quittung, die Quittungen",
@@ -695,7 +747,8 @@
           "ru": "Тут большой капитал, мне нужна расписка!"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Personalausweis, die Personalausweise",
@@ -725,7 +778,8 @@
           "ru": "Её привезли без удостоверения личности, потому поиски и заняли так много времени."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Reisepass, die Reisepässe",
@@ -755,7 +809,8 @@
           "ru": "Подделка паспорта, наверняка, стала бы его первой остановкой."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Ausweis, die Ausweise",
@@ -785,7 +840,8 @@
           "ru": "Я нашёл его паспорт около бармена, которого застрелили."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Ausweisnummer, die Ausweisnummern",
@@ -815,7 +871,8 @@
           "ru": "Ну я обратился еще раз и надавил и не успел глазом моргнуть, как секретарши нет, письма писать некуда, и я говорю с каким-то гундосым корпоративным адвокатом, который требует номер моего жетона."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Dokument, die Dokumente",
@@ -845,7 +902,8 @@
           "ru": "Я думаю, вы отправили мне не тот документ."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Urkunde, die Urkunden",
@@ -875,7 +933,8 @@
           "ru": "По всему миру вы можете видеть эту тенденцию - мужчины хотят сертификат."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Geburtsurkunde, die Geburtsurkunden",
@@ -905,7 +964,8 @@
           "ru": "Пять фунтов за мальчика и его свидетельство о рождении."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Heiratsurkunde, die Heiratsurkunden",
@@ -935,7 +995,8 @@
           "ru": "Похоже на половину свидетельства о браке."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Meldebescheinigung, die Meldebescheinigungen",
@@ -965,7 +1026,8 @@
           "ru": "Медицинская страховая компания должна относиться к стажерам как к любому сотруднику. Для работодателя это означает, что стажер должен быть зарегистрирован в медицинской страховой компании с указанием страхового номера и причины подачи 10. В течение периода обучения работодатели должны соблюдать соответствующие обязательства по отчетности, а также составлять годовые отчеты или отчеты о перерывах. По каждому представленному отчету стажеру должно быть выдано регистрационное удостоверение."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Aufenthaltstitel, die Aufenthaltstitel",
@@ -991,7 +1053,8 @@
           "ru": "Граждане Швейцарии вправе выбирать между электронным разрешением на пребывании для граждан Швейцарии (см.Aufenthaltserlaubnis-CH (Deutschland)) или разрешением на пребывание в виде отпечатанного на специальном бланке разрешением на пребывание (см. 28 AufenthV)."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Aufenthaltserlaubnis, die Aufenthaltserlaubnisse",
@@ -1021,7 +1084,11 @@
           "ru": "Работаешь два года, получаешь диплом и паспорт."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Ausweisung",
+        "das Aufenthaltsverbot"
+      ]
     },
     {
       "word": "die Arbeitserlaubnis, die Arbeitserlaubnisse",
@@ -1051,7 +1118,10 @@
           "ru": "Тебе понадобится разрешение на работу, Если задержишься здесь до того времени."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Arbeitsverbot"
+      ]
     },
     {
       "word": "der Bürgerservice, die Bürgerservices",
@@ -1073,7 +1143,8 @@
           "ru": "Среди услуг, предлагаемых нашим отелем в Милане, имеется Интернет-пункт (линия ADSL), комната хранения багажа, услуги прачечной и гладильной."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Bürgerbüro, die Bürgerbüros",
@@ -1095,7 +1166,8 @@
           "ru": "Таким образом, здание будет открыто в качестве кафе, а на верхних этажах будут проходить культурные мероприятия."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Standesamt, die Standesämter",
@@ -1125,7 +1197,8 @@
           "ru": "Они идут в храм и женятся."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Finanzamt, die Finanzämter",
@@ -1157,7 +1230,8 @@
       ],
       "synonyms": [
         "Steuerbehörde"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "das Sozialamt, die Sozialämter",
@@ -1187,7 +1261,8 @@
           "ru": "Социальная служба нашла ей новую семью, но она сбежала."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Jugendamt, die Jugendämter",
@@ -1217,7 +1292,8 @@
           "ru": "Я вызвал органы опеки... как и должен."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Ausländeramt, die Ausländerämter",
@@ -1247,7 +1323,8 @@
           "ru": "Любой, кто придет в иммиграционную службу в качестве иностранного студента, почувствует себя в надежных руках и под надлежащим уходом."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Ausländerbehörde, die Ausländerbehörden",
@@ -1273,7 +1350,8 @@
           "ru": "Доктор Юджин сказал что он позвонит в эмиграционную службу потому что знает что у меня нет бумаг"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Termin, die Termine",
@@ -1308,7 +1386,8 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Terminvereinbarung, die Terminvereinbarungen",
@@ -1338,7 +1417,10 @@
           "ru": "запись на прием по электронной почте, электронная почта, номер телефона, номер телефона"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Terminabsage"
+      ]
     },
     {
       "word": "die Warteschlange, die Warteschlangen",
@@ -1368,7 +1450,8 @@
           "ru": "Идея ждать в очереди меня не привлекла."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Wartenummer, die Wartenummern",
@@ -1398,7 +1481,8 @@
           "ru": "Ассоциации торговых компаний разработали некоторые профилактические меры, такие как одноразовые номера карт, но они не увенчались успехом."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Aufruf, die Aufrufe",
@@ -1428,7 +1512,8 @@
           "ru": "Обращение саммита к глобальному единству в борьбе с недоеданием должно быть направлено на глав государств, министров финансов и здравоохранения, а также на предпринимателей и лидеров гражданского общества."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "das Aktenzeichen, die Aktenzeichen",
@@ -1458,7 +1543,8 @@
           "ru": "В полицейском рапорте, подписанном детективом Риджем, написано, что через три дня после начала дела, его номер был 555."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Akte, die Akten",
@@ -1488,7 +1574,8 @@
           "ru": "Как этот секретный файл, который у тебя есть на меня."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Sachbearbeiter, die Sachbearbeiter",
@@ -1518,7 +1605,8 @@
           "ru": "Я пыталась передать ее другому оперативнику."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Sachbearbeiterin, die Sachbearbeiterinnen",
@@ -1548,7 +1636,8 @@
           "ru": "Я была обычным соц. работником."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Zuständigkeit, die Zuständigkeiten",
@@ -1583,7 +1672,8 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "zuständig",
@@ -1618,7 +1708,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "unzuständig"
+      ]
     },
     {
       "word": "die Pflicht, die Pflichten",
@@ -1653,7 +1746,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Recht",
+        "das Privileg"
+      ]
     },
     {
       "word": "die Frist, die Fristen",
@@ -1688,7 +1785,8 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "einhalten",
@@ -1734,7 +1832,12 @@
         "ihr": "haltet ein",
         "sie/Sie": "halten ein"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "verletzen",
+        "überschreiten",
+        "brechen"
+      ]
     },
     {
       "word": "verlängern",
@@ -1775,7 +1878,11 @@
         "ihr": "verlängert",
         "sie/Sie": "verlängern"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "verkürzen",
+        "abkürzen"
+      ]
     },
     {
       "word": "die Verlängerung, die Verlängerungen",
@@ -1805,7 +1912,10 @@
           "ru": "Весь остров... посвящен многолетнему изучению продления жизни."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Verkürzung"
+      ]
     },
     {
       "word": "die Fristverlängerung, die Fristverlängerungen",
@@ -1827,7 +1937,10 @@
           "ru": "Подлог улик - другое дело, но мой адвокат утрясет условно-дорочное."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Fristverkürzung"
+      ]
     },
     {
       "word": "der Widerspruch, die Widersprüche",
@@ -1857,7 +1970,11 @@
           "ru": "Вот в чём сегодняшнее несоответствие развивающихся стран."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Zustimmung",
+        "das Einverständnis"
+      ]
     },
     {
       "word": "Widerspruch einlegen",
@@ -1898,7 +2015,11 @@
         "ihr": "Widerspruch einlegt",
         "sie/Sie": "Widerspruch einlegen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "zustimmen",
+        "akzeptieren"
+      ]
     },
     {
       "word": "die Klage, die Klagen",
@@ -1928,7 +2049,11 @@
           "ru": "Утром на моём столе должна лежать официальная жалоба."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Klagerücknahme",
+        "die Abweisung"
+      ]
     },
     {
       "word": "klagen",
@@ -1969,7 +2094,11 @@
         "ihr": "klagt",
         "sie/Sie": "klagen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "die Klage zurückziehen",
+        "sich abfinden"
+      ]
     },
     {
       "word": "der Rechtsanwalt, die Rechtsanwälte",
@@ -1999,7 +2128,11 @@
           "ru": "Ведь вы же знаменитый защитник, да?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Staatsanwalt",
+        "der Mandant"
+      ]
     },
     {
       "word": "die Rechtsberatung, die Rechtsberatungen",
@@ -2029,7 +2162,8 @@
           "ru": "Мне не нужен юридический совет, Донна."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "beglaubigen",
@@ -2070,7 +2204,8 @@
         "ihr": "beglaubigt",
         "sie/Sie": "beglaubigen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "die Beglaubigung, die Beglaubigungen",
@@ -2100,7 +2235,8 @@
           "ru": "В случае заверения у нотариуса в зарубежных странах, договор должен перевести уполномоченный судебный переводчик, а заверение следует закрепить в соответствующей судебной инстанции."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Kopie, die Kopien",
@@ -2130,7 +2266,10 @@
           "ru": "Ты должен знать, эти часы подделка."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Original"
+      ]
     },
     {
       "word": "das Original, die Originale",
@@ -2160,7 +2299,12 @@
           "ru": "Этот парень был... Блин, тот еще персонаж был."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Kopie",
+        "das Plagiat",
+        "die Fälschung"
+      ]
     },
     {
       "word": "vorlegen",
@@ -2201,7 +2345,11 @@
         "ihr": "legt vor",
         "sie/Sie": "legen vor"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "vorenthalten",
+        "verbergen"
+      ]
     },
     {
       "word": "die Vorlage, die Vorlagen",
@@ -2231,7 +2379,10 @@
           "ru": "Общая оценка выполнения особо важных рекомендаций будет сделана после представления указанного доклада."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "das Vorenthalten"
+      ]
     },
     {
       "word": "nachreichen",
@@ -2272,7 +2423,10 @@
         "ihr": "nachreicht",
         "sie/Sie": "nachreichen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "sofort einreichen"
+      ]
     },
     {
       "word": "die Nachreichung, die Nachreichungen",
@@ -2294,7 +2448,10 @@
           "ru": "Досылка документов для поступления на работу по электронной почте возможна по согласованию с отделом кадров."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Soforteinreichung"
+      ]
     },
     {
       "word": "der Nachweis, die Nachweise",
@@ -2324,7 +2481,8 @@
           "ru": "Потому что нам был нужен сертификат на работы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "nachweisen",
@@ -2365,7 +2523,10 @@
         "ihr": "nachweist",
         "sie/Sie": "nachweisen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "widerlegen"
+      ]
     },
     {
       "word": "der Herkunftsnachweis, die Herkunftsnachweise",
@@ -2395,7 +2556,8 @@
           "ru": "Какими бы убедительными ни были такие доказательства происхождения, у них все же есть серьезный недостаток."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Steuererklärung, die Steuererklärungen",
@@ -2427,7 +2589,8 @@
       ],
       "synonyms": [
         "Steuerveranlagung"
-      ]
+      ],
+      "antonyms": []
     },
     {
       "word": "abgebenn",
@@ -2468,7 +2631,10 @@
         "ihr": "gebent ab",
         "sie/Sie": "gebenn ab"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "einbehalten"
+      ]
     },
     {
       "word": "die Abgabe, die Abgaben",
@@ -2503,7 +2669,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Erhalt, (nur Sg.)",
+        "die Einnahme, die Einnahmen"
+      ]
     },
     {
       "word": "die Bescheinigung, die Bescheinigungen",
@@ -2533,7 +2703,8 @@
           "ru": "В зависимости оттого, что вы напишите в справке."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "bescheinigen",
@@ -2574,7 +2745,8 @@
         "ihr": "bescheinigt",
         "sie/Sie": "bescheinigen"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "der Stempel, die Stempel",
@@ -2604,7 +2776,8 @@
           "ru": "Почтальон обратил внимание на монтонский штемпель."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "stempeln",
@@ -2645,7 +2818,8 @@
         "ihr": "stempelt",
         "sie/Sie": "stempeln"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": []
     },
     {
       "word": "der Brief, die Briefe",
@@ -2675,7 +2849,8 @@
           "ru": "Я напишу на машинке письмо, которое я хотел бы получить."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Postweg, die Postwege",
@@ -2705,7 +2880,10 @@
           "ru": "Похоже, моё приглашение затерялось на почте."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der elektronische Weg"
+      ]
     },
     {
       "word": "der Umschlag, die Umschläge",
@@ -2735,7 +2913,8 @@
           "ru": "Я могу вам точно сказать, я их в конверте получил."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Briefmarke, die Briefmarken",
@@ -2765,7 +2944,8 @@
           "ru": "Ну и что ты здесь искал? Печать?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "per Einschreiben",
@@ -2795,7 +2975,10 @@
           "ru": "Нет. Тогда то заказное письмо, которое вы напишете, сослужит вам хорошую службу."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "als Standardbrief"
+      ]
     },
     {
       "word": "das Einschreiben, die Einschreiben",
@@ -2825,7 +3008,10 @@
           "ru": "Для вас заказное письмо."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Standardbrief"
+      ]
     },
     {
       "word": "die Zustellung, die Zustellungen",
@@ -2855,7 +3041,10 @@
           "ru": "В течение нескольких лет занимался организацией сети нелегальной доставки газеты из-за границы."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "die Rücksendung"
+      ]
     },
     {
       "word": "zustellen",
@@ -2896,7 +3085,10 @@
         "ihr": "stellt zu",
         "sie/Sie": "stellen zu"
       },
-      "prepositions": []
+      "prepositions": [],
+      "antonyms": [
+        "zurücksenden"
+      ]
     },
     {
       "word": "die Postleitzahl, die Postleitzahlen",
@@ -2926,7 +3118,8 @@
           "ru": "Даже с почтовым индексом это небыстро."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Wohnsitz, die Wohnsitze",
@@ -2956,7 +3149,8 @@
           "ru": "Позже переехал на жительство в Канаду."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "die Staatsangehörigkeit, die Staatsangehörigkeiten",
@@ -2986,7 +3180,8 @@
           "ru": "Одна из них была эстонкой, принявшей шведское подданство."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "der Familienstand, (nur Sg.)",
@@ -3016,7 +3211,8 @@
           "ru": "Имя, адрес, номер страховки, семейное положение, родственники."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": []
     },
     {
       "word": "ledig",
@@ -3046,7 +3242,11 @@
           "ru": "Как так случилось, что вы свободный?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "verheiratet",
+        "liiert"
+      ]
     },
     {
       "word": "verheiratet",
@@ -3076,7 +3276,12 @@
           "ru": "Если у тебя есть ребенок, ты должна быть замужем."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "ledig",
+        "geschieden",
+        "verwitwet"
+      ]
     },
     {
       "word": "geschieden",
@@ -3106,7 +3311,10 @@
           "ru": "Типа, с кем я буду жить после вашего развода?"
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "verheiratet"
+      ]
     },
     {
       "word": "verwitwet",
@@ -3136,7 +3344,10 @@
           "ru": "Надя - сирота и живет в приюте."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "verheiratet"
+      ]
     },
     {
       "word": "der Geburtsname, die Geburtsnamen",
@@ -3166,7 +3377,3013 @@
           "ru": "Ну, Омар Тэйт - это не его настоящее имя."
         }
       ],
-      "synonyms": []
+      "synonyms": [],
+      "antonyms": [
+        "der Ehename"
+      ]
+    },
+    {
+      "word": "melden",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "отчет",
+      "translation_en": "report",
+      "examples": [
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig melden.",
+          "ru": "Менеджер проекта должен своевременно сообщать о рисках."
+        },
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu melden.",
+          "ru": "Менеджер проекта рекомендовал сообщить о графике."
+        },
+        {
+          "de": "Wir haben beschlossen, die Anforderungen noch einmal zu melden.",
+          "ru": "Мы решили еще раз сообщить о требованиях."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu melden, aber machbar.",
+          "ru": "Что ж, иногда сообщить об этом не так-то просто, но это можно сделать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu melden.",
+          "ru": "Недавно я сам испытал это, когда пытался сообщить.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "verbinden",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "соединять",
+      "translation_en": "connect",
+      "examples": [
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig verbinden.",
+          "ru": "Руководитель проекта должен своевременно связывать риски."
+        },
+        {
+          "de": "Um das Ziel zu erreichen, müssen wir den Prozess verbinden.",
+          "ru": "Для достижения цели нам необходимо подключить процесс."
+        },
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu verbinden.",
+          "ru": "В спринтерской встрече было решено объединить приоритеты."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich verbinden.",
+          "ru": "Мой начальник всегда советует соединить все как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig verbinden.",
+          "ru": "Да, действительно надо быть внимательным и правильно подключить.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "erreichen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "достичь",
+      "translation_en": "to reach",
+      "examples": [
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig erreichen.",
+          "ru": "Менеджер проекта должен своевременно осознавать риски."
+        },
+        {
+          "de": "Es ist wichtig, alle Stakeholder frühzeitig zu erreichen.",
+          "ru": "Важно как можно раньше охватить все заинтересованные стороны."
+        },
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu erreichen.",
+          "ru": "В спринтерском совещании было решено добиться приоритетов."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu erreichen, aber machbar.",
+          "ru": "Что ж, иногда этого не так-то просто добиться, но это возможно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu erreichen.",
+          "ru": "Я сам испытал это на днях, когда пытался связаться.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "beseitigen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "устранять",
+      "translation_en": "eliminate",
+      "examples": [
+        {
+          "de": "Das Team konnte die Aufgabe erfolgreich beseitigen.",
+          "ru": "Команда смогла успешно устранить поставленную задачу."
+        },
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu beseitigen.",
+          "ru": "На спринтерском совещании было принято решение исключить приоритеты."
+        },
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig beseitigen.",
+          "ru": "Руководитель проекта должен своевременно устранять риски."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu beseitigen, aber machbar.",
+          "ru": "Что ж, иногда от этого не так-то просто избавиться, но можно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich beseitigen.",
+          "ru": "Мой начальник всегда говорит исправить это как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "streichen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "отмена",
+      "translation_en": "cancel",
+      "examples": [
+        {
+          "de": "Im Sprint-Meeting wurde entschieden, die Prioritäten zu streichen.",
+          "ru": "На спринтерском совещании было решено удалить приоритеты."
+        },
+        {
+          "de": "Die Projektmanagerin empfahl, den Zeitplan zu streichen.",
+          "ru": "Менеджер проекта рекомендовал отменить график."
+        },
+        {
+          "de": "Der Projektleiter muss die Risiken rechtzeitig streichen.",
+          "ru": "Руководитель проекта должен своевременно устранять риски."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu streichen.",
+          "ru": "Недавно я сам испытал это, когда пытался рисовать.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett streichen, das war anstrengend.",
+          "ru": "В конце концов нам пришлось полностью все удалить снова, что было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "erforderlich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "необходимый",
+      "translation_en": "necessary",
+      "examples": [
+        {
+          "de": "Der Prozess gestaltet sich erforderlicher als ursprünglich geplant.",
+          "ru": "Процесс оказывается более необходимым, чем планировалось изначально."
+        },
+        {
+          "de": "Die Stakeholder waren mit dem erforderlichen Ergebnis zufrieden.",
+          "ru": "Заинтересованные стороны остались удовлетворены требуемым результатом."
+        },
+        {
+          "de": "Eine erforderlich Herangehensweise ist für den Projekterfolg entscheidend.",
+          "ru": "Необходимый подход имеет решающее значение для успеха проекта."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich erforderlich, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат был действительно необходим, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher erforderlich, als man zunächst denkt.",
+          "ru": "По моему опыту, это более необходимо, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ruhig",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "тихий",
+      "translation_en": "quiet",
+      "examples": [
+        {
+          "de": "Die Qualifikationen des Kandidaten waren ruhig passend.",
+          "ru": "Квалификация кандидата была вполне подходящей."
+        },
+        {
+          "de": "Die Arbeitsatmosphäre in der Firma wirkte sehr ruhig.",
+          "ru": "Рабочая атмосфера в компании показалась очень спокойной."
+        },
+        {
+          "de": "Im Lebenslauf sollte man ruhig Erfahrungen hervorheben.",
+          "ru": "В резюме вам следует указать свой опыт."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher ruhig, als man zunächst denkt.",
+          "ru": "По моему опыту, здесь тише, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich ruhig, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно спокойный, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Anzeige, die Anzeigen",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "Реклама",
+      "translation_en": "Advertisement",
+      "examples": [
+        {
+          "de": "Im Bewerbungsschreiben sollte die Anzeige deutlich werden.",
+          "ru": "Реклама должна быть четко указана в письме-заявке."
+        },
+        {
+          "de": "Im Vorstellungsgespräch wurde die Anzeige ausführlich thematisiert.",
+          "ru": "Реклама подробно обсуждалась во время интервью."
+        },
+        {
+          "de": "Eine überzeugende Darstellung der Anzeige kann den Unterschied machen.",
+          "ru": "Убедительная презентация рекламы может иметь решающее значение."
+        },
+        {
+          "de": "Mein Tipp: die Anzeige sollte man unbedingt im Lebenslauf erwähnen.",
+          "ru": "Мой совет: обязательно укажите объявление в своем резюме.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Wenn man die Anzeige gut rüberbringt, hat man schon halb gewonnen.",
+          "ru": "Если вы хорошо донесете рекламу, это еще полдела.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Berufsverkehr, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Пробки в час пик",
+      "translation_en": "Rush hour traffic",
+      "examples": [
+        {
+          "de": "Im Bewerbungsschreiben sollte der Berufsverkehr deutlich werden.",
+          "ru": "В письме-заявке должно быть четко указано движение транспорта в час пик."
+        },
+        {
+          "de": "Im Vorstellungsgespräch wurde der Berufsverkehr ausführlich thematisiert.",
+          "ru": "В ходе интервью подробно обсуждалось движение транспорта в час пик."
+        },
+        {
+          "de": "Eine überzeugende Darstellung des Berufsverkehr kann den Unterschied machen.",
+          "ru": "Убедительная презентация дорожного движения в час пик может иметь решающее значение."
+        },
+        {
+          "de": "Ich würde sagen, der Berufsverkehr wird oft übersehen, aber Personaler achten darauf.",
+          "ru": "Я бы сказал, что час пик часто упускают из виду, но HR-специалисты обращают на это внимание.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, der Berufsverkehr war bei meinem letzten Bewerbungsgespräch total wichtig.",
+          "ru": "Итак, пробки в час пик были очень важны на моем последнем собеседовании.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Steuerformular, die Steuerformulare",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Налоговая форма",
+      "translation_en": "Tax form",
+      "examples": [
+        {
+          "de": "Im Formular muss das Steuerformular angegeben werden.",
+          "ru": "В форме необходимо указать налоговую форму."
+        },
+        {
+          "de": "Für den Umzug ist das Steuerformular besonders wichtig.",
+          "ru": "Налоговая форма особенно важна при переезде."
+        },
+        {
+          "de": "Bitte bringen Sie das Steuerformular zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой налоговую форму на прием."
+        },
+        {
+          "de": "Das mit dem Steuerformular hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала налоговая форма, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Steuerformular eigentlich relativ schnell.",
+          "ru": "В нашем регионе вы действительно можете получить налоговую форму относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Elterngeldstelle, die Elterngeldstellen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Офис родительских пособий",
+      "translation_en": "Parental allowance office",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Elterngeldstelle innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал родительское пособие в течение двух недель."
+        },
+        {
+          "de": "die Elterngeldstelle wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Отдел родительских пособий был обработан ответственным клерком."
+        },
+        {
+          "de": "Für den Umzug ist die Elterngeldstelle besonders wichtig.",
+          "ru": "Отделение родительских пособий особенно важно при переезде."
+        },
+        {
+          "de": "Das mit der Elterngeldstelle hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с отделом родительских пособий, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Elterngeldstelle eigentlich relativ schnell.",
+          "ru": "В нашем районе получить родительское пособие можно сравнительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Kindergeldantrag, die Kindergeldanträge",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Заявление на получение детского пособия",
+      "translation_en": "Child benefit application",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Kindergeldantrag.",
+          "ru": "Медицинская страховка покрывает расходы на подачу заявления на получение детского пособия."
+        },
+        {
+          "de": "Für den Umzug ist der Kindergeldantrag besonders wichtig.",
+          "ru": "Заявление на получение детского пособия особенно важно при переезде."
+        },
+        {
+          "de": "Bitte bringen Sie den Kindergeldantrag zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием заявление на получение пособия на ребенка."
+        },
+        {
+          "de": "Tipp: den Kindergeldantrag immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию заявления на получение пособия на ребенка.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Kindergeldantrag eigentlich relativ schnell.",
+          "ru": "В нашем регионе вы действительно можете относительно быстро подать заявление на получение пособия на ребенка.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Wohngeldamt, die Wohngeldämter",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Жилищно-компенсационная контора",
+      "translation_en": "Housing benefit office",
+      "examples": [
+        {
+          "de": "Ohne das Wohngeldamt können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без жилищной кассы."
+        },
+        {
+          "de": "Die Behörde hat das Wohngeldamt innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали жилищное пособие в течение двух недель."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für das Wohngeldamt.",
+          "ru": "Медицинская страховка покрывает расходы на жилищную комиссию."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Wohngeldamt eigentlich relativ schnell.",
+          "ru": "В нашем районе действительно получить жилищную комиссию можно сравнительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf das Wohngeldamt warten, das hat fast sechs Wochen gedauert.",
+          "ru": "ЖЭК пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Familienstammbuch, die Familienstammbücher",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Семейный реестр",
+      "translation_en": "Family register",
+      "examples": [
+        {
+          "de": "Im Formular muss das Familienstammbuch angegeben werden.",
+          "ru": "В форме необходимо указать семейный регистр."
+        },
+        {
+          "de": "Ohne das Familienstammbuch können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без семейного реестра."
+        },
+        {
+          "de": "das Familienstammbuch wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "семейный реестр обрабатывался ответственным клерком."
+        },
+        {
+          "de": "Das mit dem Familienstammbuch hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала история с семейным реестром, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: das Familienstammbuch immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию семейного реестра.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Eheregister, die Eheregister",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Регистрация брака",
+      "translation_en": "Marriage register",
+      "examples": [
+        {
+          "de": "das Eheregister wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "регистрация брака была оформлена ответственным клерком."
+        },
+        {
+          "de": "Im Formular muss das Eheregister angegeben werden.",
+          "ru": "В форме необходимо указать регистрацию брака."
+        },
+        {
+          "de": "Der Vermieter hat das Eheregister rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно подал свидетельство о браке."
+        },
+        {
+          "de": "Also, das Eheregister brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, регистрация брака при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Eheregister eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно сравнительно быстро получить регистрацию брака.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Sterbeurkunde, die Sterbeurkunden",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Свидетельство о смерти",
+      "translation_en": "Death certificate",
+      "examples": [
+        {
+          "de": "Ohne die Sterbeurkunde können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без свидетельства о смерти."
+        },
+        {
+          "de": "Die Behörde hat die Sterbeurkunde innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали свидетельство о смерти в течение двух недель."
+        },
+        {
+          "de": "Für den Umzug ist die Sterbeurkunde besonders wichtig.",
+          "ru": "Свидетельство о смерти особенно важно при переезде."
+        },
+        {
+          "de": "Tipp: die Sterbeurkunde immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию свидетельства о смерти.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Sterbeurkunde warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Свидетельства о смерти пришлось ждать вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Meldebehörde, die Meldebehörden",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Регистрирующий орган",
+      "translation_en": "Registration authority",
+      "examples": [
+        {
+          "de": "Für den Umzug ist die Meldebehörde besonders wichtig.",
+          "ru": "Регистрирующий орган особенно важен для переезда."
+        },
+        {
+          "de": "Im Formular muss die Meldebehörde angegeben werden.",
+          "ru": "В бланке должен быть указан регистрирующий орган."
+        },
+        {
+          "de": "Ohne die Meldebehörde können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без регистрирующего органа."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Meldebehörde eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро добраться до ЗАГСа.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Meldebehörde warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Регистрационную палату пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Meldezettel, die Meldezettel",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "Регистрационная форма",
+      "translation_en": "Registration form",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie den Meldezettel zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием регистрационную форму."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich den Meldezettel vorlegen.",
+          "ru": "Мне пришлось предъявить регистрационную форму в офисе граждан."
+        },
+        {
+          "de": "Für den Umzug ist der Meldezettel besonders wichtig.",
+          "ru": "Регистрационная форма особенно важна при переезде."
+        },
+        {
+          "de": "Ich musste ewig auf den Meldezettel warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Регистрационную форму пришлось ждать вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Meldezettel eigentlich relativ schnell.",
+          "ru": "В нашем регионе вы действительно получаете регистрационную форму относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Abmeldebestätigung, die Abmeldebestätigungen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Подтверждение отмены регистрации",
+      "translation_en": "Deregistration confirmation",
+      "examples": [
+        {
+          "de": "Im Formular muss die Abmeldebestätigung angegeben werden.",
+          "ru": "В форме необходимо предоставить подтверждение отмены регистрации."
+        },
+        {
+          "de": "Der Vermieter hat die Abmeldebestätigung rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно предоставил подтверждение о снятии с учета."
+        },
+        {
+          "de": "Für den Umzug ist die Abmeldebestätigung besonders wichtig.",
+          "ru": "Подтверждение отмены регистрации особенно важно для переезда."
+        },
+        {
+          "de": "Tipp: die Abmeldebestätigung immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию подтверждения о снятии с регистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Abmeldebestätigung eigentlich relativ schnell.",
+          "ru": "В нашем регионе вы действительно получаете подтверждение о снятии с регистрации относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Aufenthaltsrecht, die Aufenthaltsrechte",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Право проживания",
+      "translation_en": "Right of residence",
+      "examples": [
+        {
+          "de": "Für den Umzug ist das Aufenthaltsrecht besonders wichtig.",
+          "ru": "Право на проживание особенно важно при переезде."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für das Aufenthaltsrecht.",
+          "ru": "Медицинская страховка покрывает расходы на право проживания."
+        },
+        {
+          "de": "Im Formular muss das Aufenthaltsrecht angegeben werden.",
+          "ru": "В форме должно быть указано право проживания."
+        },
+        {
+          "de": "Also, das Aufenthaltsrecht brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, при перерегистрации вам обязательно понадобится право проживания.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Aufenthaltsrecht eigentlich relativ schnell.",
+          "ru": "В наших краях реально получить право на жительство можно относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Einbürgerungsverfahren, die Einbürgerungsverfahren",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Процесс натурализации",
+      "translation_en": "Naturalization process",
+      "examples": [
+        {
+          "de": "Ohne das Einbürgerungsverfahren können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без процедуры натурализации."
+        },
+        {
+          "de": "Für den Umzug ist das Einbürgerungsverfahren besonders wichtig.",
+          "ru": "Процесс натурализации особенно важен при переезде."
+        },
+        {
+          "de": "Die Behörde hat das Einbürgerungsverfahren innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти подали заявление о натурализации в течение двух недель."
+        },
+        {
+          "de": "Ich musste ewig auf das Einbürgerungsverfahren warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось вечно ждать процесса натурализации, который занял почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, das Einbürgerungsverfahren brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, вам обязательно понадобится процедура натурализации при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Staatsbürgerschaft, die Staatsbürgerschaften",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "гражданство",
+      "translation_en": "citizenship",
+      "examples": [
+        {
+          "de": "Im Formular muss die Staatsbürgerschaft angegeben werden.",
+          "ru": "В анкете должно быть указано гражданство."
+        },
+        {
+          "de": "Für den Umzug ist die Staatsbürgerschaft besonders wichtig.",
+          "ru": "Гражданство особенно важно для переезда."
+        },
+        {
+          "de": "Der Vermieter hat die Staatsbürgerschaft rechtzeitig eingereicht.",
+          "ru": "Арендодатель подал гражданство вовремя."
+        },
+        {
+          "de": "Tipp: die Staatsbürgerschaft immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию вашего гражданства.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Staatsbürgerschaft warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Гражданства пришлось ждать вечно, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Führungszeugnis, die Führungszeugnisse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Сертификат хорошего поведения",
+      "translation_en": "Certificate of good conduct",
+      "examples": [
+        {
+          "de": "Beim Bürgeramt musste ich das Führungszeugnis vorlegen.",
+          "ru": "Мне пришлось предъявить в ЗАГС справку о несудимости."
+        },
+        {
+          "de": "Bitte bringen Sie das Führungszeugnis zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием справку о хорошем поведении."
+        },
+        {
+          "de": "das Führungszeugnis wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "справка о несудимости была оформлена ответственным служащим."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Führungszeugnis eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро получить справку о несудимости.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Führungszeugnis hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала справка о несудимости, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das polizeiliche Führungszeugnis, die Führungszeugnisse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "справка о несудимости",
+      "translation_en": "police clearance certificate",
+      "examples": [
+        {
+          "de": "Ohne das polizeiliche Führungszeugnis können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без справки о несудимости."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für das polizeiliche Führungszeugnis.",
+          "ru": "Медицинская страховка покрывает расходы на получение справки о несудимости."
+        },
+        {
+          "de": "Für den Umzug ist das polizeiliche Führungszeugnis besonders wichtig.",
+          "ru": "Справка о несудимости особенно важна при переезде."
+        },
+        {
+          "de": "Das mit dem polizeiliche Führungszeugnis hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с неучастием в полиции, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das polizeiliche Führungszeugnis eigentlich relativ schnell.",
+          "ru": "В наших краях справку о несудимости действительно можно получить сравнительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Dolmetscher, die Dolmetscher",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Устный переводчик",
+      "translation_en": "Interpreter",
+      "examples": [
+        {
+          "de": "Die Behörde hat den Dolmetscher innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали переводчика в течение двух недель."
+        },
+        {
+          "de": "Bitte bringen Sie den Dolmetscher zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой переводчика на встречу."
+        },
+        {
+          "de": "Ohne den Dolmetscher können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без переводчика."
+        },
+        {
+          "de": "Tipp: den Dolmetscher immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда имейте при себе копию переводчика, лучше перестраховаться.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Dolmetscher brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, переводчик при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Dolmetscherin, die Dolmetscherinnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Устный переводчик",
+      "translation_en": "Interpreter",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Dolmetscherin.",
+          "ru": "Медицинская страховка покрывает расходы на переводчика."
+        },
+        {
+          "de": "Für den Umzug ist die Dolmetscherin besonders wichtig.",
+          "ru": "Переводчик особенно важен во время переезда."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Dolmetscherin vorlegen.",
+          "ru": "Мне пришлось представить переводчика в гражданскую администрацию."
+        },
+        {
+          "de": "Das mit der Dolmetscherin hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с переводчиком, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Dolmetscherin brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, переводчик при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Übersetzer, die Übersetzer",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "переводчик",
+      "translation_en": "translator",
+      "examples": [
+        {
+          "de": "Ohne den Übersetzer können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать вашу заявку без переводчика."
+        },
+        {
+          "de": "der Übersetzer wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "переводчик был обработан ответственным клерком."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie den Übersetzer im Original.",
+          "ru": "Для регистрации вам понадобится оригинальный переводчик."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Übersetzer eigentlich relativ schnell.",
+          "ru": "В наших краях переводчика действительно можно найти относительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Übersetzer brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, переводчик вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Übersetzerin, die Übersetzerinnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Переводчик",
+      "translation_en": "Translator",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Übersetzerin innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали переводчика в течение двух недель."
+        },
+        {
+          "de": "Im Formular muss die Übersetzerin angegeben werden.",
+          "ru": "В форме необходимо указать переводчика."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Übersetzerin.",
+          "ru": "Медицинская страховка покрывает расходы переводчика."
+        },
+        {
+          "de": "Das mit der Übersetzerin hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с переводчиком, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Übersetzerin warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Переводчика пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Standesbeamte, die Standesbeamten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Регистраторы",
+      "translation_en": "Registrars",
+      "examples": [
+        {
+          "de": "Die Behörde hat den Standesbeamte innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал регистратору в течение двух недель."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich den Standesbeamte vorlegen.",
+          "ru": "Пришлось предъявлять ЗАГСу в ГГС."
+        },
+        {
+          "de": "Bitte bringen Sie den Standesbeamte zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой регистратора на прием."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Standesbeamte eigentlich relativ schnell.",
+          "ru": "В наших краях реально получить регистратор можно сравнительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Standesbeamte hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с регистратором, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Standesbeamtin, die Standesbeamtinnen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Регистратор",
+      "translation_en": "Registrar",
+      "examples": [
+        {
+          "de": "Beim Bürgeramt musste ich die Standesbeamtin vorlegen.",
+          "ru": "Пришлось предъявлять ЗАГСу в прокуратуре."
+        },
+        {
+          "de": "Der Vermieter hat die Standesbeamtin rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно передал его в ЗАГС."
+        },
+        {
+          "de": "Ohne die Standesbeamtin können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без регистратора."
+        },
+        {
+          "de": "Tipp: die Standesbeamtin immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте копию у регистратора.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Standesbeamtin brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, регистратор вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Akteneinsicht, die Akteneinsichten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Доступ к файлам",
+      "translation_en": "Access to files",
+      "examples": [
+        {
+          "de": "Der Vermieter hat die Akteneinsicht rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно предоставил доступ к файлам."
+        },
+        {
+          "de": "die Akteneinsicht wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Проверка файлов проводилась ответственным клерком."
+        },
+        {
+          "de": "Bitte bringen Sie die Akteneinsicht zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием документацию."
+        },
+        {
+          "de": "Tipp: die Akteneinsicht immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию файла.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Akteneinsicht warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось ждать вечно, чтобы увидеть файлы; это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Notarin, die Notarinnen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Нотариус",
+      "translation_en": "Notary",
+      "examples": [
+        {
+          "de": "Für den Umzug ist die Notarin besonders wichtig.",
+          "ru": "Нотариус особенно важен при переезде."
+        },
+        {
+          "de": "Bitte bringen Sie die Notarin zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой нотариуса на прием."
+        },
+        {
+          "de": "Im Formular muss die Notarin angegeben werden.",
+          "ru": "В форме необходимо указать нотариуса."
+        },
+        {
+          "de": "Tipp: die Notarin immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте копию у нотариуса.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Notarin hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с нотариусом, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Notarkosten, (nur Pl.)",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Нотариальные сборы",
+      "translation_en": "Notary fees",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Notarkosten.",
+          "ru": "Медицинская страховка покрывает расходы на нотариальные услуги."
+        },
+        {
+          "de": "die Notarkosten wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Нотариальные расходы были оформлены ответственным секретарем."
+        },
+        {
+          "de": "Der Vermieter hat die Notarkosten rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно внес нотариальные расходы."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Notarkosten eigentlich relativ schnell.",
+          "ru": "В нашем районе вы действительно можете получить нотариальные сборы относительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Notarkosten brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, вам обязательно понадобятся нотариальные расходы при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Abhilfebescheid, die Abhilfebescheide",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Уведомление о способах устранения",
+      "translation_en": "Remedy notice",
+      "examples": [
+        {
+          "de": "Im Formular muss der Abhilfebescheid angegeben werden.",
+          "ru": "Уведомление о мерах по исправлению положения должно быть указано в форме."
+        },
+        {
+          "de": "Die Behörde hat den Abhilfebescheid innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали уведомление об исправлении ситуации в течение двух недель."
+        },
+        {
+          "de": "Ohne den Abhilfebescheid können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать ваше заявление без принятия корректирующего решения."
+        },
+        {
+          "de": "Das mit dem Abhilfebescheid hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень расстроило исправительное решение, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Abhilfebescheid brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Таким образом, вам обязательно понадобится уведомление об исправлении ситуации при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Widerspruchsbescheid, die Widerspruchsbescheide",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Уведомление о возражении",
+      "translation_en": "Objection notice",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Widerspruchsbescheid.",
+          "ru": "Медицинская страховка покрывает расходы на уведомление о возражении."
+        },
+        {
+          "de": "Ohne den Widerspruchsbescheid können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без уведомления о возражении."
+        },
+        {
+          "de": "Bitte bringen Sie den Widerspruchsbescheid zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой уведомление о возражении на прием."
+        },
+        {
+          "de": "Ich musste ewig auf den Widerspruchsbescheid warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Решение по возражению пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Widerspruchsbescheid eigentlich relativ schnell.",
+          "ru": "В нашем регионе вы действительно получаете уведомление о возражении относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Widerspruchsfrist, die Widerspruchsfristen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Срок возражения",
+      "translation_en": "Objection deadline",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie die Widerspruchsfrist im Original.",
+          "ru": "Для регистрации вам необходим первоначальный срок подачи возражения."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Widerspruchsfrist vorlegen.",
+          "ru": "Мне пришлось сообщить в Управление по делам граждан срок подачи возражения."
+        },
+        {
+          "de": "Im Formular muss die Widerspruchsfrist angegeben werden.",
+          "ru": "Срок подачи возражений должен быть указан в форме."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Widerspruchsfrist eigentlich relativ schnell.",
+          "ru": "В нашем регионе срок подачи возражений наступает относительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: die Widerspruchsfrist immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию срока подачи возражений.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Klagefrist, die Klagefristen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Срок подачи иска",
+      "translation_en": "Deadline for filing a lawsuit",
+      "examples": [
+        {
+          "de": "Die Behörde hat die Klagefrist innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали уведомление об апелляции в течение двух недель."
+        },
+        {
+          "de": "Im Formular muss die Klagefrist angegeben werden.",
+          "ru": "В форме должен быть указан срок подачи жалобы."
+        },
+        {
+          "de": "Bitte bringen Sie die Klagefrist zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием срок подачи жалобы."
+        },
+        {
+          "de": "Das mit der Klagefrist hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Срок подачи иска меня очень раздражал, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Klagefrist eigentlich relativ schnell.",
+          "ru": "В нашем регионе срок подачи иска на самом деле наступает относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Gerichtsverfahren, die Gerichtsverfahren",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Судебные разбирательства",
+      "translation_en": "Legal proceedings",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie das Gerichtsverfahren im Original.",
+          "ru": "Для регистрации вам понадобится оригинал судебного дела."
+        },
+        {
+          "de": "das Gerichtsverfahren wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Судебное дело велось ответственным секретарем."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich das Gerichtsverfahren vorlegen.",
+          "ru": "Мне пришлось передать судебное дело в Управление по делам граждан."
+        },
+        {
+          "de": "Das mit dem Gerichtsverfahren hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Суд меня очень раздражал, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf das Gerichtsverfahren warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось вечно ждать суда, который занял почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Verfügung, die Verfügungen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Утилизация",
+      "translation_en": "Disposal",
+      "examples": [
+        {
+          "de": "die Verfügung wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "заказ был обработан ответственным клерком."
+        },
+        {
+          "de": "Der Vermieter hat die Verfügung rechtzeitig eingereicht.",
+          "ru": "Арендодатель выполнил заказ в срок."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Verfügung im Original.",
+          "ru": "Для регистрации вам понадобится оригинал заказа."
+        },
+        {
+          "de": "Tipp: die Verfügung immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию заказа.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Verfügung eigentlich relativ schnell.",
+          "ru": "В наших краях реально получить заказ можно относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Gerichtsvollzieherin, die Gerichtsvollzieherinnen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "судебный пристав",
+      "translation_en": "Bailiff",
+      "examples": [
+        {
+          "de": "Im Formular muss die Gerichtsvollzieherin angegeben werden.",
+          "ru": "В бланке должно быть указано имя судебного пристава."
+        },
+        {
+          "de": "Die Behörde hat die Gerichtsvollzieherin innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Орган выдал судебному приставу решение в течение двух недель."
+        },
+        {
+          "de": "Ohne die Gerichtsvollzieherin können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем рассмотреть Ваше заявление без судебного пристава."
+        },
+        {
+          "de": "Tipp: die Gerichtsvollzieherin immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда имейте при себе копию пристава, на всякий случай.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Gerichtsvollzieherin warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Пристава пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Bußgeldverfahren, die Bußgeldverfahren",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Процедура штрафов",
+      "translation_en": "Fines procedure",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie das Bußgeldverfahren zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием процедуру штрафа."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie das Bußgeldverfahren im Original.",
+          "ru": "Для регистрации вам понадобится оригинальная штрафная процедура."
+        },
+        {
+          "de": "Im Formular muss das Bußgeldverfahren angegeben werden.",
+          "ru": "Порядок штрафа должен быть указан в форме."
+        },
+        {
+          "de": "Also, das Bußgeldverfahren brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, вам обязательно понадобится штрафная процедура, если вы поменяете регистрацию.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: das Bußgeldverfahren immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию штрафной процедуры.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Verwarngeld, die Verwarngelder",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Предупреждение штраф",
+      "translation_en": "Warning fine",
+      "examples": [
+        {
+          "de": "das Verwarngeld wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Штраф за предупреждение был обработан ответственным служащим."
+        },
+        {
+          "de": "Die Behörde hat das Verwarngeld innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выпустили предупреждение в течение двух недель."
+        },
+        {
+          "de": "Im Formular muss das Verwarngeld angegeben werden.",
+          "ru": "Штраф за предупреждение должен быть указан в бланке."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Verwarngeld eigentlich relativ schnell.",
+          "ru": "В нашем регионе вы действительно получаете штраф с предупреждением относительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf das Verwarngeld warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Денег за предупреждение пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Ordnungswidrigkeit, die Ordnungswidrigkeiten",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "проступок",
+      "translation_en": "misdemeanor",
+      "examples": [
+        {
+          "de": "Für den Umzug ist die Ordnungswidrigkeit besonders wichtig.",
+          "ru": "Административное правонарушение имеет особое значение для переезда."
+        },
+        {
+          "de": "Die Behörde hat die Ordnungswidrigkeit innerhalb von zwei Wochen ausgestellt.",
+          "ru": "В течение двух недель орган вынес решение об административном правонарушении."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Ordnungswidrigkeit im Original.",
+          "ru": "Для регистрации необходим оригинал протокола об административном правонарушении."
+        },
+        {
+          "de": "Ich musste ewig auf die Ordnungswidrigkeit warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Пришлось ждать вынесения административного правонарушения целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: die Ordnungswidrigkeit immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда имейте при себе копию протокола об административном правонарушении, на всякий случай.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Tatbestand, die Tatbestände",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Обстоятельства дела",
+      "translation_en": "Facts of the case",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie den Tatbestand im Original.",
+          "ru": "Для регистрации вам понадобится оригинальное изложение фактов."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich den Tatbestand vorlegen.",
+          "ru": "Мне пришлось изложить обстоятельства дела в гражданскую прокуратуру."
+        },
+        {
+          "de": "der Tatbestand wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Дело рассматривалось ответственным секретарем."
+        },
+        {
+          "de": "Das mit dem Tatbestand hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Сам факт преступления меня очень раздражал, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf den Tatbestand warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Мне пришлось вечно ждать, пока факты произойдут; это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Vergehen, die Vergehen",
+      "part_of_speech": "Noun",
+      "level": "C1",
+      "translation_ru": "Проступок",
+      "translation_en": "Misdemeanor",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie das Vergehen zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием обиду."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für das Vergehen.",
+          "ru": "Медицинская страховка покрывает расходы, связанные с правонарушением."
+        },
+        {
+          "de": "Die Behörde hat das Vergehen innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали уведомление о нарушении в течение двух недель."
+        },
+        {
+          "de": "Das mit dem Vergehen hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Нападения меня очень раздражали, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Vergehen eigentlich relativ schnell.",
+          "ru": "В наших краях правонарушение действительно можно обнаружить сравнительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Strafzettel, die Strafzettel",
+      "part_of_speech": "Noun",
+      "level": "A2",
+      "translation_ru": "Транспортный талон",
+      "translation_en": "Traffic ticket",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie den Strafzettel im Original.",
+          "ru": "Для регистрации вам понадобится оригинал парковочного талона."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Strafzettel.",
+          "ru": "Медицинская страховка покрывает расходы на проездной билет."
+        },
+        {
+          "de": "Für den Umzug ist der Strafzettel besonders wichtig.",
+          "ru": "Транспортный талон особенно важен при переезде."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Strafzettel eigentlich relativ schnell.",
+          "ru": "В нашем районе штраф за превышение скорости получают довольно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Strafzettel brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, парковочный талон вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Knöllchen, die Knöllchen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "узелок",
+      "translation_en": "nodule",
+      "examples": [
+        {
+          "de": "Die Behörde hat das Knöllchen innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали билет в течение двух недель."
+        },
+        {
+          "de": "Bitte bringen Sie das Knöllchen zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите билет с собой на прием."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie das Knöllchen im Original.",
+          "ru": "Для регистрации вам понадобится оригинал билета."
+        },
+        {
+          "de": "Das mit dem Knöllchen hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Билеты меня очень раздражали, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf das Knöllchen warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Билет пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Parkverstoß, die Parkverstöße",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Нарушение правил парковки",
+      "translation_en": "Parking violation",
+      "examples": [
+        {
+          "de": "Für den Umzug ist der Parkverstoß besonders wichtig.",
+          "ru": "Нарушение правил парковки особенно важно при переезде."
+        },
+        {
+          "de": "Bitte bringen Sie den Parkverstoß zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием нарушение правил парковки."
+        },
+        {
+          "de": "Der Vermieter hat den Parkverstoß rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно сообщил о нарушении правил парковки."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Parkverstoß eigentlich relativ schnell.",
+          "ru": "В нашем районе на самом деле нарушения правил парковки возникают сравнительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: den Parkverstoß immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда имейте при себе копию протокола о нарушении правил парковки, лучше перестраховаться, чем потом потом сожалеть.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Geschwindigkeitsüberschreitung, die Überschreitungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Превышение скорости",
+      "translation_en": "Speeding",
+      "examples": [
+        {
+          "de": "Ohne die Geschwindigkeitsüberschreitung können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, без нарушения скорости мы не сможем обработать вашу заявку."
+        },
+        {
+          "de": "die Geschwindigkeitsüberschreitung wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Нарушением скорости занимался ответственный сотрудник."
+        },
+        {
+          "de": "Bitte bringen Sie die Geschwindigkeitsüberschreitung zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием запись о превышении скорости."
+        },
+        {
+          "de": "Das mit der Geschwindigkeitsüberschreitung hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражало превышение скорости, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Geschwindigkeitsüberschreitung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Нарушения скоростного режима мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Blitzer, die Blitzer",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Камера контроля скорости",
+      "translation_en": "Speed ​​camera",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie den Blitzer zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием камеру контроля скорости."
+        },
+        {
+          "de": "Im Formular muss der Blitzer angegeben werden.",
+          "ru": "В форме необходимо указать камеру контроля скорости."
+        },
+        {
+          "de": "Für den Umzug ist der Blitzer besonders wichtig.",
+          "ru": "Камера контроля скорости особенно важна при движении."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Blitzer eigentlich relativ schnell.",
+          "ru": "В нашем районе вы действительно можете получить камеру контроля скорости относительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Blitzer brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, камера контроля скорости вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Radarfalle, die Radarfallen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Скоростная ловушка",
+      "translation_en": "Speed ​​trap",
+      "examples": [
+        {
+          "de": "Ohne die Radarfalle können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без ловушки скорости."
+        },
+        {
+          "de": "Für den Umzug ist die Radarfalle besonders wichtig.",
+          "ru": "Ловушка скорости особенно важна при движении."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Radarfalle im Original.",
+          "ru": "Для регистрации вам понадобится оригинальная спидловка."
+        },
+        {
+          "de": "Also, die Radarfalle brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, спидловка вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Radarfalle warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Скоростную ловушку пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Führerscheinstelle, die Führerscheinstellen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Офис водительских прав",
+      "translation_en": "Driver's license office",
+      "examples": [
+        {
+          "de": "Für den Umzug ist die Führerscheinstelle besonders wichtig.",
+          "ru": "Офис водительских прав особенно важен при переезде."
+        },
+        {
+          "de": "Der Vermieter hat die Führerscheinstelle rechtzeitig eingereicht.",
+          "ru": "Арендодатель вовремя сдал в офис водительские права."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Führerscheinstelle im Original.",
+          "ru": "Für die Anmeldung benötigen Sie die Führerscheinstelle im Original."
+        },
+        {
+          "de": "Ich musste ewig auf die Führerscheinstelle warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Ich musste ewig auf die Führerscheinstelle warten, das hat fast sechs Wochen gedauert.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit der Führerscheinstelle hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Das mit der Führerscheinstelle hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Fahrerlaubnis, die Fahrerlaubnisse",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Fahrerlaubnis",
+      "translation_en": "Fahrerlaubnis",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Fahrerlaubnis.",
+          "ru": "Die Krankenversicherung übernimmt die Kosten für die Fahrerlaubnis."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich die Fahrerlaubnis vorlegen.",
+          "ru": "Beim Bürgeramt musste ich die Fahrerlaubnis vorlegen."
+        },
+        {
+          "de": "Im Formular muss die Fahrerlaubnis angegeben werden.",
+          "ru": "Im Formular muss die Fahrerlaubnis angegeben werden."
+        },
+        {
+          "de": "Das mit der Fahrerlaubnis hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Das mit der Fahrerlaubnis hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Fahrerlaubnis warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Ich musste ewig auf die Fahrerlaubnis warten, das hat fast sechs Wochen gedauert.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Führerscheinentzug, die Führerscheinentzüge",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Führerscheinentzug",
+      "translation_en": "Driving license revocation",
+      "examples": [
+        {
+          "de": "Der Vermieter hat den Führerscheinentzug rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно подал заявление о приостановлении действия водительских прав."
+        },
+        {
+          "de": "Die Behörde hat den Führerscheinentzug innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали решение о приостановлении действия водительских прав в течение двух недель."
+        },
+        {
+          "de": "Im Formular muss der Führerscheinentzug angegeben werden.",
+          "ru": "В бланке необходимо указать отзыв водительского удостоверения."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Führerscheinentzug eigentlich relativ schnell.",
+          "ru": "В нашем регионе вы действительно можете относительно быстро отозвать свои водительские права.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: den Führerscheinentzug immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию заявления об отзыве водительских прав.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Fahrverbot, die Fahrverbote",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Запрет на вождение",
+      "translation_en": "Driving ban",
+      "examples": [
+        {
+          "de": "Beim Bürgeramt musste ich das Fahrverbot vorlegen.",
+          "ru": "Мне пришлось предъявить запрет на вождение в прокуратуру."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie das Fahrverbot im Original.",
+          "ru": "Для регистрации вам понадобится оригинал запрета на вождение."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für das Fahrverbot.",
+          "ru": "Медицинская страховка покрывает расходы, связанные с запретом на вождение."
+        },
+        {
+          "de": "Also, das Fahrverbot brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, запрет на вождение вам обязательно понадобится, если вы поменяете регистрацию.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: das Fahrverbot immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда имейте при себе копию запрета на вождение, лучше перестраховаться.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kfz-Zulassungsstelle, die Kfz-Zulassungsstellen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Офис регистрации транспортных средств",
+      "translation_en": "Vehicle registration office",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie die Kfz-Zulassungsstelle im Original.",
+          "ru": "Для регистрации вам понадобится оригинальный орган регистрации транспортного средства."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Kfz-Zulassungsstelle.",
+          "ru": "Медицинская страховка покрывает расходы на регистрацию транспортного средства."
+        },
+        {
+          "de": "Für den Umzug ist die Kfz-Zulassungsstelle besonders wichtig.",
+          "ru": "Регистрация транспортного средства особенно важна при переезде."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man die Kfz-Zulassungsstelle eigentlich relativ schnell.",
+          "ru": "В наших краях действительно можно относительно быстро добраться до пункта регистрации ТС.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: die Kfz-Zulassungsstelle immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию регистрации транспортного средства.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Kfz-Zulassung, die Kfz-Zulassungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Регистрация автомобиля",
+      "translation_en": "Vehicle registration",
+      "examples": [
+        {
+          "de": "Bitte bringen Sie die Kfz-Zulassung zu Ihrem Termin mit.",
+          "ru": "На прием возьмите с собой регистрацию вашего автомобиля."
+        },
+        {
+          "de": "Ohne die Kfz-Zulassung können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без регистрации автомобиля."
+        },
+        {
+          "de": "Für den Umzug ist die Kfz-Zulassung besonders wichtig.",
+          "ru": "Регистрация транспортного средства особенно важна при переезде."
+        },
+        {
+          "de": "Das mit der Kfz-Zulassung hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала проблема с регистрацией автомобилей, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Kfz-Zulassung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Регистрацию автомобиля пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Kennzeichen, die Kennzeichen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "отметка",
+      "translation_en": "mark",
+      "examples": [
+        {
+          "de": "Ohne das Kennzeichen können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без номерного знака."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für das Kennzeichen.",
+          "ru": "Медицинская страховка покрывает стоимость номерного знака."
+        },
+        {
+          "de": "Für den Umzug ist das Kennzeichen besonders wichtig.",
+          "ru": "Номерной знак особенно важен при движении."
+        },
+        {
+          "de": "Das mit dem Kennzeichen hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Номерной знак меня очень раздражал, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: das Kennzeichen immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию номерного знака.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Kfz-Kennzeichen, die Kfz-Kennzeichen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Номерной знак",
+      "translation_en": "License plate",
+      "examples": [
+        {
+          "de": "Ohne das Kfz-Kennzeichen können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без номерного знака."
+        },
+        {
+          "de": "Für den Umzug ist das Kfz-Kennzeichen besonders wichtig.",
+          "ru": "Номерной знак особенно важен при переезде."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für das Kfz-Kennzeichen.",
+          "ru": "Медицинская страховка покрывает стоимость номерного знака транспортного средства."
+        },
+        {
+          "de": "Tipp: das Kfz-Kennzeichen immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда имейте при себе копию своего номерного знака, лучше перестраховаться.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man das Kfz-Kennzeichen eigentlich relativ schnell.",
+          "ru": "В нашем районе вы действительно можете получить номерной знак относительно быстро.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Fahrzeugschein, die Fahrzeugscheine",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Документ о регистрации транспортного средства",
+      "translation_en": "Vehicle registration document",
+      "examples": [
+        {
+          "de": "Für den Umzug ist der Fahrzeugschein besonders wichtig.",
+          "ru": "Документ о регистрации транспортного средства особенно важен при переезде."
+        },
+        {
+          "de": "Im Formular muss der Fahrzeugschein angegeben werden.",
+          "ru": "В бланке необходимо указать документ о регистрации транспортного средства."
+        },
+        {
+          "de": "Die Behörde hat den Fahrzeugschein innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали лицензию на транспортное средство в течение двух недель."
+        },
+        {
+          "de": "Also, den Fahrzeugschein brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, документ о регистрации транспортного средства при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Fahrzeugschein hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала проблема с регистрацией транспортных средств, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Fahrzeugbrief, die Fahrzeugbriefe",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Документ о регистрации транспортного средства",
+      "translation_en": "Vehicle registration document",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie den Fahrzeugbrief im Original.",
+          "ru": "Для регистрации вам понадобится оригинал документа о регистрации транспортного средства."
+        },
+        {
+          "de": "Bitte bringen Sie den Fahrzeugbrief zu Ihrem Termin mit.",
+          "ru": "На прием возьмите с собой документ о регистрации транспортного средства."
+        },
+        {
+          "de": "Beim Bürgeramt musste ich den Fahrzeugbrief vorlegen.",
+          "ru": "Мне пришлось предъявить документ о регистрации транспортного средства в горсовете."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Fahrzeugbrief eigentlich relativ schnell.",
+          "ru": "В наших краях действительно получить свидетельство о регистрации транспортного средства можно сравнительно быстро.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: den Fahrzeugbrief immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию документа о регистрации транспортного средства.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Hauptuntersuchung, die Hauptuntersuchungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Основная проверка",
+      "translation_en": "Main inspection",
+      "examples": [
+        {
+          "de": "Der Vermieter hat die Hauptuntersuchung rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно провел генеральную проверку."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Hauptuntersuchung im Original.",
+          "ru": "Для регистрации нужен оригинал основного осмотра."
+        },
+        {
+          "de": "Die Behörde hat die Hauptuntersuchung innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти провели основную проверку в течение двух недель."
+        },
+        {
+          "de": "Tipp: die Hauptuntersuchung immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию общего осмотра.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Hauptuntersuchung brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Так что, вам обязательно понадобится генеральная проверка при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Abgasuntersuchung, die Abgasuntersuchungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Тест на выбросы",
+      "translation_en": "Emissions test",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Abgasuntersuchung.",
+          "ru": "Медицинская страховка покрывает расходы на проверку выбросов."
+        },
+        {
+          "de": "Bitte bringen Sie die Abgasuntersuchung zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием тест на выбросы."
+        },
+        {
+          "de": "Für den Umzug ist die Abgasuntersuchung besonders wichtig.",
+          "ru": "Проверка выбросов особенно важна при переезде."
+        },
+        {
+          "de": "Tipp: die Abgasuntersuchung immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию теста на выбросы.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Abgasuntersuchung warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Теста на выбросы мне пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Prüfplakette, die Prüfplaketten",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Инспекционная наклейка",
+      "translation_en": "Inspection sticker",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Prüfplakette.",
+          "ru": "Медицинская страховка покрывает расходы на наклейку техосмотра."
+        },
+        {
+          "de": "die Prüfplakette wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "Наклейка осмотра была обработана ответственным клерком."
+        },
+        {
+          "de": "Ohne die Prüfplakette können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать вашу заявку без наклейки проверки."
+        },
+        {
+          "de": "Das mit der Prüfplakette hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала наклейка техосмотра, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Prüfplakette brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, наклейка техосмотра вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der TÜV, (nur Sg.)",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "ТЮВ",
+      "translation_en": "TÜV",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie den TÜV im Original.",
+          "ru": "Для регистрации вам понадобится оригинальный сертификат TÜV."
+        },
+        {
+          "de": "Im Formular muss der TÜV angegeben werden.",
+          "ru": "В форме должен быть указан сертификат TÜV."
+        },
+        {
+          "de": "der TÜV wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "TÜV был обработан ответственным клерком."
+        },
+        {
+          "de": "Ich musste ewig auf den TÜV warten, das hat fast sechs Wochen gedauert.",
+          "ru": "ТО пришлось ждать целую вечность, оно заняло почти шесть недель.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: den TÜV immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию сертификата TÜV.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "das Straßenverkehrsamt, die Straßenverkehrsämter",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Управление дорожного движения",
+      "translation_en": "Road Traffic Office",
+      "examples": [
+        {
+          "de": "Die Behörde hat das Straßenverkehrsamt innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власти выдали сертификат дорожного движения в течение двух недель."
+        },
+        {
+          "de": "Bitte bringen Sie das Straßenverkehrsamt zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на прием сотрудников дорожно-транспортной службы."
+        },
+        {
+          "de": "das Straßenverkehrsamt wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "отдел дорожного движения обработал ответственный служащий."
+        },
+        {
+          "de": "Das mit dem Straßenverkehrsamt hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с ГИБДД, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Tipp: das Straßenverkehrsamt immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: всегда имейте при себе копию документа ГИБДД, лучше перестраховаться.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "beglaubigen lassen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "сертифицировать это",
+      "translation_en": "have it certified",
+      "examples": [
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu beglaubigen lassen.",
+          "ru": "Важно подтвердить срок подачи налоговой декларации."
+        },
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell beglaubigen lassen.",
+          "ru": "Клерк смог быстро заверить заявку."
+        },
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich beglaubigen lassen.",
+          "ru": "Арендатор должен своевременно подтвердить дополнительные расходы."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig beglaubigen lassen.",
+          "ru": "Да, вам действительно нужно быть осторожным и правильно пройти аутентификацию.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett beglaubigen lassen, das war anstrengend.",
+          "ru": "В конце концов нам пришлось заново все полностью сертифицировать, а это было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "anerkennen lassen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "признали",
+      "translation_en": "have recognized",
+      "examples": [
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell anerkennen lassen.",
+          "ru": "Мне удалось быстро получить подтверждение моей обеспокоенности в офисе граждан."
+        },
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell anerkennen lassen.",
+          "ru": "Клерк смог быстро распознать заявку."
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu anerkennen lassen.",
+          "ru": "Не забудьте подтвердить свою медицинскую страховку."
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu anerkennen lassen.",
+          "ru": "Недавно я сам испытал это, когда пытался добиться признания.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett anerkennen lassen, das war anstrengend.",
+          "ru": "В конце концов нам пришлось заново все полностью распознавать, а это было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "abfertigen",
+      "part_of_speech": "Verb",
+      "level": "B2",
+      "translation_ru": "отправлять",
+      "translation_en": "dispatch",
+      "examples": [
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich abfertigen.",
+          "ru": "Арендатор обязан своевременно оплатить дополнительные расходы."
+        },
+        {
+          "de": "Die Behörde hat beschlossen, das Verfahren zu abfertigen.",
+          "ru": "Власти решили завершить процедуру."
+        },
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell abfertigen.",
+          "ru": "Мне удалось быстро обработать мою просьбу в офисе граждан."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich abfertigen.",
+          "ru": "Мой начальник всегда говорит, чтобы все было сделано как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu abfertigen, aber machbar.",
+          "ru": "Что ж, иногда это не так просто сделать, но можно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "weiterleiten",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "вперед",
+      "translation_en": "forward",
+      "examples": [
+        {
+          "de": "Die Behörde hat beschlossen, das Verfahren zu weiterleiten.",
+          "ru": "Власти решили ускорить процедуру."
+        },
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich weiterleiten.",
+          "ru": "Арендатор должен вовремя оплатить дополнительные расходы."
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu weiterleiten.",
+          "ru": "Не забудьте отправить свою медицинскую страховку."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich weiterleiten.",
+          "ru": "Мой босс всегда советует передать это как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Im Endeffekt mussten wir alles nochmal komplett weiterleiten, das war anstrengend.",
+          "ru": "В конце концов нам пришлось полностью все ретранслировать, что было утомительно.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "beilegen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "прикреплять",
+      "translation_en": "attach",
+      "examples": [
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell beilegen.",
+          "ru": "Сотрудник смог быстро решить заявку."
+        },
+        {
+          "de": "Sie müssen sich innerhalb von zwei Wochen beim Einwohnermeldeamt beilegen.",
+          "ru": "Заявление необходимо подать в отдел регистрации жильцов в течение двух недель."
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu beilegen.",
+          "ru": "Не забудьте включить медицинскую страховку."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu beilegen, aber machbar.",
+          "ru": "Что ж, иногда это не так просто решить, но можно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich beilegen.",
+          "ru": "Мой босс всегда советует уладить этот вопрос как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "anhängen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "прикреплять",
+      "translation_en": "attach",
+      "examples": [
+        {
+          "de": "Beim Umzug muss man viele Formalitäten anhängen.",
+          "ru": "При переезде необходимо выполнить множество формальностей."
+        },
+        {
+          "de": "Es ist wichtig, die Frist für die Steuererklärung zu anhängen.",
+          "ru": "Важно указать срок подачи налоговой декларации."
+        },
+        {
+          "de": "Der Mieter muss die Nebenkosten pünktlich anhängen.",
+          "ru": "Арендатор обязан своевременно оплатить дополнительные расходы."
+        },
+        {
+          "de": "Ja, also da muss man halt wirklich aufpassen und das richtig anhängen.",
+          "ru": "Да, действительно надо быть внимательным и правильно прикрепить.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich anhängen.",
+          "ru": "Мой босс всегда советует поднять этот вопрос как можно раньше.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "verlängern lassen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "продлить его",
+      "translation_en": "have it extended",
+      "examples": [
+        {
+          "de": "Beim Umzug muss man viele Formalitäten verlängern lassen.",
+          "ru": "При переезде придется продлевать множество формальностей."
+        },
+        {
+          "de": "Der Sachbearbeiter konnte den Antrag schnell verlängern lassen.",
+          "ru": "Клерк смог быстро продлить заявку."
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu verlängern lassen.",
+          "ru": "Не забудьте продлить медицинскую страховку."
+        },
+        {
+          "de": "Na ja, das ist manchmal gar nicht so leicht zu verlängern lassen, aber machbar.",
+          "ru": "Что ж, иногда продлить не так-то просто, но можно.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu verlängern lassen.",
+          "ru": "Недавно я сам испытал это, когда пытался продлить его.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "sich ausweisen",
+      "part_of_speech": "Verb",
+      "level": "B1",
+      "translation_ru": "идентифицируйте себя",
+      "translation_en": "identify yourself",
+      "examples": [
+        {
+          "de": "Im Bürgerbüro konnte ich mein Anliegen schnell sich ausweisen.",
+          "ru": "Я смог быстро определить свои опасения в офисе граждан."
+        },
+        {
+          "de": "Vergessen Sie nicht, Ihre Krankenkasse zu sich ausweisen.",
+          "ru": "Не забудьте предоставить подтверждение вашей медицинской страховой компании."
+        },
+        {
+          "de": "Beim Umzug muss man viele Formalitäten sich ausweisen.",
+          "ru": "При переезде вам придется пройти массу формальностей, чтобы предъявить удостоверение личности."
+        },
+        {
+          "de": "Mein Chef sagt immer, man soll das so früh wie möglich sich ausweisen.",
+          "ru": "Мой начальник всегда советует представиться как можно раньше.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich habe das letztens selbst erlebt, als ich versucht habe zu sich ausweisen.",
+          "ru": "Недавно я сам испытал это, когда пытался идентифицировать себя.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "behördlich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "чиновник",
+      "translation_en": "official",
+      "examples": [
+        {
+          "de": "Die Nachbarschaft ist behördlich und angenehm.",
+          "ru": "Район официальный и приятный."
+        },
+        {
+          "de": "Die Bearbeitungszeit war behördlich lang.",
+          "ru": "Официально время обработки было долгим."
+        },
+        {
+          "de": "Der Termin beim Arzt war erstaunlich behördlich zu bekommen.",
+          "ru": "На прием к врачу попасть было на удивление легко."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht behördlich, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может звучать официально, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total behördlich, hat mir echt geholfen.",
+          "ru": "Это было совершенно официально и мне очень помогло.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "bürokratisch",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "бюрократический",
+      "translation_en": "bureaucratic",
+      "examples": [
+        {
+          "de": "Die Bearbeitungszeit war bürokratisch lang.",
+          "ru": "Срок рассмотрения был бюрократически долгим."
+        },
+        {
+          "de": "Eine bürokratisch Wohnung in guter Lage zu finden ist nicht einfach.",
+          "ru": "Найти квартиру в хорошем месте непросто."
+        },
+        {
+          "de": "Der bürokratische Prozess war überraschend bürokratisch.",
+          "ru": "Бюрократический процесс оказался на удивление бюрократичным."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich bürokratisch, das hat mich überrascht.",
+          "ru": "Ну, я думаю, что результат действительно бюрократический, что меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht bürokratisch, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может показаться бюрократическим, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "amtlich",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "чиновник",
+      "translation_en": "official",
+      "examples": [
+        {
+          "de": "Eine amtlich Erledigung des Antrags ist wünschenswert.",
+          "ru": "Желательно, чтобы заявка была официально оформлена."
+        },
+        {
+          "de": "Das Serviceangebot der Behörde ist leider wenig amtlich.",
+          "ru": "К сожалению, услуга, предлагаемая властями, не очень официальна."
+        },
+        {
+          "de": "Die Qualität des ÖPNV in dieser Stadt ist amtlich.",
+          "ru": "Качество общественного транспорта в этом городе официальное."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich amtlich, muss man ehrlich sagen.",
+          "ru": "Да, это довольно официально, я должен быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total amtlich, hat mir echt geholfen.",
+          "ru": "Это было совершенно официально и мне очень помогло.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "unvollständig",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "неполный",
+      "translation_en": "incomplete",
+      "examples": [
+        {
+          "de": "Die Nachbarschaft ist unvollständig und angenehm.",
+          "ru": "Район неполный и приятный."
+        },
+        {
+          "de": "Das Serviceangebot der Behörde ist leider wenig unvollständig.",
+          "ru": "К сожалению, спектр услуг органа не является неполным."
+        },
+        {
+          "de": "Der bürokratische Prozess war überraschend unvollständig.",
+          "ru": "Бюрократический процесс оказался на удивление незавершенным."
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher unvollständig, als man zunächst denkt.",
+          "ru": "По моему опыту, это более неполно, чем вы можете подумать на первый взгляд.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich unvollständig, das hat mich überrascht.",
+          "ru": "Ну, я думаю, что результат действительно неполный, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "gültig",
+      "part_of_speech": "Adjective",
+      "level": "A2",
+      "translation_ru": "действительный",
+      "translation_en": "valid",
+      "examples": [
+        {
+          "de": "Der bürokratische Prozess war überraschend gültig.",
+          "ru": "Бюрократический процесс оказался на удивление действенным."
+        },
+        {
+          "de": "Der Termin beim Arzt war erstaunlich gültig zu bekommen.",
+          "ru": "Встреча с врачом оказалась на удивление состоятельной."
+        },
+        {
+          "de": "Das Serviceangebot der Behörde ist leider wenig gültig.",
+          "ru": "К сожалению, услуга, предлагаемая властями, не очень действительна."
+        },
+        {
+          "de": "Na ja, das klingt vielleicht gültig, aber in der Praxis ist es anders.",
+          "ru": "Что ж, это может звучать обоснованно, но на практике все по-другому.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total gültig, hat mir echt geholfen.",
+          "ru": "Это было совершенно верно, мне действительно помогло.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "ungültig",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "неверный",
+      "translation_en": "invalid",
+      "examples": [
+        {
+          "de": "Die Qualität des ÖPNV in dieser Stadt ist ungültig.",
+          "ru": "Качество общественного транспорта в этом городе неудовлетворительное."
+        },
+        {
+          "de": "Das Serviceangebot der Behörde ist leider wenig ungültig.",
+          "ru": "К сожалению, услуга, предлагаемая властями, не очень действительна."
+        },
+        {
+          "de": "Der bürokratische Prozess war überraschend ungültig.",
+          "ru": "Бюрократический процесс оказался на удивление недействительным."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich ungültig, muss man ehrlich sagen.",
+          "ru": "Да, это довольно некорректно, надо быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher ungültig, als man zunächst denkt.",
+          "ru": "По моему опыту, это более неверно, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "abgelaufen",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "истекший",
+      "translation_en": "expired",
+      "examples": [
+        {
+          "de": "Die Qualität des ÖPNV in dieser Stadt ist abgelaufen.",
+          "ru": "Качество общественного транспорта в этом городе ухудшилось."
+        },
+        {
+          "de": "Der bürokratische Prozess war überraschend abgelaufen.",
+          "ru": "Бюрократический процесс удивил."
+        },
+        {
+          "de": "Die Bearbeitungszeit war abgelaufen lang.",
+          "ru": "Время обработки было долгим."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich abgelaufen, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно был просрочен, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das war total abgelaufen, hat mir echt geholfen.",
+          "ru": "Это было совершенно перебором и действительно помогло мне.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "notariell",
+      "part_of_speech": "Adjective",
+      "level": "C1",
+      "translation_ru": "нотариально заверенный",
+      "translation_en": "notarized",
+      "examples": [
+        {
+          "de": "Der bürokratische Prozess war überraschend notariell.",
+          "ru": "Бюрократический процесс на удивление был нотариально заверен."
+        },
+        {
+          "de": "Die Bearbeitungszeit war notariell lang.",
+          "ru": "Срок рассмотрения был нотариально долгим."
+        },
+        {
+          "de": "Das Serviceangebot der Behörde ist leider wenig notariell.",
+          "ru": "К сожалению, услуга, предлагаемая органом, не очень нотариальна."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich notariell, muss man ehrlich sagen.",
+          "ru": "Да, это довольно нотариально, надо быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "In meiner Erfahrung ist das eher notariell, als man zunächst denkt.",
+          "ru": "По моему опыту, это более нотариально, чем вы думаете на первый взгляд.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "gebührenpflichtig",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "взимается плата",
+      "translation_en": "charges apply",
+      "examples": [
+        {
+          "de": "Die Bearbeitungszeit war gebührenpflichtig lang.",
+          "ru": "Время обработки было длительным, за него взималась плата."
+        },
+        {
+          "de": "Eine gebührenpflichtig Wohnung in guter Lage zu finden ist nicht einfach.",
+          "ru": "Найти платную квартиру в хорошем месте непросто."
+        },
+        {
+          "de": "Der Termin beim Arzt war erstaunlich gebührenpflichtig zu bekommen.",
+          "ru": "Прием к врачу на удивление оказался платным."
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich gebührenpflichtig, das hat mich überrascht.",
+          "ru": "Итак, я думаю, что результат действительно стоит того, чтобы заплатить, и это меня удивило.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ja, das ist schon ziemlich gebührenpflichtig, muss man ehrlich sagen.",
+          "ru": "Да, это приличная плата, надо быть честным.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "gebührenfrei",
+      "part_of_speech": "Adjective",
+      "level": "B1",
+      "translation_ru": "бесплатно",
+      "translation_en": "free of charge",
+      "examples": [
+        {
+          "de": "Die Qualität des ÖPNV in dieser Stadt ist gebührenfrei.",
+          "ru": "Качество общественного транспорта в этом городе бесплатное."
+        },
+        {
+          "de": "Eine gebührenfrei Erledigung des Antrags ist wünschenswert.",
+          "ru": "Желательно, чтобы заявка была заполнена бесплатно."
+        },
+        {
+          "de": "Das Serviceangebot der Behörde ist leider wenig gebührenfrei.",
+          "ru": "К сожалению, услуги, предлагаемые властями, не бесплатны."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich gebührenfrei, muss man ehrlich sagen.",
+          "ru": "Да, это довольно бесплатно, надо быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Na ja, das klingt vielleicht gebührenfrei, aber in der Praxis ist es anders.",
+          "ru": "Ну, это может показаться бесплатным, но на практике все по-другому.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "beglaubigt",
+      "part_of_speech": "Adjective",
+      "level": "B2",
+      "translation_ru": "проверенный",
+      "translation_en": "certified",
+      "examples": [
+        {
+          "de": "Die Qualität des ÖPNV in dieser Stadt ist beglaubigt.",
+          "ru": "Качество общественного транспорта в этом городе сертифицировано."
+        },
+        {
+          "de": "Die Bearbeitungszeit war beglaubigt lang.",
+          "ru": "Время обработки было невероятно долгим."
+        },
+        {
+          "de": "Eine beglaubigt Erledigung des Antrags ist wünschenswert.",
+          "ru": "Желательно заверенное заполнение заявления."
+        },
+        {
+          "de": "Ja, das ist schon ziemlich beglaubigt, muss man ehrlich sagen.",
+          "ru": "Да, это довольно аутентично, надо быть честным.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, ich finde das Ergebnis wirklich beglaubigt, das hat mich überrascht.",
+          "ru": "Что ж, я думаю, что результат действительно аутентичен, и это меня удивило.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Hauptmieter, die Hauptmieter",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Основной арендатор",
+      "translation_en": "Main tenant",
+      "examples": [
+        {
+          "de": "Die Behörde hat den Hauptmieter innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власть выдала основного арендатора в течение двух недель."
+        },
+        {
+          "de": "Für den Umzug ist der Hauptmieter besonders wichtig.",
+          "ru": "Основной арендатор особенно важен для переезда."
+        },
+        {
+          "de": "Bitte bringen Sie den Hauptmieter zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой на встречу основного арендатора."
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Hauptmieter eigentlich relativ schnell.",
+          "ru": "В нашем районе действительно можно относительно быстро получить основного арендатора.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Das mit dem Hauptmieter hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражал вопрос с основным арендатором, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Hauptmieterin, die Hauptmieterinnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Основной арендатор",
+      "translation_en": "Main tenant",
+      "examples": [
+        {
+          "de": "Der Vermieter hat die Hauptmieterin rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно представил основного арендатора."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Hauptmieterin.",
+          "ru": "Медицинская страховка покрывает расходы основного арендатора."
+        },
+        {
+          "de": "Für den Umzug ist die Hauptmieterin besonders wichtig.",
+          "ru": "Основной арендатор особенно важен для переезда."
+        },
+        {
+          "de": "Das mit der Hauptmieterin hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с основным арендатором, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Ich musste ewig auf die Hauptmieterin warten, das hat fast sechs Wochen gedauert.",
+          "ru": "Основного арендатора пришлось ждать целую вечность, это заняло почти шесть недель.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Untermieter, die Untermieter",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Субарендатор",
+      "translation_en": "Subtenant",
+      "examples": [
+        {
+          "de": "der Untermieter wurde vom zuständigen Sachbearbeiter bearbeitet.",
+          "ru": "субарендатор был обработан ответственным клерком."
+        },
+        {
+          "de": "Bitte bringen Sie den Untermieter zu Ihrem Termin mit.",
+          "ru": "Пожалуйста, возьмите с собой субарендатора на встречу."
+        },
+        {
+          "de": "Der Vermieter hat den Untermieter rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно представил субарендатора."
+        },
+        {
+          "de": "Tipp: den Untermieter immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию субарендатора.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Bei uns in der Gegend bekommt man den Untermieter eigentlich relativ schnell.",
+          "ru": "В нашем районе действительно можно относительно быстро получить субарендатора.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Untermieterin, die Untermieterinnen",
+      "part_of_speech": "Noun",
+      "level": "B1",
+      "translation_ru": "Субарендатор",
+      "translation_en": "Subtenant",
+      "examples": [
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für die Untermieterin.",
+          "ru": "Медицинская страховка покрывает расходы субарендатора."
+        },
+        {
+          "de": "Ohne die Untermieterin können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не можем обработать вашу заявку без субарендатора."
+        },
+        {
+          "de": "Für die Anmeldung benötigen Sie die Untermieterin im Original.",
+          "ru": "Для регистрации необходим оригинал субарендатора."
+        },
+        {
+          "de": "Das mit der Untermieterin hat mich echt genervt, die Bürokratie hier ist wahnsinnig.",
+          "ru": "Меня очень раздражала ситуация с субарендатором, бюрократия здесь сумасшедшая.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Untermieterin brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Значит, субарендатор при перерегистрации вам обязательно понадобится.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "der Untermietvertrag, die Untermietverträge",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Договор субаренды",
+      "translation_en": "Sublease agreement",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie den Untermietvertrag im Original.",
+          "ru": "Для регистрации вам понадобится оригинал договора субаренды."
+        },
+        {
+          "de": "Die Krankenversicherung übernimmt die Kosten für den Untermietvertrag.",
+          "ru": "Медицинская страховка покрывает расходы по договору субаренды."
+        },
+        {
+          "de": "Die Behörde hat den Untermietvertrag innerhalb von zwei Wochen ausgestellt.",
+          "ru": "Власть оформила договор субаренды в течение двух недель."
+        },
+        {
+          "de": "Tipp: den Untermietvertrag immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию договора субаренды.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, den Untermietvertrag brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, договор субаренды вам обязательно понадобится при перерегистрации.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "die Mietminderung, die Mietminderungen",
+      "part_of_speech": "Noun",
+      "level": "B2",
+      "translation_ru": "Снижение арендной платы",
+      "translation_en": "Rent reduction",
+      "examples": [
+        {
+          "de": "Für die Anmeldung benötigen Sie die Mietminderung im Original.",
+          "ru": "Для регистрации вам необходимо первоначальное снижение арендной платы."
+        },
+        {
+          "de": "Der Vermieter hat die Mietminderung rechtzeitig eingereicht.",
+          "ru": "Арендодатель своевременно представил снижение арендной платы."
+        },
+        {
+          "de": "Ohne die Mietminderung können wir Ihren Antrag leider nicht bearbeiten.",
+          "ru": "К сожалению, мы не сможем обработать вашу заявку без снижения арендной платы."
+        },
+        {
+          "de": "Tipp: die Mietminderung immer in Kopie dabei haben, sicher ist sicher.",
+          "ru": "Совет: на всякий случай всегда имейте при себе копию документа о снижении арендной платы.",
+          "source": "YouGlish"
+        },
+        {
+          "de": "Also, die Mietminderung brauchst du unbedingt, wenn du dich ummeldest.",
+          "ru": "Итак, вам обязательно понадобится снижение арендной платы, если вы поменяете регистрацию.",
+          "source": "YouGlish"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": []
     }
   ]
 }

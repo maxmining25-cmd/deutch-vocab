@@ -122,6 +122,9 @@ def generate_markdown(words_by_category, md_path):
                     f.write(f"- **Translation (EN):** {en}\n")
                 if synonyms:
                     f.write(f"- **Синонимы (Synonyme):** {', '.join(synonyms)}\n")
+                antonyms = w.get("antonyms", [])
+                if antonyms:
+                    f.write(f"- **Антонимы (Antonyme):** {', '.join(antonyms)}\n")
                     
                 if pos == "Verb":
                     partizip_2 = w.get("partizip_2", "")
@@ -201,6 +204,12 @@ def generate_anki(all_words, anki_path):
             synonyms_html = ""
             if synonyms:
                 synonyms_html = f'<div style="font-size: 0.95em; color: #475569; margin-bottom: 15px; text-align: center;"><strong>Synonyme:</strong> {", ".join(synonyms)}</div>'
+            
+            # Antonyms HTML
+            antonyms = w.get("antonyms", [])
+            antonyms_html = ""
+            if antonyms:
+                antonyms_html = f'<div style="font-size: 0.95em; color: #e74c3c; margin-bottom: 15px; text-align: center;"><strong>Antonyme:</strong> {", ".join(antonyms)}</div>'
                 
             # Verb details HTML
             verb_details_html = ""
@@ -244,6 +253,7 @@ def generate_anki(all_words, anki_path):
                 f'<div style="font-size: 1.7em; font-weight: 700; color: #a855f7; margin-bottom: 8px;">{ru}</div>'
                 f'{en_html}'
                 f'{synonyms_html}'
+                f'{antonyms_html}'
                 f'{verb_details_html}'
                 f'<div style="text-align: left; max-width: 500px; margin: 20px auto 0; background: #ffffff; padding: 15px; border-radius: 12px; border: 1px solid #e2e8f0;">'
                 f'<div style="font-weight: 700; color: #0f172a; margin-bottom: 10px; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.05em;">Beispiele:</div>'
@@ -1116,6 +1126,9 @@ def generate_html(all_words, categories, html_path):
             <button class="btn-action primary" id="btn-daily-review" onclick="startDailyReview()">
                 <i class="fa-solid fa-calendar-day"></i> Ежедневное ревью (50)
             </button>
+            <button class="btn-action" id="btn-stats-dashboard" onclick="openStatsDashboard()" style="background: linear-gradient(135deg, #8b5cf6, #6366f1); color: white;">
+                <i class="fa-solid fa-chart-line"></i> Статистика
+            </button>
         </div>
     </header>
 
@@ -1137,6 +1150,9 @@ def generate_html(all_words, categories, html_path):
             <button class="group-btn" data-group="SAP-Consulting" onclick="selectGroup('SAP-Consulting')">
                 <i class="fa-solid fa-gears"></i> SAP-Consulting
             </button>
+            <button class="group-btn" data-group="Legal-Laws" onclick="selectGroup('Legal-Laws')">
+                <i class="fa-solid fa-scale-balanced"></i> Legal-Laws
+            </button>
         </div>
 
         <div class="search-row">
@@ -1157,8 +1173,10 @@ def generate_html(all_words, categories, html_path):
             <div class="filter-group">
                 <div class="filter-label">Уровень:</div>
                 <div class="filter-badge active" data-filter="level-all" onclick="filterLevel('all')">Все</div>
+                <div class="filter-badge" data-filter="level-a2" onclick="filterLevel('A2')">A2</div>
                 <div class="filter-badge" data-filter="level-b1" onclick="filterLevel('B1')">B1</div>
                 <div class="filter-badge" data-filter="level-b2" onclick="filterLevel('B2')">B2</div>
+                <div class="filter-badge" data-filter="level-c1" onclick="filterLevel('C1')">C1</div>
             </div>
             
             <div class="filter-group">
@@ -1291,6 +1309,16 @@ def generate_html(all_words, categories, html_path):
                 <i class="fa-solid fa-arrow-left"></i> Вернуться к списку
             </button>
         </div>
+
+        <!-- Stats Dashboard -->
+        <div id="stats-dashboard" style="display: none; max-width: 700px; margin: 30px auto; padding: 25px; background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 20px; box-shadow: var(--card-shadow);">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+                <h2 style="font-size: 1.5rem; background: var(--gradient-accent); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0;"><i class="fa-solid fa-chart-line"></i> Статистика обучения</h2>
+                <button class="btn-action" style="padding: 8px 18px; font-size: 0.85rem;" onclick="closeStatsDashboard()"><i class="fa-solid fa-xmark"></i> Закрыть</button>
+            </div>
+            <div id="stats-summary-cards" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 20px;"></div>
+            <div id="stats-chart-area" style="width: 100%; overflow-x: auto;"></div>
+        </div>
     </main>
 
     <script>
@@ -1325,7 +1353,12 @@ def generate_html(all_words, categories, html_path):
             "Materialwirtschaft & Bestandsbewertung (MM/ML)": "SAP-Consulting",
             "Vertrieb & Kundenmanagement (SD)": "SAP-Consulting",
             "S4 HANA & Fiori Benutzeroberfläche": "SAP-Consulting",
-            "SAP-Einführung & Customizing": "SAP-Consulting"
+            "SAP-Einführung & Customizing": "SAP-Consulting",
+            "Verfassungsrecht & Staatsorganisation": "Legal-Laws",
+            "Zivilrecht & Vertragsrecht": "Legal-Laws",
+            "Strafrecht & Ordnungswidrigkeiten": "Legal-Laws",
+            "Verwaltungsrecht & Behördenverfahren": "Legal-Laws",
+            "Arbeitsrecht & Sozialrecht": "Legal-Laws"
         }};
         
         let activeGroup = localStorage.getItem('vocab_active_group') || 'Projektmanagement';
@@ -1642,6 +1675,15 @@ def generate_html(all_words, categories, html_path):
                         </div>
                     `;
                 }}
+                // Antonyms rendering
+                let antonymsHtml = '';
+                if (w.antonyms && w.antonyms.length > 0) {{
+                    antonymsHtml = `
+                        <div class="antonyms-container" style="font-size:0.85rem; color:var(--text-secondary); margin-bottom: 5px;">
+                            <span style="font-weight:600; color:#ef4444;">Антонимы:</span> ${{w.antonyms.join(', ')}}
+                        </div>
+                    `;
+                }}
                 
                 // Verb details rendering
                 let verbDetailsHtml = '';
@@ -1727,6 +1769,7 @@ def generate_html(all_words, categories, html_path):
                     </div>
 
                     ${{synonymsHtml}}
+                    ${{antonymsHtml}}
                     
                     <div class="category-tag">${{w.category_name}}</div>
                     <div class="card-body">
@@ -1983,6 +2026,15 @@ def generate_html(all_words, categories, html_path):
                     </div>
                 `;
             }}
+            // Antonyms rendering
+            let antonymsHtml = '';
+            if (w.antonyms && w.antonyms.length > 0) {{
+                antonymsHtml = `
+                    <div style="font-size: 0.88rem; color: var(--text-secondary); margin-bottom: 10px; text-align: center;">
+                        <span style="font-weight: 600; color: #ef4444;">Антонимы:</span> ${{w.antonyms.join(', ')}}
+                    </div>
+                `;
+            }}
             
             // Verb details rendering
             let verbDetailsHtml = '';
@@ -2048,6 +2100,7 @@ def generate_html(all_words, categories, html_path):
 
             document.getElementById('fc-examples-box').innerHTML = `
                 ${{synonymsHtml}}
+                ${{antonymsHtml}}
                 ${{verbDetailsHtml}}
                 ${{examplesHtml}}
             `;
@@ -2089,6 +2142,22 @@ def generate_html(all_words, categories, html_path):
             }}
         }}
 
+        // Daily stats tracking
+        function getDailyStats() {{
+            return JSON.parse(localStorage.getItem('vocab_daily_stats') || '{{}}');
+        }}
+        function saveDailyStats(data) {{
+            localStorage.setItem('vocab_daily_stats', JSON.stringify(data));
+        }}
+        function recordDailyAction(action) {{
+            const today = new Date().toISOString().split('T')[0];
+            const daily = getDailyStats();
+            if (!daily[today]) daily[today] = {{ reviewed: 0, memorized: 0 }};
+            daily[today].reviewed++;
+            if (action === 'memorized') daily[today].memorized++;
+            saveDailyStats(daily);
+        }}
+
         function rateFlashcard(status) {{
             const w = filteredWordsForFlashcards[currentFlashcardIndex];
             if (!w) return;
@@ -2098,10 +2167,12 @@ def generate_html(all_words, categories, html_path):
                 setWordStars(w.word, stats.stars + 1);
                 setWordStatus(w.word, 'memorized');
                 sessionStats.know++;
+                recordDailyAction('memorized');
             }} else if (status === 'dont_know') {{
                 setWordStars(w.word, 0); // Reset stars to 0 on "don't know"
                 setWordStatus(w.word, 'dont_know');
                 sessionStats.dontKnow++;
+                recordDailyAction('dont_know');
             }}
             
             // Visual feedback animation
@@ -2138,6 +2209,95 @@ def generate_html(all_words, categories, html_path):
             if (filteredWordsForFlashcards.length === 0) return;
             currentFlashcardIndex = (currentFlashcardIndex - 1 + filteredWordsForFlashcards.length) % filteredWordsForFlashcards.length;
             showFlashcard();
+        }}
+
+        // ============= STATS DASHBOARD =============
+        function openStatsDashboard() {{
+            document.getElementById('grid-view-container').style.display = 'none';
+            document.getElementById('flashcard-view-container').style.display = 'none';
+            document.getElementById('fc-completion-screen').style.display = 'none';
+            document.getElementById('stats-dashboard').style.display = 'block';
+            renderStatsDashboard();
+        }}
+
+        function closeStatsDashboard() {{
+            document.getElementById('stats-dashboard').style.display = 'none';
+            document.getElementById('grid-view-container').style.display = 'block';
+        }}
+
+        function renderStatsDashboard() {{
+            const daily = getDailyStats();
+            const allStats = vocabStats;
+
+            // Summary cards
+            let totalReviewed = 0, totalMemorized = 0;
+            Object.values(daily).forEach(d => {{ totalReviewed += d.reviewed; totalMemorized += d.memorized; }});
+
+            const totalWordsInGroup = words.filter(w => (groupMapping[w.category_name] || 'Projektmanagement') === activeGroup).length;
+            const learnedInGroup = words.filter(w => {{
+                const grp = groupMapping[w.category_name] || 'Projektmanagement';
+                if (grp !== activeGroup) return false;
+                const s = allStats[w.word];
+                return s && s.status === 'memorized' && s.stars >= 3;
+            }}).length;
+
+            document.getElementById('stats-summary-cards').innerHTML = `
+                <div style="background: linear-gradient(135deg, rgba(99,102,241,0.15), rgba(139,92,246,0.15)); padding: 18px; border-radius: 16px; border: 1px solid rgba(99,102,241,0.2); text-align: center;">
+                    <div style="font-size: 2rem; font-weight: 800; color: #6366f1;">\${{totalReviewed}}</div>
+                    <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600; text-transform: uppercase; margin-top: 4px;">Всего просмотрено</div>
+                </div>
+                <div style="background: linear-gradient(135deg, rgba(16,185,129,0.15), rgba(5,150,105,0.15)); padding: 18px; border-radius: 16px; border: 1px solid rgba(16,185,129,0.2); text-align: center;">
+                    <div style="font-size: 2rem; font-weight: 800; color: #10b981;">\${{totalMemorized}}</div>
+                    <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600; text-transform: uppercase; margin-top: 4px;">Запомнено</div>
+                </div>
+                <div style="background: linear-gradient(135deg, rgba(245,158,11,0.15), rgba(217,119,6,0.15)); padding: 18px; border-radius: 16px; border: 1px solid rgba(245,158,11,0.2); text-align: center;">
+                    <div style="font-size: 2rem; font-weight: 800; color: #f59e0b;">\${{learnedInGroup}} / \${{totalWordsInGroup}}</div>
+                    <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600; text-transform: uppercase; margin-top: 4px;">Выучено (группа)</div>
+                </div>
+                <div style="background: linear-gradient(135deg, rgba(236,72,153,0.15), rgba(219,39,119,0.15)); padding: 18px; border-radius: 16px; border: 1px solid rgba(236,72,153,0.2); text-align: center;">
+                    <div style="font-size: 2rem; font-weight: 800; color: #ec4899;">\${{Object.keys(daily).length}}</div>
+                    <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600; text-transform: uppercase; margin-top: 4px;">Дней обучения</div>
+                </div>
+            `;
+
+            // Chart: last 30 days
+            const dates = [];
+            const now = new Date();
+            for (let i = 29; i >= 0; i--) {{
+                const d = new Date(now);
+                d.setDate(d.getDate() - i);
+                dates.push(d.toISOString().split('T')[0]);
+            }}
+
+            const maxReviewed = Math.max(1, ...dates.map(d => (daily[d] || {{reviewed:0}}).reviewed));
+
+            let barsHtml = dates.map(date => {{
+                const d = daily[date] || {{ reviewed: 0, memorized: 0 }};
+                const reviewedH = Math.max(2, (d.reviewed / maxReviewed) * 120);
+                const memorizedH = Math.max(0, (d.memorized / maxReviewed) * 120);
+                const dayLabel = date.slice(5);
+                const isToday = date === now.toISOString().split('T')[0];
+                return `
+                    <div style="display: flex; flex-direction: column; align-items: center; gap: 2px; min-width: 22px;">
+                        <div style="font-size: 0.6rem; color: var(--text-muted); font-weight: 600;">\${{d.reviewed}}</div>
+                        <div style="width: 16px; height: \${{reviewedH}}px; background: linear-gradient(180deg, #6366f1, #8b5cf6); border-radius: 4px 4px 0 0; position: relative;">
+                            <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: \${{memorizedH}}px; background: linear-gradient(180deg, #10b981, #059669); border-radius: 0 0 4px 4px;"></div>
+                        </div>
+                        <div style="font-size: 0.55rem; color: \${{isToday ? '#6366f1' : 'var(--text-muted)'}}; font-weight: \${{isToday ? '700' : '400'}}; writing-mode: vertical-rl; transform: rotate(180deg); height: 35px;">\${{dayLabel}}</div>
+                    </div>
+                `;
+            }}).join('');
+
+            document.getElementById('stats-chart-area').innerHTML = `
+                <div style="font-weight: 600; color: var(--text-primary); margin-bottom: 12px; font-size: 0.95rem;">Последние 30 дней</div>
+                <div style="display: flex; align-items: flex-end; gap: 4px; padding: 10px 0; min-height: 180px;">
+                    \${{barsHtml}}
+                </div>
+                <div style="display: flex; gap: 15px; margin-top: 10px; font-size: 0.78rem; color: var(--text-muted);">
+                    <div style="display: flex; align-items: center; gap: 5px;"><div style="width: 12px; height: 12px; background: #6366f1; border-radius: 3px;"></div> Просмотрено</div>
+                    <div style="display: flex; align-items: center; gap: 5px;"><div style="width: 12px; height: 12px; background: #10b981; border-radius: 3px;"></div> Запомнено</div>
+                </div>
+            `;
         }}
     </script>
 </body>

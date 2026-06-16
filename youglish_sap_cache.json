@@ -1465,5 +1465,2627 @@
   },
   "zahlungsunfähig": {
     "status": "not_found"
+  },
+  "Insolvenz": {
+    "status": "not_found"
+  },
+  "angemessen": {
+    "status": "not_found"
+  },
+  "übertreiben": {
+    "status": "not_found"
+  },
+  "Verschwendung": {
+    "status": "not_found"
+  },
+  "verschwenden": {
+    "status": "not_found"
+  },
+  "sparsam": {
+    "status": "not_found"
+  },
+  "Sparsamkeit": {
+    "status": "not_found"
+  },
+  "großzügig": {
+    "status": "not_found"
+  },
+  "geizig": {
+    "status": "not_found"
+  },
+  "Geiz": {
+    "status": "not_found"
+  },
+  "Entgelt": {
+    "status": "not_found"
+  },
+  "entgeltlich": {
+    "status": "not_found"
+  },
+  "unentgeltlich": {
+    "status": "not_found"
+  },
+  "Honorar": {
+    "status": "not_found"
+  },
+  "Lohn": {
+    "status": "not_found"
+  },
+  "Gehalt": {
+    "status": "not_found"
+  },
+  "Netto": {
+    "status": "not_found"
+  },
+  "Brutto": {
+    "status": "not_found"
+  },
+  "Finanzierungquelle": {
+    "status": "not_found"
+  },
+  "Subvention": {
+    "status": "not_found"
+  },
+  "subventionieren": {
+    "status": "not_found"
+  },
+  "Kasse": {
+    "status": "not_found"
+  },
+  "Kassierer": {
+    "status": "not_found"
+  },
+  "kassieren": {
+    "status": "not_found"
+  },
+  "Wechselgeld": {
+    "status": "not_found"
+  },
+  "Quittungsbeleg": {
+    "status": "not_found"
+  },
+  "Buchhaltung": {
+    "status": "not_found"
+  },
+  "Buchführung": {
+    "status": "not_found"
+  },
+  "Buchhalter": {
+    "status": "not_found"
+  },
+  "buchen": {
+    "status": "not_found"
+  },
+  "Buchung": {
+    "status": "not_found"
+  },
+  "Soll": {
+    "status": "not_found"
+  },
+  "Haben": {
+    "status": "not_found"
+  },
+  "Bilanz": {
+    "status": "not_found"
+  },
+  "bilanzieren": {
+    "status": "not_found"
+  },
+  "Jahresabschluss": {
+    "status": "not_found"
+  },
+  "Abschreibung": {
+    "status": "not_found"
+  },
+  "abschreiben": {
+    "status": "not_found"
+  },
+  "Wirtschaftjahr": {
+    "status": "not_found"
+  },
+  "Geschäftsjahr": {
+    "status": "not_found"
+  },
+  "Prüfer": {
+    "status": "not_found"
+  },
+  "prüfen": {
+    "status": "not_found"
+  },
+  "Wirtschaftprüfung": {
+    "status": "not_found"
+  },
+  "Inventur": {
+    "status": "not_found"
+  },
+  "Inventar": {
+    "status": "not_found"
+  },
+  "Bestand": {
+    "status": "not_found"
+  },
+  "Anlagevermögen": {
+    "status": "not_found"
+  },
+  "Umlaufvermögen": {
+    "status": "not_found"
+  },
+  "Eigenkapital": {
+    "status": "not_found"
+  },
+  "Fremdkapital": {
+    "status": "not_found"
+  },
+  "Verbindlichkeit": {
+    "status": "not_found"
+  },
+  "Forderung": {
+    "status": "not_found"
+  },
+  "Rechnung": {
+    "status": "not_found"
+  },
+  "Beleg": {
+    "status": "not_found"
+  },
+  "belegen": {
+    "status": "not_found"
+  },
+  "nachweisen": {
+    "status": "not_found"
+  },
+  "Nachweis": {
+    "status": "not_found"
+  },
+  "Quittung": {
+    "status": "not_found"
+  },
+  "quittieren": {
+    "status": "not_found"
+  },
+  "Posten": {
+    "status": "not_found"
+  },
+  "Buchungsperiode": {
+    "status": "not_found"
+  },
+  "stornieren": {
+    "status": "not_found"
+  },
+  "Stornierung": {
+    "status": "not_found"
+  },
+  "Kontenrahmen": {
+    "status": "not_found"
+  },
+  "Hauptbuch": {
+    "status": "not_found"
+  },
+  "Journal": {
+    "status": "not_found"
+  },
+  "Kostenstelle": {
+    "status": "not_found"
+  },
+  "Kostenträger": {
+    "status": "not_found"
+  },
+  "Kostenrechnung": {
+    "status": "not_found"
+  },
+  "Rechnungsprüfer": {
+    "status": "not_found"
+  },
+  "Rechnungslegung": {
+    "status": "not_found"
+  },
+  "Standard": {
+    "status": "not_found"
+  },
+  "konform": {
+    "status": "not_found"
+  },
+  "Einhaltung": {
+    "status": "not_found"
+  },
+  "Richtlinie": {
+    "status": "not_found"
+  },
+  "Grundsatz": {
+    "status": "not_found"
+  },
+  "Bewertung": {
+    "status": "not_found"
+  },
+  "bewerten": {
+    "status": "not_found"
+  },
+  "Anschaffungspreis": {
+    "status": "not_found"
+  },
+  "Anschaffungskosten": {
+    "status": "not_found"
+  },
+  "Buchwert": {
+    "status": "not_found"
+  },
+  "Marktwert": {
+    "status": "not_found"
+  },
+  "Zeitwert": {
+    "status": "not_found"
+  },
+  "Restwert": {
+    "status": "not_found"
+  },
+  "Wertminderung": {
+    "status": "not_found"
+  },
+  "wertmindern": {
+    "status": "not_found"
+  },
+  "Aufwertung": {
+    "status": "not_found"
+  },
+  "aufwerten": {
+    "status": "not_found"
+  },
+  "Gewinn- und Verlustrechnung": {
+    "status": "not_found"
+  },
+  "Postenbericht": {
+    "status": "not_found"
+  },
+  "Saldo": {
+    "status": "not_found"
+  },
+  "saldieren": {
+    "status": "not_found"
+  },
+  "Saldenbilanz": {
+    "status": "not_found"
+  },
+  "Kontostand": {
+    "status": "not_found"
+  },
+  "ausgleichen": {
+    "status": "not_found"
+  },
+  "Ausgleich": {
+    "status": "not_found"
+  },
+  "Buchungszeile": {
+    "status": "not_found"
+  },
+  "Gegenbuchung": {
+    "status": "not_found"
+  },
+  "Erfassung": {
+    "status": "not_found"
+  },
+  "erfassen": {
+    "status": "not_found"
+  },
+  "manuell": {
+    "status": "not_found"
+  },
+  "automatisch": {
+    "status": "not_found"
+  },
+  "Automatisierung": {
+    "status": "not_found"
+  },
+  "digitalisieren": {
+    "status": "not_found"
+  },
+  "ERP-System": {
+    "status": "not_found"
+  },
+  "Software": {
+    "status": "not_found"
+  },
+  "Datenimport": {
+    "status": "not_found"
+  },
+  "Datenexport": {
+    "status": "not_found"
+  },
+  "fehlerhaft": {
+    "status": "not_found"
+  },
+  "Korrektur": {
+    "status": "not_found"
+  },
+  "Differenz": {
+    "status": "not_found"
+  },
+  "konsolidieren": {
+    "status": "not_found"
+  },
+  "Konsolidierung": {
+    "status": "not_found"
+  },
+  "Konzern": {
+    "status": "not_found"
+  },
+  "Muttergesellschaft": {
+    "status": "not_found"
+  },
+  "Tochtergesellschaft": {
+    "status": "not_found"
+  },
+  "Abschlussbericht": {
+    "status": "not_found"
+  },
+  "Offenlegung": {
+    "status": "not_found"
+  },
+  "Bank": {
+    "status": "not_found"
+  },
+  "Konto": {
+    "status": "not_found"
+  },
+  "Girokonto": {
+    "status": "not_found"
+  },
+  "Sparkonto": {
+    "status": "not_found"
+  },
+  "eröffnen": {
+    "status": "not_found"
+  },
+  "Kontoeröffnung": {
+    "status": "not_found"
+  },
+  "schließen": {
+    "status": "not_found"
+  },
+  "Kontoschließung": {
+    "status": "not_found"
+  },
+  "Kontogebühr": {
+    "status": "not_found"
+  },
+  "Kontoauszug": {
+    "status": "not_found"
+  },
+  "abheben": {
+    "status": "not_found"
+  },
+  "einzahlen": {
+    "status": "not_found"
+  },
+  "Einzahlung": {
+    "status": "not_found"
+  },
+  "Auszahlung": {
+    "status": "not_found"
+  },
+  "Geldautomat": {
+    "status": "not_found"
+  },
+  "Bankkarte": {
+    "status": "not_found"
+  },
+  "Kreditkarte": {
+    "status": "not_found"
+  },
+  "Geheimzahl": {
+    "status": "not_found"
+  },
+  "PIN": {
+    "status": "not_found"
+  },
+  "sperren": {
+    "status": "not_found"
+  },
+  "Kartensperrung": {
+    "status": "not_found"
+  },
+  "Online-Banking": {
+    "status": "not_found"
+  },
+  "Dauerauftrag": {
+    "status": "not_found"
+  },
+  "Lastschrift": {
+    "status": "not_found"
+  },
+  "abbuchen": {
+    "status": "not_found"
+  },
+  "gutschreiben": {
+    "status": "not_found"
+  },
+  "Gutschrift": {
+    "status": "not_found"
+  },
+  "Kredit": {
+    "status": "not_found"
+  },
+  "beantragen": {
+    "status": "not_found"
+  },
+  "Kreditantrag": {
+    "status": "not_found"
+  },
+  "gewähren": {
+    "status": "not_found"
+  },
+  "bewilligen": {
+    "status": "not_found"
+  },
+  "Bewilligung": {
+    "status": "not_found"
+  },
+  "ablehnen": {
+    "status": "not_found"
+  },
+  "Ablehnung": {
+    "status": "not_found"
+  },
+  "Kreditwürdigkeit": {
+    "status": "not_found"
+  },
+  "Bonität": {
+    "status": "not_found"
+  },
+  "Schufa": {
+    "status": "not_found"
+  },
+  "Zinssatz": {
+    "status": "not_found"
+  },
+  "Tilgung": {
+    "status": "not_found"
+  },
+  "tilgen": {
+    "status": "not_found"
+  },
+  "Rate": {
+    "status": "not_found"
+  },
+  "Ratenzahlung": {
+    "status": "not_found"
+  },
+  "Laufzeit": {
+    "status": "not_found"
+  },
+  "Hypothek": {
+    "status": "not_found"
+  },
+  "Absicherung": {
+    "status": "not_found"
+  },
+  "absichern": {
+    "status": "not_found"
+  },
+  "Bürgschaft": {
+    "status": "not_found"
+  },
+  "Bürge": {
+    "status": "not_found"
+  },
+  "bürgen": {
+    "status": "not_found"
+  },
+  "Zinsbindung": {
+    "status": "not_found"
+  },
+  "festverzinslich": {
+    "status": "not_found"
+  },
+  "variabel": {
+    "status": "not_found"
+  },
+  "Dispokredit": {
+    "status": "not_found"
+  },
+  "Überziehung": {
+    "status": "not_found"
+  },
+  "Zinseszins": {
+    "status": "not_found"
+  },
+  "Bankfiliale": {
+    "status": "not_found"
+  },
+  "Bankberater": {
+    "status": "not_found"
+  },
+  "beraten": {
+    "status": "not_found"
+  },
+  "Beratung": {
+    "status": "not_found"
+  },
+  "Schließfach": {
+    "status": "not_found"
+  },
+  "Depot": {
+    "status": "not_found"
+  },
+  "Wertpapier": {
+    "status": "not_found"
+  },
+  "anlegen": {
+    "status": "not_found"
+  },
+  "Geldanlage": {
+    "status": "not_found"
+  },
+  "Festgeld": {
+    "status": "not_found"
+  },
+  "Tagesgeld": {
+    "status": "not_found"
+  },
+  "Gläubiger": {
+    "status": "not_found"
+  },
+  "Schuldner": {
+    "status": "not_found"
+  },
+  "Ratezahlung": {
+    "status": "not_found"
+  },
+  "Kreditlinie": {
+    "status": "not_found"
+  },
+  "Bonitätsprüfung": {
+    "status": "not_found"
+  },
+  "Kleinkredit": {
+    "status": "not_found"
+  },
+  "Umschuldung": {
+    "status": "not_found"
+  },
+  "umschulden": {
+    "status": "not_found"
+  },
+  "Verzugszinsen": {
+    "status": "not_found"
+  },
+  "Mahnung": {
+    "status": "not_found"
+  },
+  "mahnen": {
+    "status": "not_found"
+  },
+  "Inkassobüro": {
+    "status": "not_found"
+  },
+  "Inkasso": {
+    "status": "not_found"
+  },
+  "Vollmacht": {
+    "status": "not_found"
+  },
+  "bevollmächtigen": {
+    "status": "not_found"
+  },
+  "Kontoinhaber": {
+    "status": "not_found"
+  },
+  "Mitinhaber": {
+    "status": "not_found"
+  },
+  "Gemeinschaftkonto": {
+    "status": "not_found"
+  },
+  "Bankvollmacht": {
+    "status": "not_found"
+  },
+  "Kreditgewährung": {
+    "status": "not_found"
+  },
+  "sicherstellen": {
+    "status": "not_found"
+  },
+  "Sicherheit": {
+    "status": "not_found"
+  },
+  "Pfand": {
+    "status": "not_found"
+  },
+  "verpfänden": {
+    "status": "not_found"
+  },
+  "Pfändung": {
+    "status": "not_found"
+  },
+  "pfänden": {
+    "status": "not_found"
+  },
+  "Zinsschein": {
+    "status": "not_found"
+  },
+  "Zinszahlung": {
+    "status": "not_found"
+  },
+  "Erstattung": {
+    "status": "not_found"
+  },
+  "erstatten": {
+    "status": "not_found"
+  },
+  "rückzahlen": {
+    "status": "not_found"
+  },
+  "Steuer": {
+    "status": "not_found"
+  },
+  "besteuern": {
+    "status": "not_found"
+  },
+  "Besteuerung": {
+    "status": "not_found"
+  },
+  "Finanzamt": {
+    "status": "not_found"
+  },
+  "Steuerberater": {
+    "status": "not_found"
+  },
+  "Steuererklärung": {
+    "status": "not_found"
+  },
+  "abgeben": {
+    "status": "not_found"
+  },
+  "Steuerabgabe": {
+    "status": "not_found"
+  },
+  "Einkommensteuer": {
+    "status": "not_found"
+  },
+  "Mehrwertsteuer": {
+    "status": "not_found"
+  },
+  "Umsatzsteuer": {
+    "status": "not_found"
+  },
+  "Gewerbesteuer": {
+    "status": "not_found"
+  },
+  "Körperschaftsteuer": {
+    "status": "not_found"
+  },
+  "Lohnsteuer": {
+    "status": "not_found"
+  },
+  "Kirchensteuer": {
+    "status": "not_found"
+  },
+  "Grundsteuer": {
+    "status": "not_found"
+  },
+  "Hundesteuer": {
+    "status": "not_found"
+  },
+  "Kfz-Steuer": {
+    "status": "not_found"
+  },
+  "Erbschaftsteuer": {
+    "status": "not_found"
+  },
+  "Schenkungsteuer": {
+    "status": "not_found"
+  },
+  "Kapitalertragsteuer": {
+    "status": "not_found"
+  },
+  "Steuersatz": {
+    "status": "not_found"
+  },
+  "Steuerklasse": {
+    "status": "not_found"
+  },
+  "Freibetrag": {
+    "status": "not_found"
+  },
+  "absetzen": {
+    "status": "not_found"
+  },
+  "steuerlich absetzbar": {
+    "status": "not_found"
+  },
+  "Werbungskosten": {
+    "status": "not_found"
+  },
+  "Sonderausgaben": {
+    "status": "not_found"
+  },
+  "außergewöhnliche Belastung": {
+    "status": "not_found"
+  },
+  "Steuerhinterziehung": {
+    "status": "not_found"
+  },
+  "hinterziehen": {
+    "status": "not_found"
+  },
+  "Steuerflucht": {
+    "status": "not_found"
+  },
+  "Steueroase": {
+    "status": "not_found"
+  },
+  "Steuerprüfung": {
+    "status": "not_found"
+  },
+  "Steuerbescheid": {
+    "status": "not_found"
+  },
+  "Nachzahlung": {
+    "status": "not_found"
+  },
+  "nachzahlen": {
+    "status": "not_found"
+  },
+  "Rückerstattung": {
+    "status": "not_found"
+  },
+  "zurückerstatten": {
+    "status": "not_found"
+  },
+  "Steuerbefreiung": {
+    "status": "not_found"
+  },
+  "steuerfrei": {
+    "status": "not_found"
+  },
+  "steuerpflichtig": {
+    "status": "not_found"
+  },
+  "Steuerzahler": {
+    "status": "not_found"
+  },
+  "Steuernummer": {
+    "status": "not_found"
+  },
+  "Steueridentifikationsnummer": {
+    "status": "not_found"
+  },
+  "Vorsteuer": {
+    "status": "not_found"
+  },
+  "Vorsteuerabzug": {
+    "status": "not_found"
+  },
+  "Veranlagung": {
+    "status": "not_found"
+  },
+  "veranlagen": {
+    "status": "not_found"
+  },
+  "Abgabefrist": {
+    "status": "not_found"
+  },
+  "verlängern": {
+    "status": "not_found"
+  },
+  "Fristverlängerung": {
+    "status": "not_found"
+  },
+  "Verspätungszuschlag": {
+    "status": "not_found"
+  },
+  "einlegen": {
+    "status": "not_found"
+  },
+  "Einspruch": {
+    "status": "not_found"
+  },
+  "Steuerrecht": {
+    "status": "not_found"
+  },
+  "Gesetzgebung": {
+    "status": "not_found"
+  },
+  "reformieren": {
+    "status": "not_found"
+  },
+  "Steuerreform": {
+    "status": "not_found"
+  },
+  "Progression": {
+    "status": "not_found"
+  },
+  "Steuerfuss": {
+    "status": "not_found"
+  },
+  "Quellensteuer": {
+    "status": "not_found"
+  },
+  "Abgeltungsteuer": {
+    "status": "not_found"
+  },
+  "Doppelbesteuerung": {
+    "status": "not_found"
+  },
+  "Abkommen": {
+    "status": "not_found"
+  },
+  "Steuerbelastung": {
+    "status": "not_found"
+  },
+  "senken": {
+    "status": "not_found"
+  },
+  "erhöhen": {
+    "status": "not_found"
+  },
+  "entlasten": {
+    "status": "not_found"
+  },
+  "Freigrenze": {
+    "status": "not_found"
+  },
+  "pauschal": {
+    "status": "not_found"
+  },
+  "Pauschale": {
+    "status": "not_found"
+  },
+  "Pauschbetrag": {
+    "status": "not_found"
+  },
+  "Quittungbelegpflicht": {
+    "status": "not_found"
+  },
+  "Kassengesetz": {
+    "status": "not_found"
+  },
+  "manipulieren": {
+    "status": "not_found"
+  },
+  "Manipulation": {
+    "status": "not_found"
+  },
+  "Kassenprüfung": {
+    "status": "not_found"
+  },
+  "Steuerprüfer": {
+    "status": "not_found"
+  },
+  "Zollbehörde": {
+    "status": "not_found"
+  },
+  "Zoll": {
+    "status": "not_found"
+  },
+  "verzollen": {
+    "status": "not_found"
+  },
+  "zollfrei": {
+    "status": "not_found"
+  },
+  "Einfuhrumsatzsteuer": {
+    "status": "not_found"
+  },
+  "Ausfuhr": {
+    "status": "not_found"
+  },
+  "Einfuhr": {
+    "status": "not_found"
+  },
+  "einführen": {
+    "status": "not_found"
+  },
+  "Verjährung": {
+    "status": "not_found"
+  },
+  "verjähren": {
+    "status": "not_found"
+  },
+  "Fristabwicklung": {
+    "status": "not_found"
+  },
+  "Bescheid": {
+    "status": "not_found"
+  },
+  "bescheiden": {
+    "status": "not_found"
+  },
+  "Steuerfahndung": {
+    "status": "not_found"
+  },
+  "Fahnder": {
+    "status": "not_found"
+  },
+  "durchsuchen": {
+    "status": "not_found"
+  },
+  "Durchsuchung": {
+    "status": "not_found"
+  },
+  "beschlagnahmen": {
+    "status": "not_found"
+  },
+  "Beschlagnahme": {
+    "status": "not_found"
+  },
+  "investieren": {
+    "status": "not_found"
+  },
+  "Investor": {
+    "status": "not_found"
+  },
+  "Anleger": {
+    "status": "not_found"
+  },
+  "Aktie": {
+    "status": "not_found"
+  },
+  "Aktionär": {
+    "status": "not_found"
+  },
+  "Börse": {
+    "status": "not_found"
+  },
+  "Aktienkurs": {
+    "status": "not_found"
+  },
+  "steigen": {
+    "status": "not_found"
+  },
+  "fallen": {
+    "status": "not_found"
+  },
+  "sinken": {
+    "status": "not_found"
+  },
+  "Wertpapierhandel": {
+    "status": "not_found"
+  },
+  "handeln": {
+    "status": "not_found"
+  },
+  "Händler": {
+    "status": "not_found"
+  },
+  "Broker": {
+    "status": "not_found"
+  },
+  "Provision": {
+    "status": "not_found"
+  },
+  "Rendite": {
+    "status": "not_found"
+  },
+  "Dividende": {
+    "status": "not_found"
+  },
+  "ausschütten": {
+    "status": "not_found"
+  },
+  "Ausschüttung": {
+    "status": "not_found"
+  },
+  "riskieren": {
+    "status": "not_found"
+  },
+  "risikoarm": {
+    "status": "not_found"
+  },
+  "Anleihe": {
+    "status": "not_found"
+  },
+  "Staatsanleihe": {
+    "status": "not_found"
+  },
+  "Fonds": {
+    "status": "not_found"
+  },
+  "Investmentfonds": {
+    "status": "not_found"
+  },
+  "ETF": {
+    "status": "not_found"
+  },
+  "Portfolio": {
+    "status": "not_found"
+  },
+  "spekulieren": {
+    "status": "not_found"
+  },
+  "Spekulation": {
+    "status": "not_found"
+  },
+  "Crash": {
+    "status": "not_found"
+  },
+  "Depotkonto": {
+    "status": "not_found"
+  },
+  "Nennwert": {
+    "status": "not_found"
+  },
+  "Kurswert": {
+    "status": "not_found"
+  },
+  "Kursschwankung": {
+    "status": "not_found"
+  },
+  "schwanken": {
+    "status": "not_found"
+  },
+  "Volatilität": {
+    "status": "not_found"
+  },
+  "volatil": {
+    "status": "not_found"
+  },
+  "Bullenmarkt": {
+    "status": "not_found"
+  },
+  "Bärenmarkt": {
+    "status": "not_found"
+  },
+  "Renditeerwartung": {
+    "status": "not_found"
+  },
+  "diversifizieren": {
+    "status": "not_found"
+  },
+  "Diversifikation": {
+    "status": "not_found"
+  },
+  "Zinsertrag": {
+    "status": "not_found"
+  },
+  "Dividendenrendite": {
+    "status": "not_found"
+  },
+  "Gewinnspanne": {
+    "status": "not_found"
+  },
+  "Nettogewinn": {
+    "status": "not_found"
+  },
+  "Bruttogewinn": {
+    "status": "not_found"
+  },
+  "Kostenfaktor": {
+    "status": "not_found"
+  },
+  "Kostenanalyse": {
+    "status": "not_found"
+  },
+  "Rentabilität": {
+    "status": "not_found"
+  },
+  "Leasing": {
+    "status": "not_found"
+  },
+  "leasen": {
+    "status": "not_found"
+  },
+  "Tilgungsrate": {
+    "status": "not_found"
+  },
+  "Fristigkeit": {
+    "status": "not_found"
+  },
+  "fristgerecht": {
+    "status": "not_found"
+  },
+  "fristwidrig": {
+    "status": "not_found"
+  },
+  "Budgetdefizit": {
+    "status": "not_found"
+  },
+  "Rücklage": {
+    "status": "not_found"
+  },
+  "Kapitalerhöhung": {
+    "status": "not_found"
+  },
+  "Kapitalherabsetzung": {
+    "status": "not_found"
+  },
+  "Emission": {
+    "status": "not_found"
+  },
+  "emittieren": {
+    "status": "not_found"
+  },
+  "Emittent": {
+    "status": "not_found"
+  },
+  "Erstplatzierung": {
+    "status": "not_found"
+  },
+  "IPO": {
+    "status": "not_found"
+  },
+  "Zeichnung": {
+    "status": "not_found"
+  },
+  "zeichnen": {
+    "status": "not_found"
+  },
+  "Agio": {
+    "status": "not_found"
+  },
+  "Disagio": {
+    "status": "not_found"
+  },
+  "Nennwertkurs": {
+    "status": "not_found"
+  },
+  "Gewinnbeteiligung": {
+    "status": "not_found"
+  },
+  "beteiligen": {
+    "status": "not_found"
+  },
+  "Beteiligung": {
+    "status": "not_found"
+  },
+  "Mehrheitsgesellschafter": {
+    "status": "not_found"
+  },
+  "Minderheitsgesellschafter": {
+    "status": "not_found"
+  },
+  "Hauptversammlung": {
+    "status": "not_found"
+  },
+  "beschließen": {
+    "status": "not_found"
+  },
+  "Beschluss": {
+    "status": "not_found"
+  },
+  "Stimmrecht": {
+    "status": "not_found"
+  },
+  "stimmen": {
+    "status": "not_found"
+  },
+  "Aufsichtsrat": {
+    "status": "not_found"
+  },
+  "Vorstand": {
+    "status": "not_found"
+  },
+  "Risikomanagement": {
+    "status": "not_found"
+  },
+  "minimieren": {
+    "status": "not_found"
+  },
+  "maximieren": {
+    "status": "not_found"
+  },
+  "Verlustbegrenzung": {
+    "status": "not_found"
+  },
+  "Stop-Loss": {
+    "status": "not_found"
+  },
+  "Gewinnvortrag": {
+    "status": "not_found"
+  },
+  "Verlustvortrag": {
+    "status": "not_found"
+  },
+  "Rücklagebildung": {
+    "status": "not_found"
+  },
+  "Liquiditätsplanung": {
+    "status": "not_found"
+  },
+  "Anlagekapital": {
+    "status": "not_found"
+  },
+  "Vermögensverwaltung": {
+    "status": "not_found"
+  },
+  "verwalten": {
+    "status": "not_found"
+  },
+  "Bewerbung": {
+    "status": "not_found"
+  },
+  "Lebenslauf": {
+    "status": "not_found"
+  },
+  "Anschreiben": {
+    "status": "not_found"
+  },
+  "Zeugnis": {
+    "status": "not_found"
+  },
+  "Arbeitszeugnis": {
+    "status": "not_found"
+  },
+  "Motivationsschreiben": {
+    "status": "not_found"
+  },
+  "Unterlagen": {
+    "status": "not_found"
+  },
+  "Anhang": {
+    "status": "not_found"
+  },
+  "Stellenanzeige": {
+    "status": "not_found"
+  },
+  "Jobportal": {
+    "status": "not_found"
+  },
+  "sich bewerben": {
+    "status": "not_found"
+  },
+  "einreichen": {
+    "status": "not_found"
+  },
+  "hochladen": {
+    "status": "not_found"
+  },
+  "verfassen": {
+    "status": "not_found"
+  },
+  "Berufserfahrung": {
+    "status": "not_found"
+  },
+  "Werdegang": {
+    "status": "not_found"
+  },
+  "Qualifikation": {
+    "status": "not_found"
+  },
+  "Kenntnisse": {
+    "status": "not_found"
+  },
+  "Ausbildung": {
+    "status": "not_found"
+  },
+  "Studium": {
+    "status": "not_found"
+  },
+  "Studienabschluss": {
+    "status": "not_found"
+  },
+  "Fachrichtung": {
+    "status": "not_found"
+  },
+  "Schwerpunkt": {
+    "status": "not_found"
+  },
+  "Zertifikat": {
+    "status": "not_found"
+  },
+  "Referenz": {
+    "status": "not_found"
+  },
+  "Praktikum": {
+    "status": "not_found"
+  },
+  "Praktikant": {
+    "status": "not_found"
+  },
+  "Aushilfsstelle": {
+    "status": "not_found"
+  },
+  "Teilzeitstelle": {
+    "status": "not_found"
+  },
+  "Vollzeitstelle": {
+    "status": "not_found"
+  },
+  "Festanstellung": {
+    "status": "not_found"
+  },
+  "befristet": {
+    "status": "not_found"
+  },
+  "unbefristet": {
+    "status": "not_found"
+  },
+  "Stellenangebot": {
+    "status": "not_found"
+  },
+  "Initiativbewerbung": {
+    "status": "not_found"
+  },
+  "Bewerbungsfoto": {
+    "status": "not_found"
+  },
+  "E-Mail-Bewerbung": {
+    "status": "not_found"
+  },
+  "Profil": {
+    "status": "not_found"
+  },
+  "Stellenausschreibung": {
+    "status": "not_found"
+  },
+  "Bewerber": {
+    "status": "not_found"
+  },
+  "Bewerberin": {
+    "status": "not_found"
+  },
+  "Bewerbungsfrist": {
+    "status": "not_found"
+  },
+  "Bewerbungsverfahren": {
+    "status": "not_found"
+  },
+  "Bewerbungsmappe": {
+    "status": "not_found"
+  },
+  "Karriereweg": {
+    "status": "not_found"
+  },
+  "Kompetenz": {
+    "status": "not_found"
+  },
+  "Soft Skills": {
+    "status": "not_found"
+  },
+  "Hard Skills": {
+    "status": "not_found"
+  },
+  "Fachwissen": {
+    "status": "not_found"
+  },
+  "Sprachkenntnisse": {
+    "status": "not_found"
+  },
+  "IT-Kenntnisse": {
+    "status": "not_found"
+  },
+  "Weiterbildung": {
+    "status": "not_found"
+  },
+  "Quereinsteiger": {
+    "status": "not_found"
+  },
+  "Umschulung": {
+    "status": "not_found"
+  },
+  "Referenzperson": {
+    "status": "not_found"
+  },
+  "Empfehlungsschreiben": {
+    "status": "not_found"
+  },
+  "Lücke": {
+    "status": "not_found"
+  },
+  "Lebenslauf-Entwurf": {
+    "status": "not_found"
+  },
+  "aktuell": {
+    "status": "not_found"
+  },
+  "lückenlos": {
+    "status": "not_found"
+  },
+  "ausführlich": {
+    "status": "not_found"
+  },
+  "kurzgefasst": {
+    "status": "not_found"
+  },
+  "aussagekräftig": {
+    "status": "not_found"
+  },
+  "Bildungsabschluss": {
+    "status": "not_found"
+  },
+  "Berufsausbildung": {
+    "status": "not_found"
+  },
+  "Eignung": {
+    "status": "not_found"
+  },
+  "geeignet": {
+    "status": "not_found"
+  },
+  "Arbeitsmarkt": {
+    "status": "not_found"
+  },
+  "Jobbörse": {
+    "status": "not_found"
+  },
+  "Vermittlung": {
+    "status": "not_found"
+  },
+  "Headhunter": {
+    "status": "not_found"
+  },
+  "Personalberatung": {
+    "status": "not_found"
+  },
+  "Anschreiben-Muster": {
+    "status": "not_found"
+  },
+  "Unterschrift": {
+    "status": "not_found"
+  },
+  "Kontaktdaten": {
+    "status": "not_found"
+  },
+  "Anschreiben-Layout": {
+    "status": "not_found"
+  },
+  "PDF-Datei": {
+    "status": "not_found"
+  },
+  "Formatierung": {
+    "status": "not_found"
+  },
+  "Anschreiben-Design": {
+    "status": "not_found"
+  },
+  "Lebenslauf-Aufbau": {
+    "status": "not_found"
+  },
+  "Berufspraxis": {
+    "status": "not_found"
+  },
+  "Zusatzqualifikation": {
+    "status": "not_found"
+  },
+  "Schulzeugnis": {
+    "status": "not_found"
+  },
+  "Diplom": {
+    "status": "not_found"
+  },
+  "Bachelorzeugnis": {
+    "status": "not_found"
+  },
+  "Masterzeugnis": {
+    "status": "not_found"
+  },
+  "Empfehlungsdokument": {
+    "status": "not_found"
+  },
+  "Anschreiben-Ziel": {
+    "status": "not_found"
+  },
+  "Initiativstelle": {
+    "status": "not_found"
+  },
+  "anpassen": {
+    "status": "not_found"
+  },
+  "überarbeiten": {
+    "status": "not_found"
+  },
+  "kontrollieren": {
+    "status": "not_found"
+  },
+  "korrekturlesen": {
+    "status": "not_found"
+  },
+  "speichern": {
+    "status": "not_found"
+  },
+  "ausdrucken": {
+    "status": "not_found"
+  },
+  "versenden": {
+    "status": "not_found"
+  },
+  "erwarten": {
+    "status": "not_found"
+  },
+  "erfüllen": {
+    "status": "not_found"
+  },
+  "Stellensuche": {
+    "status": "not_found"
+  },
+  "Einladung": {
+    "status": "not_found"
+  },
+  "Vorstellungsgespräch": {
+    "status": "not_found"
+  },
+  "zusagen": {
+    "status": "not_found"
+  },
+  "Vorbereitung": {
+    "status": "not_found"
+  },
+  "sich vorbereiten": {
+    "status": "not_found"
+  },
+  "Anreise": {
+    "status": "not_found"
+  },
+  "pünktlich": {
+    "status": "not_found"
+  },
+  "Pünktlichkeit": {
+    "status": "not_found"
+  },
+  "Empfang": {
+    "status": "not_found"
+  },
+  "begrüßen": {
+    "status": "not_found"
+  },
+  "Händedruck": {
+    "status": "not_found"
+  },
+  "Körpersprache": {
+    "status": "not_found"
+  },
+  "Augenkontakt": {
+    "status": "not_found"
+  },
+  "Haltung": {
+    "status": "not_found"
+  },
+  "aufgeregt": {
+    "status": "not_found"
+  },
+  "Aufregung": {
+    "status": "not_found"
+  },
+  "Gesprächspartner": {
+    "status": "not_found"
+  },
+  "Personalleiter": {
+    "status": "not_found"
+  },
+  "Abteilungsleiter": {
+    "status": "not_found"
+  },
+  "Vorstellung": {
+    "status": "not_found"
+  },
+  "sich vorstellen": {
+    "status": "not_found"
+  },
+  "Einstieg": {
+    "status": "not_found"
+  },
+  "Frage": {
+    "status": "not_found"
+  },
+  "antworten": {
+    "status": "not_found"
+  },
+  "Antwort": {
+    "status": "not_found"
+  },
+  "fragen": {
+    "status": "not_found"
+  },
+  "nachfragen": {
+    "status": "not_found"
+  },
+  "Nachfrage": {
+    "status": "not_found"
+  },
+  "ausweichen": {
+    "status": "not_found"
+  },
+  "ausweichend": {
+    "status": "not_found"
+  },
+  "eingehen auf": {
+    "status": "not_found"
+  },
+  "erklären": {
+    "status": "not_found"
+  },
+  "begründen": {
+    "status": "not_found"
+  },
+  "Begründung": {
+    "status": "not_found"
+  },
+  "Interesse": {
+    "status": "not_found"
+  },
+  "Desinteresse": {
+    "status": "not_found"
+  },
+  "betonen": {
+    "status": "not_found"
+  },
+  "hervorheben": {
+    "status": "not_found"
+  },
+  "beschreiben": {
+    "status": "not_found"
+  },
+  "darstellen": {
+    "status": "not_found"
+  },
+  "Darstellung": {
+    "status": "not_found"
+  },
+  "schildern": {
+    "status": "not_found"
+  },
+  "Schilderung": {
+    "status": "not_found"
+  },
+  "Situation": {
+    "status": "not_found"
+  },
+  "Beispiel": {
+    "status": "not_found"
+  },
+  "veranschaulichen": {
+    "status": "not_found"
+  },
+  "Rückfrage": {
+    "status": "not_found"
+  },
+  "aufmerksam": {
+    "status": "not_found"
+  },
+  "Aufmerksamkeit": {
+    "status": "not_found"
+  },
+  "zuhören": {
+    "status": "not_found"
+  },
+  "ausreden lassen": {
+    "status": "not_found"
+  },
+  "Pause": {
+    "status": "not_found"
+  },
+  "Denkpause": {
+    "status": "not_found"
+  },
+  "ruhig bleiben": {
+    "status": "not_found"
+  },
+  "Ruhe": {
+    "status": "not_found"
+  },
+  "Nervosität": {
+    "status": "not_found"
+  },
+  "lächeln": {
+    "status": "not_found"
+  },
+  "Lächeln": {
+    "status": "not_found"
+  },
+  "sympathisch": {
+    "status": "not_found"
+  },
+  "Sympathie": {
+    "status": "not_found"
+  },
+  "professionell": {
+    "status": "not_found"
+  },
+  "Professionalität": {
+    "status": "not_found"
+  },
+  "offen": {
+    "status": "not_found"
+  },
+  "Offenheit": {
+    "status": "not_found"
+  },
+  "ehrlich": {
+    "status": "not_found"
+  },
+  "Ehrlichkeit": {
+    "status": "not_found"
+  },
+  "authentisch": {
+    "status": "not_found"
+  },
+  "Authentizität": {
+    "status": "not_found"
+  },
+  "überzeugend": {
+    "status": "not_found"
+  },
+  "überzeugen": {
+    "status": "not_found"
+  },
+  "Überzeugung": {
+    "status": "not_found"
+  },
+  "Eindruck": {
+    "status": "not_found"
+  },
+  "Eindruck machen": {
+    "status": "not_found"
+  },
+  "hinterlassen": {
+    "status": "not_found"
+  },
+  "Gesprächsstoff": {
+    "status": "not_found"
+  },
+  "sich verabschieden": {
+    "status": "not_found"
+  },
+  "Verabschiedung": {
+    "status": "not_found"
+  },
+  "Ausgang": {
+    "status": "not_found"
+  },
+  "Nachbereitung": {
+    "status": "not_found"
+  },
+  "sich bedanken": {
+    "status": "not_found"
+  },
+  "Dank": {
+    "status": "not_found"
+  },
+  "Dankschreiben": {
+    "status": "not_found"
+  },
+  "abwarten": {
+    "status": "not_found"
+  },
+  "Entscheidung": {
+    "status": "not_found"
+  },
+  "entscheiden": {
+    "status": "not_found"
+  },
+  "Zusage": {
+    "status": "not_found"
+  },
+  "Absage": {
+    "status": "not_found"
+  },
+  "Telefoninterview": {
+    "status": "not_found"
+  },
+  "Videointerview": {
+    "status": "not_found"
+  },
+  "Online-Gespräch": {
+    "status": "not_found"
+  },
+  "Lebenslauf-Check": {
+    "status": "not_found"
+  },
+  "antwortbereit": {
+    "status": "not_found"
+  },
+  "Frage-Antwort-Runde": {
+    "status": "not_found"
+  },
+  "Stärke": {
+    "status": "not_found"
+  },
+  "Schwäche": {
+    "status": "not_found"
+  },
+  "Schlüsselqualifikation": {
+    "status": "not_found"
+  },
+  "teamfähig": {
+    "status": "not_found"
+  },
+  "Teamfähigkeit": {
+    "status": "not_found"
+  },
+  "flexibel": {
+    "status": "not_found"
+  },
+  "Flexibilität": {
+    "status": "not_found"
+  },
+  "belastbar": {
+    "status": "not_found"
+  },
+  "Belastbarkeit": {
+    "status": "not_found"
+  },
+  "zuverlässig": {
+    "status": "not_found"
+  },
+  "Zuverlässigkeit": {
+    "status": "not_found"
+  },
+  "selbstständig": {
+    "status": "not_found"
+  },
+  "Selbstständigkeit": {
+    "status": "not_found"
+  },
+  "engagiert": {
+    "status": "not_found"
+  },
+  "Engagement": {
+    "status": "not_found"
+  },
+  "motiviert": {
+    "status": "not_found"
+  },
+  "Motivation": {
+    "status": "not_found"
+  },
+  "kommunikativ": {
+    "status": "not_found"
+  },
+  "Kommunikationsfähigkeit": {
+    "status": "not_found"
+  },
+  "zielstrebig": {
+    "status": "not_found"
+  },
+  "Zielstrebigkeit": {
+    "status": "not_found"
+  },
+  "kreativ": {
+    "status": "not_found"
+  },
+  "Kreativität": {
+    "status": "not_found"
+  },
+  "lernbereit": {
+    "status": "not_found"
+  },
+  "Lernbereitschaft": {
+    "status": "not_found"
+  },
+  "anpassungsfähig": {
+    "status": "not_found"
+  },
+  "Anpassungsfähigkeit": {
+    "status": "not_found"
+  },
+  "verantwortungsbewusst": {
+    "status": "not_found"
+  },
+  "Verantwortungsbewusstsein": {
+    "status": "not_found"
+  },
+  "organisiert": {
+    "status": "not_found"
+  },
+  "Organisationstalent": {
+    "status": "not_found"
+  },
+  "lösungsorientiert": {
+    "status": "not_found"
+  },
+  "Problemlösungsverhalten": {
+    "status": "not_found"
+  },
+  "kundenorientiert": {
+    "status": "not_found"
+  },
+  "analytisch": {
+    "status": "not_found"
+  },
+  "analytische Denken": {
+    "status": "not_found"
+  },
+  "strukturiert": {
+    "status": "not_found"
+  },
+  "gewissenhaft": {
+    "status": "not_found"
+  },
+  "Gewissenhaftigkeit": {
+    "status": "not_found"
+  },
+  "ehrgeizig": {
+    "status": "not_found"
+  },
+  "Ehrgeiz": {
+    "status": "not_found"
+  },
+  "durchsetzungsstark": {
+    "status": "not_found"
+  },
+  "Durchsetzungsfähigkeit": {
+    "status": "not_found"
+  },
+  "kritikfähig": {
+    "status": "not_found"
+  },
+  "Kritikfähigkeit": {
+    "status": "not_found"
+  },
+  "stressresistent": {
+    "status": "not_found"
+  },
+  "Stressresistenz": {
+    "status": "not_found"
+  },
+  "loyal": {
+    "status": "not_found"
+  },
+  "Loyalität": {
+    "status": "not_found"
+  },
+  "geduldig": {
+    "status": "not_found"
+  },
+  "Geduld": {
+    "status": "not_found"
+  },
+  "initiativ": {
+    "status": "not_found"
+  },
+  "Eigeninitiative": {
+    "status": "not_found"
+  },
+  "Überzeugungskraft": {
+    "status": "not_found"
+  },
+  "redegewandt": {
+    "status": "not_found"
+  },
+  "Redegewandtheit": {
+    "status": "not_found"
+  },
+  "freundlich": {
+    "status": "not_found"
+  },
+  "Freundlichkeit": {
+    "status": "not_found"
+  },
+  "höflich": {
+    "status": "not_found"
+  },
+  "Höflichkeit": {
+    "status": "not_found"
+  },
+  "hilfsbereit": {
+    "status": "not_found"
+  },
+  "Hilfsbereitschaft": {
+    "status": "not_found"
+  },
+  "diszipliniert": {
+    "status": "not_found"
+  },
+  "Disziplin": {
+    "status": "not_found"
+  },
+  "sorgfältig": {
+    "status": "not_found"
+  },
+  "Sorgfalt": {
+    "status": "not_found"
+  },
+  "Arbeitsweise": {
+    "status": "not_found"
+  },
+  "selbstbewusst": {
+    "status": "not_found"
+  },
+  "Selbstbewusstsein": {
+    "status": "not_found"
+  },
+  "kompromissbereit": {
+    "status": "not_found"
+  },
+  "Kompromissbereitschaft": {
+    "status": "not_found"
+  },
+  "diplomatisch": {
+    "status": "not_found"
+  },
+  "Diplomatiegespür": {
+    "status": "not_found"
+  },
+  "motivieren": {
+    "status": "not_found"
+  },
+  "führen": {
+    "status": "not_found"
+  },
+  "Führungskompetenz": {
+    "status": "not_found"
+  },
+  "Kooperationsfähigkeit": {
+    "status": "not_found"
+  },
+  "Team": {
+    "status": "not_found"
+  },
+  "Teamgeist": {
+    "status": "not_found"
+  },
+  "Unterstützung": {
+    "status": "not_found"
+  },
+  "Herausforderung": {
+    "status": "not_found"
+  },
+  "Erfolg": {
+    "status": "not_found"
+  },
+  "Erfahrung": {
+    "status": "not_found"
+  },
+  "erfahren": {
+    "status": "not_found"
+  },
+  "Multitasking": {
+    "status": "not_found"
+  },
+  "verhandlungsstark": {
+    "status": "not_found"
+  },
+  "Durchsetzungsvermögen": {
+    "status": "not_found"
+  },
+  "Gehaltsvorstellung": {
+    "status": "not_found"
+  },
+  "Bruttogehalt": {
+    "status": "not_found"
+  },
+  "Nettogehalt": {
+    "status": "not_found"
+  },
+  "verhandeln": {
+    "status": "not_found"
+  },
+  "Gehaltsverhandlung": {
+    "status": "not_found"
+  },
+  "Tarifvertrag": {
+    "status": "not_found"
+  },
+  "Mindestlohn": {
+    "status": "not_found"
+  },
+  "Einstiegsgehalt": {
+    "status": "not_found"
+  },
+  "Zulage": {
+    "status": "not_found"
+  },
+  "Bonus": {
+    "status": "not_found"
+  },
+  "Weihnachtsgeld": {
+    "status": "not_found"
+  },
+  "Urlaubsgeld": {
+    "status": "not_found"
+  },
+  "Sonderzahlung": {
+    "status": "not_found"
+  },
+  "betriebliche Altersvorsorge": {
+    "status": "not_found"
+  },
+  "Arbeitgeberanteil": {
+    "status": "not_found"
+  },
+  "Arbeitnehmeranteil": {
+    "status": "not_found"
+  },
+  "Sozialabgaben": {
+    "status": "not_found"
+  },
+  "Arbeitszeit": {
+    "status": "not_found"
+  },
+  "Gleitzeit": {
+    "status": "not_found"
+  },
+  "Kernarbeitszeit": {
+    "status": "not_found"
+  },
+  "Vollzeit": {
+    "status": "not_found"
+  },
+  "Teilzeit": {
+    "status": "not_found"
+  },
+  "Überstunden": {
+    "status": "not_found"
+  },
+  "abfeiern": {
+    "status": "not_found"
+  },
+  "Zeitkonto": {
+    "status": "not_found"
+  },
+  "Schichtarbeit": {
+    "status": "not_found"
+  },
+  "Homeoffice": {
+    "status": "not_found"
+  },
+  "mobile Arbeiten": {
+    "status": "not_found"
+  },
+  "Arbeitsbedingungen": {
+    "status": "not_found"
+  },
+  "Arbeitsplatz": {
+    "status": "not_found"
+  },
+  "Ausstattung": {
+    "status": "not_found"
+  },
+  "Dienstwagen": {
+    "status": "not_found"
+  },
+  "Diensthandy": {
+    "status": "not_found"
+  },
+  "Ticket": {
+    "status": "not_found"
+  },
+  "Fahrtkostenzuschuss": {
+    "status": "not_found"
+  },
+  "Verpflegung": {
+    "status": "not_found"
+  },
+  "Kantine": {
+    "status": "not_found"
+  },
+  "Urlaub": {
+    "status": "not_found"
+  },
+  "Urlaubsanspruch": {
+    "status": "not_found"
+  },
+  "Urlaubstag": {
+    "status": "not_found"
+  },
+  "Sonderurlaub": {
+    "status": "not_found"
+  },
+  "Elternzeit": {
+    "status": "not_found"
+  },
+  "Mutterschutz": {
+    "status": "not_found"
+  },
+  "Krankschreibung": {
+    "status": "not_found"
+  },
+  "Krankheitsfall": {
+    "status": "not_found"
+  },
+  "Lohnfortzahlung": {
+    "status": "not_found"
+  },
+  "Arbeitsunfähigkeit": {
+    "status": "not_found"
+  },
+  "Arbeitsvertrag": {
+    "status": "not_found"
+  },
+  "Probezeit": {
+    "status": "not_found"
+  },
+  "Kündigung": {
+    "status": "not_found"
+  },
+  "kündigen": {
+    "status": "not_found"
+  },
+  "Kündigungsfrist": {
+    "status": "not_found"
+  },
+  "Kündigungsschutz": {
+    "status": "not_found"
+  },
+  "Abfindung": {
+    "status": "not_found"
+  },
+  "Aufhebungsabkommen": {
+    "status": "not_found"
+  },
+  "Betriebsrat": {
+    "status": "not_found"
+  },
+  "Gewerkschaft": {
+    "status": "not_found"
+  },
+  "Betriebsvereinbarung": {
+    "status": "not_found"
+  },
+  "Arbeitsschutz": {
+    "status": "not_found"
+  },
+  "Unfallversicherung": {
+    "status": "not_found"
+  },
+  "Rentenversicherung": {
+    "status": "not_found"
+  },
+  "Krankenversicherung": {
+    "status": "not_found"
+  },
+  "Arbeitslosenversicherung": {
+    "status": "not_found"
+  },
+  "Pflegeversicherung": {
+    "status": "not_found"
+  },
+  "Nettoverdienst": {
+    "status": "not_found"
+  },
+  "Bruttoverdienst": {
+    "status": "not_found"
+  },
+  "Einkunft": {
+    "status": "not_found"
+  },
+  "Beschäftigung": {
+    "status": "not_found"
+  },
+  "Beschäftigungsverhältnis": {
+    "status": "not_found"
+  },
+  "Zeitarbeit": {
+    "status": "not_found"
+  },
+  "Minijob": {
+    "status": "not_found"
+  },
+  "Gleitzeitregelung": {
+    "status": "not_found"
+  },
+  "Stechuhr": {
+    "status": "not_found"
+  },
+  "Überstundenkonto": {
+    "status": "not_found"
+  },
+  "auszahlen": {
+    "status": "not_found"
+  },
+  "vergüten": {
+    "status": "not_found"
+  },
+  "Vergütung": {
+    "status": "not_found"
+  },
+  "Gehaltserhöhung": {
+    "status": "not_found"
+  },
+  "Gehaltsstufe": {
+    "status": "not_found"
+  },
+  "Gehaltsstabelle": {
+    "status": "not_found"
+  },
+  "Gehaltsnachweis": {
+    "status": "not_found"
+  },
+  "Abrechnung": {
+    "status": "not_found"
+  },
+  "Gehaltszettel": {
+    "status": "not_found"
+  },
+  "Sozialversicherung": {
+    "status": "not_found"
+  },
+  "Abzug": {
+    "status": "not_found"
+  },
+  "Nettoeinkommen": {
+    "status": "not_found"
+  },
+  "Bruttoeinkommen": {
+    "status": "not_found"
+  },
+  "Zusatzleistung": {
+    "status": "not_found"
+  },
+  "Vergünstigung": {
+    "status": "not_found"
+  },
+  "Karriere": {
+    "status": "not_found"
+  },
+  "Laufbahn": {
+    "status": "not_found"
+  },
+  "Fortbildung": {
+    "status": "not_found"
+  },
+  "Seminar": {
+    "status": "not_found"
+  },
+  "Schulung": {
+    "status": "not_found"
+  },
+  "Workshop": {
+    "status": "not_found"
+  },
+  "Qualifizierung": {
+    "status": "not_found"
+  },
+  "sich qualifizieren": {
+    "status": "not_found"
+  },
+  "Fähigkeit": {
+    "status": "not_found"
+  },
+  "erwerben": {
+    "status": "not_found"
+  },
+  "vertiefen": {
+    "status": "not_found"
+  },
+  "Vertiefung": {
+    "status": "not_found"
+  },
+  "erweitern": {
+    "status": "not_found"
+  },
+  "Erweiterung": {
+    "status": "not_found"
+  },
+  "Aufstieg": {
+    "status": "not_found"
+  },
+  "befördern": {
+    "status": "not_found"
+  },
+  "Beförderung": {
+    "status": "not_found"
+  },
+  "Führungskraft": {
+    "status": "not_found"
+  },
+  "Führungsposition": {
+    "status": "not_found"
+  },
+  "Verantwortung übernehmen": {
+    "status": "not_found"
+  },
+  "Ziel": {
+    "status": "not_found"
+  },
+  "Mitarbeitergespräch": {
+    "status": "not_found"
+  },
+  "Feedbackgespräch": {
+    "status": "not_found"
+  },
+  "Entwicklung": {
+    "status": "not_found"
+  },
+  "Personalentwicklung": {
+    "status": "not_found"
+  },
+  "Potenzial": {
+    "status": "not_found"
+  },
+  "Talent": {
+    "status": "not_found"
+  },
+  "Talentförderung": {
+    "status": "not_found"
+  },
+  "Mentor": {
+    "status": "not_found"
+  },
+  "Mentoring": {
+    "status": "not_found"
+  },
+  "Coaching": {
+    "status": "not_found"
+  },
+  "Coach": {
+    "status": "not_found"
+  },
+  "Aufstiegswunsch": {
+    "status": "not_found"
+  },
+  "Karrierepfad": {
+    "status": "not_found"
+  },
+  "Karriereschritt": {
+    "status": "not_found"
+  },
+  "Karrierewechsel": {
+    "status": "not_found"
+  },
+  "Quereinstieg": {
+    "status": "not_found"
+  },
+  "berufliche Veränderung": {
+    "status": "not_found"
+  },
+  "sich verändern": {
+    "status": "not_found"
+  },
+  "Perspektive": {
+    "status": "not_found"
+  },
+  "Aufstiegschance": {
+    "status": "not_found"
+  },
+  "Aufstiegsmöglichkeit": {
+    "status": "not_found"
+  },
+  "Fachlaufbahn": {
+    "status": "not_found"
+  },
+  "Führungslaufbahn": {
+    "status": "not_found"
+  },
+  "Auslandsentsendung": {
+    "status": "not_found"
+  },
+  "Auslandsprojekt": {
+    "status": "not_found"
+  },
+  "Sprachschulung": {
+    "status": "not_found"
+  },
+  "Zertifikatskurs": {
+    "status": "not_found"
+  },
+  "Prüfung": {
+    "status": "not_found"
+  },
+  "bestehen": {
+    "status": "not_found"
+  },
+  "Zertifikat erhalten": {
+    "status": "not_found"
+  },
+  "Fachkompetenz": {
+    "status": "not_found"
+  },
+  "Methodenkompetenz": {
+    "status": "not_found"
+  },
+  "Sozialkompetenz": {
+    "status": "not_found"
+  },
+  "Selbstkompetenz": {
+    "status": "not_found"
+  },
+  "Schlüsselkompetenz": {
+    "status": "not_found"
+  },
+  "Fachwissen erweitern": {
+    "status": "not_found"
+  },
+  "Fachliteratur": {
+    "status": "not_found"
+  },
+  "Kongress": {
+    "status": "not_found"
+  },
+  "Tagung": {
+    "status": "not_found"
+  },
+  "Messe": {
+    "status": "not_found"
+  },
+  "Austausch": {
+    "status": "not_found"
+  },
+  "Netzwerk": {
+    "status": "not_found"
+  },
+  "netzwerken": {
+    "status": "not_found"
+  },
+  "Fachverband": {
+    "status": "not_found"
+  },
+  "Wissenstransfer": {
+    "status": "not_found"
+  },
+  "Einarbeitung": {
+    "status": "not_found"
+  },
+  "Einarbeitungsplan": {
+    "status": "not_found"
+  },
+  "Probezeit bestehen": {
+    "status": "not_found"
+  },
+  "Entwicklungsplan": {
+    "status": "not_found"
+  },
+  "Karriereziel": {
+    "status": "not_found"
+  },
+  "Zielerreichung": {
+    "status": "not_found"
+  },
+  "Leistungsbeurteilung": {
+    "status": "not_found"
+  },
+  "leistungsstark": {
+    "status": "not_found"
+  },
+  "Leistungsträger": {
+    "status": "not_found"
+  },
+  "Anerkennung": {
+    "status": "not_found"
+  },
+  "loben": {
+    "status": "not_found"
+  },
+  "Lob": {
+    "status": "not_found"
+  },
+  "Ansporn": {
+    "status": "not_found"
+  },
+  "Arbeitszufriedenheit": {
+    "status": "not_found"
+  },
+  "Betriebsklima": {
+    "status": "not_found"
+  },
+  "Unternehmenskultur": {
+    "status": "not_found"
+  },
+  "Behörde": {
+    "status": "not_found"
+  },
+  "Amt": {
+    "status": "not_found"
+  },
+  "Beamte": {
+    "status": "not_found"
+  },
+  "Formular": {
+    "status": "not_found"
+  },
+  "ausfüllen": {
+    "status": "not_found"
+  },
+  "unterschreiben": {
+    "status": "not_found"
+  },
+  "Antrag": {
+    "status": "not_found"
+  },
+  "Gebührenbescheid": {
+    "status": "not_found"
+  },
+  "bezahlen": {
+    "status": "not_found"
+  },
+  "Personalausweis": {
+    "status": "not_found"
+  },
+  "Reisepass": {
+    "status": "not_found"
+  },
+  "Ausweis": {
+    "status": "not_found"
+  },
+  "Ausweisnummer": {
+    "status": "not_found"
+  },
+  "Dokument": {
+    "status": "not_found"
+  },
+  "Urkunde": {
+    "status": "not_found"
+  },
+  "Geburtsurkunde": {
+    "status": "not_found"
   }
 }
