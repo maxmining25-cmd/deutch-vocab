@@ -30,7 +30,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kundenspezifische Anpassung",
+        "Individualisierung",
+        "Personalisierung"
+      ],
       "antonyms": [
         "der Standard, die Standards"
       ]
@@ -56,7 +60,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Implementierungsleitfaden (IMG)"
+      ],
       "antonyms": []
     },
     {
@@ -88,7 +94,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Transportanfrage",
+        "Transferanfrage"
+      ],
       "antonyms": []
     },
     {
@@ -112,7 +121,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einstellungstabelle"
+      ],
       "antonyms": []
     },
     {
@@ -144,7 +155,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Systemgefilde",
+        "Systemrahmenbedingungen",
+        "Systemumfeld",
+        "Systemkontext",
+        "Systemvoraussetzungen"
+      ],
       "antonyms": []
     },
     {
@@ -180,7 +197,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entwicklungsstruktur",
+        "Entwicklungsorganisation",
+        "Entwicklungsorganismus",
+        "Entwicklungsgebilde",
+        "Entwicklungsanlage"
+      ],
       "antonyms": [
         "das Produktivsystem, die Produktivsysteme"
       ]
@@ -218,7 +241,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Qualitätssicherungsstruktur",
+        "Qualitätssicherungsorganisation",
+        "Qualitätssicherungsorganismus",
+        "Qualitätssicherungsgebilde",
+        "Qualitätssicherungsanlage"
+      ],
       "antonyms": []
     },
     {
@@ -242,7 +271,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Produktionssystem",
+        "Produktivitäts-/Arbeitssystem (PRD)"
+      ],
       "antonyms": [
         "das Entwicklungssystem, die Entwicklungssysteme",
         "das Testsystem, die Testsysteme"
@@ -281,7 +313,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Auftraggeber (Handwerk",
+        "Kunde (Handel",
+        "Gast (Beherbergung",
+        "Besucher",
+        "Patient"
+      ],
       "antonyms": []
     },
     {
@@ -317,7 +355,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenmigration"
+      ],
       "antonyms": [
         "die Datenübergabe, die Datenübergaben",
         "der Datenexport, die Datenexporte"
@@ -344,7 +384,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Altdatenübertragung",
+        "historische Datenmigration"
+      ],
       "antonyms": []
     },
     {
@@ -368,7 +411,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fit-Gap-Analyse"
+      ],
       "antonyms": []
     },
     {
@@ -404,7 +449,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Go-Gleichzeitig",
+        "Go-Parallel",
+        "Go-Gleichlaufend",
+        "Go-Simultan",
+        "Go-Koinzident"
+      ],
       "antonyms": [
         "das Rollback, die Rollbacks",
         "die Abschaltung, die Abschaltungen"
@@ -443,7 +494,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unterstützung",
+        "Support/Wartung"
+      ],
       "antonyms": []
     },
     {
@@ -467,7 +521,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "SAP-Implementierungsprojekt"
+      ],
       "antonyms": []
     },
     {
@@ -503,7 +559,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Funktionsprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -527,7 +585,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Integrationstests"
+      ],
       "antonyms": []
     },
     {
@@ -563,7 +623,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Benutzerakzeptanztest (UAT)",
+        "Benutzertests (UAT)"
+      ],
       "antonyms": []
     },
     {
@@ -599,7 +662,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Weiterbildung",
+        "Training",
+        "Seminar",
+        "Workshop",
+        "Kursus"
+      ],
       "antonyms": []
     },
     {
@@ -635,7 +704,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Endbenutzer",
+        "User"
+      ],
       "antonyms": [
         "der Entwickler, die Entwickler",
         "der Systemadministrator, die Administratoren"
@@ -674,7 +746,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ticketsystem"
+      ],
       "antonyms": []
     },
     {
@@ -710,7 +784,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vorfall"
+      ],
       "antonyms": []
     },
     {
@@ -746,7 +822,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Änderungswunsch"
+      ],
       "antonyms": []
     },
     {
@@ -782,7 +860,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entblockung",
+        "Öffnung",
+        "Abnahme",
+        "Gestattung (fachspr.",
+        "Erlaubnis"
+      ],
       "antonyms": [
         "die Sperre, die Sperren",
         "die Blockierung, die Blockierungen"
@@ -821,7 +905,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abnicken",
+        "verabschieden",
+        "Placet geben",
+        "Zustimmung geben",
+        "billigen"
+      ],
       "partizip_2": "freigegeben",
       "imperative": "gib frei! / gebt frei! / geben Sie frei!",
       "conjugations": {
@@ -871,7 +961,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Import"
+      ],
       "partizip_2": "importiert",
       "imperative": "importiere! / importiert! / importieren Sie!",
       "conjugations": {
@@ -920,7 +1012,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausführen"
+      ],
       "partizip_2": "exportiert",
       "imperative": "exportiere! / exportiert! / exportieren Sie!",
       "conjugations": {
@@ -961,7 +1055,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Werkbank",
+        "Entwickler-Arbeitsumgebung (Workbench)"
+      ],
       "antonyms": []
     },
     {
@@ -985,7 +1082,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entwicklungsumgebungsobjekt"
+      ],
       "antonyms": []
     },
     {
@@ -1009,7 +1108,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tischpflege"
+      ],
       "antonyms": []
     },
     {
@@ -1045,7 +1146,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wartungsansicht"
+      ],
       "antonyms": []
     },
     {
@@ -1069,7 +1172,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "SAP-Standardverhalten"
+      ],
       "antonyms": [
         "die Eigenentwicklung, die Eigenentwicklungen",
         "die Modifikation, die Modifikationen"
@@ -1108,7 +1213,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abänderung",
+        "Neuinterpretation (geh.",
+        "Umänderung",
+        "Veränderung",
+        "Modifizierung"
+      ],
       "antonyms": [
         "der Standard, die Standards"
       ]
@@ -1146,7 +1257,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dilatation",
+        "Ausweitung",
+        "Dehnung",
+        "Programmmodul",
+        "Software-Erweiterung"
+      ],
       "antonyms": [
         "die Einschränkung, die Einschränkungen",
         "die Reduzierung, die Reduzierungen"
@@ -1185,7 +1302,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Badeanstalt",
+        "Schwimmbad",
+        "Bad"
+      ],
       "antonyms": []
     },
     {
@@ -1209,7 +1330,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Benutzerausgang"
+      ],
       "antonyms": []
     },
     {
@@ -1245,7 +1368,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kundenspezifische Entwicklung"
+      ],
       "antonyms": [
         "der Standard, die Standards",
         "die Standardsoftware, die Standardsoftwares"
@@ -1276,7 +1401,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Z-Klasse-Programm (benutzerdefiniert)"
+      ],
       "antonyms": [
         "das Standardprogramm, die Standardprogramme"
       ]
@@ -1314,7 +1441,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Z-Tisch",
+        "Benutzerdefinierte Tabelle (Z-Tabelle)"
+      ],
       "antonyms": [
         "die Standardtabelle, die Standardtabellen"
       ]
@@ -1340,7 +1470,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ABAP-Programmiersprache"
+      ],
       "antonyms": []
     },
     {
@@ -1400,7 +1532,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "funktionale Spezifikation"
+      ],
       "antonyms": []
     },
     {
@@ -1436,7 +1570,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Design",
+        "Konzeption",
+        "Entwurf",
+        "Plan",
+        "Linie"
+      ],
       "antonyms": []
     },
     {
@@ -1472,7 +1612,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geschäftsplan (BBP)"
+      ],
       "antonyms": []
     },
     {
@@ -1508,7 +1650,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektphase"
+      ],
       "antonyms": []
     },
     {
@@ -1540,7 +1684,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektentwicklungsstadium",
+        "Projektstufe",
+        "Projektentwicklungsphase",
+        "Projektstation",
+        "Projektentwicklungsstufe"
+      ],
       "antonyms": []
     },
     {
@@ -1576,7 +1726,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hektometerstein",
+        "Kilometerstein",
+        "Meisterstück",
+        "Meisterleistung",
+        "Bravourleistung"
+      ],
       "antonyms": []
     },
     {
@@ -1612,7 +1768,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontrollgremium",
+        "Kuratorium",
+        "Kontrollorgan",
+        "Beirat",
+        "Board"
+      ],
       "antonyms": []
     },
     {
@@ -1648,7 +1810,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unabdingbarkeit",
+        "Notwendigkeit",
+        "Voraussetzung",
+        "Erfordernis",
+        "Bedarf"
+      ],
       "antonyms": []
     },
     {
@@ -1672,7 +1840,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anforderungserfassung"
+      ],
       "antonyms": []
     },
     {
@@ -1708,7 +1878,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Weiterbildung",
+        "Training",
+        "Seminar",
+        "Kursus",
+        "Schulung"
+      ],
       "antonyms": []
     },
     {
@@ -1744,7 +1920,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sitzungsprotokoll",
+        "Aufzeichnungen",
+        "Mitschrift",
+        "Memo",
+        "Niederschrift"
+      ],
       "antonyms": []
     },
     {
@@ -1780,7 +1962,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "schwierige Aufgabe",
+        "Prüfung",
+        "schwieriges Unterfangen",
+        "Challenge (ugs.",
+        "Herausforderung (floskelhaft"
+      ],
       "antonyms": []
     },
     {
@@ -1816,7 +2004,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Obliegenschaft",
+        "Befugnis",
+        "Verantwortungsbereich",
+        "Verantwortlichkeit",
+        "Bereich"
+      ],
       "antonyms": []
     },
     {
@@ -1852,7 +2046,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "befasst",
+        "verantwortlich"
+      ],
       "antonyms": [
         "unzuständig"
       ]
@@ -1878,7 +2075,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hauptbenutzer"
+      ],
       "antonyms": [
         "der Endanwender, die Endanwender"
       ]
@@ -1904,7 +2103,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Testskript/Szenario",
+        "Testskript"
+      ],
       "antonyms": []
     },
     {
@@ -1940,7 +2142,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Testchose",
+        "Testding",
+        "Testsache",
+        "Testcausa",
+        "Testsachverhalt"
+      ],
       "antonyms": []
     },
     {
@@ -1976,7 +2184,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Missgeschick",
+        "Panne",
+        "Fehlgriff",
+        "Malheur",
+        "Fehlschlag"
+      ],
       "antonyms": [
         "das Richtige",
         "die Korrektheit"
@@ -2015,7 +2229,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "klären",
+        "es richten",
+        "bewältigen",
+        "beseitigen",
+        "ausmerzen"
+      ],
       "partizip_2": "behebt",
       "imperative": "behebe! / behebt! / beheben Sie!",
       "conjugations": {
@@ -2065,7 +2285,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bereinigung",
+        "Rektifikation",
+        "Fehlerkorrektur",
+        "Berichtigung",
+        "Richtigstellung"
+      ],
       "antonyms": [
         "die Fehlerentstehung, die Fehlerentstehungen",
         "die Fehlerverursachung, die Fehlerverursachungen"
@@ -2100,7 +2326,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Prüfprotokoll"
+      ],
       "antonyms": []
     },
     {
@@ -2136,7 +2364,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abfall",
+        "Nachlassen",
+        "Dämpfung",
+        "Dekreszenz",
+        "Regression"
+      ],
       "antonyms": [
         "die Ablehnung, die Ablehnungen",
         "die Verweigerung, die Verweigerungen"
@@ -2175,7 +2409,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "billigen",
+        "zustimmen",
+        "unterschreiben",
+        "einverstanden sein",
+        "Ja sagen"
+      ],
       "partizip_2": "abgenommen",
       "imperative": "nimm ab! / nehmt ab! / nehmen Sie ab!",
       "conjugations": {
@@ -2225,7 +2465,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abnahmebescheinigung"
+      ],
       "antonyms": []
     },
     {
@@ -2261,7 +2503,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Go-Live",
+        "produktiver Start"
+      ],
       "antonyms": [
         "der Testbetrieb, (nur Sg.)",
         "die Abschaltung, die Abschaltungen"
@@ -2288,7 +2533,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hypercare-Entwicklungsstadium",
+        "Hypercare-Stufe",
+        "Hypercare-Entwicklungsphase",
+        "Hypercare-Station",
+        "Hypercare-Entwicklungsstufe"
+      ],
       "antonyms": [
         "der Regelbetrieb, (nur Sg.)"
       ]
@@ -2322,7 +2573,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Regelfirma",
+        "Regelfa.",
+        "Regelunternehmen"
+      ],
       "antonyms": [
         "die Hypercare-Phase, die Hypercare-Phasen",
         "der Testbetrieb, (nur Sg.)"
@@ -2349,7 +2604,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ticketvolumen"
+      ],
       "antonyms": []
     },
     {
@@ -2385,7 +2642,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Transaktionszeit"
+      ],
       "antonyms": []
     },
     {
@@ -2452,7 +2711,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aus-dem-Ruder-Laufen",
+        "Entgleisen",
+        "Kontrollverlust",
+        "Entgleisung",
+        "Ausufern"
+      ],
       "antonyms": [
         "die Deeskalation, die Deeskalationen"
       ]
@@ -2490,7 +2755,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sich ausweiten",
+        "weit kommen",
+        "sich auswachsen",
+        "ausarten",
+        "aggressiver werden"
+      ],
       "partizip_2": "eskaliert",
       "imperative": "eskaliere! / eskaliert! / eskalieren Sie!",
       "conjugations": {
@@ -2539,7 +2810,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rektifikation",
+        "Fehlerkorrektur",
+        "Fehlerbehebung",
+        "Berichtigung",
+        "Richtigstellung"
+      ],
       "antonyms": [
         "die Verunreinigung, die Verunreinigungen",
         "die Verschmutzung, die Verschmutzungen"
@@ -2566,7 +2843,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenrektifikation",
+        "Datenfehlerkorrektur",
+        "Datenfehlerbehebung",
+        "Datenberichtigung",
+        "Datenrichtigstellung"
+      ],
       "antonyms": []
     },
     {
@@ -2590,7 +2873,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schnittstellenabgleich",
+        "Schnittstellenverhandlung"
+      ],
       "antonyms": []
     },
     {
@@ -2614,7 +2900,12 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Migrationstool",
+        "Migrationstool (z",
+        "LSMW",
+        "LTMC)"
+      ],
       "antonyms": []
     },
     {
@@ -2645,7 +2936,9 @@
           "ru": "В 1964 ЛТЦ вошёл в состав «Славии», клуба, из которого он первоначально возник."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Migrationscockpit"
+      ],
       "antonyms": []
     },
     {
@@ -2681,7 +2974,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenaufbau",
+        "Datenkonstruktion",
+        "Datenarchitektur",
+        "Datengerüst",
+        "Datengeflecht"
+      ],
       "antonyms": []
     },
     {
@@ -2705,7 +3004,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zuordnungsregel",
+        "Datenabgleichsregel"
+      ],
       "antonyms": []
     },
     {
@@ -2729,7 +3031,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Quellrubrik",
+        "Quellcluster",
+        "Quellkategorie",
+        "Quellbereich",
+        "Quellarray"
+      ],
       "antonyms": [
         "das Zielfeld, die Zielfelder"
       ]
@@ -2767,7 +3075,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zielrubrik",
+        "Zielcluster",
+        "Zielkategorie",
+        "Zielbereich",
+        "Zielarray"
+      ],
       "antonyms": [
         "das Quellfeld, die Quellfelder"
       ]
@@ -2793,7 +3107,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umrechnungsregel"
+      ],
       "antonyms": []
     },
     {
@@ -2829,7 +3145,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teststruktur",
+        "Testorganisation",
+        "Testorganismus",
+        "Testgebilde",
+        "Testanlage"
+      ],
       "antonyms": [
         "das Produktivsystem, die Produktivsysteme"
       ]
@@ -2855,7 +3177,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sandbox (isoliertes Testsystem)"
+      ],
       "antonyms": [
         "das Produktivsystem, die Produktivsysteme"
       ]
@@ -2881,7 +3205,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Release-Update",
+        "Release-Aktualisierung",
+        "Release-Softwareaktualisierung"
+      ],
       "antonyms": [
         "der Downgrade, die Downgrades"
       ]
@@ -2919,7 +3247,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Support-Paket",
+        "Supportpaket (Updates)"
+      ],
       "antonyms": []
     },
     {
@@ -2943,7 +3274,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "SAP-Beleg",
+        "SAP-Indikator",
+        "SAP-Zeichen",
+        "SAP-Zeiger",
+        "SAP-Tabelle"
+      ],
       "antonyms": []
     },
     {
@@ -2979,7 +3316,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einbringen",
+        "hereinholen",
+        "erbringen",
+        "abfallen",
+        "einfahren"
+      ],
       "partizip_2": "eingespielt",
       "imperative": "spiele ein! / spielt ein! / spielen Sie ein!",
       "conjugations": {
@@ -3025,7 +3368,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "dringende Lösung"
+      ],
       "antonyms": []
     },
     {
@@ -3049,7 +3394,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Systemupdate",
+        "Systemupgrade",
+        "Systemsoftwareaktualisierung",
+        "Systemerneuerung",
+        "Systemaufarbeitung"
+      ],
       "antonyms": []
     },
     {
@@ -3085,7 +3436,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sicherungskopie",
+        "Sicherheitskopie",
+        "Backup",
+        "Back-up",
+        "Reservekopie"
+      ],
       "antonyms": [
         "die Datenlöschung, die Datenlöschungen"
       ]
@@ -3123,7 +3480,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sicherungskopie",
+        "Sicherheitskopie",
+        "Datensicherung",
+        "Back-up",
+        "Reservekopie"
+      ],
       "antonyms": []
     },
     {
@@ -3159,7 +3522,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "neu erstellen",
+        "erholen",
+        "sammeln",
+        "berappeln",
+        "regenerieren"
+      ],
       "partizip_2": "gewiederherstellt",
       "imperative": "wiederherstelle! / wiederherstellt! / wiederherstellen Sie!",
       "conjugations": {
@@ -3209,7 +3578,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Systemausfall/Ausfallzeit"
+      ],
       "antonyms": [
         "der Systembetrieb, (nur Sg.)",
         "die Systemverfügbarkeit, (nur Sg.)"
@@ -3248,7 +3619,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stillstandszeit",
+        "Standzeit"
+      ],
       "antonyms": [
         "die Betriebszeit, die Betriebszeiten",
         "die Laufzeit, die Laufzeiten"
@@ -3275,7 +3649,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Erholungszeit"
+      ],
       "antonyms": []
     },
     {
@@ -3299,7 +3675,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Disaster-Recovery-Planung"
+      ],
       "antonyms": []
     },
     {
@@ -3335,7 +3713,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenentweichen",
+        "Daten...schlupf",
+        "Datenverminderung",
+        "Datenschwund",
+        "Datenverschwinden"
+      ],
       "antonyms": [
         "die Datensicherung, die Datensicherungen",
         "der Datenerhalt, (nur Sg.)"
@@ -3362,7 +3746,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berechtigungsdesign",
+        "Berechtigungskonzeption",
+        "Berechtigungsentwurf",
+        "Berechtigungsplan",
+        "Berechtigungslinie"
+      ],
       "antonyms": []
     },
     {
@@ -3395,7 +3785,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "individuell angepasst",
+        "Person"
+      ],
       "antonyms": []
     },
     {
@@ -3461,7 +3854,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nach Modul"
+      ],
       "antonyms": []
     },
     {
@@ -3494,7 +3889,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "lösbar"
+      ],
       "antonyms": []
     },
     {
@@ -3527,7 +3924,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "reparierbar"
+      ],
       "antonyms": []
     },
     {
@@ -3560,7 +3959,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "leistungsfähig",
+        "leistungsstark"
+      ],
       "antonyms": []
     },
     {
@@ -3593,7 +3995,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "überzählig",
+        "überreichlich",
+        "doppelt gemoppelt",
+        "doppelt",
+        "überflüssig"
+      ],
       "antonyms": []
     },
     {
@@ -3626,7 +4034,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zusammenfallen",
+        "zusammen auftreten",
+        "decken",
+        "übereinstimmen",
+        "koinzidieren"
+      ],
       "antonyms": []
     },
     {
@@ -3659,7 +4073,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "widersprüchlich",
+        "diskrepant",
+        "folgewidrig",
+        "uneinheitlich",
+        "inkonsequent"
+      ],
       "antonyms": []
     },
     {
@@ -3692,7 +4112,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kundenabhängig"
+      ],
       "antonyms": []
     },
     {
@@ -3758,7 +4180,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sprachabhängig"
+      ],
       "antonyms": []
     },
     {
@@ -3824,7 +4248,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fähigkeit"
+      ],
       "antonyms": []
     },
     {
@@ -3857,7 +4283,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "im Speicher",
+        "in Erinnerung"
+      ],
       "antonyms": []
     },
     {
@@ -3923,7 +4352,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "chaotisch",
+        "unorganisiert",
+        "durcheinander",
+        "entgleist",
+        "ungeordnet"
+      ],
       "antonyms": []
     },
     {
@@ -3989,7 +4424,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "mit Maschinenkraft",
+        "maschinell",
+        "regelgesteuert",
+        "automatisch",
+        "vorgabengesteuert"
+      ],
       "antonyms": []
     },
     {
@@ -4055,7 +4496,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "diskret",
+        "per Computer",
+        "EDV-gestützt",
+        "computerbasiert",
+        "durch Computer"
+      ],
       "antonyms": []
     },
     {
@@ -4088,7 +4535,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "stimmig",
+        "widerspruchsfrei",
+        "folgerichtig",
+        "kohärent (fachspr.",
+        "folgerecht"
+      ],
       "antonyms": []
     },
     {
@@ -4121,7 +4574,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gefühlt",
+        "scheinbar",
+        "nicht real"
+      ],
       "antonyms": []
     },
     {
@@ -4154,7 +4611,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "wolkig"
+      ],
       "antonyms": []
     },
     {
@@ -4187,7 +4646,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "peripher",
+        "lokal",
+        "regional",
+        "örtlich"
+      ],
       "antonyms": []
     },
     {
@@ -4220,7 +4684,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gruppenweit"
+      ],
       "antonyms": []
     },
     {
@@ -4253,7 +4719,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "eingebettet",
+        "eingebaut"
+      ],
       "antonyms": []
     },
     {
@@ -4286,7 +4755,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bausteinförmig"
+      ],
       "antonyms": []
     },
     {
@@ -4319,7 +4790,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "leblos",
+        "regungslos",
+        "erstarrt",
+        "bewegungslos",
+        "statuenhaft"
+      ],
       "antonyms": []
     },
     {
@@ -4352,7 +4829,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "überschaulich",
+        "überblickbar",
+        "überschaubar",
+        "begrenzt"
+      ],
       "antonyms": []
     },
     {
@@ -4385,7 +4867,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "benutzerfreundlich",
+        "komfortabel"
+      ],
       "antonyms": []
     },
     {
@@ -4418,7 +4903,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "instinktgesteuert",
+        "nach Bauchgefühl",
+        "nach Nase",
+        "stinkelingpief",
+        "instinktmäßig"
+      ],
       "antonyms": []
     },
     {
@@ -4451,7 +4942,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zwischenzeitlich",
+        "befristet",
+        "nicht dauerhaft",
+        "übergangsweise",
+        "zeitweilig"
+      ],
       "antonyms": []
     },
     {
@@ -4484,7 +4981,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "hartnäckig",
+        "anhaltend",
+        "beständig",
+        "ausdauernd",
+        "dauerhaft"
+      ],
       "antonyms": []
     },
     {
@@ -4517,7 +5020,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "geschichtlich",
+        "Geschichte betreffend"
+      ],
       "antonyms": []
     },
     {
@@ -4550,7 +5056,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nächstens",
+        "in Zukunft",
+        "künftig",
+        "dereinst",
+        "bevorstehend"
+      ],
       "antonyms": []
     },
     {
@@ -4583,7 +5095,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "beendet",
+        "gelaufen",
+        "Geschichte",
+        "vorbei",
+        "passee"
+      ],
       "antonyms": []
     },
     {
@@ -4616,7 +5134,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "stetig",
+        "durchgehend",
+        "immerfort",
+        "ohne Unterbrechung",
+        "kontinuierlich"
+      ],
       "antonyms": []
     },
     {
@@ -4649,7 +5173,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "in Serie",
+        "aufeinanderfolgend",
+        "sequentiell",
+        "seriell",
+        "konsekutiv"
+      ],
       "antonyms": []
     },
     {
@@ -4682,7 +5212,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "vergleichbar",
+        "übereinstimmend",
+        "analog",
+        "entsprechend",
+        "gleichartig"
+      ],
       "antonyms": []
     },
     {
@@ -4748,7 +5284,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "in Echtzeit",
+        "zeitlich übereinstimmend",
+        "gleichzeitig",
+        "in eins",
+        "parallel"
+      ],
       "antonyms": []
     },
     {
@@ -4781,7 +5323,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "chiffriert",
+        "codiert"
+      ],
       "antonyms": []
     },
     {
@@ -4814,7 +5359,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Klartext",
+        "Free-TV"
+      ],
       "antonyms": []
     },
     {
@@ -4847,7 +5395,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "rechtlich einwandfrei",
+        "gesetzeskonform",
+        "Recht entsprechend",
+        "erlaubt",
+        "rechtmäßig"
+      ],
       "antonyms": []
     },
     {
@@ -4880,7 +5434,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ungenehmigt",
+        "unzulässig",
+        "unautorisiert",
+        "untersagt",
+        "krumm (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -4913,7 +5473,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zeitlich übereinstimmend",
+        "gleichzeitig",
+        "in eins",
+        "parallel",
+        "gleichlaufend"
+      ],
       "antonyms": []
     },
     {
@@ -5045,7 +5611,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "In Arbeit"
+      ],
       "antonyms": []
     },
     {
@@ -5078,7 +5646,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ja/Nein-Entscheidung"
+      ],
       "antonyms": []
     },
     {
@@ -5177,7 +5747,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "qualifizieren"
+      ],
       "antonyms": []
     },
     {
@@ -5210,7 +5782,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anruftransaktion"
+      ],
       "antonyms": []
     },
     {
@@ -5276,7 +5850,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeit planen"
+      ],
       "antonyms": []
     },
     {
@@ -5342,7 +5918,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dokument stornieren"
+      ],
       "antonyms": []
     },
     {
@@ -5375,7 +5953,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "das Konto ausgleichen"
+      ],
       "antonyms": []
     },
     {
@@ -5474,7 +6054,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "den Transport freigeben"
+      ],
       "antonyms": []
     },
     {
@@ -5507,7 +6089,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Importtransport"
+      ],
       "antonyms": []
     },
     {
@@ -5540,7 +6124,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kopiersystem"
+      ],
       "antonyms": []
     },
     {
@@ -5573,7 +6159,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenübertragung"
+      ],
       "antonyms": []
     },
     {
@@ -5606,7 +6194,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "das Feld pflegen"
+      ],
       "antonyms": []
     },
     {
@@ -5639,7 +6229,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tabelle erstellen"
+      ],
       "antonyms": []
     },
     {
@@ -5738,7 +6330,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufzeichnungsanforderungen",
+        "Aufnahmeanforderungen"
+      ],
       "antonyms": []
     },
     {
@@ -5837,7 +6432,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufwand abschätzen"
+      ],
       "antonyms": []
     },
     {
@@ -5870,7 +6467,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Meilensteine ​​definieren"
+      ],
       "antonyms": []
     },
     {
@@ -6002,7 +6601,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Annahme erteilen",
+        "Grant-Annahme"
+      ],
       "antonyms": []
     },
     {
@@ -6035,7 +6637,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Betrieb aufnehmen"
+      ],
       "antonyms": []
     },
     {
@@ -6167,7 +6771,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ticket erhöhen"
+      ],
       "antonyms": []
     }
   ]

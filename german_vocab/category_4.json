@@ -104,7 +104,13 @@
           "ru": "На ежедневном стендапе мы обсуждаем ежедневные трудозатраты."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapitalaufwand",
+        "Spesen",
+        "Kostenaufwand",
+        "Unkosten (ugs.",
+        "Aufwendung"
+      ],
       "antonyms": [
         "der Nutzen, (nur Sg.)",
         "der Ertrag, die Erträge"
@@ -138,7 +144,13 @@
           "ru": "Дополнительные требования увеличивают расходы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapitalaufwand",
+        "Spesen",
+        "Kostenaufwand",
+        "Unkosten (ugs.",
+        "Aufwendung"
+      ],
       "antonyms": [
         "der Erlös, die Erlöse",
         "der Nutzen, (nur Sg.)"
@@ -172,7 +184,10 @@
           "ru": "Без детального плана затрат мы не можем начать."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Budgetplan",
+        "Kostenvoranschlag"
+      ],
       "antonyms": []
     },
     {
@@ -244,7 +259,13 @@
           "ru": "Мы должны выявлять дефицит на ранней стадии и сообщать о нем."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fehlen",
+        "Knappheit",
+        "Unterversorgung",
+        "Seltenheit",
+        "fehlender Nachschub"
+      ],
       "antonyms": [
         "der Überfluss, die Überflüsse",
         "die Fülle, (nur Sg.)"
@@ -278,7 +299,13 @@
           "ru": "Все расходы должны быть подтверждены квитанциями."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Version",
+        "Fassung",
+        "Interpretation",
+        "Kapitalaufwand",
+        "Spesen"
+      ],
       "antonyms": [
         "die Einnahme, die Einnahmen"
       ]
@@ -311,7 +338,11 @@
           "ru": "Все доходы возвращаются в бюджет проекта."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einnahmen",
+        "Einkommen",
+        "Quittungen"
+      ],
       "antonyms": [
         "die Ausgabe, die Ausgaben"
       ]
@@ -349,7 +380,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Cache",
+        "Zwischenspeicher",
+        "Datenpuffer",
+        "Zwischenablage",
+        "Cachespeicher"
+      ],
       "antonyms": []
     },
     {
@@ -380,7 +417,13 @@
           "ru": "Калькуляция для коммерческого предложения готова."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "arithmetische Operation",
+        "Rechenoperation",
+        "Ansatz",
+        "Voranschlag",
+        "Festsetzung"
+      ],
       "antonyms": []
     },
     {
@@ -411,7 +454,9 @@
           "ru": "План финансирования был принят вчера."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mittelbeschaffung"
+      ],
       "antonyms": []
     },
     {
@@ -442,7 +487,11 @@
           "ru": "Мы должны своевременно заказывать материальные ресурсы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "materielle Ressource",
+        "physischer Vermögenswert",
+        "materielle Ressourcen"
+      ],
       "antonyms": []
     },
     {
@@ -473,7 +522,10 @@
           "ru": "Перегрузка человеческих ресурсов ведет к выгоранию."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "menschliche Ressource",
+        "Personal"
+      ],
       "antonyms": []
     },
     {
@@ -504,7 +556,13 @@
           "ru": "Какая почасовая ставка была согласована в договоре?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stundenenlohnungstarif",
+        "Stundentarif",
+        "Stundenhonorarsatz",
+        "Stundensprung",
+        "Stundenlauf"
+      ],
       "antonyms": []
     },
     {
@@ -535,7 +593,13 @@
           "ru": "Мы должны принять меры по исправлению отклонений."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unregelmäßigkeit",
+        "Regelwidrigkeit",
+        "Azimut",
+        "Ablage",
+        "Aberration"
+      ],
       "antonyms": [
         "die Übereinstimmung, die Übereinstimmungen"
       ]
@@ -568,7 +632,11 @@
           "ru": "Потолок для этого проекта составляет один миллион евро."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "oberste Grenze",
+        "Höchstgrenze",
+        "Höchstmaß"
+      ],
       "antonyms": [
         "die Untergrenze, die Untergrenzen"
       ]
@@ -601,7 +669,13 @@
           "ru": "Эти инвестиции необходимы для роста компании."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Erwerb",
+        "Anschaffung",
+        "Erwerbung",
+        "Aneignung",
+        "Kauf"
+      ],
       "antonyms": [
         "die Desinvestition, die Desinvestitionen"
       ]
@@ -634,7 +708,9 @@
           "ru": "Неконтролируемый отток средств угрожает проекту."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldabfluss"
+      ],
       "antonyms": [
         "der Mittelzufluss, die Mittelzuflüsse"
       ]
@@ -667,7 +743,9 @@
           "ru": "Первая оценка затрат была слишком оптимистичной."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "vorläufige Kostenkalkulation"
+      ],
       "antonyms": []
     },
     {
@@ -698,7 +776,10 @@
           "ru": "Как мы можем распределить нагрузку более равномерно?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nutzungsgrad",
+        "Beanspruchung"
+      ],
       "antonyms": [
         "die Unterlastung, die Unterlastungen",
         "der Leerlauf, die Leerläufe"
@@ -732,7 +813,9 @@
           "ru": "Использование средств должно быть прозрачно задокументировано."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verwendungszweck"
+      ],
       "antonyms": [
         "die Mittelherkunft, die Mittelherkünfte"
       ]
@@ -765,7 +848,11 @@
           "ru": "Рентабельность является важным критерием при принятии решений."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einträglichkeit",
+        "Rentabilität",
+        "Profitabilität"
+      ],
       "antonyms": [
         "die Unwirtschaftlichkeit, (nur Sg.)"
       ]
@@ -798,7 +885,10 @@
           "ru": "Когда будут расформированы резервы?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rückhalt",
+        "Rücklage"
+      ],
       "antonyms": []
     },
     {
@@ -829,7 +919,11 @@
           "ru": "Контроллинг сообщил о превышении затрат."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kontrollierend",
+        "Projektcontrolling",
+        "Finanzkontrolle"
+      ],
       "antonyms": []
     },
     {
@@ -860,7 +954,9 @@
           "ru": "Высокая текучесть кадров в команде — известный фактор роста затрат."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kostenfaktor"
+      ],
       "antonyms": [
         "der Kostensenker, die Kostensenker"
       ]
@@ -893,7 +989,13 @@
           "ru": "Ресурсы были спланированы неправильно."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rauminhalt",
+        "Fassungsvermögen",
+        "Kubikinhalt",
+        "Volumen",
+        "Sachkundiger"
+      ],
       "antonyms": []
     },
     {
@@ -924,7 +1026,13 @@
           "ru": "Высокая доля собственного участия демонстрирует приверженность партнера."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kostenbeteiligung",
+        "Zuzahlung",
+        "Selbstbeteiligung",
+        "Franchise",
+        "Selbstbehalt"
+      ],
       "antonyms": [
         "der Fremdanteil, die Fremdanteile",
         "der Drittmittelanteil, die Drittmittelanteile"
@@ -958,7 +1066,11 @@
           "ru": "Без привлеченных средств проект не может быть продолжен."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Forschungsmittel",
+        "Forschungsetat",
+        "Forschungsförderung"
+      ],
       "antonyms": [
         "die Eigenmittel, (nur Pl.)"
       ]
@@ -991,7 +1103,13 @@
           "ru": "За счет авансовых платежей мы улучшаем нашу ликвидность."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bonität",
+        "Solvenz",
+        "kaufmännische Solidität",
+        "Zahlungspotenzial",
+        "Zahlungsfähigkeit"
+      ],
       "antonyms": [
         "die Illiquidität, (nur Sg.)",
         "die Zahlungsunfähigkeit, (nur Sg.)"
@@ -1025,7 +1143,9 @@
           "ru": "Наш промежуточный финансовый баланс стабилен."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zwischenfazit"
+      ],
       "antonyms": [
         "die Schlussbilanz, die Schlussbilanzen",
         "die Endbilanz, die Endbilanzen"
@@ -1059,7 +1179,13 @@
           "ru": "Мы должны не допустить возникновения дефицита."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Defizit",
+        "Haushaltsloch",
+        "Haushaltsdefizit",
+        "Abmangel",
+        "Verlust"
+      ],
       "antonyms": [
         "der Überschuss, die Überschüsse"
       ]
@@ -1092,7 +1218,9 @@
           "ru": "Материальные затраты должны быть подробно перечислены."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Materialkosten"
+      ],
       "antonyms": [
         "die Personalkosten, (nur Pl.)"
       ]
@@ -1125,7 +1253,9 @@
           "ru": "Прием на работу новых сотрудников увеличивает расходы на персонал в долгосрочной перспективе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitskosten"
+      ],
       "antonyms": [
         "die Sachkosten, (nur Pl.)"
       ]
@@ -1158,7 +1288,11 @@
           "ru": "Высокие накладные расходы снижают рентабельность проекта."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geschäftskosten",
+        "Mehraufwand",
+        "Overheads"
+      ],
       "antonyms": [
         "die Einzelkosten, (nur Pl.)",
         "die Direktkosten, (nur Pl.)"
@@ -1192,7 +1326,9 @@
           "ru": "Сумма прямых затрат определяет минимальную цену."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "direkte Kosten"
+      ],
       "antonyms": [
         "die Gemeinkosten, (nur Pl.)"
       ]
@@ -1225,7 +1361,11 @@
           "ru": "В гибких проектах бюджет часто планируется более короткими циклами."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zu budgetieren",
+        "Budget zuteilen",
+        "Budget"
+      ],
       "partizip_2": "budgetiert",
       "imperative": "budgetiere! / budgetiert! / budgetieren Sie!",
       "conjugations": {
@@ -1267,7 +1407,13 @@
           "ru": "Вы должны заложить в расчет буфер в десять процентов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ermitteln",
+        "rechnen",
+        "berechnen",
+        "bestimmen",
+        "errechnen"
+      ],
       "partizip_2": "kalkuliert",
       "imperative": "kalkuliere! / kalkuliert! / kalkulieren Sie!",
       "conjugations": {
@@ -1311,7 +1457,13 @@
           "ru": "Этот расход не был запланирован."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einbeziehen",
+        "einrechnen",
+        "aufgreifen",
+        "integrieren",
+        "erwägen"
+      ],
       "partizip_2": "eingeplant",
       "imperative": "plane ein! / plant ein! / planen Sie ein!",
       "conjugations": {
@@ -1359,7 +1511,13 @@
           "ru": "Возможности команды были превышены."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "größer sein",
+        "transzendieren",
+        "knacken",
+        "übersteigen",
+        "hinausgehen"
+      ],
       "partizip_2": "überschritten",
       "imperative": "überschreite! / überschreitet! / überschreiten Sie!",
       "conjugations": {
@@ -1404,7 +1562,12 @@
           "ru": "Мы уложились со значительным запасом времени."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "darunter fallen",
+        "bleiben unter",
+        "niedriger bleiben",
+        "Menge)"
+      ],
       "partizip_2": "unterschritten",
       "imperative": "unterschreite! / unterschreitet! / unterschreiten Sie!",
       "conjugations": {
@@ -1448,7 +1611,11 @@
           "ru": "Новый процесс помогает нам экономить ресурсы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kürzen",
+        "Rotstift ansetzen",
+        "zusammenstreichen"
+      ],
       "partizip_2": "eingespart",
       "imperative": "spare ein! / spart ein! / sparen Sie ein!",
       "conjugations": {
@@ -1495,7 +1662,13 @@
           "ru": "Пожалуйста, подтвердите мой запрос на отпуск."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abnicken",
+        "verabschieden",
+        "Placet geben",
+        "Zustimmung geben",
+        "billigen"
+      ],
       "partizip_2": "freigegeben",
       "imperative": "gib frei! / gebt frei! / geben Sie frei!",
       "conjugations": {
@@ -1542,7 +1715,13 @@
           "ru": "Средства были официально распределены вчера."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "austeilen",
+        "verteilen",
+        "zuordnen",
+        "zumessen",
+        "liefern"
+      ],
       "partizip_2": "zugeteilt",
       "imperative": "teile zu! / teilt zu! / teilen Sie zu!",
       "conjugations": {
@@ -1589,7 +1768,13 @@
           "ru": "Контроллинг помогает отслеживать бюджет."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "beaufsichtigen",
+        "nachhalten",
+        "beobachten",
+        "aufpassen",
+        "kontrollieren"
+      ],
       "partizip_2": "überwacht",
       "imperative": "überwache! / überwacht! / überwachen Sie!",
       "conjugations": {
@@ -1634,7 +1819,13 @@
           "ru": "Внешние поставщики услуг рассчитываются по фактическим трудозатратам."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "subtrahieren",
+        "abziehen",
+        "absetzen",
+        "liquidieren",
+        "Abschluss machen"
+      ],
       "partizip_2": "abgerechnet",
       "imperative": "rechne ab! / rechnet ab! / rechnen Sie ab!",
       "conjugations": {
@@ -1679,7 +1870,13 @@
           "ru": "Мы не можем принимать новые заказы, так как полностью загружены."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausnutzen",
+        "alles rausholen",
+        "voll auskosten",
+        "Nutzen maximieren",
+        "ausschöpfen"
+      ],
       "partizip_2": "ausgelastet",
       "imperative": "laste aus! / lastet aus! / lasten Sie aus!",
       "conjugations": {
@@ -1725,7 +1922,10 @@
           "ru": "Является ли использование облачных сервисов экономически выгодным?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kostengünstig",
+        "kosteneffektiv"
+      ],
       "antonyms": [
         "unwirtschaftlich",
         "teuer"
@@ -1759,7 +1959,13 @@
           "ru": "Продукт нерентабелен на этом рынке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einträglich",
+        "ergiebig",
+        "zugkräftig",
+        "gewinnbringend",
+        "einbringlich"
+      ],
       "antonyms": [
         "unrentabel",
         "verlustbringend"
@@ -1793,7 +1999,11 @@
           "ru": "Цена, покрывающая расходы, является минимальной целью."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kostendeckend arbeiten",
+        "Kosten decken",
+        "tragen"
+      ],
       "antonyms": [
         "defizitär",
         "verlustbringend"
@@ -1829,7 +2039,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entwicklungsperiode",
+        "Entwicklungsmenstruation",
+        "Entwicklungstage",
+        "Entwicklungsmonatsregel",
+        "Entwicklungsregel"
+      ],
       "antonyms": []
     },
     {
@@ -1862,7 +2078,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ergebnisuntersuchung",
+        "Ergebnisstudie",
+        "Ergebnisüberprüfung",
+        "Ergebnisauswertung",
+        "Ergebnisbegutachtung"
+      ],
       "antonyms": []
     },
     {
@@ -1895,7 +2117,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ergebnisinspektion",
+        "Ergebnisbegehung",
+        "Ergebnissichtung",
+        "Ergebnisbemusterung",
+        "Ergebnisüberprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -1928,7 +2156,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ergebnisvorstellung",
+        "Ergebnisvorführung",
+        "Ergebnisdemo",
+        "Ergebnisdemonstration",
+        "Ergebnisgebot"
+      ],
       "antonyms": []
     },
     {
@@ -1961,7 +2195,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Eskalationsentwicklungsstadium",
+        "Eskalationsphase",
+        "Eskalationsentwicklungsphase",
+        "Eskalationsstation",
+        "Eskalationsentwicklungsstufe"
+      ],
       "antonyms": []
     },
     {
@@ -1994,7 +2234,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "fachmännische Einschätzung",
+        "Fachauskunft",
+        "Expertise",
+        "Expertenrat"
+      ],
       "antonyms": []
     },
     {
@@ -2027,7 +2272,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fehlerbehebungsentwicklungsstadium",
+        "Fehlerbehebungsstufe",
+        "Fehlerbehebungsentwicklungsphase",
+        "Fehlerbehebungsstation",
+        "Fehlerbehebungsentwicklungsstufe"
+      ],
       "antonyms": []
     },
     {
@@ -2060,7 +2311,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fehlerbehebung"
+      ],
       "antonyms": []
     },
     {
@@ -2093,7 +2346,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abschlussrate",
+        "Fertigstellungsgeschwindigkeit"
+      ],
       "antonyms": []
     },
     {
@@ -2126,7 +2382,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nachbestellung"
+      ],
       "antonyms": []
     },
     {
@@ -2159,7 +2417,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nachverfolgen"
+      ],
       "antonyms": []
     },
     {
@@ -2192,7 +2452,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anschließende Planung"
+      ],
       "antonyms": []
     },
     {
@@ -2225,7 +2487,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Folgeunternehmung",
+        "Folgestreben",
+        "Folgevorhaben",
+        "Folgeunternehmen",
+        "Folgeansinnen"
+      ],
       "antonyms": []
     },
     {
@@ -2258,7 +2526,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Freigabebetriebsart",
+        "Freigabemodus",
+        "Freigabebetriebsmodus",
+        "Freigabeart",
+        "Freigabefestgefahren"
+      ],
       "antonyms": []
     },
     {
@@ -2291,7 +2565,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Externer Service"
+      ],
       "antonyms": []
     },
     {
@@ -2324,7 +2600,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gantt-Diagramm"
+      ],
       "antonyms": []
     },
     {
@@ -2357,7 +2635,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Risikoanalyse"
+      ],
       "antonyms": []
     },
     {
@@ -2390,7 +2670,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gegen...aktion",
+        "Gegenaktion",
+        "Gegenschritte",
+        "Gegentätigwerden",
+        "Gegenmove"
+      ],
       "antonyms": []
     },
     {
@@ -2423,7 +2709,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geschäftsleitung"
+      ],
       "antonyms": []
     },
     {
@@ -2456,7 +2744,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geschäftsführung"
+      ],
       "antonyms": []
     },
     {
@@ -2489,7 +2779,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geschäftsidee",
+        "unternehmerisches Konzept",
+        "Unternehmenskonzept"
+      ],
       "antonyms": []
     },
     {
@@ -2522,7 +2816,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Workflow",
+        "Arbeitsablauf",
+        "Arbeitsgang",
+        "Arbeitsfolge"
+      ],
       "antonyms": []
     },
     {
@@ -2555,7 +2854,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kernkompetenz",
+        "wichtigstes Tätigkeitsfeld",
+        "(das"
+      ],
       "antonyms": []
     },
     {
@@ -2588,7 +2891,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gestaltung",
+        "Realisierung",
+        "Einrichtung",
+        "Durchführung",
+        "Verwirklichung"
+      ],
       "antonyms": []
     },
     {
@@ -2621,7 +2930,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Implementierungsentwicklungsstadium",
+        "Implementierungsstufe",
+        "Implementierungsentwicklungsphase",
+        "Implementierungsstation",
+        "Implementierungsentwicklungsstufe"
+      ],
       "antonyms": []
     },
     {
@@ -2654,7 +2969,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Informationswurzel",
+        "Informationsherkunft",
+        "Informationsursprung",
+        "Informationsursache",
+        "Informationsanstoß"
+      ],
       "antonyms": []
     },
     {
@@ -2687,7 +3008,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Informationsaustausch"
+      ],
       "antonyms": []
     },
     {
@@ -2720,7 +3043,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unterbau"
+      ],
       "antonyms": []
     },
     {
@@ -2753,7 +3078,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Erfindungsgabe",
+        "schöpferischer Elan",
+        "Erfindungsreichtum",
+        "Kreativität",
+        "Ideenreichtum"
+      ],
       "antonyms": []
     },
     {
@@ -2786,7 +3117,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tatsächlicher Aufwand"
+      ],
       "antonyms": []
     },
     {
@@ -2819,7 +3152,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tatsächlicher Wert",
+        "Tatsächliche Kosten"
+      ],
       "antonyms": []
     },
     {
@@ -2852,7 +3188,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Jahresflächig",
+        "Jahresplanar",
+        "Jahreswaagrecht",
+        "Jahreswaagerecht",
+        "Jahresplatt"
+      ],
       "antonyms": []
     },
     {
@@ -2885,7 +3227,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Jour-fixe-Treffen",
+        "Dringender Termin"
+      ],
       "antonyms": []
     },
     {
@@ -2918,7 +3263,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapazitätsnutzungsgrad",
+        "Kapazitätsbeanspruchung"
+      ],
       "antonyms": []
     },
     {
@@ -2951,7 +3299,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapazitätsdisposition",
+        "Kapazitätslayout",
+        "Kapazitätsskizze",
+        "Kapazitätsichnographie",
+        "Kapazitätsgrundriss"
+      ],
       "antonyms": []
     },
     {
@@ -2984,7 +3338,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "(das",
+        "essentielle Fähigkeit",
+        "wichtigste Anforderung",
+        "wichtigstes Tätigkeitsfeld",
+        "Hauptaufgabe"
+      ],
       "antonyms": []
     },
     {
@@ -3017,7 +3377,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kooperationshingabefähigkeit",
+        "Kooperationsalakrität",
+        "Kooperationseinsatzfreude",
+        "Kooperationscommitment",
+        "Kooperationswilligkeit"
+      ],
       "antonyms": []
     },
     {
@@ -3050,7 +3416,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verbündeter",
+        "Bündnispartner",
+        "Partner",
+        "Bundesgenosse",
+        "Kooperierender"
+      ],
       "antonyms": []
     },
     {
@@ -3083,7 +3455,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kosteninspektion",
+        "Kostenbegehung",
+        "Kostensichtung",
+        "Kostenbemusterung",
+        "Kostenüberprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -3116,7 +3494,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeche",
+        "Honorarnote",
+        "Privatliquidation",
+        "Liquidation",
+        "Rechnung"
+      ],
       "antonyms": []
     },
     {
@@ -3149,7 +3533,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kostenverletzung",
+        "Kostenübertretung",
+        "Kostenverstoß",
+        "Kostenzuwiderhandlung",
+        "Kostennichteinhaltung"
+      ],
       "antonyms": []
     },
     {
@@ -3182,7 +3572,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Krisenmanagement",
+        "Anti-Krisen-Management"
+      ],
       "antonyms": []
     },
     {
@@ -3215,7 +3608,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kundenbeziehungen"
+      ],
       "antonyms": []
     },
     {
@@ -3248,7 +3643,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kundenbefriedigung",
+        "Kundenerfüllung",
+        "Kundengenuss",
+        "Kundenbeglückung"
+      ],
       "antonyms": []
     },
     {
@@ -3281,7 +3681,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anforderungsspezifikationsdokument",
+        "Technisches Spezifikationsdokument"
+      ],
       "antonyms": []
     },
     {
@@ -3314,7 +3717,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Leistungsuntersuchung",
+        "Leistungsstudie",
+        "Leistungsüberprüfung",
+        "Leistungsauswertung",
+        "Leistungsbegutachtung"
+      ],
       "antonyms": []
     },
     {
@@ -3347,7 +3756,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Leistungsbeurteilung"
+      ],
       "antonyms": []
     },
     {
@@ -3380,7 +3791,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pendenzenliste",
+        "Pflichtenheft",
+        "Bedarfsaufstellung",
+        "To-do-Liste",
+        "Aufgabenliste"
+      ],
       "antonyms": []
     },
     {
@@ -3413,7 +3830,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Matrixaufbau",
+        "Matrixgeflecht",
+        "Matrixgerüst",
+        "Matrixgefüge",
+        "Matrixstruktur"
+      ],
       "antonyms": []
     },
     {
@@ -3446,7 +3869,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Meilenstein-Trenduntersuchung",
+        "Meilenstein-Trendstudie",
+        "Meilenstein-Trendüberprüfung",
+        "Meilenstein-Trendauswertung",
+        "Meilenstein-Trendbegutachtung"
+      ],
       "antonyms": []
     },
     {
@@ -3479,7 +3908,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Überwachungsstufen"
+      ],
       "antonyms": []
     },
     {
@@ -3512,7 +3943,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vollzeit-Arbeitskraft",
+        "Mitarbeiteräquivalent",
+        "Vollzeitmitarbeiter",
+        "Vollkraft",
+        "Vollzeitäquivalent"
+      ],
       "antonyms": []
     },
     {
@@ -3545,7 +3982,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Motivations...aktion",
+        "Motivationsaktion",
+        "Motivationsschritte",
+        "Motivationstätigwerden",
+        "Motivationsmove"
+      ],
       "antonyms": []
     },
     {
@@ -3578,7 +4021,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nachzahlung"
+      ],
       "antonyms": []
     },
     {
@@ -3611,7 +4056,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nebenprüfung",
+        "Nebenzweck",
+        "Nebenrolle",
+        "Nebenfunktion",
+        "Nebenarbeitsplatz"
+      ],
       "antonyms": []
     },
     {
@@ -3644,7 +4095,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Netzwerkplanungstechnologie"
+      ],
       "antonyms": []
     },
     {
@@ -3677,7 +4130,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Optimierungs...aktion",
+        "Optimierungsaktion",
+        "Optimierungsschritte",
+        "Optimierungstätigwerden",
+        "Optimierungsmove"
+      ],
       "antonyms": []
     },
     {
@@ -3710,7 +4169,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Organisationsaufbau",
+        "Organisationskonstruktion",
+        "Organisationsarchitektur",
+        "Organisationsgerüst",
+        "Organisationsgeflecht"
+      ],
       "antonyms": []
     },
     {
@@ -3743,7 +4208,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ergebnismessung",
+        "Das Ergebnis messen"
+      ],
       "antonyms": []
     },
     {
@@ -3776,7 +4244,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Outsourcing-Lösung"
+      ],
       "antonyms": []
     },
     {
@@ -3809,7 +4279,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personalbedarf"
+      ],
       "antonyms": []
     },
     {
@@ -3842,7 +4314,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personaldisposition",
+        "Personallayout",
+        "Personalskizze",
+        "Personalichnographie",
+        "Personalgrundriss"
+      ],
       "antonyms": []
     },
     {
@@ -3875,7 +4353,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Piloteinsatz",
+        "Pilotindienstnahme",
+        "Pilotergreifung",
+        "Pilotverwendung",
+        "Pilotbenutzung"
+      ],
       "antonyms": []
     },
     {
@@ -3908,7 +4392,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pilotunternehmung",
+        "Pilotstreben",
+        "Pilotvorhaben",
+        "Pilotunternehmen",
+        "Pilotansinnen"
+      ],
       "antonyms": []
     },
     {
@@ -3941,7 +4431,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Planunregelmäßigkeit",
+        "Planregelwidrigkeit",
+        "Planazimut",
+        "Planablage",
+        "Planaberration"
+      ],
       "antonyms": []
     },
     {
@@ -3974,7 +4470,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Planungsexaktheit",
+        "Planungsgründlichkeit",
+        "Planungskorrektheit",
+        "Planungsrichtigkeit",
+        "Planungssorgfalt"
+      ],
       "antonyms": []
     },
     {
@@ -4007,7 +4509,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Planungsclique",
+        "Planungskreis",
+        "Planungsgrüppchen",
+        "Planungsgruppe",
+        "Planungsschar"
+      ],
       "antonyms": []
     },
     {
@@ -4040,7 +4548,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sicherheitsplanung"
+      ],
       "antonyms": []
     },
     {
@@ -4073,7 +4583,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Planungsphase"
+      ],
       "antonyms": []
     },
     {
@@ -4106,7 +4618,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Problemkreis",
+        "Problemzone"
+      ],
       "antonyms": []
     },
     {
@@ -4139,7 +4654,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Problemuntersuchung",
+        "Problemstudie",
+        "Problemüberprüfung",
+        "Problemauswertung",
+        "Problembegutachtung"
+      ],
       "antonyms": []
     },
     {
@@ -4172,7 +4693,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Erhöhte Produktivität",
+        "Verbesserte Leistung"
+      ],
       "antonyms": []
     }
   ]

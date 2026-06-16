@@ -984,7 +984,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fortschrittsbericht"
+      ],
       "antonyms": [
         "der Abschlussbericht, die Berichte",
         "der Endbericht, die Berichte"
@@ -1066,7 +1068,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abgrenzen",
+        "bestimmen",
+        "abstecken",
+        "definieren",
+        "entscheiden"
+      ],
       "partizip_2": "gefestlegt",
       "imperative": "festlege! / festlegt! / festlegen Sie!",
       "conjugations": {
@@ -1118,7 +1126,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Absprache treffen",
+        "ausverhandeln",
+        "Vereinbarung treffen",
+        "akkordieren (geh.",
+        "übereinkommen"
+      ],
       "partizip_2": "vereinbart",
       "imperative": "vereinbare! / vereinbart! / vereinbaren Sie!",
       "conjugations": {
@@ -1170,7 +1184,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vorrang einräumen",
+        "vorziehen"
+      ],
       "partizip_2": "priorisiert",
       "imperative": "priorisiere! / priorisiert! / priorisieren Sie!",
       "conjugations": {
@@ -1220,7 +1237,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hergang",
+        "Verlauf",
+        "Vorgang",
+        "Verfolg (fachspr.",
+        "Prozess"
+      ],
       "antonyms": [
         "der Stillstand, die Stillstände"
       ]
@@ -1258,7 +1281,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verwicklung",
+        "Implikation",
+        "Rückwirkung",
+        "Beeinflussung",
+        "Effekt"
+      ],
       "antonyms": [
         "die Ursache, die Ursachen"
       ]
@@ -1291,7 +1320,13 @@
           "ru": "Руководство требует ускорить проект."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zahn zulegen",
+        "Schritt zulegen",
+        "Geschwindigkeit erhöhen",
+        "reinhauen",
+        "Gummi geben"
+      ],
       "partizip_2": "beschleunigt",
       "imperative": "beschleunige! / beschleunigt! / beschleunigen Sie!",
       "conjugations": {
@@ -1337,7 +1372,13 @@
           "ru": "Он пропустил еженедельную встречу, так как был в отпуске."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "vergessen",
+        "verpennen",
+        "verfehlen",
+        "versäumen",
+        "übersehen"
+      ],
       "partizip_2": "verpasst",
       "imperative": "verpasse! / verpasst! / verpassen Sie!",
       "conjugations": {
@@ -1383,7 +1424,10 @@
           "ru": "Этот метод хоть и эффективен, но, к сожалению, требует много времени."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zeitintensiv",
+        "zeitaufwändig"
+      ],
       "antonyms": [
         "zeitsparend",
         "schnell"
@@ -1417,7 +1461,10 @@
           "ru": "Слишком короткое буферное время увеличивает риск проекта."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "freie Zeit",
+        "Zeit reservieren"
+      ],
       "antonyms": []
     },
     {
@@ -1448,7 +1495,12 @@
           "ru": "Мы работаем сверхурочно, чтобы гарантировать соблюдение конечного срока."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "letzte Frist",
+        "Zieldatum",
+        "Fertigstellungsdatum",
+        "Frist"
+      ],
       "antonyms": [
         "der Starttermin, die Starttermine",
         "der Anfangstermin, die Anfangstermine"
@@ -1482,7 +1534,13 @@
           "ru": "Ваше планирование времени в спринте было образцовым."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Terminisierung",
+        "Terminierung",
+        "zeitliche Planung",
+        "Timing",
+        "zeitliche Festlegung"
+      ],
       "antonyms": []
     },
     {
@@ -1513,7 +1571,13 @@
           "ru": "Реализация идей планируется в ближайшем будущем."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "eiligst",
+        "unverzüglichst",
+        "möglichst schnell",
+        "schnellstmöglich",
+        "umgehendst"
+      ],
       "antonyms": [
         "verspätet",
         "langfristig",
@@ -1632,7 +1696,13 @@
           "ru": "Мы проверяем плановые показатели в конце каждого квартала."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Leitfaden",
+        "Zielstellung",
+        "Vorgabe",
+        "Richtmarke",
+        "Ausrichtung"
+      ],
       "antonyms": []
     },
     {
@@ -1663,7 +1733,11 @@
           "ru": "Временное окно для подачи заявок закрылось."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verfügbarer Zeitrahmen",
+        "Zeitkorridor",
+        "zeitweilige Gelegenheit"
+      ],
       "antonyms": []
     },
     {
@@ -1694,7 +1768,13 @@
           "ru": "Для этой задачи нет особой срочности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Brisanz",
+        "Urgenz (lat.",
+        "Aktualität",
+        "Bestimmtheit",
+        "Entschiedenheit"
+      ],
       "antonyms": []
     },
     {
@@ -1725,7 +1805,13 @@
           "ru": "Мне нужно срочно сделать короткий телефонный звонок."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "flehentlich",
+        "eindringlich",
+        "beschwörend",
+        "nachdrücklich",
+        "inständigst"
+      ],
       "antonyms": [
         "unwichtig",
         "aufschiebbar"
@@ -1759,7 +1845,13 @@
           "ru": "Отчет был своевременно представлен руководящему комитету."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "rechtzeitig",
+        "zeitgerecht",
+        "termingemäß",
+        "fristgerecht",
+        "termingerecht"
+      ],
       "antonyms": [
         "fristwidrig",
         "verspätet"
@@ -1793,7 +1885,13 @@
           "ru": "За это время статус проекта изменился."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lücke",
+        "Unterbrechung",
+        "Interim",
+        "Pause",
+        "Zwischenphase"
+      ],
       "antonyms": []
     },
     {
@@ -1824,7 +1922,9 @@
           "ru": "Мы арендуем переговорную комнату с почасовой оплатой."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "stündlich"
+      ],
       "antonyms": []
     },
     {
@@ -1855,7 +1955,13 @@
           "ru": "Каковы были фактические трудозатраты на спринт?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapitalaufwand",
+        "Spesen",
+        "Kostenaufwand",
+        "Unkosten (ugs.",
+        "Aufwendung"
+      ],
       "antonyms": [
         "der Nutzen, (nur Sg.)",
         "der Ertrag, die Erträge"
@@ -1889,7 +1995,10 @@
           "ru": "Время на подготовку для печати брошюр составляет пять дней."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vorlauf",
+        "Vorbereitungszeit"
+      ],
       "antonyms": [
         "die Nachlaufzeit, die Nachlaufzeiten"
       ]
@@ -1922,7 +2031,13 @@
           "ru": "Важно не выходить за рамки намеченных сроков."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "übertreiben",
+        "übersteigern",
+        "es übertreiben",
+        "beschichten",
+        "anstreichen"
+      ],
       "partizip_2": "überzogen",
       "imperative": "überziehe! / überzieht! / überziehen Sie!",
       "conjugations": {
@@ -1969,7 +2084,9 @@
           "ru": "Неточности в планировании сроков привели к хаосу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeitplanung"
+      ],
       "antonyms": []
     },
     {
@@ -2000,7 +2117,13 @@
           "ru": "Он отстает с выполнением своих задач."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abgehängt sein",
+        "nicht mithalten",
+        "zurückbleiben",
+        "nicht nachkommen",
+        "absteigen"
+      ],
       "partizip_2": "hinterhergehinkt",
       "imperative": "hinke hinterher! / hinkt hinterher! / hinken Sie hinterher!",
       "conjugations": {
@@ -2047,7 +2170,13 @@
           "ru": "Статус проекта до дальнейшего уведомления остается красным."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "interimsweise",
+        "übergangsweise",
+        "erst mal",
+        "interimsmäßig",
+        "vorerst"
+      ],
       "antonyms": [
         "endgültig",
         "sofort"
@@ -2083,7 +2212,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ressourcen teilen"
+      ],
       "antonyms": []
     },
     {
@@ -2116,7 +2247,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personalwechsel",
+        "Personalunstetigkeit",
+        "Personalschwankung",
+        "Personalabweichung",
+        "Personalvola"
+      ],
       "antonyms": []
     },
     {
@@ -2149,7 +2286,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ausbildungszeit",
+        "Studienzeit"
+      ],
       "antonyms": []
     },
     {
@@ -2182,7 +2322,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektlink"
+      ],
       "antonyms": []
     },
     {
@@ -2215,7 +2357,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektrückblick",
+        "Projektübersicht"
+      ],
       "antonyms": []
     },
     {
@@ -2248,7 +2393,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -2281,7 +2428,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Prozessweltkenntnis",
+        "Prozesslebenserfahrung",
+        "Prozessabgeklärtheit",
+        "Prozessweisheit"
+      ],
       "antonyms": []
     },
     {
@@ -2314,7 +2466,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Reifegradmodel",
+        "Reifegradmannequin",
+        "Reifegradvorführdame",
+        "Reifegradfotomodell",
+        "Reifegradnormal"
+      ],
       "antonyms": []
     },
     {
@@ -2347,7 +2505,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "CMMI-Model",
+        "CMMI-Mannequin",
+        "CMMI-Vorführdame",
+        "CMMI-Fotomodell",
+        "CMMI-Normal"
+      ],
       "antonyms": []
     },
     {
@@ -2380,7 +2544,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Standardarbeitsauftrag",
+        "Standardauftrag",
+        "Standardaufgabenstellung"
+      ],
       "antonyms": []
     },
     {
@@ -2413,7 +2581,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dokumentversion"
+      ],
       "antonyms": []
     },
     {
@@ -2446,7 +2616,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Versionsinspektion",
+        "Versionsbegehung",
+        "Versionssichtung",
+        "Versionsbemusterung",
+        "Versionsüberprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -2545,7 +2721,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berechtigungsaberkennung",
+        "Berechtigungsentziehung",
+        "Berechtigungsextrakt",
+        "Berechtigungsauszug",
+        "Berechtigungsextraktion"
+      ],
       "antonyms": []
     },
     {
@@ -2578,7 +2760,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zugriffsberechtigungsnachweis",
+        "Zugriffsausweis",
+        "Zugriffslegitimierung",
+        "Zugriffslegitimation",
+        "Zugriffsbescheinigung"
+      ],
       "antonyms": []
     },
     {
@@ -2611,7 +2799,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenintegrität"
+      ],
       "antonyms": []
     },
     {
@@ -2644,7 +2834,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Non-Disclosure Agreement",
+        "Geheimhaltungserklärung",
+        "Vertraulichkeitsvereinbarung",
+        "Verschwiegenheitsvereinbarung",
+        "Geheimhaltungsvertrag"
+      ],
       "antonyms": []
     },
     {
@@ -2677,7 +2873,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vertragsbestimmung",
+        "Vertragsregelung"
+      ],
       "antonyms": []
     },
     {
@@ -2710,7 +2909,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektverantwortung"
+      ],
       "antonyms": []
     },
     {
@@ -2743,7 +2944,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektschäden",
+        "Projektschaden"
+      ],
       "antonyms": []
     },
     {
@@ -2776,7 +2980,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektüberwachung"
+      ],
       "antonyms": []
     },
     {
@@ -2809,7 +3015,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektkonsultation",
+        "Projektbesprechung",
+        "Projektconsulting",
+        "Projektberatungsgespräch",
+        "Projektunterstützung"
+      ],
       "antonyms": []
     },
     {
@@ -2842,7 +3054,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektbetreuer",
+        "Projektmentor",
+        "Projektratgeber",
+        "Projektconsultant",
+        "Projektunternehmensberater"
+      ],
       "antonyms": []
     },
     {
@@ -2875,7 +3093,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektdurchführung",
+        "Projektumsetzung"
+      ],
       "antonyms": []
     },
     {
@@ -2908,7 +3129,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektbetreiber",
+        "Projektversorger",
+        "Projektprovider",
+        "Projektanbieter",
+        "Projektserviceunternehmen"
+      ],
       "antonyms": []
     },
     {
@@ -2941,7 +3168,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektbüro-Zelle",
+        "Projektbüro-Gruppe",
+        "Projektbüro-Kollektiv",
+        "Projektbüro-Equipe",
+        "Projektbüro-Aufgebot"
+      ],
       "antonyms": []
     },
     {
@@ -2974,7 +3207,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektbeziehung",
+        "Projektverbindung",
+        "Projektkontakt",
+        "Projektkonnex",
+        "Projektumgang"
+      ],
       "antonyms": []
     },
     {
@@ -3007,7 +3246,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projekttreffen"
+      ],
       "antonyms": []
     },
     {
@@ -3040,7 +3281,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projekttreffen"
+      ],
       "antonyms": []
     },
     {
@@ -3073,7 +3316,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektsitzungsprotokoll",
+        "Projektaufzeichnungen",
+        "Projektmitschrift",
+        "Projektmemo",
+        "Projektniederschrift"
+      ],
       "antonyms": []
     },
     {
@@ -3106,7 +3355,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektsteuerung"
+      ],
       "antonyms": []
     },
     {
@@ -3139,7 +3390,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektabschlussentwicklungsstadium",
+        "Projektabschlussstufe",
+        "Projektabschlussentwicklungsphase",
+        "Projektabschlussstation",
+        "Projektabschlussentwicklungsstufe"
+      ],
       "antonyms": []
     },
     {
@@ -3172,7 +3429,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektarchiquadrierung"
+      ],
       "antonyms": []
     },
     {
@@ -3205,7 +3464,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektrückblick"
+      ],
       "antonyms": []
     },
     {
@@ -3238,7 +3499,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Obduktionsbesprechung",
+        "Posthumes Treffen"
+      ],
       "antonyms": []
     },
     {
@@ -3271,7 +3535,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektrückblick",
+        "Projektübersicht"
+      ],
       "antonyms": []
     },
     {
@@ -3304,7 +3571,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lenkungskreis-Entscheidung",
+        "Lenkungskreis-Entschluss",
+        "Lenkungskreis-Entscheid",
+        "Lenkungskreis-Wille",
+        "Lenkungskreis-Urteil"
+      ],
       "antonyms": []
     },
     {
@@ -3337,7 +3610,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektkostenörtlichkeit",
+        "Projektkostenlokalität",
+        "Projektkostenposition",
+        "Projektkostenortsangabe",
+        "Projektkostenlokalisation"
+      ],
       "antonyms": []
     },
     {
@@ -3370,7 +3649,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teilunternehmung",
+        "Teilstreben",
+        "Teilvorhaben",
+        "Teilunternehmen",
+        "Teilansinnen"
+      ],
       "antonyms": []
     },
     {
@@ -3403,7 +3688,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anstrengung",
+        "Mühe",
+        "Aufwendung",
+        "Kraftaufwand",
+        "Aufwand"
+      ],
       "antonyms": []
     },
     {
@@ -3436,7 +3727,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitslast",
+        "Arbeitspensum",
+        "Arbeitsbeanspruchung",
+        "Aufgabenpensum",
+        "Arbeitssoll"
+      ],
       "antonyms": []
     },
     {
@@ -3469,7 +3766,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitsfortschritttempo",
+        "Arbeitsfortschrittgeschwindigkeit",
+        "Arbeitsforthosenschritt",
+        "Arbeitsfortstufe",
+        "Arbeitsfortphase"
+      ],
       "antonyms": []
     },
     {
@@ -3502,7 +3805,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektgruppe",
+        "Fachgruppe",
+        "Arbeitskreis",
+        "Arbeitsgemeinschaft",
+        "Lehrstuhl"
+      ],
       "antonyms": []
     },
     {
@@ -3535,7 +3844,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitssitzungsprotokoll",
+        "Arbeitsaufzeichnungen",
+        "Arbeitsmitschrift",
+        "Arbeitsmemo",
+        "Arbeitsniederschrift"
+      ],
       "antonyms": []
     },
     {
@@ -3568,7 +3883,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitsschritttempo",
+        "Arbeitsschrittgeschwindigkeit",
+        "Arbeitshosenschritt",
+        "Arbeitsstufe",
+        "Arbeitsphase"
+      ],
       "antonyms": []
     },
     {
@@ -3601,7 +3922,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schrott",
+        "Kehricht",
+        "Abfall",
+        "Unrat",
+        "Müll"
+      ],
       "antonyms": []
     },
     {
@@ -3634,7 +3961,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Backlog-Element"
+      ],
       "antonyms": []
     },
     {
@@ -3667,7 +3996,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bedarfsuntersuchung",
+        "Bedarfsstudie",
+        "Bedarfsüberprüfung",
+        "Bedarfsauswertung",
+        "Bedarfsbegutachtung"
+      ],
       "antonyms": []
     },
     {
@@ -3700,7 +4035,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verwandte Maßnahme"
+      ],
       "antonyms": []
     },
     {
@@ -3733,7 +4070,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Benchdeutschmark",
+        "Benchd-mark",
+        "Benchdm",
+        "Bench(fachspr.",
+        "Benchfruchtmark"
+      ],
       "antonyms": []
     },
     {
@@ -3766,7 +4109,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berichterstattung"
+      ],
       "antonyms": []
     },
     {
@@ -3799,7 +4144,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sitzungsprotokoll"
+      ],
       "antonyms": []
     },
     {
@@ -3832,7 +4179,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Best Practices"
+      ],
       "antonyms": []
     },
     {
@@ -3865,7 +4214,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Haushaltsüberschuss"
+      ],
       "antonyms": []
     },
     {
@@ -3898,7 +4249,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Change-Management-Plan",
+        "Change-Management-Vorgehensweise",
+        "Change-Management-Strategem",
+        "Change-Management-Fahrplan",
+        "Change-Management-Masterplan"
+      ],
       "antonyms": []
     },
     {
@@ -3931,7 +4288,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tägliches Scrum-Meeting"
+      ],
       "antonyms": []
     },
     {
@@ -3964,7 +4323,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenuntersuchung",
+        "Datenstudie",
+        "Datenüberprüfung",
+        "Datenauswertung",
+        "Datenbegutachtung"
+      ],
       "antonyms": []
     },
     {
@@ -3997,7 +4362,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenbankzugang",
+        "Datenbankeinblick",
+        "Datenbankeinsicht",
+        "Datenbankabruf",
+        "Datenbankmanipulation"
+      ],
       "antonyms": []
     },
     {
@@ -4030,7 +4401,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektdokument"
+      ],
       "antonyms": []
     },
     {
@@ -4063,7 +4436,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Detailliertes Konzept"
+      ],
       "antonyms": []
     },
     {
@@ -4096,7 +4471,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dokumentenspeicher"
+      ],
       "antonyms": []
     },
     {
@@ -4129,7 +4506,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dokumentenmanagement"
+      ],
       "antonyms": []
     },
     {
@@ -4162,7 +4541,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dringlichkeitsentwicklungsstadium",
+        "Dringlichkeitsphase",
+        "Dringlichkeitsentwicklungsphase",
+        "Dringlichkeitsstation",
+        "Dringlichkeitsentwicklungsstufe"
+      ],
       "antonyms": []
     },
     {
@@ -4195,7 +4580,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Persönlicher Beitrag"
+      ],
       "antonyms": []
     },
     {
@@ -4228,7 +4615,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einsparpotenzial",
+        "Sparpotenzial"
+      ],
       "antonyms": []
     },
     {
@@ -4261,7 +4651,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Individuelle Aufgabe"
+      ],
       "antonyms": []
     },
     {
@@ -4294,7 +4686,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Endanwender",
+        "User"
+      ],
       "antonyms": []
     },
     {
@@ -4327,7 +4722,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abschlussbericht"
+      ],
       "antonyms": []
     },
     {
@@ -4360,7 +4757,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Endinspektion",
+        "Endbegehung",
+        "Endsichtung",
+        "Endbemusterung",
+        "Endüberprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -4393,7 +4796,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entwicklungsgruppe",
+        "Entwicklungsrotte",
+        "Entwicklungsverband",
+        "Entwicklungsformation",
+        "Entwicklungsschar"
+      ],
       "antonyms": []
     },
     {
@@ -4426,7 +4835,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entwicklungsstadium",
+        "Stufe",
+        "Phase",
+        "Station",
+        "Entwicklungsstufe"
+      ],
       "antonyms": []
     }
   ]

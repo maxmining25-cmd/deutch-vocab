@@ -101,7 +101,13 @@
           "ru": "Тут резюме и сопроводительные письма."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Begleitschreiben",
+        "Begleitbrief",
+        "beigelegtes Schreiben",
+        "Epistel (geh.",
+        "Wisch"
+      ],
       "antonyms": []
     },
     {
@@ -132,7 +138,13 @@
           "ru": "Показание их будет записано, и их призовут к ответу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bestätigung",
+        "Anerkennung",
+        "Beglaubigung",
+        "Nachweis",
+        "Zertifikat"
+      ],
       "antonyms": []
     },
     {
@@ -163,7 +175,10 @@
           "ru": "Документы об образовании, записи в трудовой книжке, фальшивые поручители."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abkehrschein",
+        "Dienstzeugnis"
+      ],
       "antonyms": []
     },
     {
@@ -194,7 +209,13 @@
           "ru": "В некоторых университетах абитуриентам приходится объяснять в подробных мотивационных письмах и на отборочных собеседованиях, почему они выбрали именно этот предмет."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Motivationsbescheid",
+        "Motivationsanordnung",
+        "Motivationsva",
+        "Motivationswisch",
+        "Motivationsmitteilung"
+      ],
       "antonyms": []
     },
     {
@@ -260,7 +281,13 @@
           "ru": "Конечно, и ты увидишь, что там есть дополнение."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Eskorte",
+        "Hofstaat (ironisch",
+        "Gefolgsleute",
+        "Hofschranze (geh.",
+        "Jungs"
+      ],
       "antonyms": []
     },
     {
@@ -291,7 +318,13 @@
           "ru": "Вдруг видит объявление о приеме на работу и приписка \"берем всех\"."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vakanz",
+        "Stelleninserat",
+        "Jobanzeige",
+        "Jobangebot",
+        "Stellenausschreibung"
+      ],
       "antonyms": []
     },
     {
@@ -322,7 +355,9 @@
           "ru": "Соответственно, к 2008 году новый портал вакансий будет стоить около 165 миллионов евро."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Jobsuchportal"
+      ],
       "antonyms": []
     },
     {
@@ -353,7 +388,13 @@
           "ru": "Но, Хили считает, что Лип должен подать заявление."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "aufgestellt werden",
+        "kandidieren",
+        "sich anbieten",
+        "aspirieren",
+        "sich andienen"
+      ],
       "partizip_2": "gesich bewerbt",
       "imperative": "sich bewerbe! / sich bewerbt! / sich bewerben Sie!",
       "conjugations": {
@@ -400,7 +441,13 @@
           "ru": "Весомые улики, которые можно представить в суде."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einhändigen",
+        "eingeben",
+        "vorlegen",
+        "insinuieren (geh.",
+        "vorschlagen"
+      ],
       "partizip_2": "eingereicht",
       "imperative": "reiche ein! / reicht ein! / reichen Sie ein!",
       "conjugations": {
@@ -444,7 +491,12 @@
           "ru": "Все, что нам нужно, это загрузить его воспоминания в кору его головного мозга."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "uploaden",
+        "online stellen",
+        "uppen (ugs.",
+        "raufladen"
+      ],
       "partizip_2": "gehochladet",
       "imperative": "hochlade! / hochladet! / hochladen Sie!",
       "conjugations": {
@@ -489,7 +541,13 @@
           "ru": "Ниужели ты не умеешь ничего, кроме как думать, поститься ну и сочинять стихи?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "notieren",
+        "dokumentieren",
+        "texten",
+        "Protokoll schreiben",
+        "schreiben"
+      ],
       "partizip_2": "verfasst",
       "imperative": "verfasse! / verfasst! / verfassen Sie!",
       "conjugations": {
@@ -531,7 +589,9 @@
           "ru": "Я понимаю, что у меня нет никакого опыта, но мне действительно нужна эта работа."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitserfahrung"
+      ],
       "antonyms": [
         "die Unerfahrenheit (nur Sg.)"
       ]
@@ -564,7 +624,13 @@
           "ru": "До сих пор у него было безупречное дело."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "CV",
+        "berufliche Entwicklung",
+        "Vita",
+        "Lebenslauf",
+        "Laufbahn"
+      ],
       "antonyms": []
     },
     {
@@ -595,7 +661,13 @@
           "ru": "Ты блестяще выступишь на квалификации в выходные."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kompetenz",
+        "Eignung",
+        "Kompetenzprofil",
+        "Können",
+        "Fähigkeit"
+      ],
       "antonyms": [
         "die Disqualifikation, die Disqualifikationen"
       ]
@@ -628,7 +700,13 @@
           "ru": "Поделитесь своими знаниями или задать другие вопросы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geübtheit",
+        "Übung",
+        "Praxis",
+        "Erfahrung",
+        "Kenntnis"
+      ],
       "antonyms": [
         "die Unkenntnis (nur Sg.)"
       ]
@@ -661,7 +739,13 @@
           "ru": "Его подготовка теперь, что я решил бросить это каждый день."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berufsausbildung",
+        "Berufslehre",
+        "Lehre",
+        "Aufkommen",
+        "Entstehung"
+      ],
       "antonyms": []
     },
     {
@@ -692,7 +776,10 @@
           "ru": "Четыре года спустя он закончил там обучение."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hochschulausbildung",
+        "Studieren"
+      ],
       "antonyms": []
     },
     {
@@ -723,7 +810,10 @@
           "ru": "Эта новая руководящая элита во многих отношениях является более космополитической, чем ее предшественники; средний уровень их образования выше; некоторые имеют дипломы иностранных учреждений."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Universitätsabschluss",
+        "Universitätsdiplom"
+      ],
       "antonyms": [
         "der Studienabbruch, die Studienabbrüche"
       ]
@@ -756,7 +846,13 @@
           "ru": "Я полагаю, вы эксперт в другой области."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Forschungszweig",
+        "Wissenzweig",
+        "Wissenschaftszweig",
+        "Teildisziplin",
+        "Teilgebiet"
+      ],
       "antonyms": []
     },
     {
@@ -787,7 +883,13 @@
           "ru": "Необходимо гарантировать, что наша европейская модель, с ее акцентом на честные сделки для каждого, останется конкурентоспособной."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hauptaugenmerk",
+        "Fokus",
+        "Kern",
+        "Mittelpunkt",
+        "Wesentliche"
+      ],
       "antonyms": []
     },
     {
@@ -818,7 +920,13 @@
           "ru": "У вас есть сертификат и всё такое."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bestätigung",
+        "Anerkennung",
+        "Beglaubigung",
+        "Nachweis",
+        "Testat"
+      ],
       "antonyms": []
     },
     {
@@ -849,7 +957,13 @@
           "ru": "Я прошёл собеседования и попросил у тебя рекомендательное письмо, потому что ты знал их."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schlagwortverzeichnis",
+        "Index",
+        "Stichwortverzeichnis",
+        "Register",
+        "Stichwortliste"
+      ],
       "antonyms": []
     },
     {
@@ -880,7 +994,13 @@
           "ru": "Но вместо этого моя интернатура закончилась, и он никогда со мной больше не разговаривал."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Referendariat",
+        "Stage (franz.",
+        "Famulatur (fachspr.",
+        "Voluntariat",
+        "Traineeprogramm"
+      ],
       "antonyms": []
     },
     {
@@ -911,7 +1031,13 @@
           "ru": "Это наш шестой и последний практикант."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Volontär",
+        "Trainee",
+        "Referendar",
+        "Hospitant",
+        "Volo (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -934,7 +1060,10 @@
           "ru": "Вакансия для подработки на нашем складе идеально подходит для тех, кто хочет работать по гибкому графику."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aushilfs-/Assistentenstelle",
+        "Zeitarbeit/Teilzeitjob"
+      ],
       "antonyms": [
         "die Festanstellung, die Festanstellungen"
       ]
@@ -967,7 +1096,11 @@
           "ru": "Сандрина добилась, чтобы с осени меня взяли на полставки."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teilzeitarbeit",
+        "Teilzeitbeschäftigung",
+        "Teilzeitjob"
+      ],
       "antonyms": [
         "die Vollzeitstelle, die Vollzeitstellen"
       ]
@@ -1000,7 +1133,12 @@
           "ru": "Сестра Мэри Юнис наняла меня на полную ставку в Бриарклифф."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ganztagsarbeit",
+        "Fulltime-Job",
+        "Ganztagsbeschäftigung",
+        "Vollzeitjob"
+      ],
       "antonyms": [
         "die Teilzeitstelle, die Teilzeitstellen"
       ]
@@ -1033,7 +1171,12 @@
           "ru": "Оу, тогда вы все получите должность заведующего кафедрой."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "unbefristetes Arbeitsverhältnis",
+        "unbefristetes Beschäftigungsverhältnis",
+        "unbefristete Beschäftigung",
+        "Dauerbeschäftigung"
+      ],
       "antonyms": [
         "die Zeitarbeit (nur Sg.)",
         "die Aushilfsstelle, die Aushilfsstellen"
@@ -1067,7 +1210,13 @@
           "ru": "Гранты на поездки могут выдаваться любым категориям преподавательского и административного персонала, нанятого на постоянную или временную работу членом консорциума."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zwischenzeitlich",
+        "temporär",
+        "nicht dauerhaft",
+        "übergangsweise",
+        "zeitweilig"
+      ],
       "antonyms": [
         "unbefristet",
         "temporär"
@@ -1101,7 +1250,11 @@
           "ru": "Наказания могут быть назначаемыми на определённый срок или без определённого срока."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "unterminiert",
+        "festangestellt",
+        "mit Festanstellung"
+      ],
       "antonyms": [
         "befristet",
         "temporär"
@@ -1135,7 +1288,13 @@
           "ru": "После того как будет сделано предложение о приеме на работу, мы можем попросить Вас предоставить подтверждение Вашего законного права на работу на соответствующей территории, и предложение будет действовать только при условии наличия у Вас такого права."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vakanz",
+        "Stelleninserat",
+        "Jobanzeige",
+        "Jobangebot",
+        "Stellenanzeige"
+      ],
       "antonyms": [
         "die Stellennachfrage, die Nachfragen"
       ]
@@ -1168,7 +1327,10 @@
           "ru": "Ожидание приглашения на собеседование после посещения выставки определенно менее перспективно, чем подтверждение интереса к компании с помощью незапрошенной заявки."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Spontanbewerbung",
+        "Blindbewerbung"
+      ],
       "antonyms": []
     },
     {
@@ -1199,7 +1361,13 @@
           "ru": "На фотографиях, представленных в заявке, у трех заявителей были либо густые волосы, либо лысые головы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bewerbungsbildwerk",
+        "Bewerbungsausbelichtung",
+        "Bewerbungsfotoaufnahme",
+        "Bewerbungsaufnahme",
+        "Bewerbungsablichtung"
+      ],
       "antonyms": []
     },
     {
@@ -1230,7 +1398,13 @@
           "ru": "Причина в том, что во многих компаниях почтовые приложения с вложенными файлами не открываются из-за боязни вирусов или отсутствия подходящего программного обеспечения."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "E-Mail-Bewerbungsschreiben",
+        "E-Mail-Bewerbungsbrief",
+        "E-Mail-Bewerbungsunterlage",
+        "E-Mail-Anwartschaft",
+        "E-Mail-Kandidatur"
+      ],
       "antonyms": [
         "die Postbewerbung, die Postbewerbungen"
       ]
@@ -1263,7 +1437,13 @@
           "ru": "Я надеюсь, что вы сможете мне помочь с психологическим профилем."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontur",
+        "Silhouette",
+        "Umrisslinie",
+        "Umriss",
+        "Seitenriss"
+      ],
       "antonyms": []
     },
     {
@@ -1294,7 +1474,13 @@
           "ru": "Я зарабатывала 22.500 и приходила домой вечером вымотанная... и так было, пока, проходя мимо конторы как-то вечером не прочла объявления... о приеме на работу в Департамент транспорта Мэрилэнда."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vakanz",
+        "Stelleninserat",
+        "Jobanzeige",
+        "Jobangebot",
+        "Stellenanzeige"
+      ],
       "antonyms": []
     },
     {
@@ -1362,7 +1548,10 @@
           "ru": "Она не была лучшей кандидаткой, но это было не важно."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "weibliche Bewerberin",
+        "Kandidat/Bewerber"
+      ],
       "antonyms": [
         "die Arbeitgeberin, die Arbeitgeberinnen"
       ]
@@ -1395,7 +1584,9 @@
           "ru": "Потому что зачастую они заканчиваются на удивление рано, а именно с наступлением срока подачи заявок на семестр."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bewerbungsschluss"
+      ],
       "antonyms": []
     },
     {
@@ -1422,7 +1613,10 @@
           "ru": "Культурные ценности, усиливающие уважение к старшим, контрастируют с низким общественным положением пожилых людей в США. Пожилые американцы находятся в невыгодном положении при устройстве на работу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bewerbungsprozess",
+        "Kandidatenauswahlprozess"
+      ],
       "antonyms": []
     },
     {
@@ -1453,7 +1647,10 @@
           "ru": "Ярмарка вакансий пройдет с 10:00 до 16:00. Посетители могут проверить свои папки с заявлениями и сфотографировать их, получить советы по дальнейшему обучению и изучить доступные позиции и позиции для обучения."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bewerbungsdossier",
+        "Bewerbungsunterlagen"
+      ],
       "antonyms": []
     },
     {
@@ -1515,7 +1712,13 @@
           "ru": "Король ценит мой опыт во многих отраслях."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Obliegenschaft",
+        "Befugnis",
+        "Verantwortungsbereich",
+        "Verantwortlichkeit",
+        "Bereich"
+      ],
       "antonyms": [
         "die Inkompetenz, die Inkompetenzen"
       ]
@@ -1548,7 +1751,12 @@
           "ru": "Азиатские страны имеют впечатляющие потенциальные ресурсы мягкой силы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nicht-fachliche Fähigkeiten",
+        "Sozialkompetenz",
+        "soziale Kompetenz",
+        "soziale Fähigkeiten"
+      ],
       "antonyms": [
         "die Hard Skills, (nur Pl.)"
       ]
@@ -1581,7 +1789,10 @@
           "ru": "Вместо того чтобы разжижать жёсткую и мягкую силу, иммиграция усиливает обе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "harte Fähigkeiten",
+        "Fachliche/Hard Skills"
+      ],
       "antonyms": [
         "die Soft Skills, (nur Pl.)"
       ]
@@ -1614,7 +1825,13 @@
           "ru": "Вы здесь из-за вашего опыта В психологии и лжи."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Expertenwissen",
+        "Fachkompetenz",
+        "Fachkenntnis",
+        "Sachkompetenz",
+        "Expertise"
+      ],
       "antonyms": [
         "das Halbwissen (nur Sg.)",
         "das Laienwissen (nur Sg.)"
@@ -1648,7 +1865,9 @@
           "ru": "Она почти разучилась говорить."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fremdsprachenkenntnisse"
+      ],
       "antonyms": []
     },
     {
@@ -1671,7 +1890,9 @@
           "ru": "Компания предлагает обучение, чтобы сотрудники могли адаптировать свои ИТ-навыки к новым системам."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Computerkenntnisse/IT-Kenntnisse"
+      ],
       "antonyms": []
     },
     {
@@ -1702,7 +1923,13 @@
           "ru": "Что эти годы, годы зрелости, дают возможность путешествовать, получать образование, менять работу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Training",
+        "Seminar",
+        "Workshop",
+        "Kursus",
+        "Schulung"
+      ],
       "antonyms": [
         "die Erstausbildung"
       ]
@@ -1735,7 +1962,9 @@
           "ru": "политический, успешный сменщик карьеры"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Seiteneinsteiger"
+      ],
       "antonyms": [
         "der Regeleinsteiger"
       ]
@@ -1768,7 +1997,9 @@
           "ru": "Кажется разумным, что для переподготовки двух лет вполне достаточно. После этого работник может потребовать повышения зарплаты и обойтись без государственных субсидий."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umerziehung"
+      ],
       "antonyms": []
     },
     {
@@ -1799,7 +2030,10 @@
           "ru": "А во время драматического перетягивания каната в Бундестаге по поводу договоров с Москвой и Варшавой он был координатором министерства иностранных дел."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schiedsrichter",
+        "Gesicht"
+      ],
       "antonyms": []
     },
     {
@@ -1830,7 +2064,13 @@
           "ru": "Рекомендация от такого как я и дело... в шляпе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeugnis",
+        "Empfehlung",
+        "Referenzschreiben",
+        "Empfehlungsbrief",
+        "Referenz"
+      ],
       "antonyms": []
     },
     {
@@ -1861,7 +2101,13 @@
           "ru": "Когда Рэйчел поступила в колледж, образовалась пустота."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kavität",
+        "Leerstelle",
+        "Hohlraum",
+        "Zwischenraum",
+        "Auslassung"
+      ],
       "antonyms": []
     },
     {
@@ -1884,7 +2130,13 @@
           "ru": "Пожалуйста, отправьте мне ваш черновик резюме по электронной почте, чтобы я мог дать вам по нему обратную связь."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lebenslauf-Design",
+        "Lebenslauf-Konzeption",
+        "Lebenslauf-Konzept",
+        "Lebenslauf-Plan",
+        "Lebenslauf-Layout"
+      ],
       "antonyms": []
     },
     {
@@ -1915,7 +2167,13 @@
           "ru": "Но сейчас больше всего меня беспокоит Джек Портер."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "modern",
+        "heutig",
+        "fortschrittlich",
+        "von heute",
+        "neuzeitlich"
+      ],
       "antonyms": [
         "veraltet",
         "überholt"
@@ -1949,7 +2207,13 @@
           "ru": "Елизавета Доротея в течение 52 лет вела дневник, который полностью сохранился, начиная с 1667 года."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "flächendeckend",
+        "vollständig",
+        "ohne Lücke",
+        "taxativ",
+        "abstandslos"
+      ],
       "antonyms": [
         "lückenhaft",
         "unvollständig"
@@ -1983,7 +2247,13 @@
           "ru": "В 1957 году в школьном сочинении он подробно описал обстоятельства возвращения на родину."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "im Detail",
+        "detailliert",
+        "eingehend",
+        "en détail",
+        "detailgenau"
+      ],
       "antonyms": [
         "kurz",
         "knapp",
@@ -2018,7 +2288,13 @@
           "ru": "Киев, 1936 Болезни уха, носа и горла."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "in Kurzfassung",
+        "stichpunktartig",
+        "konzis",
+        "zusammengefasst",
+        "stichwortartig"
+      ],
       "antonyms": [
         "ausführlich",
         "detailliert",
@@ -2053,7 +2329,13 @@
           "ru": "Результаты работы были просты, но открыли очень широкие возможности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "erhellend",
+        "interessant",
+        "lehrreich",
+        "informativ",
+        "edukativ"
+      ],
       "antonyms": [
         "nichtssagend",
         "inhaltsleer",
@@ -2088,7 +2370,9 @@
           "ru": "Увеличение неравенства в доходах подпитывает собой рост дефицита возможностей для детей из бедных семей и семей со средним уровнем дохода, что проявляется в различии уровня образования в зависимости от социального происхождения и в снижении межпоколенческой мобильности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bildungsniveau (Abschluss)"
+      ],
       "antonyms": []
     },
     {
@@ -2119,7 +2403,11 @@
           "ru": "Профессиональное обучение, законная карьера."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berufslehre",
+        "Ausbildung",
+        "Lehre"
+      ],
       "antonyms": []
     },
     {
@@ -2150,7 +2438,13 @@
           "ru": "Мы очистим Ватикан от любого, кто хотя бы помышляет усомниться в нашей пригодности для этих наисвятейших должностей."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anwendbarkeit",
+        "Anwendungsmöglichkeit",
+        "Einsetzbarkeit",
+        "Praktikabilität",
+        "Verwendbarkeit"
+      ],
       "antonyms": [
         "die Nichteignung, die Nichteignungen",
         "die Ungeeignetheit (nur Sg.)"
@@ -2184,7 +2478,13 @@
           "ru": "Есть в этом фильме пара ролей, которые подойдут для тебя."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "passen",
+        "begnadet",
+        "hochbegabt",
+        "begabt",
+        "befähigt"
+      ],
       "antonyms": [
         "ungeeignet",
         "unpassend"
@@ -2218,7 +2518,13 @@
           "ru": "Сейчас рынок труда намного сложнее."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitshandelsplatz",
+        "Arbeitsabsatzgebiet",
+        "Arbeitshandelszentrum",
+        "Arbeitsumschlagplatz",
+        "Arbeitsbörse"
+      ],
       "antonyms": []
     },
     {
@@ -2249,7 +2555,9 @@
           "ru": "Вроде на ярмарке вакансий."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stellenmarkt"
+      ],
       "antonyms": []
     },
     {
@@ -2280,7 +2588,13 @@
           "ru": "Коммутатор, я не Джон."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Agentur",
+        "Vertretung",
+        "Geschäftsstelle",
+        "Panoptikum",
+        "Synthese (geh."
+      ],
       "antonyms": []
     },
     {
@@ -2311,7 +2625,9 @@
           "ru": "Главный бос, как и обещал."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Headhunter/Personalvermittler"
+      ],
       "antonyms": []
     },
     {
@@ -2342,7 +2658,9 @@
           "ru": "По словам М[…], его компания внимательно следит за тем, как Интернет может изменить услуги кадрового консалтинга."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personalvermittlungsagentur"
+      ],
       "antonyms": []
     },
     {
@@ -2365,7 +2683,10 @@
           "ru": "Этот образец сопроводительного письма помог мне четко и профессионально структурировать мое письмо."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anschreiben-Vorlage",
+        "Muster-Anschreiben"
+      ],
       "antonyms": []
     },
     {
@@ -2396,7 +2717,13 @@
           "ru": "И ты должна рассказать отцу правду о том, что подделала мою подпись."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Signum",
+        "Autogramm",
+        "Namenszeichen",
+        "Signatur",
+        "Incidit"
+      ],
       "antonyms": []
     },
     {
@@ -2427,7 +2754,9 @@
           "ru": "Передам ваши контакты, если хотите."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Name"
+      ],
       "antonyms": []
     },
     {
@@ -2450,7 +2779,13 @@
           "ru": "Следите за тем, чтобы оформление сопроводительного письма гармонировало с дизайном вашего резюме."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anschreiben-Planung",
+        "Anschreiben-Skizze",
+        "Anschreiben-Ichnographie",
+        "Anschreiben-Grundriss",
+        "Anschreiben-Plan"
+      ],
       "antonyms": []
     },
     {
@@ -2481,7 +2816,10 @@
           "ru": "Для распечатки диаграммы в высоком качестве можно экспортировать диаграмму в файл PDF и распечатать этот файл."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "PDF-File",
+        "PDF-Akte"
+      ],
       "antonyms": []
     },
     {
@@ -2535,7 +2873,13 @@
           "ru": "Слишком много декоративных элементов в дизайне сопроводительного письма часто отвлекает от самого содержания заявки."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anschreiben-Konzeption",
+        "Anschreiben-Entwurf",
+        "Anschreiben-Konzept",
+        "Anschreiben-Plan",
+        "Anschreiben-Erfindung"
+      ],
       "antonyms": []
     },
     {
@@ -2587,7 +2931,9 @@
           "ru": "PIEC-BUD это организация, в которой удачно слились профессионализм и опыт сотрудников старшего поколения со способностями и энергией молодых работников компании."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "berufliche Praxis"
+      ],
       "antonyms": [
         "die Theorie (nur Sg.)"
       ]
@@ -2612,7 +2958,13 @@
           "ru": "Я умею проводить трахеотомию охотничьим ножом, сэр."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zusatzkompetenz",
+        "Zusatzeignung",
+        "Zusatzkompetenzprofil",
+        "Zusatzkönnen",
+        "Zusatzfähigkeit"
+      ],
       "antonyms": []
     },
     {
@@ -2643,7 +2995,13 @@
           "ru": "На этой фото видим кита, высовывающего голову из воды на закате возле побережья Флориды."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schulbestätigung",
+        "Schulanerkennung",
+        "Schulbeglaubigung",
+        "Schulnachweis",
+        "Schulzertifikat"
+      ],
       "antonyms": []
     },
     {
@@ -2674,7 +3032,10 @@
           "ru": "Макс, ты можешь получить больше, чем просто аттестат."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dipl.",
+        "Diplomurkunde"
+      ],
       "antonyms": []
     },
     {
@@ -2701,7 +3062,10 @@
           "ru": "Однако практически везде для получения диплома бакалавра требуется минимальная оценка 2,5."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bachelor-Zertifikat",
+        "Bachelor-Abschluss"
+      ],
       "antonyms": []
     },
     {
@@ -2724,7 +3088,10 @@
           "ru": "В этом контексте вручаются дипломы, сертификаты магистров и магистров, а также сертификаты доктора и хабилитации."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Meisterzeugnis",
+        "Master-Abschluss"
+      ],
       "antonyms": []
     },
     {
@@ -2747,7 +3114,13 @@
           "ru": "Информативный рекомендательный документ может существенно повысить ваши шансы на рынке труда."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Empfehlungsmanuskript",
+        "Empfehlungsschriftstück",
+        "Empfehlungsurkunde",
+        "Empfehlungsbeleg",
+        "Empfehlungsunterlage"
+      ],
       "antonyms": []
     },
     {
@@ -2770,7 +3143,13 @@
           "ru": "Важнейшая цель сопроводительного письма состоит в том, чтобы четко и емко сформулировать вашу мотивацию для данной должности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anschreiben-Zweck",
+        "Anschreiben-Intention",
+        "Anschreiben-Absicht",
+        "Anschreiben-Vorsatz",
+        "Anschreiben-Perspektive"
+      ],
       "antonyms": []
     },
     {
@@ -2793,7 +3172,13 @@
           "ru": "Инициативный отклик часто требует большей подготовки, так как приходится самостоятельно анализировать потребности компании."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Initiativörtlichkeit",
+        "Initiativlokalität",
+        "Initiativposition",
+        "Initiativortsangabe",
+        "Initiativlokalisation"
+      ],
       "antonyms": []
     },
     {
@@ -2829,7 +3214,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontaktperson",
+        "Vertrauensperson",
+        "Ansprechperson"
+      ],
       "antonyms": []
     },
     {
@@ -2860,7 +3249,13 @@
           "ru": "Когда я приехал в эту страну, мне пришлось приспосабливаться."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einordnen",
+        "integrieren",
+        "eingliedern",
+        "einfügen",
+        "fluchten"
+      ],
       "partizip_2": "angepasst",
       "imperative": "passe an! / passt an! / passen Sie an!",
       "conjugations": {
@@ -2904,7 +3299,13 @@
           "ru": "И она пытается перегрузить тебя, чтобы ты сломалась."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausbessern",
+        "Korrektur vornehmen",
+        "fixen (ugs.",
+        "verbessern",
+        "ausbügeln"
+      ],
       "partizip_2": "überarbeitet",
       "imperative": "überarbeite! / überarbeitet! / überarbeiten Sie!",
       "conjugations": {
@@ -2946,7 +3347,13 @@
           "ru": "Ворчит Я просто понял... что не могу контролировать все."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sichergehen",
+        "vergewissern",
+        "nachsehen",
+        "nachschauen",
+        "nachhalten"
+      ],
       "partizip_2": "kontrolliert",
       "imperative": "kontrolliere! / kontrolliert! / kontrollieren Sie!",
       "conjugations": {
@@ -2988,7 +3395,11 @@
           "ru": "У нас есть инструменты и лингвистические навыки, требуемые для повторного чтения и внесения исправлений в ваши научные и технические документы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lektorat",
+        "Korrektorat",
+        "Rechtschreibprüfung"
+      ],
       "partizip_2": "gekorrekturlest",
       "imperative": "korrekturlese! / korrekturlest! / korrekturlesen Sie!",
       "conjugations": {
@@ -3030,7 +3441,13 @@
           "ru": "После этого следует защитить всю таблицу и сохранить документ."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abspeichern",
+        "zwischenspeichern",
+        "persistent machen",
+        "sichern",
+        "merken"
+      ],
       "partizip_2": "gespeichert",
       "imperative": "speichere! / speichert! / speichern Sie!",
       "conjugations": {
@@ -3075,7 +3492,10 @@
           "ru": "Нам нужно напечатать ещё один протез."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zu drucken",
+        "drucken"
+      ],
       "partizip_2": "ausgedruckt",
       "imperative": "drucke aus! / druckt aus! / drucken Sie aus!",
       "conjugations": {
@@ -3120,7 +3540,10 @@
           "ru": "Прошу прощения, мне тут пару людей срочно послать надо."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verschicken",
+        "rausschicken"
+      ],
       "partizip_2": "versendet",
       "imperative": "versende! / versendet! / versenden Sie!",
       "conjugations": {
@@ -3168,7 +3591,13 @@
           "ru": "Полагаю, мы не можем рассчитывать, что он всегда будет далеко."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "schätzen",
+        "vermuten",
+        "assumieren (geh.",
+        "ausgehen",
+        "denken"
+      ],
       "partizip_2": "erwartet",
       "imperative": "erwarte! / erwartet! / erwarten Sie!",
       "conjugations": {
@@ -3212,7 +3641,13 @@
           "ru": "Я прошу тебя не выполнять никаких моих просьб."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abschließen",
+        "fertig werden",
+        "erledigen",
+        "absolvieren",
+        "beachten"
+      ],
       "partizip_2": "erfüllt",
       "imperative": "erfülle! / erfüllt! / erfüllen Sie!",
       "conjugations": {
@@ -3257,7 +3692,9 @@
           "ru": "Абдулла... Пять минут забвения после бесплодных поисков работы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Jobsuche"
+      ],
       "antonyms": []
     },
     {
@@ -3290,7 +3727,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektzelle",
+        "Projektgruppe",
+        "Projektkollektiv",
+        "Projektequipe",
+        "Projektaufgebot"
+      ],
       "antonyms": []
     },
     {
@@ -3323,7 +3766,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personalmangel"
+      ],
       "antonyms": []
     },
     {
@@ -3356,7 +3801,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wording (fachspr.",
+        "Ausdrucksweise",
+        "Wortwahl",
+        "Sprachausdruck",
+        "Wortlaut"
+      ],
       "antonyms": []
     },
     {
@@ -3389,7 +3840,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Überarbeit",
+        "Zusatzverdienst",
+        "Plusstunden",
+        "Überstunden",
+        "Überzeit"
+      ],
       "antonyms": []
     },
     {
@@ -3422,7 +3879,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mitarbeitererkundigung",
+        "Mitarbeiterstimmungstest",
+        "Mitarbeiteruntersuchung",
+        "Mitarbeiterenquete",
+        "Mitarbeiterstandortbestimmung"
+      ],
       "antonyms": []
     },
     {
@@ -3455,7 +3918,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vorstellung",
+        "Vorführung",
+        "Präse (ugs.",
+        "Demo",
+        "Demonstration"
+      ],
       "antonyms": []
     },
     {
@@ -3488,7 +3957,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausbrüten (ugs.",
+        "ersinnen",
+        "erfinden",
+        "schmieden",
+        "aushecken (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -3521,7 +3996,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "anlegen",
+        "assortieren (geh.",
+        "aufstellen",
+        "arrangieren",
+        "anordnen"
+      ],
       "antonyms": []
     },
     {
@@ -3554,7 +4035,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verwirklichen",
+        "ausführen",
+        "realisieren",
+        "umsetzen",
+        "vornehmen"
+      ],
       "antonyms": []
     },
     {
@@ -3587,7 +4074,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "infrage stellen",
+        "Trau",
+        "(eingehend",
+        "beurteilen",
+        "examinieren"
+      ],
       "antonyms": []
     },
     {
@@ -3620,7 +4113,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verkleinern",
+        "schmälern",
+        "unterbieten",
+        "heruntersetzen",
+        "runtergehen"
+      ],
       "antonyms": []
     },
     {
@@ -3653,7 +4152,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abgewöhnen",
+        "nicht weitermachen",
+        "beilegen",
+        "ablegen",
+        "abstellen"
+      ],
       "antonyms": []
     },
     {
@@ -3686,7 +4191,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sekundieren (geh.",
+        "unterstützen",
+        "beistehen",
+        "behilflich sein",
+        "protegieren"
+      ],
       "antonyms": []
     },
     {
@@ -3719,7 +4230,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sekundieren (geh.",
+        "unterstützen",
+        "beistehen",
+        "behilflich sein",
+        "protegieren"
+      ],
       "antonyms": []
     },
     {
@@ -3752,7 +4269,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umriss zeichnen",
+        "umreißen",
+        "formulieren",
+        "hinwerfen",
+        "illustrieren"
+      ],
       "antonyms": []
     },
     {
@@ -3785,7 +4308,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verwirklichen",
+        "ausführen",
+        "durchführen",
+        "umsetzen",
+        "vornehmen"
+      ],
       "antonyms": []
     },
     {
@@ -3818,7 +4347,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "vermehren",
+        "vergrößern",
+        "maximieren",
+        "größer machen",
+        "mehren"
+      ],
       "antonyms": []
     },
     {
@@ -3851,7 +4386,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "fertig werden",
+        "deichseln",
+        "bewältigen",
+        "beikommen",
+        "schaffen"
+      ],
       "antonyms": []
     },
     {
@@ -3884,7 +4425,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "brechen",
+        "bezwingen",
+        "rekonvaleszieren (fachspr.",
+        "wieder werden",
+        "gesund werden"
+      ],
       "antonyms": []
     },
     {
@@ -3917,7 +4464,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "erweitern",
+        "nachrüsten",
+        "ergänzen",
+        "hinzugewinnen",
+        "dazugewinnen"
+      ],
       "antonyms": []
     },
     {
@@ -3950,7 +4503,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "umwälzen",
+        "zurückgeben",
+        "eintauschen",
+        "reklamieren",
+        "tauschen"
+      ],
       "antonyms": []
     },
     {
@@ -3983,7 +4542,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "beenden",
+        "beschließen",
+        "fertigmachen",
+        "vollenden",
+        "erledigen"
+      ],
       "antonyms": []
     },
     {
@@ -4016,7 +4581,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "näherbringen",
+        "vermitteln",
+        "erklären",
+        "unterrichten",
+        "beibiegen (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -4049,7 +4620,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gliedern",
+        "gruppieren",
+        "zusammenstellen",
+        "arrondieren (geh.",
+        "zusammenlegen"
+      ],
       "antonyms": []
     },
     {
@@ -4082,7 +4659,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "besprechen",
+        "wörteln",
+        "durchsprechen",
+        "reden",
+        "bereden"
+      ],
       "antonyms": []
     },
     {
@@ -4115,7 +4698,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "pragmatisch",
+        "sachbezogen",
+        "teleologisch (fachspr.",
+        "ergebnisorientiert",
+        "anwendungsbezogen"
+      ],
       "antonyms": []
     },
     {
@@ -4181,7 +4770,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "wirksam"
+      ],
       "antonyms": []
     },
     {
@@ -4214,7 +4805,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "konstruktiv",
+        "gedeihlich",
+        "sinnvoll",
+        "ersprießlich",
+        "gelungen"
+      ],
       "antonyms": []
     },
     {
@@ -4247,7 +4844,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gestalterisch",
+        "erfinderisch",
+        "fantasievoll",
+        "phantasiebegabt",
+        "kreativ"
+      ],
       "antonyms": []
     },
     {
@@ -4280,7 +4883,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "versiert",
+        "bewandert",
+        "professionell",
+        "fachkundig",
+        "kenntnisreich"
+      ],
       "antonyms": []
     },
     {
@@ -4313,7 +4922,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "geordnet",
+        "planmäßig",
+        "planvoll",
+        "methodisch",
+        "regelhaft"
+      ],
       "antonyms": []
     },
     {
@@ -4346,7 +4961,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "betrieblich"
+      ],
       "antonyms": []
     },
     {
@@ -4379,7 +4996,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kalkuliert",
+        "berechnet"
+      ],
       "antonyms": []
     },
     {
@@ -4412,7 +5032,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "elementar",
+        "substanziell",
+        "prinzipiell",
+        "essentiell",
+        "grundlegend"
+      ],
       "antonyms": []
     },
     {
@@ -4445,7 +5071,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gewicht haben",
+        "von Bedeutung",
+        "bedeutsam",
+        "bedeutend",
+        "kein Kleckerkram"
+      ],
       "antonyms": []
     },
     {
@@ -4478,7 +5110,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ungelegen",
+        "unbequem",
+        "zweiflerisch",
+        "skeptisch",
+        "zweifelnd"
+      ],
       "antonyms": []
     },
     {
@@ -4511,7 +5149,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gewicht haben",
+        "von Bedeutung",
+        "bedeutsam",
+        "relevant",
+        "kein Kleckerkram"
+      ],
       "antonyms": []
     },
     {
@@ -4544,7 +5188,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kritisch",
+        "kriegsentscheidend",
+        "bestimmend",
+        "maßgeblich",
+        "ausschlaggebend"
+      ],
       "antonyms": []
     },
     {
@@ -4577,7 +5227,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "phänomenal",
+        "absoluter Wahnsinn",
+        "süperb",
+        "unübertrefflich",
+        "hammergeil (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -4610,7 +5266,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "phänomenal",
+        "absoluter Wahnsinn",
+        "süperb",
+        "unübertrefflich",
+        "hammergeil (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -4643,7 +5305,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "spitze",
+        "vollkommen",
+        "Spitzen...",
+        "wie gemalt",
+        "ideal"
+      ],
       "antonyms": []
     },
     {
@@ -4676,7 +5344,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "tolerabel",
+        "tolerierbar",
+        "zumutbar",
+        "tragbar",
+        "vertretbar"
+      ],
       "antonyms": []
     },
     {
@@ -4709,7 +5383,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "das Projekt leiten"
+      ],
       "antonyms": []
     },
     {
@@ -4742,7 +5418,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausbrüten (ugs.",
+        "ausarbeiten",
+        "ersinnen",
+        "erfinden",
+        "schmieden"
+      ],
       "antonyms": []
     },
     {
@@ -4775,7 +5457,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "implementieren",
+        "programmieren",
+        "hacken",
+        "coden",
+        "proggen"
+      ],
       "antonyms": []
     },
     {
@@ -4808,7 +5496,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausbilden",
+        "formen",
+        "prägen",
+        "bilden",
+        "fassonieren"
+      ],
       "antonyms": []
     },
     {
@@ -4841,7 +5535,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "überbieten",
+        "toppen",
+        "brechen",
+        "schlagen",
+        "daraufsetzen"
+      ],
       "antonyms": []
     },
     {
@@ -4874,7 +5574,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "rekrutieren",
+        "anwerben",
+        "einwerben"
+      ],
       "antonyms": []
     },
     {
@@ -4907,7 +5611,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bemuttern",
+        "befürsorgen",
+        "kuratieren",
+        "beaufsichtigen",
+        "pflegen"
+      ],
       "antonyms": []
     },
     {
@@ -4940,7 +5650,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "aufrufen",
+        "anregen",
+        "animieren",
+        "Mut machen",
+        "ermutigen"
+      ],
       "antonyms": []
     },
     {
@@ -4973,7 +5689,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "auflegen",
+        "anlegen",
+        "einsetzen",
+        "verwenden",
+        "adhibieren (geh."
+      ],
       "antonyms": []
     },
     {
@@ -5006,7 +5728,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausnutzen",
+        "Profit ziehen",
+        "Nutzen ziehen",
+        "Kapital schlagen",
+        "Stimmung machen"
+      ],
       "antonyms": []
     },
     {
@@ -5039,7 +5767,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "eintreten",
+        "befürworten",
+        "engagieren",
+        "unterstützen",
+        "aussprechen für"
+      ],
       "antonyms": []
     },
     {
@@ -5072,7 +5806,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "geltend machen",
+        "ausüben (Macht",
+        "herrschen",
+        "regeln",
+        "managen"
+      ],
       "antonyms": []
     },
     {
@@ -5105,7 +5845,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "aneignen",
+        "draufschaffen (ugs.",
+        "Wissen aneignen",
+        "lernen",
+        "erwerben"
+      ],
       "antonyms": []
     },
     {
@@ -5138,7 +5884,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "besetzen",
+        "angliedern",
+        "annektieren",
+        "einverleiben",
+        "draufschaffen (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -5171,7 +5923,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "aufarbeiten",
+        "sanieren",
+        "erneuern",
+        "aufmöbeln",
+        "herrichten"
+      ],
       "antonyms": []
     },
     {
@@ -5204,7 +5962,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sich auszeichnen",
+        "aufwarten  mit",
+        "bieten",
+        "vorzeigen",
+        "herzeigen"
+      ],
       "antonyms": []
     },
     {
@@ -5237,7 +6001,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "belieben",
+        "gerne mögen",
+        "loben",
+        "begeistert sein",
+        "abfahren auf"
+      ],
       "antonyms": []
     },
     {
@@ -5270,7 +6040,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Interesse wecken",
+        "triggern",
+        "reizen",
+        "Interesse entfachen",
+        "anmachen"
+      ],
       "antonyms": []
     },
     {
@@ -5303,7 +6079,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zuträglich sein",
+        "dienlich sein",
+        "förderlich sein",
+        "verhelfen",
+        "gereichen"
+      ],
       "antonyms": []
     },
     {
@@ -5336,7 +6118,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "beitragen",
+        "mitmachen",
+        "mitreden",
+        "teilnehmen",
+        "sich  einbringen"
+      ],
       "antonyms": []
     },
     {
@@ -5369,7 +6157,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "beitragen",
+        "mitmachen",
+        "mitreden",
+        "mitwirken",
+        "sich  einbringen"
+      ],
       "antonyms": []
     },
     {
@@ -5402,7 +6196,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kontakten (fachspr.",
+        "ansprechen",
+        "anklopfen",
+        "Kontakt aufnehmen",
+        "herantreten"
+      ],
       "antonyms": []
     },
     {
@@ -5435,7 +6235,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "rausknallen (ugs.",
+        "raushauen",
+        "aufklären"
+      ],
       "antonyms": []
     },
     {
@@ -5468,7 +6272,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "herauskehren",
+        "herausstellen",
+        "hervorheben",
+        "Nachdruck verleihen",
+        "akzentuieren"
+      ],
       "antonyms": []
     },
     {
@@ -5501,7 +6311,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "taxieren",
+        "bewerten",
+        "schätzen",
+        "beziffern",
+        "festsetzen"
+      ],
       "antonyms": []
     },
     {
@@ -5534,7 +6350,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "infrage stellen",
+        "Trau",
+        "(eingehend",
+        "examinieren",
+        "evaluieren"
+      ],
       "antonyms": []
     },
     {
@@ -5567,7 +6389,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Parallelen ziehen",
+        "gleichsetzen",
+        "kontrastieren",
+        "gegeneinander abwägen",
+        "gegenüberstellen"
+      ],
       "antonyms": []
     },
     {
@@ -5600,7 +6428,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "messen (geh.",
+        "einzuschätzen versuchen",
+        "taxieren",
+        "prüfend ansehen",
+        "abschätzen"
+      ],
       "antonyms": []
     },
     {
@@ -5633,7 +6467,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "auslesen",
+        "aussieben",
+        "selektieren",
+        "ermitteln",
+        "sieben"
+      ],
       "antonyms": []
     },
     {
@@ -5666,7 +6506,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "skizzieren",
+        "umreißen",
+        "artikulieren (geh.",
+        "Ausdruck verleihen",
+        "äußern"
+      ],
       "antonyms": []
     },
     {
@@ -5699,7 +6545,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "betrachten",
+        "denken",
+        "ventilieren",
+        "studieren",
+        "reflektieren"
+      ],
       "antonyms": []
     },
     {
@@ -5732,7 +6584,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verfertigen",
+        "machen",
+        "fertigen",
+        "fabrizieren (schweiz.",
+        "anfertigen"
+      ],
       "antonyms": []
     },
     {
@@ -5765,7 +6623,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bescheid",
+        "Anordnung",
+        "VA",
+        "Wisch",
+        "Mitteilung"
+      ],
       "antonyms": []
     },
     {
@@ -5798,7 +6662,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Revision",
+        "Änderung",
+        "Durchsicht",
+        "Veränderung",
+        "Abänderung"
+      ],
       "antonyms": []
     },
     {
@@ -5831,7 +6701,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einleiten",
+        "beibringen",
+        "instruieren",
+        "unterweisen",
+        "einbegleiten"
+      ],
       "antonyms": []
     },
     {
@@ -5864,7 +6740,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einleiten",
+        "beibringen",
+        "instruieren",
+        "einbegleiten",
+        "anleiten"
+      ],
       "antonyms": []
     },
     {
@@ -5897,7 +6779,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nützlich machen",
+        "Hilfe leisten",
+        "beistehen",
+        "behilflich sein",
+        "beispringen"
+      ],
       "antonyms": []
     },
     {
@@ -5930,7 +6818,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verlangen",
+        "postulieren (geh.",
+        "bestehen",
+        "reklamieren",
+        "sich  ausbedingen"
+      ],
       "antonyms": []
     },
     {
@@ -5963,7 +6857,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Herausforderung",
+        "Versuch"
+      ],
       "antonyms": []
     },
     {
@@ -5996,7 +6893,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "anspornen",
+        "anregen",
+        "begeistern",
+        "motivieren",
+        "bereichern"
+      ],
       "antonyms": []
     },
     {
@@ -6029,7 +6932,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "fähig",
+        "fit (ugs.",
+        "firm",
+        "habil (geh.",
+        "tauglich"
+      ],
       "antonyms": []
     },
     {
@@ -6062,7 +6971,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kundig",
+        "versiert",
+        "kompetent",
+        "bewandert",
+        "professionell"
+      ],
       "antonyms": []
     }
   ]

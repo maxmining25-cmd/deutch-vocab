@@ -103,7 +103,9 @@
           "ru": "Двое полицейских убиты, а ты остался жив."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Beamter/Beamter"
+      ],
       "antonyms": [
         "der Angestellte"
       ]
@@ -171,7 +173,13 @@
           "ru": "Я хотел бы по, крайней мере, закончить его, пока я могу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausstopfen",
+        "füllen",
+        "voll stopfen",
+        "vollstopfen",
+        "registrieren"
+      ],
       "partizip_2": "ausgefüllt",
       "imperative": "fülle aus! / füllt aus! / füllen Sie aus!",
       "conjugations": {
@@ -216,7 +224,13 @@
           "ru": "Да, можете прислать, но я не стану его подписывать."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unterschrift  setzen",
+        "abzeichnen",
+        "unterfertigen (geh.",
+        "unterzeichnen",
+        "signieren"
+      ],
       "partizip_2": "unterschreibt",
       "imperative": "unterschreibe! / unterschreibt! / unterschreiben Sie!",
       "conjugations": {
@@ -258,7 +272,13 @@
           "ru": "И ты должна рассказать отцу правду о том, что подделала мою подпись."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Signum",
+        "Autogramm",
+        "Namenszeichen",
+        "Signatur",
+        "Incidit"
+      ],
       "antonyms": []
     },
     {
@@ -327,7 +347,13 @@
           "ru": "В этом случае, мы бы хотели официально подать прошение об отсрочке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "anfordern",
+        "verlangen",
+        "fordern",
+        "proponieren",
+        "vorschlagen"
+      ],
       "partizip_2": "beantragt",
       "imperative": "beantrage! / beantragt! / beantragen Sie!",
       "conjugations": {
@@ -379,7 +405,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zulassung",
+        "Approbation",
+        "Billigung",
+        "Erlaubnis",
+        "Lizenz"
+      ],
       "antonyms": [
         "die Ablehnung",
         "das Verbot"
@@ -418,7 +450,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abnicken",
+        "verabschieden",
+        "Placet geben",
+        "Zustimmung geben",
+        "billigen"
+      ],
       "partizip_2": "genehmigt",
       "imperative": "genehmige! / genehmigt! / genehmigen Sie!",
       "conjugations": {
@@ -464,7 +502,13 @@
           "ru": "Это может быть отрицанием, или же вы считаете, что доктор Эдди невиновен."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aversion",
+        "Widerwille",
+        "Ekel",
+        "Ekelgefühl",
+        "Sich-Abwenden"
+      ],
       "antonyms": [
         "die Zusage",
         "die Genehmigung",
@@ -499,7 +543,13 @@
           "ru": "Боюсь, мне придется отклонить твое предложение."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "stören an",
+        "ablehnend gegenüberstehen",
+        "sich stellen",
+        "missbilligen",
+        "verurteilen"
+      ],
       "partizip_2": "abgelehnet",
       "imperative": "lehne ab! / lehnet ab! / lehnen Sie ab!",
       "conjugations": {
@@ -547,7 +597,13 @@
           "ru": "Просто скажи, что ты никогда не знала обо мне."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schreiben",
+        "Anordnung",
+        "VA",
+        "Wisch",
+        "Mitteilung"
+      ],
       "antonyms": []
     },
     {
@@ -578,7 +634,13 @@
           "ru": "Уведомления из банка, налоги, все толково."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerschreiben",
+        "Steueranordnung",
+        "Steuerva",
+        "Steuerwisch",
+        "Steuermitteilung"
+      ],
       "antonyms": []
     },
     {
@@ -609,7 +671,13 @@
           "ru": "Было сказано, что заявители были проинформированы о невыплаченном уведомлении о пошлине."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gebührenschreiben",
+        "Gebührenanordnung",
+        "Gebührenva",
+        "Gebührenwisch",
+        "Gebührenmitteilung"
+      ],
       "antonyms": []
     },
     {
@@ -640,7 +708,13 @@
           "ru": "Я возьму свой гонорар и ухожу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unkostenbeitrag",
+        "Kostenbeitrag",
+        "Preis",
+        "Taxe",
+        "Abgabe"
+      ],
       "antonyms": []
     },
     {
@@ -671,7 +745,13 @@
           "ru": "Да, они собрали деньги, чтобы помочь оплатить ее."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sühnen",
+        "büßen",
+        "retournieren",
+        "zurückgeben",
+        "zurückbezahlen"
+      ],
       "partizip_2": "bezahlt",
       "imperative": "bezahle! / bezahlt! / bezahlen Sie!",
       "conjugations": {
@@ -716,7 +796,13 @@
           "ru": "Это чек на оплату страховки автомобиля."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Indikator",
+        "Hinweis",
+        "Zeichen",
+        "Gradmesser (fig.",
+        "Schriftstück"
+      ],
       "antonyms": []
     },
     {
@@ -747,7 +833,13 @@
           "ru": "Тут большой капитал, мне нужна расписка!"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Beleg",
+        "Bon",
+        "Kassenbeleg",
+        "Kassenzettel",
+        "Kassenbon"
+      ],
       "antonyms": []
     },
     {
@@ -778,7 +870,11 @@
           "ru": "Её привезли без удостоверения личности, потому поиски и заняли так много времени."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Identitätskarte",
+        "Perso",
+        "Lichtbildausweis (fachspr."
+      ],
       "antonyms": []
     },
     {
@@ -809,7 +905,10 @@
           "ru": "Подделка паспорта, наверняка, стала бы его первой остановкой."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pass",
+        "Grenzübertrittspapier"
+      ],
       "antonyms": []
     },
     {
@@ -840,7 +939,13 @@
           "ru": "Я нашёл его паспорт около бармена, которого застрелили."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berechtigungsnachweis",
+        "Berechtigung",
+        "Legitimierung",
+        "Legitimation",
+        "Bescheinigung"
+      ],
       "antonyms": []
     },
     {
@@ -871,7 +976,9 @@
           "ru": "Ну я обратился еще раз и надавил и не успел глазом моргнуть, как секретарши нет, письма писать некуда, и я говорю с каким-то гундосым корпоративным адвокатом, который требует номер моего жетона."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ID-Nummer"
+      ],
       "antonyms": []
     },
     {
@@ -902,7 +1009,13 @@
           "ru": "Я думаю, вы отправили мне не тот документ."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Manuskript",
+        "Schriftstück",
+        "offizielles Schreiben",
+        "Archivale (fachspr.",
+        "Urkunde"
+      ],
       "antonyms": []
     },
     {
@@ -933,7 +1046,13 @@
           "ru": "По всему миру вы можете видеть эту тенденцию - мужчины хотят сертификат."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schriftstück",
+        "offizielles Schreiben",
+        "Archivale (fachspr.",
+        "Beleg",
+        "Unterlage"
+      ],
       "antonyms": []
     },
     {
@@ -964,7 +1083,9 @@
           "ru": "Пять фунтов за мальчика и его свидетельство о рождении."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geburtsschein"
+      ],
       "antonyms": []
     },
     {
@@ -995,7 +1116,13 @@
           "ru": "Похоже на половину свидетельства о браке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Heiratsschriftstück",
+        "Heiratsbeleg",
+        "Heiratsunterlage",
+        "Heiratsdokument",
+        "Heiratsdossier"
+      ],
       "antonyms": []
     },
     {
@@ -1026,7 +1153,9 @@
           "ru": "Медицинская страховая компания должна относиться к стажерам как к любому сотруднику. Для работодателя это означает, что стажер должен быть зарегистрирован в медицинской страховой компании с указанием страхового номера и причины подачи 10. В течение периода обучения работодатели должны соблюдать соответствующие обязательства по отчетности, а также составлять годовые отчеты или отчеты о перерывах. По каждому представленному отчету стажеру должно быть выдано регистрационное удостоверение."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Registrierungsbescheinigung"
+      ],
       "antonyms": []
     },
     {
@@ -1053,7 +1182,13 @@
           "ru": "Граждане Швейцарии вправе выбирать между электронным разрешением на пребывании для граждан Швейцарии (см.Aufenthaltserlaubnis-CH (Deutschland)) или разрешением на пребывание в виде отпечатанного на специальном бланке разрешением на пребывание (см. 28 AufenthV)."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufenthaltserlaubnis",
+        "Aufenthaltsbewilligung",
+        "Bleibeerlaubnis",
+        "Aufenthaltsgenehmigung",
+        "Bleibe-Erlaubnis"
+      ],
       "antonyms": []
     },
     {
@@ -1084,7 +1219,13 @@
           "ru": "Работаешь два года, получаешь диплом и паспорт."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufenthaltsbewilligung",
+        "Aufenthaltstitel",
+        "Bleibeerlaubnis",
+        "Aufenthaltsgenehmigung",
+        "Bleibe-Erlaubnis"
+      ],
       "antonyms": [
         "die Ausweisung",
         "das Aufenthaltsverbot"
@@ -1118,7 +1259,13 @@
           "ru": "Тебе понадобится разрешение на работу, Если задержишься здесь до того времени."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitserlaubnisschein",
+        "Arbeitserlaubniskarte",
+        "Arbeitslizenz",
+        "Arbeitsrecht",
+        "Arbeitsautorisierung"
+      ],
       "antonyms": [
         "das Arbeitsverbot"
       ]
@@ -1143,7 +1290,13 @@
           "ru": "Среди услуг, предлагаемых нашим отелем в Милане, имеется Интернет-пункт (линия ADSL), комната хранения багажа, услуги прачечной и гладильной."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bürgerangebot",
+        "Bürgerdienst",
+        "Bürgerdienstleistung",
+        "Bürgergeschirr",
+        "Bürgeressgeschirr"
+      ],
       "antonyms": []
     },
     {
@@ -1166,7 +1319,11 @@
           "ru": "Таким образом, здание будет открыто в качестве кафе, а на верхних этажах будут проходить культурные мероприятия."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bürgeramt (bundesdeutsch",
+        "Magistratisches Bezirksamt",
+        "Bezirksamt"
+      ],
       "antonyms": []
     },
     {
@@ -1197,7 +1354,9 @@
           "ru": "Они идут в храм и женятся."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Heiratsregister"
+      ],
       "antonyms": []
     },
     {
@@ -1261,7 +1420,11 @@
           "ru": "Социальная служба нашла ей новую семью, но она сбежала."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Amt (ugs.",
+        "Fürsorge",
+        "Sozialfürsorge"
+      ],
       "antonyms": []
     },
     {
@@ -1323,7 +1486,9 @@
           "ru": "Любой, кто придет в иммиграционную службу в качестве иностранного студента, почувствует себя в надежных руках и под надлежащим уходом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einwanderungsbehörde"
+      ],
       "antonyms": []
     },
     {
@@ -1350,7 +1515,9 @@
           "ru": "Доктор Юджин сказал что он позвонит в эмиграционную службу потому что знает что у меня нет бумаг"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einwanderungsbehörde"
+      ],
       "antonyms": []
     },
     {
@@ -1386,7 +1553,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "festgesetzter Zeitpunkt",
+        "Date (ugs.",
+        "Verabredung"
+      ],
       "antonyms": []
     },
     {
@@ -1417,7 +1588,9 @@
           "ru": "запись на прием по электронной почте, электронная почта, номер телефона, номер телефона"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Terminabsprache"
+      ],
       "antonyms": [
         "die Terminabsage"
       ]
@@ -1450,7 +1623,10 @@
           "ru": "Идея ждать в очереди меня не привлекла."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Reihe",
+        "Schlange"
+      ],
       "antonyms": []
     },
     {
@@ -1481,7 +1657,10 @@
           "ru": "Ассоциации торговых компаний разработали некоторые профилактические меры, такие как одноразовые номера карт, но они не увенчались успехом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Warteschlangennummer",
+        "Warteschlangennummer/Ticket"
+      ],
       "antonyms": []
     },
     {
@@ -1512,7 +1691,13 @@
           "ru": "Обращение саммита к глобальному единству в борьбе с недоеданием должно быть направлено на глав государств, министров финансов и здравоохранения, а также на предпринимателей и лидеров гражданского общества."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Urgenz (geh.",
+        "Appell",
+        "Aufforderung",
+        "Bittruf",
+        "Mahnung"
+      ],
       "antonyms": []
     },
     {
@@ -1543,7 +1728,10 @@
           "ru": "В полицейском рапорте, подписанном детективом Риджем, написано, что через три дня после начала дела, его номер был 555."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dateireferenz",
+        "Aktenzeichen/Registrierungsnummer"
+      ],
       "antonyms": []
     },
     {
@@ -1574,7 +1762,12 @@
           "ru": "Как этот секретный файл, который у тебя есть на меня."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dossier",
+        "Urkunde",
+        "Akt (süddt.",
+        "Datei"
+      ],
       "antonyms": []
     },
     {
@@ -1605,7 +1798,10 @@
           "ru": "Я пыталась передать ее другому оперативнику."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Referent",
+        "Dezernent"
+      ],
       "antonyms": []
     },
     {
@@ -1636,7 +1832,9 @@
           "ru": "Я была обычным соц. работником."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "weibliche Sachbearbeiterin"
+      ],
       "antonyms": []
     },
     {
@@ -1672,7 +1870,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Obliegenschaft",
+        "Befugnis",
+        "Verantwortungsbereich",
+        "Verantwortlichkeit",
+        "Bereich"
+      ],
       "antonyms": []
     },
     {
@@ -1708,7 +1912,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "befasst",
+        "verantwortlich"
+      ],
       "antonyms": [
         "unzuständig"
       ]
@@ -1746,7 +1953,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Auflage",
+        "Muss",
+        "Zwang",
+        "Bestimmung",
+        "Erforderlichkeit"
+      ],
       "antonyms": [
         "das Recht",
         "das Privileg"
@@ -1785,7 +1998,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Spanne",
+        "Zeitrahmen",
+        "Zeit",
+        "Zeitdauer",
+        "Zeitraum"
+      ],
       "antonyms": []
     },
     {
@@ -1821,7 +2040,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "beachten",
+        "nachkommen",
+        "erfüllen",
+        "ernst nehmen",
+        "achten"
+      ],
       "partizip_2": "eingehalten",
       "imperative": "halte ein! / haltet ein! / halten Sie ein!",
       "conjugations": {
@@ -1867,7 +2092,13 @@
           "ru": "Можно удлинить шею, но всё равно нужно соблюдать баланс."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "hinausschieben",
+        "prolongieren",
+        "erweitern",
+        "ausweiten",
+        "ausdehnen"
+      ],
       "partizip_2": "verlängert",
       "imperative": "verlängere! / verlängert! / verlängern Sie!",
       "conjugations": {
@@ -1912,7 +2143,12 @@
           "ru": "Весь остров... посвящен многолетнему изучению продления жизни."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Spielverlängerung",
+        "Vergrößerung",
+        "Verbreiterung",
+        "Ausweitung"
+      ],
       "antonyms": [
         "die Verkürzung"
       ]
@@ -1937,7 +2173,13 @@
           "ru": "Подлог улик - другое дело, но мой адвокат утрясет условно-дорочное."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vertagung",
+        "Aussetzung",
+        "Verzögerung",
+        "Verschiebung",
+        "Aufschub"
+      ],
       "antonyms": [
         "die Fristverkürzung"
       ]
@@ -1970,7 +2212,13 @@
           "ru": "Вот в чём сегодняшнее несоответствие развивающихся стран."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unvereinbarkeit",
+        "Falsum",
+        "Kontradiktion",
+        "Antinomie",
+        "Gegensätzlichkeit"
+      ],
       "antonyms": [
         "die Zustimmung",
         "das Einverständnis"
@@ -2004,7 +2252,10 @@
           "ru": "Должен возразить насчет твоего проживания в общежитии."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berufung einlegen",
+        "Revision einlegen"
+      ],
       "partizip_2": "geWiderspruch einlegt",
       "imperative": "Widerspruch einlege! / Widerspruch einlegt! / Widerspruch einlegen Sie!",
       "conjugations": {
@@ -2049,7 +2300,13 @@
           "ru": "Утром на моём столе должна лежать официальная жалоба."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zivilrechtliche Verfolgung",
+        "Anklage",
+        "gerichtliche Verfolgung",
+        "strafrechtliche Verfolgung",
+        "Geheul"
+      ],
       "antonyms": [
         "die Klagerücknahme",
         "die Abweisung"
@@ -2083,7 +2340,13 @@
           "ru": "Мы должны либо предъявить ему обвинения, либо найти возможность доказать, что он ее покрывает."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gerichtlich vorgehen",
+        "Gerichte bemühen",
+        "prozessieren",
+        "Gerichte anrufen",
+        "Klage erheben"
+      ],
       "partizip_2": "geklagt",
       "imperative": "klage! / klagt! / klagen Sie!",
       "conjugations": {
@@ -2128,7 +2391,13 @@
           "ru": "Ведь вы же знаменитый защитник, да?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rechtsbeistand",
+        "Verteidiger",
+        "Verteidigung",
+        "Rechtsvertreter",
+        "Strafverteidiger"
+      ],
       "antonyms": [
         "der Staatsanwalt",
         "der Mandant"
@@ -2162,7 +2431,13 @@
           "ru": "Мне не нужен юридический совет, Донна."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rechtskonsultation",
+        "Rechtsbesprechung",
+        "Rechtsconsulting",
+        "Rechtsberatungsgespräch",
+        "Rechtsunterstützung"
+      ],
       "antonyms": []
     },
     {
@@ -2193,7 +2468,13 @@
           "ru": "Тебе просто нужно заполнить бланк и отнести его к нотариусу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bevollmächtigen",
+        "verbürgen",
+        "bestätigen",
+        "quittieren",
+        "zertifizieren"
+      ],
       "partizip_2": "beglaubigt",
       "imperative": "beglaubige! / beglaubigt! / beglaubigen Sie!",
       "conjugations": {
@@ -2235,7 +2516,13 @@
           "ru": "В случае заверения у нотариуса в зарубежных странах, договор должен перевести уполномоченный судебный переводчик, а заверение следует закрепить в соответствующей судебной инстанции."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bestätigung",
+        "Anerkennung",
+        "Nachweis",
+        "Zertifikat",
+        "Testat"
+      ],
       "antonyms": []
     },
     {
@@ -2266,7 +2553,13 @@
           "ru": "Ты должен знать, эти часы подделка."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fotokopie",
+        "Xerokopie",
+        "Exemplar",
+        "Vertreter",
+        "Vervielfältigungsstück"
+      ],
       "antonyms": [
         "das Original"
       ]
@@ -2299,7 +2592,13 @@
           "ru": "Этот парень был... Блин, тот еще персонаж был."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "legit (engl.",
+        "originär",
+        "genuin",
+        "ursprünglich",
+        "echt"
+      ],
       "antonyms": [
         "die Kopie",
         "das Plagiat",
@@ -2334,7 +2633,13 @@
           "ru": "По прибытии гость должен предъявить удостоверение личности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "insinuieren (geh.",
+        "vorschlagen",
+        "vorbringen",
+        "unterbreiten",
+        "einreichen"
+      ],
       "partizip_2": "vorgelegt",
       "imperative": "lege vor! / legt vor! / legen Sie vor!",
       "conjugations": {
@@ -2379,7 +2684,13 @@
           "ru": "Общая оценка выполнения особо важных рекомендаций будет сделана после представления указанного доклада."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesetzentwurf",
+        "Gesetzesvorlage",
+        "Gesetzesvorschlag",
+        "Gesetzgebungsvorschlag",
+        "Gesetzesentwurf"
+      ],
       "antonyms": [
         "das Vorenthalten"
       ]
@@ -2412,7 +2723,9 @@
           "ru": "Ну, я тебя обрадую, детка... страшно бывает всем."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "später einzureichen"
+      ],
       "partizip_2": "genachreicht",
       "imperative": "nachreiche! / nachreicht! / nachreichen Sie!",
       "conjugations": {
@@ -2448,7 +2761,9 @@
           "ru": "Досылка документов для поступления на работу по электронной почте возможна по согласованию с отделом кадров."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nachträgliche Einreichung"
+      ],
       "antonyms": [
         "die Soforteinreichung"
       ]
@@ -2481,7 +2796,13 @@
           "ru": "Потому что нам был нужен сертификат на работы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bestätigung",
+        "Anerkennung",
+        "Beglaubigung",
+        "Zertifikat",
+        "Testat"
+      ],
       "antonyms": []
     },
     {
@@ -2512,7 +2833,13 @@
           "ru": "Мы пытаемся подтвердить это с помощью ДНК из дела Тейлор."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "belegen",
+        "Beweis erbringen",
+        "Nachweis erbringen",
+        "beweisen",
+        "Beweis antreten"
+      ],
       "partizip_2": "genachweist",
       "imperative": "nachweise! / nachweist! / nachweisen Sie!",
       "conjugations": {
@@ -2556,7 +2883,9 @@
           "ru": "Какими бы убедительными ни были такие доказательства происхождения, у них все же есть серьезный недостаток."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Herkunftsbestätigung"
+      ],
       "antonyms": []
     },
     {
@@ -2620,7 +2949,9 @@
           "ru": "Он сказал мне, что из меня вышел бы хороший Альфа."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einreichen"
+      ],
       "partizip_2": "abgegebent",
       "imperative": "gebene ab! / gebent ab! / gebenn Sie ab!",
       "conjugations": {
@@ -2669,7 +3000,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zehnt",
+        "Zehend",
+        "Steuer",
+        "Zehent",
+        "Zehnter"
+      ],
       "antonyms": [
         "der Erhalt, (nur Sg.)",
         "die Einnahme, die Einnahmen"
@@ -2703,7 +3040,13 @@
           "ru": "В зависимости оттого, что вы напишите в справке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berechtigungsnachweis",
+        "Ausweis",
+        "Berechtigung",
+        "Legitimierung",
+        "Legitimation"
+      ],
       "antonyms": []
     },
     {
@@ -2734,7 +3077,13 @@
           "ru": "И эти люди являются их «рецензентами» и, естественно, с готовностью предоставляют им хвалебные рекомендательные письма, в которых утверждают, что податель сего достиг «национального и международного признания»."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zertifizieren",
+        "validieren",
+        "bestätigen",
+        "quittieren",
+        "attestieren"
+      ],
       "partizip_2": "bescheinigt",
       "imperative": "bescheinige! / bescheinigt! / bescheinigen Sie!",
       "conjugations": {
@@ -2776,7 +3125,13 @@
           "ru": "Почтальон обратил внимание на монтонский штемпель."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Poststempel",
+        "Amtszeichen",
+        "Siegel",
+        "Kennzeichen",
+        "Grubenholz"
+      ],
       "antonyms": []
     },
     {
@@ -2807,7 +3162,9 @@
           "ru": "На данной стадии проще было бы дать тебе умереть, но я не собираюсь нести за это ответственность."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "prägen"
+      ],
       "partizip_2": "gestempelt",
       "imperative": "stempele! / stempelt! / stempeln Sie!",
       "conjugations": {
@@ -2849,7 +3206,13 @@
           "ru": "Я напишу на машинке письмо, которое я хотел бы получить."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Epistel (geh.",
+        "Wisch",
+        "Zuschrift",
+        "Schreiben",
+        "Schrieb"
+      ],
       "antonyms": []
     },
     {
@@ -2880,7 +3243,10 @@
           "ru": "Похоже, моё приглашение затерялось на почте."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "per Post",
+        "Postnachricht"
+      ],
       "antonyms": [
         "der elektronische Weg"
       ]
@@ -2913,7 +3279,13 @@
           "ru": "Я могу вам точно сказать, я их в конверте получил."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umsatzvolumen",
+        "Umsatz",
+        "Warenumschlag",
+        "Verband",
+        "Kompresse"
+      ],
       "antonyms": []
     },
     {
@@ -2944,7 +3316,10 @@
           "ru": "Ну и что ты здесь искал? Печать?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Marke",
+        "Postwertzeichen"
+      ],
       "antonyms": []
     },
     {
@@ -3008,7 +3383,11 @@
           "ru": "Для вас заказное письмо."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "anmelden",
+        "immatrikulieren",
+        "inskribieren (veraltet"
+      ],
       "antonyms": [
         "der Standardbrief"
       ]
@@ -3041,7 +3420,13 @@
           "ru": "В течение нескольких лет занимался организацией сети нелегальной доставки газеты из-за границы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fuhre",
+        "Überbringung",
+        "Rutsche (ugs.",
+        "Sendung",
+        "Anlieferung"
+      ],
       "antonyms": [
         "die Rücksendung"
       ]
@@ -3074,7 +3459,13 @@
           "ru": "Я могу доставить еще для вас."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zuführen",
+        "überbringen",
+        "blockieren",
+        "versperren",
+        "verstellen"
+      ],
       "partizip_2": "zugestellt",
       "imperative": "stelle zu! / stellt zu! / stellen Sie zu!",
       "conjugations": {
@@ -3118,7 +3509,9 @@
           "ru": "Даже с почтовым индексом это небыстро."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "PLZ"
+      ],
       "antonyms": []
     },
     {
@@ -3149,7 +3542,13 @@
           "ru": "Позже переехал на жительство в Канаду."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufenthalt",
+        "Standort",
+        "gewöhnlicher Aufenthalt",
+        "Meldeadresse",
+        "Wohnadresse"
+      ],
       "antonyms": []
     },
     {
@@ -3180,7 +3579,11 @@
           "ru": "Одна из них была эстонкой, принявшей шведское подданство."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Staatszugehörigkeit",
+        "Nationalität",
+        "Staatsbürgerschaft"
+      ],
       "antonyms": []
     },
     {
@@ -3211,7 +3614,13 @@
           "ru": "Имя, адрес, номер страховки, семейное положение, родственники."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Familienbevölkerungsschicht",
+        "Familienklasse",
+        "Familiengesellschaftsklasse",
+        "Familiengesellschaftsschicht",
+        "Familienkaste"
+      ],
       "antonyms": []
     },
     {
@@ -3242,7 +3651,13 @@
           "ru": "Как так случилось, что вы свободный?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "solo",
+        "ohne Frau",
+        "unverehelicht (fachspr.",
+        "partnerlos",
+        "ohne Partner"
+      ],
       "antonyms": [
         "verheiratet",
         "liiert"
@@ -3276,7 +3691,13 @@
           "ru": "Если у тебя есть ребенок, ты должна быть замужем."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gebunden",
+        "vermählt",
+        "vergeben",
+        "getraut",
+        "zusammen"
+      ],
       "antonyms": [
         "ledig",
         "geschieden",
@@ -3311,7 +3732,11 @@
           "ru": "Типа, с кем я буду жить после вашего развода?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "auseinander",
+        "getrennt",
+        "wieder frei"
+      ],
       "antonyms": [
         "verheiratet"
       ]
@@ -3377,7 +3802,10 @@
           "ru": "Ну, Омар Тэйт - это не его настоящее имя."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mädchenname (ugs.",
+        "früherer Familienname"
+      ],
       "antonyms": [
         "der Ehename"
       ]
@@ -3412,7 +3840,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bekanntgeben",
+        "annoncieren",
+        "ausrufen",
+        "ansagen",
+        "ankündigen"
+      ],
       "antonyms": []
     },
     {
@@ -3445,7 +3879,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "vereinen",
+        "vereinigen",
+        "zusammenfügen",
+        "kombinieren",
+        "verschmelzen"
+      ],
       "antonyms": []
     },
     {
@@ -3478,7 +3918,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "erscheinen",
+        "herkommen",
+        "hinzustoßen",
+        "ankommen",
+        "einfinden"
+      ],
       "antonyms": []
     },
     {
@@ -3511,7 +3957,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "austilgen",
+        "zernichten (dichterisch",
+        "ausrotten",
+        "exterminieren",
+        "vernichten"
+      ],
       "antonyms": []
     },
     {
@@ -3544,7 +3996,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "anpinseln",
+        "anstreichen",
+        "bemalen",
+        "bepinseln",
+        "bergen"
+      ],
       "antonyms": []
     },
     {
@@ -3577,7 +4035,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "unerlässlich",
+        "nötig",
+        "vonnöten",
+        "obligat (geh.",
+        "notwendig"
+      ],
       "antonyms": []
     },
     {
@@ -3610,7 +4074,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "dezent",
+        "pastellfarben",
+        "matt",
+        "gedeckt",
+        "gedämpft"
+      ],
       "antonyms": []
     },
     {
@@ -3643,7 +4113,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Monitor",
+        "Anzeigegerät",
+        "Display",
+        "Schirm",
+        "Bildschirm"
+      ],
       "antonyms": []
     },
     {
@@ -3676,7 +4152,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rush Hour",
+        "Spitzenverkehrszeit",
+        "Spitzenzeit",
+        "Rushhour",
+        "Stoßzeit"
+      ],
       "antonyms": []
     },
     {
@@ -3709,7 +4191,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerformblatt",
+        "Steuervordruck",
+        "Steuerantragsformular"
+      ],
       "antonyms": []
     },
     {
@@ -3742,7 +4228,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Elterngeldörtlichkeit",
+        "Elterngeldlokalität",
+        "Elterngeldposition",
+        "Elterngeldortsangabe",
+        "Elterngeldlokalisation"
+      ],
       "antonyms": []
     },
     {
@@ -3775,7 +4267,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kindergeldantragstellung",
+        "Kindergeldersuchen",
+        "Kindergeldgesuch",
+        "Kindergeldeingabe",
+        "Kindergeldheiratsantrag"
+      ],
       "antonyms": []
     },
     {
@@ -3808,7 +4306,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wohngeldstelle",
+        "Wohnungsausgleichskasse"
+      ],
       "antonyms": []
     },
     {
@@ -3841,7 +4342,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Familienregister"
+      ],
       "antonyms": []
     },
     {
@@ -3874,7 +4377,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Heiratsregister"
+      ],
       "antonyms": []
     },
     {
@@ -3907,7 +4412,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Todesurkunde"
+      ],
       "antonyms": []
     },
     {
@@ -3940,7 +4447,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einwohnerdienste",
+        "Einwohnerkontrolle",
+        "Meldestelle",
+        "Meldeamt (bundesdeutsch",
+        "Personenmeldeamt"
+      ],
       "antonyms": []
     },
     {
@@ -3973,7 +4486,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Niederlassungsausweis",
+        "Meldebestätigung",
+        "Anmeldebestätigung",
+        "Schriftenempfangsschein"
+      ],
       "antonyms": []
     },
     {
@@ -4006,7 +4524,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abmeldeanerkennung",
+        "Abmeldebeglaubigung",
+        "Abmeldenachweis",
+        "Abmeldezertifikat",
+        "Abmeldetestat"
+      ],
       "antonyms": []
     },
     {
@@ -4039,7 +4563,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufenthaltszustehendes",
+        "Aufenthaltsanrecht",
+        "Aufenthaltsanspruch",
+        "Aufenthaltserlaubnis",
+        "Aufenthaltslizenz"
+      ],
       "antonyms": []
     },
     {
@@ -4072,7 +4602,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einbürgerungsprozess"
+      ],
       "antonyms": []
     },
     {
@@ -4105,7 +4637,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Staatsangehörigkeit",
+        "Staatszugehörigkeit",
+        "Nationalität"
+      ],
       "antonyms": []
     },
     {
@@ -4138,7 +4674,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vorstrafenregister",
+        "Strafregister",
+        "Strafregisterauszug",
+        "Leumundszeugnis",
+        "Strafregisterbescheinigung"
+      ],
       "antonyms": []
     },
     {
@@ -4171,7 +4713,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "polizeiliches Führungszeugnis"
+      ],
       "antonyms": []
     },
     {
@@ -4204,7 +4748,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Interpreter",
+        "Übersetzer",
+        "Sprachmittler"
+      ],
       "antonyms": []
     },
     {
@@ -4237,7 +4785,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Interpreter"
+      ],
       "antonyms": []
     },
     {
@@ -4270,7 +4820,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Interpreter",
+        "Dolmetscher",
+        "Sprachmittler",
+        "Transpiler",
+        "Transcompiler"
+      ],
       "antonyms": []
     },
     {
@@ -4303,7 +4859,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Übersetzer"
+      ],
       "antonyms": []
     },
     {
@@ -4336,7 +4894,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Registrare"
+      ],
       "antonyms": []
     },
     {
@@ -4369,7 +4929,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Registrator"
+      ],
       "antonyms": []
     },
     {
@@ -4402,7 +4964,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dateizugriff"
+      ],
       "antonyms": []
     },
     {
@@ -4435,7 +4999,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Notar"
+      ],
       "antonyms": []
     },
     {
@@ -4468,7 +5034,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Notargebühren"
+      ],
       "antonyms": []
     },
     {
@@ -4501,7 +5069,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abhilfehinweis"
+      ],
       "antonyms": []
     },
     {
@@ -4534,7 +5104,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einspruchsbescheid"
+      ],
       "antonyms": []
     },
     {
@@ -4567,7 +5139,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einspruchsfrist"
+      ],
       "antonyms": []
     },
     {
@@ -4600,7 +5174,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Klagespanne",
+        "Klagezeitrahmen",
+        "Klagezeit",
+        "Klagezeitdauer",
+        "Klagezeitraum"
+      ],
       "antonyms": []
     },
     {
@@ -4633,7 +5213,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verfahren",
+        "Prozess",
+        "Gerichtsprozess",
+        "Causa",
+        "gerichtliche Auseinandersetzung"
+      ],
       "antonyms": []
     },
     {
@@ -4666,7 +5252,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Order",
+        "Vorschrift",
+        "Vorgabe",
+        "Verordnung",
+        "Regel"
+      ],
       "antonyms": []
     },
     {
@@ -4699,7 +5291,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gerichtsvollzieher"
+      ],
       "antonyms": []
     },
     {
@@ -4732,7 +5326,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bußgeldbetriebsart",
+        "Bußgeldmodus",
+        "Bußgeldbetriebsmodus",
+        "Bußgeldart",
+        "Bußgeldfestgefahren"
+      ],
       "antonyms": []
     },
     {
@@ -4765,7 +5365,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verwarnungsgeld"
+      ],
       "antonyms": []
     },
     {
@@ -4798,7 +5400,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Überschreitung",
+        "Verletzung",
+        "Übertretung",
+        "unerlaubte Handlung",
+        "Verstoß"
+      ],
       "antonyms": []
     },
     {
@@ -4831,7 +5439,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tatsache",
+        "Gegebenheit",
+        "Sachverhalt",
+        "Faktum",
+        "Fakt"
+      ],
       "antonyms": []
     },
     {
@@ -4864,7 +5478,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verzehren nach",
+        "verlangen",
+        "sehnlichst vermissen",
+        "desiderieren (geh.",
+        "sehnen"
+      ],
       "antonyms": []
     },
     {
@@ -4897,7 +5517,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Knolle",
+        "Knöllchen",
+        "Datenermittlungsbeleg",
+        "Strafmandat",
+        "Bussenzettel"
+      ],
       "antonyms": []
     },
     {
@@ -4930,7 +5556,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Knolle",
+        "Datenermittlungsbeleg",
+        "Strafzettel",
+        "Strafmandat",
+        "Bussenzettel"
+      ],
       "antonyms": []
     },
     {
@@ -4963,7 +5595,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Parküberschreitung",
+        "Parkverletzung",
+        "Parkübertretung",
+        "Parkzuwiderhandlung",
+        "Parknichteinhaltung"
+      ],
       "antonyms": []
     },
     {
@@ -4996,7 +5634,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geschwindigkeitsübertretung"
+      ],
       "antonyms": []
     },
     {
@@ -5029,7 +5669,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Radarkontrolle",
+        "Radarfalle"
+      ],
       "antonyms": []
     },
     {
@@ -5062,7 +5705,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Blitzer",
+        "Radarkontrolle"
+      ],
       "antonyms": []
     },
     {
@@ -5095,7 +5741,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Führerscheinörtlichkeit",
+        "Führerscheinlokalität",
+        "Führerscheinposition",
+        "Führerscheinortsangabe",
+        "Führerscheinlokalisation"
+      ],
       "antonyms": []
     },
     {
@@ -5128,7 +5780,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lenkberechtigung",
+        "Lenkerberechtigung",
+        "Fahrberechtigung"
+      ],
       "antonyms": []
     },
     {
@@ -5161,7 +5817,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Führerscheinaberkennung",
+        "Führerscheinentziehung",
+        "Führerscheinextrakt",
+        "Führerscheinauszug",
+        "Führerscheinextraktion"
+      ],
       "antonyms": []
     },
     {
@@ -5194,7 +5856,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fahranweisung",
+        "Fahrtabu",
+        "Fahrinterdiktion"
+      ],
       "antonyms": []
     },
     {
@@ -5227,7 +5893,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kfz-Zulassungsörtlichkeit",
+        "Kfz-Zulassungslokalität",
+        "Kfz-Zulassungsposition",
+        "Kfz-Zulassungsortsangabe",
+        "Kfz-Zulassungslokalisation"
+      ],
       "antonyms": []
     },
     {
@@ -5260,7 +5932,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fahrzeugzulassung"
+      ],
       "antonyms": []
     },
     {
@@ -5293,7 +5967,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Charakterzug",
+        "Charakteristikum",
+        "Eigenart",
+        "Eigenschaft",
+        "Spezifikum"
+      ],
       "antonyms": []
     },
     {
@@ -5326,7 +6006,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kennzeichen"
+      ],
       "antonyms": []
     },
     {
@@ -5359,7 +6041,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fahrzeuglichtschein",
+        "Fahrzeuglichtstreif",
+        "Fahrzeugstrahl",
+        "Fahrzeuglichtstrahl",
+        "Fahrzeugpapiergeld"
+      ],
       "antonyms": []
     },
     {
@@ -5392,7 +6080,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Typenschein",
+        "Kfz-Brief",
+        "Fahrzeugausweis"
+      ],
       "antonyms": []
     },
     {
@@ -5425,7 +6117,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "HU",
+        "TÜV (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -5458,7 +6153,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "AU"
+      ],
       "antonyms": []
     },
     {
@@ -5491,7 +6188,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pickerl (ugs.",
+        "Begutachtungsplakette"
+      ],
       "antonyms": []
     },
     {
@@ -5524,7 +6224,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Technischer Überwachungsverein"
+      ],
       "antonyms": []
     },
     {
@@ -5557,7 +6259,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verkehrsamt"
+      ],
       "antonyms": []
     },
     {
@@ -5623,7 +6327,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "erkannt haben",
+        "anerkannt"
+      ],
       "antonyms": []
     },
     {
@@ -5656,7 +6363,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "erledigen",
+        "abfrühstücken",
+        "abwimmeln",
+        "abspeisen",
+        "bedienen"
+      ],
       "antonyms": []
     },
     {
@@ -5689,7 +6402,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nachsenden",
+        "übergeben",
+        "durchgeben",
+        "weitergeben",
+        "teilen"
+      ],
       "antonyms": []
     },
     {
@@ -5722,7 +6441,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abgewöhnen",
+        "nicht weitermachen",
+        "ablegen",
+        "abstellen",
+        "aufhören"
+      ],
       "antonyms": []
     },
     {
@@ -5755,7 +6480,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "festhängen",
+        "stecken",
+        "festheften",
+        "befestigen",
+        "anfügen"
+      ],
       "antonyms": []
     },
     {
@@ -5788,7 +6519,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verlängern"
+      ],
       "antonyms": []
     },
     {
@@ -5821,7 +6554,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sich legitimieren"
+      ],
       "antonyms": []
     },
     {
@@ -5854,7 +6589,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "dienstlich veranlasst",
+        "amtshalber",
+        "dienstwegig",
+        "kraft Amtes",
+        "dienstlich"
+      ],
       "antonyms": []
     },
     {
@@ -5887,7 +6628,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "regelungswütig",
+        "vorschriftengläubig",
+        "paragraphenreiterisch",
+        "beamtenhaft",
+        "formalistisch"
+      ],
       "antonyms": []
     },
     {
@@ -5920,7 +6667,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "dienstlich",
+        "offiziell",
+        "formal",
+        "geschäftsmäßig",
+        "maßgebend"
+      ],
       "antonyms": []
     },
     {
@@ -5953,7 +6706,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "skizzenhaft",
+        "unvollendet",
+        "unvollkommen",
+        "oberflächlich",
+        "holzschnittartig"
+      ],
       "antonyms": []
     },
     {
@@ -6019,7 +6778,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nichtig",
+        "ohne Rechtsfolgen",
+        "unwirksam"
+      ],
       "antonyms": []
     },
     {
@@ -6052,7 +6815,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "beendet",
+        "gelaufen",
+        "Geschichte",
+        "vorbei",
+        "passee"
+      ],
       "antonyms": []
     },
     {
@@ -6085,7 +6854,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "notariell beglaubigt"
+      ],
       "antonyms": []
     },
     {
@@ -6118,7 +6889,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kostet!",
+        "kostenpflichtig",
+        "eintrittspflichtig",
+        "entgeltpflichtig (fachspr.",
+        "nicht umsonst"
+      ],
       "antonyms": []
     },
     {
@@ -6151,7 +6928,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "umsonst",
+        "vergütungsfrei",
+        "kostenfrei",
+        "kostenlos",
+        "für umme"
+      ],
       "antonyms": []
     },
     {
@@ -6184,7 +6967,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "amtlich",
+        "dokumentiert",
+        "verbrieft",
+        "schriftlich zugesichert",
+        "beurkundet"
+      ],
       "antonyms": []
     },
     {
@@ -6217,7 +7006,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hauptbestandnehmer",
+        "Hauptpächter"
+      ],
       "antonyms": []
     },
     {
@@ -6250,7 +7042,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hauptmieter"
+      ],
       "antonyms": []
     },
     {
@@ -6283,7 +7077,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unterbestandnehmer",
+        "Unterpächter"
+      ],
       "antonyms": []
     },
     {
@@ -6316,7 +7113,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Untermieter"
+      ],
       "antonyms": []
     },
     {
@@ -6349,7 +7148,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Untermietübereinkommen",
+        "Untermietvereinbarung",
+        "Untermietübereinkunft",
+        "Untermietabkommen",
+        "Untermietkontrakt"
+      ],
       "antonyms": []
     },
     {
@@ -6382,7 +7187,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mietherabsetzung",
+        "Mietverkleinerung",
+        "Mietreduzierung",
+        "Mietsenkung",
+        "Mietreduktion"
+      ],
       "antonyms": []
     }
   ]

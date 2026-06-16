@@ -64,7 +64,13 @@
           "ru": "Он может помочь нам... за вознаграждение."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einkommen",
+        "Gratifikation",
+        "Aufwandsentschädigung",
+        "Entlöhnung",
+        "Salär"
+      ],
       "antonyms": []
     },
     {
@@ -95,7 +101,9 @@
           "ru": "В целом зарплатные ожидания сотрудников оказались на удивление близки к существующему годовому бюджету расходов на персонал."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gewünschte Gehaltsstufe"
+      ],
       "antonyms": []
     },
     {
@@ -126,7 +134,10 @@
           "ru": "За вычетом из брутто-зарплаты текущий налогооблагаемый доход уменьшается."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bruttolohn",
+        "Bruttoverdienst"
+      ],
       "antonyms": [
         "das Nettogehalt"
       ]
@@ -159,7 +170,13 @@
           "ru": "Содержание сухих веществ - 6 %."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nettoeinkommen",
+        "Nettogratifikation",
+        "Nettoaufwandsentschädigung",
+        "Nettoentlöhnung",
+        "Nettosalär"
+      ],
       "antonyms": [
         "das Bruttogehalt"
       ]
@@ -192,7 +209,13 @@
           "ru": "Я не обязан торговаться с кем бы то ни было."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verhandlungen aufnehmen",
+        "zusammensetzen",
+        "erörtern",
+        "diskutieren",
+        "debattieren (geh."
+      ],
       "partizip_2": "verhandelt",
       "imperative": "verhandele! / verhandelt! / verhandeln Sie!",
       "conjugations": {
@@ -232,7 +255,9 @@
           "ru": "А почему вы их отпускаете?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gehaltsverhandlungen"
+      ],
       "antonyms": []
     },
     {
@@ -263,7 +288,13 @@
           "ru": "Давайте уберем запрет на коллективный договор из законопроекта."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tarifübereinkommen",
+        "Tarifvereinbarung",
+        "Tarifübereinkunft",
+        "Tarifabkommen",
+        "Tarifkontrakt"
+      ],
       "antonyms": [
         "der Einzelarbeitsvertrag"
       ]
@@ -296,7 +327,9 @@
           "ru": "Это даже не минимальная оплата труда."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lohnuntergrenze"
+      ],
       "antonyms": []
     },
     {
@@ -327,7 +360,13 @@
           "ru": "Скажи мне, что ты можешь этому противопоставить, если промахнешься?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einstiegseinkommen",
+        "Einstiegsgratifikation",
+        "Einstiegsaufwandsentschädigung",
+        "Einstiegsentlöhnung",
+        "Einstiegssalär"
+      ],
       "antonyms": [
         "das Endgehalt",
         "das Spitzengehalt"
@@ -361,7 +400,11 @@
           "ru": "И единственный способ тебя проучить - лишить денежного содержания."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zuschlag",
+        "Zuschuss",
+        "Prämie"
+      ],
       "antonyms": [
         "der Abzug",
         "der Abschlag"
@@ -395,7 +438,13 @@
           "ru": "Когда задание будет выполнено, я жду премиальные."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Prämie",
+        "Provision",
+        "Zugabe",
+        "Extra",
+        "Zusatzbonbon (ugs."
+      ],
       "antonyms": [
         "der Malus",
         "die Strafe",
@@ -430,7 +479,12 @@
           "ru": "Однако, для вас, полуквалифицированные работники премий не будет."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Weihnachtsgratifikation",
+        "Weihnachtsremuneration",
+        "Weihnachtszuwendung",
+        "Jahressonderzahlung"
+      ],
       "antonyms": []
     },
     {
@@ -461,7 +515,9 @@
           "ru": "Я даже не получил выходного пособия."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Urlaubsremuneration"
+      ],
       "antonyms": []
     },
     {
@@ -488,7 +544,9 @@
           "ru": "И даже с этими премиями, такое чувство, как будто я живу от зарплаты до зарплаты."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pauschalzahlung"
+      ],
       "antonyms": [
         "die Regelzahlung",
         "die laufende Zahlung"
@@ -522,7 +580,10 @@
           "ru": "Я приведу один очень показательный пример - исследование инвестиций в добровольные пенсионные фонды."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Betriebsrente",
+        "zweite Säule"
+      ],
       "antonyms": []
     },
     {
@@ -553,7 +614,9 @@
           "ru": "доля работодателя в взносе медицинского страхования, взносе медицинского страхования, социальном обеспечении, медицинском страховании, взносах социального страхования"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitgeberbeitrag (Sozialversicherung)"
+      ],
       "antonyms": [
         "der Arbeitnehmeranteil"
       ]
@@ -586,7 +649,10 @@
           "ru": "После несчастного случая на работе работодатель выплачивает пособие по болезни в виде постоянной заработной платы в течение шести недель. Пострадавший работник должен был проработать на предприятии не менее четырех недель до происшествия. Ассоциация страхования ответственности работодателей выплачивает пособия по травмам в размере 80 процентов брутто-зарплаты. Из этой суммы вычитаются взносы работников в пенсионное страхование и страхование по безработице."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mitarbeiteranteil",
+        "Arbeitnehmerbeitrag (Sozialversicherung)"
+      ],
       "antonyms": [
         "der Arbeitgeberanteil"
       ]
@@ -619,7 +685,10 @@
           "ru": "Налоги социального страхования в пропорциональном отношении к доходу постепенно растут, от 5% для 10 перцентиля до 9% для 80 перцентиля, оставаясь на том же уровне для 90 перцентиля, однако значительно снижаясь до 5% для самой верхушки."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sozialversicherungsbeiträge",
+        "Sozialbeiträge"
+      ],
       "antonyms": []
     },
     {
@@ -650,7 +719,13 @@
           "ru": "Нил и я ходили в его студию вне рабочее время, как ты предлагал"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitsuhrzeit",
+        "Arbeitstempusform",
+        "Arbeitszeitform",
+        "Arbeitszeitstufe",
+        "Arbeitsspanne"
+      ],
       "antonyms": [
         "die Freizeit",
         "die Ruhezeit"
@@ -684,7 +759,9 @@
           "ru": "Даты праздников уже давно перенесены, и гибкий график стал обычной практикой в ​​офисе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gleitende Arbeitszeit"
+      ],
       "antonyms": [
         "die Festzeit",
         "die starre Arbeitszeit"
@@ -718,7 +795,9 @@
           "ru": "С благословения внутренней администрации основное рабочее время может закончиться в 15.00."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kernzeit"
+      ],
       "antonyms": [
         "die Gleitzeitphase"
       ]
@@ -751,7 +830,9 @@
           "ru": "Сейчас мне нужны все мои ребята на полный день опять."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vollbeschäftigung"
+      ],
       "antonyms": [
         "die Teilzeit"
       ]
@@ -784,7 +865,9 @@
           "ru": "Тут работает девушка на полставки?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unterbeschäftigung"
+      ],
       "antonyms": [
         "die Vollzeit"
       ]
@@ -817,7 +900,13 @@
           "ru": "Но, конечно, придется оплатить... сверхурочные пожарной службе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Überarbeit",
+        "Zusatzverdienst",
+        "Mehrarbeit",
+        "Plusstunden",
+        "Überzeit"
+      ],
       "antonyms": [
         "die Minusstunden"
       ]
@@ -850,7 +939,10 @@
           "ru": "И я знаю, ты хочешь, чтобы вечеринка продолжалась."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Freizeitausgleich nehmen",
+        "Freizeitausgleich bekommen"
+      ],
       "partizip_2": "abgefeiert",
       "imperative": "feiere ab! / feiert ab! / feiern Sie ab!",
       "conjugations": {
@@ -895,7 +987,9 @@
           "ru": "Чем больше компания, тем более распространены учеты рабочего времени. Они выполняют […] две основные функции: с помощью сберегательных счетов можно установить баланс между эффективным и согласованным в договоре рабочим временем. А рабочее время можно корректировать в зависимости от рабочей нагрузки."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitszeiterfassung (Erfassungsblatt)"
+      ],
       "antonyms": []
     },
     {
@@ -926,7 +1020,9 @@
           "ru": "Ты в тюрьме, и у тебя сейчас свободное время."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schichtdienst"
+      ],
       "antonyms": []
     },
     {
@@ -957,7 +1053,11 @@
           "ru": "Все больше людей имеют возможность работать мобильно за пределами офиса компании, например в домашнем офисе, а также более самостоятельно организовывать свое время."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "häusliches Arbeitszimmer",
+        "Home-Office",
+        "Heimbüro"
+      ],
       "antonyms": [
         "die Büroarbeit",
         "die Präsenzarbeit"
@@ -991,7 +1091,10 @@
           "ru": "В моей работе мне часто приходится бывать в командировках, иприходится проявлять большую изобретальность в способах демонстрации продукции моей компании нашим потенциальным клиентам, так что без видеопрезентаций мне сложно обойтись."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "mobiles Arbeiten",
+        "mobile Fernarbeit"
+      ],
       "antonyms": [
         "die stationäre Arbeit",
         "die Büropflicht"
@@ -1090,7 +1193,13 @@
           "ru": "Цена коляски зависит от ее оборудования, типа двигателей и аккумуляторов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Equipment",
+        "Apparatur",
+        "Zurüstung",
+        "Gerätschaft",
+        "Gadget"
+      ],
       "antonyms": []
     },
     {
@@ -1121,7 +1230,9 @@
           "ru": "$50000 в год, 80% компенсации за лечение и служебная машина."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Firmenwagen"
+      ],
       "antonyms": [
         "der Privatwagen"
       ]
@@ -1154,7 +1265,10 @@
           "ru": "Каждое воскресенье я тренирую питбулей в качестве собак-поводырей."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Firmentelefon",
+        "Business-Handy"
+      ],
       "antonyms": [
         "das Privathandy"
       ]
@@ -1187,7 +1301,13 @@
           "ru": "Слушай, рейсы есть, просто у меня нет денег на билет."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Flugschein",
+        "Flugticket",
+        "Fahrausweis",
+        "Billett",
+        "Fahrschein"
+      ],
       "antonyms": []
     },
     {
@@ -1210,7 +1330,9 @@
           "ru": "Я подал заявление на компенсацию транспортных расходов, так как мои затраты на проезд увеличились."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Reisekostenzuschuss"
+      ],
       "antonyms": []
     },
     {
@@ -1241,7 +1363,13 @@
           "ru": "Каждое племя предоставляло определённое количество бойцов, оружия и пищи."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kost",
+        "Verköstigung",
+        "Proviant",
+        "Essen",
+        "Furage"
+      ],
       "antonyms": []
     },
     {
@@ -1272,7 +1400,13 @@
           "ru": "Звучит круто, но в столовой пахнет ужасно..."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Cafeteria",
+        "Cafete",
+        "Personalrestaurant",
+        "Kasino",
+        "Snackbar"
+      ],
       "antonyms": []
     },
     {
@@ -1303,7 +1437,9 @@
           "ru": "И я отправился на каникулы с моими родителями на побережье Джерси."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ferien"
+      ],
       "antonyms": [
         "die Arbeit",
         "der Dienst"
@@ -1337,7 +1473,13 @@
           "ru": "Ревизия показала, что механизмы внутреннего контроля в плане учета времени выхода на работу и присутствия на работе для целей начисления отпуска и соответствующих пособий военнослужащим МООНЭЭ являются недостаточными."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Urlaubszustehendes",
+        "Urlaubsrecht",
+        "Urlaubsanrecht",
+        "Urlaubsaussicht",
+        "Urlaubsberechtigung"
+      ],
       "antonyms": []
     },
     {
@@ -1402,7 +1544,9 @@
           "ru": "Поэтому я отследила электронное письмо, которое она отправила с просьбой о срочном отпуске."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zusätzlicher Urlaub (für besondere Umstände)"
+      ],
       "antonyms": [
         "der Regelurlaub"
       ]
@@ -1435,7 +1579,9 @@
           "ru": "Должны быть достигнуты лучшие условия для проживания и для ухода за ребенком, дружелюбная к семьям налоговая политика и должны поощряться отпуска по уходу за ребенком."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Karenz"
+      ],
       "antonyms": [
         "die Arbeitszeit"
       ]
@@ -1468,7 +1614,9 @@
           "ru": "Студент колледжа, он заменяет училку которая ушла в декрет."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mutterschaftsurlaub (Mutterschutz)"
+      ],
       "antonyms": []
     },
     {
@@ -1499,7 +1647,13 @@
           "ru": "Но он настаивал, требовал бумаги от врача и все такое."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesundheitszeugnis",
+        "Attest",
+        "Arztzeugnis",
+        "AU (ugs.",
+        "Arbeitsunfähigkeitsbescheinigung"
+      ],
       "antonyms": [
         "die Gesundschreibung"
       ]
@@ -1532,7 +1686,13 @@
           "ru": "Ему придётся восхвалять открытие счетов по обеспечению защиты здоровья (СОЗЗ) и говорить о том, что люди не перестанут посещать врача в профилактических целях, даже если их страховка по СОЗЗ не предусматривает оплату таких посещений."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Krankheitschose",
+        "Krankheitsding",
+        "Krankheitssache",
+        "Krankheitscausa",
+        "Krankheitssachverhalt"
+      ],
       "antonyms": [
         "der Gesundungsfall"
       ]
@@ -1565,7 +1725,9 @@
           "ru": "Продолжение выплаты заработной платы работодателем"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entgeltfortzahlung (fachspr."
+      ],
       "antonyms": []
     },
     {
@@ -1596,7 +1758,10 @@
           "ru": "Коэн Лет, отдел онтологических исследований, желает выйти на пенсию по инвалидности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Erwerbsunfähigkeit",
+        "Invalidität"
+      ],
       "antonyms": [
         "die Arbeitsfähigkeit"
       ]
@@ -1665,7 +1830,10 @@
           "ru": "Цзин до сих пор на испытательном сроке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Strafaussetzung",
+        "Bewährung"
+      ],
       "antonyms": [
         "die Festanstellung"
       ]
@@ -1698,7 +1866,13 @@
           "ru": "Мне нужен перерыв, так что... это мое заявление."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Absetzung",
+        "Entlassung",
+        "Ausscheiden",
+        "Vertragsauflösung",
+        "Demission"
+      ],
       "antonyms": [
         "die Einstellung",
         "die Anstellung"
@@ -1732,7 +1906,13 @@
           "ru": "Я не уверен, что тебе стоило увольняться."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abschaffen",
+        "abbedingen (fachspr.",
+        "auflösen",
+        "annullieren",
+        "aufkündigen"
+      ],
       "partizip_2": "gekündigt",
       "imperative": "kündige! / kündigt! / kündigen Sie!",
       "conjugations": {
@@ -1778,7 +1958,13 @@
           "ru": "Как и вам, миссис Такер."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kündigungsspanne",
+        "Kündigungszeitrahmen",
+        "Kündigungszeit",
+        "Kündigungszeitdauer",
+        "Kündigungszeitraum"
+      ],
       "antonyms": []
     },
     {
@@ -1809,7 +1995,13 @@
           "ru": "Выгоды от защиты работы для работающих за счет неработающих, а также действия некоторых профсоюзов, как правило, наиболее воинственных, не способствуют гибкости, и они уже угрожают блокировать меры по либерализации протестными выступлениями на улицах."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kündigungsobhut",
+        "Kündigungsbetreuung",
+        "Kündigungsfürsorge",
+        "Kündigungsfürsorglichkeit",
+        "Kündigungsverfügungsgewalt"
+      ],
       "antonyms": []
     },
     {
@@ -1840,7 +2032,13 @@
           "ru": "Карманто предложили заключить соглашение."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nachzahlung",
+        "Rekompensation",
+        "Reparation",
+        "Wiedergutmachung",
+        "Belohnung"
+      ],
       "antonyms": []
     },
     {
@@ -1863,7 +2061,9 @@
           "ru": "В соглашении о расторжении договора были также урегулированы детали выплаты выходного пособия."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufhebungsvertrag"
+      ],
       "antonyms": [
         "der Arbeitsvertrag"
       ]
@@ -1927,7 +2127,12 @@
           "ru": "Это потому что мой отец в профсоюзе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitnehmervertretung",
+        "Arbeitnehmerorganisation",
+        "Arbeitnehmervertreter",
+        "Arbeitnehmerlobby"
+      ],
       "antonyms": [
         "der Arbeitgeberverband"
       ]
@@ -1960,7 +2165,13 @@
           "ru": "Соглашение компании также включает «социально приемлемое» сокращение 200 рабочих мест."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Betriebsfestlegung",
+        "Betriebsdeklaration",
+        "Betriebsübereinkommen",
+        "Betriebsvertrag",
+        "Betriebsübereinkunft"
+      ],
       "antonyms": []
     },
     {
@@ -1991,7 +2202,9 @@
           "ru": "\"BEST\" название, которое должно вызывать у клиентов ассоциации с продукцией и услугами, обеспечивающими высшую степень безопасности труда."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitssicherheit"
+      ],
       "antonyms": []
     },
     {
@@ -2022,7 +2235,13 @@
           "ru": "Нельзя всё так оставлять."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unfallversprechen",
+        "Unfallbeteuerung",
+        "Unfallzusicherung",
+        "Unfallgarantie",
+        "Unfallzusage"
+      ],
       "antonyms": []
     },
     {
@@ -2053,7 +2272,13 @@
           "ru": "Ну, может не кабинет, но она что-то сказала о столе и зарплате, и КЗОТе, и я должна сказать ей да или нет до понедельника."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rentenversprechen",
+        "Rentenbeteuerung",
+        "Rentenzusicherung",
+        "Rentengarantie",
+        "Rentenzusage"
+      ],
       "antonyms": []
     },
     {
@@ -2084,7 +2309,12 @@
           "ru": "Если я это проверну, он точно даст мне страховку."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesundheitskasse",
+        "Knappschaft",
+        "Krankenkassa",
+        "Krankenkasse"
+      ],
       "antonyms": []
     },
     {
@@ -2115,7 +2345,13 @@
           "ru": "Любая общая схема безработицы еврозоны, таким образом, рискует финансировать долгосрочную безработицу, созданую жесткими национальными институтами рынка труда, которые на протяжении десятилетий оказались невосприимчивы к реформам."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitslosenversprechen",
+        "Arbeitslosenbeteuerung",
+        "Arbeitslosenzusicherung",
+        "Arbeitslosengarantie",
+        "Arbeitslosenzusage"
+      ],
       "antonyms": []
     },
     {
@@ -2146,7 +2382,13 @@
           "ru": "Чтобы иметь адекватную страховку в случае возникновения чрезвычайной ситуации, многие люди в молодом возрасте оформляют так называемую страховку по уходу за больными. Это обещает финансовую безопасность, если ваше здоровье больше не будет гарантировано и потребуется комплексный уход."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pflegeversprechen",
+        "Pflegebeteuerung",
+        "Pflegezusicherung",
+        "Pflegegarantie",
+        "Pflegezusage"
+      ],
       "antonyms": []
     },
     {
@@ -2177,7 +2419,10 @@
           "ru": "Однако самой важной частью процесса, необходимого для предотвращения фискального обрыва, было восстановление эффективного расчета налога на заработную плату."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einkommensteuer",
+        "Lohneinkommensteuer"
+      ],
       "antonyms": []
     },
     {
@@ -2204,7 +2449,9 @@
           "ru": "ћало ли, там, налоги подскочат."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerklasse/Steuergruppe"
+      ],
       "antonyms": []
     },
     {
@@ -2235,7 +2482,9 @@
           "ru": "Это [отмена обязательного социального страхования] принесет больше чистых доходов в казну граждан."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nettogewinn"
+      ],
       "antonyms": [
         "der Bruttoverdienst"
       ]
@@ -2268,7 +2517,10 @@
           "ru": "Это соответствует валовому заработку от 3100 до 4400 марок."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bruttolohn",
+        "Bruttogehalt"
+      ],
       "antonyms": [
         "der Nettoverdienst"
       ]
@@ -2301,7 +2553,13 @@
           "ru": "Вот в чем секрет, получить упомянутые увеличить свои доходы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gratifikation",
+        "Aufwandsentschädigung",
+        "Entlöhnung",
+        "Salär",
+        "Honorar"
+      ],
       "antonyms": [
         "die Ausgabe, die Ausgaben"
       ]
@@ -2334,7 +2592,10 @@
           "ru": "Он мог по любой причине конфисковать их доходы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umsatz/Gewinn",
+        "Quittung/Einkommen (Einnahmequelle)"
+      ],
       "antonyms": [
         "die Ausgaben"
       ]
@@ -2367,7 +2628,13 @@
           "ru": "Вряд ли кажется справедливым, что это требование для трудоустройства здесь, г-н..."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeitvertreib",
+        "Divertissement (geh.",
+        "Abwechslung",
+        "Diversion",
+        "Ablenkung"
+      ],
       "antonyms": [
         "die Arbeitslosigkeit",
         "die Erwerbslosigkeit",
@@ -2402,7 +2669,13 @@
           "ru": "Солидарность между поколениями, однако, сильно зависит от числа людей, вливающихся в ряды рабочей силы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitsplatz",
+        "Job",
+        "Beschäftigung",
+        "Arbeitsverhältnis",
+        "Aufgabe"
+      ],
       "antonyms": [
         "die Arbeitslosigkeit"
       ]
@@ -2435,7 +2708,13 @@
           "ru": "Вдруг спасёт от ужаса временных подработок."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitskräfte-Leasing",
+        "Personalleasing",
+        "Arbeitskraftüberlassung",
+        "Temporärarbeit",
+        "Mitarbeiterleasing"
+      ],
       "antonyms": [
         "die Festanstellung"
       ]
@@ -2460,7 +2739,12 @@
           "ru": "Потому что до сих пор я подрабатывал, совмещал разную деятельность."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "400-Euro-Job",
+        "450-Euro-Job",
+        "geringfügige Beschäftigung",
+        "450-Euro-Basis"
+      ],
       "antonyms": [
         "der Hauptberuf",
         "die Vollzeitstelle"
@@ -2494,7 +2778,9 @@
           "ru": "Работодатели не могут удерживать заработную плату с сотрудников, работающих по гибкому графику, за участие в забастовках, если они вышли из системы учета рабочего времени."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "flexible Zeitregeln"
+      ],
       "antonyms": [
         "die feste Arbeitszeitregelung"
       ]
@@ -2532,7 +2818,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeiterkundigung",
+        "Zeitstimmungstest",
+        "Zeituntersuchung",
+        "Zeitbefragung",
+        "Zeitenquete"
+      ],
       "antonyms": []
     },
     {
@@ -2563,7 +2855,10 @@
           "ru": "Я наемный работник, так же как и ты."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stempeluhr",
+        "Kontrolluhr"
+      ],
       "antonyms": []
     },
     {
@@ -2590,7 +2885,9 @@
           "ru": "Во-первых, BMW заставила британские профсоюзы и рабочую силу согласиться на сокращение 2500 рабочих мест и введение счетов за сверхурочную работу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Überstundenausgleich"
+      ],
       "antonyms": [
         "das Minusstundenkonto"
       ]
@@ -2623,7 +2920,13 @@
           "ru": "Майк, ты сказал, что ты букмекер ты заключаешь пари, а потом не можешь заплатить."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abfließen lassen",
+        "ausschütten (Gewinn",
+        "weitergeben",
+        "verteilen",
+        "besolden"
+      ],
       "partizip_2": "ausgezahlt",
       "imperative": "zahle aus! / zahlt aus! / zahlen Sie aus!",
       "conjugations": {
@@ -2668,7 +2971,13 @@
           "ru": "Термическая обработка - весьма тонкий этап в изготовлении катаны, и даже опытный кузнец может потерпеть здесь неудачу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausglühen",
+        "tempern",
+        "adoucieren (fachspr.",
+        "anlassen",
+        "besolden"
+      ],
       "partizip_2": "vergütet",
       "imperative": "vergüte! / vergütet! / vergüten Sie!",
       "conjugations": {
@@ -2710,7 +3019,13 @@
           "ru": "О, и... мы должны обсудить мой гонорар."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einkommen",
+        "Gratifikation",
+        "Aufwandsentschädigung",
+        "Entlöhnung",
+        "Salär"
+      ],
       "antonyms": []
     },
     {
@@ -2741,7 +3056,10 @@
           "ru": "Я помогу вам найти монету, заберу ее от греха подальше, и все в выигрыше."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bezahlung/Gebühr",
+        "Entschädigung/Honorar"
+      ],
       "antonyms": []
     },
     {
@@ -2772,7 +3090,13 @@
           "ru": "Растут наши показатели, растут твои шансы на повышение."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lohnerhöhung",
+        "Gehaltsplus",
+        "Gehaltssteigerung",
+        "Aufbesserung",
+        "Gehaltsaufbesserung"
+      ],
       "antonyms": [
         "die Gehaltskürzung",
         "die Gehaltssenkung"
@@ -2806,7 +3130,9 @@
           "ru": "Это выше моих полномочий, приятель."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gehaltsklasse"
+      ],
       "antonyms": []
     },
     {
@@ -2837,7 +3163,10 @@
           "ru": "Шкала окладов и соответствующие положения"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gehaltsskala",
+        "Tarifplan"
+      ],
       "antonyms": []
     },
     {
@@ -2868,7 +3197,9 @@
           "ru": "Для этого требуется диплом университета или, альтернативно, подтверждение зарплаты в размере не менее 100 000 марок в год."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einkommensbescheinigung/Gehaltsabrechnung"
+      ],
       "antonyms": []
     },
     {
@@ -2899,7 +3230,13 @@
           "ru": "Когда я выясню что ты сделал, а я выясню, придет расплата."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ausgleich",
+        "Schlussrechnung",
+        "Rechnung",
+        "Bilanz",
+        "Berechnung"
+      ],
       "antonyms": []
     },
     {
@@ -2926,7 +3263,9 @@
           "ru": "Судя по справке о зарплате и кое-чему еще, он полгода назад приехал из Айовы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gehaltsabrechnung"
+      ],
       "antonyms": []
     },
     {
@@ -2957,7 +3296,13 @@
           "ru": "И в фонд социального страхования."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sozialversprechen",
+        "Sozialbeteuerung",
+        "Sozialzusicherung",
+        "Sozialgarantie",
+        "Sozialzusage"
+      ],
       "antonyms": []
     },
     {
@@ -2993,7 +3338,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zehnt",
+        "Zehend",
+        "Steuer",
+        "Zehent",
+        "Zehnter"
+      ],
       "antonyms": [
         "der Erhalt, (nur Sg.)",
         "die Einnahme, die Einnahmen"
@@ -3027,7 +3378,13 @@
           "ru": "Ну же, Барни, спусти курок."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abgaskanal",
+        "Schornstein",
+        "Rauchfang",
+        "Schlot",
+        "Abzugsrohr"
+      ],
       "antonyms": [
         "der Zuschlag",
         "die Zulage"
@@ -3090,7 +3447,13 @@
           "ru": "По данным за 2012 год Zurich заявила чистую прибыль после уплаты налогов (причитающуюся акционерам) в размере 3,878 млрд дол США, что на 3 % выше по сравнению с предыдущим годом, и операционную прибыль в размере 4,075 млрд дол."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nettogratifikation",
+        "Nettoaufwandsentschädigung",
+        "Nettoentlöhnung",
+        "Nettosalär",
+        "Nettohonorar"
+      ],
       "antonyms": [
         "das Bruttoeinkommen"
       ]
@@ -3123,7 +3486,13 @@
           "ru": "валовой доход сотрудников"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bruttogratifikation",
+        "Bruttoaufwandsentschädigung",
+        "Bruttoentlöhnung",
+        "Bruttosalär",
+        "Bruttohonorar"
+      ],
       "antonyms": [
         "das Nettoeinkommen"
       ]
@@ -3156,7 +3525,10 @@
           "ru": "Очень важно, чтобы бюро могло предложить и дополнительные услуги, начиная с составления рекламных текстов и заканчивая готовым изданием."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zusatznutzen",
+        "Zusatznutzen/Nutzen"
+      ],
       "antonyms": [
         "die Kernleistung"
       ]
@@ -3189,7 +3561,13 @@
           "ru": "Ну, кто знал, что скромный вариант будет так романтичен?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wohltaten  (fig.",
+        "unentgeltliche Zuwendung",
+        "Gefallen",
+        "Wohltat",
+        "Wohltätigkeit"
+      ],
       "antonyms": [
         "die Benachteiligung",
         "die Belastung"
@@ -3225,7 +3603,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Qualifikationen nachweisen",
+        "Qualifikationen bestätigen"
+      ],
       "antonyms": []
     },
     {
@@ -3291,7 +3672,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lebenslauf erstellen"
+      ],
       "antonyms": []
     },
     {
@@ -3456,7 +3839,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "anwenden"
+      ],
       "antonyms": []
     },
     {
@@ -3522,7 +3907,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zweck",
+        "Intention",
+        "Ziel",
+        "Vorsatz",
+        "Plan"
+      ],
       "antonyms": []
     },
     {
@@ -3555,7 +3946,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gruppe",
+        "Rotte",
+        "Verband",
+        "Formation",
+        "Schar"
+      ],
       "antonyms": []
     },
     {
@@ -3588,7 +3985,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Protzerei",
+        "Schaumschlägerei",
+        "Maulheldentum",
+        "Windmacherei",
+        "Großgetue"
+      ],
       "antonyms": []
     },
     {
@@ -3621,7 +4024,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fibel",
+        "Handbuch",
+        "Betriebsanleitung",
+        "Leitfaden",
+        "Bedienungsanleitung"
+      ],
       "antonyms": []
     },
     {
@@ -3654,7 +4063,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bemerkung",
+        "Erläuterung",
+        "Ergänzung",
+        "Kommentar",
+        "Marginalie"
+      ],
       "antonyms": []
     },
     {
@@ -3687,7 +4102,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Adressierung",
+        "Adressieren",
+        "Ansprache",
+        "Amtstitel",
+        "Titel"
+      ],
       "antonyms": []
     },
     {
@@ -3720,7 +4141,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Postanschrift",
+        "Adresse",
+        "Postadresse"
+      ],
       "antonyms": []
     },
     {
@@ -3753,7 +4178,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitsplatz",
+        "Job",
+        "Beschäftigung",
+        "Arbeitsverhältnis",
+        "Aufgabe"
+      ],
       "antonyms": []
     },
     {
@@ -3786,7 +4217,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Klassenarbeit",
+        "Lernerfolgskontrolle",
+        "Klausur",
+        "Test",
+        "Schularbeit"
+      ],
       "antonyms": []
     },
     {
@@ -3819,7 +4256,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Büezer",
+        "Lohnarbeiter",
+        "Hackler",
+        "Malocher (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -3852,7 +4294,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mitarbeiter",
+        "Kollege"
+      ],
       "antonyms": []
     },
     {
@@ -3885,7 +4330,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mitarbeiter",
+        "Bediensteter",
+        "Angestellter",
+        "Arbeitnehmer",
+        "Beschäftigter"
+      ],
       "antonyms": []
     },
     {
@@ -3918,7 +4369,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitslos"
+      ],
       "antonyms": []
     },
     {
@@ -3951,7 +4404,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Erwerbslosigkeit",
+        "Beschäftigungslosigkeit"
+      ],
       "antonyms": []
     },
     {
@@ -3984,7 +4440,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Produktionsmittel",
+        "Rohstoff",
+        "Hilfsmittel",
+        "Betriebsmittel",
+        "Ressource"
+      ],
       "antonyms": []
     },
     {
@@ -4017,7 +4479,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schlagzahl"
+      ],
       "antonyms": []
     },
     {
@@ -4050,7 +4514,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitserde",
+        "Arbeitsterra",
+        "Arbeitsglobus",
+        "Arbeitsdiesseits",
+        "Arbeitsweltganze"
+      ],
       "antonyms": []
     },
     {
@@ -4083,7 +4553,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitsauftrag",
+        "Arbeitsanweisung",
+        "Aufgabenstellung",
+        "Aufgabengebiet",
+        "Aufgabenbereich"
+      ],
       "antonyms": []
     },
     {
@@ -4116,7 +4592,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Jobabwicklung"
+      ],
       "antonyms": []
     },
     {
@@ -4149,7 +4627,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Beharrlichkeit",
+        "Geduld",
+        "Belastbarkeit (geh.",
+        "Regenerationskraft",
+        "Durchhaltewille"
+      ],
       "antonyms": []
     },
     {
@@ -4182,7 +4666,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Term",
+        "Bezeichnung",
+        "Ausgabe",
+        "Terminus",
+        "Formulierung"
+      ],
       "antonyms": []
     },
     {
@@ -4215,7 +4705,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ungelernter Mitarbeiter",
+        "Helfer",
+        "ungelernter Beschäftigter",
+        "Aushilfskraft",
+        "Hilfsarbeitskraft"
+      ],
       "antonyms": []
     },
     {
@@ -4248,7 +4744,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gegenrede",
+        "Reaktion",
+        "Rückäußerung",
+        "Gegenbemerkung",
+        "Konter"
+      ],
       "antonyms": []
     },
     {
@@ -4281,7 +4783,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abundzubi (ugs.",
+        "Stift (ugs.",
+        "Azubine (ugs.",
+        "Eleve (Kunst",
+        "Auszubildender"
+      ],
       "antonyms": []
     },
     {
@@ -4314,7 +4822,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einkommen",
+        "Gratifikation",
+        "Aufwandsentschädigung",
+        "Entlöhnung",
+        "Salär"
+      ],
       "antonyms": []
     },
     {
@@ -4347,7 +4861,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zug",
+        "Zugbelastung",
+        "Spannung",
+        "Spannungszustand",
+        "Druckbelastung"
+      ],
       "antonyms": []
     },
     {
@@ -4380,7 +4900,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anstrengung",
+        "Bemühen",
+        "Aspiration (geh.",
+        "Kraftanstrengung",
+        "Einsatz"
+      ],
       "antonyms": []
     },
     {
@@ -4413,7 +4939,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rubrik",
+        "Cluster",
+        "Kategorie",
+        "Feld",
+        "Zone"
+      ],
       "antonyms": []
     },
     {
@@ -4446,7 +4978,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Profession",
+        "Job",
+        "Tätigkeitsbezeichnung",
+        "Berufsbezeichnung",
+        "Metier"
+      ],
       "antonyms": []
     },
     {
@@ -4479,7 +5017,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einsteiger",
+        "Berufseinsteiger"
+      ],
       "antonyms": []
     },
     {
@@ -4512,7 +5053,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berufsan...",
+        "Berufsaufbruch",
+        "Berufsanspiel",
+        "Berufserst...",
+        "Berufsstartschuss"
+      ],
       "antonyms": []
     },
     {
@@ -4545,7 +5092,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berufsverband"
+      ],
       "antonyms": []
     },
     {
@@ -4578,7 +5127,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mitarbeiter"
+      ],
       "antonyms": []
     },
     {
@@ -4611,7 +5162,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Erläuterung",
+        "Konkretisierung",
+        "Narrativ",
+        "Erklärung",
+        "Charakterisierung"
+      ],
       "antonyms": []
     },
     {
@@ -4644,7 +5201,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Firma",
+        "Fa.",
+        "Laden (ugs.",
+        "Unternehmen"
+      ],
       "antonyms": []
     },
     {
@@ -4677,7 +5239,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Betriebsführung"
+      ],
       "antonyms": []
     },
     {
@@ -4710,7 +5274,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Betriebsgastwirt",
+        "Betriebsrestaurateur",
+        "Betriebskneiper",
+        "Betriebsschankwirt"
+      ],
       "antonyms": []
     },
     {
@@ -4743,7 +5312,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bewerbereingang",
+        "Bewerberentree",
+        "Bewerbertor",
+        "Bewerbereinlass",
+        "Bewerberpforte"
+      ],
       "antonyms": []
     },
     {
@@ -4776,7 +5351,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bewerberselektion",
+        "Bewerberblütenlese",
+        "Bewerberauslese",
+        "Bewerberwahl",
+        "Bewerberkörung"
+      ],
       "antonyms": []
     },
     {
@@ -4809,7 +5390,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bewerbung",
+        "Bewerbungsbrief",
+        "Bewerbungsunterlage"
+      ],
       "antonyms": []
     },
     {
@@ -4842,7 +5427,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bewerbungsweiterbildung",
+        "Bewerbungsseminar",
+        "Bewerbungsworkshop",
+        "Bewerbungskursus",
+        "Bewerbungsschulung"
+      ],
       "antonyms": []
     },
     {
@@ -4875,7 +5466,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personal",
+        "Angestellte",
+        "Arbeitnehmer",
+        "Personalbestand"
+      ],
       "antonyms": []
     },
     {
@@ -4908,7 +5504,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wirtschaftszweig",
+        "Industriezweig",
+        "Industrie",
+        "Gewerbe",
+        "Sparte"
+      ],
       "antonyms": []
     },
     {
@@ -4941,7 +5543,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bürogewohnheit",
+        "Bürotrott",
+        "Büroalltagstrott",
+        "Büroregelmäßigkeit",
+        "Bürojoch"
+      ],
       "antonyms": []
     },
     {
@@ -4974,7 +5582,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Briefklammer"
+      ],
       "antonyms": []
     },
     {
@@ -5007,7 +5617,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Prinzipal (geh.",
+        "Alte (ugs.",
+        "hohes Tier",
+        "Boss",
+        "Dienstvorgesetzter"
+      ],
       "antonyms": []
     },
     {
@@ -5040,7 +5656,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Leiterin",
+        "Anführerin",
+        "Nummer 1"
+      ],
       "antonyms": []
     },
     {
@@ -5106,7 +5726,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenerkundigung",
+        "Datenstimmungstest",
+        "Datenuntersuchung",
+        "Datenbefragung",
+        "Datenenquete"
+      ],
       "antonyms": []
     },
     {
@@ -5139,7 +5765,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Frist"
+      ],
       "antonyms": []
     },
     {
@@ -5172,7 +5800,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Service",
+        "Angebot",
+        "Dienst",
+        "entgeltliche Tätigkeit"
+      ],
       "antonyms": []
     },
     {
@@ -5205,7 +5838,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geschäftsreise"
+      ],
       "antonyms": []
     },
     {
@@ -5238,7 +5873,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Direkte Bewerbung"
+      ],
       "antonyms": []
     },
     {
@@ -5271,7 +5908,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Direktan...",
+        "Direktaufbruch",
+        "Direktanspiel",
+        "Direkterst...",
+        "Direktstartschuss"
+      ],
       "antonyms": []
     },
     {
@@ -5304,7 +5947,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Doktor",
+        "Doktorgrad",
+        "Dr.",
+        "promoviert"
+      ],
       "antonyms": []
     },
     {
@@ -5337,7 +5985,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Doppelte Belastung"
+      ],
       "antonyms": []
     },
     {
@@ -5370,7 +6020,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Auflage",
+        "Fassung",
+        "Ausgabe",
+        "Edition",
+        "Abdruck"
+      ],
       "antonyms": []
     },
     {
@@ -5403,7 +6059,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Eignungstest"
+      ],
       "antonyms": []
     },
     {
@@ -5436,7 +6094,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Eignungsuntersuchung"
+      ],
       "antonyms": []
     },
     {
@@ -5469,7 +6129,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Grundschulalter"
+      ],
       "antonyms": []
     },
     {
@@ -5502,7 +6164,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fingerspitzengefühl",
+        "Feingefühl",
+        "Einfühlung",
+        "Gespür",
+        "Einfühlsamkeit"
+      ],
       "antonyms": []
     },
     {
@@ -5535,7 +6203,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Absetzung",
+        "Ausscheiden",
+        "Kündigung",
+        "Vertragsauflösung",
+        "Demission"
+      ],
       "antonyms": []
     },
     {
@@ -5568,7 +6242,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kündigungsschreiben"
+      ],
       "antonyms": []
     },
     {
@@ -5601,7 +6277,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Versorgungsmentalität",
+        "Anspruchsdenken",
+        "Anspruchshaltung",
+        "Ansprüchlichkeit"
+      ],
       "antonyms": []
     },
     {
@@ -5634,7 +6315,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Erstberatung"
+      ],
       "antonyms": []
     },
     {
@@ -5667,7 +6350,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fachkräfte"
+      ],
       "antonyms": []
     },
     {
@@ -5700,7 +6385,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Forschungsgebiet",
+        "Sachgebiet",
+        "Bereich",
+        "Fach",
+        "Domäne"
+      ],
       "antonyms": []
     },
     {
@@ -5733,7 +6424,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sachkundiger",
+        "Kenner",
+        "intimer Kenner",
+        "Spezialist",
+        "Routinier"
+      ],
       "antonyms": []
     },
     {
@@ -5766,7 +6463,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Festtag",
+        "Ruhetag"
+      ],
       "antonyms": []
     },
     {
@@ -5799,7 +6499,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vertretung",
+        "Zweigstelle",
+        "Zweiggeschäft",
+        "Standort",
+        "Repräsentanz"
+      ],
       "antonyms": []
     },
     {
@@ -5832,7 +6538,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wechsel",
+        "Unstetigkeit",
+        "Schwankung",
+        "Abweichung",
+        "Vola"
+      ],
       "antonyms": []
     },
     {
@@ -5865,7 +6577,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Finanzierungsprogramm"
+      ],
       "antonyms": []
     },
     {
@@ -5898,7 +6612,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Befreiung",
+        "Dispens"
+      ],
       "antonyms": []
     },
     {
@@ -5931,7 +6648,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausländisch (ugs.",
+        "nicht deutsch",
+        "auswärts (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -5964,7 +6685,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Führungsclique",
+        "Führungsrunde",
+        "Führungsgrüppchen",
+        "Führungsgruppe",
+        "Führungsschar"
+      ],
       "antonyms": []
     },
     {
@@ -5997,7 +6724,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ausländer",
+        "mit Migrationshintergrund",
+        "Migrant",
+        "Kanake (derb",
+        "Fremdling"
+      ],
       "antonyms": []
     }
   ]

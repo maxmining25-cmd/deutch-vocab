@@ -29,7 +29,13 @@
           "ru": "Каждый член команды отвечает за определенный пакет работ."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitspäckchen",
+        "Arbeitsschwung",
+        "Arbeitseinheit",
+        "Arbeitsbatzen",
+        "Arbeitsquote"
+      ],
       "antonyms": []
     },
     {
@@ -60,7 +66,10 @@
           "ru": "Руководящий комитет должен утверждать изменения в базовом плане."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Grundlinie",
+        "Grundplan"
+      ],
       "antonyms": []
     },
     {
@@ -91,7 +100,13 @@
           "ru": "Предоставление отчетности происходит напрямую через инструмент управления проектами."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Meldungen",
+        "News (Jargon",
+        "Nachrichten",
+        "Nachrichtensendung",
+        "Dokumentarbericht"
+      ],
       "antonyms": []
     },
     {
@@ -122,7 +137,13 @@
           "ru": "Клиент требует подробную техническую документацию."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Doku",
+        "Dokumentarfilm",
+        "Aufzeichnung",
+        "Dokumentierung",
+        "Beobachtung"
+      ],
       "antonyms": []
     },
     {
@@ -153,7 +174,9 @@
           "ru": "Кто является первой инстанцией в процессе эскалации?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Eskalationsprozess"
+      ],
       "antonyms": []
     },
     {
@@ -184,7 +207,9 @@
           "ru": "Тщательный анализ ошибок экономит много времени в долгосрочной перспективе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fehlereingrenzung"
+      ],
       "antonyms": []
     },
     {
@@ -215,7 +240,13 @@
           "ru": "Основная команда тесно сотрудничает с руководителем проекта."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kernzelle",
+        "Kerngruppe",
+        "Kernkollektiv",
+        "Kernequipe",
+        "Kernaufgebot"
+      ],
       "antonyms": [
         "das erweiterte Team, die erweiterten Teams"
       ]
@@ -248,7 +279,9 @@
           "ru": "Руководитель проекта вел сегодняшнее кризисное совещание."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Notfallsitzung"
+      ],
       "antonyms": []
     },
     {
@@ -279,7 +312,13 @@
           "ru": "Клиентоориентированность требует постоянного общения с заказчиком."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kundenleitfaden",
+        "Kundenzielstellung",
+        "Kundenvorgabe",
+        "Kundenrichtmarke",
+        "Kundenausrichtung"
+      ],
       "antonyms": [
         "die Produktorientierung, (nur Sg.)"
       ]
@@ -312,7 +351,13 @@
           "ru": "Руководитель проекта отчитывается напрямую перед руководящим комитетом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontrollgremium",
+        "Kuratorium",
+        "Kontrollorgan",
+        "Beirat",
+        "Board"
+      ],
       "antonyms": []
     },
     {
@@ -343,7 +388,13 @@
           "ru": "Мы приобрели новые лицензии на программное обеспечение для контроллинга проектов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektcontrolcobia",
+        "Projektcontrolkingfish",
+        "Projektcontrolcrabeater",
+        "Projektcontrolrunner",
+        "Projektcontroloffiziersbarsch"
+      ],
       "antonyms": []
     },
     {
@@ -374,7 +425,10 @@
           "ru": "В течение всего срока реализации проекта мы должны проводить регулярные аудиты."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektdauer",
+        "Projektdurchführungszeitraum"
+      ],
       "antonyms": []
     },
     {
@@ -405,7 +459,12 @@
           "ru": "Сбалансированный портфель проектов сводит к минимуму предпринимательские риски."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektportefeuille",
+        "Projektdepotzusammensetzung",
+        "Projektagenturmappe",
+        "Projektkünstlermappe"
+      ],
       "antonyms": []
     },
     {
@@ -436,7 +495,10 @@
           "ru": "Я посмотрел в проектном журнале, когда эта ошибка возникла впервые."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektprotokoll",
+        "Projektjournal"
+      ],
       "antonyms": []
     },
     {
@@ -467,7 +529,10 @@
           "ru": "Контроль качества проводится выборочно."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Qualitätsprüfung",
+        "Qualitätssicherung"
+      ],
       "antonyms": []
     },
     {
@@ -498,7 +563,13 @@
           "ru": "Рамочные условия обсуждались на стартовой встрече."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Konstellation",
+        "Gegebenheit",
+        "Fall",
+        "Faktor",
+        "Umstand"
+      ],
       "antonyms": []
     },
     {
@@ -529,7 +600,9 @@
           "ru": "За счет сверхурочной работы удалось временно компенсировать нехватку ресурсов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ressourcenknappheit"
+      ],
       "antonyms": [
         "der Ressourcenüberfluss, die Ressourcenüberflüsse"
       ]
@@ -562,7 +635,9 @@
           "ru": "Ограниченность ресурсов вынуждает нас использовать более эффективные процессы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "begrenzte Ressourcen"
+      ],
       "antonyms": [
         "der Ressourcenüberfluss, (nur Sg.)",
         "die Ressourcenfülle, (nur Sg.)"
@@ -596,7 +671,13 @@
           "ru": "Мы разработали меры для минимизации этого фактора риска."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Risikokoeffizient",
+        "Risikobeiwert",
+        "Risikorahmenbedingung",
+        "Risikokonstellation",
+        "Risikogegebenheit"
+      ],
       "antonyms": [
         "der Erfolgsfaktor, die Erfolgsfaktoren"
       ]
@@ -629,7 +710,13 @@
           "ru": "Реестры рисков помогают проактивно управлять рисками."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Risikoschlagwortverzeichnis",
+        "Risikoindex",
+        "Risikoreferenz",
+        "Risikostichwortverzeichnis",
+        "Risikostichwortliste"
+      ],
       "antonyms": []
     },
     {
@@ -660,7 +747,11 @@
           "ru": "Сравнение плана и факта показало, что мы использовали меньше ресурсов, чем планировалось."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Soll-Ist-Kollationieren",
+        "Soll-Ist-Kollation",
+        "Soll-Ist-Komparation"
+      ],
       "antonyms": []
     },
     {
@@ -691,7 +782,9 @@
           "ru": "Кто добавил эту задачу в бэклог спринта?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sprint-Rückstand"
+      ],
       "antonyms": [
         "das Product-Backlog, die Product-Backlogs"
       ]
@@ -724,7 +817,9 @@
           "ru": "Совещание по статусу прошло очень конструктивно."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektstatusbesprechung"
+      ],
       "antonyms": []
     },
     {
@@ -755,7 +850,13 @@
           "ru": "Руководитель проекта придает большое значение сплочению команды."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teameröffnung",
+        "Teamgründung",
+        "Teameinsetzung",
+        "Teamallgemeinbildung",
+        "Teamklugheit"
+      ],
       "antonyms": [
         "die Teamauflösung, (nur Sg.)"
       ]
@@ -788,7 +889,13 @@
           "ru": "Развитие команды сильно стимулировал новый коуч."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teamfortschritt",
+        "Teamverlauf",
+        "Teamfortgang",
+        "Teamgeschehen",
+        "Teamentstehung"
+      ],
       "antonyms": []
     },
     {
@@ -819,7 +926,10 @@
           "ru": "Перенос срока затрагивает также и последующие задачи."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umplanung",
+        "Datumsverschiebung"
+      ],
       "antonyms": []
     },
     {
@@ -850,7 +960,13 @@
           "ru": "Перед коммерческим предложением мы должны составить подробную оценку трудозатрат."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufwandsansatz",
+        "Aufwandsvoranschlag",
+        "Aufwandsfestsetzung",
+        "Aufwandszählung",
+        "Aufwandsrechnung"
+      ],
       "antonyms": []
     },
     {
@@ -881,7 +997,9 @@
           "ru": "Мы должны обновить расчет экономической эффективности актуальными рыночными данными."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rentabilitätsberechnung"
+      ],
       "antonyms": []
     },
     {
@@ -943,7 +1061,9 @@
           "ru": "На основе промежуточного результата мы планируем следующие шаги."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "vorläufiges Ergebnis"
+      ],
       "antonyms": [
         "das Endergebnis, die Endergebnisse"
       ]
@@ -976,7 +1096,13 @@
           "ru": "Мы проанализировали результаты опроса на еженедельном совещании."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "auswerten",
+        "untersuchen",
+        "aufgliedern",
+        "zergliedern",
+        "zerlegen"
+      ],
       "partizip_2": "analysiert",
       "imperative": "alysiere an! / alysiert an! / alysieren Sie an!",
       "conjugations": {
@@ -1018,7 +1144,10 @@
           "ru": "Ассистент проекта архивирует еженедельные отчеты."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zu archivieren",
+        "Archiv"
+      ],
       "partizip_2": "archiviert",
       "imperative": "archiviere! / archiviert! / archivieren Sie!",
       "conjugations": {
@@ -1063,7 +1192,13 @@
           "ru": "Мы договорились о сотрудничестве в области исследований и разработок."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zusammengehen",
+        "mitmachen",
+        "mitarbeiten",
+        "zusammenarbeiten",
+        "gemeinsam handeln"
+      ],
       "partizip_2": "kooperiert",
       "imperative": "kooperiere! / kooperiert! / kooperieren Sie!",
       "conjugations": {
@@ -1110,7 +1245,12 @@
           "ru": "Можешь, пожалуйста, провести координационную встречу в команде?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zu moderieren",
+        "zu erleichtern",
+        "mäßig",
+        "die Sitzung leiten"
+      ],
       "partizip_2": "moderiert",
       "imperative": "moderiere! / moderiert! / moderieren Sie!",
       "conjugations": {
@@ -1152,7 +1292,13 @@
           "ru": "Пожалуйста, наглядно представьте прогресс в еженедельном отчете."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "illustrieren",
+        "bebildern",
+        "skizzieren",
+        "veranschaulichen",
+        "anschaulich machen"
+      ],
       "partizip_2": "visualisiert",
       "imperative": "visualisiere! / visualisiert! / visualisieren Sie!",
       "conjugations": {
@@ -1197,7 +1343,13 @@
           "ru": "Команда считает целевые показатели вполне осуществимыми."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zu schaffen",
+        "zu machen",
+        "gangbar",
+        "machbar",
+        "erfolgswahrscheinlich"
+      ],
       "antonyms": [
         "undurchführbar",
         "unmöglich",
@@ -1232,7 +1384,13 @@
           "ru": "Оценка эффективности основана на критериях, ориентированных на результат."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "pragmatisch",
+        "sachbezogen",
+        "teleologisch (fachspr.",
+        "anwendungsbezogen",
+        "zielorientiert"
+      ],
       "antonyms": [
         "prozessorientiert",
         "aufgabenorientiert"
@@ -1266,7 +1424,13 @@
           "ru": "Вывод на рынок дефектного продукта обходится очень дорого."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gesalzen (Preis",
+        "kostenträchtig",
+        "kostspielig",
+        "teuer",
+        "kostenaufwendig"
+      ],
       "antonyms": [
         "kostengünstig",
         "preiswert",
@@ -1334,7 +1498,10 @@
           "ru": "Из-за рискованного характера задачи мы составили план действий в чрезвычайных ситуациях."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "riskant",
+        "hohes Risiko"
+      ],
       "antonyms": [
         "risikoarm",
         "sicher",
@@ -1369,7 +1536,13 @@
           "ru": "Мы используем целенаправленное обучение для повышения квалификации команды."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "strebsam",
+        "zielbewusst",
+        "zielstrebig",
+        "zielorientiert",
+        "konsequent"
+      ],
       "antonyms": [
         "ziellos",
         "planlos",
@@ -1404,7 +1577,12 @@
           "ru": "Из-за требований, критичных ко времени, мы наняли дополнительных разработчиков."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeitkritik enthaltend",
+        "zeitgebunden",
+        "zeitgesteuert",
+        "zeitabhängig"
+      ],
       "antonyms": [
         "unkritisch",
         "aufschiebbar"
@@ -1438,7 +1616,13 @@
           "ru": "Анализ был очень подробным и точным."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "im Detail",
+        "eingehend",
+        "en détail",
+        "detailgenau",
+        "differenziert"
+      ],
       "antonyms": [
         "grob",
         "oberflächlich",
@@ -1473,7 +1657,9 @@
           "ru": "Возникли конфликты между отделами по поводу распределения ресурсов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bereichsübergreifend"
+      ],
       "antonyms": [
         "abteilungsintern"
       ]
@@ -1542,7 +1728,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sonst",
+        "ansonsten",
+        "anderenfalls",
+        "andernfalls",
+        "widrigenfalls"
+      ],
       "antonyms": []
     },
     {
@@ -1575,7 +1767,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "und",
+        "neben alldem",
+        "auch",
+        "ferner",
+        "überdies"
+      ],
       "antonyms": []
     },
     {
@@ -1608,7 +1806,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "komplementär",
+        "supplementär",
+        "additiv",
+        "hinzufügend",
+        "anfügend"
+      ],
       "antonyms": []
     },
     {
@@ -1641,7 +1845,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "skizzenhaft",
+        "unvollendet",
+        "unvollkommen",
+        "oberflächlich",
+        "holzschnittartig"
+      ],
       "antonyms": []
     },
     {
@@ -1674,7 +1884,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sechs",
+        "sechs (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -1707,7 +1920,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "hinlänglich",
+        "hinreichend",
+        "reichlich",
+        "in Maßen",
+        "genügend"
+      ],
       "antonyms": []
     },
     {
@@ -1740,7 +1959,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zufriedenstellend"
+      ],
       "antonyms": []
     },
     {
@@ -1773,7 +1994,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "d'accord (ugs.",
+        "machen wir!",
+        "okay",
+        "warum nicht?!",
+        "gebongt!"
+      ],
       "antonyms": []
     },
     {
@@ -1806,7 +2033,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausgezeichnet",
+        "hervorragend",
+        "treffend (Vergleich",
+        "unmittelbar einleuchten",
+        "schlagend (Beweis"
+      ],
       "antonyms": []
     },
     {
@@ -1839,7 +2072,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nicht das"
+      ],
       "antonyms": []
     },
     {
@@ -1872,7 +2107,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "diskussionsunwürdig",
+        "unhaltbar",
+        "tadelnswert",
+        "nicht vertretbar",
+        "unzumutbar"
+      ],
       "antonyms": []
     },
     {
@@ -1905,7 +2146,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "tolerabel",
+        "akzeptabel",
+        "zumutbar",
+        "tragbar",
+        "vertretbar"
+      ],
       "antonyms": []
     },
     {
@@ -1938,7 +2185,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ernst",
+        "folgenreich",
+        "massiv",
+        "ernstlich",
+        "groß"
+      ],
       "antonyms": []
     },
     {
@@ -1971,7 +2224,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "dezent",
+        "leicht",
+        "ein wenig",
+        "etwas",
+        "ein bisschen"
+      ],
       "antonyms": []
     },
     {
@@ -2004,7 +2263,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rand betreffend"
+      ],
       "antonyms": []
     },
     {
@@ -2037,7 +2298,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "unmaßgeblich",
+        "unwesentlich",
+        "bedeutungslos",
+        "nebensächlich",
+        "nichtssagend"
+      ],
       "antonyms": []
     },
     {
@@ -2070,7 +2337,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "unaufschiebbar",
+        "virulent (geh.",
+        "heftig",
+        "vehement",
+        "dringlich"
+      ],
       "antonyms": []
     },
     {
@@ -2103,7 +2376,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "flott",
+        "geschwind",
+        "flugs",
+        "flink",
+        "subito"
+      ],
       "antonyms": []
     },
     {
@@ -2169,7 +2448,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeitplan einhalten",
+        "Plan einhalten"
+      ],
       "antonyms": []
     },
     {
@@ -2235,7 +2517,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Plan einhalten"
+      ],
       "antonyms": []
     },
     {
@@ -2301,7 +2585,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "das Projekt steuern"
+      ],
       "antonyms": []
     },
     {
@@ -2367,7 +2653,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "das Projekt abschließen"
+      ],
       "antonyms": []
     },
     {
@@ -2631,7 +2919,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Feedback geben",
+        "Hinterlasse Kommentar"
+      ],
       "antonyms": []
     },
     {
@@ -2664,7 +2955,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Statusbericht erstellen"
+      ],
       "antonyms": []
     },
     {
@@ -2763,7 +3056,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "den Konflikt lösen"
+      ],
       "antonyms": []
     },
     {
@@ -2796,7 +3091,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "eine Entscheidung fight",
+        "eine Entscheidung begegnung",
+        "eine Entscheidung match",
+        "eine Entscheidung kampf",
+        "eine Entscheidung runde"
+      ],
       "antonyms": []
     },
     {
@@ -2829,7 +3130,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "eindämmen",
+        "angehen",
+        "bekämpfen",
+        "einschreiten",
+        "vorgehen"
+      ],
       "antonyms": []
     },
     {
@@ -2895,7 +3202,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Qualität sicherstellen"
+      ],
       "antonyms": []
     },
     {
@@ -2994,7 +3303,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "den Defekt beheben"
+      ],
       "antonyms": []
     },
     {
@@ -3060,7 +3371,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Freilassung gewähren"
+      ],
       "antonyms": []
     },
     {
@@ -3093,7 +3406,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "das Projekt annehmen"
+      ],
       "antonyms": []
     },
     {
@@ -3126,7 +3441,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Endkontrolle durchführen"
+      ],
       "antonyms": []
     },
     {
@@ -3192,7 +3509,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zielzustand definieren"
+      ],
       "antonyms": []
     },
     {
@@ -3225,7 +3544,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bilanz ziehen"
+      ],
       "antonyms": []
     },
     {
@@ -3258,7 +3579,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nacharbeiten durchführen"
+      ],
       "antonyms": []
     },
     {
@@ -3324,7 +3647,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fehlerquote reduzieren",
+        "Reduzierte Fehlerquoten"
+      ],
       "antonyms": []
     },
     {
@@ -3423,7 +3749,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dokumentation"
+      ],
       "antonyms": []
     },
     {
@@ -3555,7 +3883,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektdauer verlängern"
+      ],
       "antonyms": []
     },
     {
@@ -3654,7 +3984,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Qualitätskontrolle durchführen"
+      ],
       "antonyms": []
     },
     {

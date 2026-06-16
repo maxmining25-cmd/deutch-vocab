@@ -66,7 +66,13 @@
           "ru": "Я уже сомневаюсь, что нам стоит покупать этот дом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anwesen",
+        "Landsitz",
+        "Landgut",
+        "Herrenhaus",
+        "Domaine"
+      ],
       "antonyms": [
         "die Wohnung"
       ]
@@ -135,7 +141,9 @@
           "ru": "Только позже арендодатель может переложить часть расходов на основную арендную плату; Мотивация инвестиций остается соответственно низкой."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Grundmiete"
+      ],
       "antonyms": [
         "die Warmmiete"
       ]
@@ -164,7 +172,13 @@
           "ru": "Именно столько им пришлось бы платить до сих пор, если бы арендная плата составляла около 15 марок за квадратный метр."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Warmleihgebühr",
+        "Warmmietpreis",
+        "Warmmietbetrag",
+        "Warmpacht",
+        "Warmmietzins"
+      ],
       "antonyms": [
         "die Kaltmiete"
       ]
@@ -197,7 +211,11 @@
           "ru": "Кабельное, рента, коммунальные услуги."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nebenausgaben",
+        "Wohnnebenkosten",
+        "zweite Miete"
+      ],
       "antonyms": [
         "die Grundmiete"
       ]
@@ -230,7 +248,10 @@
           "ru": "Итак, вторая позиция, которую мы заняли, заключалась в том, что предоставляемые нами возможности, возможность переключаться между конфигурациями сцены должна была бы осуществляться без опоры на эксплуатационные расходы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unterhaltskosten",
+        "laufende Kosten"
+      ],
       "antonyms": []
     },
     {
@@ -261,7 +282,13 @@
           "ru": "Почти все 200 комнат закрыты, чтобы сберечь тепло."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Heizkapitalaufwand",
+        "Heizspesen",
+        "Heizkostenaufwand",
+        "Heizaufwendung",
+        "Heizausgabe"
+      ],
       "antonyms": []
     },
     {
@@ -292,7 +319,13 @@
           "ru": "Арт внес задаток и заплатил наличкой за следующий месяц."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pfand",
+        "Hinterlegung",
+        "Versatzstück",
+        "Einsatz",
+        "Depot"
+      ],
       "antonyms": []
     },
     {
@@ -323,7 +356,12 @@
           "ru": "Я только что подписал договор об аренде."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pachtvertrag",
+        "Bestandsvertrag",
+        "Leasingvertrag",
+        "Bestandvertrag"
+      ],
       "antonyms": [
         "die Kündigung"
       ]
@@ -392,7 +430,9 @@
           "ru": "Только что звонил твой арендодатель."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wirtin"
+      ],
       "antonyms": [
         "die Mieterin"
       ]
@@ -460,7 +500,10 @@
           "ru": "Хороший съемщик, никаких проблем."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "weibliche Mieterin",
+        "Mieter"
+      ],
       "antonyms": [
         "die Vermieterin"
       ]
@@ -530,7 +573,10 @@
           "ru": "Для оценки этой модели необходимо выполнить вход или создать аккаунт."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sich authentifizieren",
+        "sich einloggen"
+      ],
       "partizip_2": "gesich anmeldet",
       "imperative": "sich anmelde! / sich anmeldet! / sich anmelden Sie!",
       "conjugations": {
@@ -577,7 +623,10 @@
           "ru": "Может, это сообщение с того света."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Neuanmeldung",
+        "Ummeldung/Adressänderung"
+      ],
       "antonyms": []
     },
     {
@@ -608,7 +657,10 @@
           "ru": "Если у вас имеются проблемы с входом или с выходом из форума, то функция удаления cookies может помочь в решении этой проблемы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abmeldünger",
+        "Abmelmist"
+      ],
       "antonyms": [
         "die Anmeldung"
       ]
@@ -641,7 +693,13 @@
           "ru": "Жанна не предупредила тебя о моем переезде?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einrückung",
+        "Beschlagnahme",
+        "Beschlagnahmung",
+        "Aneignung",
+        "Einmarsch"
+      ],
       "antonyms": [
         "der Auszug"
       ]
@@ -674,7 +732,13 @@
           "ru": "Покупатели хотят въехать как можно скорее."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "beschlagnahmen",
+        "sichern",
+        "konfiszieren",
+        "sicherstellen",
+        "requirieren"
+      ],
       "partizip_2": "eingezieht",
       "imperative": "ziehe ein! / zieht ein! / ziehen Sie ein!",
       "conjugations": {
@@ -718,7 +782,13 @@
           "ru": "Как твой переезд из Спрингвуда?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zusammenfassung",
+        "Ausschnitt",
+        "Inhaltsübersicht",
+        "Konspekt (fachspr.",
+        "Epitome (fachspr."
+      ],
       "antonyms": [
         "der Einzug"
       ]
@@ -751,7 +821,13 @@
           "ru": "После этого, её можно было снимать в задании."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "entkleiden",
+        "ablegen",
+        "enthüllen",
+        "freimachen",
+        "auskleiden"
+      ],
       "partizip_2": "ausgezieht",
       "imperative": "ziehe aus! / zieht aus! / ziehen Sie aus!",
       "conjugations": {
@@ -795,7 +871,13 @@
           "ru": "Но его сейчас здесь нет, чтобы помочь с переездом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Züglete",
+        "Festumzug",
+        "Wohnortwechsel",
+        "Wohnsitzwechsel",
+        "Tapetenwechsel (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -826,7 +908,13 @@
           "ru": "И не смогу платить за квартиру, и мне придётся переезжать."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gehen",
+        "zügeln",
+        "übersiedeln",
+        "Wohnort wechseln",
+        "dislozieren"
+      ],
       "partizip_2": "geumzieht",
       "imperative": "umziehe! / umzieht! / umziehen Sie!",
       "conjugations": {
@@ -871,7 +959,13 @@
           "ru": "Ему нужна машина, чтобы ездить до работы а также чтобы подвозить в школу своих детей."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umzugsunternehmung",
+        "Umzugsstreben",
+        "Umzugsvorhaben",
+        "Umzugsansinnen",
+        "Umzugsprojekt"
+      ],
       "antonyms": []
     },
     {
@@ -894,7 +988,13 @@
           "ru": "Пожалуйста, не забудьте взять с собой подтверждение от арендодателя на ваш прием в паспортный стол."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wohnungsgeberanerkennung",
+        "Wohnungsgeberbeglaubigung",
+        "Wohnungsgebernachweis",
+        "Wohnungsgeberzertifikat",
+        "Wohnungsgebertestat"
+      ],
       "antonyms": []
     },
     {
@@ -925,7 +1025,10 @@
           "ru": "Лоран, принеси свод домашних правил."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hausvertrag",
+        "Hausgesetz"
+      ],
       "antonyms": []
     },
     {
@@ -956,7 +1059,13 @@
           "ru": "Дворник сказал мне, что видел несколько крысиных какашек."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hausbesorger",
+        "Abwart",
+        "Hausbetreuer",
+        "Gebäudewart",
+        "Hauswart"
+      ],
       "antonyms": []
     },
     {
@@ -987,7 +1096,9 @@
           "ru": "В итоге у нас до 70% мусора сортируется и разделяется спустя 20 лет после начала, это самый высокий показатель в мире."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Müllsortierung"
+      ],
       "antonyms": [
         "der Mischmüll"
       ]
@@ -1012,7 +1123,13 @@
           "ru": "Частная компания по переработке отходов ITC каждый день принимает тысячи тонн твердых бытовых отходов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Restschrott",
+        "Restkehricht",
+        "Restabfall",
+        "Restunrat",
+        "Restausschuss"
+      ],
       "antonyms": [
         "der Biomüll",
         "das Altpapier",
@@ -1047,7 +1164,9 @@
           "ru": "Если вы компостируете органические отходы самостоятельно в саду, вам не понадобится контейнер для органических отходов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "organischer Abfall"
+      ],
       "antonyms": [
         "der Restmüll"
       ]
@@ -1080,7 +1199,11 @@
           "ru": "Знаете, думаю сегодня это будет у всех на слуху, а завтра все уже забудут об этом, да?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Papierabfälle",
+        "Makulatur",
+        "Papierabfall"
+      ],
       "antonyms": [
         "der Restmüll"
       ]
@@ -1113,7 +1236,9 @@
           "ru": "Желтый пакет предназначен для сбора упаковки из металла, композитных материалов, пластика и пенопласта."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gelber Sack (für Plastik und Verpackung)"
+      ],
       "antonyms": [
         "der Restmüll"
       ]
@@ -1146,7 +1271,9 @@
           "ru": "Как правило, новая бутылка всегда изготавливается из кусочка старого стекла того же цвета и вновь приготовленной расплава."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "leere Glasbehälter"
+      ],
       "antonyms": [
         "der Restmüll"
       ]
@@ -1179,7 +1306,13 @@
           "ru": "У природы были такие красивые краски,... и не было слышно никакого шума."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rabatz",
+        "Getöse",
+        "Trara",
+        "Gerumse",
+        "Radau"
+      ],
       "antonyms": [
         "die Stille",
         "die Ruhe"
@@ -1213,7 +1346,9 @@
           "ru": "Вандализм, хулиганство, распитие алкоголя."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lärmbelästigung"
+      ],
       "antonyms": [
         "die Einhaltung der Ruhezeit"
       ]
@@ -1246,7 +1381,9 @@
           "ru": "Просто получаешь справку до обеда, после того, как подготовился к Закону Божьему и написал письмо домой до тихого часа перевесил свою куртку на нижний крючок, встретил посетителей и сообщил мистеру Вайни, что пропуск тебе подписали."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ruhige Zeit (Mittagspause)"
+      ],
       "antonyms": []
     },
     {
@@ -1277,7 +1414,13 @@
           "ru": "В поисках пищи или для ночного покоя нередко несколько групп объединяются в одну большую группу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schlaf",
+        "Schlummer",
+        "Schönheitsschlaf (ugs.",
+        "Zapfenstreich",
+        "Schlafenszeit"
+      ],
       "antonyms": [
         "der Nachtlärm"
       ]
@@ -1310,7 +1453,13 @@
           "ru": "Странно, что ты ещё до сих пор не пометил своих питомцев."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hausfauna",
+        "Hausgetier",
+        "Haustierwelt",
+        "Haustierreich",
+        "Hausanimalia"
+      ],
       "antonyms": [
         "die Wildtiere"
       ]
@@ -1343,7 +1492,9 @@
           "ru": "Достаточно сказать, что описана не самая приятная картина устойчивого фермерства."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Haustiere halten"
+      ],
       "antonyms": [
         "das Tierhaltungsverbot"
       ]
@@ -1376,7 +1527,13 @@
           "ru": "Бюро закрыто, она открывает его при помощи своего ключа."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geheimzeichen",
+        "Identifikationsnummer",
+        "Identifizierungszeichen",
+        "ID",
+        "Identifikator"
+      ],
       "antonyms": []
     },
     {
@@ -1399,7 +1556,13 @@
           "ru": "Пожалуйста, оставьте ключ от квартиры у соседа на случай, если мастер придет во время нашего отсутствия."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wohnungsgeheimzeichen",
+        "Wohnungsidentifikationsnummer",
+        "Wohnungsidentifizierungszeichen",
+        "Wohnungsid",
+        "Wohnungsidentifikator"
+      ],
       "antonyms": []
     },
     {
@@ -1430,7 +1593,9 @@
           "ru": "Можно, я оставлю себе хотя бы ключи от дома?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hausschlüssel"
+      ],
       "antonyms": []
     },
     {
@@ -1466,7 +1631,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aushändigung",
+        "Überreichung",
+        "Ablieferung",
+        "Einlieferung"
+      ],
       "antonyms": [
         "die Übernahme, die Übernahmen"
       ]
@@ -1499,7 +1669,9 @@
           "ru": "Арендатор может нести ответственность за ущерб после выселения только в том случае, если он отмечен в протоколе приема-передачи."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wohnungsabnahmebescheinigung"
+      ],
       "antonyms": []
     },
     {
@@ -1530,7 +1702,13 @@
           "ru": "Твоя нехватка дисциплины, твое уничтожение собственности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fehlen",
+        "Knappheit",
+        "Unterversorgung",
+        "Seltenheit",
+        "fehlender Nachschub"
+      ],
       "antonyms": [
         "die Fülle, (nur Sg.)",
         "der Überschuss, die Überschüsse",
@@ -1557,7 +1735,9 @@
           "ru": "Наш юридический отдел в настоящее время проверяет претензию клиента касательно дефектов программного обеспечения."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Reklamation/Mängelanzeige"
+      ],
       "antonyms": []
     },
     {
@@ -1588,7 +1768,13 @@
           "ru": "Мам, я думал, ты собиралась чинить крышу прошлым летом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Reparatur vornehmen",
+        "Mangel beseitigen",
+        "hinkriegen",
+        "Mangel beheben",
+        "hinbekommen"
+      ],
       "partizip_2": "repariert",
       "imperative": "repariere! / repariert! / reparieren Sie!",
       "conjugations": {
@@ -1633,7 +1819,13 @@
           "ru": "Наверное, она имела в виду, что нужно вообразить починку."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fehlerbeseitigung",
+        "Nachbesserung",
+        "Mängelbeseitigung",
+        "Fehlerbehebung",
+        "Instandsetzung"
+      ],
       "antonyms": [
         "die Beschädigung",
         "die Zerstörung"
@@ -1667,7 +1859,10 @@
           "ru": "Я ожидаю мастера, который должен в моём доме постелить ковролин."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Handarbeiter",
+        "Büezer"
+      ],
       "antonyms": [
         "der Laie",
         "der Heimwerker"
@@ -1701,7 +1896,13 @@
           "ru": "Последняя реставрация здания производилась в 2002 году."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aktualisierung",
+        "Erneuerung",
+        "Aufarbeitung",
+        "Ajourierung",
+        "Modernisierung"
+      ],
       "antonyms": [
         "der Verfall",
         "die Verwahrlosung"
@@ -1735,7 +1936,13 @@
           "ru": "Они мне нужны были, чтобы отремонтировать дом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "aufarbeiten",
+        "sanieren",
+        "erneuern",
+        "aufmöbeln",
+        "herrichten"
+      ],
       "partizip_2": "renoviert",
       "imperative": "renoviere! / renoviert! / renovieren Sie!",
       "conjugations": {
@@ -1779,7 +1986,11 @@
           "ru": "В какой-то причудливой квартире с придурковатым соседом?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kommune",
+        "Wohngemeinschaft",
+        "Wohngruppe"
+      ],
       "antonyms": [
         "die Einzelwohnung"
       ]
@@ -1812,7 +2023,11 @@
           "ru": "И я не просто сосед по квартире."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wohngemeinschaftskollege",
+        "WG-Kollege",
+        "Hausgenosse"
+      ],
       "antonyms": [
         "der Einzelmieter"
       ]
@@ -1845,7 +2060,13 @@
           "ru": "Он даже не помнит, что заходил в ее палату."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gemach (geh.",
+        "Kabuff (ugs.",
+        "Bude",
+        "Loch (ugs.",
+        "Stube"
+      ],
       "antonyms": []
     },
     {
@@ -1868,7 +2089,10 @@
           "ru": "А рядом со сфинксами большая оборудованная кухня"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Küchenzeile",
+        "Küchenfront (fachspr."
+      ],
       "antonyms": []
     },
     {
@@ -1899,7 +2123,13 @@
           "ru": "Ладно, можешь бежать в наш туалет."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Heilquelle",
+        "Heilbad",
+        "Badeort",
+        "Kurbad",
+        "Badi"
+      ],
       "antonyms": []
     },
     {
@@ -1930,7 +2160,10 @@
           "ru": "Внимание, там два стрелка на балконе, мне их не снять."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Loggia",
+        "Galerie"
+      ],
       "antonyms": []
     },
     {
@@ -1961,7 +2194,10 @@
           "ru": "Ну я запишу тебя на работу в патио."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Veranda",
+        "Beischlag"
+      ],
       "antonyms": []
     },
     {
@@ -1992,7 +2228,13 @@
           "ru": "Нам сказали, что они прибежали из соседнего затопленного подвала."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Untergeschoss",
+        "Kellergeschoss",
+        "Stapelspeicher",
+        "Kellerspeicher",
+        "Stack (fachspr."
+      ],
       "antonyms": [
         "der Dachboden"
       ]
@@ -2025,7 +2267,13 @@
           "ru": "Я буду на ногах всю ночь, копаясь на чердаке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dachkammer",
+        "Unterdach (ugs.",
+        "Speicher",
+        "Balken (ugs.",
+        "Bühne (ugs."
+      ],
       "antonyms": [
         "der Keller"
       ]
@@ -2058,7 +2306,12 @@
           "ru": "Она была на его парковке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einstellplatz",
+        "Parkbox",
+        "Parkplatz",
+        "Abstellplatz"
+      ],
       "antonyms": []
     },
     {
@@ -2089,7 +2342,13 @@
           "ru": "А ну, да, в этой пустой комнате над гаражом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Garagenrock",
+        "Garage Rock",
+        "Garage Punk",
+        "Sixties Punk",
+        "Einstellraum"
+      ],
       "antonyms": []
     },
     {
@@ -2120,7 +2379,9 @@
           "ru": "И, воля, зеркала в ваш разум может отражают лучшие из себя, не самое худшее кого-то другого."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Amtlicher Mietspiegel"
+      ],
       "antonyms": []
     },
     {
@@ -2151,7 +2412,9 @@
           "ru": "минимальная заработная плата, регулирование, пенсии и контроль арендной платы"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mieterschutz"
+      ],
       "antonyms": []
     },
     {
@@ -2182,7 +2445,9 @@
           "ru": "Клиент прибывает самостоятельно непосредственно на объект размещения и обязан принять услугу размещения до 10 часов второго дня бронирования. В противном случае хозяин жилья имеет право предложить указанную услугу третьим лицам."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wohnbereich"
+      ],
       "antonyms": []
     },
     {
@@ -2213,7 +2478,11 @@
           "ru": "И сколько квадратных футов?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "qm (Einheitenzeichen",
+        "m²",
+        "Geviertmeter"
+      ],
       "antonyms": []
     },
     {
@@ -2244,7 +2513,9 @@
           "ru": "Как только пройдут ужасающие счета за коммунальные услуги, электричество снова станет дороже!"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stromrechnung"
+      ],
       "antonyms": []
     },
     {
@@ -2275,7 +2546,13 @@
           "ru": "Можете считать, что между нами ничего не произошло."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rekompensation",
+        "Reparation",
+        "Wiedergutmachung",
+        "Belohnung",
+        "Entschädigung"
+      ],
       "antonyms": [
         "die Rückerstattung",
         "das Guthaben"
@@ -2309,7 +2586,13 @@
           "ru": "Я никогда не получу свой аванс"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vermögen",
+        "Erspartes",
+        "Wohlstand",
+        "Reichtum",
+        "Gutschrift"
+      ],
       "antonyms": [
         "die Schuld, die Schulden",
         "das Soll, (nur Sg.)",
@@ -2344,7 +2627,13 @@
           "ru": "Я пересмотрел тарифы, и увеличил ренту в следующем месяце."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mietemporheben",
+        "Mietanstieg",
+        "Mietzuwachs",
+        "Mietsteigerung",
+        "Mietzunahme"
+      ],
       "antonyms": [
         "die Mietminderung",
         "die Mietsenkung"
@@ -2374,7 +2663,9 @@
           "ru": "Если Фэнти и Минго правы насчет платежной ведомости... это был бы для нас солнечный день."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wohngeld/Mietzuschuss"
+      ],
       "antonyms": []
     },
     {
@@ -2405,7 +2696,9 @@
           "ru": "Остается только оформить жилищные пособия и жилищные сертификаты."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "WBS"
+      ],
       "antonyms": []
     },
     {
@@ -2436,7 +2729,9 @@
           "ru": "У меня квартира в 8 секции."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sozialer Wohnungsbau"
+      ],
       "antonyms": [
         "die Luxuswohnung"
       ]
@@ -2469,7 +2764,10 @@
           "ru": "Членам-пайщикам кооператива предоставлялось право пользоваться жилой площадью на протяжении 35 лет без каких-либо ограничений."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kooperative",
+        "Sozietät"
+      ],
       "antonyms": []
     },
     {
@@ -2500,7 +2798,13 @@
           "ru": "Заявителем является тот же застройщик, что и для покупного дома, небольшого поддерживаемого жилого комплекса, покупной квартиры и кооперативной квартиры."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Genossenschaftsobdach",
+        "Genossenschaftsklause",
+        "Genossenschaftsbude",
+        "Genossenschaftsunterkunft",
+        "Genossenschaftsdreckbude"
+      ],
       "antonyms": [
         "die Eigentumswohnung"
       ]
@@ -2533,7 +2837,13 @@
           "ru": "Бунчук, в вас заговорил собственник."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Inh.",
+        "Träger",
+        "Besitzer",
+        "Inhaber",
+        "Eigner"
+      ],
       "antonyms": [
         "der Mieter"
       ]
@@ -2566,7 +2876,9 @@
           "ru": "Они убедили сообщество владельцев, что дом необходимо сохранить."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wohnungseigentümergemeinschaft (HOA)"
+      ],
       "antonyms": []
     },
     {
@@ -2597,7 +2909,13 @@
           "ru": "Они также могут надеяться на жилищную программу, которая, наконец, разберется с ипотечным кризисом в Америке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wohnhabseligkeiten",
+        "Wohnbesitzstand",
+        "Wohnbesitz",
+        "Wohnbesitzung",
+        "Wohnsiebensachen"
+      ],
       "antonyms": [
         "die Mietwohnung"
       ]
@@ -2630,7 +2948,9 @@
           "ru": "Купи ей квартиру, чтобы она съехала."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "privatisierte Wohnung"
+      ],
       "antonyms": [
         "die Mietwohnung"
       ]
@@ -2663,7 +2983,9 @@
           "ru": "Робин, риелтор отдаст её тому, кто больше заплатит."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vermittler"
+      ],
       "antonyms": []
     },
     {
@@ -2686,7 +3008,13 @@
           "ru": "И он также заплатил комиссию, так?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Courtage",
+        "Maklerprovision",
+        "Aufschlag",
+        "Vermittlungsgebühr",
+        "Provision"
+      ],
       "antonyms": []
     },
     {
@@ -2717,7 +3045,13 @@
           "ru": "Я ездила в Ашрам. В тур."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lokaltermin",
+        "Lokalaugenschein",
+        "Musterung",
+        "Durchsicht",
+        "Checkup"
+      ],
       "antonyms": []
     },
     {
@@ -2748,7 +3082,13 @@
           "ru": "И сколько памятников вы собираетесь осмотреть за ночь?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sich ansehen",
+        "sich anschauen",
+        "besuchen",
+        "untersuchen",
+        "begutachten"
+      ],
       "partizip_2": "besichtigt",
       "imperative": "besichtige! / besichtigt! / besichtigen Sie!",
       "conjugations": {
@@ -2786,7 +3126,9 @@
           "ru": "Я говорила с риелтором и она думает что мы можем"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeit"
+      ],
       "antonyms": []
     },
     {
@@ -2817,7 +3159,9 @@
           "ru": "Он не раз раскрывает себя один раз, а снова и снова."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Eigenauskunft"
+      ],
       "antonyms": []
     },
     {
@@ -2840,7 +3184,9 @@
           "ru": "Негативная запись в кредитной истории SCHUFA может значительно усложнить поиск квартиры."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditauskunft"
+      ],
       "antonyms": []
     },
     {
@@ -2871,7 +3217,13 @@
           "ru": "Это расчётные листы Харви, и я почему-то нашла их в ксероксе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einkommensbestätigung",
+        "Einkommensanerkennung",
+        "Einkommensbeglaubigung",
+        "Einkommenszertifikat",
+        "Einkommenstestat"
+      ],
       "antonyms": []
     },
     {
@@ -2902,7 +3254,12 @@
           "ru": "Да, Преподобный Мэсси поручился за нас в Святой Миссии."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sicherheitsgeber",
+        "Gewährsperson",
+        "Garant",
+        "Gewährsmann"
+      ],
       "antonyms": [
         "der Schuldner"
       ]
@@ -2935,7 +3292,9 @@
           "ru": "Ты позволил ему решить, что он может рисковать, не только этим проектом, но и всем, что у него есть, под личную гарантию."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sicherheit"
+      ],
       "antonyms": []
     },
     {
@@ -2966,7 +3325,13 @@
           "ru": "Ну, Вы не получите Ваш страховой депозит обратно."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mietpfand",
+        "Miethinterlegung",
+        "Mietversatzstück",
+        "Mieteinsatz",
+        "Mietdepot"
+      ],
       "antonyms": []
     },
     {
@@ -2997,7 +3362,10 @@
           "ru": "Арендодатель должен вложить депозит на депозитный счет отдельно от других своих активов - с обычной процентной ставкой для сберегательных депозитов с периодом уведомления в три месяца."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einlagenkonto",
+        "Sicherheitenbankkonto"
+      ],
       "antonyms": []
     },
     {
@@ -3030,7 +3398,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kaution"
+      ],
       "antonyms": []
     },
     {
@@ -3063,7 +3433,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kommune",
+        "WG",
+        "Wohngruppe"
+      ],
       "antonyms": []
     },
     {
@@ -3096,7 +3470,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zweckmäßige Wohngemeinschaft"
+      ],
       "antonyms": []
     },
     {
@@ -3129,7 +3505,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geteiltes Zimmer",
+        "Gemeinschaftsraum"
+      ],
       "antonyms": []
     },
     {
@@ -3162,7 +3541,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wohnungsverwaltung",
+        "Mietverwaltung"
+      ],
       "antonyms": []
     },
     {
@@ -3195,7 +3577,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Immobilienverwalter"
+      ],
       "antonyms": []
     },
     {
@@ -3228,7 +3612,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Immobilienverwalter"
+      ],
       "antonyms": []
     },
     {
@@ -3261,7 +3647,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Miete",
+        "Pacht"
+      ],
       "antonyms": []
     },
     {
@@ -3294,7 +3683,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nettomiete"
+      ],
       "antonyms": []
     },
     {
@@ -3327,7 +3718,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bruttomiete"
+      ],
       "antonyms": []
     },
     {
@@ -3360,7 +3753,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nebenkostenvorauskasse",
+        "Nebenkostenvorausbezahlung",
+        "Nebenkostenvorkasse",
+        "Nebenkostenvorschuss",
+        "Nebenkostenabschlag"
+      ],
       "antonyms": []
     },
     {
@@ -3393,7 +3792,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wasserpunkt"
+      ],
       "antonyms": []
     },
     {
@@ -3426,7 +3827,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gasmesser",
+        "Gasuhr"
+      ],
       "antonyms": []
     },
     {
@@ -3459,7 +3863,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Heizkostenspender",
+        "Heizkostenabroller",
+        "Heizkostenausteiler",
+        "Heizkostenzuteiler",
+        "Heizkostenverteilerliste"
+      ],
       "antonyms": []
     },
     {
@@ -3492,7 +3902,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Heizsystem"
+      ],
       "antonyms": []
     },
     {
@@ -3525,7 +3937,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Warmwasserzufuhr",
+        "Warmwasseranlieferung",
+        "Warmwasseralimente",
+        "Warmwasserziehgeld",
+        "Warmwasserunterhalt"
+      ],
       "antonyms": []
     },
     {
@@ -3558,7 +3976,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Speichererhitzer",
+        "Warmwasserspeicher",
+        "Heißwasserspeicher"
+      ],
       "antonyms": []
     },
     {
@@ -3591,7 +4013,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geyser (fachspr."
+      ],
       "antonyms": []
     },
     {
@@ -3624,7 +4048,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wasserfleck",
+        "Feuchtetransport",
+        "Durchfeuchtung",
+        "Feuchteschaden",
+        "Wassereinbruch"
+      ],
       "antonyms": []
     },
     {
@@ -3657,7 +4087,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rohrfraktur",
+        "Rohrknochenbruch",
+        "Rohreingeweidebruch",
+        "Rohrhernie",
+        "Rohrbruchteil"
+      ],
       "antonyms": []
     },
     {
@@ -3690,7 +4126,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schimmel",
+        "Bilden"
+      ],
       "antonyms": []
     },
     {
@@ -3723,7 +4162,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schimmelbechose",
+        "Schimmelbeding",
+        "Schimmelbesache",
+        "Schimmelbecausa",
+        "Schimmelbesachverhalt"
+      ],
       "antonyms": []
     },
     {
@@ -3756,7 +4201,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Luftzufuhr",
+        "Lüftung",
+        "Ventilierung",
+        "Entlüftung",
+        "Ventilation"
+      ],
       "antonyms": []
     },
     {
@@ -3789,7 +4240,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lüftungszögerlich",
+        "Lüftungsunentschlossen",
+        "Lüftungsschüchtern",
+        "Lüftungshalbherzig",
+        "Lüftungsunentschieden"
+      ],
       "antonyms": []
     },
     {
@@ -3822,7 +4279,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stoßbelüftung"
+      ],
       "antonyms": []
     },
     {
@@ -3855,7 +4314,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stoßbelüftung"
+      ],
       "antonyms": []
     },
     {
@@ -3888,7 +4349,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Flurwoche",
+        "Treppenhausreinigung",
+        "Flurdienst"
+      ],
       "antonyms": []
     },
     {
@@ -3921,7 +4386,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schneeräumen",
+        "Schneefegen"
+      ],
       "antonyms": []
     },
     {
@@ -3954,7 +4422,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schneeevakuierung",
+        "Schneeevakuation"
+      ],
       "antonyms": []
     },
     {
@@ -3987,7 +4458,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Streuservice",
+        "Serviceverteilung"
+      ],
       "antonyms": []
     },
     {
@@ -4020,7 +4494,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abfalleimer",
+        "Mistkübel (ugs.",
+        "Mülltonne",
+        "Abfallbehälter",
+        "Abfallkorb"
+      ],
       "antonyms": []
     },
     {
@@ -4053,7 +4533,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bio-Mülleimer"
+      ],
       "antonyms": []
     },
     {
@@ -4086,7 +4568,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Papierkorb"
+      ],
       "antonyms": []
     },
     {
@@ -4119,7 +4603,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Restabfalleimer",
+        "Restabfallbehälter",
+        "Restabfallkorb",
+        "Restabfalltonne",
+        "Restmülleimer"
+      ],
       "antonyms": []
     },
     {
@@ -4152,7 +4642,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Recyclingbeutel"
+      ],
       "antonyms": []
     },
     {
@@ -4185,7 +4677,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sperrmüll-Anmeldung"
+      ],
       "antonyms": []
     },
     {
@@ -4218,7 +4712,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Müllabgaben",
+        "Müllsteuern"
+      ],
       "antonyms": []
     },
     {
@@ -4251,7 +4748,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hauseingang",
+        "Eingangstür",
+        "Eingang"
+      ],
       "antonyms": []
     },
     {
@@ -4284,7 +4785,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hausflur (bundesdeutsch",
+        "Stiegenhaus",
+        "Flur",
+        "Treppenflur (bundesdeutsch",
+        "Ern (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -4317,7 +4824,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geschoss",
+        "Geschoß",
+        "Etage",
+        "Stockwerk",
+        "Stock"
+      ],
       "antonyms": []
     },
     {
@@ -4350,7 +4863,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Keller"
+      ],
       "antonyms": []
     },
     {
@@ -4383,7 +4898,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kellerabteilung"
+      ],
       "antonyms": []
     },
     {
@@ -4416,7 +4933,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausgebautes Dachgeschoss",
+        "ausgebauter Dachboden",
+        "Bodenkammer",
+        "Dachkammer",
+        "Oberstübchen"
+      ],
       "antonyms": []
     },
     {
@@ -4449,7 +4972,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mieterhöhung"
+      ],
       "antonyms": []
     },
     {
@@ -4482,7 +5007,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Eigenbedarfsabsetzung",
+        "Eigenbedarfsentlassung",
+        "Eigenbedarfsausscheiden",
+        "Eigenbedarfsvertragsauflösung",
+        "Eigenbedarfsdemission"
+      ],
       "antonyms": []
     },
     {
@@ -4515,7 +5046,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Untermietvertrag"
+      ],
       "antonyms": []
     },
     {
@@ -4548,7 +5081,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hausgemeinschaftsregelmäßigkeit",
+        "Hausgemeinschaftsanordnung",
+        "Hausgemeinschaftsbewertung",
+        "Hausgemeinschaftspriorisierung",
+        "Hausgemeinschaftsordo"
+      ],
       "antonyms": []
     },
     {
@@ -4581,7 +5120,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tiefgarageneinstellplatz",
+        "Tiefgaragenparkbox",
+        "Tiefgaragenparkplatz",
+        "Tiefgaragenabstellplatz"
+      ],
       "antonyms": []
     },
     {
@@ -4614,7 +5158,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zufahrt",
+        "Zugang",
+        "Eintritt",
+        "Eingang",
+        "Auffahrt"
+      ],
       "antonyms": []
     },
     {
@@ -4647,7 +5197,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Atrium",
+        "Kreuzgang",
+        "Lichthof",
+        "Hof",
+        "Patio"
+      ],
       "antonyms": []
     },
     {
@@ -4680,7 +5236,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kinderspielplatz"
+      ],
       "antonyms": []
     },
     {
@@ -4713,7 +5271,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rasen",
+        "Bleiche (regional",
+        "Rasenfläche",
+        "Weide",
+        "Grün"
+      ],
       "antonyms": []
     },
     {
@@ -4746,7 +5310,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nachbarschaftszwist",
+        "Nachbarschaftsknatsch",
+        "Nachbarschaftszwistigkeit",
+        "Nachbarschaftshader",
+        "Nachbarschaftszank"
+      ],
       "antonyms": []
     },
     {
@@ -4779,7 +5349,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unruhe",
+        "Lärm",
+        "Lärmteppich",
+        "Geräuschpegel",
+        "Geräuschteppich"
+      ],
       "antonyms": []
     },
     {
@@ -4812,7 +5388,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Raumvolumen"
+      ],
       "antonyms": []
     },
     {
@@ -4845,7 +5423,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "leasen",
+        "pachten",
+        "mieten"
+      ],
       "antonyms": []
     },
     {
@@ -4878,7 +5460,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "untervermieten",
+        "verchartern",
+        "überlassen",
+        "verpachten"
+      ],
       "antonyms": []
     },
     {
@@ -4911,7 +5498,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verchartern",
+        "vermieten",
+        "überlassen",
+        "verpachten"
+      ],
       "antonyms": []
     },
     {
@@ -4944,7 +5536,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "enthüllen",
+        "ausplaudern",
+        "stecken",
+        "auspacken (ugs.",
+        "durchstechen"
+      ],
       "antonyms": []
     },
     {
@@ -4977,7 +5575,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "erhitzen",
+        "heiß machen",
+        "erwärmen",
+        "jagen",
+        "schießen"
+      ],
       "antonyms": []
     },
     {
@@ -5010,7 +5614,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tapete"
+      ],
       "antonyms": []
     },
     {
@@ -5043,7 +5649,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "flickschustern",
+        "nachbessern",
+        "notdürftig reparieren",
+        "zurechtmachen",
+        "kitten"
+      ],
       "antonyms": []
     },
     {
@@ -5076,7 +5688,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einziehen",
+        "überfahren"
+      ],
       "antonyms": []
     },
     {
@@ -5109,7 +5724,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verlagern",
+        "auslagern",
+        "ausräumen",
+        "migrieren",
+        "evakuieren (Wohnviertel"
+      ],
       "antonyms": []
     },
     {
@@ -5142,7 +5763,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "topikal (griechisch",
+        "...bezogen sein",
+        "betreffen",
+        "einziehen",
+        "zuteil werden"
+      ],
       "antonyms": []
     },
     {
@@ -5175,7 +5802,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abheben von"
+      ],
       "antonyms": []
     },
     {
@@ -5208,7 +5837,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "umziehen"
+      ],
       "antonyms": []
     },
     {
@@ -5241,7 +5872,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abwischen",
+        "entstauben",
+        "abstauben",
+        "wegwischen",
+        "purifizieren"
+      ],
       "antonyms": []
     },
     {
@@ -5274,7 +5911,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "durchfegen",
+        "ausfegen",
+        "fegen",
+        "abfegen",
+        "Führung übernehmen"
+      ],
       "antonyms": []
     },
     {
@@ -5307,7 +5950,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einschneiden",
+        "einfeilen",
+        "einkerben",
+        "zerteilen",
+        "kerben"
+      ],
       "antonyms": []
     },
     {
@@ -5340,7 +5989,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "eingerichtet"
+      ],
       "antonyms": []
     },
     {
@@ -5373,7 +6024,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "teilweise möbliert"
+      ],
       "antonyms": []
     },
     {
@@ -5406,7 +6059,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nicht eingerichtet",
+        "uneingerichtet"
+      ],
       "antonyms": []
     },
     {
@@ -5439,7 +6095,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "anstellig",
+        "gelehrsam",
+        "aufgeweckt",
+        "begabt",
+        "gelehrig"
+      ],
       "antonyms": []
     },
     {
@@ -5472,7 +6134,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bequem transportierbar"
+      ],
       "antonyms": []
     },
     {
@@ -5505,7 +6169,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "breit gefächert",
+        "großzügig",
+        "extensiv",
+        "ausgedehnt",
+        "umfassend"
+      ],
       "antonyms": []
     },
     {
@@ -5538,7 +6208,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abgetakelt",
+        "marode",
+        "desolat",
+        "heruntergekommen"
+      ],
       "antonyms": []
     },
     {
@@ -5604,7 +6279,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "feudal",
+        "komfortabel",
+        "edel",
+        "hochwertig",
+        "fein"
+      ],
       "antonyms": []
     },
     {
@@ -5637,7 +6318,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kostenlos"
+      ],
       "antonyms": []
     },
     {
@@ -5670,7 +6353,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sofort beziehbar",
+        "schlüsselfertig"
+      ],
       "antonyms": []
     },
     {
@@ -5703,7 +6389,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "schalldurchlässig",
+        "schlecht schallgedämmt",
+        "nicht schallisoliert",
+        "ringhörig"
+      ],
       "antonyms": []
     },
     {
@@ -5736,7 +6427,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nachbarschaftlich"
+      ],
       "antonyms": []
     },
     {
@@ -5769,7 +6462,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verdungen",
+        "verliehen"
+      ],
       "antonyms": []
     },
     {
@@ -5802,7 +6498,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "renovierungsbedürftig",
+        "schlecht unterhalten",
+        "schlecht instandgehalten",
+        "verwohnt",
+        "reparaturbedürftig"
+      ],
       "antonyms": []
     },
     {
@@ -5835,7 +6537,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gewienert",
+        "gereinigt",
+        "gesäubert",
+        "geputzt",
+        "poliert"
+      ],
       "antonyms": []
     },
     {
@@ -5868,7 +6576,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "rottig (ugs.",
+        "schäbig",
+        "abgeranzt",
+        "abgefuckt (derb",
+        "gammelig"
+      ],
       "antonyms": []
     },
     {
@@ -5934,7 +6648,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hausarzt",
+        "praktizierender Arzt",
+        "praktischer Arzt"
+      ],
       "antonyms": []
     },
     {
@@ -5967,7 +6685,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Allgemeinmediziner",
+        "Hausarzt"
+      ],
       "antonyms": []
     },
     {
@@ -6000,7 +6721,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pädiater"
+      ],
       "antonyms": []
     }
   ]

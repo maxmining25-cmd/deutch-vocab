@@ -29,7 +29,13 @@
           "ru": "Когда у него закончилась наличка, я попросил его уйти."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bares",
+        "Cash (ugs.",
+        "Barvermögen",
+        "Barschaft",
+        "alles Bargeld"
+      ],
       "antonyms": [
         "das Buchgeld, (nur Sg.)",
         "das Giralgeld, (nur Sg.)"
@@ -63,7 +69,13 @@
           "ru": "Япония пытается скупить чосонские товары за свою валюту."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Valuta",
+        "Kapital",
+        "Zahlungsmittel",
+        "finanzielle Mittel",
+        "Geld"
+      ],
       "antonyms": []
     },
     {
@@ -94,7 +106,13 @@
           "ru": "Вот в чем секрет, получить упомянутые увеличить свои доходы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gratifikation",
+        "Aufwandsentschädigung",
+        "Entlöhnung",
+        "Salär",
+        "Honorar"
+      ],
       "antonyms": [
         "die Ausgabe, die Ausgaben"
       ]
@@ -127,7 +145,13 @@
           "ru": "Ну, просто на ближайший номер уже к сожалению все сверстано..."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Version",
+        "Fassung",
+        "Interpretation",
+        "Kapitalaufwand",
+        "Spesen"
+      ],
       "antonyms": [
         "die Einnahme, die Einnahmen"
       ]
@@ -160,7 +184,10 @@
           "ru": "У него может быть кардиомиопатия из-за употребления мета."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umsatz/Einkommen",
+        "Einkommen (Einnahmen/Einnahmen)"
+      ],
       "antonyms": [
         "die Ausgabe, die Ausgaben"
       ]
@@ -228,7 +255,13 @@
           "ru": "Валютная политика не может сделать безопасное богатство в будущем более ценным."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Guthaben",
+        "Erspartes",
+        "Wohlstand",
+        "Reichtum",
+        "Habseligkeiten"
+      ],
       "antonyms": [
         "die Schulden, (nur Pl.)"
       ]
@@ -261,7 +294,13 @@
           "ru": "Я хочу создать фонд для покупки книг в детские библиотеки."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Währung",
+        "Valuta",
+        "Zahlungsmittel",
+        "finanzielle Mittel",
+        "Geld"
+      ],
       "antonyms": [
         "die Schulden, (nur Pl.)"
       ]
@@ -329,7 +368,13 @@
           "ru": "Я возьму свой гонорар и ухожу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unkostenbeitrag",
+        "Kostenbeitrag",
+        "Preis",
+        "Taxe",
+        "Abgabe"
+      ],
       "antonyms": []
     },
     {
@@ -360,7 +405,13 @@
           "ru": "Я никогда не получу свой аванс"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vermögen",
+        "Erspartes",
+        "Wohlstand",
+        "Reichtum",
+        "Gutschrift"
+      ],
       "antonyms": [
         "die Schuld, die Schulden",
         "das Soll, (nur Sg.)",
@@ -395,7 +446,13 @@
           "ru": "Это не было вашей виной, вы всё сделали правильно."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anlass",
+        "Grund",
+        "Ursache",
+        "verantwortlich",
+        "haftbar  (fachspr."
+      ],
       "antonyms": [
         "das Guthaben, die Guthaben",
         "die Forderung, die Forderungen"
@@ -429,7 +486,13 @@
           "ru": "Я должна была отключить систему жизнеобеспечения, чтобы сохранить энергию."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "knapsen",
+        "geizen",
+        "knausern",
+        "sparsam umgehen",
+        "sparsam leben"
+      ],
       "partizip_2": "gespart",
       "imperative": "spare! / spart! / sparen Sie!",
       "conjugations": {
@@ -477,7 +540,13 @@
           "ru": "Знаете, я готов даже завтраком вас угостить."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "liefern",
+        "aushändigen",
+        "ausrüsten",
+        "verteilen",
+        "zuteilen"
+      ],
       "partizip_2": "ausgegebt",
       "imperative": "gebe aus! / gebt aus! / geben Sie aus!",
       "conjugations": {
@@ -522,7 +591,10 @@
           "ru": "Я бы хотела заработать их честно и вложить в хорошее дело."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "wert sein",
+        "Geld verdienen"
+      ],
       "partizip_2": "verdient",
       "imperative": "verdiene! / verdient! / verdienen Sie!",
       "conjugations": {
@@ -564,7 +636,13 @@
           "ru": "Он играл на пианино в ночных клубах, чтобы оплатить учёбу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "dotieren",
+        "zuwenden",
+        "stiften",
+        "sponsern (ugs.",
+        "ausstatten"
+      ],
       "partizip_2": "finanziert",
       "imperative": "finanziere! / finanziert! / finanzieren Sie!",
       "conjugations": {
@@ -606,7 +684,10 @@
           "ru": "Никакая «трансформация», «партнерства» или что-либо иное не имеют значения, если НАТО, впервые в истории, потерпит неудачу - пусть даже и не по своей вине."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Konto überziehen",
+        "Schulden machen"
+      ],
       "partizip_2": "verschuldet",
       "imperative": "verschulde! / verschuldet! / verschulden Sie!",
       "conjugations": {
@@ -650,7 +731,13 @@
           "ru": "Вы можете играть в любом казино игры бесплатно до месторождения."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gebührenfrei",
+        "umsonst",
+        "vergütungsfrei",
+        "kostenfrei",
+        "für umme"
+      ],
       "antonyms": [
         "kostenpflichtig",
         "teuer",
@@ -685,7 +772,13 @@
           "ru": "Она слишком дорогая, и я не так сильно хочу её."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gesalzen (Preis",
+        "kostenträchtig",
+        "kostspielig",
+        "kostenintensiv",
+        "kostenaufwendig"
+      ],
       "antonyms": [
         "billig",
         "günstig",
@@ -720,7 +813,13 @@
           "ru": "Новая эра может оказаться не столь благоприятной для политического либерализма."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nutzwertig",
+        "von Nutzen",
+        "gewinnbringend",
+        "sachdienlich (fachspr.",
+        "vorteilhaft"
+      ],
       "antonyms": [
         "ungünstig",
         "teuer"
@@ -754,7 +853,13 @@
           "ru": "Он знает, что я могу быть ему полезен."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "köstlich",
+        "erlesen",
+        "prachtvoll",
+        "kostbar",
+        "unübertrefflich"
+      ],
       "antonyms": [
         "wertlos",
         "nutzlos"
@@ -788,7 +893,13 @@
           "ru": "Ты ведь понимаешь, что теперь это бесполезно."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "müßig",
+        "unnötig",
+        "entbehrenswert",
+        "nutzlos",
+        "überflüssig"
+      ],
       "antonyms": [
         "wertvoll",
         "kostbar"
@@ -822,7 +933,11 @@
           "ru": "Цена на золото также снижается в условиях фактической и ожидаемой инфляции."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "unkontrollierte Vermehrung",
+        "Überhandnehmen",
+        "übermäßiger Gebrauch"
+      ],
       "antonyms": [
         "die Deflation, die Deflationen"
       ]
@@ -855,7 +970,11 @@
           "ru": "Четыре года дефляции и продолжительный банковский кризис предоставляют мало возможностей для стимулирования экономики."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Preisrückgang",
+        "Preisverfall",
+        "Sandflucht"
+      ],
       "antonyms": [
         "die Inflation, die Inflationen"
       ]
@@ -888,7 +1007,13 @@
           "ru": "Я беру твои грязные деньги и добавляю в чистый денежный оборот этого салона."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapitalstrom",
+        "Kapitalfluss",
+        "Kassenfluss",
+        "Finanzfluss",
+        "Kapitalbewegung"
+      ],
       "antonyms": []
     },
     {
@@ -919,7 +1044,9 @@
           "ru": "Может, стоит урезать его содержание."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sackgeld"
+      ],
       "antonyms": []
     },
     {
@@ -950,7 +1077,10 @@
           "ru": "В то же время, курс евро - это механизм, посредством которого нынешняя политика может еще что-то изменить - не может быть брошен вниз еще дальше."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Devisenkurs",
+        "Kurs"
+      ],
       "antonyms": []
     },
     {
@@ -981,7 +1111,13 @@
           "ru": "Он так хорошо играл, что убедил меня поменять телефонную компанию."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "mutieren",
+        "ändern",
+        "drehen",
+        "wandeln",
+        "verändern"
+      ],
       "partizip_2": "gewechselt",
       "imperative": "wechsele! / wechselt! / wechseln Sie!",
       "conjugations": {
@@ -1028,7 +1164,10 @@
           "ru": "Я попросил её перевести больше, чтобы у нас у всех было немного денег."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "remittieren (fachspr.",
+        "Überweisung tätigen"
+      ],
       "partizip_2": "überweist",
       "imperative": "überweise! / überweist! / überweisen Sie!",
       "conjugations": {
@@ -1074,7 +1213,13 @@
           "ru": "Но позже мы получили денежный перевод на 10 тысяч долларов - по настоящему хороший парень."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldsendung",
+        "Geldüberweisung",
+        "Geldanweisung",
+        "Abwälzung",
+        "Delegierung"
+      ],
       "antonyms": [
         "die Lastschrift, die Lastschriften",
         "die Abbuchung, die Abbuchungen"
@@ -1108,7 +1253,13 @@
           "ru": "Когда клиентам нужно заплатить наличными, он помогает провернуть... дела."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schenke",
+        "Pub",
+        "Gaststätte",
+        "Tränke",
+        "Kneipe"
+      ],
       "antonyms": [
         "bargeldlos",
         "unbar"
@@ -1138,7 +1289,11 @@
           "ru": "Наличные деньги давно отменили."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ohne Bargeld",
+        "per Überweisung",
+        "unbar"
+      ],
       "antonyms": [
         "bar"
       ]
@@ -1171,7 +1326,9 @@
           "ru": "Это не может произойти без увеличения заработной платы и покупательской способности у работающих."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldwert"
+      ],
       "antonyms": []
     },
     {
@@ -1202,7 +1359,13 @@
           "ru": "Что такое аванс, и какой его размер?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Summe",
+        "Absolutbetrag",
+        "Menge",
+        "absoluter Wert",
+        "absoluter Betrag"
+      ],
       "antonyms": []
     },
     {
@@ -1233,7 +1396,13 @@
           "ru": "Да, я думаю, эта цифра нас устроит."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesamtmenge",
+        "Betrag",
+        "Absolutbetrag",
+        "Menge",
+        "Palette"
+      ],
       "antonyms": []
     },
     {
@@ -1264,7 +1433,13 @@
           "ru": "Если его арестуют и он заговорит, твоя стоимость пропадёт."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bedeutung",
+        "Wichtigkeit",
+        "Einfluss",
+        "Rang",
+        "Geltung"
+      ],
       "antonyms": []
     },
     {
@@ -1300,7 +1475,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zuträglich sein",
+        "dienlich sein",
+        "förderlich sein",
+        "verhelfen",
+        "einbringen"
+      ],
       "partizip_2": "beigetragen",
       "imperative": "trage bei! / tragt bei! / tragen Sie bei!",
       "conjugations": {
@@ -1344,7 +1525,13 @@
           "ru": "Вкладом со стороны иностранных компаний должны были быть дальнейшие инвестиции."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontingent",
+        "Anteil",
+        "Mitwirkung",
+        "Quote",
+        "Obolus"
+      ],
       "antonyms": []
     },
     {
@@ -1375,7 +1562,13 @@
           "ru": "Не способен предвидеть негативные последствия своих действий."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ermitteln",
+        "rechnen",
+        "berechnen",
+        "bestimmen",
+        "errechnen"
+      ],
       "partizip_2": "kalkuliert",
       "imperative": "kalkuliere! / kalkuliert! / kalkulieren Sie!",
       "conjugations": {
@@ -1417,7 +1610,13 @@
           "ru": "Возвращайтесь к вашей станции и займитесь расчетами."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "arithmetische Operation",
+        "Rechenoperation",
+        "Ansatz",
+        "Voranschlag",
+        "Festsetzung"
+      ],
       "antonyms": []
     },
     {
@@ -1485,7 +1684,13 @@
           "ru": "Это зависит от того, если мы выиграть или проиграть."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abstinken",
+        "besiegt werden",
+        "Klatsche holen",
+        "Niederlage erleiden",
+        "abkacken"
+      ],
       "partizip_2": "verliert",
       "imperative": "verliere! / verliert! / verlieren Sie!",
       "conjugations": {
@@ -1567,7 +1772,13 @@
           "ru": "Он доказал самому себе, что может выигрывать другие конкурсы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "triumphieren",
+        "obsiegen",
+        "Sieg erringen",
+        "Sieg erlangen",
+        "erster werden"
+      ],
       "partizip_2": "gewinnet",
       "imperative": "gewinne! / gewinnet! / gewinnen Sie!",
       "conjugations": {
@@ -1612,7 +1823,13 @@
           "ru": "Можете позаимствовать мою саблю, если это поможет."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "pumpen",
+        "borgen",
+        "ausleihen",
+        "entlehnen",
+        "ausborgen"
+      ],
       "partizip_2": "geleiht",
       "imperative": "leihe! / leiht! / leihen Sie!",
       "conjugations": {
@@ -1656,7 +1873,11 @@
           "ru": "Это вложения, не пожертвования, не займы, это вложения, которые должны принести динамическую прибыль."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kredit",
+        "Pump",
+        "Darlehn"
+      ],
       "antonyms": []
     },
     {
@@ -1687,7 +1908,11 @@
           "ru": "Каждый оставил значительный вклад в благотворительную организацию."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schenkung",
+        "Geldgeschenk",
+        "Stiftung"
+      ],
       "antonyms": []
     },
     {
@@ -1718,7 +1943,13 @@
           "ru": "Можно было все отдать, но, знаешь..."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "dotieren",
+        "zuwenden",
+        "stiften",
+        "sponsern (ugs.",
+        "finanzieren"
+      ],
       "partizip_2": "gespendet",
       "imperative": "spende! / spendet! / spenden Sie!",
       "conjugations": {
@@ -1766,7 +1997,13 @@
           "ru": "На кону гораздо больше, чем какой-то жалкий грант."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zulage",
+        "Zuschlag",
+        "Prämie",
+        "Unterstützung",
+        "Fördermittel"
+      ],
       "antonyms": []
     },
     {
@@ -1797,7 +2034,13 @@
           "ru": "Учебные материалы могут включать книги, тогда как оборудование может быть закуплено только в том случае, если оно способствует обеспечению мобильности (например, факсимильные аппараты)."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "finanziell beteiligen",
+        "sponsern (ugs.",
+        "unterstützen",
+        "stützen",
+        "stärken"
+      ],
       "partizip_2": "bezuschusst",
       "imperative": "bezuschusse! / bezuschusst! / bezuschussen Sie!",
       "conjugations": {
@@ -1844,7 +2087,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Cache",
+        "Zwischenspeicher",
+        "Datenpuffer",
+        "Zwischenablage",
+        "Cachespeicher"
+      ],
       "antonyms": []
     },
     {
@@ -1875,7 +2124,13 @@
           "ru": "Думаю, у них гораздо больше народу на дороге в резерве."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Speicher",
+        "Redundanz",
+        "Vorrat",
+        "Rücklage",
+        "Repositorium (fachspr."
+      ],
       "antonyms": []
     },
     {
@@ -1906,7 +2161,13 @@
           "ru": "Это пожелание не содержит чего-то, что я мог бы купить или заказать, или..."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bestellen",
+        "buchen",
+        "disponieren (fachspr.",
+        "vorbestellen",
+        "freihalten lassen"
+      ],
       "partizip_2": "reserviert",
       "imperative": "reserviere! / reserviert! / reservieren Sie!",
       "conjugations": {
@@ -1951,7 +2212,13 @@
           "ru": "Ты поможешь мне в поисках моего портмоне?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldbörse",
+        "Geldbeutel",
+        "Geldbörsel",
+        "Portmonee",
+        "Brieftasche"
+      ],
       "antonyms": []
     },
     {
@@ -1982,7 +2249,13 @@
           "ru": "О, и вот еще маленькая сумочка, которую я нашла."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldbeutel",
+        "Geldbörsel",
+        "Portmonee",
+        "Brieftasche",
+        "Geldsack"
+      ],
       "antonyms": []
     },
     {
@@ -2013,7 +2286,11 @@
           "ru": "Я же сказал вам в деревне, что золота здесь нет."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aurum",
+        "gelbes Metall",
+        "Au"
+      ],
       "antonyms": []
     },
     {
@@ -2044,7 +2321,10 @@
           "ru": "Медали могут быть бронзовые, серебряные, золотые и платиновые."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Argentum",
+        "Ag"
+      ],
       "antonyms": []
     },
     {
@@ -2075,7 +2355,13 @@
           "ru": "Битву за наши души, что начинается с этой монеты."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Klimpergeld",
+        "Kupfer",
+        "Kleingeld",
+        "Geldstück",
+        "Taler"
+      ],
       "antonyms": [
         "der Geldschein, die Geldscheine",
         "die Banknote, die Banknoten"
@@ -2109,7 +2395,13 @@
           "ru": "Никогда не видел банкнот?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Papiergeld",
+        "Banknote",
+        "Nötli (ugs.",
+        "Note",
+        "Notenschein"
+      ],
       "antonyms": [
         "die Münze, die Münzen"
       ]
@@ -2142,7 +2434,13 @@
           "ru": "Но важней отметка, которую поставит вам он."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeugniszensur",
+        "Schulnote",
+        "Zensur",
+        "Beurteilung",
+        "Papiergeld"
+      ],
       "antonyms": []
     },
     {
@@ -2173,7 +2471,13 @@
           "ru": "Я нашел людей, которые прекрасно подделывают документы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "manipulieren",
+        "klittern",
+        "frisieren",
+        "faken (ugs.",
+        "verfälschen"
+      ],
       "partizip_2": "gefälscht",
       "imperative": "fälsche! / fälscht! / fälschen Sie!",
       "conjugations": {
@@ -2218,7 +2522,9 @@
           "ru": "Найди 450 баксов, фальшивых."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Blüte"
+      ],
       "antonyms": [
         "das Echtgeld, (nur Sg.)"
       ]
@@ -2251,7 +2557,13 @@
           "ru": "В таких условиях не могут появиться ни свобода, ни благосостояние."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gedeihen",
+        "Fülle",
+        "Prosperität (fachspr.",
+        "Vermögen",
+        "Guthaben"
+      ],
       "antonyms": [
         "die Armut, (nur Sg.)",
         "die Dürftigkeit, (nur Sg.)"
@@ -2285,7 +2597,13 @@
           "ru": "Я не хочу, чтобы они провели всю свою жизнь в бедности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Not",
+        "Mangel",
+        "Entbehrung",
+        "Kargheit",
+        "Armseligkeit"
+      ],
       "antonyms": [
         "der Wohlstand, (nur Sg.)",
         "der Reichtum, (nur Sg.)"
@@ -2319,7 +2637,13 @@
           "ru": "Все, от бедных до богатых, могут внести свой вклад."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "wohlsituiert",
+        "gute Partie",
+        "superreich",
+        "besitzend",
+        "vermögend"
+      ],
       "antonyms": [
         "arm"
       ]
@@ -2352,7 +2676,13 @@
           "ru": "Он был беден и не смог купить это."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verarmt",
+        "dürftig",
+        "sozial schwach",
+        "unvermögend",
+        "prekär"
+      ],
       "antonyms": [
         "reich",
         "wohlhabend"
@@ -2386,7 +2716,11 @@
           "ru": "Она позволит вашему брату принимать за вас решения, касающиеся ваших финансов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vermögen",
+        "Geldmittel",
+        "Kapital"
+      ],
       "antonyms": []
     },
     {
@@ -2417,7 +2751,13 @@
           "ru": "Возможно, они не могут предложить много в финансовом отношении, но духовно - они богаты."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "monetär",
+        "pekuniär",
+        "geldlich",
+        "wirtschaftlich",
+        "kohlemäßig"
+      ],
       "antonyms": []
     },
     {
@@ -2448,7 +2788,13 @@
           "ru": "От финансового кризиса - к глобальной депрессии?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Finanzhandelsplatz",
+        "Finanzabsatzgebiet",
+        "Finanzhandelszentrum",
+        "Finanzumschlagplatz",
+        "Finanzbörse"
+      ],
       "antonyms": []
     },
     {
@@ -2479,7 +2825,13 @@
           "ru": "Оно не жидкое, не твердое и не газообразное, хотя и не прозрачно."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nichtviskos",
+        "fluid",
+        "wässrig",
+        "dünnflüssig",
+        "fließfähig"
+      ],
       "antonyms": [
         "illiquid",
         "zahlungsunfähig"
@@ -2513,7 +2865,13 @@
           "ru": "Страховые компании и пенсионные фонды, с другой стороны, имеют ограниченную способность к сдерживанию кредитных рисков и лучшую способность к сдерживанию рыночных и ликвидных рисков."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Liquiditätsgefährdung",
+        "Liquiditätsgefahr",
+        "Liquiditätsunsicherheit",
+        "Liquiditätspulverfass",
+        "Liquiditätsbedrohung"
+      ],
       "antonyms": []
     },
     {
@@ -2544,7 +2902,13 @@
           "ru": "Если капитала больше, следовательно, долг должен быть дешевле, поскольку компания (или банк) лучше защищена от дефолта."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bankrott",
+        "Insolvenz",
+        "Illiquidität",
+        "Ruin",
+        "Pleite"
+      ],
       "antonyms": [
         "die Zahlungsfähigkeit, (nur Sg.)",
         "die Liquidität, (nur Sg.)"
@@ -2578,7 +2942,13 @@
           "ru": "В 1896 году судья признал его «безнадёжным должником»."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "insolvent",
+        "in Konkurs",
+        "illiquide",
+        "bankrott",
+        "pleite"
+      ],
       "antonyms": [
         "zahlungsfähig",
         "solvent",
@@ -2613,7 +2983,13 @@
           "ru": "Вскоре после выпуска двойного концертника «In the Hothouse» в 1986, Statik был признан банкротом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zahlungsunfähigkeit",
+        "Bankrott",
+        "Illiquidität",
+        "Ruin",
+        "Pleite"
+      ],
       "antonyms": [
         "die Solvenz, (nur Sg.)",
         "die Liquidität, (nur Sg.)"
@@ -2647,7 +3023,13 @@
           "ru": "Я не думаю, что это уместно, Мартин."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "stimmig",
+        "entsprechend",
+        "im Rahmen",
+        "anständig",
+        "gebührend"
+      ],
       "antonyms": [
         "unangemessen",
         "übertrieben",
@@ -2682,7 +3064,13 @@
           "ru": "Я сказала ему не перегибать палку."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "übersteigern",
+        "überziehen",
+        "es übertreiben",
+        "dramatisieren",
+        "aufpumpen (ugs."
+      ],
       "partizip_2": "übertreibt",
       "imperative": "übertreibe! / übertreibt! / übertreiben Sie!",
       "conjugations": {
@@ -2727,7 +3115,13 @@
           "ru": "Знаешь, что еще пустая трата талантов?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vergeudung",
+        "Unmäßigkeit",
+        "Gepränge",
+        "Prunk",
+        "Geaase"
+      ],
       "antonyms": [
         "die Sparsamkeit, (nur Sg.)",
         "die Einsparung, die Einsparungen"
@@ -2761,7 +3155,12 @@
           "ru": "Жизнь слишком коротка, чтобы тратить её на дешевую выпивку."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ganz hingeben",
+        "verströmen",
+        "vergeuden",
+        "verschenken"
+      ],
       "partizip_2": "verschwendet",
       "imperative": "verschwende! / verschwendet! / verschwenden Sie!",
       "conjugations": {
@@ -2807,7 +3206,13 @@
           "ru": "Мы знаем, что вы хотите всегда иметь свои персональные цифровые материалы при себе, поэтому наши жесткие диски для ноутбуков и портативных накопителей экономно расходуют электричество и служат надежно и долго."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "knapp",
+        "trocken",
+        "lakonisch",
+        "lapidar",
+        "karg"
+      ],
       "antonyms": [
         "verschwenderisch",
         "großzügig"
@@ -2841,7 +3246,13 @@
           "ru": "Непостоянство рынков капитала в очередной раз демонстрирует парадокс бережливости."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einfachheit",
+        "Simplizität",
+        "Bescheidenheit",
+        "Schlichtheit",
+        "Nüchternheit"
+      ],
       "antonyms": [
         "die Verschwendung, die Verschwendungen",
         "die Großzügigkeit, (nur Sg.)"
@@ -2875,7 +3286,13 @@
           "ru": "Очень благородно, но если тебя поймают сейчас..."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "weitherzig",
+        "alles erlaubend",
+        "weithin erstrecken",
+        "weit",
+        "großflächig"
+      ],
       "antonyms": [
         "geizig",
         "kleinlich",
@@ -2910,7 +3327,13 @@
           "ru": "У него хорошие связи, но он прижимистый."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zugeknöpft (ugs.",
+        "knickrig",
+        "schrappig (ugs.",
+        "kniepig (ugs.",
+        "knickerig"
+      ],
       "antonyms": [
         "großzügig",
         "spendabel",
@@ -2945,7 +3368,13 @@
           "ru": "Существует большая разница между бережливостью и скупостью."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sparsamkeit",
+        "Knauserei",
+        "Knickerigkeit",
+        "Knauserigkeit",
+        "Pfennigfuchserei"
+      ],
       "antonyms": [
         "die Großzügigkeit, (nur Sg.)",
         "die Freigebigkeit, (nur Sg.)"
@@ -2979,7 +3408,9 @@
           "ru": "Я помогу вам найти монету, заберу ее от греха подальше, и все в выигрыше."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gebühr/Belohnung"
+      ],
       "antonyms": []
     },
     {
@@ -3010,7 +3441,13 @@
           "ru": "Если несовершеннолетнее лицо хочет купить функции, оно должно получить средства для покупки от своего юридического опекуна именно на эти цели или на неограниченные потребности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gegen Bezahlung",
+        "gegen Vergütung",
+        "gegen Geld",
+        "Erwerbs...",
+        "entlohnt"
+      ],
       "antonyms": [
         "unentgeltlich",
         "kostenlos",
@@ -3045,7 +3482,13 @@
           "ru": "Он сказал, что вы не требуете награды за свою преданность."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gebührenfrei",
+        "umsonst",
+        "vergütungsfrei",
+        "kostenfrei",
+        "kostenlos"
+      ],
       "antonyms": [
         "entgeltlich",
         "kostenpflichtig"
@@ -3079,7 +3522,13 @@
           "ru": "Содержание дома и плата Чарли - это первое."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einkommen",
+        "Gratifikation",
+        "Aufwandsentschädigung",
+        "Entlöhnung",
+        "Salär"
+      ],
       "antonyms": []
     },
     {
@@ -3110,7 +3559,13 @@
           "ru": "Он может помочь нам... за вознаграждение."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einkommen",
+        "Gratifikation",
+        "Aufwandsentschädigung",
+        "Entlöhnung",
+        "Salär"
+      ],
       "antonyms": []
     },
     {
@@ -3247,7 +3702,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zehnt",
+        "Zehend",
+        "Steuer",
+        "Zehent",
+        "Zehnter"
+      ],
       "antonyms": [
         "der Erhalt, (nur Sg.)",
         "die Einnahme, die Einnahmen"
@@ -3281,7 +3742,9 @@
           "ru": "По мере того как страны все меньше полагаются на традиционные источники финансирования, вряд ли они слепо подчинятся иностранному диктату."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Finanzierungsquelle"
+      ],
       "antonyms": []
     },
     {
@@ -3312,7 +3775,13 @@
           "ru": "В других областях торговли бы признан принцип компенсационной пошлины: когда страна устанавливает субсидию, другие могут установить налог, чтобы компенсировать несправедливое преимущество, предоставленное производителям этой страны."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unterstützung",
+        "Fördermittel",
+        "Finanzspritze",
+        "Beihilfe",
+        "Zuschuss"
+      ],
       "antonyms": []
     },
     {
@@ -3343,7 +3812,13 @@
           "ru": "Подавление заработной платы, финансовые репрессии и заниженный обменный курс субсидируют экспорт и производство в ущерб домохозяйствам, которые, таким образом, вынуждены экономить и ослаблять внутренний спрос."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "finanziell beteiligen",
+        "sponsern (ugs.",
+        "unterstützen",
+        "stützen",
+        "stärken"
+      ],
       "partizip_2": "subventioniert",
       "imperative": "subventioniere! / subventioniert! / subventionieren Sie!",
       "conjugations": {
@@ -3385,7 +3860,13 @@
           "ru": "Я отдал им все деньги, которые были в кассе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldkasse",
+        "Ladenkasse",
+        "Kassa",
+        "Geldkassette",
+        "Geldkasten"
+      ],
       "antonyms": []
     },
     {
@@ -3416,7 +3897,11 @@
           "ru": "Кассир сказал, что место будет знакомым."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldeinnehmer",
+        "Geldeintreiber",
+        "Kassiererin"
+      ],
       "antonyms": []
     },
     {
@@ -3447,7 +3932,13 @@
           "ru": "Но тут ребёнок пинает воздух, ты делаешь несколько стежков, и получаешь все лавры."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "packen",
+        "hoppnehmen",
+        "fassen",
+        "kriegen",
+        "schnappen"
+      ],
       "partizip_2": "kassiert",
       "imperative": "kassiere! / kassiert! / kassieren Sie!",
       "conjugations": {
@@ -3492,7 +3983,12 @@
           "ru": "Вот деньги, минус стоимость вазы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rausgeld",
+        "Kleingeld",
+        "Rückgeld",
+        "Restgeld"
+      ],
       "antonyms": []
     },
     {
@@ -3523,7 +4019,10 @@
           "ru": "При желании в электронную систему можно вставить отсканированное электронное изображение квитанции в виде «вложения файла»."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Quittung/Beleg",
+        "Scheck/Quittung"
+      ],
       "antonyms": []
     },
     {
@@ -3556,7 +4055,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapitalstrom",
+        "Kapitalfluss",
+        "Geldfluss",
+        "Kassenfluss",
+        "Finanzfluss"
+      ],
       "antonyms": []
     },
     {
@@ -3589,7 +4094,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rentabilitätsschwelle",
+        "Break-even-Punkt",
+        "Gewinnschwelle"
+      ],
       "antonyms": []
     },
     {
@@ -3622,7 +4131,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geschäftsbankverbindung",
+        "Geschäftskontoverbindung",
+        "Geschäftsbankkonto"
+      ],
       "antonyms": []
     },
     {
@@ -3655,7 +4168,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Konto gesperrt"
+      ],
       "antonyms": []
     },
     {
@@ -3688,7 +4203,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Treuhandbankverbindung",
+        "Treuhandkontoverbindung",
+        "Treuhandbankkonto"
+      ],
       "antonyms": []
     },
     {
@@ -3721,7 +4240,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "P-Konto"
+      ],
       "antonyms": []
     },
     {
@@ -3754,7 +4275,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Währungskonto"
+      ],
       "antonyms": []
     },
     {
@@ -3787,7 +4310,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verrechnungsbankverbindung",
+        "Verrechnungskontoverbindung",
+        "Verrechnungsbankkonto"
+      ],
       "antonyms": []
     },
     {
@@ -3820,7 +4347,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dauerkonto"
+      ],
       "antonyms": []
     },
     {
@@ -3853,7 +4382,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tagesgeldbankverbindung",
+        "Tagesgeldkontoverbindung",
+        "Tagesgeldbankkonto"
+      ],
       "antonyms": []
     },
     {
@@ -3886,7 +4419,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontoführungsunkostenbeitrag",
+        "Kontoführungskostenbeitrag",
+        "Kontoführungspreis",
+        "Kontoführungstaxe",
+        "Kontoführungsabgabe"
+      ],
       "antonyms": []
     },
     {
@@ -3919,7 +4458,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontobevollmächtigung",
+        "Kontohandlungsvollmacht",
+        "Kontopouvoir",
+        "Kontovollziehungsbefehl",
+        "Kontofreibrief"
+      ],
       "antonyms": []
     },
     {
@@ -3952,7 +4497,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontovertreter",
+        "Kundendienstmitarbeiter"
+      ],
       "antonyms": []
     },
     {
@@ -3985,7 +4533,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "EC-Karte",
+        "ec-Card (fachspr.",
+        "Scheckkarte",
+        "Sparkassenkarte",
+        "ec-Karte"
+      ],
       "antonyms": []
     },
     {
@@ -4018,7 +4572,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Debitkarte",
+        "EC-Karte",
+        "ec-Card (fachspr.",
+        "Scheckkarte",
+        "Sparkassenkarte"
+      ],
       "antonyms": []
     },
     {
@@ -4051,7 +4611,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "BLZ"
+      ],
       "antonyms": []
     },
     {
@@ -4084,7 +4646,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontovielheit",
+        "Kontozahl",
+        "Kontokennziffer",
+        "Kontoziffer",
+        "Kontonr."
+      ],
       "antonyms": []
     },
     {
@@ -4117,7 +4685,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Internationale Bankkontonummer"
+      ],
       "antonyms": []
     },
     {
@@ -4150,7 +4720,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "SWIFT-Code"
+      ],
       "antonyms": []
     },
     {
@@ -4183,7 +4755,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Überweisungsindikator",
+        "Überweisungshinweis",
+        "Überweisungszeichen",
+        "Überweisungsschriftstück",
+        "Überweisungsurkunde"
+      ],
       "antonyms": []
     },
     {
@@ -4216,7 +4794,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Überweisungsarbeitsauftrag",
+        "Überweisungsarbeitsanweisung",
+        "Überweisungsaufgabenstellung",
+        "Überweisungsaufgabengebiet",
+        "Überweisungsaufgabenbereich"
+      ],
       "antonyms": []
     },
     {
@@ -4249,7 +4833,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abbuchung",
+        "Lastschrift",
+        "Belastung"
+      ],
       "antonyms": []
     },
     {
@@ -4282,7 +4870,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einzugserlaubnis",
+        "Einzugslizenz",
+        "Einzugsrecht",
+        "Einzugsautorisierung",
+        "Einzugsberechtigung"
+      ],
       "antonyms": []
     },
     {
@@ -4315,7 +4909,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "SEPA-Bevollmächtigung",
+        "SEPA-Handlungsvollmacht",
+        "SEPA-Pouvoir",
+        "SEPA-Vollziehungsbefehl",
+        "SEPA-Freibrief"
+      ],
       "antonyms": []
     },
     {
@@ -4348,7 +4948,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rückbuchung"
+      ],
       "antonyms": []
     },
     {
@@ -4381,7 +4983,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zahlungsziel (fachspr.",
+        "Stundung",
+        "Aufschub",
+        "Moratorium",
+        "Zahlungsaufschub"
+      ],
       "antonyms": []
     },
     {
@@ -4414,7 +5022,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zahlungsbedingungen"
+      ],
       "antonyms": []
     },
     {
@@ -4447,7 +5057,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zahlungsabwicklung",
+        "Zahlungsart",
+        "Bezahlmöglichkeit"
+      ],
       "antonyms": []
     },
     {
@@ -4480,7 +5094,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zahlungsabwicklung",
+        "Zahlungsweise",
+        "Bezahlmöglichkeit"
+      ],
       "antonyms": []
     },
     {
@@ -4513,7 +5131,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vorauskasse",
+        "Vorausbezahlung",
+        "Vorkasse",
+        "Vorschuss",
+        "Abschlag"
+      ],
       "antonyms": []
     },
     {
@@ -4546,7 +5170,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schlusszahlung"
+      ],
       "antonyms": []
     },
     {
@@ -4579,7 +5205,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schlusslöhnung",
+        "Schlussglattstellung",
+        "Schlussbezahlung",
+        "Schlussentlohnung",
+        "Schlussauszahlung"
+      ],
       "antonyms": []
     },
     {
@@ -4612,7 +5244,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Akonto (schweiz.",
+        "Anzahlung",
+        "Akontozahlung",
+        "Abschlag (fachspr.",
+        "Teilzahlung"
+      ],
       "antonyms": []
     },
     {
@@ -4645,7 +5283,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abschlag (fachspr.",
+        "Abschlagszahlung",
+        "Abzahlung",
+        "Ratenzahlung"
+      ],
       "antonyms": []
     },
     {
@@ -4678,7 +5321,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ratenzahlungsvereinbarung"
+      ],
       "antonyms": []
     },
     {
@@ -4711,7 +5356,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zahlungsziel (fachspr.",
+        "Aufschub",
+        "Moratorium",
+        "Zahlungsaufschub",
+        "Zahlungsfrist"
+      ],
       "antonyms": []
     },
     {
@@ -4744,7 +5395,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufschubvereinbarung"
+      ],
       "antonyms": []
     },
     {
@@ -4777,7 +5430,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditkartenausgleich",
+        "Kreditkartenschlussrechnung",
+        "Kreditkartenrechnung",
+        "Kreditkartenbilanz",
+        "Kreditkartenberechnung"
+      ],
       "antonyms": []
     },
     {
@@ -4810,7 +5469,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontoguthaben"
+      ],
       "antonyms": []
     },
     {
@@ -4843,7 +5504,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontotranslokation",
+        "Kontoverschiebung",
+        "Kontopositionsänderung",
+        "Kontofortbewegung",
+        "Kontoregung"
+      ],
       "antonyms": []
     },
     {
@@ -4876,7 +5543,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Valuta"
+      ],
       "antonyms": []
     },
     {
@@ -4909,7 +5578,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Drittbank"
+      ],
       "antonyms": []
     },
     {
@@ -4942,7 +5613,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Online-Bank"
+      ],
       "antonyms": []
     },
     {
@@ -4975,7 +5648,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vollbank"
+      ],
       "antonyms": []
     },
     {
@@ -5008,7 +5683,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Staatsbank"
+      ],
       "antonyms": []
     },
     {
@@ -5041,7 +5718,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zentralnotenbank",
+        "Nationalbank",
+        "Zentralbank",
+        "zentrale Notenbank"
+      ],
       "antonyms": []
     },
     {
@@ -5074,7 +5756,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Notenbank",
+        "Zentralnotenbank",
+        "Nationalbank",
+        "zentrale Notenbank"
+      ],
       "antonyms": []
     },
     {
@@ -5107,7 +5794,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bundessitzbank",
+        "Bundesparkbank",
+        "Bundesgeldhaus",
+        "Bundesgeschäftsbank",
+        "Bundeskreditinstitut"
+      ],
       "antonyms": []
     },
     {
@@ -5140,7 +5833,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldhaus",
+        "Bank",
+        "Geschäftsbank",
+        "Kreditinstitut",
+        "Finanzinstitution"
+      ],
       "antonyms": []
     },
     {
@@ -5173,7 +5872,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Genossenschaftssitzbank",
+        "Genossenschaftsparkbank",
+        "Genossenschaftsgeldhaus",
+        "Genossenschaftsgeschäftsbank",
+        "Genossenschaftskreditinstitut"
+      ],
       "antonyms": []
     },
     {
@@ -5206,7 +5911,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldhaus",
+        "Bank",
+        "Kreditinstitut",
+        "Finanzinstitution",
+        "Kreditanstalt"
+      ],
       "antonyms": []
     },
     {
@@ -5239,7 +5950,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bankenstruktur",
+        "Bankenorganisation",
+        "Bankenorganismus",
+        "Bankengebilde",
+        "Bankenanlage"
+      ],
       "antonyms": []
     },
     {
@@ -5272,7 +5989,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bankenüberwachung",
+        "Bankenbeaufsichtigung",
+        "Bankenmonitoring",
+        "Bankenbewacher",
+        "Bankenaufpasser"
+      ],
       "antonyms": []
     },
     {
@@ -5305,7 +6028,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Guthabensicherung"
+      ],
       "antonyms": []
     },
     {
@@ -5338,7 +6063,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einlagensicherungsinvestmentfonds",
+        "Einlagensicherungssondervermögen",
+        "Einlagensicherungsgeldmittel",
+        "Einlagensicherungsgeldbestand",
+        "Einlagensicherungsvermögensreserve"
+      ],
       "antonyms": []
     },
     {
@@ -5371,7 +6102,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Liquiditätsinjektion",
+        "Liquiditätsinjektionsspritze",
+        "Liquiditätspumpe"
+      ],
       "antonyms": []
     },
     {
@@ -5437,7 +6172,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditlinie",
+        "Kreditfazilität"
+      ],
       "antonyms": []
     },
     {
@@ -5470,7 +6208,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditkartenunkostenbeitrag",
+        "Kreditkartenkostenbeitrag",
+        "Kreditkartenpreis",
+        "Kreditkartentaxe",
+        "Kreditkartenabgabe"
+      ],
       "antonyms": []
     },
     {
@@ -5503,7 +6247,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kartenleser"
+      ],
       "antonyms": []
     },
     {
@@ -5536,7 +6282,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bargeldentnahme"
+      ],
       "antonyms": []
     },
     {
@@ -5569,7 +6317,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bargeldzufuhr",
+        "Bargeldanlieferung",
+        "Bargeldalimente",
+        "Bargeldziehgeld",
+        "Bargeldunterhalt"
+      ],
       "antonyms": []
     },
     {
@@ -5602,7 +6356,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gelderfindung",
+        "Geldkreation",
+        "Geldhervorbringung",
+        "Gelddesign",
+        "Geldsynthese"
+      ],
       "antonyms": []
     },
     {
@@ -5635,7 +6395,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldmengenaggregat"
+      ],
       "antonyms": []
     },
     {
@@ -5668,7 +6430,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Inflation (Hauptform",
+        "steigende Preise",
+        "Preissteigerung",
+        "Kaufkraftverlust",
+        "Teuerungsrate"
+      ],
       "antonyms": []
     },
     {
@@ -5701,7 +6469,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldmarktpolitik"
+      ],
       "antonyms": []
     },
     {
@@ -5734,7 +6504,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldnagelhautentzündung",
+        "Geldparonychie",
+        "Geldumwälzung",
+        "Geldaustausch",
+        "Geldumkreisung"
+      ],
       "antonyms": []
     },
     {
@@ -5833,7 +6609,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldstrafe",
+        "Bußgeld",
+        "Pönale",
+        "Vertragsstrafe",
+        "Konventionsstrafe"
+      ],
       "antonyms": []
     },
     {
@@ -5866,7 +6648,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schuldner",
+        "Darlehensnehmer",
+        "Debitor (fachspr."
+      ],
       "antonyms": []
     },
     {
@@ -5899,7 +6685,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldgeber",
+        "Darlehensgeber",
+        "Gläubiger",
+        "Kreditor (fachspr.",
+        "Geldverleiher"
+      ],
       "antonyms": []
     },
     {
@@ -5932,7 +6724,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditagent",
+        "Kreditvertretung",
+        "Kredithandlungsbeauftragter",
+        "Kreditbeauftragter",
+        "Kreditmittelsperson"
+      ],
       "antonyms": []
     },
     {
@@ -5965,7 +6763,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditbedingungen"
+      ],
       "antonyms": []
     },
     {
@@ -5998,7 +6798,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teilzahlungskredit"
+      ],
       "antonyms": []
     },
     {
@@ -6031,7 +6833,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verbraucherkredit",
+        "Verbraucherdarlehen"
+      ],
       "antonyms": []
     },
     {
@@ -6064,7 +6869,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Investitionspump",
+        "Investitionsdarlehen",
+        "Investitionsdarlehn"
+      ],
       "antonyms": []
     },
     {
@@ -6097,7 +6906,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abrufkredit"
+      ],
       "antonyms": []
     },
     {
@@ -6130,7 +6941,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rahmenkredit"
+      ],
       "antonyms": []
     },
     {
@@ -6163,7 +6976,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Annuitätendarlehen"
+      ],
       "antonyms": []
     },
     {
@@ -6196,7 +7011,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Annuitätenkredit",
+        "Annuitätenpump",
+        "Annuitätendarlehn"
+      ],
       "antonyms": []
     },
     {
@@ -6229,7 +7048,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Immobilienpump",
+        "Immobiliendarlehen",
+        "Immobiliendarlehn"
+      ],
       "antonyms": []
     },
     {
@@ -6262,7 +7085,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Immobilienkredit"
+      ],
       "antonyms": []
     },
     {
@@ -6295,7 +7120,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ratendarlehen",
+        "Abzahlungsdarlehen"
+      ],
       "antonyms": []
     },
     {
@@ -6361,7 +7189,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Effektiver Zinssatz"
+      ],
       "antonyms": []
     },
     {
@@ -6394,7 +7224,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sollzinsen"
+      ],
       "antonyms": []
     },
     {
@@ -6427,7 +7259,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nominalzinssatz"
+      ],
       "antonyms": []
     },
     {
@@ -6460,7 +7294,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zinsadaptation",
+        "Zinskalibrierung",
+        "Zinseinstellen",
+        "Zinsadaption",
+        "Zinsregulierung"
+      ],
       "antonyms": []
     },
     {
@@ -6493,7 +7333,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zinsabänderung",
+        "Zinsumänderung",
+        "Zinsveränderung",
+        "Zinsmodifizierung",
+        "Zinsumarbeitung"
+      ],
       "antonyms": []
     },
     {
@@ -6526,7 +7372,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vorfälligkeitsschadensersatz",
+        "Vorfälligkeitskompensation",
+        "Vorfälligkeitsschadenersatz",
+        "Vorfälligkeitswiedergutmachung",
+        "Vorfälligkeitsrückvergütung"
+      ],
       "antonyms": []
     },
     {
@@ -6559,7 +7411,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Restanlass",
+        "Restgrund",
+        "Restursache",
+        "Restverantwortlich",
+        "Restschuldtragend"
+      ],
       "antonyms": []
     },
     {
@@ -6592,7 +7450,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Restschuldversprechen",
+        "Restschuldbeteuerung",
+        "Restschuldzusicherung",
+        "Restschuldgarantie",
+        "Restschuldzusage"
+      ],
       "antonyms": []
     }
   ]

@@ -64,7 +64,13 @@
           "ru": "Должно быть, это будет самое серьезное дело в твоей карьере."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "CV",
+        "berufliche Entwicklung",
+        "Vita",
+        "Lebenslauf",
+        "beruflicher Werdegang"
+      ],
       "antonyms": []
     },
     {
@@ -95,7 +101,13 @@
           "ru": "Что эти годы, годы зрелости, дают возможность путешествовать, получать образование, менять работу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Training",
+        "Seminar",
+        "Workshop",
+        "Kursus",
+        "Schulung"
+      ],
       "antonyms": [
         "die Erstausbildung"
       ]
@@ -128,7 +140,11 @@
           "ru": "В настоящее время концепция основных ценностей и профессиональных качеств отражена во всех аспектах управления людскими ресурсами, включая набор, организацию служебной деятельности, развитие карьеры и обучение."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Weiterbildung",
+        "Schulung",
+        "Training"
+      ],
       "antonyms": []
     },
     {
@@ -159,7 +175,13 @@
           "ru": "Все мы были на его семинаре в отеле когда началась эпидемия."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Weiterbildung",
+        "Training",
+        "Workshop",
+        "Kursus",
+        "Schulung"
+      ],
       "antonyms": []
     },
     {
@@ -190,7 +212,13 @@
           "ru": "Все сфокусировано на улучшении, обучении, развитии и движении вперед."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Weiterbildung",
+        "Training",
+        "Seminar",
+        "Workshop",
+        "Kursus"
+      ],
       "antonyms": []
     },
     {
@@ -221,7 +249,13 @@
           "ru": "Ты не должен был творить на семинаре."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Weiterbildung",
+        "Training",
+        "Seminar",
+        "Kursus",
+        "Schulung"
+      ],
       "antonyms": []
     },
     {
@@ -252,7 +286,11 @@
           "ru": "Направление больных на операцию?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "fachliche Fortbildung",
+        "fachliche Ausbildung",
+        "fachliche Weiterbildung"
+      ],
       "antonyms": [
         "die Dequalifizierung"
       ]
@@ -329,7 +367,13 @@
           "ru": "Если ты освоишь это умение, у нас с тобой будет светлое будущее."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gabe",
+        "Begabung",
+        "Talent",
+        "Anlage",
+        "Kompetenz"
+      ],
       "antonyms": [
         "die Unfähigkeit",
         "das Unvermögen"
@@ -363,7 +407,13 @@
           "ru": "Годами ранее мы начали приобретать все, что окружает проект."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "anerziehen",
+        "kaufen",
+        "aufkaufen",
+        "ankaufen",
+        "erstehen"
+      ],
       "partizip_2": "erwerbt",
       "imperative": "erwerbe! / erwerbt! / erwerben Sie!",
       "conjugations": {
@@ -409,7 +459,13 @@
           "ru": "Я подумал, что мы могли бы продолжить наше знакомство."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "stärker werden",
+        "verstärken",
+        "sich festigen",
+        "erstarken",
+        "ankurbeln"
+      ],
       "partizip_2": "vertieft",
       "imperative": "vertiefe! / vertieft! / vertiefen Sie!",
       "conjugations": {
@@ -454,7 +510,13 @@
           "ru": "Великая рифтовая долина - это огромная впадина."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lunke (fachspr.",
+        "Blötsch (ugs.",
+        "Abdruck",
+        "Dötsch (ugs.",
+        "Delle"
+      ],
       "antonyms": [
         "die Verflachung",
         "die Vernachlässigung"
@@ -488,7 +550,13 @@
           "ru": "Кроме этого, подобным образом мы легко можем увеличить наши мощности в любой момент."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nachrüsten",
+        "ergänzen",
+        "ausbauen",
+        "expandieren (physikalisch",
+        "spreizen"
+      ],
       "partizip_2": "erweitert",
       "imperative": "erweitere! / erweitert! / erweitern Sie!",
       "conjugations": {
@@ -534,7 +602,13 @@
           "ru": "А теперь еще одно дополнение для нашего лагеря..."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dilatation",
+        "Ausweitung",
+        "Dehnung",
+        "Programmmodul",
+        "Software-Erweiterung"
+      ],
       "antonyms": [
         "die Einschränkung, die Einschränkungen",
         "die Reduzierung, die Reduzierungen"
@@ -568,7 +642,13 @@
           "ru": "Он предлагает обучение, карьерный рост и особенно большое число событий."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Besteigung",
+        "Avancement (geh.",
+        "Beförderung",
+        "Mehr",
+        "Anstieg"
+      ],
       "antonyms": [
         "der Abstieg",
         "der Fall",
@@ -603,7 +683,13 @@
           "ru": "Мне срочно нужно повысить вас обеих."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "fördern",
+        "begünstigen",
+        "schaffen",
+        "chauffieren",
+        "fahren"
+      ],
       "partizip_2": "befördert",
       "imperative": "befördere! / befördert! / befördern Sie!",
       "conjugations": {
@@ -648,7 +734,13 @@
           "ru": "Конечно, не всем можно пообещать продвижение по службе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Versand",
+        "Nachsendung",
+        "Avancement (geh.",
+        "Aufstieg",
+        "Transport"
+      ],
       "antonyms": [
         "die Degradierung",
         "die Zurückstufung"
@@ -682,7 +774,13 @@
           "ru": "Это сделало меня лучше, как лидера."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Leiter",
+        "Lenker",
+        "Entscheidungsträger",
+        "Manager",
+        "leitende Kraft"
+      ],
       "antonyms": [
         "der Untergebene",
         "der Mitarbeiter"
@@ -716,7 +814,13 @@
           "ru": "Ты ведешь себя не как мужчина, который находится в руководстве."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Führungsansicht",
+        "Führungsauffassung",
+        "Führungshaltung",
+        "Führungsblickwinkel",
+        "Führungsgesichtspunkt"
+      ],
       "antonyms": [
         "die Mitarbeiterstelle"
       ]
@@ -754,7 +858,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Obliegenschaft",
+        "Befugnis",
+        "Verantwortungsbereich",
+        "Verantwortlichkeit",
+        "Bereich"
+      ],
       "antonyms": [
         "die Verantwortungslosigkeit"
       ]
@@ -787,7 +897,13 @@
           "ru": "Просто ты боишься ответственности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Risiko tragen",
+        "übernehmen",
+        "aufkommen",
+        "Aufgabe übernehmen",
+        "Nötige veranlassen"
+      ],
       "partizip_2": "geVerantwortung übernehmet",
       "imperative": "Verantwortung übernehme! / Verantwortung übernehmet! / Verantwortung übernehmen Sie!",
       "conjugations": {
@@ -832,7 +948,13 @@
           "ru": "И я не уверен, что она является его целью."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zweck",
+        "Intention",
+        "Absicht",
+        "Vorsatz",
+        "Perspektive"
+      ],
       "antonyms": [
         "der Start",
         "der Ausgangspunkt"
@@ -867,7 +989,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zielfestlegung",
+        "Zieldeklaration",
+        "Zielübereinkommen",
+        "Zielvertrag",
+        "Zielübereinkunft"
+      ],
       "antonyms": []
     },
     {
@@ -898,7 +1026,12 @@
           "ru": "На различных семинарах и рабочих группах около 100 сотрудников изучили, проработали и реализовали широкий спектр тем, таких как брендинг работодателя, аттестация сотрудников, адаптация, льготы, командный дух и т. д., и воплотили их в конкретные меры."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personalgespräch",
+        "Entwicklungsgespräch",
+        "Jahresgespräch",
+        "Feedbackgespräch"
+      ],
       "antonyms": []
     },
     {
@@ -929,7 +1062,12 @@
           "ru": "Вместо того чтобы полагаться исключительно на запланированные встречи для получения обратной связи, Левкович часто неофициально заглядывает к столу новичка."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personalgespräch",
+        "Entwicklungsgespräch",
+        "Mitarbeitergespräch",
+        "Jahresgespräch"
+      ],
       "antonyms": []
     },
     {
@@ -960,7 +1098,13 @@
           "ru": "Но это доказывало, что военные смогли сформировать собственную эволюцию."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fortschritt",
+        "Verlauf",
+        "Fortgang",
+        "Geschehen",
+        "Entstehung"
+      ],
       "antonyms": [
         "die Stagnation",
         "der Rückschritt",
@@ -995,7 +1139,13 @@
           "ru": "В 1965 году перешла на работу в Австрийское туристическое бюро, затем становится руководителем кадрового и правового департамента «Austria Trend Hotels»."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personalfortschritt",
+        "Personalverlauf",
+        "Personalfortgang",
+        "Personalgeschehen",
+        "Personalentstehung"
+      ],
       "antonyms": []
     },
     {
@@ -1026,7 +1176,13 @@
           "ru": "Ты молодая, красивая, и впереди у тебя столько возможностей."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Potential",
+        "Möglichkeiten",
+        "Gegebenheit",
+        "Anlage",
+        "Arbeitskraft"
+      ],
       "antonyms": [
         "das Unvermögen"
       ]
@@ -1059,7 +1215,12 @@
           "ru": "Да, этим талантом не многие наделены в наше время."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gabe",
+        "Begabung",
+        "Anlage",
+        "Fähigkeit"
+      ],
       "antonyms": [
         "die Unbegabtheit"
       ]
@@ -1092,7 +1253,13 @@
           "ru": "Тогда для меня это продвижение талантов в сотрудничестве с клубами."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Talentzutun",
+        "Talentunterstützung",
+        "Talentgunstbezeugung",
+        "Talentrückhalt",
+        "Talentgunstbezeigung"
+      ],
       "antonyms": [
         "die Talentunterdrückung"
       ]
@@ -1125,7 +1292,13 @@
           "ru": "Он был... моим наставником, и я не собираюсь отворачиваться от него."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Betreuer",
+        "Berater",
+        "Ratgeber",
+        "Ziehvater",
+        "Vorbild"
+      ],
       "antonyms": [
         "der Mentee",
         "der Schützling"
@@ -1159,7 +1332,11 @@
           "ru": "Пару лет назад одна из матерей-наставниц рассказала мне историю."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unterstützung",
+        "Beratung",
+        "Supervision"
+      ],
       "antonyms": []
     },
     {
@@ -1221,7 +1398,13 @@
           "ru": "Тренер, а у вас тут почти как настоящая семья."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Trainer",
+        "Tutor",
+        "Anleiter",
+        "Bremser (ugs.",
+        "Kursleiter"
+      ],
       "antonyms": [
         "der Coachee"
       ]
@@ -1254,7 +1437,13 @@
           "ru": "Вашингтон по-прежнему недоволен ролью Германии в последние два года и не удовлетворен стремлением Берлина к продвижению вперед."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufstiegslust",
+        "Aufstiegssehnen",
+        "Aufstiegstrieb",
+        "Aufstiegsappetit",
+        "Aufstiegsappetenz"
+      ],
       "antonyms": [
         "die Genügsamkeit"
       ]
@@ -1287,7 +1476,10 @@
           "ru": "У тебя есть хоть какие-то планы на жизнь?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Karriereweg",
+        "Karriereverlauf"
+      ],
       "antonyms": []
     },
     {
@@ -1318,7 +1510,13 @@
           "ru": "Должность тут - карьерный лифт вместо лестницы, и Канберра ожидает от этого места соблюдения высочайших стандартов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Karriereschritttempo",
+        "Karriereschrittgeschwindigkeit",
+        "Karrierehosenschritt",
+        "Karrierestufe",
+        "Karrierephase"
+      ],
       "antonyms": []
     },
     {
@@ -1349,7 +1547,9 @@
           "ru": "Гнев против коррупции заставил меня внести большие изменения в свою карьеру в прошлом году, и стать практикующим юристом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "berufliche Veränderung"
+      ],
       "antonyms": []
     },
     {
@@ -1380,7 +1580,9 @@
           "ru": "Шансы сменить карьеру в качестве преподавателя профессионального училища в настоящее время выглядят хорошими."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "seitlicher Einstieg"
+      ],
       "antonyms": [
         "die Regellaufbahn",
         "der Direkteinstieg"
@@ -1414,7 +1616,9 @@
           "ru": "политический, успешный сменщик карьеры"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Seiteneinsteiger"
+      ],
       "antonyms": [
         "der Regeleinsteiger"
       ]
@@ -1447,7 +1651,9 @@
           "ru": "Кажется разумным, что для переподготовки двух лет вполне достаточно. После этого работник может потребовать повышения зарплаты и обойтись без государственных субсидий."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umerziehung"
+      ],
       "antonyms": []
     },
     {
@@ -1478,7 +1684,9 @@
           "ru": "Роль государства и социальных партнеров выходит за рамки проблемы финансирования."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "berufliche Veränderungen"
+      ],
       "antonyms": [
         "der berufliche Stillstand"
       ]
@@ -1511,7 +1719,11 @@
           "ru": "Она хотела поменять направление своей карьеры, и мы пожелали ей всего наилучшего."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sich wandeln",
+        "mutieren",
+        "sich verwandeln"
+      ],
       "partizip_2": "gesich verändert",
       "imperative": "sich verändere! / sich verändert! / sich verändern Sie!",
       "conjugations": {
@@ -1558,7 +1770,11 @@
           "ru": "Такая задача оказалась сложной как технически, так и эмоционально."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fehdehandschuh (geh.",
+        "Kampfansage",
+        "Kriegserklärung"
+      ],
       "antonyms": [
         "die Routine",
         "die Spielerei",
@@ -1593,7 +1809,13 @@
           "ru": "Мне нужен мужской взгляд на Стивена."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Auslegung",
+        "Ausdeutung",
+        "Deutung",
+        "Exegese",
+        "Bedeutung"
+      ],
       "antonyms": [
         "die Perspektivlosigkeit"
       ]
@@ -1626,7 +1848,13 @@
           "ru": "Похоже, мне здесь светит карьера."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufstiegsperspektive",
+        "Aufstiegsgelegenheit",
+        "Aufstiegsweg",
+        "Aufstiegsoption",
+        "Aufstiegsaussicht"
+      ],
       "antonyms": [
         "die Sackgasse"
       ]
@@ -1659,7 +1887,13 @@
           "ru": "Он убедился, что всё синхронизировано."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufstiegsperspektive",
+        "Aufstiegsgelegenheit",
+        "Aufstiegsweg",
+        "Aufstiegsoption",
+        "Aufstiegschance"
+      ],
       "antonyms": [
         "die Sackgasse"
       ]
@@ -1680,7 +1914,9 @@
           "ru": "Это одна из причин, почему многие начинающие инженеры не рассматривают карьеру специалиста как реальную альтернативу карьере менеджера."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fachkarriere"
+      ],
       "antonyms": [
         "die Führungslaufbahn"
       ]
@@ -1709,7 +1945,9 @@
           "ru": "Выпускникам инженерных специальностей, интересующимся менеджментом, Valeo (5600 сотрудников внутри страны и 68 000 по всему миру) предлагает карьеру менеджера."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Managementkarriere"
+      ],
       "antonyms": [
         "die Fachlaufbahn"
       ]
@@ -1742,7 +1980,13 @@
           "ru": "За последние три года зарубежные командировки увеличились на 71 процент, и 82 процента опрошенных компаний направляют сотрудников за границу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Auslandsabsenden",
+        "Auslandsdelegierung",
+        "Auslandsabkommandierung",
+        "Auslandsdeputation",
+        "Auslandsaussendung"
+      ],
       "antonyms": [
         "die Inlandstätigkeit"
       ]
@@ -1775,7 +2019,9 @@
           "ru": "Позднее к услугам были добавлены экспортные кредиты, зарубежные проекты, помощь развитию и содействие среднему бизнесу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "internationales Projekt"
+      ],
       "antonyms": [
         "das Inlandsprojekt"
       ]
@@ -1808,7 +2054,10 @@
           "ru": "Английский (как второй язык) сейчас изучают в нескольких школах, включая Британский Совет, который сфокусировался на интерактивных молодёжных образовательных сетях (Teen Grid)."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sprachtraining",
+        "Sprachtraining/Schulung"
+      ],
       "antonyms": []
     },
     {
@@ -1839,7 +2088,9 @@
           "ru": "Исходя из текущих цен на сертификаты, зона потерь начинается примерно с 8,50 евро – но только в том случае, если цена акций упадет более чем на 20 процентов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zertifizierungskurs"
+      ],
       "antonyms": []
     },
     {
@@ -1870,7 +2121,13 @@
           "ru": "Мне кажется, это была несправедливая проверка моих командирских способностей."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Erprobung",
+        "Probe",
+        "Test",
+        "Versuch",
+        "Untersuchung"
+      ],
       "antonyms": []
     },
     {
@@ -1901,7 +2158,13 @@
           "ru": "Несколько имеющихся тем существуют в рынке с вопросом природа ё окружающая среда."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verlangen",
+        "postulieren (geh.",
+        "reklamieren",
+        "sich  ausbedingen",
+        "sich  versteifen"
+      ],
       "partizip_2": "besteht",
       "imperative": "bestehe! / besteht! / bestehen Sie!",
       "conjugations": {
@@ -1988,7 +2251,13 @@
           "ru": "Обычно, для реализации подобных проектов требуется привлечение экспертных знаний международных специалистов, которым местные власти предоставляют определённые полномочия на своей территории."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Expertenwissen",
+        "Fachkenntnis",
+        "Sachkompetenz",
+        "Expertise",
+        "Fachkunde"
+      ],
       "antonyms": [
         "die Inkompetenz"
       ]
@@ -2021,7 +2290,13 @@
           "ru": "Степень бакалавра должна давать базовые знания и методологические навыки, чтобы иметь возможность справляться с растущим потоком информации."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Methodenobliegenschaft",
+        "Methodenbefugnis",
+        "Methodenverantwortungsbereich",
+        "Methodenverantwortlichkeit",
+        "Methodenbereich"
+      ],
       "antonyms": []
     },
     {
@@ -2052,7 +2327,12 @@
           "ru": "Мне не нужно уметь с ними общаться."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Soft Skills",
+        "nicht-fachliche Fähigkeiten",
+        "soziale Kompetenz",
+        "soziale Fähigkeiten"
+      ],
       "antonyms": []
     },
     {
@@ -2083,7 +2363,13 @@
           "ru": "В квалификации АПО методическим, социальным и личностным навыкам придается больший вес, чем конкретным специальным знаниям."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Selbstobliegenschaft",
+        "Selbstbefugnis",
+        "Selbstverantwortungsbereich",
+        "Selbstverantwortlichkeit",
+        "Selbstbereich"
+      ],
       "antonyms": []
     },
     {
@@ -2114,7 +2400,9 @@
           "ru": "Эта ключевая компетенция все больше теряется, и поэтому ее необходимо обучать."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kernkompetenz"
+      ],
       "antonyms": []
     },
     {
@@ -2189,7 +2477,9 @@
           "ru": "В следующий раз лучше оставим учебники дома."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "wissenschaftliche Literatur"
+      ],
       "antonyms": [
         "die Unterhaltungsliteratur"
       ]
@@ -2222,7 +2512,13 @@
           "ru": "Мне сказали, тебе не разрешили провести свою группу на национальной конференции."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Symposium (fachspr.",
+        "Tagung",
+        "Konferenz",
+        "Symposion (fachspr.",
+        "Kolloquium (fachspr."
+      ],
       "antonyms": []
     },
     {
@@ -2253,7 +2549,13 @@
           "ru": "Я пишу... отчет о годовой конференции, как всегда."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kongress",
+        "Symposium (fachspr.",
+        "Konferenz",
+        "Symposion (fachspr.",
+        "Kolloquium (fachspr."
+      ],
       "antonyms": []
     },
     {
@@ -2284,7 +2586,13 @@
           "ru": "Рукопожатие, выставка и речь - всё за 90 минут."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Salon",
+        "Ausstellung",
+        "...kabinett",
+        "Schau",
+        "Exposition"
+      ],
       "antonyms": []
     },
     {
@@ -2315,7 +2623,13 @@
           "ru": "Возможно, там же, где вас держали перед обменом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dialog",
+        "Aussprache",
+        "Zwiegespräch",
+        "Unterhaltung",
+        "Wortwechsel"
+      ],
       "antonyms": []
     },
     {
@@ -2346,7 +2660,13 @@
           "ru": "И возможно, мы нашли способ победить всю сеть целиком."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Netz",
+        "Kommunität",
+        "Gemeinschaft",
+        "Community",
+        "Klüngel"
+      ],
       "antonyms": []
     },
     {
@@ -2377,7 +2697,10 @@
           "ru": "Однако в реальных сетях это далеко не так."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontakt knüpfen",
+        "Kontakt herstellen"
+      ],
       "partizip_2": "genetzwerkt",
       "imperative": "netzwerke! / netzwerkt! / netzwerken Sie!",
       "conjugations": {
@@ -2419,7 +2742,9 @@
           "ru": "JAESPA является членом профессионального союза немецких машиностроителей и других торговых организаций."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berufsverband"
+      ],
       "antonyms": []
     },
     {
@@ -2450,7 +2775,12 @@
           "ru": "В рамках Организации Объединенных Наций в дополнение к осуществлению нашей более традиционной деятельности по предотвращению политических и военных конфликтов мы стали применять более долгосрочный подход к концепции предотвращения, и в настоящее время мы более осознанно учитываем этот аспект во всех направлениях нашей работы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wissensübertragung",
+        "Wissensübermittlung",
+        "Wissenssynchronisation",
+        "Wissensaustausch"
+      ],
       "antonyms": []
     },
     {
@@ -2481,7 +2811,10 @@
           "ru": "Внутри лежит билет на самолет до Вашингтона для немедленного присвоения статуса."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vertrautwerden",
+        "Kennenlernen"
+      ],
       "antonyms": [
         "die Entlassung"
       ]
@@ -2506,7 +2839,10 @@
           "ru": "BSM предлагает своим партнерам индивидуальный план обучения «на работе и за ее пределами»."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Onboarding-Plan",
+        "neuer Mitarbeiteranpassungsplan"
+      ],
       "antonyms": []
     },
     {
@@ -2581,7 +2917,9 @@
           "ru": "Привод для дискет? У меня есть только карта, координаты, никаких супер-технологий."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "individueller Entwicklungsplan"
+      ],
       "antonyms": []
     },
     {
@@ -2612,7 +2950,9 @@
           "ru": "Потом она с ее карьерой отправляется в путешествие вокруг света."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Karriere-Ziel"
+      ],
       "antonyms": []
     },
     {
@@ -2639,7 +2979,9 @@
           "ru": "Оценка завершенности, точности и надежности информации в системе, а также определение степени решения поставленных задач к настоящему времени."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zielrealisierung"
+      ],
       "antonyms": [
         "die Zielverfehlung"
       ]
@@ -2672,7 +3014,9 @@
           "ru": "Неделя моды только началась, и у нее стресс но мой показ завтра и мне надо, что бы он прошел хорошо"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Leistungsbewertung"
+      ],
       "antonyms": []
     },
     {
@@ -2703,7 +3047,13 @@
           "ru": "Я имею в виду, что у них одинаковая производительность."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verdienst",
+        "Verdienste",
+        "Meriten",
+        "Errungenschaft",
+        "Energie"
+      ],
       "antonyms": [
         "die Minderleistung, die Minderleistungen",
         "das Versagen, (nur Sg.)"
@@ -2737,7 +3087,13 @@
           "ru": "На расстоянии до 91 метра оно может быть таким же эффективным, как и фазер."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "effektiv",
+        "wirksam",
+        "schlagkräftig",
+        "wirkungsvoll",
+        "wirkmächtig"
+      ],
       "antonyms": [
         "leistungsschwach",
         "träge"
@@ -2771,7 +3127,13 @@
           "ru": "Договоры о забронированной производительности заключаются исключительно между бронирующим и производственным носителем и подлежат соответствующим условиям заключения сделки производственного носителя."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aktivposten (fachspr.",
+        "Spitzenkraft",
+        "High Performer",
+        "Hauptakteur",
+        "treibende Kraft"
+      ],
       "antonyms": [
         "der Mitläufer",
         "der Minderleister"
@@ -2805,7 +3167,13 @@
           "ru": "Луис сделал это только ради моего одобрения."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zustimmung",
+        "Einverständnis",
+        "Einhaltung",
+        "Zusage",
+        "Befolgung"
+      ],
       "antonyms": [
         "die Ablehnung",
         "die Missachtung",
@@ -2840,7 +3208,13 @@
           "ru": "Не проси меня тебя восхвалять."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "belieben",
+        "gerne mögen",
+        "begeistert sein",
+        "abfahren auf",
+        "begeistern"
+      ],
       "partizip_2": "gelobt",
       "imperative": "lobe! / lobt! / loben Sie!",
       "conjugations": {
@@ -2886,7 +3260,13 @@
           "ru": "Так что я точно не заслуживаю похвалы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ehrenbezeigung",
+        "Streicheleinheit",
+        "Würdigung",
+        "Anerkennung",
+        "Belobigung"
+      ],
       "antonyms": [
         "der Tadel",
         "die Kritik",
@@ -2921,7 +3301,13 @@
           "ru": "Им нужен был стимул."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Belebung",
+        "Stimulation",
+        "Anregung",
+        "Reiz",
+        "Motivierung"
+      ],
       "antonyms": [
         "die Bremse",
         "die Dämpfung"
@@ -2955,7 +3341,12 @@
           "ru": "Идея книги заключается в том, что удовлетворения от работы можно достичь в любой среде."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitsbefriedigung",
+        "Arbeitserfüllung",
+        "Arbeitsgenuss",
+        "Arbeitsbeglückung"
+      ],
       "antonyms": [
         "die Arbeitsunzufriedenheit"
       ]
@@ -2984,7 +3375,10 @@
           "ru": "Твое отношение способствует напряжению обстановки."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitsatmosphäre",
+        "Teamklima"
+      ],
       "antonyms": []
     },
     {
@@ -3015,7 +3409,12 @@
           "ru": "У нас есть серьезная открытая культура компании, подчеркивающая целостность, уважение, воображение и страсть."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unternehmenszivilisation",
+        "Unternehmenshochkultur",
+        "Unternehmenskulturkreis",
+        "Unternehmensgeistesleben"
+      ],
       "antonyms": []
     },
     {
@@ -3048,7 +3447,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ausgleich",
+        "Kompensation",
+        "Entschädigung",
+        "Abgeltung",
+        "Entsprechung"
+      ],
       "antonyms": []
     },
     {
@@ -3081,7 +3486,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gehaltsschicht",
+        "Gehaltsstand",
+        "Gehaltsstufe",
+        "Gehaltspegel",
+        "Gehaltslevel"
+      ],
       "antonyms": []
     },
     {
@@ -3114,7 +3525,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldbörse",
+        "Geldbörsel",
+        "Portmonee",
+        "Brieftasche",
+        "Geldsack"
+      ],
       "antonyms": []
     },
     {
@@ -3147,7 +3564,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gemeinschaftsunternehmung",
+        "Gemeinschaftsstreben",
+        "Gemeinschaftsvorhaben",
+        "Gemeinschaftsunternehmen",
+        "Gemeinschaftsansinnen"
+      ],
       "antonyms": []
     },
     {
@@ -3180,7 +3603,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesprächsmanagement"
+      ],
       "antonyms": []
     },
     {
@@ -3213,7 +3638,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesprächswetterlage",
+        "Gesprächswitterung",
+        "Gesprächswetter",
+        "Gesprächsflair",
+        "Gesprächsgepräge"
+      ],
       "antonyms": []
     },
     {
@@ -3246,7 +3677,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesprächseinrichtung",
+        "Gesprächsvorfeldarbeiten",
+        "Gesprächsvorarbeiten",
+        "Gesprächshinführung",
+        "Gesprächseinstimmung"
+      ],
       "antonyms": []
     },
     {
@@ -3279,7 +3716,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Handelsgeschäft"
+      ],
       "antonyms": []
     },
     {
@@ -3312,7 +3751,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gewerkschaftskontingent",
+        "Gewerkschaftsanteil",
+        "Gewerkschaftsmitwirkung",
+        "Gewerkschaftsquote",
+        "Gewerkschaftsobolus"
+      ],
       "antonyms": []
     },
     {
@@ -3345,7 +3790,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Flexibler Zeitplan"
+      ],
       "antonyms": []
     },
     {
@@ -3378,7 +3825,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Großes Unternehmen"
+      ],
       "antonyms": []
     },
     {
@@ -3411,7 +3860,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gründungsvater",
+        "Mutter (fig.",
+        "Gründervater",
+        "Schöpfer",
+        "Erschaffer"
+      ],
       "antonyms": []
     },
     {
@@ -3444,7 +3899,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Technologiezentrum",
+        "Innovationszentrum",
+        "Existenzgründerzentrum"
+      ],
       "antonyms": []
     },
     {
@@ -3477,7 +3936,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Haftvermögen",
+        "Haftkapital",
+        "Verantwortlichkeit",
+        "Obligo",
+        "Haftpflicht"
+      ],
       "antonyms": []
     },
     {
@@ -3510,7 +3975,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Papier",
+        "Paper (ugs.",
+        "Tischvorlage",
+        "Handreichung",
+        "schriftliche Unterlage"
+      ],
       "antonyms": []
     },
     {
@@ -3543,7 +4014,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mutterhaus",
+        "Hauptstelle",
+        "Hauptquartier",
+        "Stammsitz",
+        "Muttersitz"
+      ],
       "antonyms": []
     },
     {
@@ -3576,7 +4053,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hausi (ugs.",
+        "Gäbsche (ugs.",
+        "Ufere (ugs.",
+        "Hausübung (fachspr.",
+        "Husi (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -3609,7 +4092,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Baumstruktur",
+        "Stufenordnung",
+        "hierarchischer Aufbau",
+        "Rangordnung",
+        "Machtverhältnis"
+      ],
       "antonyms": []
     },
     {
@@ -3642,7 +4131,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Beistand",
+        "Adlatus (geh.",
+        "Gehilfe",
+        "Handlanger",
+        "Assistent"
+      ],
       "antonyms": []
     },
     {
@@ -3675,7 +4170,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Informationsinterview"
+      ],
       "antonyms": []
     },
     {
@@ -3708,7 +4205,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Neuschöpfung",
+        "Neuerung",
+        "Neueinführung",
+        "Novität",
+        "Neuheit"
+      ],
       "antonyms": []
     },
     {
@@ -3741,7 +4244,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Innovationspotential",
+        "Innovationsmöglichkeiten",
+        "Innovationsgegebenheit",
+        "Innovationsanlage",
+        "Innovationsarbeitskraft"
+      ],
       "antonyms": []
     },
     {
@@ -3774,7 +4283,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kleinanzeige",
+        "Anzeige",
+        "Zeitungsannonce",
+        "Annonce (geh.",
+        "Zeitungsanzeige"
+      ],
       "antonyms": []
     },
     {
@@ -3807,7 +4322,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Jahresmitteilung",
+        "Jahresnachricht",
+        "Jahresinformationsaustausch",
+        "Jahresbekanntmachung",
+        "Jahresbotschaft"
+      ],
       "antonyms": []
     },
     {
@@ -3840,7 +4361,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Jahresübereinkommen",
+        "Jahresvereinbarung",
+        "Jahresübereinkunft",
+        "Jahresabkommen",
+        "Jahreskontrakt"
+      ],
       "antonyms": []
     },
     {
@@ -3873,7 +4400,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stellenwechsel",
+        "Arbeitsplatzwechsel"
+      ],
       "antonyms": []
     },
     {
@@ -3906,7 +4436,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Juniorberater"
+      ],
       "antonyms": []
     },
     {
@@ -3939,7 +4471,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kaffeeauszeit",
+        "Kaffeeunterbrechung",
+        "Kaffeeunterlass",
+        "Kaffeestopp",
+        "Kaffeetime-out"
+      ],
       "antonyms": []
     },
     {
@@ -3972,7 +4510,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Karrieredisposition",
+        "Karrierelayout",
+        "Karriereskizze",
+        "Karriereichnographie",
+        "Karrieregrundriss"
+      ],
       "antonyms": []
     },
     {
@@ -4005,7 +4549,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Karriereniveau"
+      ],
       "antonyms": []
     },
     {
@@ -4038,7 +4584,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rat"
+      ],
       "antonyms": []
     },
     {
@@ -4071,7 +4619,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Widersacher",
+        "Widerpart",
+        "Sparringspartner",
+        "Neinsager",
+        "Konterpart"
+      ],
       "antonyms": []
     },
     {
@@ -4104,7 +4658,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wetteifer",
+        "Gerangel",
+        "Rivalität",
+        "Rangeleien",
+        "Wettstreit"
+      ],
       "antonyms": []
     },
     {
@@ -4137,7 +4697,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hilfe",
+        "Stütze",
+        "Betreuung",
+        "Rückendeckung",
+        "Unterstützungsangebot"
+      ],
       "antonyms": []
     },
     {
@@ -4170,7 +4736,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapitalaufwand",
+        "Spesen",
+        "Kostenaufwand",
+        "Unkosten (ugs.",
+        "Aufwendung"
+      ],
       "antonyms": []
     },
     {
@@ -4203,7 +4775,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kündigungsbescheid",
+        "Kündigungsanordnung",
+        "Kündigungsva",
+        "Kündigungswisch",
+        "Kündigungsmitteilung"
+      ],
       "antonyms": []
     },
     {
@@ -4236,7 +4814,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bezieher",
+        "Auftraggeber",
+        "Besteller",
+        "anfordernde Stelle",
+        "Bedarfsträger"
+      ],
       "antonyms": []
     },
     {
@@ -4269,7 +4853,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kundenstamm",
+        "Kundenstock",
+        "Kundenkreis",
+        "Zielgruppe",
+        "Klientel"
+      ],
       "antonyms": []
     },
     {
@@ -4302,7 +4892,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Langzeiterwerbslosigkeit",
+        "Langzeitbeschäftigungslosigkeit"
+      ],
       "antonyms": []
     },
     {
@@ -4335,7 +4928,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Karriereplanung"
+      ],
       "antonyms": []
     },
     {
@@ -4368,7 +4963,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Leistungsbegrenzung",
+        "Leistungsabgrenzung",
+        "Leistungsgrenzlinie",
+        "Leistungsstaatsgrenze",
+        "Leistungsbundesgrenze"
+      ],
       "antonyms": []
     },
     {
@@ -4401,7 +5002,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Leistungsniveau"
+      ],
       "antonyms": []
     },
     {
@@ -4434,7 +5037,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lernbiegung",
+        "Lernknick",
+        "Lernkrümmung",
+        "Lernschleife",
+        "Lernbogen"
+      ],
       "antonyms": []
     },
     {
@@ -4467,7 +5076,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gehaltsplus",
+        "Gehaltssteigerung",
+        "Aufbesserung",
+        "Gehaltsaufbesserung",
+        "Lohnsteigerung"
+      ],
       "antonyms": []
     },
     {
@@ -4500,7 +5115,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einkommensteuerkarte"
+      ],
       "antonyms": []
     },
     {
@@ -4533,7 +5150,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verdienstabrechnung",
+        "Lohnzettel",
+        "Verdienstnachweis",
+        "Gehaltsabrechnung",
+        "Entgeltnachweis"
+      ],
       "antonyms": []
     },
     {
@@ -4566,7 +5189,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Leiter",
+        "Lenker",
+        "Entscheidungsträger",
+        "leitende Kraft",
+        "Entscheider"
+      ],
       "antonyms": []
     },
     {
@@ -4599,7 +5228,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Absatzwirtschaft"
+      ],
       "antonyms": []
     },
     {
@@ -4632,7 +5263,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Marktumfrage",
+        "Markterhebung",
+        "Marktbefragung",
+        "Marktstudie"
+      ],
       "antonyms": []
     },
     {
@@ -4665,7 +5301,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Branchenführer",
+        "Branchenprimus",
+        "Platzhirsch"
+      ],
       "antonyms": []
     },
     {
@@ -4698,7 +5338,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wettbewerbsposition"
+      ],
       "antonyms": []
     },
     {
@@ -4731,7 +5373,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kahlschlag",
+        "Rationalisierung",
+        "Entlassungswelle",
+        "Kündigungswelle"
+      ],
       "antonyms": []
     },
     {
@@ -4764,7 +5411,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wertzuwachs",
+        "Surplus",
+        "Überschuss",
+        "Profit"
+      ],
       "antonyms": []
     },
     {
@@ -4797,7 +5449,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mindestferien"
+      ],
       "antonyms": []
     },
     {
@@ -4830,7 +5484,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mini-Arbeitsverhältnis"
+      ],
       "antonyms": []
     },
     {
@@ -4863,7 +5519,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personalfluktuation"
+      ],
       "antonyms": []
     },
     {
@@ -4896,7 +5554,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Partizipation"
+      ],
       "antonyms": []
     },
     {
@@ -4929,7 +5589,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Senkung",
+        "Grube",
+        "Mulde",
+        "Senke",
+        "Kuhle (fachspr."
+      ],
       "antonyms": []
     },
     {
@@ -4962,7 +5628,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufbau",
+        "Geflecht",
+        "Gerüst",
+        "Gefüge",
+        "Struktur"
+      ],
       "antonyms": []
     },
     {
@@ -4995,7 +5667,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Organisationsschaubild",
+        "Stellenplan",
+        "Organisationsplan",
+        "Organisationsdiagramm"
+      ],
       "antonyms": []
     },
     {
@@ -5028,7 +5705,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Spin-Off (Jargon",
+        "Auslagerung",
+        "Ausgliederung",
+        "Fremdvergabe",
+        "Outsourcen"
+      ],
       "antonyms": []
     },
     {
@@ -5061,7 +5744,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pandemieregulierung"
+      ],
       "antonyms": []
     },
     {
@@ -5094,7 +5779,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personalgruppe",
+        "Personalrotte",
+        "Personalverband",
+        "Personalformation",
+        "Personalschar"
+      ],
       "antonyms": []
     },
     {
@@ -5127,7 +5818,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Persönliche Angelegenheit"
+      ],
       "antonyms": []
     },
     {
@@ -5160,7 +5853,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personalanforderung",
+        "Personalforderung",
+        "Personalerfordernis",
+        "Personalanspruch",
+        "Personalfunktionalität"
+      ],
       "antonyms": []
     },
     {
@@ -5193,7 +5892,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personalverantwortlicher"
+      ],
       "antonyms": []
     },
     {
@@ -5226,7 +5927,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personalfehlen",
+        "Personalknappheit",
+        "Personalunterversorgung",
+        "Personalseltenheit",
+        "Personalengpass"
+      ],
       "antonyms": []
     },
     {
@@ -5292,7 +5999,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Werbung"
+      ],
       "antonyms": []
     },
     {
@@ -5325,7 +6034,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personalspeicher",
+        "Personalredundanz",
+        "Personalvorrat",
+        "Personalrücklage",
+        "Personallager"
+      ],
       "antonyms": []
     },
     {
@@ -5358,7 +6073,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Planungsdialog",
+        "Planungsaussprache",
+        "Planungszwiegespräch",
+        "Planungsaustausch",
+        "Planungsunterhaltung"
+      ],
       "antonyms": []
     },
     {
@@ -5391,7 +6112,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Preisanpassung",
+        "Preiskorrektur",
+        "Preisaufschlag",
+        "Erhöhung",
+        "Aufgeld"
+      ],
       "antonyms": []
     },
     {
@@ -5424,7 +6151,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Intimbereich",
+        "Privatsphäre",
+        "Privatbereich",
+        "Intimsphäre"
+      ],
       "antonyms": []
     },
     {
@@ -5457,7 +6189,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unterrichtspraktikum"
+      ],
       "antonyms": []
     },
     {
@@ -5490,7 +6224,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bewährungsvereinbarung"
+      ],
       "antonyms": []
     },
     {
@@ -5523,7 +6259,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schaffensdrang",
+        "Tatwille",
+        "Tatkraft",
+        "Diligenz (geh.",
+        "Tüchtigkeit"
+      ],
       "antonyms": []
     },
     {
@@ -5556,7 +6298,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Erzeugnis",
+        "Fabrikat",
+        "Ware",
+        "Handelsgut",
+        "Gut"
+      ],
       "antonyms": []
     },
     {
@@ -5589,7 +6337,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unternehmung",
+        "Streben",
+        "Vorhaben",
+        "Unternehmen",
+        "Ansinnen"
+      ],
       "antonyms": []
     },
     {
@@ -5622,7 +6376,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wertigkeit",
+        "Güte",
+        "Beschaffenheit",
+        "Rang",
+        "Stufe"
+      ],
       "antonyms": []
     },
     {
@@ -5655,7 +6415,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Quality Management"
+      ],
       "antonyms": []
     },
     {
@@ -5688,7 +6450,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontingent",
+        "Beitrag",
+        "Anteil",
+        "Mitwirkung",
+        "Zuschauerzahlen"
+      ],
       "antonyms": []
     },
     {
@@ -5721,7 +6489,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tipp",
+        "Rat",
+        "Empfehlung",
+        "Vorschlag",
+        "Hinweis"
+      ],
       "antonyms": []
     },
     {
@@ -5754,7 +6528,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gemach (geh.",
+        "Kabuff (ugs.",
+        "Bude",
+        "Loch (ugs.",
+        "Stube"
+      ],
       "antonyms": []
     }
   ]

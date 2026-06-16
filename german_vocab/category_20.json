@@ -66,7 +66,13 @@
           "ru": "И теперь, к сожалению, этот недуг постиг многих из лидеров мира."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gebrechen",
+        "Gesundheitsschaden",
+        "gesundheitliche Einschränkungen",
+        "Maleste (ugs.",
+        "Gebresten"
+      ],
       "antonyms": [
         "die Gesundheit"
       ]
@@ -99,7 +105,13 @@
           "ru": "Когда я его видела, он не был похож на больного."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kränklich",
+        "morbid (geh.",
+        "leidend",
+        "malad (ugs.",
+        "verletzt"
+      ],
       "antonyms": [
         "gesund"
       ]
@@ -132,7 +144,13 @@
           "ru": "Мне пришлось умолять моего капитана... оставить корабль без хирурга."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Doktorin",
+        "Humanmediziner",
+        "Doktor",
+        "Herr Doktor",
+        "Medikus"
+      ],
       "antonyms": [
         "der Patient"
       ]
@@ -165,7 +183,13 @@
           "ru": "Приезд сюда, должен был сделать из меня лучшего врача."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Doktorin",
+        "Humanmediziner",
+        "Doktor",
+        "Herr Doktor",
+        "Medikus"
+      ],
       "antonyms": [
         "die Patientin"
       ]
@@ -198,7 +222,11 @@
           "ru": "Где Ваш лечащий врач?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Allgemeinmediziner",
+        "praktizierender Arzt",
+        "praktischer Arzt"
+      ],
       "antonyms": [
         "der Facharzt"
       ]
@@ -231,7 +259,11 @@
           "ru": "Я не хотел изучать хирургию - не спрашивайте почему."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Spezialarzt",
+        "spezialisierter Arzt",
+        "Gebietsarzt"
+      ],
       "antonyms": [
         "der Hausarzt",
         "der Allgemeinmediziner"
@@ -265,7 +297,13 @@
           "ru": "Я даже свой кабинет перевел в соседнюю квартиру."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arztpraxis",
+        "Ordination",
+        "Realität",
+        "Kenntnisse",
+        "Geübtheit"
+      ],
       "antonyms": []
     },
     {
@@ -296,7 +334,10 @@
           "ru": "Это не слишком хорошо отражается на врачебном бизнесе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Praxis",
+        "Ordination"
+      ],
       "antonyms": []
     },
     {
@@ -332,7 +373,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "festgesetzter Zeitpunkt",
+        "Date (ugs.",
+        "Verabredung"
+      ],
       "antonyms": []
     },
     {
@@ -363,7 +408,13 @@
           "ru": "Есть время, чтобы ты мог зайти... в часы работы?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geschäftszeit  (distanzsprachlich",
+        "Geschäftsstunden",
+        "Öffnungszeit",
+        "Sprechzeit (Arzt",
+        "Servicezeit (Beratungs-Dienstleister"
+      ],
       "antonyms": []
     },
     {
@@ -394,7 +445,12 @@
           "ru": "Этот человек подошел ко мне в комнате ожидания той ночью."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wartesaal",
+        "Warteraum",
+        "Aufenthaltsraum",
+        "Lounge"
+      ],
       "antonyms": []
     },
     {
@@ -417,7 +473,10 @@
           "ru": "Мне нужна ваша карта мисс Хендрикс."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Versicherungskarte",
+        "Versicherungspolice (Plastikkarte)"
+      ],
       "antonyms": []
     },
     {
@@ -448,7 +507,10 @@
           "ru": "Количество посещений врача должно быть записано в карточке медицинского страхования."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Krankenversicherungskarte",
+        "Krankenversicherung"
+      ],
       "antonyms": []
     },
     {
@@ -479,7 +541,10 @@
           "ru": "Основной целью обязательного медицинского страхования является поддерживание и восстановление здоровье страхователя (1 SGB V)."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gesetzliche Krankenkasse",
+        "GKV"
+      ],
       "antonyms": [
         "die private Krankenversicherung"
       ]
@@ -512,7 +577,10 @@
           "ru": "Компания НН-Медиа () начала поддержку и раскрутку системы взаимосвязанных тематических Интернет-порталов Нижнего Новгорода и Нижегородской области с интуитивно понятным интерфейсом и удобной системой навигации."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "private Krankenkasse",
+        "PKV"
+      ],
       "antonyms": [
         "die gesetzliche Krankenversicherung"
       ]
@@ -545,7 +613,12 @@
           "ru": "Мы не обнаружили вашей истории болезни."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesundheitskasse",
+        "Knappschaft",
+        "Krankenkassa",
+        "Krankenversicherung"
+      ],
       "antonyms": []
     },
     {
@@ -576,7 +649,13 @@
           "ru": "Вкладом со стороны иностранных компаний должны были быть дальнейшие инвестиции."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontingent",
+        "Anteil",
+        "Mitwirkung",
+        "Quote",
+        "Obolus"
+      ],
       "antonyms": []
     },
     {
@@ -640,7 +719,9 @@
           "ru": "Николас уверяет меня, что подготовил все документы, но тут бывает не всё так просто."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "versicherte Person"
+      ],
       "antonyms": [
         "der Unversicherte"
       ]
@@ -673,7 +754,9 @@
           "ru": "В целом получается, что 169000 случаев были \"необоснованными\" на нескольких миллионов работников, получивших больничные листы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Krankschreibung"
+      ],
       "antonyms": [
         "die Gesundmeldung"
       ]
@@ -706,7 +789,13 @@
           "ru": "[…] Пациент часто появляется в статистике медицинского страхования только тогда, когда на третий день требуется листок нетрудоспособности от врача."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesundheitszeugnis",
+        "Attest",
+        "Krankschreibung",
+        "Arztzeugnis",
+        "AU (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -775,7 +864,13 @@
           "ru": "Но он настаивал, требовал бумаги от врача и все такое."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesundheitszeugnis",
+        "Attest",
+        "Arztzeugnis",
+        "AU (ugs.",
+        "Arbeitsunfähigkeitsbescheinigung"
+      ],
       "antonyms": [
         "die Gesundschreibung"
       ]
@@ -808,7 +903,13 @@
           "ru": "Если бы ты мог ему позвонить, а он мог бы выписать рецепт."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Präskription",
+        "ärztliche Verordnung",
+        "Medikation",
+        "Arzneimittelverordnung",
+        "Medikamentation (fachspr."
+      ],
       "antonyms": []
     },
     {
@@ -831,7 +932,11 @@
           "ru": "Пожалуйста, предъявите ваш рецепт по ОМС и карту медицинского страхования в аптеке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gesetzliche Vorschrift",
+        "Rezept",
+        "bar bezahlt (rosa)"
+      ],
       "antonyms": [
         "das Privatrezept"
       ]
@@ -864,7 +969,9 @@
           "ru": "За остальных мне пришлось бы выставить счет медицинской страховой компании по частному рецепту."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Blau)"
+      ],
       "antonyms": [
         "das Kassenrezept"
       ]
@@ -897,7 +1004,10 @@
           "ru": "Ещё раз спасибо за то, что подвезла меня в аптеку."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arzneiausgabe",
+        "Arzneimittelhandel"
+      ],
       "antonyms": []
     },
     {
@@ -928,7 +1038,13 @@
           "ru": "Ей нужны эти лекарства каждый день, и она не может их получить."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Heilmittel",
+        "Arzneimittel",
+        "Präparat",
+        "Arzenei",
+        "Medizin"
+      ],
       "antonyms": []
     },
     {
@@ -959,7 +1075,13 @@
           "ru": "И учитывая, что ты принял таблетку, тебе лучше пойти по лестнице."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapsel",
+        "Globuli (Alternativmedizin",
+        "Dragée",
+        "Pille",
+        "Brausetablette"
+      ],
       "antonyms": []
     },
     {
@@ -990,7 +1112,12 @@
           "ru": "И пенообразующих: мужчина от пенообразующих его, однако, что в листовке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Beipackzettel",
+        "Gebrauchsinformation",
+        "Produktinformation",
+        "Waschzettel"
+      ],
       "antonyms": []
     },
     {
@@ -1021,7 +1148,11 @@
           "ru": "Наверное, побочный эффект твоей невероятной скорости."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "unerwünschte Arzneimittelwirkung",
+        "Kollateralschaden",
+        "Begleiterscheinung"
+      ],
       "antonyms": [
         "die Hauptwirkung"
       ]
@@ -1085,7 +1216,13 @@
           "ru": "Я хотел взять больше, но решил не делать этого."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "überzeugen",
+        "bewegen",
+        "erwärmen",
+        "persuadieren",
+        "indoktrinieren"
+      ],
       "partizip_2": "eingenehmet",
       "imperative": "nehme ein! / nehmet ein! / nehmen Sie ein!",
       "conjugations": {
@@ -1129,7 +1266,13 @@
           "ru": "Более широкая вакцинация защитит людей от инфекции и блокирует распространение вируса."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Spritze (ugs.",
+        "Impfe",
+        "Jaukerl (ugs.",
+        "Impfstoffgabe",
+        "Vakzinierung"
+      ],
       "antonyms": []
     },
     {
@@ -1160,7 +1303,12 @@
           "ru": "С деньгами, которые мы заработаем, мы сможем сделать прививку более чем 4000 нуждающимся детям от действительно ужасных болезней."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "immun machen",
+        "immunisieren (fachspr.",
+        "Nadel ansetzen",
+        "schutzimpfen"
+      ],
       "partizip_2": "geimpft",
       "imperative": "impfe! / impft! / impfen Sie!",
       "conjugations": {
@@ -1202,7 +1350,11 @@
           "ru": "Та жёлтая книжечка с прививками, которую врач дал, осталась на вилле."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Impfheft",
+        "Impfausweis",
+        "Impfbuch"
+      ],
       "antonyms": []
     },
     {
@@ -1233,7 +1385,10 @@
           "ru": "Крупные случайно выбранные испытания нескольких десятилетий назад показали, что маммография, дополняющая обычный физиологический осмотр, способствует выявлению заболевания на ранней стадии, сокращая опасность смертельного исхода."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Check-up",
+        "Durchuntersuchung"
+      ],
       "antonyms": [
         "die Akutuntersuchung"
       ]
@@ -1266,7 +1421,13 @@
           "ru": "Вы заканчиваете осмотр, а я отвечу на один ваш вопрос."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Prüfung",
+        "Ermittlung",
+        "kritische Auseinandersetzung",
+        "Analyse",
+        "Beobachtung"
+      ],
       "antonyms": []
     },
     {
@@ -1297,7 +1458,13 @@
           "ru": "Вы знаете, что у меня не было времени его осмотреть."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "entschlüsseln",
+        "enträtseln",
+        "aufklären",
+        "erforschen",
+        "aufhellen"
+      ],
       "partizip_2": "untersucht",
       "imperative": "untersuche! / untersucht! / untersuchen Sie!",
       "conjugations": {
@@ -1339,7 +1506,13 @@
           "ru": "Они уже в больнице, поэтому что бы вы ни делали..."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Klinik",
+        "Hospital",
+        "Krankenanstalt",
+        "Heilanstalt",
+        "Klinikum"
+      ],
       "antonyms": []
     },
     {
@@ -1370,7 +1543,13 @@
           "ru": "Твой психиатр пришла навестить меня в госпитале перед моим судом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hospital",
+        "Krankenanstalt",
+        "Heilanstalt",
+        "Klinikum",
+        "Spital (Hauptform"
+      ],
       "antonyms": []
     },
     {
@@ -1401,7 +1580,13 @@
           "ru": "Скажи это миссис Бойлан. Больше ей не придется бегать в травмпункт."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Notfallambulanz",
+        "Notfallstation",
+        "Erste-Hilfe-Station",
+        "Rettungsstelle",
+        "Unfallstation"
+      ],
       "antonyms": []
     },
     {
@@ -1432,7 +1617,10 @@
           "ru": "Я очень хотел бы, но у меня срочное дело на работе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Notsituation",
+        "Notlage"
+      ],
       "antonyms": [
         "der Regelfall"
       ]
@@ -1465,7 +1653,10 @@
           "ru": "Врач скорой помощи сказал, что у неё рак."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ambulanz",
+        "Rettungsdienst"
+      ],
       "antonyms": []
     },
     {
@@ -1496,7 +1687,13 @@
           "ru": "Неотложка уже в пути?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Krankenkraftwagen",
+        "Krankenwagen",
+        "Sanitätskraftwagen (fachspr.",
+        "Sanka (ugs.",
+        "Rettung (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -1527,7 +1724,13 @@
           "ru": "Друссе... Машина скорой помощи опять приезжала вчера вечером."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Krankenkraftwagen",
+        "Sanitätskraftwagen (fachspr.",
+        "Sanka (ugs.",
+        "Rettung (ugs.",
+        "KTW (Abkürzung"
+      ],
       "antonyms": []
     },
     {
@@ -1558,7 +1761,9 @@
           "ru": "Капитан, если мы хотим скрыть эту случайность, не надо откладывать."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unglück"
+      ],
       "antonyms": []
     },
     {
@@ -1589,7 +1794,13 @@
           "ru": "И есть еще похожее ранение в правой ключице."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Überschreitung",
+        "Übertretung",
+        "unerlaubte Handlung",
+        "Verstoß",
+        "Zuwiderhandlung"
+      ],
       "antonyms": [
         "die Heilung"
       ]
@@ -1667,7 +1878,10 @@
           "ru": "Освободил тебя от твоей боли. и ты чувствуешь себя обязанным ему."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "wehtun",
+        "weh tun"
+      ],
       "antonyms": [
         "die Schmerzfreiheit",
         "die Linderung"
@@ -1701,7 +1915,13 @@
           "ru": "При большинстве заболеваний человека окислительный стресс является лишь симптомом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Krankheitssymptom",
+        "Beschwerden",
+        "Krankheitszeichen",
+        "Anzeichen",
+        "Erkennungszeichen"
+      ],
       "antonyms": [
         "die Ursache"
       ]
@@ -1734,7 +1954,13 @@
           "ru": "Я лежала в кровати со старшим сыном, у него была температура."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "hohe Temperatur",
+        "Pyrexie",
+        "Aufgeregtheit",
+        "Erregtheit",
+        "Exaltation (fachspr."
+      ],
       "antonyms": []
     },
     {
@@ -1765,7 +1991,13 @@
           "ru": "Я думал, что это от кашля."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schnupfen",
+        "grippaler Infekt",
+        "Erkältung",
+        "Freck (ugs.",
+        "Verkühlung (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -1796,7 +2028,13 @@
           "ru": "Моя дочь может умереть, а он ушел домой из-за насморка?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nasenschleimhautentzündung",
+        "Nasentripper",
+        "Rhinitis",
+        "Koryza",
+        "Schnodderseuche"
+      ],
       "antonyms": []
     },
     {
@@ -1827,7 +2065,9 @@
           "ru": "Так вот почему у меня жжёт в горле."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Halswehtun"
+      ],
       "antonyms": []
     },
     {
@@ -1858,7 +2098,13 @@
           "ru": "И что у него постоянные головные боли."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schädelweh",
+        "Cephalaea",
+        "Kopfschmerz",
+        "Cephalgie",
+        "Kopfweh"
+      ],
       "antonyms": []
     },
     {
@@ -1889,7 +2135,9 @@
           "ru": "Он имеет на это право, если она ему изменяет, открыто его оскорбляет или желает ему зубной боли."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zahnwehtun"
+      ],
       "antonyms": []
     },
     {
@@ -1920,7 +2168,11 @@
           "ru": "Там был зубной врач, жил на первом этаже."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zahnklempner (ugs.",
+        "Dentist",
+        "Stomatologe (DDR"
+      ],
       "antonyms": []
     },
     {
@@ -1951,7 +2203,9 @@
           "ru": "Эдвард, у нас же тут не кабинет дантиста."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zahnklinik"
+      ],
       "antonyms": []
     },
     {
@@ -1982,7 +2236,13 @@
           "ru": "Я делал ему отбеливание."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zahnsäuberung",
+        "Zahnreinigungsarbeiten",
+        "Zahnputzerei",
+        "Zahnklärung",
+        "Zahnkatharsis"
+      ],
       "antonyms": []
     },
     {
@@ -2013,7 +2273,9 @@
           "ru": "Оба: Дениз сказала, что это РТ."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Physiotherapie"
+      ],
       "antonyms": []
     },
     {
@@ -2044,7 +2306,9 @@
           "ru": "Чем раньше он начнет физиотерапию, тем выше его шансы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Krankengymnastik"
+      ],
       "antonyms": []
     },
     {
@@ -2075,7 +2339,11 @@
           "ru": "Знаете, мой психолог, попросил меня описать свои чувства."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Psychotherapeut",
+        "Seelenarzt",
+        "Seelenklempner"
+      ],
       "antonyms": [
         "der Patient"
       ]
@@ -2108,7 +2376,13 @@
           "ru": "У меня есть разрешение, медицинское свидетельство."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesundheitszeugnis",
+        "Krankschreibung",
+        "Arztzeugnis",
+        "AU (ugs.",
+        "Arbeitsunfähigkeitsbescheinigung"
+      ],
       "antonyms": []
     },
     {
@@ -2139,7 +2413,9 @@
           "ru": "Любые медицинские заключения, полученные в увольнительной, недействительны."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ärztliches Attest"
+      ],
       "antonyms": []
     },
     {
@@ -2170,7 +2446,10 @@
           "ru": "Это лекарство входит в курс лечения."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entspannungsurlaub",
+        "Wellness-Urlaub"
+      ],
       "antonyms": []
     },
     {
@@ -2201,7 +2480,11 @@
           "ru": "Я понимаю, почему ты не хочешь в реабилитацию."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rehabilitierung",
+        "Rehabilitation",
+        "Wiedereingliederung"
+      ],
       "antonyms": []
     },
     {
@@ -2232,7 +2515,12 @@
           "ru": "В тюрьме нет надлежащих условий для его реабилитации."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rehabilitierung",
+        "Reha",
+        "Wiedereingliederung",
+        "Ehrenrettung"
+      ],
       "antonyms": []
     },
     {
@@ -2263,7 +2551,13 @@
           "ru": "Я схожу за результатами."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Diagnose",
+        "Untersuchungsergebnis",
+        "Krankheitserkennung",
+        "Ergebnis",
+        "Resultat"
+      ],
       "antonyms": []
     },
     {
@@ -2294,7 +2588,11 @@
           "ru": "Так же как и я имею право на диагностирование."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Befund",
+        "Untersuchungsergebnis",
+        "Krankheitserkennung"
+      ],
       "antonyms": []
     },
     {
@@ -2325,7 +2623,11 @@
           "ru": "Терк, прикинь, вчера у меня был пациент, которому я не смог поставить диагноз."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ermitteln",
+        "bestimmen",
+        "feststellen"
+      ],
       "partizip_2": "diagnostiziert",
       "imperative": "diagnostiziere! / diagnostiziert! / diagnostizieren Sie!",
       "conjugations": {
@@ -2367,7 +2669,12 @@
           "ru": "Нужно будет оплатить бедной девочке несколько недель психотерапии."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Behandlungsverfahren",
+        "Heilverfahren",
+        "Behandlung",
+        "medizinische Versorgung"
+      ],
       "antonyms": []
     },
     {
@@ -2398,7 +2705,13 @@
           "ru": "Я сказали, что никто не может так обращаться с моей звездой."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abhandeln",
+        "erörtern",
+        "ausarbeiten",
+        "besprechen",
+        "abfassen"
+      ],
       "partizip_2": "behandelt",
       "imperative": "behandele! / behandelt! / behandeln Sie!",
       "conjugations": {
@@ -2444,7 +2757,13 @@
           "ru": "Как только я закончу мою процедуру, мы найдем ее."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Behandlungsverfahren",
+        "Therapie",
+        "Heilverfahren",
+        "medizinische Versorgung",
+        "Darlegung"
+      ],
       "antonyms": [
         "die Vernachlässigung",
         "die Misshandlung",
@@ -2479,7 +2798,13 @@
           "ru": "Небось на дешёвые индийские?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nachzahlung",
+        "Kostenbeteiligung",
+        "Eigenanteil",
+        "Selbstbeteiligung",
+        "Franchise"
+      ],
       "antonyms": [
         "die Erstattung",
         "die Befreiung",
@@ -2514,7 +2839,13 @@
           "ru": "И на один шаг приближусь к освобождению из этой магической тюрьмы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Freistellung",
+        "Dispens",
+        "Erlösung",
+        "Errettung",
+        "Rettung"
+      ],
       "antonyms": [
         "die Verpflichtung",
         "die Bindung",
@@ -2549,7 +2880,13 @@
           "ru": "Но позже мы получили денежный перевод на 10 тысяч долларов - по настоящему хороший парень."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldsendung",
+        "Geldüberweisung",
+        "Geldanweisung",
+        "Abwälzung",
+        "Delegierung"
+      ],
       "antonyms": [
         "die Lastschrift, die Lastschriften",
         "die Abbuchung, die Abbuchungen"
@@ -2583,7 +2920,10 @@
           "ru": "Я попросил её перевести больше, чтобы у нас у всех было немного денег."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "remittieren (fachspr.",
+        "Überweisung tätigen"
+      ],
       "partizip_2": "überweist",
       "imperative": "überweise! / überweist! / überweisen Sie!",
       "conjugations": {
@@ -2660,7 +3000,13 @@
           "ru": "Вы хоть представляете, как ухаживали за зубами в эпоху эллинов?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vollprothese",
+        "falsche Zähne",
+        "Gebiss",
+        "Totalprothese",
+        "dritte Zähne"
+      ],
       "antonyms": []
     },
     {
@@ -2691,7 +3037,13 @@
           "ru": "Один из моих агентов сейчас носит очки, имитирующие твой имплантант."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Spekuliereisen (ugs.",
+        "Augengläser",
+        "Sehhilfe",
+        "Sehbehelf",
+        "Nasenfahrrad"
+      ],
       "antonyms": []
     },
     {
@@ -2753,7 +3105,9 @@
           "ru": "Почему ты не носишь слуховой аппарат?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hörsystem"
+      ],
       "antonyms": []
     },
     {
@@ -2784,7 +3138,13 @@
           "ru": "Тепер я знаю, что он получит лучшее лечение."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Konservierung",
+        "Unterhalt",
+        "Unterhaltung",
+        "Bewahrung",
+        "Erhaltung"
+      ],
       "antonyms": [
         "die Vernachlässigung",
         "die Verwahrolsung",
@@ -2819,7 +3179,13 @@
           "ru": "Чтобы иметь адекватную страховку в случае возникновения чрезвычайной ситуации, многие люди в молодом возрасте оформляют так называемую страховку по уходу за больными. Это обещает финансовую безопасность, если ваше здоровье больше не будет гарантировано и потребуется комплексный уход."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pflegeversprechen",
+        "Pflegebeteuerung",
+        "Pflegezusicherung",
+        "Pflegegarantie",
+        "Pflegezusage"
+      ],
       "antonyms": []
     },
     {
@@ -2850,7 +3216,10 @@
           "ru": "Посмотри, кем ты стал."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Invalide",
+        "Gebrechlicher"
+      ],
       "antonyms": []
     },
     {
@@ -2881,7 +3250,9 @@
           "ru": "Сертификат пригодности для работы по уходу за недееспособными людьми."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "häuslicher Sozialpflegedienst"
+      ],
       "antonyms": []
     },
     {
@@ -2912,7 +3283,13 @@
           "ru": "Поэтому я и отправил тебя в дом престарелых."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pfleheimlich",
+        "Pfleverdeckt",
+        "Pflegetarnt",
+        "Pflevertraulich",
+        "Pfleverschlusssache"
+      ],
       "antonyms": []
     },
     {
@@ -2943,7 +3320,13 @@
           "ru": "Бет подписала документы о донорстве и завещание."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Patientenorder",
+        "Patientenvorschrift",
+        "Patientenvorgabe",
+        "Patientenverordnung",
+        "Patientenregel"
+      ],
       "antonyms": []
     },
     {
@@ -2966,7 +3349,9 @@
           "ru": "Подожди, ты даешь ей право на принятие медицинских решений?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "dauerhafte Vollmacht"
+      ],
       "antonyms": []
     },
     {
@@ -2999,7 +3384,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kinderarzt"
+      ],
       "antonyms": []
     },
     {
@@ -3032,7 +3419,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gynäkologe"
+      ],
       "antonyms": []
     },
     {
@@ -3065,7 +3454,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gynäkologe"
+      ],
       "antonyms": []
     },
     {
@@ -3098,7 +3489,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Frauenarzt"
+      ],
       "antonyms": []
     },
     {
@@ -3131,7 +3524,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gynäkologe"
+      ],
       "antonyms": []
     },
     {
@@ -3164,7 +3559,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "HNO-Doktorin",
+        "HNO-Humanmediziner",
+        "HNO-Doktor",
+        "HNO-Medikus",
+        "HNO-Medicus"
+      ],
       "antonyms": []
     },
     {
@@ -3197,7 +3598,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ohrenarzt",
+        "Otorhinolaryngologe"
+      ],
       "antonyms": []
     },
     {
@@ -3230,7 +3634,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ophthalmologe",
+        "Okulist"
+      ],
       "antonyms": []
     },
     {
@@ -3263,7 +3670,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Augenarzt"
+      ],
       "antonyms": []
     },
     {
@@ -3296,7 +3705,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dermatologe"
+      ],
       "antonyms": []
     },
     {
@@ -3329,7 +3740,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dermatologe"
+      ],
       "antonyms": []
     },
     {
@@ -3362,7 +3775,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hautarzt"
+      ],
       "antonyms": []
     },
     {
@@ -3395,7 +3810,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dermatologe"
+      ],
       "antonyms": []
     },
     {
@@ -3428,7 +3845,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Herzspezialist"
+      ],
       "antonyms": []
     },
     {
@@ -3461,7 +3880,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kardiologe"
+      ],
       "antonyms": []
     },
     {
@@ -3494,7 +3915,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Knochenarzt",
+        "Knochendoktor"
+      ],
       "antonyms": []
     },
     {
@@ -3527,7 +3951,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Orthopäde"
+      ],
       "antonyms": []
     },
     {
@@ -3560,7 +3986,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nervenarzt"
+      ],
       "antonyms": []
     },
     {
@@ -3593,7 +4021,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Neurologe"
+      ],
       "antonyms": []
     },
     {
@@ -3626,7 +4056,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Klapsdoktor (ugs.",
+        "Irrenarzt (derb",
+        "Püschater (ugs.",
+        "Nervenarzt",
+        "Meisendoktor (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -3659,7 +4095,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Psychiater"
+      ],
       "antonyms": []
     },
     {
@@ -3692,7 +4130,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Seelenklempner",
+        "Püschologe (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -3725,7 +4166,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Psychologe"
+      ],
       "antonyms": []
     },
     {
@@ -3758,7 +4201,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Übungsgebühr"
+      ],
       "antonyms": []
     },
     {
@@ -3791,7 +4236,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bürozeiten",
+        "Öffnungszeiten"
+      ],
       "antonyms": []
     },
     {
@@ -3824,7 +4272,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ersatzarzt",
+        "Reservearzt"
+      ],
       "antonyms": []
     },
     {
@@ -3857,7 +4308,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesundheitsspeisekarte",
+        "Gesundheitsmenü",
+        "Gesundheitsspeisenkarte",
+        "Gesundheitsspeisezettel",
+        "Gesundheitsplan"
+      ],
       "antonyms": []
     },
     {
@@ -3890,7 +4347,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Chipspeisekarte",
+        "Chipmenü",
+        "Chipspeisenkarte",
+        "Chipspeisezettel",
+        "Chipplan"
+      ],
       "antonyms": []
     },
     {
@@ -3923,7 +4386,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gesetzliche Krankenversicherung",
+        "GKV"
+      ],
       "antonyms": []
     },
     {
@@ -3956,7 +4422,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ersatzgeldkasse",
+        "Ersatzladenkasse",
+        "Ersatzkassa",
+        "Ersatzgeldkassette",
+        "Ersatzgeldkasten"
+      ],
       "antonyms": []
     },
     {
@@ -3989,7 +4461,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zusatzversprechen",
+        "Zusatzbeteuerung",
+        "Zusatzzusicherung",
+        "Zusatzgarantie",
+        "Zusatzzusage"
+      ],
       "antonyms": []
     },
     {
@@ -4022,7 +4500,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Auslandsreisegesundheitskasse",
+        "Auslandsreiseknappschaft",
+        "Auslandsreisekrankenkassa",
+        "Auslandsreisekrankenkasse"
+      ],
       "antonyms": []
     },
     {
@@ -4055,7 +4538,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Krankenakte"
+      ],
       "antonyms": []
     },
     {
@@ -4088,7 +4573,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "medizinische Vorgeschichte",
+        "Krankengeschichte"
+      ],
       "antonyms": []
     },
     {
@@ -4121,7 +4609,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anamnesekurve",
+        "Anamnesezettel",
+        "Anamneseblatt",
+        "Anamnesepapier",
+        "Anamnesepapierblatt"
+      ],
       "antonyms": []
     },
     {
@@ -4154,7 +4648,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einwilligung",
+        "Genehmigung",
+        "Erlaubniserteilung (Amtsdeutsch",
+        "Gestattung (Amtsdeutsch",
+        "Zulassungsverfahren"
+      ],
       "antonyms": []
     },
     {
@@ -4187,7 +4687,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Medikamentenverordnung"
+      ],
       "antonyms": []
     },
     {
@@ -4220,7 +4722,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Apothekenauflage",
+        "Apothekenmuss",
+        "Apothekenzwang",
+        "Apothekenbestimmung",
+        "Apothekenerforderlichkeit"
+      ],
       "antonyms": []
     },
     {
@@ -4253,7 +4761,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arzneimittel",
+        "Präparat",
+        "Arzenei",
+        "Medizin",
+        "Remedium"
+      ],
       "antonyms": []
     },
     {
@@ -4286,7 +4800,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Heilmittel",
+        "Präparat",
+        "Arzenei",
+        "Medizin",
+        "Remedium"
+      ],
       "antonyms": []
     },
     {
@@ -4319,7 +4839,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schmerzmittel"
+      ],
       "antonyms": []
     },
     {
@@ -4352,7 +4874,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Betäubungsmittel",
+        "Analgetikum"
+      ],
       "antonyms": []
     },
     {
@@ -4385,7 +4910,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Paste",
+        "Creme",
+        "Balsam",
+        "Krem",
+        "Kreme"
+      ],
       "antonyms": []
     },
     {
@@ -4451,7 +4982,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "tröpfeln",
+        "träufeln",
+        "Gesöff",
+        "Trinken",
+        "Trunk"
+      ],
       "antonyms": []
     },
     {
@@ -4484,7 +5021,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Antitussivum",
+        "Hustenmittel"
+      ],
       "antonyms": []
     },
     {
@@ -4583,7 +5123,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Straßenpflaster",
+        "Heftpflaster",
+        "Fahrbahn",
+        "Straßendecke",
+        "Fahrbahndecke"
+      ],
       "antonyms": []
     },
     {
@@ -4616,7 +5162,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gruppe",
+        "Rotte",
+        "Formation",
+        "Schar",
+        "Kolonne"
+      ],
       "antonyms": []
     },
     {
@@ -4649,7 +5201,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bindenverband",
+        "Monatsbinde",
+        "Damenbinde"
+      ],
       "antonyms": []
     },
     {
@@ -4682,7 +5238,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umschlag",
+        "Verband",
+        "Verbandzeug",
+        "Mullverband",
+        "Bandage"
+      ],
       "antonyms": []
     },
     {
@@ -4715,7 +5277,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Injektion",
+        "Injektionsspritze",
+        "Pumpe"
+      ],
       "antonyms": []
     },
     {
@@ -4781,7 +5347,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Impfschwung",
+        "Impfeinheit",
+        "Impfbatzen",
+        "Impfquote",
+        "Impfpaket"
+      ],
       "antonyms": []
     },
     {
@@ -4814,7 +5386,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Spritze (ugs.",
+        "Impfe",
+        "Jaukerl (ugs.",
+        "Impfstoffgabe",
+        "Vakzinierung"
+      ],
       "antonyms": []
     },
     {
@@ -4847,7 +5425,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Impfgegenrede",
+        "Impfrückäußerung",
+        "Impfgegenbemerkung",
+        "Impfkonter",
+        "Impfrückmeldung"
+      ],
       "antonyms": []
     },
     {
@@ -4880,7 +5464,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Impfstoffschaden"
+      ],
       "antonyms": []
     },
     {
@@ -4913,7 +5499,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Voraussicht",
+        "Vorkehrung",
+        "Vorbedacht"
+      ],
       "antonyms": []
     },
     {
@@ -4946,7 +5536,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Früheridentifikation",
+        "Frühergeheimzeichen",
+        "Früheridentifikationsnummer",
+        "Früheridentifizierungszeichen",
+        "Früherid"
+      ],
       "antonyms": []
     },
     {
@@ -4979,7 +5575,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Krebsprävention"
+      ],
       "antonyms": []
     },
     {
@@ -5012,7 +5610,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hämogramm (fachspr.",
+        "Hämatogramm (fachspr."
+      ],
       "antonyms": []
     },
     {
@@ -5045,7 +5646,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Blutabnahme",
+        "Aderlass (geh."
+      ],
       "antonyms": []
     },
     {
@@ -5078,7 +5682,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bluterprobung",
+        "Blutprüfung",
+        "Bluttest",
+        "Blutversuch",
+        "Blutmuster"
+      ],
       "antonyms": []
     },
     {
@@ -5111,7 +5721,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Urinerprobung",
+        "Urinprüfung",
+        "Urintest",
+        "Urinversuch",
+        "Urinmuster"
+      ],
       "antonyms": []
     },
     {
@@ -5144,7 +5760,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sonografie",
+        "Ultraschall",
+        "Sonographie",
+        "Echografie"
+      ],
       "antonyms": []
     },
     {
@@ -5177,7 +5798,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Röntgenaufnahmen machen",
+        "durchleuchten",
+        "Röntgendiagnostik"
+      ],
       "antonyms": []
     },
     {
@@ -5210,7 +5835,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Radiographie",
+        "Röntgenaufnahme",
+        "Röntgenfoto"
+      ],
       "antonyms": []
     },
     {
@@ -5243,7 +5872,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Elektrokardiogramm"
+      ],
       "antonyms": []
     },
     {
@@ -5276,7 +5907,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gefäßdruck"
+      ],
       "antonyms": []
     },
     {
@@ -5309,7 +5942,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Blutdruckmesser",
+        "Sphygmomanometer (fachspr."
+      ],
       "antonyms": []
     },
     {
@@ -5342,7 +5978,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "klinisches Thermometer"
+      ],
       "antonyms": []
     },
     {
@@ -5375,7 +6013,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pflegekraft",
+        "Pfleger",
+        "Pflegerin",
+        "Pflegeperson",
+        "Pflegefachkraft"
+      ],
       "antonyms": []
     },
     {
@@ -5408,7 +6052,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pflegekraft",
+        "Pfleger",
+        "Pflegerin",
+        "Pflegeperson",
+        "Pflegefachkraft"
+      ],
       "antonyms": []
     },
     {
@@ -5441,7 +6091,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Krankenschwester"
+      ],
       "antonyms": []
     },
     {
@@ -5474,7 +6126,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entbindungspflegerin",
+        "Entbindungspfleger (fachspr.",
+        "Geburtshelferin",
+        "Pümpel",
+        "Gummiglocke"
+      ],
       "antonyms": []
     },
     {
@@ -5540,7 +6198,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "krankgeschrieben werden"
+      ],
       "antonyms": []
     },
     {
@@ -5573,7 +6233,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "schreibe gut"
+      ],
       "antonyms": []
     },
     {
@@ -5606,7 +6268,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sich fügen",
+        "sich zufriedengeben",
+        "ertragen",
+        "sich abfinden",
+        "hinnehmen"
+      ],
       "antonyms": []
     },
     {
@@ -5639,7 +6307,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verteilen",
+        "verschmieren",
+        "maßstabsgetreu zeichnen",
+        "maßstabsgerecht zeichnen",
+        "mandatieren"
+      ],
       "antonyms": []
     },
     {
@@ -5672,7 +6346,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Luft holen",
+        "einatmen",
+        "Einatmen",
+        "Inhalation"
+      ],
       "antonyms": []
     },
     {
@@ -5705,7 +6384,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "keimfrei machen",
+        "Desinfektion",
+        "Keimreduktion"
+      ],
       "antonyms": []
     },
     {
@@ -5738,7 +6421,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "geimpft werden",
+        "Ärmel hochkrempeln"
+      ],
       "antonyms": []
     },
     {
@@ -5771,7 +6457,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "frankieren",
+        "entkleiden",
+        "ablegen",
+        "enthüllen",
+        "auskleiden"
+      ],
       "antonyms": []
     },
     {
@@ -5804,7 +6496,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Luft holen",
+        "Luft bekommen",
+        "Luft  einziehen",
+        "Luft kriegen"
+      ],
       "antonyms": []
     },
     {
@@ -5837,7 +6534,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Luft holen",
+        "inhalieren",
+        "Inhalieren",
+        "Inhalation"
+      ],
       "antonyms": []
     },
     {
@@ -5870,7 +6572,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "aushauchen",
+        "exspirieren",
+        "aspirieren (geh.",
+        "exhalieren"
+      ],
       "antonyms": []
     },
     {
@@ -5936,7 +6643,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Blut verlieren"
+      ],
       "antonyms": []
     },
     {
@@ -5969,7 +6678,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "leiden darunter"
+      ],
       "antonyms": []
     }
   ]

@@ -77,7 +77,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Urteilsfindung",
+        "Abstimmung",
+        "Entscheidung",
+        "voten",
+        "stimmen"
+      ],
       "partizip_2": "abgestimmet",
       "imperative": "stimme ab! / stimmet ab! / stimmen Sie ab!",
       "conjugations": {
@@ -122,7 +128,13 @@
           "ru": "Сегодня перед нами стоит очень длинная повестка дня."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Agenda",
+        "Traktandenliste",
+        "Themenkatalog",
+        "Arbeitsplan",
+        "Tagesprogramm"
+      ],
       "antonyms": []
     },
     {
@@ -153,7 +165,13 @@
           "ru": "Официальный протокол должен быть подписан руководителем проекта."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sitzungsprotokoll",
+        "Aufzeichnungen",
+        "Mitschrift",
+        "Memo",
+        "Niederschrift"
+      ],
       "antonyms": []
     },
     {
@@ -184,7 +202,13 @@
           "ru": "Важно протоколировать отклонения от плана."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "niederschreiben",
+        "vermerken",
+        "notieren",
+        "anmerken",
+        "loggen"
+      ],
       "partizip_2": "protokolliert",
       "imperative": "protokolliere! / protokolliert! / protokollieren Sie!",
       "conjugations": {
@@ -226,7 +250,13 @@
           "ru": "Конструктивная обратная связь помогает нам оптимизировать продукт."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rückmeldung",
+        "Resonanz",
+        "Kommentar",
+        "Anregung",
+        "Stellungnahme"
+      ],
       "antonyms": []
     },
     {
@@ -257,7 +287,13 @@
           "ru": "Пожалуйста, дайте мне короткий ответ, когда закончите."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gegenrede",
+        "Reaktion",
+        "Rückäußerung",
+        "Gegenbemerkung",
+        "Konter"
+      ],
       "antonyms": []
     },
     {
@@ -288,7 +324,13 @@
           "ru": "Отчет содержит важные данные об использовании бюджета."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kunde (geh.",
+        "Mitteilung",
+        "Nachricht",
+        "Informationsaustausch",
+        "Bekanntmachung"
+      ],
       "antonyms": []
     },
     {
@@ -319,7 +361,12 @@
           "ru": "Она сообщила команде о новых требованиях клиента."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bericht erstatten",
+        "rapportieren",
+        "reportieren",
+        "melden"
+      ],
       "partizip_2": "berichtet",
       "imperative": "berichte! / berichtet! / berichten Sie!",
       "conjugations": {
@@ -372,7 +419,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fortschrittsbericht"
+      ],
       "antonyms": [
         "der Abschlussbericht, die Berichte",
         "der Endbericht, die Berichte"
@@ -406,7 +455,13 @@
           "ru": "Отчет о статусе показывает задержки в разработке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Statusmitteilung",
+        "Statusnachricht",
+        "Statusinformationsaustausch",
+        "Statusbekanntmachung",
+        "Statusbotschaft"
+      ],
       "antonyms": []
     },
     {
@@ -437,7 +492,12 @@
           "ru": "Мы приняли важные решения на совещании."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Besprechung",
+        "Sitzung",
+        "Jour fixe",
+        "Konferenz"
+      ],
       "antonyms": []
     },
     {
@@ -468,7 +528,13 @@
           "ru": "Она обсудила бюджет с финансовым директором."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rücksprache halten",
+        "wörteln",
+        "durchsprechen",
+        "reden",
+        "bereden"
+      ],
       "partizip_2": "besprochen",
       "imperative": "besprich! / besprecht! / besprechen Sie!",
       "conjugations": {
@@ -515,7 +581,13 @@
           "ru": "Ежудневное совещание проходит стоя."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Beratung",
+        "Konsultation",
+        "Consulting",
+        "Beratungsgespräch",
+        "kritische Bewertung"
+      ],
       "antonyms": []
     },
     {
@@ -546,7 +618,9 @@
           "ru": "Мы реструктурировали поток информации."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Informationsstrom"
+      ],
       "antonyms": [
         "die Informationssperre, die Informationssperren"
       ]
@@ -579,7 +653,11 @@
           "ru": "Хорошее взаимодействие экономит время и снижает количество ошибок."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anschluss",
+        "Interface",
+        "Verbindung"
+      ],
       "antonyms": []
     },
     {
@@ -610,7 +688,13 @@
           "ru": "Посредник помог разрешить конфликт между отделами."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Streit",
+        "Auseinandersetzung",
+        "Kontroverse",
+        "Fehde",
+        "Beef (ugs."
+      ],
       "antonyms": [
         "die Harmonie, die Harmonien",
         "der Konsens, die Konsense",
@@ -645,7 +729,13 @@
           "ru": "Мы нашли конструктивное решение конфликта."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Konfliktlösungsmodell",
+        "Konfliktproblemlösung",
+        "Konfliktmodell",
+        "Konfliktantwort",
+        "Konfliktlösungsansatz"
+      ],
       "antonyms": [
         "die Konflikteskalation, die Konflikteskalationen"
       ]
@@ -678,7 +768,13 @@
           "ru": "Непредвиденный риск остановил проект."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "drohendes Unheil",
+        "Gefährdung",
+        "Gefahr",
+        "Unsicherheit",
+        "Pulverfass"
+      ],
       "antonyms": [
         "die Sicherheit, die Sicherheiten",
         "die Chance, die Chancen"
@@ -752,7 +848,11 @@
           "ru": "Оценка рисков документируется в реестре рисков."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Risikobeurteilung",
+        "Risikoabwägung",
+        "Risikoeinschätzung"
+      ],
       "antonyms": []
     },
     {
@@ -783,7 +883,11 @@
           "ru": "Небольшие проблемы могут перерасти в крупные кризисы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Problematik",
+        "Schwierigkeit",
+        "schwierige Frage"
+      ],
       "antonyms": [
         "die Lösung, die Lösungen"
       ]
@@ -816,7 +920,13 @@
           "ru": "Он внес значительный вклад в решение проблемы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fehlerbeseitigung",
+        "Nachbesserung",
+        "Reparatur",
+        "Mängelbeseitigung",
+        "Fehlerbehebung"
+      ],
       "antonyms": [
         "die Problementstehung, die Problementstehungen"
       ]
@@ -849,7 +959,13 @@
           "ru": "Мы пытаемся решить проблему внутри компании."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gehen lassen",
+        "losschnallen",
+        "abschnallen",
+        "loshaken",
+        "Ablösung"
+      ],
       "partizip_2": "gelöst",
       "imperative": "löse! / löst! / lösen Sie!",
       "conjugations": {
@@ -894,7 +1010,13 @@
           "ru": "Есть ли сейчас препятствия, блокирующие прогресс?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bremsklotz",
+        "Blockade",
+        "Barriere",
+        "Stolperstein",
+        "Hemmnis"
+      ],
       "antonyms": [
         "die Erleichterung, die Erleichterungen",
         "die Hilfe, die Hilfen",
@@ -929,7 +1051,13 @@
           "ru": "Отсутствие одного разработчика задерживает завершение."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "aufhalten",
+        "anhalten",
+        "behindern",
+        "hintanstellen",
+        "prokrastinieren"
+      ],
       "partizip_2": "verzögert",
       "imperative": "verzögere! / verzögert! / verzögern Sie!",
       "conjugations": {
@@ -1019,7 +1147,13 @@
           "ru": "В конце концов они потерпели неудачу, несмотря на большие усилия."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fehlschlag",
+        "Misserfolg",
+        "Flop",
+        "Reinfall",
+        "Klatsche (ugs."
+      ],
       "partizip_2": "gescheitert",
       "imperative": "scheitere! / scheitert! / scheitern Sie!",
       "conjugations": {
@@ -1067,7 +1201,13 @@
           "ru": "Никто в команде не хочет быть ответственным за провал."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fehlschlag",
+        "Flop",
+        "Scheitern",
+        "Reinfall",
+        "Klatsche (ugs."
+      ],
       "antonyms": [
         "der Erfolg, die Erfolge"
       ]
@@ -1100,7 +1240,13 @@
           "ru": "Дублирования работы следует обязательно избегать."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Meiden",
+        "Vermeidung",
+        "Umgehung",
+        "präterieren (geh.",
+        "skippen"
+      ],
       "partizip_2": "vermieden",
       "imperative": "vermeide! / vermeidet! / vermeiden Sie!",
       "conjugations": {
@@ -1146,7 +1292,9 @@
           "ru": "Благодаря тестированию мы добиваемся значительного снижения рисков."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Risikominderung"
+      ],
       "antonyms": [
         "die Risikomaximierung, die Risikomaximierungen"
       ]
@@ -1184,7 +1332,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "fertig werden",
+        "deichseln",
+        "beikommen",
+        "schaffen",
+        "fertigkriegen"
+      ],
       "partizip_2": "bewältigt",
       "imperative": "bewältige! / bewältigt! / bewältigen Sie!",
       "conjugations": {
@@ -1229,7 +1383,13 @@
           "ru": "Успешное выполнение проекта было командным достижением."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abschluss",
+        "Schlussstrich",
+        "Vollendung",
+        "Vollbringung",
+        "Erfüllung"
+      ],
       "antonyms": [
         "das Scheitern",
         "das Versagen"
@@ -1263,7 +1423,13 @@
           "ru": "Это было чистое недоразумение между командами."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Irrung (geh.",
+        "Fehlannahme",
+        "falsche Annahme",
+        "Irrglaube",
+        "unbewusster Fehlschluss"
+      ],
       "antonyms": [
         "das Einvernehmen, (nur Sg.)",
         "das Verständnis, (nur Sg.)"
@@ -1297,7 +1463,13 @@
           "ru": "Мы общаемся ежедневно на стендап-встрече."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bekannt geben",
+        "affichieren (geh.",
+        "bekannt machen",
+        "mitteilen",
+        "veröffentlichen"
+      ],
       "partizip_2": "kommuniziert",
       "imperative": "kommuniziere! / kommuniziert! / kommunizieren Sie!",
       "conjugations": {
@@ -1345,7 +1517,13 @@
           "ru": "Общение с клиентом осуществляется по электронной почте."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Beziehung",
+        "Verbindung",
+        "Kontakt",
+        "Konnex",
+        "Umgang"
+      ],
       "antonyms": [
         "das Schweigen, (nur Sg.)",
         "die Sprachlosigkeit, (nur Sg.)"
@@ -1379,7 +1557,13 @@
           "ru": "Все решения должны быть прозрачно задокументированы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "klar",
+        "durchscheinend",
+        "durchsichtig",
+        "ungetrübt",
+        "Spruchbanner"
+      ],
       "antonyms": [
         "intransparent",
         "undurchsichtig",
@@ -1414,7 +1598,12 @@
           "ru": "Прозрачность наших процессов — это конкурентное преимущество."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Luzidität",
+        "Durchsichtigkeit",
+        "Lichtdurchlässigkeit",
+        "Klarheit"
+      ],
       "antonyms": [
         "die Intransparenz, (nur Sg.)",
         "die Undurchsichtigkeit, (nur Sg.)"
@@ -1486,7 +1675,13 @@
           "ru": "Четкий путь эскалации помогает при проблемах."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aus-dem-Ruder-Laufen",
+        "Entgleisen",
+        "Kontrollverlust",
+        "Entgleisung",
+        "Ausufern"
+      ],
       "antonyms": [
         "die Deeskalation, die Deeskalationen"
       ]
@@ -1519,7 +1714,13 @@
           "ru": "Мы не хотим дальнейшего обострения конфликта."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sich ausweiten",
+        "weit kommen",
+        "sich auswachsen",
+        "ausarten",
+        "aggressiver werden"
+      ],
       "partizip_2": "eskaliert",
       "imperative": "eskaliere! / eskaliert! / eskalieren Sie!",
       "conjugations": {
@@ -1565,7 +1766,13 @@
           "ru": "Пожалуйста, проверьте аварийный план на актуальность."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Notfallflächig",
+        "Notfallplanar",
+        "Notfallwaagrecht",
+        "Notfallwaagerecht",
+        "Notfallplatt"
+      ],
       "antonyms": []
     },
     {
@@ -1596,7 +1803,13 @@
           "ru": "Мы проверяем эффективность принятых мер."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "...aktion",
+        "Aktion",
+        "Schritte",
+        "Tätigwerden",
+        "Move"
+      ],
       "antonyms": []
     },
     {
@@ -1627,7 +1840,13 @@
           "ru": "Важно своевременно принять меры."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "packen",
+        "hoppnehmen",
+        "fassen",
+        "kriegen",
+        "schnappen"
+      ],
       "partizip_2": "ergriffen",
       "imperative": "ergreife! / ergreift! / ergreifen Sie!",
       "conjugations": {
@@ -1672,7 +1891,11 @@
           "ru": "Предупреждение касалось рисков безопасности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vorwarnung",
+        "Warnung",
+        "Mahnung"
+      ],
       "antonyms": []
     },
     {
@@ -1703,7 +1926,13 @@
           "ru": "Мы заложили бюджет на непредвиденные случаи."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "unversehens",
+        "unvermittelt",
+        "unerwarteterweise",
+        "unvermutet",
+        "unverhofft"
+      ],
       "antonyms": [
         "vorhersehbar",
         "erwartet",
@@ -1738,7 +1967,13 @@
           "ru": "Какие сложности вы ожидаете на этапе 2?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verwicklung",
+        "Haken",
+        "Fitz",
+        "Stolperstein",
+        "Komplikation"
+      ],
       "antonyms": [
         "die Leichtigkeit, (nur Sg.)",
         "die Einfachheit, (nur Sg.)"
@@ -1772,7 +2007,13 @@
           "ru": "Конфликт удалось быстро разрешить."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "entschlüsseln",
+        "enträtseln",
+        "untersuchen",
+        "aufklären",
+        "erforschen"
+      ],
       "partizip_2": "geklärt",
       "imperative": "kläre! / klärt! / klären Sie!",
       "conjugations": {
@@ -1819,7 +2060,13 @@
           "ru": "Это привело к быстрому прояснению проблемы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufschluss",
+        "Klarstellung",
+        "Aufklärung",
+        "Abklärung",
+        "Beantwortung"
+      ],
       "antonyms": [
         "die Verwirrung, die Verwirrungen",
         "die Verkomplizierung, die Verkomplizierungen"
@@ -1895,7 +2142,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projekthergang",
+        "Projektverlauf",
+        "Projektvorgang",
+        "Projektprozess",
+        "Projektgeschehnis"
+      ],
       "antonyms": []
     },
     {
@@ -1928,7 +2181,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektantragstellung",
+        "Projektersuchen",
+        "Projektgesuch",
+        "Projekteingabe",
+        "Projektheiratsantrag"
+      ],
       "antonyms": []
     },
     {
@@ -1961,7 +2220,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aktivitätsanalyse"
+      ],
       "antonyms": []
     },
     {
@@ -1994,7 +2255,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Prozesslenkung",
+        "Prozessregelung"
+      ],
       "antonyms": []
     },
     {
@@ -2027,7 +2291,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Qualitätsanspruch"
+      ],
       "antonyms": []
     },
     {
@@ -2060,7 +2326,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Qualitätssicherungs...aktion",
+        "Qualitätssicherungsaktion",
+        "Qualitätssicherungsschritte",
+        "Qualitätssicherungstätigwerden",
+        "Qualitätssicherungsmove"
+      ],
       "antonyms": []
     },
     {
@@ -2093,7 +2365,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rahmendisposition",
+        "Rahmenlayout",
+        "Rahmenskizze",
+        "Rahmenichnographie",
+        "Rahmengrundriss"
+      ],
       "antonyms": []
     },
     {
@@ -2126,7 +2404,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Referenzunternehmung",
+        "Referenzstreben",
+        "Referenzvorhaben",
+        "Referenzunternehmen",
+        "Referenzansinnen"
+      ],
       "antonyms": []
     },
     {
@@ -2159,7 +2443,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Regelmäßiges Treffen"
+      ],
       "antonyms": []
     },
     {
@@ -2192,7 +2478,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Faktorallokation"
+      ],
       "antonyms": []
     },
     {
@@ -2225,7 +2513,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ressourcenuntersuchung",
+        "Ressourcenstudie",
+        "Ressourcenüberprüfung",
+        "Ressourcenauswertung",
+        "Ressourcenbegutachtung"
+      ],
       "antonyms": []
     },
     {
@@ -2258,7 +2552,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ressourcendisposition",
+        "Ressourcenlayout",
+        "Ressourcenskizze",
+        "Ressourcenichnographie",
+        "Ressourcengrundriss"
+      ],
       "antonyms": []
     },
     {
@@ -2291,7 +2591,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Risikomanagementmethode"
+      ],
       "antonyms": []
     },
     {
@@ -2324,7 +2626,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rollenaufteilung",
+        "Aufgabenverteilung"
+      ],
       "antonyms": []
     },
     {
@@ -2357,7 +2662,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rückkoppelung"
+      ],
       "antonyms": []
     },
     {
@@ -2390,7 +2697,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schwachstellenuntersuchung",
+        "Schwachstellenstudie",
+        "Schwachstellenüberprüfung",
+        "Schwachstellenauswertung",
+        "Schwachstellenbegutachtung"
+      ],
       "antonyms": []
     },
     {
@@ -2423,7 +2736,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Scrum-Besprechung",
+        "Scrum-Sitzung",
+        "Scrum-Konferenz"
+      ],
       "antonyms": []
     },
     {
@@ -2456,7 +2773,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sprint-Meeting"
+      ],
       "antonyms": []
     },
     {
@@ -2489,7 +2808,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sprint-Meetings"
+      ],
       "antonyms": []
     },
     {
@@ -2522,7 +2843,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stakeholder-Neigung",
+        "Stakeholder-Neugier",
+        "Stakeholder-Neugierde",
+        "Stakeholder-Belang",
+        "Stakeholder-Offenheit"
+      ],
       "antonyms": []
     },
     {
@@ -2555,7 +2882,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Normung",
+        "Normierung"
+      ],
       "antonyms": []
     },
     {
@@ -2588,7 +2918,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Statusupdate",
+        "Statusupgrade",
+        "Statussoftwareaktualisierung",
+        "Statuserneuerung",
+        "Statusaufarbeitung"
+      ],
       "antonyms": []
     },
     {
@@ -2621,7 +2957,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Statusmonitor",
+        "Statusanzeigegerät",
+        "Statusdisplay",
+        "Statusschirm",
+        "Statusbildschirm"
+      ],
       "antonyms": []
     },
     {
@@ -2654,7 +2996,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Statusnachricht",
+        "Statusneuigkeit",
+        "Statushinweis",
+        "Statusauskunft",
+        "Statusbotschaft"
+      ],
       "antonyms": []
     },
     {
@@ -2687,7 +3035,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitsplatzbeschreibung"
+      ],
       "antonyms": []
     },
     {
@@ -2720,7 +3070,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lenkungsgruppe"
+      ],
       "antonyms": []
     },
     {
@@ -2753,7 +3105,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Systemuntersuchung",
+        "Systemstudie",
+        "Systemüberprüfung",
+        "Systemauswertung",
+        "Systembegutachtung"
+      ],
       "antonyms": []
     },
     {
@@ -2786,7 +3144,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Systemaufnahme",
+        "Systemzusammenführung",
+        "Systemeinbeziehung",
+        "Systemeingliederung",
+        "Systemeinbindung"
+      ],
       "antonyms": []
     },
     {
@@ -2819,7 +3183,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teamabsprache",
+        "Teamabstimmung",
+        "Teamkoordinierung"
+      ],
       "antonyms": []
     },
     {
@@ -2852,7 +3220,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teamverdienst",
+        "Teamverdienste",
+        "Teammeriten",
+        "Teamerrungenschaft",
+        "Teamenergie"
+      ],
       "antonyms": []
     },
     {
@@ -2885,7 +3259,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teamfestlegung",
+        "Teamdeklaration",
+        "Teamübereinkommen",
+        "Teamvertrag",
+        "Teamübereinkunft"
+      ],
       "antonyms": []
     },
     {
@@ -2918,7 +3298,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teamzusammenklassenarbeit",
+        "Teamzusammenlernerfolgskontrolle",
+        "Teamzusammenklausur",
+        "Teamzusammentest",
+        "Teamzusammenschularbeit"
+      ],
       "antonyms": []
     },
     {
@@ -2951,7 +3337,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Terminkoordination"
+      ],
       "antonyms": []
     },
     {
@@ -2984,7 +3372,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fristen einhalten",
+        "Einhaltungsfristen"
+      ],
       "antonyms": []
     },
     {
@@ -3017,7 +3408,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fristenkontrolle",
+        "Zeitkontrolle"
+      ],
       "antonyms": []
     },
     {
@@ -3050,7 +3444,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeitkontrolle"
+      ],
       "antonyms": []
     },
     {
@@ -3083,7 +3479,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pilotphase",
+        "Versuchsphase",
+        "Versuchsstadium",
+        "Erprobungsphase",
+        "Experimentierstadium"
+      ],
       "antonyms": []
     },
     {
@@ -3116,7 +3518,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Testflächig",
+        "Testplanar",
+        "Testwaagrecht",
+        "Testwaagerecht",
+        "Testplatt"
+      ],
       "antonyms": []
     },
     {
@@ -3149,7 +3557,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Testverfeinerung",
+        "Testpräzisierung",
+        "Testkonkretisierung",
+        "Testspezifizierung"
+      ],
       "antonyms": []
     },
     {
@@ -3182,7 +3595,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unteraufgabe"
+      ],
       "antonyms": []
     },
     {
@@ -3215,7 +3630,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wegmarke",
+        "Zwischenziel",
+        "Zwischenschritt",
+        "Etappenziel"
+      ],
       "antonyms": []
     },
     {
@@ -3248,7 +3668,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umweltanalyse"
+      ],
       "antonyms": []
     },
     {
@@ -3281,7 +3703,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Implementierungsphase"
+      ],
       "antonyms": []
     },
     {
@@ -3314,7 +3738,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umsetzungsplan",
+        "Umsetzungsvorgehensweise",
+        "Umsetzungsstrategem",
+        "Umsetzungsfahrplan",
+        "Umsetzungsmasterplan"
+      ],
       "antonyms": []
     },
     {
@@ -3347,7 +3777,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "User-Story-Design",
+        "User-Story-Konzeption",
+        "User-Story-Konzept",
+        "User-Story-Plan",
+        "User-Story-Layout"
+      ],
       "antonyms": []
     },
     {
@@ -3380,7 +3816,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fortschrittsdokumentation"
+      ],
       "antonyms": []
     },
     {
@@ -3413,7 +3851,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ausfallkosten",
+        "Standardkosten"
+      ],
       "antonyms": []
     },
     {
@@ -3446,7 +3887,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vorbereitungsfight",
+        "Vorbereitungsbegegnung",
+        "Vorbereitungsmatch",
+        "Vorbereitungskampf",
+        "Vorbereitungsrunde"
+      ],
       "antonyms": []
     },
     {
@@ -3479,7 +3926,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gangart",
+        "Handlungsweise",
+        "Plan",
+        "Strategem",
+        "Fahrplan"
+      ],
       "antonyms": []
     },
     {
@@ -3512,7 +3965,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Werte schaffen"
+      ],
       "antonyms": []
     },
     {
@@ -3545,7 +4000,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wertkette"
+      ],
       "antonyms": []
     },
     {
@@ -3578,7 +4035,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeitleiste",
+        "Chronologie"
+      ],
       "antonyms": []
     },
     {
@@ -3611,7 +4071,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zielunregelmäßigkeit",
+        "Zielregelwidrigkeit",
+        "Zielazimut",
+        "Zielablage",
+        "Zielaberration"
+      ],
       "antonyms": []
     },
     {
@@ -3644,7 +4110,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Absichtserklärung"
+      ],
       "antonyms": []
     },
     {
@@ -3677,7 +4145,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zwischenbilanz"
+      ],
       "antonyms": []
     },
     {
@@ -3710,7 +4180,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teilziel",
+        "Wegmarke",
+        "Zwischenschritt",
+        "Etappenziel"
+      ],
       "antonyms": []
     },
     {
@@ -3743,7 +4218,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "beherrschen",
+        "herrschen",
+        "regeln",
+        "Aufgabe übernehmen",
+        "Nötige veranlassen"
+      ],
       "antonyms": []
     },
     {
@@ -3776,7 +4257,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Grenze setzen",
+        "kleinhalten",
+        "limitieren (geh.",
+        "Grenze ziehen",
+        "verringern"
+      ],
       "antonyms": []
     },
     {
@@ -3809,7 +4296,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abrollen",
+        "Betrieb einstellen",
+        "plattmachen",
+        "auflösen",
+        "schließen"
+      ],
       "antonyms": []
     },
     {
@@ -3842,7 +4335,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nachverfolgen"
+      ],
       "antonyms": []
     },
     {
@@ -3875,7 +4370,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "herrichten",
+        "fit machen",
+        "hinrichten (ugs.",
+        "zurechtmachen",
+        "zurichten (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -3908,7 +4409,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "fortführen",
+        "fortfahren",
+        "weiterführen",
+        "kontinuieren",
+        "weitermachen"
+      ],
       "antonyms": []
     },
     {
@@ -3941,7 +4448,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "entspannen",
+        "sich  ausruhen",
+        "rasten",
+        "relaxen",
+        "Rast machen"
+      ],
       "antonyms": []
     },
     {
@@ -3974,7 +4487,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "fortfahren",
+        "weiterführen",
+        "kontinuieren",
+        "weitermachen",
+        "fortsetzen"
+      ],
       "antonyms": []
     },
     {
@@ -4007,7 +4526,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "entschleunigen",
+        "Vollbremsung machen",
+        "bremsen",
+        "abbremsen",
+        "abstoppen"
+      ],
       "antonyms": []
     },
     {
@@ -4040,7 +4565,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "hintanstellen",
+        "prokrastinieren",
+        "verschleppen",
+        "zurückhalten",
+        "liegen lassen"
+      ],
       "antonyms": []
     },
     {
@@ -4073,7 +4604,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "dekretieren",
+        "Anweisung geben",
+        "anordnen",
+        "vorschreiben",
+        "erlassen"
+      ],
       "antonyms": []
     },
     {
@@ -4106,7 +4643,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Detail"
+      ],
       "antonyms": []
     },
     {
@@ -4139,7 +4678,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nachricht geben",
+        "weitergeben",
+        "sich melden",
+        "Bescheid sagen",
+        "weiterleiten"
+      ],
       "antonyms": []
     },
     {
@@ -4172,7 +4717,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bericht erstatten",
+        "Bericht"
+      ],
       "antonyms": []
     },
     {
@@ -4205,7 +4753,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Absprache treffen",
+        "ausverhandeln",
+        "Vereinbarung treffen",
+        "vereinbaren",
+        "akkordieren (geh."
+      ],
       "antonyms": []
     },
     {
@@ -4238,7 +4792,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "beglaubigen",
+        "authentifizieren",
+        "bezeugen",
+        "bestätigen"
+      ],
       "antonyms": []
     }
   ]

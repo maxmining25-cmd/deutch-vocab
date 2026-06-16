@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "buildCommand": "python compile_vocab.py",
+  "outputDirectory": ".",
+  "installCommand": "echo 'no install needed'",
+  "rewrites": [
+    { "source": "/", "destination": "/projektmanagement_wortschatz.html" }
+  ]
+}

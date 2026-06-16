@@ -29,7 +29,13 @@
           "ru": "Удерживайте сердцевину своей силы в повседневной жизни."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gewohnheit",
+        "Trott",
+        "Alltagstrott",
+        "Regelmäßigkeit",
+        "Joch"
+      ],
       "antonyms": [
         "der Feiertag",
         "das Wochenende",
@@ -64,7 +70,11 @@
           "ru": "Его даже наказывали за то, что он пил на работе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Service",
+        "Angebot",
+        "Dienstleistung"
+      ],
       "antonyms": [
         "die Freizeit",
         "die Pause",
@@ -99,7 +109,13 @@
           "ru": "Это позволяет подрядчику уменьшить время простоя печатного оборудования клиента, повысить качество печати и сократить объем опасных отходов и растворителей, требующих утилизации."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Betreiber",
+        "Versorger",
+        "Provider",
+        "Anbieter",
+        "Serviceunternehmen"
+      ],
       "antonyms": [
         "der Kunde",
         "der Verbraucher",
@@ -134,7 +150,13 @@
           "ru": "Я понимаю всю деликатность момента, детектив, но вам письмо."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Postdienststelle",
+        "Postamt",
+        "Schreiben",
+        "Briefpost",
+        "Korrespondenz"
+      ],
       "antonyms": []
     },
     {
@@ -165,7 +187,13 @@
           "ru": "Почтальон заметил, что дверь взломана."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Briefträger",
+        "Postzusteller",
+        "Postmann",
+        "Pöstler",
+        "Zusteller"
+      ],
       "antonyms": []
     },
     {
@@ -196,7 +224,13 @@
           "ru": "Похоже теперь мы знаем что было в той посылке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Päckchen",
+        "Schwung",
+        "Einheit",
+        "Batzen",
+        "Quote"
+      ],
       "antonyms": []
     },
     {
@@ -227,7 +261,13 @@
           "ru": "Золотая пачка королевского размера с царской эмблемой."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schachtel",
+        "Packung",
+        "Box",
+        "Kasten",
+        "Paket"
+      ],
       "antonyms": []
     },
     {
@@ -258,7 +298,13 @@
           "ru": "Я напишу на машинке письмо, которое я хотел бы получить."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Epistel (geh.",
+        "Wisch",
+        "Zuschrift",
+        "Schreiben",
+        "Schrieb"
+      ],
       "antonyms": []
     },
     {
@@ -289,7 +335,12 @@
           "ru": "И с тех пор он каждый месяц находит в почтовом ящике помет."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Postbriefkasten",
+        "Postkasten",
+        "Privatbriefkasten",
+        "Hausbriefkasten"
+      ],
       "antonyms": []
     },
     {
@@ -312,7 +363,9 @@
           "ru": "В кабинке на почтамте."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Postamt"
+      ],
       "antonyms": []
     },
     {
@@ -343,7 +396,9 @@
           "ru": "Прием, станция в старом городе в 22.00 часа."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Paketstation"
+      ],
       "antonyms": []
     },
     {
@@ -374,7 +429,10 @@
           "ru": "Прошу прощения, мне тут пару людей срочно послать надо."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verschicken",
+        "rausschicken"
+      ],
       "partizip_2": "versendet",
       "imperative": "versende! / versendet! / versenden Sie!",
       "conjugations": {
@@ -422,7 +480,13 @@
           "ru": "Поэтому я привел тебя сюда... чтобы ты могла получить его."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "annehmen",
+        "entgegennehmen",
+        "vorlassen",
+        "vorsprechen lassen",
+        "Besuch empfangen"
+      ],
       "partizip_2": "empfangt",
       "imperative": "empfange! / empfangt! / empfangen Sie!",
       "conjugations": {
@@ -468,7 +532,13 @@
           "ru": "А это другой парень, которого я должен был забрать."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "auflesen (ugs.",
+        "einsammeln",
+        "aufsammeln (ugs.",
+        "mitnehmen",
+        "abtransportieren"
+      ],
       "partizip_2": "abgeholt",
       "imperative": "hole ab! / holt ab! / holen Sie ab!",
       "conjugations": {
@@ -514,7 +584,13 @@
           "ru": "Спасибо за предупреждение, советник."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Notifizierung",
+        "Mitteilung",
+        "Ankündigung",
+        "Avis",
+        "Aviso"
+      ],
       "antonyms": []
     },
     {
@@ -545,7 +621,9 @@
           "ru": "Я надеялся увидеть обратный адрес или какие-то характерные марки."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Versender"
+      ],
       "antonyms": [
         "der Empfänger",
         "der Adressat"
@@ -579,7 +657,13 @@
           "ru": "Я надеюсь, что реципиент здесь, но он еще не согласился"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Adressat",
+        "Akzeptant",
+        "Rezipient",
+        "Abnehmer",
+        "Warenempfänger"
+      ],
       "antonyms": [
         "der Absender",
         "der Sender"
@@ -613,7 +697,11 @@
           "ru": "Порто Корса, лежащий на итальянской Ривьере."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Beförderungsentgelt",
+        "Briefporto",
+        "Postgebühr"
+      ],
       "antonyms": []
     },
     {
@@ -644,7 +732,9 @@
           "ru": "Они никогда не торопились, и на конвертах обычно была обычная почтовая оплата."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "freimachen"
+      ],
       "partizip_2": "frankiert",
       "imperative": "frankiere! / frankiert! / frankieren Sie!",
       "conjugations": {
@@ -686,7 +776,13 @@
           "ru": "Мэгги сказала, что её оставили на скамейке перед входом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sitzbank",
+        "Parkbank",
+        "Geldhaus",
+        "Geschäftsbank",
+        "Kreditinstitut"
+      ],
       "antonyms": []
     },
     {
@@ -717,7 +813,13 @@
           "ru": "Ни телефона, ни счета в банке, дом записан на имя одного из твоих подельников."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Konto",
+        "Bankverbindung",
+        "Kontoverbindung",
+        "Sparbuch",
+        "Sparkonto"
+      ],
       "antonyms": []
     },
     {
@@ -748,7 +850,9 @@
           "ru": "Завести счет в банке стало бы для меня честью."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sichtkonto"
+      ],
       "antonyms": []
     },
     {
@@ -779,7 +883,10 @@
           "ru": "Я обналичила наш сберегательный счет."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sparbuch",
+        "Bankkonto"
+      ],
       "antonyms": []
     },
     {
@@ -810,7 +917,13 @@
           "ru": "! И её кредитку я тоже спрятала так что даже можешь не пытаться опять её забрать."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Debitkarte",
+        "EC-Karte",
+        "ec-Card (fachspr.",
+        "Scheckkarte",
+        "Sparkassenkarte"
+      ],
       "antonyms": []
     },
     {
@@ -841,7 +954,13 @@
           "ru": "Давайте деньги и кредитку!"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Debitkarte",
+        "ec-Card (fachspr.",
+        "Scheckkarte",
+        "Sparkassenkarte",
+        "Bankkarte"
+      ],
       "antonyms": []
     },
     {
@@ -872,7 +991,13 @@
           "ru": "Вино, кредитная карта и ночной телек это плохая комбинация."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditspeisekarte",
+        "Kreditmenü",
+        "Kreditspeisenkarte",
+        "Kreditspeisezettel",
+        "Kreditplan"
+      ],
       "antonyms": []
     },
     {
@@ -903,7 +1028,13 @@
           "ru": "За углом есть банкомат."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bankomat",
+        "Postomat (Markenname",
+        "Bankautomat",
+        "Geldausgabeautomat",
+        "Bancomat (Markenname"
+      ],
       "antonyms": []
     },
     {
@@ -934,7 +1065,9 @@
           "ru": "Что мы должны снять со счёта все деньги."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bargeld abheben"
+      ],
       "partizip_2": "geGeld abhebt",
       "imperative": "Geld abhebe! / Geld abhebt! / Geld abheben Sie!",
       "conjugations": {
@@ -979,7 +1112,9 @@
           "ru": "Нам только необходимо внести задаток, чтобы нанять адвоката."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einlösen"
+      ],
       "partizip_2": "eingezahlt",
       "imperative": "zahle ein! / zahlt ein! / zahlen Sie ein!",
       "conjugations": {
@@ -1025,7 +1160,10 @@
           "ru": "Я никогда не получу назад мой взнос."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kaution",
+        "Barzahlung/Anzahlung"
+      ],
       "antonyms": [
         "die Auszahlung",
         "die Abhebung",
@@ -1060,7 +1198,10 @@
           "ru": "Я попросил её перевести больше, чтобы у нас у всех было немного денег."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "remittieren (fachspr.",
+        "Überweisung tätigen"
+      ],
       "partizip_2": "überweist",
       "imperative": "überweise! / überweist! / überweisen Sie!",
       "conjugations": {
@@ -1106,7 +1247,13 @@
           "ru": "Но позже мы получили денежный перевод на 10 тысяч долларов - по настоящему хороший парень."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldsendung",
+        "Geldüberweisung",
+        "Geldanweisung",
+        "Abwälzung",
+        "Delegierung"
+      ],
       "antonyms": [
         "die Lastschrift, die Lastschriften",
         "die Abbuchung, die Abbuchungen"
@@ -1140,7 +1287,9 @@
           "ru": "Банки теперь делают это все автоматически."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dauerzahlungsauftrag (Autozahlung)"
+      ],
       "antonyms": [
         "die Einzelüberweisung"
       ]
@@ -1173,7 +1322,11 @@
           "ru": "Более того, похоже на то, что возмутительные гонорары, полученные за каждую дебитную сделку - вид сбора, который не идет на общественные цели, а на то, чтобы наполнить банковские сундуки - будут урезаны."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abbuchung",
+        "Bankeinzug",
+        "Belastung"
+      ],
       "antonyms": [
         "die Gutschrift"
       ]
@@ -1206,7 +1359,13 @@
           "ru": "Например, банковские трояны, которые будут воровать деньги с вашего банковского счета, когда вы проводите банковские транзакции в интернете, или клавиатурные шпионы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Home-Banking",
+        "Direktbanking (fachspr.",
+        "E-Banking",
+        "elektronisches Bankgeschäft",
+        "Onlinebanking"
+      ],
       "antonyms": [
         "das Filial-Banking",
         "das Telefon-Banking"
@@ -1240,7 +1399,13 @@
           "ru": "Вы получите выписку, подтверждающую зачисление средств на ваш счет, по прошествии 1-2 циклов выставления счетов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontozusammenfassung",
+        "Kontoausschnitt",
+        "Kontoinhaltsübersicht",
+        "Kontoklappentext",
+        "Kontoexzerpt"
+      ],
       "antonyms": []
     },
     {
@@ -1271,7 +1436,9 @@
           "ru": "Но посмотрите, вы ничего из этого знать не можете — например, как здесь работают банки, комиссии по счетам и все такое."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontoführungsgebühr"
+      ],
       "antonyms": []
     },
     {
@@ -1302,7 +1469,10 @@
           "ru": "Ваш депозит начислят в понедельник, а это ваш баланс."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Saldo",
+        "Kontosaldo"
+      ],
       "antonyms": []
     },
     {
@@ -1333,7 +1503,13 @@
           "ru": "Нужно убираться, пока дорогу не заблокировали."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "versperren",
+        "zusperren",
+        "abblocken",
+        "barrikadieren",
+        "verriegeln"
+      ],
       "partizip_2": "gesperrt",
       "imperative": "sperre! / sperrt! / sperren Sie!",
       "conjugations": {
@@ -1375,7 +1551,11 @@
           "ru": "По информации от Sperre. V. по цене 1,60 евро за блокировку карты, но может быть возвращен клиенту через обычную комиссию за карту."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Karteninhibition",
+        "Kartenblockierung",
+        "Kartenhemmung"
+      ],
       "antonyms": [
         "die Kartenfreischaltung",
         "die Entsperrung"
@@ -1409,7 +1589,13 @@
           "ru": "Сигнал бедствия с другого корабля, сэр."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Alarmsignal",
+        "Alarm",
+        "Gefahrenmeldung",
+        "Alarmruf",
+        "Warnton"
+      ],
       "antonyms": []
     },
     {
@@ -1440,7 +1626,13 @@
           "ru": "Наши люди ожидают его, но его ждут и полицейские."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Cops (ugs.",
+        "Bullerei",
+        "Kiberei (ugs.",
+        "Kieberei (ugs.",
+        "Polente"
+      ],
       "antonyms": []
     },
     {
@@ -1471,7 +1663,9 @@
           "ru": "В городе работает волонтёрская пожарная бригада."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Brandbekämpfer"
+      ],
       "antonyms": []
     },
     {
@@ -1502,7 +1696,9 @@
           "ru": "Да, меня вызвали в неврологию."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bereitschaftsdienst/Notfallhilfe"
+      ],
       "antonyms": []
     },
     {
@@ -1525,7 +1721,9 @@
           "ru": "При покупке в дежурной аптеке в нерабочее время взимается дополнительный сбор."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Notfallapotheke"
+      ],
       "antonyms": []
     },
     {
@@ -1556,7 +1754,13 @@
           "ru": "Проверьте, пожалуйста, в бюро находок."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fundgeschäftszimmer",
+        "Fundsekretariat",
+        "Fundarbeitszimmer",
+        "Fundschreibstube",
+        "Fundamtsstube"
+      ],
       "antonyms": []
     },
     {
@@ -1587,7 +1791,13 @@
           "ru": "Это зависит от того, если мы выиграть или проиграть."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abstinken",
+        "besiegt werden",
+        "Klatsche holen",
+        "Niederlage erleiden",
+        "abkacken"
+      ],
       "partizip_2": "verliert",
       "imperative": "verliere! / verliert! / verlieren Sie!",
       "conjugations": {
@@ -1632,7 +1842,13 @@
           "ru": "Да ладно, давайте найдём того парня и уходим отсюда."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "begegnen",
+        "entdecken",
+        "auffinden",
+        "vorfinden",
+        "antreffen"
+      ],
       "partizip_2": "gefindet",
       "imperative": "finde! / findet! / finden Sie!",
       "conjugations": {
@@ -1677,7 +1893,13 @@
           "ru": "Как известно, Людвиг Борхардт знал, что у Каирского музея пока ещё не было ни одного экземпляра такого типа алтарей, и поэтому распределил обнаруженные его экспедицией артефакты именно таким образом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Trouvaille",
+        "Ringeltaube (ugs.",
+        "Glücksfund",
+        "gefundener Gegenstand",
+        "Fund"
+      ],
       "antonyms": [
         "das Verlustobjekt",
         "das Diebesgut"
@@ -1711,7 +1933,11 @@
           "ru": "Мусорщик нашёл его в 7:35 утра."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kehrichtabfuhr",
+        "Müllbeseitigung",
+        "Müllentsorgung"
+      ],
       "antonyms": []
     },
     {
@@ -1742,7 +1968,13 @@
           "ru": "Выбросить в мусорное ведро."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abfalleimer",
+        "Mistkübel (ugs.",
+        "Abfallbehälter",
+        "Abfallkorb",
+        "Abfalltonne"
+      ],
       "antonyms": []
     },
     {
@@ -1773,7 +2005,9 @@
           "ru": "конструирует, производит и монтирует оборудование, предназначенное для переработки древесных отходов, древесины, бывшей в употреблении, коммунального, промышленного и крупногабаритного мусора, а также комплект оборудования для нижних складов лесопильных заводов и оборудование экологически безопасной утилизации древесных отходов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sperrabfall"
+      ],
       "antonyms": []
     },
     {
@@ -1804,7 +2038,13 @@
           "ru": "У нас есть утилизация отходов в школах."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Regenerierung",
+        "Wiederverwertung",
+        "Wiederverwendung",
+        "Rohstoffrückgewinnung",
+        "Wiedergewinnung"
+      ],
       "antonyms": [
         "die Müllverbrennung",
         "die Deponierung"
@@ -1838,7 +2078,13 @@
           "ru": "Использованные шины можно сдать в пункт переработки."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Altstoffsammelzentrum",
+        "Recyclingstation",
+        "Entsorgungshof",
+        "Recyclinghof",
+        "Werkhof"
+      ],
       "antonyms": []
     },
     {
@@ -1869,7 +2115,13 @@
           "ru": "Но я должен забрать вещи из химчистки, пока она не закрылась."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Säuberung",
+        "Reinigungsarbeiten",
+        "Putzerei",
+        "Klärung",
+        "Katharsis"
+      ],
       "antonyms": [
         "die Verschmutzung",
         "die Verunreinigung"
@@ -1903,7 +2155,9 @@
           "ru": "Знаешь, имеет смысл, идти в прачечную с сумкой одежды."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Waschanstalt"
+      ],
       "antonyms": []
     },
     {
@@ -1934,7 +2188,13 @@
           "ru": "Все было настолько плохо, что нам пришлось стирать твои штаны в речке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "spülen",
+        "abwaschen",
+        "Wäsche machen",
+        "Wäsche waschen",
+        "Waschtag haben"
+      ],
       "partizip_2": "gewascht",
       "imperative": "wasche! / wascht! / waschen Sie!",
       "conjugations": {
@@ -1979,7 +2239,13 @@
           "ru": "Но всегда есть одно место которое они все забывают почистить поворотник."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "eliminieren",
+        "zurücksetzen",
+        "radieren",
+        "entfernen",
+        "löschen"
+      ],
       "partizip_2": "gereinigt",
       "imperative": "reinige! / reinigt! / reinigen Sie!",
       "conjugations": {
@@ -2025,7 +2291,13 @@
           "ru": "Но он нашел мне работу в Мобиле, в настоящем салоне, так что..."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Haarschneider",
+        "Coiffeur",
+        "Figaro (geh.",
+        "Frisör",
+        "Hair-Stylist"
+      ],
       "antonyms": []
     },
     {
@@ -2056,7 +2328,10 @@
           "ru": "Просто потому, что я не заметил твою божественную новую прическу."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schnitt",
+        "Frisur"
+      ],
       "antonyms": []
     },
     {
@@ -2118,7 +2393,12 @@
           "ru": "Иди в универсам, как все."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vollsortimenter",
+        "Kaufhalle",
+        "Supermärkte",
+        "Lebensmitteleinzelhandel"
+      ],
       "antonyms": []
     },
     {
@@ -2149,7 +2429,11 @@
           "ru": "Продуктовый магазин, куда вы ходите."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lebensmittelgeschäft",
+        "Kolonialwarenladen",
+        "Kolonialwarengeschäft"
+      ],
       "antonyms": []
     },
     {
@@ -2180,7 +2464,13 @@
           "ru": "Пожалуй мне лучше вернутся в кондитерскую."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Backhaus",
+        "Backstube",
+        "Bäckereigeschäft",
+        "Bäckerladen",
+        "Brotgeschäft"
+      ],
       "antonyms": []
     },
     {
@@ -2211,7 +2501,13 @@
           "ru": "Я могу продать бар и купить мясную лавку где нибудь."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fleischerfachgeschäft",
+        "Schlächterei",
+        "Fleischerei",
+        "Schlachterei",
+        "Fleischhauerei"
+      ],
       "antonyms": []
     },
     {
@@ -2242,7 +2538,13 @@
           "ru": "Пообещай мне, что ты не пойдешь в магазин."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Handelsplatz",
+        "Absatzgebiet",
+        "Handelszentrum",
+        "Umschlagplatz",
+        "Börse"
+      ],
       "antonyms": []
     },
     {
@@ -2273,7 +2575,10 @@
           "ru": "На одном из них мы видим императора Карла V, жалующего в 1555 году депутации Локерена право на проведение еженедельного рынка."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Markt",
+        "Gemüsemarkt"
+      ],
       "antonyms": []
     },
     {
@@ -2304,7 +2609,13 @@
           "ru": "Лучше встретимся в час, чтобы я успела все купить."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einkaufen gehen",
+        "einkaufen fahren",
+        "einholen",
+        "anlegen",
+        "beteiligen"
+      ],
       "partizip_2": "eingekauft",
       "imperative": "kaufe ein! / kauft ein! / kaufen Sie ein!",
       "conjugations": {
@@ -2349,7 +2660,13 @@
           "ru": "Простите, что прерываю ваш шоппинг, но моя сестренка Мэйв сегодня впервые идет на школьный бал."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Beschaffung",
+        "Anschaffung",
+        "Besorgung",
+        "Erwerb",
+        "Ankauf"
+      ],
       "antonyms": [
         "der Verkauf",
         "die Veräußerung"
@@ -2383,7 +2700,9 @@
           "ru": "В списке покупок моей хозяйки улиток нет."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einkaufsliste"
+      ],
       "antonyms": []
     },
     {
@@ -2414,7 +2733,12 @@
           "ru": "Обожаю стоять в очереди в кассу с полной тележкой."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einkaufsrolli",
+        "fahrbarer Warenkorb",
+        "Hackenporsche (ugs.",
+        "Einkaufsroller"
+      ],
       "antonyms": []
     },
     {
@@ -2480,7 +2804,9 @@
           "ru": "※ Подарочный сертификат отправить почтовую службу, вы не можете заплатить наличными при доставке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bar zahlen"
+      ],
       "partizip_2": "gebar bezahlt",
       "imperative": "bar bezahle! / bar bezahlt! / bar bezahlen Sie!",
       "conjugations": {
@@ -2569,7 +2895,13 @@
           "ru": "Тем не менее, биографы отмечали, что композитор не относил Двадцать пятую симфонию к своим наивысшим достижениям."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verlangen",
+        "postulieren (geh.",
+        "bestehen",
+        "sich  ausbedingen",
+        "sich  versteifen"
+      ],
       "partizip_2": "reklamiert",
       "imperative": "reklamiere! / reklamiert! / reklamieren Sie!",
       "conjugations": {
@@ -2617,7 +2949,13 @@
           "ru": "Я же говорил, у меня проблема с обслуживанием клиентов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Beanstandung",
+        "Bemängelung",
+        "Beschwerde",
+        "Zurückerstattung",
+        "Umtausch"
+      ],
       "antonyms": [
         "die Akzeptanz",
         "das Lob"
@@ -2651,7 +2989,13 @@
           "ru": "Так, если тебе не понравится цвет, то мы можем её поменять."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zurückgeben",
+        "eintauschen",
+        "austauschen",
+        "reklamieren",
+        "tauschen"
+      ],
       "partizip_2": "geumtauscht",
       "imperative": "umtausche! / umtauscht! / umtauschen Sie!",
       "conjugations": {
@@ -2698,7 +3042,9 @@
           "ru": "Он начал прогуливать школу, потому что хотел подзаработать."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Austausch"
+      ],
       "antonyms": [
         "das Behalten"
       ]
@@ -2731,7 +3077,13 @@
           "ru": "Они дают гарантию на год на эти часы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Versprechen",
+        "Assertion (geh.",
+        "Versicherung",
+        "Beteuerung",
+        "Zusicherung"
+      ],
       "antonyms": []
     },
     {
@@ -2762,7 +3114,10 @@
           "ru": "Управление счетами, обслуживание клиентов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kundendienst",
+        "Kundenbetreuung"
+      ],
       "antonyms": []
     },
     {
@@ -2793,7 +3148,9 @@
           "ru": "Наверное, отвечает на миллион звонков по горячей линии."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Servicenummer"
+      ],
       "antonyms": []
     },
     {
@@ -2824,7 +3181,13 @@
           "ru": "(Так же, как мы требуем, чтобы у водителей была страховка, возможно мы должны требовать, чтобы пользователи или покупали услуги безопасности у своих поставщиков услуг Интернета, или вносили какой-либо залог/страховку.)"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Internet-Zugangsanbieter",
+        "Provider",
+        "Internetdienstleister",
+        "Internetprovider",
+        "Internetdienstanbieter"
+      ],
       "antonyms": []
     },
     {
@@ -2855,7 +3218,12 @@
           "ru": "У него хороший сотовый оператор?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mobilfunkdienstleister",
+        "Mobilfunkbetreiber",
+        "Mobilfunkversorger",
+        "Mobilfunkprovider"
+      ],
       "antonyms": []
     },
     {
@@ -2878,7 +3246,10 @@
           "ru": "Он разбил телефон Бонни, плакал, пока были силы, а потом просто вывел горе из своего организма."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Telekommunikationsvertrag",
+        "Mobilfunkvertrag"
+      ],
       "antonyms": []
     },
     {
@@ -2901,7 +3272,9 @@
           "ru": "«У меня дома небольшая проблема - электричества нет»."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stromlieferant"
+      ],
       "antonyms": []
     },
     {
@@ -2963,7 +3336,9 @@
           "ru": "Около 13:00. он смог указать на увеличение почти на один процент при счете 1011."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zählerstände"
+      ],
       "antonyms": []
     },
     {
@@ -2994,7 +3369,9 @@
           "ru": "Это способ сжатия необъятного количества информации и её осмысления на маленьком пространстве."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Strompunkt"
+      ],
       "antonyms": []
     },
     {
@@ -3025,7 +3402,11 @@
           "ru": "С апреля по начало июля 2008 года был сделан первый шаг: между насосной станцией EnBW в районе Хофен и между озером Макс Айт был построен водопровод, который в течение лета подавал в озеро чистую грунтовую воду в объёме 7 л/c."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wasserrohr",
+        "Wasserleitungsrohr",
+        "Aquädukt (historisch"
+      ],
       "antonyms": []
     },
     {
@@ -3056,7 +3437,11 @@
           "ru": "Нил, мой батарея еще течет."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Heizkörper",
+        "Radiator",
+        "Gebäudeheizung"
+      ],
       "antonyms": [
         "die Kühlung",
         "die Klimaanlage"
@@ -3123,7 +3508,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "auflesen (ugs.",
+        "einsammeln",
+        "aufsammeln (ugs.",
+        "abholen",
+        "entreißen"
+      ],
       "antonyms": []
     },
     {
@@ -3222,7 +3613,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "behindertengerecht"
+      ],
       "antonyms": []
     },
     {
@@ -3321,7 +3714,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kostet!",
+        "eintrittspflichtig",
+        "entgeltpflichtig (fachspr.",
+        "gebührenpflichtig",
+        "nicht umsonst"
+      ],
       "antonyms": []
     },
     {
@@ -3354,7 +3753,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gebührenfrei",
+        "umsonst",
+        "vergütungsfrei",
+        "kostenfrei",
+        "kostenlos"
+      ],
       "antonyms": []
     },
     {
@@ -3387,7 +3792,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "spottbillig",
+        "billig",
+        "erschwinglich",
+        "günstig",
+        "Budget (fachspr."
+      ],
       "antonyms": []
     },
     {
@@ -3420,7 +3831,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "brechend voll",
+        "rammelvoll",
+        "gesteckt voll",
+        "bumsvoll",
+        "prall gefüllt"
+      ],
       "antonyms": []
     },
     {
@@ -3453,7 +3870,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausgebucht",
+        "voll",
+        "belegt",
+        "ausverkauft"
+      ],
       "antonyms": []
     },
     {
@@ -3486,7 +3908,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "leer stehend",
+        "ohne Inhalt",
+        "leer",
+        "unausgefüllt",
+        "rundheraus"
+      ],
       "antonyms": []
     },
     {
@@ -3519,7 +3947,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "geordnet",
+        "planvoll",
+        "methodisch",
+        "regelhaft",
+        "systematisch"
+      ],
       "antonyms": []
     },
     {
@@ -3552,7 +3986,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nachträglich",
+        "unplanmäßig",
+        "außertourlich"
+      ],
       "antonyms": []
     },
     {
@@ -3585,7 +4023,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "schlechthin",
+        "freilich (ugs.",
+        "praktisch",
+        "schier",
+        "reinweg"
+      ],
       "antonyms": []
     },
     {
@@ -3618,7 +4062,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "über Umwege",
+        "mehrstufig",
+        "mittelbar",
+        "verblümt",
+        "versteckt"
+      ],
       "antonyms": []
     },
     {
@@ -3651,7 +4101,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "innig",
+        "eng",
+        "intim",
+        "nahegelegen"
+      ],
       "antonyms": []
     },
     {
@@ -3684,7 +4139,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "weit weg",
+        "weitab",
+        "weit",
+        "entfernt",
+        "weg"
+      ],
       "antonyms": []
     },
     {
@@ -3717,7 +4178,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "lang",
+        "ausgedehnt",
+        "groß",
+        "weitläufig",
+        "entfernt"
+      ],
       "antonyms": []
     },
     {
@@ -3750,7 +4217,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldübertragung",
+        "Geldübermittlung",
+        "Geldsynchronisation",
+        "Geldaustausch"
+      ],
       "antonyms": []
     },
     {
@@ -3783,7 +4255,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ablöse"
+      ],
       "antonyms": []
     },
     {
@@ -3816,7 +4290,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontoführungsgebühr"
+      ],
       "antonyms": []
     },
     {
@@ -3849,7 +4325,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "PIN-Sourcecode",
+        "PIN-Kode",
+        "PIN-Programmcode",
+        "PIN-Quelltext",
+        "PIN-Quellcode"
+      ],
       "antonyms": []
     },
     {
@@ -3882,7 +4364,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "PIN-Änderung"
+      ],
       "antonyms": []
     },
     {
@@ -3915,7 +4399,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Transaktionsnummer"
+      ],
       "antonyms": []
     },
     {
@@ -3948,7 +4434,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "TAN-Betriebsart",
+        "TAN-Modus",
+        "TAN-Betriebsmodus",
+        "TAN-Art",
+        "TAN-Festgefahren"
+      ],
       "antonyms": []
     },
     {
@@ -3981,7 +4473,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bankberater"
+      ],
       "antonyms": []
     },
     {
@@ -4014,7 +4508,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bank...markt",
+        "Bankstore",
+        "Bankeinzelhandelsgeschäft",
+        "Bankshop",
+        "Bankkaufladen"
+      ],
       "antonyms": []
     },
     {
@@ -4047,7 +4547,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ertrag",
+        "Abgabe",
+        "Aufschlag",
+        "Verzinsung",
+        "Aufwand"
+      ],
       "antonyms": []
     },
     {
@@ -4080,7 +4586,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verschuldetsein",
+        "Schuldenlast",
+        "Schuldenbelastung"
+      ],
       "antonyms": []
     },
     {
@@ -4113,7 +4623,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verdanken",
+        "ausstehende Forderungen",
+        "Rückstand",
+        "offene  Rechnungen",
+        "Außenstände"
+      ],
       "antonyms": []
     },
     {
@@ -4146,7 +4662,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verbraucherinsolvenz",
+        "Privatkonkurs (schweiz."
+      ],
       "antonyms": []
     },
     {
@@ -4179,7 +4698,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Insolvenzbetriebsart",
+        "Insolvenzmodus",
+        "Insolvenzbetriebsmodus",
+        "Insolvenzart",
+        "Insolvenzfestgefahren"
+      ],
       "antonyms": []
     },
     {
@@ -4212,7 +4737,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Paketmittelpunkt",
+        "Paketherzstück",
+        "Paketkern",
+        "Paketknotenpunkt",
+        "Paketmitte"
+      ],
       "antonyms": []
     },
     {
@@ -4245,7 +4776,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Paketbote"
+      ],
       "antonyms": []
     },
     {
@@ -4278,7 +4811,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Paketzusteller"
+      ],
       "antonyms": []
     },
     {
@@ -4311,7 +4846,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Paketzustelldienst"
+      ],
       "antonyms": []
     },
     {
@@ -4344,7 +4881,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Paketpunkt"
+      ],
       "antonyms": []
     },
     {
@@ -4377,7 +4916,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rücksendeschein",
+        "Rücksendeformular"
+      ],
       "antonyms": []
     },
     {
@@ -4410,7 +4952,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zurückerstattung",
+        "Umtausch",
+        "Abtragung",
+        "Erstattung",
+        "Zurückgabe"
+      ],
       "antonyms": []
     },
     {
@@ -4443,7 +4991,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verfolgung"
+      ],
       "antonyms": []
     },
     {
@@ -4476,7 +5026,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tracking-Nummer",
+        "ID-Nummer"
+      ],
       "antonyms": []
     },
     {
@@ -4509,7 +5062,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Streifenkode",
+        "Strichcode",
+        "Balkencode"
+      ],
       "antonyms": []
     },
     {
@@ -4542,7 +5099,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Privatbriefkasten",
+        "Briefkasten"
+      ],
       "antonyms": []
     },
     {
@@ -4575,7 +5135,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Karte",
+        "Korrespondenzkarte",
+        "Grußkarte",
+        "Bildpostkarte",
+        "Briefkarte"
+      ],
       "antonyms": []
     },
     {
@@ -4608,7 +5174,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stempel"
+      ],
       "antonyms": []
     },
     {
@@ -4641,7 +5209,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Luftpostwisch",
+        "Luftpostzuschrift",
+        "Luftpostschreiben",
+        "Luftpostschrieb",
+        "Luftpostanschreiben"
+      ],
       "antonyms": []
     },
     {
@@ -4674,7 +5248,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeitungsfuhre",
+        "Zeitungsüberbringung",
+        "Zeitungssendung",
+        "Zeitungsanlieferung",
+        "Zeitungsbelieferung"
+      ],
       "antonyms": []
     },
     {
@@ -4707,7 +5287,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zusteller",
+        "Zeitungszusteller",
+        "Zeitungsträger",
+        "Zeitungsverträger",
+        "Zeitungsbote"
+      ],
       "antonyms": []
     },
     {
@@ -4740,7 +5326,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeitungszusteller",
+        "Zeitungslieferant"
+      ],
       "antonyms": []
     },
     {
@@ -4773,7 +5362,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Drogerie",
+        "Apotheke"
+      ],
       "antonyms": []
     },
     {
@@ -4806,7 +5398,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schönheitspflege",
+        "schöner Schein",
+        "Lügengebäude",
+        "Fassade"
+      ],
       "antonyms": []
     },
     {
@@ -4839,7 +5436,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hygienebedarf",
+        "Körperpflegeprodukt",
+        "Körperpflegeartikel",
+        "Hygieneprodukt"
+      ],
       "antonyms": []
     },
     {
@@ -4872,7 +5474,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tensid",
+        "Detergens",
+        "Putzmittel",
+        "Reinigungsmittel",
+        "Reiniger"
+      ],
       "antonyms": []
     },
     {
@@ -4938,7 +5546,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Haarpflegeshampoo",
+        "Haarwaschmittel",
+        "Shampoon",
+        "Haarshampoo"
+      ],
       "antonyms": []
     },
     {
@@ -4971,7 +5584,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zahnpaste",
+        "Zahncrème",
+        "Zahncreme"
+      ],
       "antonyms": []
     },
     {
@@ -5037,7 +5654,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Waschpulver"
+      ],
       "antonyms": []
     },
     {
@@ -5070,7 +5689,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Weichmacher"
+      ],
       "antonyms": []
     },
     {
@@ -5103,7 +5724,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Seife",
+        "Tensid",
+        "Detergens",
+        "Reinigungsmittel",
+        "Reiniger"
+      ],
       "antonyms": []
     },
     {
@@ -5136,7 +5763,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Seife",
+        "Tensid",
+        "Detergens",
+        "Putzmittel",
+        "Reiniger"
+      ],
       "antonyms": []
     },
     {
@@ -5169,7 +5802,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Putzschwamm"
+      ],
       "antonyms": []
     },
     {
@@ -5202,7 +5837,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Spüli"
+      ],
       "antonyms": []
     },
     {
@@ -5235,7 +5872,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mülltüte",
+        "Kehrichtsack"
+      ],
       "antonyms": []
     },
     {
@@ -5268,7 +5908,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sackerl (süddt.",
+        "Beutel",
+        "Gugg (ugs.",
+        "Sack",
+        "Tüte"
+      ],
       "antonyms": []
     },
     {
@@ -5301,7 +5947,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Papiersack"
+      ],
       "antonyms": []
     },
     {
@@ -5334,7 +5982,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Plastiktragetasche",
+        "Plastikbeutel",
+        "Plastiksack"
+      ],
       "antonyms": []
     },
     {
@@ -5367,7 +6019,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Jutetasche",
+        "Baumwolltasche",
+        "Baumwollbeutel"
+      ],
       "antonyms": []
     },
     {
@@ -5400,7 +6056,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rückgabezustehendes",
+        "Rückgabeanrecht",
+        "Rückgabeanspruch",
+        "Rückgabeerlaubnis",
+        "Rückgabelizenz"
+      ],
       "antonyms": []
     },
     {
@@ -5433,7 +6095,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Beleg",
+        "Bon",
+        "Quittung",
+        "Kassenbeleg",
+        "Kassenzettel"
+      ],
       "antonyms": []
     },
     {
@@ -5466,7 +6134,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldeinnehmer",
+        "Geldeintreiber",
+        "Kassierer"
+      ],
       "antonyms": []
     },
     {
@@ -5499,7 +6171,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Papiergeld",
+        "Nötli (ugs.",
+        "Note",
+        "Notenschein",
+        "Lappen"
+      ],
       "antonyms": []
     },
     {
@@ -5532,7 +6210,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geldbörse",
+        "Geldbeutel",
+        "Geldbörsel",
+        "Portmonee",
+        "Geldsack"
+      ],
       "antonyms": []
     },
     {
@@ -5565,7 +6249,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Langfinger"
+      ],
       "antonyms": []
     },
     {
@@ -5598,7 +6284,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Taschendieb"
+      ],
       "antonyms": []
     },
     {
@@ -5631,7 +6319,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Räuber"
+      ],
       "antonyms": []
     },
     {
@@ -5664,7 +6354,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einbrecher",
+        "Räuber"
+      ],
       "antonyms": []
     },
     {
@@ -5697,7 +6390,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Polizeiwache",
+        "Revier",
+        "Präzinkt",
+        "Wache",
+        "Posten"
+      ],
       "antonyms": []
     },
     {
@@ -5730,7 +6429,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Revier",
+        "Präzinkt",
+        "Wache",
+        "Posten",
+        "Kommissariat"
+      ],
       "antonyms": []
     },
     {
@@ -5763,7 +6468,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Polizeiwache",
+        "Präzinkt",
+        "Wache",
+        "Posten",
+        "Kommissariat"
+      ],
       "antonyms": []
     },
     {
@@ -5796,7 +6507,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Polizeiwache",
+        "Revier",
+        "Präzinkt",
+        "Wache",
+        "Posten"
+      ],
       "antonyms": []
     },
     {
@@ -5829,7 +6546,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berichterstattung"
+      ],
       "antonyms": []
     },
     {
@@ -5862,7 +6581,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeugensinngehalt",
+        "Zeugensinn",
+        "Zeugensemantik",
+        "Zeugenbedeutung",
+        "Zeugenstatement"
+      ],
       "antonyms": []
     },
     {
@@ -5895,7 +6620,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schuldtragender",
+        "Schuldiger",
+        "Hauptverantwortliche",
+        "Übeltäter",
+        "Schuldige"
+      ],
       "antonyms": []
     },
     {
@@ -5928,7 +6659,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Täter",
+        "kriminell"
+      ],
       "antonyms": []
     },
     {
@@ -5961,7 +6695,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tote",
+        "Todesopfer",
+        "Einschränkung",
+        "Schmälerung",
+        "Entbehrung"
+      ],
       "antonyms": []
     },
     {
@@ -5994,7 +6734,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schadenmeldung"
+      ],
       "antonyms": []
     }
   ]

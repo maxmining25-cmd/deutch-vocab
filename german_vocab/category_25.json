@@ -34,7 +34,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kundenarbeitsauftrag",
+        "Kundenarbeitsanweisung",
+        "Kundenaufgabenstellung",
+        "Kundenaufgabengebiet",
+        "Kundenaufgabenbereich"
+      ],
       "antonyms": [
         "der Lieferantenauftrag",
         "die Bestellung"
@@ -73,7 +79,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fuhre",
+        "Überbringung",
+        "Zustellung",
+        "Rutsche (ugs.",
+        "Sendung"
+      ],
       "antonyms": [
         "der Erhalt, (nur Sg.)",
         "die Abnahme, die Abnahmen"
@@ -150,7 +162,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "berechnen"
+      ],
       "partizip_2": "fakturiert",
       "imperative": "fakturiere! / fakturiert! / fakturieren Sie!",
       "conjugations": {
@@ -199,7 +213,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vertriebskanal/Vertriebslinie"
+      ],
       "antonyms": []
     },
     {
@@ -235,7 +251,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vertriebssender",
+        "Vertriebssendeplatz",
+        "Vertriebswasserstraße",
+        "Vertriebswasserweg",
+        "Vertriebsschifffahrtsstraße"
+      ],
       "antonyms": []
     },
     {
@@ -271,7 +293,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Forschungsgebiet",
+        "Sachgebiet",
+        "Bereich",
+        "Fach",
+        "Domäne"
+      ],
       "antonyms": []
     },
     {
@@ -299,7 +327,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vertriebsorganisation"
+      ],
       "antonyms": []
     },
     {
@@ -335,7 +365,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verkaufsfläche"
+      ],
       "antonyms": []
     },
     {
@@ -371,7 +403,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vertriebsaufbau",
+        "Vertriebsgeflecht",
+        "Vertriebsgerüst",
+        "Vertriebsgefüge",
+        "Vertriebsstruktur"
+      ],
       "antonyms": []
     },
     {
@@ -399,7 +437,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Versandörtlichkeit",
+        "Versandlokalität",
+        "Versandposition",
+        "Versandortsangabe",
+        "Versandlokalisation"
+      ],
       "antonyms": []
     },
     {
@@ -427,7 +471,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lieferindikator",
+        "Lieferhinweis",
+        "Lieferzeichen",
+        "Lieferschriftstück",
+        "Lieferurkunde"
+      ],
       "antonyms": []
     },
     {
@@ -463,7 +513,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fuhre",
+        "Überbringung",
+        "Zustellung",
+        "Rutsche (ugs.",
+        "Sendung"
+      ],
       "antonyms": [
         "die Anlieferung"
       ]
@@ -501,7 +557,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Versorgung",
+        "Zufuhr",
+        "Fuhre",
+        "Überbringung",
+        "Zustellung"
+      ],
       "antonyms": [
         "die Auslieferung"
       ]
@@ -535,7 +597,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Materialausgabe (OM)"
+      ],
       "antonyms": [
         "der Wareneingang"
       ]
@@ -573,7 +637,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bestellen",
+        "reservieren",
+        "disponieren (fachspr.",
+        "vorbestellen",
+        "freihalten lassen"
+      ],
       "partizip_2": "gebucht",
       "imperative": "buche! / bucht! / buchen Sie!",
       "conjugations": {
@@ -622,7 +692,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Service",
+        "Dienst",
+        "Dienstleistung",
+        "Gebot",
+        "Anbot"
+      ],
       "antonyms": [
         "die Nachfrage",
         "die Ablehnung"
@@ -661,7 +737,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ersuchen",
+        "Begehren",
+        "Bitte",
+        "Desiderium (geh.",
+        "...begehren"
+      ],
       "antonyms": [
         "das Angebot",
         "die Antwort"
@@ -692,7 +774,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vertragsmanagement"
+      ],
       "antonyms": []
     },
     {
@@ -728,7 +812,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vertrag",
+        "Abkommen"
+      ],
       "antonyms": []
     },
     {
@@ -756,7 +843,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mengenvertrag"
+      ],
       "antonyms": [
         "der Wertkontrakt"
       ]
@@ -786,7 +875,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wertvertrag"
+      ],
       "antonyms": [
         "der Mengenkontrakt"
       ]
@@ -820,7 +911,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bauplan",
+        "Montageplan"
+      ],
       "antonyms": []
     },
     {
@@ -856,7 +950,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Klassifikation",
+        "Sortierung",
+        "Konzeptualisierung (fachspr.",
+        "Klassifizierung",
+        "Kategorisierung"
+      ],
       "antonyms": []
     },
     {
@@ -892,7 +992,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Partnerfunktion"
+      ],
       "antonyms": []
     },
     {
@@ -928,7 +1030,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bezieher",
+        "Kunde",
+        "Besteller",
+        "anfordernde Stelle",
+        "Bedarfsträger"
+      ],
       "antonyms": [
         "der Auftragnehmer",
         "der Lieferant"
@@ -955,7 +1063,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Adressat",
+        "Empfänger"
+      ],
       "antonyms": [
         "der Versender"
       ]
@@ -985,7 +1096,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rechnungsadressat",
+        "Rechnungsakzeptant",
+        "Rechnungsrezipient",
+        "Rechnungsabnehmer",
+        "Rechnungswarenempfänger"
+      ],
       "antonyms": [
         "der Rechnungssteller"
       ]
@@ -1023,7 +1140,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Regler",
+        "Regulator",
+        "Steuergerät"
+      ],
       "antonyms": []
     },
     {
@@ -1059,7 +1180,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontaktperson",
+        "Vertrauensperson",
+        "Ansprechperson"
+      ],
       "antonyms": []
     },
     {
@@ -1095,7 +1220,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Preisgestaltung"
+      ],
       "antonyms": []
     },
     {
@@ -1123,7 +1250,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Preisfindungsverfahren",
+        "Kostenschema"
+      ],
       "antonyms": []
     },
     {
@@ -1187,7 +1317,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Konditionsenlohnungstarif",
+        "Konditionstarif",
+        "Konditionshonorarsatz",
+        "Konditionssprung",
+        "Konditionslauf"
+      ],
       "antonyms": []
     },
     {
@@ -1215,7 +1351,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Konditionsaufzählung",
+        "Konditionsverzeichnis",
+        "Konditionsliste",
+        "Konditionsaufstellung",
+        "Konditionsauflistung"
+      ],
       "antonyms": []
     },
     {
@@ -1243,7 +1385,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zugriffssequenz"
+      ],
       "antonyms": []
     },
     {
@@ -1279,7 +1423,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abschlag",
+        "herabgesetzter Preis",
+        "Preisabzug",
+        "Nachlass",
+        "Sonderpreis"
+      ],
       "antonyms": [
         "der Aufschlag",
         "der Zuschlag"
@@ -1318,7 +1468,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zulage",
+        "Zuschuss",
+        "Prämie",
+        "Auftragsvergabe",
+        "Mehrpreis"
+      ],
       "antonyms": [
         "der Rabatt",
         "der Abschlag"
@@ -1357,7 +1513,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Transportkosten"
+      ],
       "antonyms": []
     },
     {
@@ -1427,7 +1585,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verfügbarkeitserprobung",
+        "Verfügbarkeitsprobe",
+        "Verfügbarkeitstest",
+        "Verfügbarkeitsversuch",
+        "Verfügbarkeitsuntersuchung"
+      ],
       "antonyms": []
     },
     {
@@ -1455,7 +1619,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kundenauftragsfortbestand",
+        "Kundenauftragsverbleib",
+        "Kundenauftragsfortdauer",
+        "Kundenauftragsbleiben",
+        "Kundenauftragsverbleiben"
+      ],
       "antonyms": []
     },
     {
@@ -1483,7 +1653,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Transitlieferung (an Dritte)"
+      ],
       "antonyms": [
         "die Lagerabwicklung"
       ]
@@ -1513,7 +1685,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umlagerungsauftrag"
+      ],
       "antonyms": []
     },
     {
@@ -1541,7 +1715,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sendungsnachschub"
+      ],
       "antonyms": [
         "die Konsignationsentnahme"
       ]
@@ -1571,7 +1747,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sendungsproblem"
+      ],
       "antonyms": [
         "die Konsignationsbeschaffung",
         "die Konsignationsbeschickung"
@@ -1602,7 +1780,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sendungsbefüllung"
+      ],
       "antonyms": [
         "die Konsignationsrücknahme"
       ]
@@ -1632,7 +1812,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Konsignationszurückziehen",
+        "Konsignationswiderruf"
+      ],
       "antonyms": [
         "die Konsignationsbeschickung"
       ]
@@ -1670,7 +1853,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Remission",
+        "Rücksendung"
+      ],
       "antonyms": [
         "der Hinversand",
         "der Kauf"
@@ -1697,7 +1883,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Retourentätigung",
+        "Retourentransaktion",
+        "Retourenabarbeitung",
+        "Retourenumsetzung",
+        "Retourenvollziehung"
+      ],
       "antonyms": []
     },
     {
@@ -1733,7 +1925,12 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Guthaben",
+        "Haben",
+        "Zahlungseingang",
+        "Bankgutschrift"
+      ],
       "antonyms": [
         "die Lastschrift",
         "die Belastung"
@@ -1772,7 +1969,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abbuchung",
+        "Bankeinzug",
+        "Belastung"
+      ],
       "antonyms": [
         "die Gutschrift"
       ]
@@ -1802,7 +2003,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gutschriftsanforderung"
+      ],
       "antonyms": [
         "die Lastschriftenanforderung"
       ]
@@ -1832,7 +2035,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lastschriftanforderung"
+      ],
       "antonyms": [
         "die Gutschriftenanforderung"
       ]
@@ -1862,7 +2067,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abrechnungssperre",
+        "Rechnungsstellung sperren"
+      ],
       "antonyms": [
         "die Fakturafreigabe"
       ]
@@ -1892,7 +2100,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lieferblockade",
+        "Lieferbarriere",
+        "Lieferabsperrung",
+        "Lieferverbarrikadierung",
+        "Lieferabriegelung"
+      ],
       "antonyms": [
         "die Lieferfreigabe"
       ]
@@ -1930,7 +2144,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bonitätsprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -1966,7 +2182,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditblockade",
+        "Kreditbarriere",
+        "Kreditabsperrung",
+        "Kreditverbarrikadierung",
+        "Kreditabriegelung"
+      ],
       "antonyms": [
         "die Kreditfreigabe"
       ]
@@ -2028,7 +2250,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Solvenzindex"
+      ],
       "antonyms": []
     },
     {
@@ -2064,7 +2288,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditwürdigkeitsprüfung",
+        "Bonitätsüberprüfung",
+        "Kreditwürdigkeitsüberprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -2100,7 +2328,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kundenkreis",
+        "Kundenbestand",
+        "Kundenstock",
+        "Kundschaft",
+        "Zielgruppe"
+      ],
       "antonyms": []
     },
     {
@@ -2128,7 +2362,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kundenstamm",
+        "Kundenstammsatz"
+      ],
       "antonyms": [
         "der Kreditorenstamm"
       ]
@@ -2166,7 +2403,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geschäftsgesponst",
+        "Geschäftsmacker",
+        "Geschäftsgatte",
+        "Geschäftskerl",
+        "Geschäftsangetrauter"
+      ],
       "antonyms": []
     },
     {
@@ -2202,7 +2445,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geschäftspartnerfunktion"
+      ],
       "antonyms": []
     },
     {
@@ -2230,7 +2475,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontogruppe"
+      ],
       "antonyms": []
     },
     {
@@ -2258,7 +2505,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nummernclique",
+        "Nummernrunde",
+        "Nummerngrüppchen",
+        "Nummerngruppe",
+        "Nummernschar"
+      ],
       "antonyms": []
     },
     {
@@ -2294,7 +2547,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ausgabeermittlung"
+      ],
       "antonyms": []
     },
     {
@@ -2330,7 +2585,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kunde (geh.",
+        "Neuigkeit",
+        "Zeitung (geh.",
+        "Meldung",
+        "Mitteilung"
+      ],
       "antonyms": []
     },
     {
@@ -2358,7 +2619,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Übertragungsmedium",
+        "Absender"
+      ],
       "antonyms": []
     },
     {
@@ -2394,7 +2658,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Druckperipherie",
+        "Printer",
+        "Drucktechniker",
+        "Drucktechnologe",
+        "Schwarzkünstler"
+      ],
       "antonyms": []
     },
     {
@@ -2422,7 +2692,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Spool-Anfrage",
+        "Druckauftrag (Spool)"
+      ],
       "antonyms": []
     },
     {
@@ -2450,7 +2723,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Versandmanuskript",
+        "Versandschriftstück",
+        "Versandurkunde",
+        "Versandbeleg",
+        "Versandunterlage"
+      ],
       "antonyms": []
     },
     {
@@ -2486,7 +2765,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Warenbegleitdokument",
+        "Warenbegleitschein",
+        "Frachtbrief",
+        "Begleitpapier",
+        "Warenbegleitpapier"
+      ],
       "antonyms": []
     },
     {
@@ -2514,7 +2799,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Warenbegleitdokument",
+        "Lieferschein",
+        "Warenbegleitschein",
+        "Begleitpapier",
+        "Warenbegleitpapier"
+      ],
       "antonyms": []
     },
     {
@@ -2550,7 +2841,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Packaufzählung",
+        "Packverzeichnis",
+        "Packaufstellung",
+        "Packauflistung",
+        "Packkatalog"
+      ],
       "antonyms": []
     },
     {
@@ -2586,7 +2883,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verkehrsmittel",
+        "Fahrzeug"
+      ],
       "antonyms": []
     },
     {
@@ -2622,7 +2922,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Richtung",
+        "Wegstrecke",
+        "Reiseroute",
+        "Reiseplan",
+        "Itinerar (geh."
+      ],
       "antonyms": []
     },
     {
@@ -2650,7 +2956,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Routenbestimmung"
+      ],
       "antonyms": []
     },
     {
@@ -2682,7 +2990,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Versandzustand"
+      ],
       "antonyms": []
     },
     {
@@ -2710,7 +3020,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ladeband",
+        "Lademusikgruppe",
+        "Ladeformation",
+        "Ladekapelle",
+        "Ladeensemble"
+      ],
       "antonyms": []
     },
     {
@@ -2738,7 +3054,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Transportband",
+        "Transportmusikgruppe",
+        "Transportformation",
+        "Transportkapelle",
+        "Transportensemble"
+      ],
       "antonyms": []
     },
     {
@@ -2766,7 +3088,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dokumentenflussdiagramm",
+        "Dokumentenflussstruktur"
+      ],
       "antonyms": []
     },
     {
@@ -2794,7 +3119,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dokumentenfluss"
+      ],
       "antonyms": []
     },
     {
@@ -2830,7 +3157,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zustand",
+        "Verfassung",
+        "Befinden",
+        "Gesundheitszustand",
+        "Ausgangslage"
+      ],
       "antonyms": []
     },
     {
@@ -2866,7 +3199,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "flächendeckend",
+        "lückenlos",
+        "ohne Lücke",
+        "taxativ",
+        "abstandslos"
+      ],
       "antonyms": [
         "unvollständig",
         "lückenhaft",
@@ -2906,7 +3245,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bloß",
+        "kahl",
+        "nackt",
+        "unverhüllt",
+        "blank"
+      ],
       "antonyms": [
         "geschlossen",
         "abgeschlossen",
@@ -2986,7 +3331,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Beanstandung",
+        "Bemängelung",
+        "Beschwerde",
+        "Zurückerstattung",
+        "Umtausch"
+      ],
       "antonyms": [
         "die Akzeptanz",
         "das Lob"
@@ -3017,7 +3368,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zurückgegebenes Material",
+        "Material zurücksenden"
+      ],
       "antonyms": []
     },
     {
@@ -3053,7 +3407,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zurückerstattung",
+        "Umtausch",
+        "Abtragung",
+        "Zurückgabe",
+        "Rückgabe"
+      ],
       "antonyms": [
         "die Zuzahlung",
         "die Nachzahlung",
@@ -3093,7 +3453,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "entschädigen",
+        "retournieren",
+        "zurückgeben",
+        "zurückbezahlen",
+        "ausgleichen"
+      ],
       "partizip_2": "erstattet",
       "imperative": "erstatte! / erstattet! / erstatten Sie!",
       "conjugations": {
@@ -3135,7 +3501,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gutschriftsunabdingbarkeit",
+        "Gutschriftsnotwendigkeit",
+        "Gutschriftsvoraussetzung",
+        "Gutschriftserfordernis",
+        "Gutschriftsbedarf"
+      ],
       "antonyms": [
         "die Lastschriftsanforderung"
       ]
@@ -3173,7 +3545,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Preisausdauer",
+        "Preisstehvermögen",
+        "Preisdurchhaltevermögen",
+        "Preisfitness",
+        "Preisform"
+      ],
       "antonyms": []
     },
     {
@@ -3209,7 +3587,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nettovermögen"
+      ],
       "antonyms": [
         "der Bruttowert, die Bruttowerte"
       ]
@@ -3239,7 +3619,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bruttobedeutung",
+        "Bruttowichtigkeit",
+        "Bruttoeinfluss",
+        "Bruttorang",
+        "Bruttogeltung"
+      ],
       "antonyms": [
         "der Nettowert, die Nettowerte"
       ]
@@ -3277,7 +3663,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Währungsunterschied",
+        "Währungsabweichung",
+        "Währungsverschiedenheit"
+      ],
       "antonyms": []
     },
     {
@@ -3313,7 +3703,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Devisenkurs",
+        "Kurs"
+      ],
       "antonyms": []
     },
     {
@@ -3341,7 +3734,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verkaufsunterlagen"
+      ],
       "antonyms": []
     },
     {
@@ -3377,7 +3772,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Liefertreue/Liefertermine"
+      ],
       "antonyms": [
         "die Unzuverlässigkeit"
       ]
@@ -3412,7 +3809,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "RFC-Anbindung",
+        "RFC-Bindung",
+        "RFC-Bündnis",
+        "RFC-Brücke",
+        "RFC-Beziehung"
+      ],
       "antonyms": []
     },
     {
@@ -3445,7 +3848,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Systemregierung",
+        "Systemregierungsgewalt",
+        "Systemstaatsmacht",
+        "Systemstaatsgewalt",
+        "Systembürokratie"
+      ],
       "antonyms": []
     },
     {
@@ -3478,7 +3887,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Benutzerbürokratie",
+        "Benutzeradministration",
+        "Benutzerverwaltungsapparat",
+        "Benutzerbeamtenapparat",
+        "Benutzerobrigkeit"
+      ],
       "antonyms": []
     },
     {
@@ -3511,7 +3926,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rollenkonservierung",
+        "Rollenunterhalt",
+        "Rollenunterhaltung",
+        "Rollenbewahrung",
+        "Rollenerhaltung"
+      ],
       "antonyms": []
     },
     {
@@ -3544,7 +3965,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berechtigungszuregelmäßigkeit",
+        "Berechtigungszuanordnung",
+        "Berechtigungszubewertung",
+        "Berechtigungszupriorisierung",
+        "Berechtigungszuordo"
+      ],
       "antonyms": []
     },
     {
@@ -3577,7 +4004,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Transportweg"
+      ],
       "antonyms": []
     },
     {
@@ -3610,7 +4039,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Korrekturanweisungen"
+      ],
       "antonyms": []
     },
     {
@@ -3643,7 +4074,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vorkorrektur"
+      ],
       "antonyms": []
     },
     {
@@ -3676,7 +4109,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schnittstellenaufsicht",
+        "Schnittstellenbeaufsichtigung",
+        "Schnittstellenmonitoring",
+        "Schnittstellenwachdienst",
+        "Schnittstellenposten"
+      ],
       "antonyms": []
     },
     {
@@ -3709,7 +4148,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Partnerschaftsvereinbarung"
+      ],
       "antonyms": []
     },
     {
@@ -3742,7 +4183,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tisch sperren",
+        "Tischschloss"
+      ],
       "antonyms": []
     },
     {
@@ -3775,7 +4219,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hauptspeicheranwendung",
+        "Hauptspeichereinsatz",
+        "Hauptspeicherindienstnahme",
+        "Hauptspeicherergreifung",
+        "Hauptspeicherverwendung"
+      ],
       "antonyms": []
     },
     {
@@ -3808,7 +4258,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Systemlast",
+        "Systemstart"
+      ],
       "antonyms": []
     },
     {
@@ -3841,7 +4294,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ansprechzeit"
+      ],
       "antonyms": []
     },
     {
@@ -3874,7 +4329,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenbanklast"
+      ],
       "antonyms": []
     },
     {
@@ -3907,7 +4364,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "CPU-Nutzungsgrad",
+        "CPU-Beanspruchung"
+      ],
       "antonyms": []
     },
     {
@@ -3940,7 +4400,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Raumnutzung"
+      ],
       "antonyms": []
     },
     {
@@ -3973,7 +4435,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berechtigungsphänomenal",
+        "Berechtigungssüperb",
+        "Berechtigungsunübertrefflich",
+        "Berechtigungserstklassig",
+        "Berechtigungsüberragend"
+      ],
       "antonyms": []
     },
     {
@@ -4006,7 +4474,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Passwortrichtlinie"
+      ],
       "antonyms": []
     },
     {
@@ -4039,7 +4509,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Multi-Faktor-Authentifizierung"
+      ],
       "antonyms": []
     },
     {
@@ -4072,7 +4544,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "LDAP-Verbindung"
+      ],
       "antonyms": []
     },
     {
@@ -4105,7 +4579,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hybride Infrastruktur"
+      ],
       "antonyms": []
     },
     {
@@ -4138,7 +4614,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kundentrennung"
+      ],
       "antonyms": []
     },
     {
@@ -4171,7 +4649,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Systemkopie-Automation"
+      ],
       "antonyms": []
     },
     {
@@ -4204,7 +4684,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Elastizität",
+        "Nachhaltigkeit"
+      ],
       "antonyms": []
     },
     {
@@ -4237,7 +4720,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Disaster-Recovery-Plan",
+        "Disaster-Recovery-Vorgehensweise",
+        "Disaster-Recovery-Strategem",
+        "Disaster-Recovery-Fahrplan",
+        "Disaster-Recovery-Masterplan"
+      ],
       "antonyms": []
     },
     {
@@ -4270,7 +4759,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datensicherungsleitfaden",
+        "Datensicherungszielstellung",
+        "Datensicherungsvorgabe",
+        "Datensicherungsrichtmarke",
+        "Datensicherungsausrichtung"
+      ],
       "antonyms": []
     },
     {
@@ -4303,7 +4798,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Archiquadrierung"
+      ],
       "antonyms": []
     },
     {
@@ -4369,7 +4866,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Paketaufbau",
+        "Paketkonstruktion",
+        "Paketarchitektur",
+        "Paketgerüst",
+        "Paketgeflecht"
+      ],
       "antonyms": []
     },
     {
@@ -4402,7 +4905,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fremdschlüsselbeziehungen"
+      ],
       "antonyms": []
     },
     {
@@ -4435,7 +4940,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sammelsuchstütze",
+        "Sammelsuchbetreuung",
+        "Sammelsuchrückendeckung",
+        "Sammelsuchunterstützungsangebot",
+        "Sammelsuchbeistand"
+      ],
       "antonyms": []
     },
     {
@@ -4468,7 +4979,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Grundlegende Suchhilfe",
+        "Einfaches Suchwerkzeug"
+      ],
       "antonyms": []
     },
     {
@@ -4501,7 +5015,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Typbegriffsklärung",
+        "Typbegriffserklärung",
+        "Typbegriffsbestimmung"
+      ],
       "antonyms": []
     },
     {
@@ -4534,7 +5052,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datentypvereinbarung",
+        "Datentypfestlegung"
+      ],
       "antonyms": []
     },
     {
@@ -4567,7 +5088,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Festwert"
+      ],
       "antonyms": []
     },
     {
@@ -4600,7 +5123,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stellvertreter",
+        "Veränderliche",
+        "Platzhalter"
+      ],
       "antonyms": []
     },
     {
@@ -4633,7 +5160,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerkonstrukt"
+      ],
       "antonyms": []
     },
     {
@@ -4666,7 +5195,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kurve",
+        "Biegung",
+        "Knick",
+        "Inkurvation (geh.",
+        "Krümmung"
+      ],
       "antonyms": []
     },
     {
@@ -4699,7 +5234,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ausnahmebehandlungsverfahren",
+        "Ausnahmetherapie",
+        "Ausnahmeheilverfahren",
+        "Ausnahmedarlegung",
+        "Ausnahmebetrachtung"
+      ],
       "antonyms": []
     },
     {
@@ -4732,7 +5273,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ausnahmephänomenal",
+        "Ausnahmesüperb",
+        "Ausnahmeunübertrefflich",
+        "Ausnahmeerstklassig",
+        "Ausnahmeüberragend"
+      ],
       "antonyms": []
     },
     {
@@ -4765,7 +5312,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Programmierhandbuch"
+      ],
       "antonyms": []
     },
     {
@@ -4798,7 +5347,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Codeoptimierung"
+      ],
       "antonyms": []
     },
     {
@@ -4831,7 +5382,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Leistungsanalyse"
+      ],
       "antonyms": []
     },
     {
@@ -4864,7 +5417,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gedächtnisanalyse"
+      ],
       "antonyms": []
     },
     {
@@ -4897,7 +5452,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenbankbetrieb"
+      ],
       "antonyms": []
     },
     {
@@ -4930,7 +5487,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "SQL-Recherche",
+        "SQL-Nachschau",
+        "SQL-Überprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -4963,7 +5524,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "native SQL-Anordnung",
+        "native SQL-Order",
+        "native SQL-Maßregel",
+        "native SQL-Instruktion",
+        "native SQL-Dienstanweisung"
+      ],
       "antonyms": []
     },
     {
@@ -4996,7 +5563,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aggregataufgabe",
+        "Aggregatzweck",
+        "Aggregatrolle",
+        "Aggregatbesonderheit",
+        "Aggregatprodukteigenschaft"
+      ],
       "antonyms": []
     },
     {
@@ -5029,7 +5602,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tabellenpflege-Zubereitung",
+        "Tabellenpflege-Verfertigung",
+        "Tabellenpflege-Erzeugung",
+        "Tabellenpflege-Produktion",
+        "Tabellenpflege-Fertigung"
+      ],
       "antonyms": []
     },
     {
@@ -5062,7 +5641,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Transaktionskontrolle"
+      ],
       "antonyms": []
     },
     {
@@ -5095,7 +5676,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Buchungstyp",
+        "Veröffentlichungstyp"
+      ],
       "antonyms": []
     },
     {
@@ -5128,7 +5712,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "asynchrones Posten",
+        "Asynchrone Veröffentlichung"
+      ],
       "antonyms": []
     },
     {
@@ -5161,7 +5748,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "synchrones Posten",
+        "synchrone Veröffentlichung"
+      ],
       "antonyms": []
     },
     {
@@ -5194,7 +5784,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "BAdI-Begriffsklärung",
+        "BAdI-Begriffserklärung",
+        "BAdI-Begriffsbestimmung"
+      ],
       "antonyms": []
     },
     {
@@ -5227,7 +5821,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "BAdI-Gestaltung",
+        "BAdI-Realisierung",
+        "BAdI-Einrichtung",
+        "BAdI-Durchführung",
+        "BAdI-Verwirklichung"
+      ],
       "antonyms": []
     },
     {
@@ -5260,7 +5860,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kunden-Exit-Klasse",
+        "Client-Exit-Klasse"
+      ],
       "antonyms": []
     },
     {
@@ -5293,7 +5896,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Reposikonservativer"
+      ],
       "antonyms": []
     },
     {
@@ -5326,7 +5931,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wörterbuch"
+      ],
       "antonyms": []
     },
     {
@@ -5359,7 +5966,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenteil",
+        "Datenglied",
+        "Datenmodul",
+        "Datenkonstituens",
+        "Datenpunkt"
+      ],
       "antonyms": []
     },
     {
@@ -5392,7 +6005,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anschluss",
+        "Verbindung",
+        "Schnittstelle"
+      ],
       "antonyms": []
     },
     {
@@ -5425,7 +6042,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Charakterzug",
+        "Charakteristikum",
+        "Eigenart",
+        "Eigenschaft",
+        "Spezifikum"
+      ],
       "antonyms": []
     },
     {
@@ -5458,7 +6081,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Episode",
+        "Begegnis (geh.",
+        "Vorgang",
+        "Geschehen",
+        "Angelegenheit"
+      ],
       "antonyms": []
     },
     {
@@ -5491,7 +6120,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Programmgizmo",
+        "Programmteil",
+        "Programmgegenstand",
+        "Programmding",
+        "Programmetwas"
+      ],
       "antonyms": []
     },
     {
@@ -5524,7 +6159,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entwicklungspäckchen",
+        "Entwicklungsschwung",
+        "Entwicklungseinheit",
+        "Entwicklungsbatzen",
+        "Entwicklungsquote"
+      ],
       "antonyms": []
     },
     {
@@ -5557,7 +6198,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Transport"
+      ],
       "antonyms": []
     },
     {
@@ -5590,7 +6233,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektaufbau"
+      ],
       "antonyms": []
     },
     {
@@ -5623,7 +6268,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Änderungsassistent"
+      ],
       "antonyms": []
     },
     {
@@ -5656,7 +6303,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Erweiterungsplattform"
+      ],
       "antonyms": []
     },
     {
@@ -5689,7 +6338,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "OData-Sitzungsprotokoll",
+        "OData-Aufzeichnungen",
+        "OData-Mitschrift",
+        "OData-Memo",
+        "OData-Niederschrift"
+      ],
       "antonyms": []
     },
     {
@@ -5722,7 +6377,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gateway-Dienst"
+      ],
       "antonyms": []
     },
     {
@@ -5755,7 +6412,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "API-Verwaltung"
+      ],
       "antonyms": []
     },
     {
@@ -5788,7 +6447,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "SOAP-Sitzungsprotokoll",
+        "SOAP-Aufzeichnungen",
+        "SOAP-Mitschrift",
+        "SOAP-Memo",
+        "SOAP-Niederschrift"
+      ],
       "antonyms": []
     },
     {
@@ -5821,7 +6486,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "JSON-Ausmaß",
+        "JSON-Dimension",
+        "JSON-Magnitude",
+        "JSON-Abmessung",
+        "JSON-Größenordnung"
+      ],
       "antonyms": []
     },
     {
@@ -5854,7 +6525,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "XML-Ausmaß",
+        "XML-Dimension",
+        "XML-Magnitude",
+        "XML-Abmessung",
+        "XML-Größenordnung"
+      ],
       "antonyms": []
     },
     {
@@ -5887,7 +6564,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Objekt sperren"
+      ],
       "antonyms": []
     },
     {
@@ -5920,7 +6599,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Warteschlangenkonzept"
+      ],
       "antonyms": []
     },
     {
@@ -5953,7 +6634,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dequeue-Zögerlich",
+        "Dequeue-Unentschlossen",
+        "Dequeue-Schüchtern",
+        "Dequeue-Halbherzig",
+        "Dequeue-Unentschieden"
+      ],
       "antonyms": []
     },
     {
@@ -5986,7 +6673,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ausgabelaufwerk",
+        "Ausgabevorrichtung",
+        "Ausgabeapparat",
+        "Ausgabegerätschaft",
+        "Ausgabeapparatur"
+      ],
       "antonyms": []
     },
     {
@@ -6019,7 +6712,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berechtigungskontur",
+        "Berechtigungssilhouette",
+        "Berechtigungsumrisslinie",
+        "Berechtigungsumriss",
+        "Berechtigungsseitenriss"
+      ],
       "antonyms": []
     },
     {
@@ -6052,7 +6751,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Organisatorisches Element"
+      ],
       "antonyms": []
     },
     {
@@ -6085,7 +6786,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berechtigungsrubrik",
+        "Berechtigungscluster",
+        "Berechtigungskategorie",
+        "Berechtigungsbereich",
+        "Berechtigungsarray"
+      ],
       "antonyms": []
     },
     {
@@ -6118,7 +6825,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nutzerkonto",
+        "Account"
+      ],
       "antonyms": []
     },
     {
@@ -6151,7 +6861,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Systembankverbindung",
+        "Systemkontoverbindung",
+        "Systembankkonto"
+      ],
       "antonyms": []
     },
     {
@@ -6184,7 +6898,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dienstkonto"
+      ],
       "antonyms": []
     },
     {
@@ -6217,7 +6933,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zugangscode",
+        "Losungswort",
+        "Passwort",
+        "Geheimcode",
+        "Kodewort"
+      ],
       "antonyms": []
     },
     {
@@ -6250,7 +6972,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einmaliges Anmelden"
+      ],
       "antonyms": []
     }
   ]

@@ -29,7 +29,12 @@
           "ru": "Спасибо за ужин, но я не голодна."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vorladung",
+        "Zitation (lat.",
+        "Ladung",
+        "Einbestellung"
+      ],
       "antonyms": [
         "die Ausladung, die Ausladungen"
       ]
@@ -102,7 +107,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "festgesetzter Zeitpunkt",
+        "Date (ugs.",
+        "Verabredung"
+      ],
       "antonyms": []
     },
     {
@@ -133,7 +142,13 @@
           "ru": "Не надо было обещать."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "billigen",
+        "abnehmen",
+        "zustimmen",
+        "unterschreiben",
+        "einverstanden sein"
+      ],
       "partizip_2": "zugesagt",
       "imperative": "sage zu! / sagt zu! / sagen Sie zu!",
       "conjugations": {
@@ -185,7 +200,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verzichten",
+        "nicht wollen",
+        "unmotiviert sein",
+        "abwinken",
+        "canceln"
+      ],
       "partizip_2": "abgesagt",
       "imperative": "sage ab! / sagt ab! / sagen Sie ab!",
       "conjugations": {
@@ -232,7 +253,13 @@
           "ru": "Да. Я вижу операцию, которая требует трех месяцев подготовки."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einrichtung",
+        "Vorfeldarbeiten",
+        "Vorarbeiten",
+        "Hinführung",
+        "Einstimmung"
+      ],
       "antonyms": [
         "die Nachbereitung, die Nachbereitungen"
       ]
@@ -265,7 +292,9 @@
           "ru": "Никто не может приготовиться к должности президента."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sich  zurechtlegen"
+      ],
       "partizip_2": "gesich vorbereitet",
       "imperative": "sich vorbereite! / sich vorbereitet! / sich vorbereiten Sie!",
       "conjugations": {
@@ -344,7 +373,13 @@
           "ru": "Я же говорил тебе, что мы вернемся к ланчу вовремя."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nach Fahrplan",
+        "fahrplanmäßig",
+        "planmäßig",
+        "wie angekündigt",
+        "ohne Verspätung"
+      ],
       "antonyms": [
         "unpünktlich",
         "verspätet",
@@ -412,7 +447,13 @@
           "ru": "В городе, где живут мои родители, действительно плохая связь."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rezeption",
+        "Empfangstresen",
+        "Anmeldung",
+        "Check-In",
+        "Check-In-Schalter"
+      ],
       "antonyms": [
         "die Verabschiedung, die Verabschiedungen"
       ]
@@ -445,7 +486,13 @@
           "ru": "И поприветствуем их в нашем прекрасном городе, конфискуя их видеокамеры."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zustimmen",
+        "gutheißen",
+        "billigen",
+        "beistimmen",
+        "befürworten"
+      ],
       "partizip_2": "begrüßt",
       "imperative": "begrüße! / begrüßt! / begrüßen Sie!",
       "conjugations": {
@@ -490,7 +537,11 @@
           "ru": "Каким было его рукопожатие?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Handschlag",
+        "Händeschütteln",
+        "Shakehands"
+      ],
       "antonyms": []
     },
     {
@@ -521,7 +572,13 @@
           "ru": "Смотри, это все язык тела, верно?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zeichensprache",
+        "Gestensprache",
+        "Gebärdensprache",
+        "Gestik",
+        "Gebärdenspiel"
+      ],
       "antonyms": []
     },
     {
@@ -552,7 +609,9 @@
           "ru": "Ты знаешь, в больнице, она изменила свою траекторию, чтобы избежать зрительного контакта с уборщиком."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Blickkontakt"
+      ],
       "antonyms": []
     },
     {
@@ -583,7 +642,13 @@
           "ru": "Да, но у нее твоя осанка."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ansicht",
+        "Auffassung",
+        "Blickwinkel",
+        "Gesichtspunkt",
+        "Betrachtungsweise"
+      ],
       "antonyms": []
     },
     {
@@ -614,7 +679,13 @@
           "ru": "Его брат сказал, что он был взволнован новым проектом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "hibbelig (ugs.",
+        "schreckhaft",
+        "ruhelos",
+        "durcheinander",
+        "hippelig (ugs."
+      ],
       "antonyms": [
         "ruhig",
         "gelassen",
@@ -649,7 +720,13 @@
           "ru": "Слишком много суматохи для одного вечера."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Scheißwut",
+        "Verärgerung",
+        "Gereiztheit",
+        "Aufgeregtheit",
+        "Rage"
+      ],
       "antonyms": [
         "die Ruhe (nur Sg.)",
         "die Gelassenheit (nur Sg.)"
@@ -683,7 +760,13 @@
           "ru": "Один из моих собеседников согласился, но сказал, что мы не можем ничего сделать, чтобы ее остановить, поскольку «это период истории, в котором мы находимся»."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesprächsteilnehmer",
+        "Gegenüber",
+        "Diskussionsteilnehmer",
+        "Vis-à-vis (geh.",
+        "Diskutant"
+      ],
       "antonyms": []
     },
     {
@@ -710,7 +793,9 @@
           "ru": "Ты же знаешь, что за два дня я стала менеджером по кадрам?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Personalmanager"
+      ],
       "antonyms": []
     },
     {
@@ -741,7 +826,13 @@
           "ru": "Передай своему начальнику, что я сейчас не могу уйти."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abteilungsboss",
+        "Abteilungsdienstvorgesetzter",
+        "Abteilungsvorgesetzter",
+        "Abteilungschef",
+        "Abteilungsdienstherr"
+      ],
       "antonyms": []
     },
     {
@@ -772,7 +863,13 @@
           "ru": "Я понятия не имел, как свободное программное обеспечение предназначено для людей."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vorführung",
+        "Präse (ugs.",
+        "Präsentation",
+        "Demo",
+        "Demonstration"
+      ],
       "antonyms": []
     },
     {
@@ -803,7 +900,9 @@
           "ru": "Может, лучше не знать... и представлять его."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sich vorstellen/präsentieren"
+      ],
       "partizip_2": "gesich vorstellt",
       "imperative": "sich vorstelle! / sich vorstellt! / sich vorstellen Sie!",
       "conjugations": {
@@ -852,7 +951,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hergang",
+        "Verlauf",
+        "Vorgang",
+        "Verfolg (fachspr.",
+        "Prozess"
+      ],
       "antonyms": [
         "der Stillstand, die Stillstände"
       ]
@@ -885,7 +990,13 @@
           "ru": "Бомба взорвалась сразу после посадки пассажиров!"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "An...",
+        "Aufbruch",
+        "Anspiel",
+        "Erst...",
+        "Startschuss"
+      ],
       "antonyms": [
         "der Ausstieg, die Ausstiege",
         "das Ende, die Enden"
@@ -919,7 +1030,13 @@
           "ru": "Ну, он сказал, что хочет задать мне один вопрос."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schlüsselfrage",
+        "entscheidende Frage",
+        "Kernfrage",
+        "Gretchenfrage",
+        "wichtige Frage"
+      ],
       "antonyms": [
         "die Antwort, die Antworten"
       ]
@@ -952,7 +1069,13 @@
           "ru": "Ты не можешь сидеть и пассивно отвечать на объявления других людей."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zurückgeben",
+        "versetzen (geh.",
+        "erwidern",
+        "so",
+        "reagieren"
+      ],
       "partizip_2": "angetwortet",
       "imperative": "tworte an! / twortet an! / tworten Sie an!",
       "conjugations": {
@@ -998,7 +1121,13 @@
           "ru": "Просто ответ часто... далеко не тот, который мы ищем."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gegenrede",
+        "Reaktion",
+        "Rückäußerung",
+        "Gegenbemerkung",
+        "Konter"
+      ],
       "antonyms": [
         "die Frage, die Fragen"
       ]
@@ -1031,7 +1160,13 @@
           "ru": "Если хочешь быть поближе ко мне, нужно просто попросить."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "wundern",
+        "hinterfragen",
+        "erbitten",
+        "angehen",
+        "ansuchen"
+      ],
       "partizip_2": "gefragt",
       "imperative": "frage! / fragt! / fragen Sie!",
       "conjugations": {
@@ -1077,7 +1212,13 @@
           "ru": "Ну, я просто хотела проверить."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "wissen wollen",
+        "tiefer bohren",
+        "nachsuchen",
+        "hinterfragen",
+        "interessieren"
+      ],
       "partizip_2": "genachfragt",
       "imperative": "nachfrage! / nachfragt! / nachfragen Sie!",
       "conjugations": {
@@ -1119,7 +1260,13 @@
           "ru": "Это было замечательно, Шелдон, Спасибо за вопрос."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ersuchen",
+        "Begehren",
+        "Anfrage",
+        "Bitte",
+        "Desiderium (geh."
+      ],
       "antonyms": [
         "das Angebot, die Angebote"
       ]
@@ -1152,7 +1299,13 @@
           "ru": "Они должны увиливать, ходить на цыпочках, уворачиваться."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "weggehen",
+        "Platz machen",
+        "hinhalten",
+        "vertrösten",
+        "trösten"
+      ],
       "partizip_2": "ausgeweicht",
       "imperative": "weiche aus! / weicht aus! / weichen Sie aus!",
       "conjugations": {
@@ -1194,7 +1347,12 @@
           "ru": "Всё, что сказано после этого, звучало бы нечестно и уклончиво."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ausflüchte suchend",
+        "evasorisch (geh.",
+        "vermeidend",
+        "evasiv (geh."
+      ],
       "antonyms": [
         "direkt",
         "präzise"
@@ -1276,7 +1434,13 @@
           "ru": "Мне нужно многое рассказать, Так что послушай хоть раз внимательно."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "näherbringen",
+        "vermitteln",
+        "unterrichten",
+        "erläutern",
+        "beibiegen (ugs."
+      ],
       "partizip_2": "erklärt",
       "imperative": "erkläre! / erklärt! / erklären Sie!",
       "conjugations": {
@@ -1318,7 +1482,13 @@
           "ru": "Мы основываемся на вещах вроде десяти заповедей."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "erklären",
+        "verargumentieren",
+        "legitimieren",
+        "Gründe finden",
+        "Gründe vorbringen"
+      ],
       "partizip_2": "begründet",
       "imperative": "begründe! / begründet! / begründen Sie!",
       "conjugations": {
@@ -1362,7 +1532,13 @@
           "ru": "Его объяснение - «если не сейчас, то никогда» - почти наверняка соответствует истине."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bekräftigung",
+        "Beleg",
+        "Beweisgrund",
+        "Prämisse",
+        "Beweis"
+      ],
       "antonyms": []
     },
     {
@@ -1393,7 +1569,13 @@
           "ru": "Это привлекло мое внимание, так что мы заключили сделку."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Neigung",
+        "Neugier",
+        "Neugierde",
+        "Belang",
+        "Offenheit"
+      ],
       "antonyms": [
         "das Desinteresse (nur Sg.)",
         "die Gleichgültigkeit (nur Sg.)"
@@ -1427,7 +1609,13 @@
           "ru": "Приму вашу незаинтересованность как твердое «возможно»."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Interessenlosigkeit",
+        "Gleichmut",
+        "Gleichgültigkeit",
+        "Passivität",
+        "Teilnahmslosigkeit"
+      ],
       "antonyms": [
         "das Interesse, die Interessen"
       ]
@@ -1460,7 +1648,13 @@
           "ru": "Хочу лишь отметить тот факт, что она вернулась назад после чёрных ребят."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "versichern",
+        "behaupten",
+        "beteuern",
+        "affirmieren (geh.",
+        "asserieren (geh."
+      ],
       "partizip_2": "betont",
       "imperative": "betone! / betont! / betonen Sie!",
       "conjugations": {
@@ -1505,7 +1699,13 @@
           "ru": "Всегда подсвечивать & собственный ник:"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "herauskehren",
+        "herausstellen",
+        "unterstreichen",
+        "Nachdruck verleihen",
+        "akzentuieren"
+      ],
       "partizip_2": "gehervorhebt",
       "imperative": "hervorhebe! / hervorhebt! / hervorheben Sie!",
       "conjugations": {
@@ -1550,7 +1750,13 @@
           "ru": "Это лучший способ Я могу объяснить незаконной торговли."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "referieren",
+        "ausführen",
+        "darstellen",
+        "resümieren",
+        "darlegen"
+      ],
       "partizip_2": "beschreibt",
       "imperative": "beschreibe! / beschreibt! / beschreiben Sie!",
       "conjugations": {
@@ -1592,7 +1798,13 @@
           "ru": "Это может представлять опасность и для вас с миссис Крэйтер тоже."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "präsentieren",
+        "abbilden",
+        "vorzeigen",
+        "vorstellen",
+        "vorführen"
+      ],
       "partizip_2": "gedarstellt",
       "imperative": "darstelle! / darstellt! / darstellen Sie!",
       "conjugations": {
@@ -1634,7 +1846,13 @@
           "ru": "Выберите один из следующих типов диаграммы, в зависимости от типа данных и необходимого представления."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Illustration",
+        "Abbildung",
+        "Ebenbild",
+        "Bildnis",
+        "Bild"
+      ],
       "antonyms": []
     },
     {
@@ -1665,7 +1883,13 @@
           "ru": "Почему, здесь и сейчас, у нас есть возможность Изобразить и драматизировать Оба высоты и глубины Из маминой истинной любви дочери, если вы получаете смысл моих слов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausführen",
+        "darstellen",
+        "dartun",
+        "beschreiben",
+        "erläutern"
+      ],
       "partizip_2": "geschildert",
       "imperative": "schildere! / schildert! / schildern Sie!",
       "conjugations": {
@@ -1707,7 +1931,13 @@
           "ru": "Основываясь на описании одной из многочисленных войн тайского королевства Аюттхая с соседней Бирмой, он приходил читален к мысли, что тайцы должны учиться на ошибках своих предков."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Erläuterung",
+        "Konkretisierung",
+        "Narrativ",
+        "Erklärung",
+        "Charakterisierung"
+      ],
       "antonyms": []
     },
     {
@@ -1738,7 +1968,13 @@
           "ru": "Ты сделала все, что могла в этой безвыходной ситуации."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schauplatz",
+        "Rahmen",
+        "Setting",
+        "Drumherum",
+        "Umgebung"
+      ],
       "antonyms": []
     },
     {
@@ -1769,7 +2005,13 @@
           "ru": "Пример в виду, почему бы не попробовать эмулировать я..."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Exempel",
+        "... selbst",
+        "Ausgeburt  (geh.",
+        "Inkarnation",
+        "Musterbeispiel"
+      ],
       "antonyms": []
     },
     {
@@ -1800,7 +2042,13 @@
           "ru": "В предыдущем году я показывал эти два слайда, чтобы проиллюстрировать, что арктические льды, которые на протяжении большей части последних трёх миллионов лет были размером примерно как 48 нижних штатов США, уменьшились на 40 процентов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "illustrieren",
+        "bebildern",
+        "skizzieren",
+        "visualisieren",
+        "anschaulich machen"
+      ],
       "partizip_2": "veranschaulicht",
       "imperative": "veranschauliche! / veranschaulicht! / veranschaulichen Sie!",
       "conjugations": {
@@ -1849,7 +2097,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "exportieren",
+        "verwirklichen",
+        "durchführen",
+        "realisieren",
+        "umsetzen"
+      ],
       "partizip_2": "ausgeführt",
       "imperative": "führe aus! / führt aus! / führen Sie aus!",
       "conjugations": {
@@ -1899,7 +2153,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tätigung",
+        "Transaktion",
+        "Abarbeitung",
+        "Umsetzung",
+        "Vollziehung"
+      ],
       "antonyms": [
         "die Planung",
         "der Entwurf"
@@ -1933,7 +2193,10 @@
           "ru": "Комбинация клавиш для выключения компьютера без подтверждения"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Folgefrage",
+        "klärende Frage"
+      ],
       "antonyms": []
     },
     {
@@ -1964,7 +2227,13 @@
           "ru": "Он пристально посмотрел на меня, потом медленно опустил брюки вниз."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "fürsorgend",
+        "fürsorglich",
+        "sorglich (geh.",
+        "bemüht",
+        "schwesterlich"
+      ],
       "antonyms": [
         "unaufmerksam",
         "abgelenkt"
@@ -1998,7 +2267,13 @@
           "ru": "Не обращай внимания на те вещи, которые мы пытаемся скрыть."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rücksicht",
+        "Geschenk",
+        "Präsent",
+        "Gabe",
+        "Mitbringsel"
+      ],
       "antonyms": [
         "die Unaufmerksamkeit (nur Sg.)",
         "die Ablenkung, die Ablenkungen"
@@ -2032,7 +2307,13 @@
           "ru": "Думаю, ты должен выслушать её, потому что это звучит очень интересно."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "anhören",
+        "mithören",
+        "horchen",
+        "Ohren aufsperren",
+        "Ohren spitzen"
+      ],
       "partizip_2": "zugehört",
       "imperative": "höre zu! / hört zu! / hören Sie zu!",
       "conjugations": {
@@ -2124,7 +2405,13 @@
           "ru": "Я слышал, что ей нужна передышка."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Auszeit",
+        "Unterbrechung",
+        "Unterlass",
+        "Stopp",
+        "Time-out"
+      ],
       "antonyms": []
     },
     {
@@ -2151,7 +2438,11 @@
           "ru": "Таким образом, единственным реальным выходом из положения будет использовать сегодняшний «перерыв на раздумье» для воскрешения существующего конституционного соглашения."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "dramatische Pause",
+        "rhetorische Pause",
+        "Kunstpause"
+      ],
       "antonyms": []
     },
     {
@@ -2182,7 +2473,13 @@
           "ru": "Давай поиграем в игру кто сможет дольше молчать."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Contenance wahren",
+        "tiefenentspannt  (ugs.",
+        "cool bleiben",
+        "Ruhe bewahren",
+        "Ruhe selbst"
+      ],
       "partizip_2": "geruhig bleibt",
       "imperative": "ruhig bleibe! / ruhig bleibt! / ruhig bleiben Sie!",
       "conjugations": {
@@ -2227,7 +2524,13 @@
           "ru": "Ему нужен отдых, так что давайте немного помолчим."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geräuschlosigkeit",
+        "Silentium (geh.",
+        "Funkstille (ugs.",
+        "Verschwiegenheit",
+        "Stille"
+      ],
       "antonyms": [
         "die Unruhe (nur Sg.)",
         "die Hektik (nur Sg.)"
@@ -2261,7 +2564,13 @@
           "ru": "Но это плохо может объяснить напряжение и протекционистскую реакцию в Европе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufregung",
+        "Belastung",
+        "Druck",
+        "Hektik",
+        "Stress"
+      ],
       "antonyms": [
         "die Gelassenheit (nur Sg.)",
         "die Ruhe (nur Sg.)"
@@ -2295,7 +2604,12 @@
           "ru": "Знаешь, когда он это сказал две недели назад, я улыбнулась."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "grinsen",
+        "grienen (ugs.",
+        "Lächeln aufsetzen",
+        "schmunzeln"
+      ],
       "partizip_2": "gelächelt",
       "imperative": "lächele! / lächelt! / lächeln Sie!",
       "conjugations": {
@@ -2340,7 +2654,12 @@
           "ru": "Когда я засыпаю по ночам, я вижу твою улыбку."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "grinsen",
+        "grienen (ugs.",
+        "Lächeln aufsetzen",
+        "schmunzeln"
+      ],
       "antonyms": []
     },
     {
@@ -2371,7 +2690,13 @@
           "ru": "То, что он приятный, что ты можешь его запомнить."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "lieb",
+        "umgänglich",
+        "konziliant",
+        "nett",
+        "reizend"
+      ],
       "antonyms": [
         "unsympathisch",
         "abstoßend"
@@ -2405,7 +2730,13 @@
           "ru": "И не было бы в мире страха, лишь только Счастье, Любовь и..."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geneigtheit (geh.",
+        "Wohlwollen",
+        "Zugehörigkeitsgefühl",
+        "Zuneigung",
+        "Verbundenheit"
+      ],
       "antonyms": [
         "die Antipathie, die Antipathien",
         "die Abneigung, die Abneigungen"
@@ -2439,7 +2770,13 @@
           "ru": "Не знаю, может быть потому что я умна, талантлива и профессионал."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kunstgerecht",
+        "kunstfertig",
+        "gewandt",
+        "mit  Geschick",
+        "gekonnt"
+      ],
       "antonyms": [
         "unprofessionell",
         "laienhaft",
@@ -2507,7 +2844,13 @@
           "ru": "Познание приходит к тому, кто открыт для него, агент."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bloß",
+        "kahl",
+        "nackt",
+        "unverhüllt",
+        "blank"
+      ],
       "antonyms": [
         "geschlossen",
         "abgeschlossen",
@@ -2542,7 +2885,13 @@
           "ru": "Ты знаешь, что основами брака являются честность и откровенность."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Neigung",
+        "Interesse",
+        "Neugier",
+        "Neugierde",
+        "Belang"
+      ],
       "antonyms": [
         "die Verschlossenheit (nur Sg.)"
       ]
@@ -2575,7 +2924,13 @@
           "ru": "Конечно, коррупция есть, но большинство полицейских хотят служить честно."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ehrbar",
+        "grundgut",
+        "redlich",
+        "grundanständig",
+        "aufrecht"
+      ],
       "antonyms": [
         "unehrlich",
         "verlogen",
@@ -2610,7 +2965,13 @@
           "ru": "Что ж, спасибо за вашу откровенность в отношении собственного имени."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wahrhaftigkeit",
+        "Aufrichtigkeit",
+        "Wahrheit",
+        "Offenheit",
+        "Vertrauenswürdigkeit"
+      ],
       "antonyms": [
         "die Unehrlichkeit (nur Sg.)",
         "die Unaufrichtigkeit (nur Sg.)"
@@ -2644,7 +3005,13 @@
           "ru": "Говорил, что я не настоящий."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "legit (engl.",
+        "originär",
+        "genuin",
+        "ursprünglich",
+        "echt"
+      ],
       "antonyms": [
         "unauthentisch",
         "gekünstelt"
@@ -2678,7 +3045,13 @@
           "ru": "Вот тебе и достоверность."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Originalität",
+        "Echtheit",
+        "Glaubwürdigkeit",
+        "Unverstelltheit",
+        "Vertrauenswürdigkeit"
+      ],
       "antonyms": [
         "die Unauthentizität (nur Sg.)"
       ]
@@ -2711,7 +3084,13 @@
           "ru": "Звучит не очень убедительно, но я тебе верю."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "stimmig",
+        "widerspruchsfrei",
+        "folgerichtig",
+        "kohärent (fachspr.",
+        "folgerecht"
+      ],
       "antonyms": [
         "unüberzeugend",
         "unglaubwürdig"
@@ -2745,7 +3124,13 @@
           "ru": "Простого предложения повышения зарплаты хватило, чтобы уговорить этих людей."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bewegen",
+        "erwärmen",
+        "persuadieren",
+        "einnehmen",
+        "indoktrinieren"
+      ],
       "partizip_2": "überzeugt",
       "imperative": "überzeuge! / überzeugt! / überzeugen Sie!",
       "conjugations": {
@@ -2789,7 +3174,13 @@
           "ru": "Есть еще одна вещь в этом мире, более могущественная, чем уверенность."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Geisteshaltung",
+        "Lebenseinstellung",
+        "Philosophie",
+        "Gesinnung",
+        "Grundeinstellung"
+      ],
       "antonyms": [
         "der Zweifel, die Zweifel"
       ]
@@ -2822,7 +3213,13 @@
           "ru": "У меня такое впечатление, что они охраняют меня."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Empfindung",
+        "Sinneswahrnehmung",
+        "Anmutung",
+        "Impression",
+        "Fußabdruck"
+      ],
       "antonyms": []
     },
     {
@@ -2853,7 +3250,13 @@
           "ru": "После фиаско на прошлой неделе, нужно произвести впечатление."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "etwas vorstellen",
+        "von Format",
+        "Ehrfurcht einflößen",
+        "beeindruckend sein",
+        "Persönlichkeit sein"
+      ],
       "partizip_2": "geEindruck macht",
       "imperative": "Eindruck mache! / Eindruck macht! / Eindruck machen Sie!",
       "conjugations": {
@@ -2895,7 +3298,13 @@
           "ru": "Могла бы завещать мне свои бриллианты или модную сумку."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "vergaben",
+        "vererben",
+        "vermachen",
+        "zurücklassen",
+        "zurückbehalten"
+      ],
       "partizip_2": "gehinterlasst",
       "imperative": "hinterlasse! / hinterlasst! / hinterlassen Sie!",
       "conjugations": {
@@ -2937,7 +3346,9 @@
           "ru": "Будет, о чем поговорить, когда встретимся."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesprächsthema"
+      ],
       "antonyms": []
     },
     {
@@ -2968,7 +3379,13 @@
           "ru": "До недавнего времени, более 98% учителей получали один отклик: Удовлетворительно."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rückmeldung",
+        "Resonanz",
+        "Kommentar",
+        "Anregung",
+        "Stellungnahme"
+      ],
       "antonyms": []
     },
     {
@@ -3045,7 +3462,13 @@
           "ru": "Последние прощания и все такое."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Absetzung",
+        "Entlassung",
+        "Ausscheiden",
+        "Kündigung",
+        "Vertragsauflösung"
+      ],
       "antonyms": [
         "die Begrüßung, die Begrüßungen"
       ]
@@ -3078,7 +3501,13 @@
           "ru": "Чем дольше он затягивается, тем более разрушительным будет конечный результат."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schluss",
+        "Finitum (geh.",
+        "Ende",
+        "Ausklang",
+        "Abschluss"
+      ],
       "antonyms": [
         "der Eingang, die Eingänge"
       ]
@@ -3111,7 +3540,9 @@
           "ru": "Мы готовим несколько сюжетов по следам новости о кибервойне."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nachbearbeitung"
+      ],
       "antonyms": [
         "die Vorbereitung, die Vorbereitungen"
       ]
@@ -3144,7 +3575,9 @@
           "ru": "Нет, не то что вы мне благоданы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dank"
+      ],
       "partizip_2": "gesich bedankt",
       "imperative": "sich bedanke! / sich bedankt! / sich bedanken Sie!",
       "conjugations": {
@@ -3189,7 +3622,13 @@
           "ru": "Спасибо тебе... за то, что защищала и питала меня."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dankgefühl",
+        "Erkenntlichkeit",
+        "Dankbarkeit",
+        "auf Grund",
+        "begründet durch"
+      ],
       "antonyms": [
         "der Undank (nur Sg.)"
       ]
@@ -3222,7 +3661,9 @@
           "ru": "Нет, я собираюсь написать несколько благодарностей, а ты позвони мне, если что нужно будет."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dankesbrief"
+      ],
       "antonyms": []
     },
     {
@@ -3253,7 +3694,13 @@
           "ru": "Мне нужно было увидеть тебя и я не мог дождаться формальностей."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zuwarten",
+        "harren",
+        "ausharren",
+        "warten",
+        "gedulden"
+      ],
       "partizip_2": "abgewartet",
       "imperative": "warte ab! / wartet ab! / warten Sie ab!",
       "conjugations": {
@@ -3298,7 +3745,13 @@
           "ru": "Я не могу дать тебе возможность делать решения за меня."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entschluss",
+        "Entscheid",
+        "Wille",
+        "Beschluss",
+        "Urteil"
+      ],
       "antonyms": [
         "die Unentschlossenheit (nur Sg.)"
       ]
@@ -3331,7 +3784,13 @@
           "ru": "Любовь не приходит просто так, мы должны выбрать ее."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "beschließen",
+        "bestimmen",
+        "stipulieren (geh.",
+        "determinieren (geh.",
+        "festsetzen"
+      ],
       "partizip_2": "entscheidet",
       "imperative": "entscheide! / entscheidet! / entscheiden Sie!",
       "conjugations": {
@@ -3378,7 +3837,13 @@
           "ru": "Я буду рад доложить обо всём после того, как приму горячий душ."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gegenrede",
+        "Reaktion",
+        "Rückäußerung",
+        "Gegenbemerkung",
+        "Konter"
+      ],
       "antonyms": []
     },
     {
@@ -3483,7 +3948,13 @@
           "ru": "Его спрашивают: «Вам назначено?» он говорит со своим акцентом: «Да, у меня телефонное собеседование в девять»."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Telefonbefragung",
+        "Telefonerhebung",
+        "Telefondialog",
+        "Telefonfragegespräch",
+        "Telefonumfrage"
+      ],
       "antonyms": []
     },
     {
@@ -3514,7 +3985,13 @@
           "ru": "Фонд Шоа, созданный по инициативе Спилберга, сейчас заархивировал сотни видеоинтервью с выжившими и также подвергся за это критике."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Videobefragung",
+        "Videoerhebung",
+        "Videodialog",
+        "Videofragegespräch",
+        "Videoumfrage"
+      ],
       "antonyms": []
     },
     {
@@ -3537,7 +4014,13 @@
           "ru": "В меню Настройка также можно найти «Полноэкранный режим». Использование этой возможности очень полезно, например, для показа презентаций."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Online-Dialog",
+        "Online-Aussprache",
+        "Online-Zwiegespräch",
+        "Online-Austausch",
+        "Online-Unterhaltung"
+      ],
       "antonyms": [
         "das Präsenzgespräch, die Gespräche"
       ]
@@ -3562,7 +4045,10 @@
           "ru": "Профессиональный анализ резюме может помочь вам обнаружить скрытые слабые места в вашей заявке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "CV-Check",
+        "Lebenslaufprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -3618,7 +4104,9 @@
           "ru": "А теперь почему бы не выслушать вопросы от слушателей"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Frage-und-Antwort-Runde"
+      ],
       "antonyms": []
     },
     {
@@ -3651,7 +4139,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gemischt",
+        "disparat",
+        "inkongruent",
+        "Misch...",
+        "kunterbunt"
+      ],
       "antonyms": []
     },
     {
@@ -3684,7 +4178,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zuverlässig",
+        "störungssicher",
+        "standfest  (fachspr.",
+        "ausfallsicher",
+        "betriebssicher"
+      ],
       "antonyms": []
     },
     {
@@ -3717,7 +4217,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "selbstständig",
+        "selbstbestimmt",
+        "eigenverantwortlich",
+        "autonom",
+        "selbstverantwortlich"
+      ],
       "antonyms": []
     },
     {
@@ -3750,7 +4256,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "engagiert",
+        "arbeitsam",
+        "anpackend",
+        "tüchtig",
+        "fleißig"
+      ],
       "antonyms": []
     },
     {
@@ -3783,7 +4295,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "expressiv",
+        "ausdrucksvoll"
+      ],
       "antonyms": []
     },
     {
@@ -3816,7 +4331,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gewinnorientiert",
+        "profitorientiert"
+      ],
       "antonyms": []
     },
     {
@@ -3849,7 +4367,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "neugierig",
+        "inquisitiv (geh.",
+        "wissensdurstig",
+        "interessiert",
+        "voller Entdeckerfreude"
+      ],
       "antonyms": []
     },
     {
@@ -3882,7 +4406,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "pflichtgemäß",
+        "pflichtschuldig",
+        "pflichtgetreu",
+        "pflichteifrig",
+        "gewissenhaft"
+      ],
       "antonyms": []
     },
     {
@@ -3915,7 +4445,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "hochfliegend (Plan",
+        "ambitiös",
+        "hochgesteckt (Erwartung",
+        "ehrgeizig",
+        "hehr (Ziel"
+      ],
       "antonyms": []
     },
     {
@@ -3948,7 +4484,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ernst",
+        "düster",
+        "verbissen",
+        "angestrengt",
+        "grimmig"
+      ],
       "antonyms": []
     },
     {
@@ -3981,7 +4523,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "getreu (geh.",
+        "zuverlässig",
+        "treugesinnt",
+        "treu ergeben",
+        "loyal"
+      ],
       "antonyms": []
     },
     {
@@ -4014,7 +4562,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gütig",
+        "verständnisvoll",
+        "tolerant",
+        "milde gestimmt",
+        "duldsam"
+      ],
       "antonyms": []
     },
     {
@@ -4047,7 +4601,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "galant",
+        "freundlich",
+        "aufmerksam",
+        "verbindlich",
+        "entgegenkommend"
+      ],
       "antonyms": []
     },
     {
@@ -4080,7 +4640,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ehrfürchtig",
+        "voller Ehrfurcht",
+        "ehrerbietig",
+        "ehrfurchtsvoll"
+      ],
       "antonyms": []
     },
     {
@@ -4113,7 +4678,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "förderlich",
+        "zuträglich",
+        "dienlich",
+        "hilfreich",
+        "subsidiär"
+      ],
       "antonyms": []
     },
     {
@@ -4146,7 +4717,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "geschützt",
+        "wohlbehütet",
+        "gesichert",
+        "behütet",
+        "safe (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -4179,7 +4756,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kooperativ",
+        "zusammenarbeitend",
+        "zusammenwirkend",
+        "geeint",
+        "kameradschaftlich"
+      ],
       "antonyms": []
     },
     {
@@ -4212,7 +4795,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "serviceorientiert"
+      ],
       "antonyms": []
     },
     {
@@ -4245,7 +4830,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "geschickt verhandeln",
+        "Unterhändler"
+      ],
       "antonyms": []
     },
     {
@@ -4278,7 +4866,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nicht abgelenkt",
+        "fokussiert",
+        "dabei",
+        "aufmerksam",
+        "zusammengeballt"
+      ],
       "antonyms": []
     },
     {
@@ -4311,7 +4905,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nicht abgelenkt",
+        "dabei",
+        "aufmerksam",
+        "konzentriert"
+      ],
       "antonyms": []
     },
     {
@@ -4344,7 +4943,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "vorsichtig"
+      ],
       "antonyms": []
     },
     {
@@ -4377,7 +4978,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "im Sollbereich",
+        "regelgerecht",
+        "in Ordnung",
+        "einwandfrei",
+        "salonfähig"
+      ],
       "antonyms": []
     },
     {
@@ -4410,7 +5017,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "haargenau",
+        "akkurat",
+        "exakt",
+        "millimetergenau",
+        "genau"
+      ],
       "antonyms": []
     },
     {
@@ -4443,7 +5056,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gründlich",
+        "reiflich",
+        "sorgfältig",
+        "jawohl",
+        "ganz recht"
+      ],
       "antonyms": []
     },
     {
@@ -4476,7 +5095,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "im Detail",
+        "detailliert",
+        "eingehend",
+        "en détail",
+        "detailgenau"
+      ],
       "antonyms": []
     },
     {
@@ -4509,7 +5134,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ordentlich",
+        "bestellt"
+      ],
       "antonyms": []
     },
     {
@@ -4542,7 +5170,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sortiert",
+        "planvoll",
+        "geordnet",
+        "strukturiert",
+        "mit System"
+      ],
       "antonyms": []
     },
     {
@@ -4575,7 +5209,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wahrheit entsprechend",
+        "wahrhaftig",
+        "wahr",
+        "wahrheitsgemäß",
+        "wahrheitsgetreu"
+      ],
       "antonyms": []
     },
     {
@@ -4608,7 +5248,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "denkbar",
+        "vermutbar",
+        "annehmbar",
+        "erwartbar",
+        "glaubhaft"
+      ],
       "antonyms": []
     },
     {
@@ -4641,7 +5287,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "geistesgegenwärtig",
+        "flinkzüngig (geh.",
+        "zungenfertig",
+        "wortgewandt",
+        "schnellzüngig"
+      ],
       "antonyms": []
     },
     {
@@ -4674,7 +5326,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "sprachfertig",
+        "beredt",
+        "schnellzüngig",
+        "eloquent",
+        "wortgewandt"
+      ],
       "antonyms": []
     },
     {
@@ -4707,7 +5365,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "phrasenhaft"
+      ],
       "antonyms": []
     },
     {
@@ -4773,7 +5433,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "polyglott",
+        "multilingual",
+        "vielsprachig"
+      ],
       "antonyms": []
     },
     {
@@ -4806,7 +5470,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fremdsprache"
+      ],
       "antonyms": []
     },
     {
@@ -4839,7 +5505,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "weltweit",
+        "multinational",
+        "weltumspannend",
+        "global",
+        "grenzüberschreitend"
+      ],
       "antonyms": []
     },
     {
@@ -4872,7 +5544,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "hiesig",
+        "lokal",
+        "vor Ort",
+        "hier anzutreffen",
+        "örtlich"
+      ],
       "antonyms": []
     },
     {
@@ -4905,7 +5583,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "landesweit",
+        "landauf",
+        "patriotisch",
+        "nationalistisch"
+      ],
       "antonyms": []
     },
     {
@@ -4938,7 +5621,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "national"
+      ],
       "antonyms": []
     },
     {
@@ -4971,7 +5656,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Industriestandard"
+      ],
       "antonyms": []
     },
     {
@@ -5004,7 +5691,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "marktgezustehendes",
+        "marktgeanrecht",
+        "marktgeanspruch",
+        "marktgeerlaubnis",
+        "marktgelizenz"
+      ],
       "antonyms": []
     },
     {
@@ -5037,7 +5730,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "leistungsbezogen"
+      ],
       "antonyms": []
     },
     {
@@ -5070,7 +5765,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tarifvertrag"
+      ],
       "antonyms": []
     },
     {
@@ -5136,7 +5833,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vollzeit",
+        "fortlaufend"
+      ],
       "antonyms": []
     },
     {
@@ -5169,7 +5869,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teilzeit",
+        "Unterbeschäftigung"
+      ],
       "antonyms": []
     },
     {
@@ -5202,7 +5905,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "umtriebig",
+        "lebhaft",
+        "rührig",
+        "wach",
+        "lebendig"
+      ],
       "antonyms": []
     },
     {
@@ -5235,7 +5944,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "im Beschäftigungsverhältnis",
+        "erwerbstätig",
+        "tätig",
+        "im Arbeitsverhältnis",
+        "in  Diensten"
+      ],
       "antonyms": []
     },
     {
@@ -5268,7 +5983,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "im Beschäftigungsverhältnis",
+        "beschäftigt",
+        "erwerbstätig",
+        "tätig",
+        "im Arbeitsverhältnis"
+      ],
       "antonyms": []
     },
     {
@@ -5301,7 +6022,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "freiberuflich tätig",
+        "selbständig",
+        "freischaffend"
+      ],
       "antonyms": []
     },
     {
@@ -5334,7 +6059,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "privatwirtschaftlich",
+        "wirtschaftlich",
+        "ökonomisch",
+        "Handels...",
+        "unternehmerisch"
+      ],
       "antonyms": []
     },
     {
@@ -5400,7 +6131,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "privatwirtschaftlich",
+        "gewerblich",
+        "wirtschaftlich",
+        "ökonomisch",
+        "Handels..."
+      ],
       "antonyms": []
     },
     {
@@ -5433,7 +6170,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "organisatorisch",
+        "verfahrensmäßig",
+        "prozedural",
+        "technologisch",
+        "technikbezogen"
+      ],
       "antonyms": []
     },
     {
@@ -5466,7 +6209,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "theorielastig",
+        "gelahrt (geh.",
+        "philosophisch",
+        "praxisfern",
+        "praxisfremd"
+      ],
       "antonyms": []
     },
     {
@@ -5499,7 +6248,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "schlechthin",
+        "freilich (ugs.",
+        "schier",
+        "reinweg",
+        "geradezu"
+      ],
       "antonyms": []
     },
     {
@@ -5532,7 +6287,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kontrafaktisch",
+        "hypothetisch",
+        "spekulativ",
+        "rein gedanklich",
+        "angenommen"
+      ],
       "antonyms": []
     },
     {
@@ -5565,7 +6326,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "akademisch",
+        "szientifisch",
+        "gelehrt",
+        "gebildet"
+      ],
       "antonyms": []
     },
     {
@@ -5598,7 +6364,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "professionell",
+        "als Broterwerb",
+        "berufsmäßig"
+      ],
       "antonyms": []
     },
     {
@@ -5631,7 +6401,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "persönlich",
+        "intim",
+        "vertraulich",
+        "eigenster (eigenste",
+        "nicht öffentlich"
+      ],
       "antonyms": []
     },
     {
@@ -5664,7 +6440,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "intim",
+        "privat",
+        "vertraulich",
+        "eigenster (eigenste",
+        "nicht öffentlich"
+      ],
       "antonyms": []
     },
     {
@@ -5697,7 +6479,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "professionell"
+      ],
       "antonyms": []
     },
     {
@@ -5730,7 +6514,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "offen",
+        "extravertiert",
+        "extrovertiert",
+        "freundlich",
+        "leutselig"
+      ],
       "antonyms": []
     },
     {
@@ -5763,7 +6553,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "geordnet",
+        "planmäßig",
+        "planvoll",
+        "regelhaft",
+        "systematisch"
+      ],
       "antonyms": []
     },
     {
@@ -5796,7 +6592,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nach Plan",
+        "geplant"
+      ],
       "antonyms": []
     },
     {
@@ -5829,7 +6628,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zukunftsgerichtet"
+      ],
       "antonyms": []
     },
     {
@@ -5862,7 +6663,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "heutig",
+        "fortschrittlich",
+        "von heute",
+        "neuzeitlich",
+        "à jour"
+      ],
       "antonyms": []
     },
     {
@@ -5895,7 +6702,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "angestammt",
+        "hergebracht",
+        "überkommen",
+        "überliefert",
+        "altüberliefert"
+      ],
       "antonyms": []
     },
     {
@@ -5928,7 +6741,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bewährt",
+        "eingeführt",
+        "altbewährt",
+        "erprobt",
+        "altbekannt"
+      ],
       "antonyms": []
     },
     {
@@ -5961,7 +6780,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bestbeleumdet",
+        "Ansehen genießen",
+        "namhaft",
+        "angesehen sein",
+        "anerkannt"
+      ],
       "antonyms": []
     },
     {
@@ -5994,7 +6819,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "herrschend",
+        "maßgebend",
+        "vorherrschend",
+        "dominant",
+        "prädominant (geh."
+      ],
       "antonyms": []
     },
     {
@@ -6027,7 +6858,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "prestigevoll",
+        "prominent",
+        "von Rang",
+        "reputabel",
+        "berühmt"
+      ],
       "antonyms": []
     },
     {
@@ -6060,7 +6897,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gern gekauft",
+        "begehrt",
+        "gut eingeführt",
+        "gesucht",
+        "populär"
+      ],
       "antonyms": []
     },
     {
@@ -6093,7 +6936,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gut aussehend",
+        "herrlich",
+        "allerliebst",
+        "Hingucker",
+        "wahre Pracht"
+      ],
       "antonyms": []
     },
     {
@@ -6126,7 +6975,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "spannend (ugs.",
+        "fesselnd",
+        "Interesse wecken",
+        "von Interesse",
+        "hochspannend"
+      ],
       "antonyms": []
     },
     {
@@ -6159,7 +7014,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "prickelnd",
+        "packend",
+        "Spannung erzeugend",
+        "nervenzerfetzend",
+        "mit Thrill"
+      ],
       "antonyms": []
     },
     {
@@ -6192,7 +7053,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "provokant",
+        "aufreizend",
+        "provokatorisch",
+        "provokativ",
+        "provozierend"
+      ],
       "antonyms": []
     },
     {
@@ -6225,7 +7092,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ambitioniert",
+        "hochfliegend (Plan",
+        "ambitiös",
+        "hochgesteckt (Erwartung",
+        "ehrgeizig"
+      ],
       "antonyms": []
     },
     {
@@ -6258,7 +7131,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kompliziert",
+        "schwer",
+        "nicht  einfach",
+        "diffizil (geh.",
+        "kritisch"
+      ],
       "antonyms": []
     },
     {
@@ -6291,7 +7170,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "leichtgewichtig",
+        "light",
+        "kalorienreduziert",
+        "banal",
+        "unproblematisch"
+      ],
       "antonyms": []
     },
     {
@@ -6324,7 +7209,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "durchscheinend",
+        "durchsichtig",
+        "transparent",
+        "ungetrübt",
+        "fasslich"
+      ],
       "antonyms": []
     },
     {
@@ -6357,7 +7248,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "prägnant",
+        "signifikant",
+        "prägend",
+        "bezeichnend",
+        "fühlbar"
+      ],
       "antonyms": []
     },
     {
@@ -6390,7 +7287,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "anscheinend",
+        "offenbar",
+        "Anschein nach",
+        "ostensiv (geh.",
+        "offenkundig"
+      ],
       "antonyms": []
     },
     {
@@ -6423,7 +7326,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gewicht haben",
+        "von Bedeutung",
+        "bedeutsam",
+        "relevant",
+        "bedeutend"
+      ],
       "antonyms": []
     }
   ]

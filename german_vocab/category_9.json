@@ -29,7 +29,11 @@
           "ru": "Также, он курирует и координирует отделы бухгалтерии и внутреннего контроля."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Buchführung",
+        "Rechnungsführung",
+        "Rechnungswesen"
+      ],
       "antonyms": []
     },
     {
@@ -60,7 +64,9 @@
           "ru": "Когда-нибудь хочу стать бухгалтером, но сначала счетоводство."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Buchhaltung"
+      ],
       "antonyms": []
     },
     {
@@ -91,7 +97,9 @@
           "ru": "На следующий день бухгалтера нашли на аллее с перерезанным горлом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Buchführer"
+      ],
       "antonyms": []
     },
     {
@@ -122,7 +130,13 @@
           "ru": "Я могу бронировать гостиницы для тебя, заключать твои договора."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bestellen",
+        "reservieren",
+        "disponieren (fachspr.",
+        "vorbestellen",
+        "freihalten lassen"
+      ],
       "partizip_2": "gebucht",
       "imperative": "buche! / bucht! / buchen Sie!",
       "conjugations": {
@@ -166,7 +180,13 @@
           "ru": "Сохранить изменения при выборе другой операции"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Reservierung",
+        "Buchen",
+        "Bestellung",
+        "Order",
+        "Eintragung"
+      ],
       "antonyms": [
         "die Stornierung, die Stornierungen"
       ]
@@ -199,7 +219,11 @@
           "ru": "Говорят, что это красивый город, там есть на что посмотреть."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "erwünschte Ausprägung",
+        "Zielwert",
+        "Plansoll"
+      ],
       "antonyms": [
         "das Haben, (nur Sg.)"
       ]
@@ -232,7 +256,13 @@
           "ru": "У нас хватит мощности, чтобы включить систему, но нужны еще элементы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "genötigt sein",
+        "nicht umhinkommen",
+        "nicht umhinkönnen",
+        "gezwungen sein",
+        "müssen"
+      ],
       "antonyms": [
         "das Soll, (nur Sg.)"
       ]
@@ -300,7 +330,11 @@
           "ru": "Одной из основных задач был учёт более честной отчётности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bilanz machen",
+        "Bilanz ziehen",
+        "aufschlüsseln"
+      ],
       "partizip_2": "bilanziert",
       "imperative": "bilanziere! / bilanziert! / bilanzieren Sie!",
       "conjugations": {
@@ -342,7 +376,13 @@
           "ru": "В 2006 году цена акции упала до рекордно низкого уровня: финансовый отсчёт за февраль 2006 год сообщил об убытке в размере 8.2 млн евро."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bilanzaufstellung",
+        "Erfolg",
+        "Bilanz",
+        "Ergebnis",
+        "Altjahrsabend"
+      ],
       "antonyms": []
     },
     {
@@ -373,7 +413,10 @@
           "ru": "Тип: если этот параметр имеет значение 1, выполняется переключение на прямую амортизацию."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wertverminderung",
+        "Steuerabschreibung"
+      ],
       "antonyms": [
         "die Zuschreibung, die Zuschreibungen"
       ]
@@ -406,7 +449,13 @@
           "ru": "Неразборчиво, я не смог переписать."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kiebitzen",
+        "abkupfern",
+        "abbimsen (ugs.",
+        "abgucken",
+        "abspicken"
+      ],
       "partizip_2": "abgeschreibt",
       "imperative": "schreibe ab! / schreibt ab! / schreiben Sie ab!",
       "conjugations": {
@@ -450,7 +499,9 @@
           "ru": "По этой причине обычный контроль и аудит в конце финансового года обычно проводятся вместе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berichts-/Geschäftsjahr"
+      ],
       "antonyms": []
     },
     {
@@ -481,7 +532,13 @@
           "ru": "Показывать маркеры предыдущего и текущего финансового года"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wirtschaftsjahr",
+        "Rechnungsjahr",
+        "Steuerperiode",
+        "Fiskaljahr",
+        "Finanzjahr"
+      ],
       "antonyms": []
     },
     {
@@ -512,7 +569,13 @@
           "ru": "Соботка говорит, что такое случается, когда радио волны не проходят... или когда учётчик ошибается при вводе серийного номера."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Prüfgerät",
+        "Untersucher",
+        "Kontrolleur",
+        "Inspizient",
+        "Inspektor"
+      ],
       "antonyms": []
     },
     {
@@ -543,7 +606,13 @@
           "ru": "Но, когда они поехали проверить номер, на них напали."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "beurteilen",
+        "abwägen",
+        "einschätzen",
+        "inspizieren",
+        "herausfinden"
+      ],
       "partizip_2": "geprüft",
       "imperative": "prüfe! / prüft! / prüfen Sie!",
       "conjugations": {
@@ -585,7 +654,10 @@
           "ru": "јмериканские аудиторские компании, такие как ѕћ, провели проверку исландских банков и инвестиционных фирм и не нашли никаких недочЄтов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wirtschaftsprüfung",
+        "Unternehmensprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -616,7 +688,12 @@
           "ru": "Мы закрылись пораньше на учет."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bestandsaufnahme",
+        "Erfassung",
+        "Inventarisierung",
+        "Zählung"
+      ],
       "antonyms": []
     },
     {
@@ -647,7 +724,13 @@
           "ru": "Тебя я вышвыриваю. И продаю твое оборудование."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einrichtungsgegenstände",
+        "Mobilien",
+        "Mobiliar",
+        "Ameublement (geh.",
+        "Meublement (geh."
+      ],
       "antonyms": []
     },
     {
@@ -678,7 +761,13 @@
           "ru": "Я бы хотел пополнить наши запасы, и предложить также Ганника."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fortbestand",
+        "Verbleib",
+        "Fortdauer",
+        "Bleiben",
+        "Verbleiben"
+      ],
       "antonyms": []
     },
     {
@@ -709,7 +798,13 @@
           "ru": "Это произошло потому, что, учитывая рост населения, вложения в основной капитал, знания и навыки, а также улучшение институтов не компенсировали сокращение природного капитала."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anlageguthaben",
+        "Anlageerspartes",
+        "Anlagewohlstand",
+        "Anlagereichtum",
+        "Anlagehabseligkeiten"
+      ],
       "antonyms": [
         "das Umlaufvermögen, (nur Sg.)"
       ]
@@ -742,7 +837,13 @@
           "ru": "Оборотные активы: все, что остается в компании только на короткое время, например, Б. Товар или деньги в кассе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umlaufguthaben",
+        "Umlauferspartes",
+        "Umlaufwohlstand",
+        "Umlaufreichtum",
+        "Umlaufhabseligkeiten"
+      ],
       "antonyms": [
         "das Anlagevermögen, (nur Sg.)"
       ]
@@ -775,7 +876,9 @@
           "ru": "Он глава корпоративной империи, чей собственный капитал выше, чем у большинства маленьких стран."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Equity (Jargon"
+      ],
       "antonyms": [
         "das Fremdkapital, (nur Sg.)"
       ]
@@ -808,7 +911,9 @@
           "ru": "Банкиры и трейдеры последнего кризиса рационально ответили на схемы бонусов и компенсаций, которые позволяли им брать на себя много кредитных рычагов и обеспечивали большие бонусы, но которые почти гарантировали банкротство большому числу финансовых институтов впоследствии."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schulden"
+      ],
       "antonyms": [
         "das Eigenkapital, (nur Sg.)"
       ]
@@ -841,7 +946,13 @@
           "ru": "Меры по укреплению авторитета Женевского протокола 1925 года"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zuvorkommenheit",
+        "Freundlichkeit",
+        "Höflichkeit",
+        "Courtoisie (geh.",
+        "Gefälligkeit"
+      ],
       "antonyms": [
         "die Forderung, die Forderungen"
       ]
@@ -874,7 +985,13 @@
           "ru": "Его Величество король Фердинанд отвергает ваши претензии."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schulden",
+        "ausstehende Forderungen",
+        "Rückstand",
+        "offene  Rechnungen",
+        "Außenstände"
+      ],
       "antonyms": [
         "die Verbindlichkeit, die Verbindlichkeiten"
       ]
@@ -907,7 +1024,10 @@
           "ru": "Это Кодий Позволяет Вас Изменить Вашу Стрелку Невыполнения оБязательства К ЛюБому Из Одних, котор Мы Предлагаем."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rückhalt",
+        "Rücklage"
+      ],
       "antonyms": []
     },
     {
@@ -938,7 +1058,13 @@
           "ru": "А теперь я держу пари она нас прижмет огромным счетом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ansatz",
+        "Voranschlag",
+        "Festsetzung",
+        "Zählung",
+        "Veranschlagung"
+      ],
       "antonyms": []
     },
     {
@@ -969,7 +1095,13 @@
           "ru": "Это чек на оплату страховки автомобиля."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Indikator",
+        "Hinweis",
+        "Zeichen",
+        "Gradmesser (fig.",
+        "Schriftstück"
+      ],
       "antonyms": []
     },
     {
@@ -1000,7 +1132,13 @@
           "ru": "Единицы вне базы не занимают мест в ангаре, почему?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "nachweisen",
+        "Beweis erbringen",
+        "Nachweis erbringen",
+        "beweisen",
+        "Beweis antreten"
+      ],
       "partizip_2": "belegt",
       "imperative": "belege! / belegt! / belegen Sie!",
       "conjugations": {
@@ -1044,7 +1182,13 @@
           "ru": "Мы пытаемся подтвердить это с помощью ДНК из дела Тейлор."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "belegen",
+        "Beweis erbringen",
+        "Nachweis erbringen",
+        "beweisen",
+        "Beweis antreten"
+      ],
       "partizip_2": "genachweist",
       "imperative": "nachweise! / nachweist! / nachweisen Sie!",
       "conjugations": {
@@ -1088,7 +1232,13 @@
           "ru": "Потому что нам был нужен сертификат на работы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bestätigung",
+        "Anerkennung",
+        "Beglaubigung",
+        "Zertifikat",
+        "Testat"
+      ],
       "antonyms": []
     },
     {
@@ -1119,7 +1269,13 @@
           "ru": "Тут большой капитал, мне нужна расписка!"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Beleg",
+        "Bon",
+        "Kassenbeleg",
+        "Kassenzettel",
+        "Kassenbon"
+      ],
       "antonyms": []
     },
     {
@@ -1150,7 +1306,13 @@
           "ru": "Я подаю в отставку."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bevollmächtigen",
+        "verbürgen",
+        "bestätigen",
+        "zertifizieren",
+        "vidimieren"
+      ],
       "partizip_2": "quittiert",
       "imperative": "quittiere! / quittiert! / quittieren Sie!",
       "conjugations": {
@@ -1192,7 +1354,13 @@
           "ru": "И чтобы сохранить свое место, стал подхалимом и лжецом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wachdienst",
+        "Bewachung",
+        "Sicherheitsdienst",
+        "Schutzaufsicht",
+        "Wachestehen"
+      ],
       "antonyms": []
     },
     {
@@ -1211,7 +1379,10 @@
           "ru": "Мы можем вводить проводки только в открытом периоде проводки."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abrechnungszeitraum",
+        "Buchungsperiode/Meldeperiode"
+      ],
       "antonyms": []
     },
     {
@@ -1242,7 +1413,13 @@
           "ru": "Пожалуйста, отмените мой заказ и пришлите подтверждение, что это было сделано."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abschaffen",
+        "abbedingen (fachspr.",
+        "auflösen",
+        "kündigen",
+        "annullieren"
+      ],
       "partizip_2": "storniert",
       "imperative": "storniere! / storniert! / stornieren Sie!",
       "conjugations": {
@@ -1286,7 +1463,10 @@
           "ru": "При этом раннее сторнирование в большинстве случаев не несет требования платежа соответствующего производственного носителя, во то время, как при упущенных сторнированиях, как правило, требуют оплаты так называемой пошлины no show вплоть до высоты общей цены забронированного ночлега."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Storno",
+        "Auftragsstornierung"
+      ],
       "antonyms": [
         "die Buchung, die Buchungen"
       ]
@@ -1307,7 +1487,9 @@
           "ru": "Для немецких компаний является привычным единый план счетов (GKR)."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontenplan"
+      ],
       "antonyms": []
     },
     {
@@ -1338,7 +1520,13 @@
           "ru": "Я нашёл второй гроссбух \"Ред Пони\"."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hauptband",
+        "Hauptbd.",
+        "Haupttitel",
+        "Hauptschmöker",
+        "Hauptlektüre"
+      ],
       "antonyms": [
         "das Nebenbuch, die Nebenbücher"
       ]
@@ -1371,7 +1559,13 @@
           "ru": "В течение двенадцати лет был редактором Журнала прикладной механики."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Revolverblatt (ugs.",
+        "Käseblatt (ugs.",
+        "Blatt",
+        "Heft",
+        "Postille (geh."
+      ],
       "antonyms": []
     },
     {
@@ -1402,7 +1596,13 @@
           "ru": "Этот факт связан с тем, что при постановке планового учета затрат для каждого оперативного подучастка (МВЗ) должна определяться отдельная, гибкая целевая шкала затрат, которая указывает, как изменяются общие затраты рассматриваемого участка в случае колебаний занятости."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kostenörtlichkeit",
+        "Kostenlokalität",
+        "Kostenposition",
+        "Kostenortsangabe",
+        "Kostenlokalisation"
+      ],
       "antonyms": []
     },
     {
@@ -1433,7 +1633,9 @@
           "ru": "Я вижу, как ты висишь над парашей на собственных подтяжках."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kosteneinheit"
+      ],
       "antonyms": []
     },
     {
@@ -1464,7 +1666,9 @@
           "ru": "Я буду держать этих ребят в и посылать вам подробный отчет каждую неделю."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Betriebsergebnisrechnung"
+      ],
       "antonyms": []
     },
     {
@@ -1495,7 +1699,10 @@
           "ru": "Если это время контролера, то... это время контролера."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Buchprüfer",
+        "Controller"
+      ],
       "antonyms": []
     },
     {
@@ -1526,7 +1733,10 @@
           "ru": "Марко Валерио Srl хранятся данные о клиентах для административных целей и для учета этого закона."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Finanzberichterstattung",
+        "Finanzberichte"
+      ],
       "antonyms": []
     },
     {
@@ -1557,7 +1767,13 @@
           "ru": "Простите, что выбор трупов в лаборатории не соответствует вашим стандартам."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mittelmaß",
+        "stinknormal",
+        "nichts Besonderes",
+        "schlicht",
+        "nullachtfünfzehn"
+      ],
       "antonyms": [
         "die Ausnahme, die Ausnahmen",
         "die Abweichung, die Abweichungen"
@@ -1591,7 +1807,13 @@
           "ru": "Наши интересы больше не совпадают."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "unisono",
+        "einhellig",
+        "konkordant",
+        "kongruent",
+        "einmütig"
+      ],
       "antonyms": [
         "nonkonform",
         "abweichend",
@@ -1626,7 +1848,13 @@
           "ru": "Фермеры, трейдеры и импортеры несут ответственность за безопасность продуктов питания, включая соответствие требованиям МДОУ."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zustimmung",
+        "Einverständnis",
+        "Zusage",
+        "Anerkennung",
+        "Befolgung"
+      ],
       "antonyms": [
         "die Nichteinhaltung, (nur Sg.)",
         "der Verstoß, die Verstöße",
@@ -1666,7 +1894,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "beachten",
+        "nachkommen",
+        "erfüllen",
+        "ernst nehmen",
+        "achten"
+      ],
       "partizip_2": "eingehalten",
       "imperative": "halte ein! / haltet ein! / halten Sie ein!",
       "conjugations": {
@@ -1712,7 +1946,13 @@
           "ru": "Основной и самый главный элемент - это наша политика нейтралитета."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Leitfaden",
+        "Zielstellung",
+        "Vorgabe",
+        "Richtmarke",
+        "Ausrichtung"
+      ],
       "antonyms": []
     },
     {
@@ -1743,7 +1983,13 @@
           "ru": "У меня есть правило."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Grundprinzip",
+        "Lehrsatz",
+        "Axiom",
+        "Hauptsatz",
+        "Theorem"
+      ],
       "antonyms": []
     },
     {
@@ -1774,7 +2020,13 @@
           "ru": "Если все дадут мне плохие оценки, я никогда не стану менеджером."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Statement",
+        "subjektives Urteil",
+        "Stellungnahme",
+        "Meinung",
+        "persönliche Einschätzung"
+      ],
       "antonyms": []
     },
     {
@@ -1805,7 +2057,13 @@
           "ru": "Напишите нам прямо сейчас, чтобы подробно оценить ваш проект."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einstufen",
+        "kategorisieren",
+        "taxieren",
+        "einschätzen",
+        "schätzen"
+      ],
       "partizip_2": "bewertet",
       "imperative": "bewerte! / bewertet! / bewerten Sie!",
       "conjugations": {
@@ -1847,7 +2105,10 @@
           "ru": "Доставка книг часто обходится дороже, чем их покупная цена."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kaufpreis",
+        "Anschaffungs-/Einkaufspreis"
+      ],
       "antonyms": [
         "der Verkaufspreis, die Preise",
         "der Wiederverkaufspreis, die Preise"
@@ -1881,7 +2142,13 @@
           "ru": "При покупке рабочей силы и средств производства принимается в расчет стоимость их создания."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Akquisitionskosten",
+        "Abschlusskosten",
+        "Gestehungskosten",
+        "Herstellungskosten",
+        "Fertigungskosten"
+      ],
       "antonyms": [
         "die Veräußerungskosten, (nur Pl.)"
       ]
@@ -1914,7 +2181,13 @@
           "ru": "Я не понимаю половину из того, что ты говоришь."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Buchbedeutung",
+        "Buchwichtigkeit",
+        "Bucheinfluss",
+        "Buchrang",
+        "Buchgeltung"
+      ],
       "antonyms": [
         "der Marktwert, die Marktwerte",
         "der Verkehrswert, die Verkehrswerte"
@@ -1948,7 +2221,11 @@
           "ru": "На сколько больше рыночной стоимости?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Börsenwert",
+        "Marktkapitalisierung",
+        "Börsenkapitalisierung"
+      ],
       "antonyms": [
         "der Buchwert, die Buchwerte",
         "der Nennwert, die Nennwerte"
@@ -1982,7 +2259,9 @@
           "ru": "как значение времени является десятичным представлением, из которого извлекается значение месяца."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "aktueller/zeitlicher Wert"
+      ],
       "antonyms": [
         "der Nennwert, die Nennwerte",
         "der Anschaffungswert, die Anschaffungswerte"
@@ -2016,7 +2295,13 @@
           "ru": "Здесь самый высокий уровень остатка трансмерной энергии."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Restbedeutung",
+        "Restwichtigkeit",
+        "Resteinfluss",
+        "Restrang",
+        "Restgeltung"
+      ],
       "antonyms": [
         "der Anschaffungswert, die Anschaffungswerte",
         "der Neuwert, die Neuwerte"
@@ -2050,7 +2335,9 @@
           "ru": "Клиент имеет право воздержаться от исполнения договорных обязательств лишь в том случае, если его встречные требования вытекают из тех же договорных отношений."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Depravation (fachspr."
+      ],
       "antonyms": [
         "die Wertsteigerung, die Wertsteigerungen",
         "die Zuschreibung, die Zuschreibungen"
@@ -2084,7 +2371,10 @@
           "ru": "Банковская система пострадала в первую очередь не от временного кризиса межбанковского рынка и временного падения стоимости активов, что просто может быть преодолено после того, как все дождутся восстановления."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "beeinträchtigen/abwerten",
+        "Wertminderung/Wertminderung"
+      ],
       "partizip_2": "gewertmindert",
       "imperative": "wertmindere! / wertmindert! / wertmindern Sie!",
       "conjugations": {
@@ -2128,7 +2418,13 @@
           "ru": "Фактическое подорожание приведет к фактической дефляции и дальнейшему нисходящему давлению на внутренние процентные ставки."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Melioration",
+        "Besserung",
+        "Vervollkommnung",
+        "Läuterung",
+        "Verbesserung"
+      ],
       "antonyms": [
         "die Abwertung, die Abwertungen",
         "die Wertminderung, die Minderungen"
@@ -2162,7 +2458,13 @@
           "ru": "В-четвертых, страны с активным сальдо платежного баланса должны позволить повысить стоимость своих недооцененных валют, в то время как ЕЦБ должен следовать более мягкой финансовой политике, которая будет способствовать дальнейшему постепенному ослаблению евро, чтобы вернуть конкурентоспособность и экономический рост в еврозоне."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "veredeln",
+        "nobilitieren",
+        "verfeinern",
+        "verbessern",
+        "auszeichnen"
+      ],
       "partizip_2": "aufgewertet",
       "imperative": "werte auf! / wertet auf! / werten Sie auf!",
       "conjugations": {
@@ -2207,7 +2509,12 @@
           "ru": "Оформление происходит при наличии у иностранца заграничного паспорта, а если покупателем выступает компания, то необходимо собрать полный пакет документов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "GuV",
+        "Erfolgsrechnung",
+        "Gewinn-und-Verlust-Rechnung",
+        "Gewinnverwendungsrechnung"
+      ],
       "antonyms": []
     },
     {
@@ -2230,7 +2537,10 @@
           "ru": "Я чуть-чуть выпила за обедом."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Artikelbericht",
+        "Lagebericht"
+      ],
       "antonyms": []
     },
     {
@@ -2261,7 +2571,13 @@
           "ru": "Выписка не содержит остатка."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontostand",
+        "alles zusammen",
+        "total",
+        "summa summarum",
+        "zusammen"
+      ],
       "antonyms": []
     },
     {
@@ -2292,7 +2608,12 @@
           "ru": "Остальные статьи невидимого баланса пассивно балансируют на уровне 95 миллионов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "liquidieren",
+        "bezahlen",
+        "remittieren",
+        "begleichen"
+      ],
       "partizip_2": "saldiert",
       "imperative": "saldiere! / saldiert! / saldieren Sie!",
       "conjugations": {
@@ -2322,7 +2643,9 @@
           "ru": "Аудитор проверяет оборотный баланс клиента."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Probebilanz"
+      ],
       "antonyms": []
     },
     {
@@ -2353,7 +2676,10 @@
           "ru": "Ваш депозит начислят в понедельник, а это ваш баланс."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Saldo",
+        "Kontosaldo"
+      ],
       "antonyms": []
     },
     {
@@ -2384,7 +2710,13 @@
           "ru": "Кто-то должен выровнять давление."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abgelten",
+        "kompensieren",
+        "aufwiegen",
+        "entgegenwirken",
+        "gegenfinanzieren"
+      ],
       "partizip_2": "ausgegleicht",
       "imperative": "gleiche aus! / gleicht aus! / gleichen Sie aus!",
       "conjugations": {
@@ -2426,7 +2758,13 @@
           "ru": "Каждый месяц я позволю тебе платить мне немного в обмен на удовольствие жить в моем доме."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abrechnung",
+        "Schlussrechnung",
+        "Rechnung",
+        "Bilanz",
+        "Kompensation"
+      ],
       "antonyms": []
     },
     {
@@ -2457,7 +2795,9 @@
           "ru": "В случае, если был выполнен задаток, который превышает стоимость оплаты за З дня, Pilgram Apartments переведет разницу суммы назад на счет заказчика."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Transaktionszeile"
+      ],
       "antonyms": []
     },
     {
@@ -2488,7 +2828,10 @@
           "ru": "Если не принять во внимание это компенсирование прибылей из других областей, то доходы и продажи Шеринга будут соответствовать ожиданиям, сказал Шпенглер."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gegeneinfahrt",
+        "umgekehrte Verkabelung"
+      ],
       "antonyms": []
     },
     {
@@ -2519,7 +2862,13 @@
           "ru": "Я продолжу картографировать на случай если у неё есть другие слабые места."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Erkundigung",
+        "Stimmungstest",
+        "Untersuchung",
+        "Befragung",
+        "Enquete"
+      ],
       "antonyms": []
     },
     {
@@ -2550,7 +2899,13 @@
           "ru": "Можешь захватить лицо и распознавать его?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "feststellen",
+        "bemerken",
+        "registrieren",
+        "peilen",
+        "spannen"
+      ],
       "partizip_2": "erfasst",
       "imperative": "erfasse! / erfasst! / erfassen Sie!",
       "conjugations": {
@@ -2595,7 +2950,13 @@
           "ru": "Они не вернутся, поэтому я сделаю это. Вручную."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "in Handarbeit",
+        "per Hand",
+        "händisch",
+        "von Hand",
+        "hand..."
+      ],
       "antonyms": [
         "automatisch",
         "maschinell"
@@ -2629,7 +2990,13 @@
           "ru": "Конечно, я машинально смотрю на башню напротив."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "selbstbeweglich (fachspr.",
+        "selbsttätig",
+        "automagisch (ugs.",
+        "reflexhaft",
+        "reflexartig"
+      ],
       "antonyms": [
         "manuell",
         "händisch"
@@ -2663,7 +3030,9 @@
           "ru": "В будущем, в условиях быстрых технологических изменений и повсеместной автоматизации, определяющим фактором (или сдерживающим барьером) для инноваций, конкурентоспособности и экономического роста, скорее всего, будет не доступность капитала, а наличие (или отсутствие) подготовленной рабочей силы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Automation"
+      ],
       "antonyms": [
         "die manuelle Bearbeitung, die manuellen Bearbeitungen"
       ]
@@ -2696,7 +3065,9 @@
           "ru": "Джо Энн и я только что начали проект оцифровки всех статуй, в очень высоком разрешении и качестве, во-первых, чтобы сохранить их, а во-вторых, у нас есть идеи, как алгоритмически разгадать пару загадок."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "scannen"
+      ],
       "partizip_2": "digitalisiert",
       "imperative": "digitalisiere! / digitalisiert! / digitalisieren Sie!",
       "conjugations": {
@@ -2738,7 +3109,13 @@
           "ru": "Выберите устройство, которое хотите зарегистрировать в своей системе PSP."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ERP-Struktur",
+        "ERP-Organisation",
+        "ERP-Organismus",
+        "ERP-Gebilde",
+        "ERP-Anlage"
+      ],
       "antonyms": []
     },
     {
@@ -2769,7 +3146,13 @@
           "ru": "Она апгрейдит железо, затем обновляет софт."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Softwaresystem",
+        "Programm",
+        "Anwendungssoftware",
+        "Computerprogramm",
+        "Anwendung"
+      ],
       "antonyms": [
         "die Hardware, die Hardwares"
       ]
@@ -2802,7 +3185,9 @@
           "ru": "Мне нужен доступ к твоему дата-порту."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dateneinfuhr"
+      ],
       "antonyms": [
         "der Datenexport, die Exporte"
       ]
@@ -2835,7 +3220,10 @@
           "ru": "Низкие долгосрочные процентные ставки позволяли контролировать долги региона, в то время как высокий потребительский спрос помог поднять цены на экспорт товара из региона."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenausfuhr",
+        "Datenexportbier"
+      ],
       "antonyms": [
         "der Datenimport, die Importe"
       ]
@@ -2868,7 +3256,11 @@
           "ru": "Интерфейс получился не цифровой, а физический: им стала гостиница."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anschluss",
+        "Interface",
+        "Verbindung"
+      ],
       "antonyms": []
     },
     {
@@ -2899,7 +3291,13 @@
           "ru": "Возможно, ваши зрительные подпрограммы неисправны."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verkehrt",
+        "nicht haltbar",
+        "falsch",
+        "nicht zutreffend",
+        "nicht zutreffen"
+      ],
       "antonyms": [
         "fehlerfrei",
         "korrekt",
@@ -2934,7 +3332,13 @@
           "ru": "Я предпочитаю исправлять ошибки, а не повторять их."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "regulieren",
+        "ausbessern",
+        "Korrektur vornehmen",
+        "fixen (ugs.",
+        "verbessern"
+      ],
       "partizip_2": "korrigiert",
       "imperative": "korrigiere! / korrigiert! / korrigieren Sie!",
       "conjugations": {
@@ -2979,7 +3383,13 @@
           "ru": "Сделайте объявление в начале аукциона, что поправка была ошибочной и остается исходная оценка."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abänderung",
+        "Neuinterpretation (geh.",
+        "Umänderung",
+        "Veränderung",
+        "Modifizierung"
+      ],
       "antonyms": []
     },
     {
@@ -3010,7 +3420,11 @@
           "ru": "Текущий счет экономики является разницей между темпами роста инвестиций и сбережений."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unterschied",
+        "Abweichung",
+        "Verschiedenheit"
+      ],
       "antonyms": [
         "die Übereinstimmung, die Übereinstimmungen",
         "die Gleichheit, (nur Sg.)"
@@ -3044,7 +3458,13 @@
           "ru": "Гидеон, проложи курс к появлению отклонения."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unregelmäßigkeit",
+        "Regelwidrigkeit",
+        "Azimut",
+        "Ablage",
+        "Aberration"
+      ],
       "antonyms": [
         "die Übereinstimmung, die Übereinstimmungen"
       ]
@@ -3077,7 +3497,13 @@
           "ru": "Он с нами, но мы не можем позволить себе вот так отклоняться от сценария."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abschweifen",
+        "herausfallen",
+        "divergieren",
+        "unterscheiden",
+        "differieren"
+      ],
       "partizip_2": "abgewichen",
       "imperative": "weiche ab! / weicht ab! / weichen Sie ab!",
       "conjugations": {
@@ -3124,7 +3550,9 @@
           "ru": "призывает государства поощрять и укреплять демократию, в частности:"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "zu konsolidieren"
+      ],
       "partizip_2": "konsolidiert",
       "imperative": "konsolidiere! / konsolidiert! / konsolidieren Sie!",
       "conjugations": {
@@ -3166,7 +3594,13 @@
           "ru": "В качестве краткосрочной меры, призванной решить проблему просроченных докладов, договорные органы должны сделать возможным объединение просроченных докладов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Konsolidation",
+        "Zusammenschlagung",
+        "Consolidation",
+        "Kräftigung",
+        "Festigung"
+      ],
       "antonyms": [
         "die Dekonsolidierung, die Dekonsolidierungen"
       ]
@@ -3199,7 +3633,12 @@
           "ru": "На протяжении более чем семи лет концерн борется против китайского плагиатора."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Riese",
+        "Großunternehmen",
+        "Gesellschaft",
+        "Gruppe"
+      ],
       "antonyms": [
         "das Einzelunternehmen, die Einzelunternehmen"
       ]
@@ -3232,7 +3671,13 @@
           "ru": "В свою очередь, Citrus Solutions, которая была сформирована на базе Отдела обслуживания сетей материнской компании Lattelecom, предлагает интегрированные решения по строительству сетевой инфраструктуры и систем безопасности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stammgesellschaft",
+        "Mutter",
+        "Obergesellschaft",
+        "Mutterunternehmen",
+        "Stammunternehmen"
+      ],
       "antonyms": [
         "die Tochtergesellschaft, die Gesellschaften"
       ]
@@ -3265,7 +3710,12 @@
           "ru": "В 2009 г. компания открыла дочернее предприятие в США - RW USA Corp., и прекратила сотрудничество со своим первоначальным дистрибьютором."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tochterunternehmen",
+        "Tochter",
+        "Unternehmenstochter",
+        "Tochterfirma"
+      ],
       "antonyms": [
         "die Muttergesellschaft, die Gesellschaften"
       ]
@@ -3298,7 +3748,13 @@
           "ru": "Окончательный отчёт расследования причин катастрофы был обнародован на пресс-конференции 5 июля 2012 года."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abschlussmitteilung",
+        "Abschlussnachricht",
+        "Abschlussinformationsaustausch",
+        "Abschlussbekanntmachung",
+        "Abschlussbotschaft"
+      ],
       "antonyms": [
         "der Anfangsbericht, die Berichte",
         "der Zwischenbericht, die Berichte"
@@ -3332,7 +3788,12 @@
           "ru": "Мы верим, что открытость может вылечить страх."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Luzidität",
+        "Durchsichtigkeit",
+        "Lichtdurchlässigkeit",
+        "Klarheit"
+      ],
       "antonyms": [
         "die Intransparenz, (nur Sg.)",
         "die Undurchsichtigkeit, (nur Sg.)"
@@ -3366,7 +3827,13 @@
           "ru": "Определяет, является ли фон выбранного объекта прозрачным или непрозрачным."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "klar",
+        "durchscheinend",
+        "durchsichtig",
+        "ungetrübt",
+        "Spruchbanner"
+      ],
       "antonyms": [
         "intransparent",
         "undurchsichtig",
@@ -3401,7 +3868,13 @@
           "ru": "Раскрытие информации о пациенте должно быть ограничено рамками, касающимися ситуации."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "amtliche Mitteilung",
+        "Bekanntgabe",
+        "Promulgation",
+        "Verkündung",
+        "Mitteilung"
+      ],
       "antonyms": [
         "die Geheimhaltung, (nur Sg.)",
         "der Verschluss, (nur Sg.)"
@@ -3437,7 +3910,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditsicherung"
+      ],
       "antonyms": []
     },
     {
@@ -3470,7 +3945,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sicherungseigentumsübertragung"
+      ],
       "antonyms": []
     },
     {
@@ -3503,7 +3980,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Forderungszession"
+      ],
       "antonyms": []
     },
     {
@@ -3536,7 +4015,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Garantieerklärung"
+      ],
       "antonyms": []
     },
     {
@@ -3569,7 +4050,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ausfallgarantie",
+        "Standardgarantie"
+      ],
       "antonyms": []
     },
     {
@@ -3602,7 +4086,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bonitätsprüfung",
+        "Bonitätsüberprüfung",
+        "Kreditwürdigkeitsüberprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -3635,7 +4123,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bonitätsbewertung",
+        "Bankauskunft",
+        "Schufa-Auskunft"
+      ],
       "antonyms": []
     },
     {
@@ -3668,7 +4160,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditwürdigkeit",
+        "Bonitätsbewertung"
+      ],
       "antonyms": []
     },
     {
@@ -3701,7 +4196,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schufa-Input",
+        "Schufa-Eingabe",
+        "Schufa-Epigraph",
+        "Schufa-Elogium",
+        "Schufa-Widmung"
+      ],
       "antonyms": []
     },
     {
@@ -3734,7 +4235,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Shoofs Einschätzung"
+      ],
       "antonyms": []
     },
     {
@@ -3767,7 +4270,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umschuldungspump",
+        "Umschuldungsdarlehen",
+        "Umschuldungsdarlehn"
+      ],
       "antonyms": []
     },
     {
@@ -3800,7 +4307,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditvertrag"
+      ],
       "antonyms": []
     },
     {
@@ -3833,7 +4342,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditbetrag"
+      ],
       "antonyms": []
     },
     {
@@ -3866,7 +4377,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditbetrag"
+      ],
       "antonyms": []
     },
     {
@@ -3899,7 +4412,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditbearbeitungsunkostenbeitrag",
+        "Kreditbearbeitungskostenbeitrag",
+        "Kreditbearbeitungspreis",
+        "Kreditbearbeitungstaxe",
+        "Kreditbearbeitungsabgabe"
+      ],
       "antonyms": []
     },
     {
@@ -3932,7 +4451,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditablaufzeit",
+        "Kreditspielzeit",
+        "Kreditspieldauer",
+        "Kreditfilmlänge",
+        "Kreditvorführdauer"
+      ],
       "antonyms": []
     },
     {
@@ -3965,7 +4490,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rückzahlungszeitraum"
+      ],
       "antonyms": []
     },
     {
@@ -3998,7 +4525,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rückzahlungsplan"
+      ],
       "antonyms": []
     },
     {
@@ -4031,7 +4560,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rückzahlungsvereinbarung"
+      ],
       "antonyms": []
     },
     {
@@ -4064,7 +4595,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sondereinlösung"
+      ],
       "antonyms": []
     },
     {
@@ -4097,7 +4630,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditsumme",
+        "Kreditabsolutbetrag",
+        "Kreditmenge",
+        "Kreditabsolutwert"
+      ],
       "antonyms": []
     },
     {
@@ -4130,7 +4668,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kredithavarie",
+        "Kreditbetriebsstörung",
+        "Kreditstörfall",
+        "Kreditentbehrung",
+        "Kreditabstinenz"
+      ],
       "antonyms": []
     },
     {
@@ -4163,7 +4707,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditausfallrate",
+        "Darlehenszinssatz"
+      ],
       "antonyms": []
     },
     {
@@ -4196,7 +4743,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditkrise"
+      ],
       "antonyms": []
     },
     {
@@ -4229,7 +4778,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umschuldungsfestlegung",
+        "Umschuldungsdeklaration",
+        "Umschuldungsübereinkommen",
+        "Umschuldungsvertrag",
+        "Umschuldungsübereinkunft"
+      ],
       "antonyms": []
     },
     {
@@ -4262,7 +4817,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entschuldung",
+        "Schuldenschnitt",
+        "Haircut (engl.",
+        "Forderungsverzicht"
+      ],
       "antonyms": []
     },
     {
@@ -4295,7 +4855,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schuldenregulierung"
+      ],
       "antonyms": []
     },
     {
@@ -4328,7 +4890,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verschuldetsein",
+        "Verschuldung",
+        "Schuldenbelastung"
+      ],
       "antonyms": []
     },
     {
@@ -4361,7 +4927,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schuldenfallgrube",
+        "Schuldenlagerstatt",
+        "Schuldennachtlager",
+        "Schuldenbett",
+        "Schuldenschlafplatz"
+      ],
       "antonyms": []
     },
     {
@@ -4394,7 +4966,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schuldenschlamassel",
+        "Schuldenmissstand",
+        "Schuldenübelstand",
+        "Schuldenmisere",
+        "Schuldenübel"
+      ],
       "antonyms": []
     },
     {
@@ -4427,7 +5005,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Staatsschulden"
+      ],
       "antonyms": []
     },
     {
@@ -4460,7 +5040,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "neue Kredite"
+      ],
       "antonyms": []
     },
     {
@@ -4493,7 +5075,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schuldenbreme",
+        "Schuldenviehfliege",
+        "Schuldentabanidae"
+      ],
       "antonyms": []
     },
     {
@@ -4526,7 +5112,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Übermäßige Schulden"
+      ],
       "antonyms": []
     },
     {
@@ -4559,7 +5147,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bonitätsbewertung"
+      ],
       "antonyms": []
     },
     {
@@ -4592,7 +5182,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bonitätsauskunft",
+        "Bankauskunft",
+        "Schufa-Auskunft"
+      ],
       "antonyms": []
     },
     {
@@ -4625,7 +5219,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bonitätsbewertung"
+      ],
       "antonyms": []
     },
     {
@@ -4658,7 +5254,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kredituntersuchung",
+        "Kreditstudie",
+        "Kreditüberprüfung",
+        "Kreditauswertung",
+        "Kreditbegutachtung"
+      ],
       "antonyms": []
     },
     {
@@ -4691,7 +5293,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditanalytiker",
+        "Kreditauswerter",
+        "Kreditproblemanalytiker"
+      ],
       "antonyms": []
     },
     {
@@ -4724,7 +5330,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuererklärung"
+      ],
       "antonyms": []
     },
     {
@@ -4757,7 +5365,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einkommensteuerschreiben",
+        "Einkommensteueranordnung",
+        "Einkommensteuerva",
+        "Einkommensteuerwisch",
+        "Einkommensteuermitteilung"
+      ],
       "antonyms": []
     },
     {
@@ -4790,7 +5404,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umsatzsteuer-Voranmeldung"
+      ],
       "antonyms": []
     },
     {
@@ -4823,7 +5439,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umsatzsteuer-Geheimzeichen",
+        "Umsatzsteuer-Identifizierungszeichen",
+        "Umsatzsteuer-ID",
+        "Umsatzsteuer-Identifikator",
+        "Umsatzsteuer-Code"
+      ],
       "antonyms": []
     },
     {
@@ -4856,7 +5478,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuervorteile"
+      ],
       "antonyms": []
     },
     {
@@ -4889,7 +5513,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuererleichterung",
+        "Steuervorteile"
+      ],
       "antonyms": []
     },
     {
@@ -4922,7 +5549,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerabzug"
+      ],
       "antonyms": []
     },
     {
@@ -4955,7 +5584,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerabgaskanal",
+        "Steuerschornstein",
+        "Steuerrauchfang",
+        "Steuerschlot",
+        "Steuerabzugsrohr"
+      ],
       "antonyms": []
     },
     {
@@ -4988,7 +5623,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerguthaben",
+        "Steuerhaben",
+        "Steuerzahlungseingang",
+        "Steuerbankgutschrift"
+      ],
       "antonyms": []
     },
     {
@@ -5021,7 +5661,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerpflicht",
+        "Steuerpflichten"
+      ],
       "antonyms": []
     },
     {
@@ -5054,7 +5697,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuererstattung"
+      ],
       "antonyms": []
     },
     {
@@ -5087,7 +5732,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerrückerstattung"
+      ],
       "antonyms": []
     },
     {
@@ -5120,7 +5767,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerbefreiungspolitik"
+      ],
       "antonyms": []
     },
     {
@@ -5153,7 +5802,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuersenkung"
+      ],
       "antonyms": []
     },
     {
@@ -5186,7 +5837,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kindergeld"
+      ],
       "antonyms": []
     },
     {
@@ -5219,7 +5872,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Grundzulage"
+      ],
       "antonyms": []
     },
     {
@@ -5252,7 +5907,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sparerpauschale",
+        "Festpreis-Sparer"
+      ],
       "antonyms": []
     },
     {
@@ -5285,7 +5943,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fester Werbekostensatz"
+      ],
       "antonyms": []
     },
     {
@@ -5318,7 +5978,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entfernungspauschale"
+      ],
       "antonyms": []
     },
     {
@@ -5351,7 +6013,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pendlerpauschale"
+      ],
       "antonyms": []
     },
     {
@@ -5384,7 +6048,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verpflegungsgeld",
+        "Verpflegungszuschuss"
+      ],
       "antonyms": []
     },
     {
@@ -5417,7 +6084,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Übernachtungspreispauschale",
+        "Übernachtungspauschalbetrag",
+        "Übernachtungseinheitspreis",
+        "Übernachtungspauschalpreis",
+        "Übernachtungsflatrate"
+      ],
       "antonyms": []
     },
     {
@@ -5450,7 +6123,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umzugskosten pauschal"
+      ],
       "antonyms": []
     },
     {
@@ -5483,7 +6158,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Studienraumpauschale"
+      ],
       "antonyms": []
     },
     {
@@ -5516,7 +6193,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Homeoffice-Flatrate"
+      ],
       "antonyms": []
     },
     {
@@ -5549,7 +6228,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sondernummer",
+        "Spezialausgabe",
+        "Imprint-Auflage",
+        "Buchclubausgabe",
+        "Imprint-Ausgabe"
+      ],
       "antonyms": []
     },
     {
@@ -5582,7 +6267,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vorsorgekosten"
+      ],
       "antonyms": []
     },
     {
@@ -5615,7 +6302,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Altersabsicherung"
+      ],
       "antonyms": []
     },
     {
@@ -5648,7 +6337,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pension Riester"
+      ],
       "antonyms": []
     },
     {
@@ -5681,7 +6372,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Basisrente"
+      ],
       "antonyms": []
     },
     {
@@ -5714,7 +6407,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "erste Säule"
+      ],
       "antonyms": []
     },
     {
@@ -5747,7 +6442,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rentenbetrag"
+      ],
       "antonyms": []
     },
     {
@@ -5780,7 +6477,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rentenschreiben",
+        "Rentenanordnung",
+        "Rentenva",
+        "Rentenwisch",
+        "Rentenmitteilung"
+      ],
       "antonyms": []
     },
     {
@@ -5813,7 +6516,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rentenzustehendes",
+        "Rentenrecht",
+        "Rentenanrecht",
+        "Rentenaussicht",
+        "Rentenberechtigung"
+      ],
       "antonyms": []
     },
     {
@@ -5846,7 +6555,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Invalidenrente"
+      ],
       "antonyms": []
     },
     {
@@ -5879,7 +6590,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Witwerrente"
+      ],
       "antonyms": []
     },
     {
@@ -5912,7 +6625,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Waisenruhestand"
+      ],
       "antonyms": []
     },
     {
@@ -5945,7 +6660,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rentenneuordnung",
+        "Rentenreorganisation",
+        "Rentenneuregelung",
+        "Rentenneugestaltung",
+        "Rentenumgestaltung"
+      ],
       "antonyms": []
     },
     {
@@ -5978,7 +6699,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerweiterentwicklung",
+        "Steuerentfaltung",
+        "Steuerfortgang",
+        "Steuerfortschritt",
+        "Steuerverschlechterung"
+      ],
       "antonyms": []
     },
     {
@@ -6011,7 +6738,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Maximaler Steuersatz"
+      ],
       "antonyms": []
     },
     {
@@ -6044,7 +6773,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vorsteuersatz"
+      ],
       "antonyms": []
     },
     {
@@ -6077,7 +6808,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "kalter Verlauf"
+      ],
       "antonyms": []
     },
     {
@@ -6110,7 +6843,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuererhöhungen"
+      ],
       "antonyms": []
     },
     {
@@ -6143,7 +6878,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerherabsetzung",
+        "Steuerverkleinerung",
+        "Steuerreduzierung",
+        "Steuerreduktion",
+        "Steuerminderung"
+      ],
       "antonyms": []
     },
     {
@@ -6176,7 +6917,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuererleichterung",
+        "Steuervorteile"
+      ],
       "antonyms": []
     },
     {
@@ -6209,7 +6953,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerrecht"
+      ],
       "antonyms": []
     },
     {
@@ -6242,7 +6988,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuergestaltung",
+        "Steueroptimierung",
+        "Steuerminimierung"
+      ],
       "antonyms": []
     },
     {
@@ -6275,7 +7025,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steueroptimierung",
+        "Steuervermeidung",
+        "Steuerminimierung"
+      ],
       "antonyms": []
     },
     {
@@ -6308,7 +7062,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuersparmodel",
+        "Steuersparmannequin",
+        "Steuersparvorführdame",
+        "Steuersparfotomodell",
+        "Steuersparnormal"
+      ],
       "antonyms": []
     },
     {
@@ -6341,7 +7101,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerberaterübereinkommen",
+        "Steuerberatervereinbarung",
+        "Steuerberaterübereinkunft",
+        "Steuerberaterabkommen",
+        "Steuerberaterkontrakt"
+      ],
       "antonyms": []
     },
     {
@@ -6374,7 +7140,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerberatungsgebühr"
+      ],
       "antonyms": []
     },
     {
@@ -6407,7 +7175,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -6440,7 +7210,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerfahndungsdienststelle",
+        "Steuerfahndungsamt",
+        "Steuerfahndungsamtsstelle"
+      ],
       "antonyms": []
     },
     {
@@ -6473,7 +7247,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Steuerseitensprung",
+        "Steuertreulosigkeit",
+        "Steueruntreue",
+        "Steuerfremdgehen",
+        "Steuerehebruch"
+      ],
       "antonyms": []
     }
   ]

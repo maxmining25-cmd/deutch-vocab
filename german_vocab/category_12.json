@@ -66,7 +66,13 @@
           "ru": "То есть вы говорите мне вложить свои деньги."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "arbeiten lassen",
+        "reinbuttern",
+        "Investition vornehmen",
+        "stecken",
+        "hineinstecken"
+      ],
       "partizip_2": "investiert",
       "imperative": "investiere! / investiert! / investieren Sie!",
       "conjugations": {
@@ -112,7 +118,12 @@
           "ru": "Но в качестве инвестора я могу профинансировать ваши исследования."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapitalanleger",
+        "Geldgeber",
+        "Anleger",
+        "Finanzier"
+      ],
       "antonyms": []
     },
     {
@@ -143,7 +154,12 @@
           "ru": "Инвесторы пытаются искать альтернативы, но в основном безуспешно."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapitalanleger",
+        "Geldgeber",
+        "Investor",
+        "Finanzier"
+      ],
       "antonyms": []
     },
     {
@@ -209,7 +225,13 @@
           "ru": "Оценки в последние дни, Repsol, выявил очень интересную конфликт интересов между генеральным директором и крупным акционером компании, строитель Sacyr, который содержит 20,01% от капитала."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aktieninhaber",
+        "Shareholder",
+        "Teilhaber",
+        "Anteilseigner",
+        "Aktienbesitzer"
+      ],
       "antonyms": []
     },
     {
@@ -275,7 +297,10 @@
           "ru": "И ваша травма не очень помогает поднять курс акций."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kurs",
+        "Aktienpreis"
+      ],
       "antonyms": []
     },
     {
@@ -306,7 +331,13 @@
           "ru": "Знаешь, мне просто хочется сесть в машину и уехать."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufschwung",
+        "Aufgang",
+        "kraxeln",
+        "erklimmen",
+        "erklettern"
+      ],
       "partizip_2": "gesteigt",
       "imperative": "steige! / steigt! / steigen Sie!",
       "conjugations": {
@@ -354,7 +385,13 @@
           "ru": "Просто брось нож и все будет в порядке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fall",
+        "Abfall",
+        "Sturz",
+        "Sinken",
+        "Untergang"
+      ],
       "partizip_2": "gefallt",
       "imperative": "falle! / fallt! / fallen Sie!",
       "conjugations": {
@@ -399,7 +436,13 @@
           "ru": "Нефть разливается в залив, в то время как танкер начинает тонуть."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "absacken",
+        "untergehen",
+        "versinken",
+        "Verringerung",
+        "Nachlassen"
+      ],
       "partizip_2": "gesinkt",
       "imperative": "sinke! / sinkt! / sinken Sie!",
       "conjugations": {
@@ -444,7 +487,10 @@
           "ru": "Токийская биржа работает как ни в чем ни бывало..."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Effektenhandel",
+        "Aktienhandel"
+      ],
       "antonyms": []
     },
     {
@@ -475,7 +521,13 @@
           "ru": "Я буду действовать в их интересах, чего бы это ни стоило."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "umgehen",
+        "handhaben",
+        "hantieren",
+        "machen",
+        "wirken"
+      ],
       "partizip_2": "gehandelt",
       "imperative": "handele! / handelt! / handeln Sie!",
       "conjugations": {
@@ -521,7 +573,13 @@
           "ru": "Хочет вернуть нашу старую, но дилер уже нашел на нее покупателя."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Handeltreibender (geh.",
+        "Ladenbesitzer",
+        "Kaufmann",
+        "Einzelhändler",
+        "Handelsmann (geh."
+      ],
       "antonyms": [
         "der Käufer, die Käufer"
       ]
@@ -554,7 +612,13 @@
           "ru": "Патрик, не жмись, я говорила с твоим брокером."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Börsianer",
+        "Wertpapiermakler",
+        "Effektenmakler",
+        "Börsenhändler",
+        "Börsenmakler"
+      ],
       "antonyms": []
     },
     {
@@ -585,7 +649,13 @@
           "ru": "Это комиссионное вознаграждение за \"Бродвэй Джо\"."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bonus",
+        "Prämie",
+        "Courtage",
+        "Maklerprovision",
+        "Aufschlag"
+      ],
       "antonyms": []
     },
     {
@@ -616,7 +686,13 @@
           "ru": "доход, см. норма прибыли"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gewinnmarge",
+        "Profit",
+        "Gewinn",
+        "Erlös",
+        "Geschäftsergebnis"
+      ],
       "antonyms": []
     },
     {
@@ -647,7 +723,9 @@
           "ru": "Обвинение утверждает, что дивиденды в размере 15%, назначенные за акции без права голоса, были установлены обманным путем и единолично с целью ускорить это и вправду дерзкое, но ни в коем случае не являющееся неэтичным, слияние."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gewinnanteil"
+      ],
       "antonyms": []
     },
     {
@@ -678,7 +756,10 @@
           "ru": "Ты правда думаешь я начну болтать?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausschütten/auszahlen",
+        "zahlen (Dividenden)"
+      ],
       "partizip_2": "ausgeschüttet",
       "imperative": "schütte aus! / schüttet aus! / schütten Sie aus!",
       "conjugations": {
@@ -723,7 +804,9 @@
           "ru": "Его базовый уровень приближается к нулю, если нет стимула, который способствует его производству."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Auszahlung"
+      ],
       "antonyms": [
         "die Thesaurierung, die Thesaurierungen",
         "die Einbehaltung, die Einbehaltungen"
@@ -757,7 +840,13 @@
           "ru": "Я хочу дать тебе шанс поверить мне... и довериться."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "drohendes Unheil",
+        "Gefährdung",
+        "Gefahr",
+        "Unsicherheit",
+        "Pulverfass"
+      ],
       "antonyms": [
         "die Sicherheit, die Sicherheiten",
         "die Chance, die Chancen"
@@ -791,7 +880,13 @@
           "ru": "Мы не можем допустить, чтобы их засекли со спутника."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gefährden",
+        "wagen",
+        "Schicksal herausfordern",
+        "Wagnis eingehen",
+        "kokettieren"
+      ],
       "partizip_2": "riskiert",
       "imperative": "riskiere! / riskiert! / riskieren Sie!",
       "conjugations": {
@@ -836,7 +931,9 @@
           "ru": "Но, как убедились люди, последовавшие стратегии размещения ценных бумаг, вытекающей из теории анализа Шиллера, это было также и крайне рискованно."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "riskant"
+      ],
       "antonyms": [
         "risikoarm",
         "sicher",
@@ -871,7 +968,9 @@
           "ru": "Хотя как либерализация процентных ставок, так и сокращение доли заемных средств имеют решающее значение для долгосрочного здоровья экономики Китая, стремительно растущая стоимость заимствования вынуждает большое количество компаний с низким уровнем риска, которые не в состоянии предложить достаточно высокую отдачу, покинуть рынок."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "geringes Risiko"
+      ],
       "antonyms": [
         "risikoreich",
         "gefährlich"
@@ -905,7 +1004,13 @@
           "ru": "В преддверии гражданской войны банкиры северных штатов не пожелали вкладываться в облигации, опасаясь, что деньги уйдут на юг."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schuldverschreibung",
+        "Obligation",
+        "festverzinsliches Wertpapier",
+        "Bond",
+        "Rentenpapier"
+      ],
       "antonyms": []
     },
     {
@@ -936,7 +1041,13 @@
           "ru": "Несомненно, не было такой вещи, как суверенная безопасность еврозоны."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Staatsschuldverschreibung",
+        "Staatsobligation",
+        "Staatsbond",
+        "Staatsrentenpapier",
+        "Staatsentlehnung"
+      ],
       "antonyms": []
     },
     {
@@ -967,7 +1078,13 @@
           "ru": "Тогда я скажу, чтобы тебе перевели денежные средства на следующей неделе."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Investmentfonds",
+        "Sondervermögen",
+        "Geldmittel",
+        "Geldbestand",
+        "Vermögensreserve"
+      ],
       "antonyms": []
     },
     {
@@ -998,7 +1115,10 @@
           "ru": "Облигации и взаимные фонды?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sondervermögen",
+        "Fonds"
+      ],
       "antonyms": []
     },
     {
@@ -1029,7 +1149,13 @@
           "ru": "ETF был ключевым новшеством, давшим возможность инвесторам пользоваться инструментом, с помощью которого они могли эффективно и с низкими затратами отслеживать стоимость конкретного портфеля ценных бумаг, например, индекс S&P."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "börsengehandelter Fonds",
+        "börsengehandelter Indexfonds",
+        "Exchange-traded Fonds",
+        "exchange-traded fund",
+        "Indexfonds"
+      ],
       "antonyms": []
     },
     {
@@ -1060,7 +1186,12 @@
           "ru": "Я уверен, у вас есть портфолио."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Portefeuille",
+        "Depotzusammensetzung",
+        "Agenturmappe",
+        "Künstlermappe"
+      ],
       "antonyms": []
     },
     {
@@ -1091,7 +1222,13 @@
           "ru": "И можно только догадываться что с ним произошло."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "herumspekulieren",
+        "orakeln",
+        "sich  zusammenphantasieren",
+        "Vermutungen",
+        "wilde Spekulationen"
+      ],
       "partizip_2": "spekuliert",
       "imperative": "spekuliere! / spekuliert! / spekulieren Sie!",
       "conjugations": {
@@ -1136,7 +1273,13 @@
           "ru": "Думаю, это всего лишь догадка."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mutmaßung",
+        "Vermutung",
+        "Annahme",
+        "Glaskugelei",
+        "Trade"
+      ],
       "antonyms": []
     },
     {
@@ -1167,7 +1310,13 @@
           "ru": "Все эти мысли проносились в моей голове в конце 2008 года, когда, конечно же, случился большой финансовый обвал."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Flugzeugabsturz",
+        "Flugzeugunglück",
+        "Schwarzer Freitag",
+        "Börsenkrach",
+        "Kursverfall"
+      ],
       "antonyms": [
         "der Boom, die Booms",
         "der Aufschwung, die Aufschwünge"
@@ -1193,7 +1342,9 @@
           "ru": "В Вашем депозитном счете Вы найдете обзор всех Ваших трансакций."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Depot"
+      ],
       "antonyms": []
     },
     {
@@ -1224,7 +1375,10 @@
           "ru": "Я подумала, что одна купюра любого номинала весит 1 грамм."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nominalwert",
+        "Nominale"
+      ],
       "antonyms": [
         "der Kurswert, die Kurswerte",
         "der Marktwert, die Marktwerte"
@@ -1258,7 +1412,9 @@
           "ru": "Итак, акции \"Пан Ам\" стоят 13.10."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Marktpreis"
+      ],
       "antonyms": [
         "der Nennwert, die Nennwerte"
       ]
@@ -1291,7 +1447,10 @@
           "ru": "Недостаток МСФО заключается в том, что он неспособен смягчить систематические отрицательные воздействия движения цен активов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Preisschwankungen",
+        "Wechselkursschwankungen"
+      ],
       "antonyms": [
         "die Kursstabilität (nur Sg.)"
       ]
@@ -1324,7 +1483,13 @@
           "ru": "Революции часто колеблются между крайностями, прежде чем силы, достаточно значительные для того, чтобы свергнуть правительство, станут достаточно значительными и легитимными для того, чтобы править."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "schwenken",
+        "schlickern",
+        "kippeln",
+        "schunkeln",
+        "stampfen"
+      ],
       "partizip_2": "geschwankt",
       "imperative": "schwanke! / schwankt! / schwanken Sie!",
       "conjugations": {
@@ -1369,7 +1534,13 @@
           "ru": "ИСЛАМАБАД - С середины декабря Пакистан испытывает небывалую, даже по пакистанским меркам, политическую и экономическую нестабильность."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unstetigkeit",
+        "Fluktuation",
+        "Schwankung",
+        "Abweichung",
+        "Vola"
+      ],
       "antonyms": [
         "die Stabilität (nur Sg.)"
       ]
@@ -1402,7 +1573,13 @@
           "ru": "Кроме того, большинство активных управляющих (а на самом деле 95% из них) - показывают результаты хуже инвестиционных индикаторов, а их доходы подвержены волатильности и риску."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "wechselvoll",
+        "schwankend",
+        "schwenkend",
+        "wechselhaft",
+        "schaukelnd"
+      ],
       "antonyms": [
         "stabil",
         "konstant"
@@ -1436,7 +1613,11 @@
           "ru": "Он будет ждать вас на входе цветочного рынка в Ницце."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hausse",
+        "Boom",
+        "Hochkonjunktur"
+      ],
       "antonyms": [
         "der Bärenmarkt, die Märkte"
       ]
@@ -1469,7 +1650,13 @@
           "ru": "Мы не можем взять и найти другое тело, как на рынке."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abschwung",
+        "Preissturz",
+        "Baisse",
+        "Deroute (geh.",
+        "Kursabfall"
+      ],
       "antonyms": [
         "der Bullenmarkt, die Märkte"
       ]
@@ -1502,7 +1689,9 @@
           "ru": "Он предупредил, что не следует пытаться оправдать чрезмерные ожидания прибыли с помощью все более поверхностного содержания."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "erwartete Rendite"
+      ],
       "antonyms": []
     },
     {
@@ -1533,7 +1722,13 @@
           "ru": "Конгломераты позволяют финансовым организациям диверсифицировать свой бизнес, и объединение с коммерческими банками позволяет инвестиционным банкам финансировать свои операции при использовании относительно стабильных депозитов вместо неустойчивых рынков краткосрочного капитала."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "verbreitern",
+        "ausweiten",
+        "verändern",
+        "modifizieren",
+        "variieren"
+      ],
       "partizip_2": "diversifiziert",
       "imperative": "diversifiziere! / diversifiziert! / diversifizieren Sie!",
       "conjugations": {
@@ -1578,7 +1773,13 @@
           "ru": "Так что ничто из того, что сделал Чавес, не превращается в фундаментальное улучшение или изменение в экономике Венесуэлы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Diversifizierung",
+        "Ausweitung",
+        "Verbreiterung",
+        "Zerteilung",
+        "Segmentierung"
+      ],
       "antonyms": [
         "die Konzentration, die Konzentrationen",
         "die Fokussierung, die Fokussierungen"
@@ -1612,7 +1813,9 @@
           "ru": "Сокращение ставок индивидуальных налогов, налога на доход от накопления сбережений и налога на доход от инвестиций в лучшем случае приводит к слабому увеличению уровня занятости, трудовой активности и доходов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zinserträge"
+      ],
       "antonyms": [
         "der Zinsaufwand, die Aufwände"
       ]
@@ -1645,7 +1848,9 @@
           "ru": "Большинство компаний имеют привлекательную стоимость, а их цены обеспечены высокой дивидендной доходностью."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dividendenertrag"
+      ],
       "antonyms": []
     },
     {
@@ -1676,7 +1881,13 @@
           "ru": "Прибыль от этих лекарств обещает быть настолько высокой, что даже при смертности 25% в возрасте старше пяти лет, прибыль все еще будет чрезвычайно высоким."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gewinnmarge",
+        "Profit",
+        "Gewinn",
+        "Erlös",
+        "Geschäftsergebnis"
+      ],
       "antonyms": []
     },
     {
@@ -1707,7 +1918,9 @@
           "ru": "Выходит 750 тысяч чистого навара в день."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Reingewinn"
+      ],
       "antonyms": [
         "der Nettoverlust, die Verluste"
       ]
@@ -1732,7 +1945,13 @@
           "ru": "Эта сделка принесла бы миллиарды прибыли в следующие десять лет"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bruttogewinnmarge",
+        "Bruttoprofit",
+        "Bruttoerlös",
+        "Bruttogeschäftsergebnis",
+        "Bruttoüberschuss"
+      ],
       "antonyms": [
         "der Bruttoverlust, die Verluste"
       ]
@@ -1765,7 +1984,13 @@
           "ru": "Стоимость бензина оказывает иссушающее воздействие на американскую экономику в целом и на отдельные семьи в частности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kostenkoeffizient",
+        "Kostenbeiwert",
+        "Kostenrahmenbedingung",
+        "Kostenkonstellation",
+        "Kostengegebenheit"
+      ],
       "antonyms": []
     },
     {
@@ -1792,7 +2017,13 @@
           "ru": "Одна из причин такого положения дел может заключаться в том, что перед этими предпринимательскими отделениями часто ставились нереальные цели, и создавались они без тщательного анализа выгод и издержек, ожидаемых от их деятельности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kostenuntersuchung",
+        "Kostenstudie",
+        "Kostenüberprüfung",
+        "Kostenauswertung",
+        "Kostenbegutachtung"
+      ],
       "antonyms": []
     },
     {
@@ -1823,7 +2054,11 @@
           "ru": "Мы должны пересмотреть схемы компенсации и отложить выплату бонусов до тех пор, пока не будет известна долгосрочная доходность инвестиций фирмы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einträglichkeit",
+        "Profitabilität",
+        "Wirtschaftlichkeit"
+      ],
       "antonyms": [
         "die Unrentabilität (nur Sg.)"
       ]
@@ -1856,7 +2091,13 @@
           "ru": "Как вы планируете сделать компанию прибыльной?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einträglich",
+        "ergiebig",
+        "zugkräftig",
+        "gewinnbringend",
+        "einbringlich"
+      ],
       "antonyms": [
         "unrentabel",
         "verlustbringend"
@@ -1890,7 +2131,12 @@
           "ru": "Не, рассрочки закончились."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vermietung",
+        "Ablokation",
+        "Verpachtung",
+        "Bestandgabe"
+      ],
       "antonyms": [
         "der Kauf, die Käufe"
       ]
@@ -1923,7 +2169,11 @@
           "ru": "Они арендуют ее для меня."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "anmieten",
+        "pachten",
+        "mieten"
+      ],
       "partizip_2": "geleast",
       "imperative": "lease! / least! / leasen Sie!",
       "conjugations": {
@@ -1959,7 +2209,9 @@
           "ru": "проценты по фиксированным амортизационным отчислениям"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rückzahlungssatz"
+      ],
       "antonyms": []
     },
     {
@@ -1990,7 +2242,10 @@
           "ru": "Ты во второй раз взяла курс химии, и это смело."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Reife",
+        "Dringlichkeit (von Verpflichtungen)"
+      ],
       "antonyms": []
     },
     {
@@ -2021,7 +2276,13 @@
           "ru": "Нельзя создавать политику на основе вымысла о том, что были выданы хорошие займы и что деловая хватка лидеров и регулирующих органов финансовых рынков восстановится, если вернётся доверие."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "rechtzeitig",
+        "fristgemäß",
+        "zeitgerecht",
+        "termingemäß",
+        "termingerecht"
+      ],
       "antonyms": [
         "fristwidrig",
         "verspätet"
@@ -2081,7 +2342,9 @@
           "ru": "Исследование Бюджетнго управления также дало понять, что соглашение по сокращению налогов, достигнутое в декабре между Обамой и республиканской оппозицией, умышленно и намеренно резко увеличило дефицит бюджета."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Haushaltsdefizit"
+      ],
       "antonyms": [
         "der Budgetüberschuss, die Überschüsse"
       ]
@@ -2114,7 +2377,13 @@
           "ru": "Кто-то должен выровнять давление."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "abgelten",
+        "kompensieren",
+        "aufwiegen",
+        "entgegenwirken",
+        "gegenfinanzieren"
+      ],
       "partizip_2": "ausgegleicht",
       "imperative": "gleiche aus! / gleicht aus! / gleichen Sie aus!",
       "conjugations": {
@@ -2156,7 +2425,13 @@
           "ru": "Нельзя ли гарантий: банковский вклад или еще что-нибудь... в этом же духе?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rückstellung",
+        "Rückhalt",
+        "Speicher",
+        "Redundanz",
+        "Vorrat"
+      ],
       "antonyms": []
     },
     {
@@ -2187,7 +2462,13 @@
           "ru": "Производный финансовый инструмент может иметь более одного базового актива."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapitalemporheben",
+        "Kapitalanstieg",
+        "Kapitalzuwachs",
+        "Kapitalsteigerung",
+        "Kapitalzunahme"
+      ],
       "antonyms": [
         "die Kapitalherabsetzung, die Setzungen"
       ]
@@ -2220,7 +2501,9 @@
           "ru": "За этим следует двукратное увеличение капитала, за каждым из которых немедленно следует сокращение капитала."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapitalschnitt"
+      ],
       "antonyms": [
         "die Kapitalerhöhung, die Erhöhungen"
       ]
@@ -2253,7 +2536,13 @@
           "ru": "Радиации нет, воздух почти на 100% чистый."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Effektenemission",
+        "Aktienausgabe",
+        "Ausstrahlung",
+        "Aussendung",
+        "Abstrahlung"
+      ],
       "antonyms": [
         "die Tilgung, die Tilgungen",
         "der Rückkauf, die Rückkäufe"
@@ -2287,7 +2576,13 @@
           "ru": "Для сокращения эмиссии надо провести все мероприятия по эффективности. Чем меньше эмиссии, тем меньше суммарный объём СО2 и, следовательно, тем меньше температура."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ausstellen",
+        "ausgeben (Banknoten",
+        "herausgeben",
+        "begeben (fachspr.",
+        "auflegen"
+      ],
       "partizip_2": "emittiert",
       "imperative": "emittiere! / emittiert! / emittieren Sie!",
       "conjugations": {
@@ -2366,7 +2661,9 @@
           "ru": "Британский суд отклонил ходатайство ЮКОСа о пересмотре первого размещения."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Börsengang (IPO)"
+      ],
       "antonyms": []
     },
     {
@@ -2397,7 +2694,13 @@
           "ru": "Und als sie ihren Börsengang hatten, war ihre Aktie bei ungefähr 30 oder 40 Dollar und dann sind sie abgestürzt und wurden nie über 10 Dollar gehandelt."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aktiendebut",
+        "Börsendebüt",
+        "going public",
+        "Börsengang",
+        "Börsegang"
+      ],
       "antonyms": []
     },
     {
@@ -2428,7 +2731,13 @@
           "ru": "Жаль, что мы не показали ему твой рисунок."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Layout",
+        "Planung",
+        "Skizze",
+        "Ichnographie",
+        "Grundriss"
+      ],
       "antonyms": []
     },
     {
@@ -2459,7 +2768,13 @@
           "ru": "Прости, Джейн, пение изобразить сложнее, чем танец."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "malen",
+        "abbilden",
+        "bildlich darstellen",
+        "fotografieren",
+        "darstellen"
+      ],
       "partizip_2": "gezeichnet",
       "imperative": "zeichne! / zeichnet! / zeichnen Sie!",
       "conjugations": {
@@ -2501,7 +2816,13 @@
           "ru": "NEW LAND это лицензированное агентство недвижимости, расположенное в городе Айос-Николаос нома Ласитион."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Courtage",
+        "Maklerprovision",
+        "Aufschlag",
+        "Vermittlungsgebühr",
+        "Provision"
+      ],
       "antonyms": [
         "das Disagio, die Disagios"
       ]
@@ -2534,7 +2855,13 @@
           "ru": "При вычислении по основанию 2 скидка рассчитывается следующим образом:"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zuwachs",
+        "Ausgabeabschlag",
+        "Abgeld",
+        "Damnum",
+        "Abschlag"
+      ],
       "antonyms": [
         "das Agio, die Agios"
       ]
@@ -2559,7 +2886,10 @@
           "ru": "При оценке портфеля ценных бумаг номинальный курс играет второстепенную роль по сравнению с рыночной стоимостью."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nennwertsatz",
+        "Nominalzins"
+      ],
       "antonyms": [
         "der Marktkurs, die Kurse"
       ]
@@ -2592,7 +2922,13 @@
           "ru": "Поэтому мы предлагаем вам 8 процентов от всех доходов, которые мы получим с ваших скважин."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gewinnteilhabe",
+        "Gewinnbeteiligtsein",
+        "Gewinnanteilnahme",
+        "Gewinneinschluss",
+        "Gewinnmitbeteiligung"
+      ],
       "antonyms": []
     },
     {
@@ -2623,7 +2959,13 @@
           "ru": "Я даже не собираюсь принимать участие в этом разговоре."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einbinden",
+        "gewinnen für",
+        "kooperieren mit",
+        "anfangen",
+        "einstimmen"
+      ],
       "partizip_2": "beteiligt",
       "imperative": "beteilige! / beteiligt! / beteiligen Sie!",
       "conjugations": {
@@ -2669,7 +3011,13 @@
           "ru": "Нам нужна революция вовлечения, и нужна быстро."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teilhabe",
+        "Beteiligtsein",
+        "Anteilnahme",
+        "Einschluss",
+        "Mitbeteiligung"
+      ],
       "antonyms": [
         "der Ausschluss, die Ausschlüsse"
       ]
@@ -2702,7 +3050,9 @@
           "ru": "Bayerische Landesbank, основной акционер с 1998 года, отказался от дальнейшей поддержки."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mehrheitsaktionär"
+      ],
       "antonyms": [
         "der Minderheitsgesellschafter, die Gesellschafter"
       ]
@@ -2735,7 +3085,12 @@
           "ru": "Барлах получил необычайно сильную позицию миноритарного акционера."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Minderheitsbeteiligter",
+        "Minderheitsteilhaber",
+        "Minderheitsteilnehmer",
+        "Minderheitspartner"
+      ],
       "antonyms": [
         "der Mehrheitsgesellschafter, die Gesellschafter"
       ]
@@ -2768,7 +3123,13 @@
           "ru": "Мы знаем, что подрывник планирует атаку во время съезда демократов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Jahreshauptversammlung",
+        "Generalversammlung",
+        "Konvent",
+        "Mitgliederversammlung",
+        "HV"
+      ],
       "antonyms": []
     },
     {
@@ -2799,7 +3160,13 @@
           "ru": "Мы принимаем некоторые приглашения, но потом мы решаем остаться дома."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "entscheiden",
+        "bestimmen",
+        "stipulieren (geh.",
+        "determinieren (geh.",
+        "festsetzen"
+      ],
       "partizip_2": "beschließt",
       "imperative": "beschließe! / beschließt! / beschließen Sie!",
       "conjugations": {
@@ -2841,7 +3208,13 @@
           "ru": "У нас есть соглашение, я ожидал от вас честности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entscheidung",
+        "Entschluss",
+        "Entscheid",
+        "Wille",
+        "Urteil"
+      ],
       "antonyms": []
     },
     {
@@ -2872,7 +3245,10 @@
           "ru": "А это дало женщинам право голосовать."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Wahlrecht",
+        "Wahlberechtigung"
+      ],
       "antonyms": []
     },
     {
@@ -2903,7 +3279,13 @@
           "ru": "Несмотря ни на что, я буду голосовать против займа."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Partitur",
+        "Notenheft",
+        "Noten",
+        "Orchestermaterial",
+        "Klavierauszug"
+      ],
       "partizip_2": "gestimmet",
       "imperative": "stimme! / stimmet! / stimmen Sie!",
       "conjugations": {
@@ -2950,7 +3332,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Koordination",
+        "Absprache",
+        "Koordinierung",
+        "Synchronisierung",
+        "Synchronisation"
+      ],
       "antonyms": [
         "die Unstimmigkeit, die Unstimmigkeiten",
         "der Konflikt, die Konflikte"
@@ -2984,7 +3372,13 @@
           "ru": "Но ты только исключен из правления, так?"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontrollgremium",
+        "Kuratorium",
+        "Kontrollorgan",
+        "Beirat",
+        "Board"
+      ],
       "antonyms": []
     },
     {
@@ -3015,7 +3409,9 @@
           "ru": "Я не знаю что скажет руководство Ягуара."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "leitendes Gremium"
+      ],
       "antonyms": []
     },
     {
@@ -3046,7 +3442,9 @@
           "ru": "Именно таков принцип эффективного управления риском, и это известно профессионалам в области финансов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Risk Management"
+      ],
       "antonyms": []
     },
     {
@@ -3077,7 +3475,13 @@
           "ru": "Активировать, поднять или свернуть"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Grenze setzen",
+        "kleinhalten",
+        "limitieren (geh.",
+        "Grenze ziehen",
+        "verringern"
+      ],
       "partizip_2": "minimiert",
       "imperative": "minimiere! / minimiert! / minimieren Sie!",
       "conjugations": {
@@ -3123,7 +3527,13 @@
           "ru": "Я разработала систему чтобы максимизировать эффективность процесса переезда."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "vermehren",
+        "steigern",
+        "vergrößern",
+        "größer machen",
+        "mehren"
+      ],
       "partizip_2": "maximiert",
       "imperative": "maximiere! / maximiert! / maximieren Sie!",
       "conjugations": {
@@ -3169,7 +3579,13 @@
           "ru": "Очень обширное ограничение потерь делает конвертируемые облигации интересными не только для консервативных инвесторов."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verlustumgrenzung",
+        "Verlustabgrenzung",
+        "Verlusteinfassung",
+        "Verlustrand",
+        "Verlustsaum"
+      ],
       "antonyms": []
     },
     {
@@ -3231,7 +3647,9 @@
           "ru": "Тот факт, что дивиденды, уменьшенные за 1995 год, были заработаны за этот период лишь частично, считается оправданным, учитывая перенесенную прибыль, накопленную в лучшие годы."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gewinnrücklagen"
+      ],
       "antonyms": [
         "der Verlustvortrag, die Vorträge"
       ]
@@ -3264,7 +3682,13 @@
           "ru": "[налоговое] использование переноса убытков"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verlustrede",
+        "Verlustreferat",
+        "Verlustübertrag",
+        "Verlustbuchungsübertrag",
+        "Verlustdarbietung"
+      ],
       "antonyms": [
         "der Gewinnvortrag, die Vorträge"
       ]
@@ -3289,7 +3713,9 @@
           "ru": "Правление решило сократить дивиденды, чтобы получить больше средств для формирования резервного фонда."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Reservebildung"
+      ],
       "antonyms": [
         "die Rücklagenauflösung, die Auflösungen"
       ]
@@ -3322,7 +3748,13 @@
           "ru": "Вот почему, в дополнение к общим советам по запуску, инвестиционный банк также предлагает подготовку к банковским переговорам, а также помощь в создании жизнеспособных бизнес-планов и поддержку в планировании ликвидности."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Liquiditätsdisposition",
+        "Liquiditätslayout",
+        "Liquiditätsskizze",
+        "Liquiditätsichnographie",
+        "Liquiditätsgrundriss"
+      ],
       "antonyms": []
     },
     {
@@ -3353,7 +3785,10 @@
           "ru": "FXDD безоговорочно отказывается от какой-либо ответственности за любые потери основного или начального капитала и возможной прибыли, которые могут быть прямым или косвенным следствием использования или частичного применения вышеперечисленной информации."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Investitionskapital",
+        "investiertes Kapital"
+      ],
       "antonyms": []
     },
     {
@@ -3384,7 +3819,10 @@
           "ru": "И, наоборот, англосаксонские системы общего права дают судьям право интерпретировать допускающие разные толкования фидуциарные правила применительно к каждому отдельному случаю, создавая правовые прецеденты, которые и сдерживают менеджеров."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anlagenwertführung",
+        "Anlagenverwaltung"
+      ],
       "antonyms": []
     },
     {
@@ -3415,7 +3853,10 @@
           "ru": "Они делают взносы в наш фонд, мы их вкладываем и управляем инвестициями."
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "administrieren",
+        "führen"
+      ],
       "partizip_2": "verwaltet",
       "imperative": "verwalte! / verwaltet! / verwalten Sie!",
       "conjugations": {
@@ -3459,7 +3900,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kuppelberechnung"
+      ],
       "antonyms": []
     },
     {
@@ -3492,7 +3935,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Maschinenstundensatzansatz",
+        "Maschinenstundensatzvoranschlag",
+        "Maschinenstundensatzfestsetzung",
+        "Maschinenstundensatzzählung",
+        "Maschinenstundensatzveranschlagung"
+      ],
       "antonyms": []
     },
     {
@@ -3525,7 +3974,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abrechnungsformular"
+      ],
       "antonyms": []
     },
     {
@@ -3558,7 +4009,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Trittleitermethode"
+      ],
       "antonyms": []
     },
     {
@@ -3591,7 +4044,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anbaumethoden"
+      ],
       "antonyms": []
     },
     {
@@ -3624,7 +4079,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gleichungsmethode"
+      ],
       "antonyms": []
     },
     {
@@ -3657,7 +4114,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "interne Leistungsabrechnung"
+      ],
       "antonyms": []
     },
     {
@@ -3690,7 +4149,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vollbetriebsergebnisrechnung"
+      ],
       "antonyms": []
     },
     {
@@ -3723,7 +4184,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teilbetriebsergebnisrechnung"
+      ],
       "antonyms": []
     },
     {
@@ -3756,7 +4219,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Deckungskontingent",
+        "Deckungsanteil",
+        "Deckungsmitwirkung",
+        "Deckungsquote",
+        "Deckungsobolus"
+      ],
       "antonyms": []
     },
     {
@@ -3789,7 +4258,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rentabilitätsschwelle",
+        "Break-even-Punkt",
+        "Break-even-Point"
+      ],
       "antonyms": []
     },
     {
@@ -3822,7 +4295,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abdeckungsfaktor",
+        "Deckungsverhältnis"
+      ],
       "antonyms": []
     },
     {
@@ -3855,7 +4331,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stückdeckungskontingent",
+        "Stückdeckungsanteil",
+        "Stückdeckungsmitwirkung",
+        "Stückdeckungsquote",
+        "Stückdeckungsobolus"
+      ],
       "antonyms": []
     },
     {
@@ -3888,7 +4370,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gesamte Einzahlungsmarge"
+      ],
       "antonyms": []
     },
     {
@@ -3954,7 +4438,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Engpasskontrolle"
+      ],
       "antonyms": []
     },
     {
@@ -3987,7 +4473,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Produktionsleitfaden",
+        "Produktionszielstellung",
+        "Produktionsvorgabe",
+        "Produktionsrichtmarke",
+        "Produktionsausrichtung"
+      ],
       "antonyms": []
     },
     {
@@ -4020,7 +4512,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "optimales Produktionsprogramm"
+      ],
       "antonyms": []
     },
     {
@@ -4053,7 +4547,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Planbetriebsergebnisrechnung"
+      ],
       "antonyms": []
     },
     {
@@ -4086,7 +4582,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tatsächliche Kosten"
+      ],
       "antonyms": []
     },
     {
@@ -4119,7 +4617,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Richtkosten",
+        "Sollkosten"
+      ],
       "antonyms": []
     },
     {
@@ -4152,7 +4653,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Plankosten",
+        "Richtkosten"
+      ],
       "antonyms": []
     },
     {
@@ -4218,7 +4722,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Budgetierungsstruktur",
+        "Budgetierungsorganisation",
+        "Budgetierungsorganismus",
+        "Budgetierungsgebilde",
+        "Budgetierungsanlage"
+      ],
       "antonyms": []
     },
     {
@@ -4251,7 +4761,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Budgetunregelmäßigkeit",
+        "Budgetregelwidrigkeit",
+        "Budgetazimut",
+        "Budgetablage",
+        "Budgetaberration"
+      ],
       "antonyms": []
     },
     {
@@ -4284,7 +4800,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verbrauchsunregelmäßigkeit",
+        "Verbrauchsregelwidrigkeit",
+        "Verbrauchsazimut",
+        "Verbrauchsablage",
+        "Verbrauchsaberration"
+      ],
       "antonyms": []
     },
     {
@@ -4317,7 +4839,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Beschäftigungsvarianz"
+      ],
       "antonyms": []
     },
     {
@@ -4350,7 +4874,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Preisunterschied"
+      ],
       "antonyms": []
     },
     {
@@ -4383,7 +4909,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Effizienzvarianz"
+      ],
       "antonyms": []
     },
     {
@@ -4416,7 +4944,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einträglichkeit",
+        "Rentabilität",
+        "Profitabilität"
+      ],
       "antonyms": []
     },
     {
@@ -4449,7 +4981,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Leistungsprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -4482,7 +5016,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rentabilitätsmessgröße",
+        "Rentabilitätssoftwaremetrik",
+        "Rentabilitätsmetrik",
+        "Rentabilitätskenngröße",
+        "Rentabilitätskennziffer"
+      ],
       "antonyms": []
     },
     {
@@ -4515,7 +5055,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unternehmerrentabilität"
+      ],
       "antonyms": []
     },
     {
@@ -4548,7 +5090,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schuldenrendite",
+        "Schuldentilgung"
+      ],
       "antonyms": []
     },
     {
@@ -4581,7 +5126,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapitalrendite"
+      ],
       "antonyms": []
     },
     {
@@ -4614,7 +5161,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Umsatzrendite"
+      ],
       "antonyms": []
     },
     {
@@ -4647,7 +5196,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapitalrendite"
+      ],
       "antonyms": []
     },
     {
@@ -4680,7 +5231,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "operativer Cashflow"
+      ],
       "antonyms": []
     },
     {
@@ -4713,7 +5266,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "freier Cashflow"
+      ],
       "antonyms": []
     },
     {
@@ -4746,7 +5301,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Netto-Kapitalstrom",
+        "Netto-Kapitalfluss",
+        "Netto-Geldfluss",
+        "Netto-Kassenfluss",
+        "Netto-Finanzfluss"
+      ],
       "antonyms": []
     },
     {
@@ -4779,7 +5340,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Brutto-Kapitalstrom",
+        "Brutto-Kapitalfluss",
+        "Brutto-Geldfluss",
+        "Brutto-Kassenfluss",
+        "Brutto-Finanzfluss"
+      ],
       "antonyms": []
     },
     {
@@ -4812,7 +5379,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapitalstrom",
+        "Geldfluss",
+        "Kassenfluss",
+        "Finanzfluss",
+        "Kapitalbewegung"
+      ],
       "antonyms": []
     },
     {
@@ -4845,7 +5418,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kapitalflussansatz",
+        "Kapitalflussvoranschlag",
+        "Kapitalflussfestsetzung",
+        "Kapitalflusszählung",
+        "Kapitalflussveranschlagung"
+      ],
       "antonyms": []
     },
     {
@@ -4878,7 +5457,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Liquiditätsquote"
+      ],
       "antonyms": []
     },
     {
@@ -4977,7 +5558,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dritter Liquiditätsgrad"
+      ],
       "antonyms": []
     },
     {
@@ -5010,7 +5593,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Betriebskapital"
+      ],
       "antonyms": []
     },
     {
@@ -5043,7 +5628,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nettoumlaufvermögen"
+      ],
       "antonyms": []
     },
     {
@@ -5076,7 +5663,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schuldenquote"
+      ],
       "antonyms": []
     },
     {
@@ -5109,7 +5698,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Eigenkapitaldecke"
+      ],
       "antonyms": []
     },
     {
@@ -5142,7 +5733,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schuldenquote"
+      ],
       "antonyms": []
     },
     {
@@ -5175,7 +5768,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Objektabdeckung"
+      ],
       "antonyms": []
     },
     {
@@ -5274,7 +5869,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fluktuationsrate"
+      ],
       "antonyms": []
     },
     {
@@ -5307,7 +5904,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bearbeitungszeit",
+        "Vorlaufzeit"
+      ],
       "antonyms": []
     },
     {
@@ -5340,7 +5940,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Debitorenzeitraum"
+      ],
       "antonyms": []
     },
     {
@@ -5373,7 +5975,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditorenzeitraum"
+      ],
       "antonyms": []
     },
     {
@@ -5406,7 +6010,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Speicherdauer",
+        "Haltbarkeit"
+      ],
       "antonyms": []
     },
     {
@@ -5439,7 +6046,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lagerumsatz",
+        "Lagerbestandswechsel"
+      ],
       "antonyms": []
     },
     {
@@ -5472,7 +6082,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Externe Finanzierung"
+      ],
       "antonyms": []
     },
     {
@@ -5505,7 +6117,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Innenmittelbeschaffung"
+      ],
       "antonyms": []
     },
     {
@@ -5538,7 +6152,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Selbstfinanzierung"
+      ],
       "antonyms": []
     },
     {
@@ -5571,7 +6187,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fremdmittelbeschaffung"
+      ],
       "antonyms": []
     },
     {
@@ -5604,7 +6222,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Selbstmittelbeschaffung"
+      ],
       "antonyms": []
     },
     {
@@ -5703,7 +6323,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Eigenkapitalfinanzierung"
+      ],
       "antonyms": []
     },
     {
@@ -5736,7 +6358,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einlagenmittelbeschaffung"
+      ],
       "antonyms": []
     },
     {
@@ -5769,7 +6393,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kreditmittelbeschaffung"
+      ],
       "antonyms": []
     },
     {
@@ -5802,7 +6428,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mezzanine-Kapital"
+      ],
       "antonyms": []
     },
     {
@@ -5835,7 +6463,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mezzanine-Finanzierung"
+      ],
       "antonyms": []
     },
     {
@@ -5868,7 +6498,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "VC (Abkürzung",
+        "Wagniskapital",
+        "Venture Capital"
+      ],
       "antonyms": []
     },
     {
@@ -5901,7 +6535,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "VC (Abkürzung",
+        "Venture Capital",
+        "Risikokapital"
+      ],
       "antonyms": []
     },
     {
@@ -5934,7 +6572,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Risikokapitalgeber"
+      ],
       "antonyms": []
     },
     {
@@ -5967,7 +6607,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Startkapital",
+        "Gründungskapital",
+        "Grundkapital"
+      ],
       "antonyms": []
     },
     {
@@ -6000,7 +6644,12 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nominalkapital",
+        "Startkapital",
+        "Gründungskapital",
+        "Stammkapital"
+      ],
       "antonyms": []
     },
     {
@@ -6033,7 +6682,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "AG"
+      ],
       "antonyms": []
     },
     {
@@ -6066,7 +6717,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "GesmbH (Abkürzung",
+        "GmbH",
+        "Ges.m.b.H. (Abkürzung"
+      ],
       "antonyms": []
     },
     {
@@ -6099,7 +6754,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "KG"
+      ],
       "antonyms": []
     },
     {
@@ -6132,7 +6789,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "OHG"
+      ],
       "antonyms": []
     },
     {
@@ -6165,7 +6824,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "GbR"
+      ],
       "antonyms": []
     },
     {
@@ -6198,7 +6859,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "ergänzend",
+        "supplementär"
+      ],
       "antonyms": []
     },
     {
@@ -6264,7 +6928,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Associé (fachspr.",
+        "Beteiligter",
+        "Teilhaber",
+        "Sozius (fachspr.",
+        "Teilnehmer"
+      ],
       "antonyms": []
     },
     {
@@ -6297,7 +6967,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aktionärsbeschluss"
+      ],
       "antonyms": []
     },
     {
@@ -6330,7 +7002,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aktionärsvereinbarung"
+      ],
       "antonyms": []
     },
     {
@@ -6363,7 +7037,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hauptversammlung"
+      ],
       "antonyms": []
     },
     {
@@ -6396,7 +7072,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Unternehmensanteil"
+      ],
       "antonyms": []
     },
     {
@@ -6429,7 +7107,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schuheinlage",
+        "Fußeinlage",
+        "Einsatz",
+        "Kapitalanlage",
+        "Einlagekapital"
+      ],
       "antonyms": []
     }
   ]

@@ -26,7 +26,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Materialbuch",
+        "Materialregister"
+      ],
       "antonyms": []
     },
     {
@@ -54,7 +57,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Materialstatement",
+        "Materialstellungnahme",
+        "Materialmeinung",
+        "Materialgutachten",
+        "Materialeinschätzung"
+      ],
       "antonyms": []
     },
     {
@@ -90,7 +99,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gleitender Durchschnittspreis"
+      ],
       "antonyms": [
         "der Standardpreis"
       ]
@@ -128,7 +139,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Standardglückslos",
+        "Standardtreffer",
+        "Standardgewinn",
+        "Standardsiegespreis",
+        "Standardtaxe"
+      ],
       "antonyms": [
         "der gleitende Durchschnittspreis"
       ]
@@ -166,7 +183,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Preiskontrolle",
+        "Preismanagement"
+      ],
       "antonyms": []
     },
     {
@@ -202,7 +222,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufwertung",
+        "Umwertung"
+      ],
       "antonyms": []
     },
     {
@@ -238,7 +261,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "tatsächliche Kostenkalkulation"
+      ],
       "antonyms": [
         "die Plankalkulation"
       ]
@@ -268,7 +293,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Materialdokument"
+      ],
       "antonyms": []
     },
     {
@@ -304,7 +331,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Materialtyp"
+      ],
       "antonyms": []
     },
     {
@@ -340,7 +369,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Materialgruppe",
+        "Produktgruppe"
+      ],
       "antonyms": []
     },
     {
@@ -368,7 +400,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bewertungsniveau"
+      ],
       "antonyms": []
     },
     {
@@ -396,7 +430,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bewertungsbereich"
+      ],
       "antonyms": []
     },
     {
@@ -424,7 +460,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Klassenklasse"
+      ],
       "antonyms": []
     },
     {
@@ -460,7 +498,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontenfindünger",
+        "Kontenfinmist"
+      ],
       "antonyms": []
     },
     {
@@ -496,7 +537,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "automatische Kontoauswahl"
+      ],
       "antonyms": []
     },
     {
@@ -524,7 +567,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Speicherort"
+      ],
       "antonyms": []
     },
     {
@@ -560,7 +605,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fabrik",
+        "Industrieanlage",
+        "Produktionsstätte",
+        "Fertigungsbetrieb",
+        "Arbeit"
+      ],
       "antonyms": []
     },
     {
@@ -596,7 +647,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fortbestand",
+        "Verbleib",
+        "Fortdauer",
+        "Bleiben",
+        "Verbleiben"
+      ],
       "antonyms": []
     },
     {
@@ -632,7 +689,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bestandsveränderungen"
+      ],
       "antonyms": []
     },
     {
@@ -660,7 +719,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lagerbuchung"
+      ],
       "antonyms": []
     },
     {
@@ -696,7 +757,12 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bestandsaufnahme",
+        "Erfassung",
+        "Inventarisierung",
+        "Zählung"
+      ],
       "antonyms": []
     },
     {
@@ -732,7 +798,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fehlbestand"
+      ],
       "antonyms": []
     },
     {
@@ -768,7 +836,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Annahme"
+      ],
       "antonyms": [
         "der Warenausgang"
       ]
@@ -802,7 +872,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Materialausgabe (OM)"
+      ],
       "antonyms": [
         "der Wareneingang"
       ]
@@ -876,7 +948,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Buchungsübertragung/Statusänderung"
+      ],
       "antonyms": []
     },
     {
@@ -904,7 +978,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Materialreservierung",
+        "Materialbuchen",
+        "Materialbestellung",
+        "Materialorder",
+        "Materialeintragung"
+      ],
       "antonyms": []
     },
     {
@@ -932,7 +1012,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "GR/IR-Abgleich",
+        "Abstimmung Wareneingang/Schild (Wareneingang/Rechnung)"
+      ],
       "antonyms": []
     },
     {
@@ -960,7 +1043,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "WE/Rechnungsverrechnungskonto (WE/RE)"
+      ],
       "antonyms": []
     },
     {
@@ -988,7 +1073,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sonderfortbestand",
+        "Sonderverbleib",
+        "Sonderfortdauer",
+        "Sonderbleiben",
+        "Sonderverbleiben"
+      ],
       "antonyms": [
         "der Normalbestand",
         "der frei verwendbare Bestand"
@@ -1019,7 +1110,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Konsignationslager"
+      ],
       "antonyms": []
     },
     {
@@ -1047,7 +1140,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kundenauftragsfortbestand",
+        "Kundenauftragsverbleib",
+        "Kundenauftragsfortdauer",
+        "Kundenauftragsbleiben",
+        "Kundenauftragsverbleiben"
+      ],
       "antonyms": []
     },
     {
@@ -1075,7 +1174,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektfortbestand",
+        "Projektverbleib",
+        "Projektfortdauer",
+        "Projektbleiben",
+        "Projektverbleiben"
+      ],
       "antonyms": []
     },
     {
@@ -1103,7 +1208,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Chargenbürokratie",
+        "Chargenadministration",
+        "Chargenverwaltungsapparat",
+        "Chargenbeamtenapparat",
+        "Chargenobrigkeit"
+      ],
       "antonyms": []
     },
     {
@@ -1139,7 +1250,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Dienstgrad",
+        "Lot",
+        "Partie",
+        "Los",
+        "Posten"
+      ],
       "antonyms": []
     },
     {
@@ -1175,7 +1292,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Seriennummer"
+      ],
       "antonyms": []
     },
     {
@@ -1211,7 +1330,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Disposition",
+        "Verfügungsrecht",
+        "Nutzbarkeit",
+        "Einsetzbarkeit",
+        "Anwendbarkeit"
+      ],
       "antonyms": [
         "die Unverwendbarkeit"
       ]
@@ -1249,7 +1374,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mindesthaltbarkeit",
+        "Ablaufdatum",
+        "MHD",
+        "Fälligkeitsdatum",
+        "Verfalldatum"
+      ],
       "antonyms": [
         "das Herstellungsdatum"
       ]
@@ -1287,7 +1418,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mindesthaltbarkeit",
+        "Verfallsdatum",
+        "Ablaufdatum",
+        "MHD",
+        "Fälligkeitsdatum"
+      ],
       "antonyms": [
         "das Herstellungsdatum"
       ]
@@ -1321,7 +1458,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Qualitätskontrolle",
+        "Qualitätssicherung"
+      ],
       "antonyms": []
     },
     {
@@ -1357,7 +1497,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Qualitätsprüfbestand",
+        "Qualitätskontrollbestand"
+      ],
       "antonyms": [
         "der frei verwendbare Bestand",
         "der gesperrte Bestand"
@@ -1396,7 +1539,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "gesperrter Bestand"
+      ],
       "antonyms": [
         "der frei verwendbare Bestand"
       ]
@@ -1434,7 +1579,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "uneingeschränkter Nutzungsbestand"
+      ],
       "antonyms": [
         "der gesperrte Bestand",
         "der Prüfbestand"
@@ -1465,7 +1612,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lagertyp"
+      ],
       "antonyms": []
     },
     {
@@ -1529,7 +1678,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lagerdefizit",
+        "Lagermangel"
+      ],
       "antonyms": [
         "die Bestandsüberdeckung",
         "der Bestandsüberschuss"
@@ -1568,7 +1720,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Materialbedarfsplanung (MRP)"
+      ],
       "antonyms": []
     },
     {
@@ -1604,7 +1758,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verfügungsrecht",
+        "Verwendbarkeit",
+        "Planung",
+        "Empfänglichkeit",
+        "Prädisposition"
+      ],
       "antonyms": []
     },
     {
@@ -1640,7 +1800,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zuteiler"
+      ],
       "antonyms": []
     },
     {
@@ -1676,7 +1838,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sicherheitsfortbestand",
+        "Sicherheitsverbleib",
+        "Sicherheitsfortdauer",
+        "Sicherheitsbleiben",
+        "Sicherheitsverbleiben"
+      ],
       "antonyms": [
         "der Maximalbestand"
       ]
@@ -1714,7 +1882,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Nachbestellpunkt"
+      ],
       "antonyms": []
     },
     {
@@ -1750,7 +1920,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stückzahl"
+      ],
       "antonyms": []
     },
     {
@@ -1778,7 +1950,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Mindestbestellquantität",
+        "Mindestbestellvielheit",
+        "Mindestbestellzahl",
+        "Mindestbestellkennziffer",
+        "Mindestbestellziffer"
+      ],
       "antonyms": [
         "die Höchstbestellmenge"
       ]
@@ -1808,7 +1986,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Materialstammsatz"
+      ],
       "antonyms": []
     },
     {
@@ -1840,7 +2020,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Materialvielheit",
+        "Materialzahl",
+        "Materialkennziffer",
+        "Materialziffer",
+        "Materialnr."
+      ],
       "antonyms": []
     },
     {
@@ -1872,7 +2058,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Maßeinheit"
+      ],
       "antonyms": []
     },
     {
@@ -1900,7 +2088,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Basismaßeinheit"
+      ],
       "antonyms": [
         "die Alternativmengeneinheit"
       ]
@@ -1930,7 +2120,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "alternative Maßeinheit"
+      ],
       "antonyms": [
         "die Basismengeneinheit"
       ]
@@ -1968,7 +2160,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Konvertierung",
+        "Neuberechnung/Umrechnung"
+      ],
       "antonyms": []
     },
     {
@@ -2004,7 +2199,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bauteileliste",
+        "BOM (fachspr.",
+        "Artikelstamm",
+        "Materialliste",
+        "Warenbestandsliste"
+      ],
       "antonyms": []
     },
     {
@@ -2040,7 +2241,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einheit",
+        "Bauelement",
+        "Modul",
+        "Komponente",
+        "Element"
+      ],
       "antonyms": [
         "das Einzelteil"
       ]
@@ -2078,7 +2285,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "vorgefertigte Rohmaterialform",
+        "Vormaterial",
+        "Halbzeug",
+        "Halbfertigprodukt",
+        "unfertiges Erzeugnis"
+      ],
       "antonyms": [
         "der Rohstoff",
         "das Fertigerzeugnis"
@@ -2117,7 +2330,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fertigfabrikat"
+      ],
       "antonyms": [
         "der Rohstoff",
         "das Halbfabrikat"
@@ -2156,7 +2371,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Produktionsmittel",
+        "Hilfsmittel",
+        "Arbeitsmittel",
+        "Betriebsmittel",
+        "Ressource"
+      ],
       "antonyms": [
         "das Fertigerzeugnis",
         "das Halbfabrikat"
@@ -2195,7 +2416,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fabrikat",
+        "Ware",
+        "Produkt",
+        "Gut",
+        "Manufakt"
+      ],
       "antonyms": []
     },
     {
@@ -2231,7 +2458,12 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hülle",
+        "Drumherum",
+        "Umhüllung",
+        "Umverpackung"
+      ],
       "antonyms": []
     },
     {
@@ -2267,7 +2499,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verpackungsmaterial"
+      ],
       "antonyms": []
     },
     {
@@ -2295,7 +2529,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Batch-Klasse",
+        "Partyklasse"
+      ],
       "antonyms": []
     },
     {
@@ -2331,7 +2568,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "geteilte Bewertung"
+      ],
       "antonyms": []
     },
     {
@@ -2398,7 +2637,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Provenienz",
+        "Wurzeln",
+        "Abstammung",
+        "Herkommen",
+        "Abkunft"
+      ],
       "antonyms": [
         "das Ziel",
         "die Zukunft"
@@ -2437,7 +2682,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zollbetriebsart",
+        "Zollmodus",
+        "Zollbetriebsmodus",
+        "Zollart",
+        "Zollfestgefahren"
+      ],
       "antonyms": []
     },
     {
@@ -2469,7 +2720,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zollregistrierung",
+        "Zolleintragung",
+        "Zollregistration",
+        "Zolleinschreibung",
+        "Zollrezeption"
+      ],
       "antonyms": []
     },
     {
@@ -2505,7 +2762,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lagerbürokratie",
+        "Lageradministration",
+        "Lagerverwaltungsapparat",
+        "Lagerbeamtenapparat",
+        "Lagerobrigkeit"
+      ],
       "antonyms": []
     },
     {
@@ -2541,7 +2804,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Stützpunkt",
+        "Basis",
+        "Pofe (ugs.",
+        "Lagerstatt",
+        "Nachtlager"
+      ],
       "antonyms": []
     },
     {
@@ -2577,7 +2846,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lagervielheit",
+        "Lagerzahl",
+        "Lagerkennziffer",
+        "Lagerziffer",
+        "Lagernr."
+      ],
       "antonyms": []
     },
     {
@@ -2605,7 +2880,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Speichertyp"
+      ],
       "antonyms": []
     },
     {
@@ -2641,7 +2918,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Speicherbereich"
+      ],
       "antonyms": []
     },
     {
@@ -2677,7 +2956,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lagerplatz/Zelle"
+      ],
       "antonyms": []
     },
     {
@@ -2705,7 +2986,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Transportmanagement"
+      ],
       "antonyms": []
     },
     {
@@ -2737,7 +3020,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Transferbedarf"
+      ],
       "antonyms": []
     },
     {
@@ -2769,7 +3054,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Überweisungsauftrag"
+      ],
       "antonyms": []
     },
     {
@@ -2805,7 +3092,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zusicherung",
+        "Rückmeldung",
+        "Bestätigung",
+        "Versicherung",
+        "Zusage"
+      ],
       "antonyms": [
         "die Ablehnung"
       ]
@@ -2843,7 +3136,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "bevollmächtigen",
+        "verbürgen",
+        "bestätigen",
+        "zertifizieren",
+        "vidimieren"
+      ],
       "partizip_2": "quittiert",
       "imperative": "quittiere! / quittiert! / quittieren Sie!",
       "conjugations": {
@@ -2878,7 +3177,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bestandsunterschied",
+        "Bestandsabweichung",
+        "Bestandsverschiedenheit"
+      ],
       "antonyms": []
     },
     {
@@ -2906,7 +3209,11 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schnittstellenbankverbindung",
+        "Schnittstellenkontoverbindung",
+        "Schnittstellenbankkonto"
+      ],
       "antonyms": []
     },
     {
@@ -2942,7 +3249,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "physischer Bestand",
+        "tatsächlicher (physischer) Bestand"
+      ],
       "antonyms": [
         "der Buchbestand"
       ]
@@ -2980,7 +3290,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Buchfortbestand",
+        "Buchverbleib",
+        "Buchfortdauer",
+        "Buchbleiben",
+        "Buchverbleiben"
+      ],
       "antonyms": [
         "der physische Bestand"
       ]
@@ -3018,7 +3334,10 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Inventurzählung",
+        "Inventarliste"
+      ],
       "antonyms": []
     },
     {
@@ -3054,7 +3373,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "erzählen"
+      ],
       "antonyms": []
     },
     {
@@ -3090,7 +3411,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "synchronisieren",
+        "wechselseitig austauschen",
+        "angleichen",
+        "vereinheitlichen",
+        "auswuchten"
+      ],
       "partizip_2": "abgegleicht",
       "imperative": "gleiche ab! / gleicht ab! / gleichen Sie ab!",
       "conjugations": {
@@ -3139,7 +3466,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Versöhnung/Vergleich"
+      ],
       "antonyms": [
         "die Abweichung",
         "die Diskrepanz"
@@ -3178,7 +3507,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "einstufen",
+        "kategorisieren",
+        "taxieren",
+        "einschätzen",
+        "schätzen"
+      ],
       "partizip_2": "bewertet",
       "imperative": "bewerte! / bewertet! / bewerten Sie!",
       "conjugations": {
@@ -3217,7 +3552,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bewertungsglückslos",
+        "Bewertungstreffer",
+        "Bewertungsgewinn",
+        "Bewertungssiegespreis",
+        "Bewertungstaxe"
+      ],
       "antonyms": []
     },
     {
@@ -3253,7 +3594,9 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bewertungsmethode"
+      ],
       "antonyms": []
     },
     {
@@ -3281,7 +3624,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "FIFO-Verfahrensweise",
+        "FIFO-Praktik",
+        "FIFO-Verfahren",
+        "FIFO-Arbeitsweise",
+        "FIFO-Vorgehen"
+      ],
       "antonyms": [
         "die LIFO-Methode"
       ]
@@ -3311,7 +3660,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "LIFO-Verfahrensweise",
+        "LIFO-Praktik",
+        "LIFO-Verfahren",
+        "LIFO-Arbeitsweise",
+        "LIFO-Vorgehen"
+      ],
       "antonyms": [
         "die FIFO-Methode"
       ]
@@ -3349,7 +3704,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Akquisitionskosten",
+        "Abschlusskosten",
+        "Gestehungskosten",
+        "Herstellungskosten",
+        "Fertigungskosten"
+      ],
       "antonyms": [
         "die Veräußerungskosten, (nur Pl.)"
       ]
@@ -3387,7 +3748,12 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Gestehungskosten",
+        "Fertigungskosten",
+        "Anschaffungskosten",
+        "Herstellkosten"
+      ],
       "antonyms": [
         "der Verkaufspreis"
       ]
@@ -3417,7 +3783,13 @@
           "source": "help.sap.com"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Periodenschluss",
+        "Periodenausklang",
+        "Periodenabschluss",
+        "Periodenausgang",
+        "Periodenunglück"
+      ],
       "antonyms": [
         "der Periodenanfang",
         "der Periodenbeginn"
@@ -3453,7 +3825,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kontextknoten"
+      ],
       "antonyms": []
     },
     {
@@ -3486,7 +3860,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Controller anzeigen"
+      ],
       "antonyms": []
     },
     {
@@ -3519,7 +3895,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Fit-to-Standard-Weiterbildung",
+        "Fit-to-Standard-Training",
+        "Fit-to-Standard-Seminar",
+        "Fit-to-Standard-Kursus",
+        "Fit-to-Standard-Schulung"
+      ],
       "antonyms": []
     },
     {
@@ -3552,7 +3934,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Anforderungsspezifikation",
+        "Kundenspezifikation",
+        "Produktskizze",
+        "Lastenheft",
+        "Anwenderspezifikation"
+      ],
       "antonyms": []
     },
     {
@@ -3585,7 +3973,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ressourcenflächig",
+        "Ressourcenplanar",
+        "Ressourcenwaagrecht",
+        "Ressourcenwaagerecht",
+        "Ressourcenplatt"
+      ],
       "antonyms": []
     },
     {
@@ -3618,7 +4012,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektplan"
+      ],
       "antonyms": []
     },
     {
@@ -3651,7 +4047,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Pufferspanne",
+        "Pufferzeitrahmen",
+        "Pufferzeit",
+        "Pufferzeitdauer",
+        "Pufferperiode"
+      ],
       "antonyms": []
     },
     {
@@ -3684,7 +4086,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektmäzen",
+        "Projektfinanzier",
+        "Projektgeldgeber",
+        "Projektgönner",
+        "Projektdonator"
+      ],
       "antonyms": []
     },
     {
@@ -3717,7 +4125,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Teilprojektboss",
+        "Teilprojektdienstvorgesetzter",
+        "Teilprojektvorgesetzter",
+        "Teilprojektchef",
+        "Teilprojektdienstherr"
+      ],
       "antonyms": []
     },
     {
@@ -3750,7 +4164,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Modulbetreuer",
+        "Modulmentor",
+        "Modulratgeber",
+        "Modulconsultant",
+        "Modulunternehmensberater"
+      ],
       "antonyms": []
     },
     {
@@ -3783,7 +4203,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Prozessbetreuer",
+        "Prozessmentor",
+        "Prozessratgeber",
+        "Prozessconsultant",
+        "Prozessunternehmensberater"
+      ],
       "antonyms": []
     },
     {
@@ -3816,7 +4242,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Technologiebetreuer",
+        "Technologiementor",
+        "Technologieratgeber",
+        "Technologieconsultant",
+        "Technologieunternehmensberater"
+      ],
       "antonyms": []
     },
     {
@@ -3849,7 +4281,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lösungsbaumeister",
+        "Lösungskonstrukteur",
+        "Lösungserbauer"
+      ],
       "antonyms": []
     },
     {
@@ -3882,7 +4318,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Integrationsleiter",
+        "Integrationslenker",
+        "Integrationsentscheidungsträger",
+        "Integrationsentscheider",
+        "Integrationsführungskraft"
+      ],
       "antonyms": []
     },
     {
@@ -3915,7 +4357,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenmigrationssachkundiger",
+        "Datenmigrationskenner",
+        "Datenmigrationsroutinier",
+        "Datenmigrationskapazität",
+        "Datenmigrationsmeister"
+      ],
       "antonyms": []
     },
     {
@@ -3948,7 +4396,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Testleiter",
+        "Testlenker",
+        "Testentscheidungsträger",
+        "Testentscheider",
+        "Testführungskraft"
+      ],
       "antonyms": []
     },
     {
@@ -3981,7 +4435,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schulungseinsatzkoordinator",
+        "Schulungsdispatcher",
+        "Schulungseinsatzleiter"
+      ],
       "antonyms": []
     },
     {
@@ -4014,7 +4472,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Change-Manager"
+      ],
       "antonyms": []
     },
     {
@@ -4047,7 +4507,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Projektverzögerung"
+      ],
       "antonyms": []
     },
     {
@@ -4080,7 +4542,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tagsatz"
+      ],
       "antonyms": []
     },
     {
@@ -4113,7 +4577,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Produktinhaber"
+      ],
       "antonyms": []
     },
     {
@@ -4179,7 +4645,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Handlungspunkt"
+      ],
       "antonyms": []
     },
     {
@@ -4212,7 +4680,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Vermögensveräußerung"
+      ],
       "antonyms": []
     },
     {
@@ -4245,7 +4715,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Objektzugriff"
+      ],
       "antonyms": []
     },
     {
@@ -4278,7 +4750,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abschreibungslaufschiene",
+        "Abschreibungslaufrad",
+        "Abschreibungsstrom",
+        "Abschreibungsströmung",
+        "Abschreibungswettlaufen"
+      ],
       "antonyms": []
     },
     {
@@ -4311,7 +4789,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Belegnummernbereich"
+      ],
       "antonyms": []
     },
     {
@@ -4344,7 +4824,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Preisgewinn"
+      ],
       "antonyms": []
     },
     {
@@ -4377,7 +4859,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Preisverlust"
+      ],
       "antonyms": []
     },
     {
@@ -4410,7 +4894,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Skonto"
+      ],
       "antonyms": []
     },
     {
@@ -4443,7 +4929,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zahlungsart"
+      ],
       "antonyms": []
     },
     {
@@ -4476,7 +4964,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bankschlüssel"
+      ],
       "antonyms": []
     },
     {
@@ -4509,7 +4999,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Buchungskreiszusammenführung",
+        "Buchungskreise zusammenführen"
+      ],
       "antonyms": []
     },
     {
@@ -4542,7 +5035,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Konzernbilanz",
+        "konsolidierter Abschluss",
+        "konsolidierte Bilanz"
+      ],
       "antonyms": []
     },
     {
@@ -4575,7 +5072,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kostenstellenmitteilung",
+        "Kostenstellennachricht",
+        "Kostenstelleninformationsaustausch",
+        "Kostenstellenbekanntmachung",
+        "Kostenstellenbotschaft"
+      ],
       "antonyms": []
     },
     {
@@ -4608,7 +5111,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Plan-Ist-Vergleich"
+      ],
       "antonyms": []
     },
     {
@@ -4641,7 +5146,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Abrechnungssatz",
+        "Zahlungstarif"
+      ],
       "antonyms": []
     },
     {
@@ -4674,7 +5182,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Rechnungsempfänger"
+      ],
       "antonyms": []
     },
     {
@@ -4707,7 +5217,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Ergebnisrubrik",
+        "Ergebniscluster",
+        "Ergebniskategorie",
+        "Ergebnisfeld",
+        "Ergebniszone"
+      ],
       "antonyms": []
     },
     {
@@ -4740,7 +5256,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Cashflow"
+      ],
       "antonyms": []
     },
     {
@@ -4773,7 +5291,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Infoset"
+      ],
       "antonyms": []
     },
     {
@@ -4806,7 +5326,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kaufinformationsdatensatz"
+      ],
       "antonyms": []
     },
     {
@@ -4839,7 +5361,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verkäufer"
+      ],
       "antonyms": []
     },
     {
@@ -4872,7 +5396,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schuldner"
+      ],
       "antonyms": []
     },
     {
@@ -4905,7 +5431,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Bestellkosten"
+      ],
       "antonyms": []
     },
     {
@@ -4938,7 +5466,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Drei-System-Landschaft"
+      ],
       "antonyms": []
     },
     {
@@ -4971,7 +5501,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Entwicklungsumfeld",
+        "Entwicklungsperipherie",
+        "Entwicklungsmilieu",
+        "Entwicklungsumland",
+        "Entwicklungsvorortgürtel"
+      ],
       "antonyms": []
     },
     {
@@ -5004,7 +5540,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Zuständigkeitsbereich",
+        "Bereich",
+        "Sphäre",
+        "Umfeld",
+        "Einflussbereich"
+      ],
       "antonyms": []
     },
     {
@@ -5037,7 +5579,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenbankaufzählung",
+        "Datenbankverzeichnis",
+        "Datenbankliste",
+        "Datenbankaufstellung",
+        "Datenbankauflistung"
+      ],
       "antonyms": []
     },
     {
@@ -5070,7 +5618,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tabellenkluft",
+        "Tabellenriss",
+        "Tabellenschlitz",
+        "Tabellenspalt",
+        "Tabellenfuge"
+      ],
       "antonyms": []
     },
     {
@@ -5136,7 +5690,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Aufbau",
+        "Konstruktion",
+        "Architektur",
+        "Gerüst",
+        "Geflecht"
+      ],
       "antonyms": []
     },
     {
@@ -5169,7 +5729,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Funktionsband",
+        "Funktionsmusikgruppe",
+        "Funktionsformation",
+        "Funktionskapelle",
+        "Funktionsensemble"
+      ],
       "antonyms": []
     },
     {
@@ -5202,7 +5768,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "phänomenal",
+        "absoluter Wahnsinn",
+        "süperb",
+        "unübertrefflich",
+        "hammergeil (ugs."
+      ],
       "antonyms": []
     },
     {
@@ -5235,7 +5807,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verfahrensweise",
+        "Praktik",
+        "Verfahren",
+        "Arbeitsweise",
+        "Vorgehen"
+      ],
       "antonyms": []
     },
     {
@@ -5268,7 +5846,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Übertragung",
+        "Übergang",
+        "Heredität"
+      ],
       "antonyms": []
     },
     {
@@ -5301,7 +5883,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Heteromorphie",
+        "diskontinuierliche Vielgestaltigkeit",
+        "Polymorphismus"
+      ],
       "antonyms": []
     },
     {
@@ -5334,7 +5920,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verkapselung"
+      ],
       "antonyms": []
     },
     {
@@ -5367,7 +5955,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Syntaxerprobung",
+        "Syntaxprobe",
+        "Syntaxtest",
+        "Syntaxversuch",
+        "Syntaxuntersuchung"
+      ],
       "antonyms": []
     },
     {
@@ -5400,7 +5994,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Transportnotizen",
+        "Transportmitschrift",
+        "Transportskript",
+        "Transportmanuskript",
+        "Transportdokumentierung"
+      ],
       "antonyms": []
     },
     {
@@ -5433,7 +6033,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "IMG-Aktivitäten"
+      ],
       "antonyms": []
     },
     {
@@ -5466,7 +6068,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Erweiterungsgestaltung",
+        "Erweiterungsrealisierung",
+        "Erweiterungseinrichtung",
+        "Erweiterungsdurchführung",
+        "Erweiterungsverwirklichung"
+      ],
       "antonyms": []
     },
     {
@@ -5499,7 +6107,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "CDS-Ansicht",
+        "CDS-Einreichung"
+      ],
       "antonyms": []
     },
     {
@@ -5532,7 +6143,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "AMDP-Phänomenal",
+        "AMDP-Süperb",
+        "AMDP-Unübertrefflich",
+        "AMDP-Erstklassig",
+        "AMDP-Überragend"
+      ],
       "antonyms": []
     },
     {
@@ -5565,7 +6182,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Schnittstellenbegriffsklärung",
+        "Schnittstellenbegriffserklärung",
+        "Schnittstellenbegriffsbestimmung"
+      ],
       "antonyms": []
     },
     {
@@ -5598,7 +6219,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "REST-Anschluss",
+        "REST-Interface",
+        "REST-Verbindung"
+      ],
       "antonyms": []
     },
     {
@@ -5631,7 +6256,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "RFC-Bestimmungsort",
+        "RFC-Ziel",
+        "RFC-Reiseziel"
+      ],
       "antonyms": []
     },
     {
@@ -5664,7 +6293,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Verbindungserprobung",
+        "Verbindungsprobe",
+        "Verbindungstest",
+        "Verbindungsversuch",
+        "Verbindungsuntersuchung"
+      ],
       "antonyms": []
     },
     {
@@ -5697,7 +6332,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenbankrecherche",
+        "Datenbanknachschau",
+        "Datenbanküberprüfung"
+      ],
       "antonyms": []
     },
     {
@@ -5730,7 +6369,11 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Maulkorb",
+        "Informationssperre",
+        "Zensur"
+      ],
       "antonyms": []
     },
     {
@@ -5763,7 +6406,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tischwechsel"
+      ],
       "antonyms": []
     },
     {
@@ -5796,7 +6441,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenviskosität"
+      ],
       "antonyms": []
     },
     {
@@ -5829,7 +6476,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Widerspruch",
+        "Widersprüchlichkeit",
+        "Unstimmigkeit",
+        "Diskrepanz",
+        "Nichtübereinstimmen (geh."
+      ],
       "antonyms": []
     },
     {
@@ -5862,7 +6515,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Tischschloss"
+      ],
       "antonyms": []
     },
     {
@@ -5895,7 +6550,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Arbeitsplatzkontrolle"
+      ],
       "antonyms": []
     },
     {
@@ -5928,7 +6585,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Auftragsplanung",
+        "Arbeitsplanung"
+      ],
       "antonyms": []
     },
     {
@@ -5961,7 +6621,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Druckkontrolle"
+      ],
       "antonyms": []
     },
     {
@@ -5994,7 +6656,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Berechtigungsfigur",
+        "Berechtigungspart",
+        "Berechtigungspartie",
+        "Berechtigungsmöbelrolle",
+        "Berechtigungslaufrolle"
+      ],
       "antonyms": []
     },
     {
@@ -6027,7 +6695,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Sammelfigur",
+        "Sammelpart",
+        "Sammelpartie",
+        "Sammelmöbelrolle",
+        "Sammellaufrolle"
+      ],
       "antonyms": []
     },
     {
@@ -6060,7 +6734,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Einzelfigur",
+        "Einzelpart",
+        "Einzelpartie",
+        "Einzelmöbelrolle",
+        "Einzellaufrolle"
+      ],
       "antonyms": []
     },
     {
@@ -6093,7 +6773,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Benutzerband",
+        "Benutzermusikgruppe",
+        "Benutzerformation",
+        "Benutzerkapelle",
+        "Benutzerensemble"
+      ],
       "antonyms": []
     },
     {
@@ -6126,7 +6812,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Systemmessung"
+      ],
       "antonyms": []
     },
     {
@@ -6159,7 +6847,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Lizenzerprobung",
+        "Lizenzprobe",
+        "Lizenztest",
+        "Lizenzversuch",
+        "Lizenzuntersuchung"
+      ],
       "antonyms": []
     },
     {
@@ -6192,7 +6886,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Systemfotokopie",
+        "Systemxerokopie",
+        "Systemexemplar",
+        "Systemvertreter",
+        "Systemvervielfältigungsstück"
+      ],
       "antonyms": []
     },
     {
@@ -6225,7 +6925,9 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Kundenkopie"
+      ],
       "antonyms": []
     },
     {
@@ -6258,7 +6960,13 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Datenbankaufbau",
+        "Datenbankkonstruktion",
+        "Datenbankstruktur",
+        "Datenbankgerüst",
+        "Datenbankarchitekturstil"
+      ],
       "antonyms": []
     },
     {
@@ -6291,7 +6999,10 @@
           "source": "YouGlish"
         }
       ],
-      "synonyms": [],
+      "synonyms": [
+        "Hauptspeicherdatensammlung",
+        "Hauptspeicherdatenbanksystem"
+      ],
       "antonyms": []
     }
   ]
